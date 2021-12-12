@@ -1,0 +1,915 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Haldeman-KY,1840030752,Haldeman,Haldeman,KY,Haldeman-KY,Kentucky,21205,Rowan,38.2529,-83.3185,,,65.1,point,FALSE,America/New_York,40351
+Glenview Manor-KY,1840030456,Glenview Manor,Glenview Manor,KY,Glenview Manor-KY,Kentucky,21111,Jefferson,38.2907,-85.6333,194,194,873,polygon,TRUE,America/New_York,40222
+Avawam-KY,1840030732,Avawam,Avawam,KY,Avawam-KY,Kentucky,21193,Perry,37.2245,-83.2752,,,71.5,point,FALSE,America/New_York,41701
+Cloverport-KY,1840014327,Cloverport,Cloverport,KY,Cloverport-KY,Kentucky,21027,Breckinridge,37.8312,-86.6304,1155,1155,304,polygon,TRUE,America/Chicago,40111
+Lynn Grove-KY,1840030505,Lynn Grove,Lynn Grove,KY,Lynn Grove-KY,Kentucky,21035,Calloway,36.5892,-88.4381,,,37.9,point,FALSE,America/Chicago,42071
+Dundee-KY,1840030434,Dundee,Dundee,KY,Dundee-KY,Kentucky,21183,Ohio,37.5589,-86.7728,,,46.5,point,FALSE,America/Chicago,42347
+Wayland-KY,1840015232,Wayland,Wayland,KY,Wayland-KY,Kentucky,21071,Floyd,37.451,-82.7994,401,401,59,polygon,TRUE,America/New_York,41666
+Salt Lick-KY,1840015207,Salt Lick,Salt Lick,KY,Salt Lick-KY,Kentucky,21011,Bath,38.1193,-83.6156,324,324,160,polygon,TRUE,America/New_York,40371
+Crestwood-KY,1840014284,Crestwood,Crestwood,KY,Crestwood-KY,Kentucky,21185,Oldham,38.3355,-85.4839,4910,4910,471,polygon,TRUE,America/New_York,40014
+Pride-KY,1840030561,Pride,Pride,KY,Pride-KY,Kentucky,21225,Union,37.5584,-87.8909,,,14.2,point,FALSE,America/Chicago,42404
+Newtown-KY,1840030541,Newtown,Newtown,KY,Newtown-KY,Kentucky,21209,Scott,38.2204,-84.4699,,,114.9,point,FALSE,America/New_York,40324
+Corbin-KY,1840014405,Corbin,Corbin,KY,Corbin-KY,Kentucky,21235,Whitley,36.9321,-84.1004,7398,7398,362,polygon,TRUE,America/New_York,40701 40702
+Dawson Springs-KY,1840014367,Dawson Springs,Dawson Springs,KY,Dawson Springs-KY,Kentucky,21107,Hopkins,37.1737,-87.6885,2719,2719,284,polygon,TRUE,America/Chicago,42408
+Lakeside Park-KY,1840014269,Lakeside Park,Lakeside Park,KY,Lakeside Park-KY,Kentucky,21117,Kenton,39.0338,-84.5675,2770,2770,1369,polygon,TRUE,America/New_York,41017
+Science Hill-KY,1840015256,Science Hill,Science Hill,KY,Science Hill-KY,Kentucky,21199,Pulaski,37.1745,-84.6329,697,697,358,polygon,TRUE,America/New_York,42553
+White Tower-KY,1840030789,White Tower,White Tower,KY,White Tower-KY,Kentucky,21117,Kenton,38.9251,-84.5133,,,321.3,point,FALSE,America/New_York,41051
+Falmouth-KY,1840013173,Falmouth,Falmouth,KY,Falmouth-KY,Kentucky,21191,Pendleton,38.6708,-84.3311,2139,2139,609,polygon,TRUE,America/New_York,41040
+Allen City-KY,1840030361,Allen City,Allen City,KY,Allen City-KY,Kentucky,21071,Floyd,37.6119,-82.7291,182,182,393,polygon,TRUE,America/New_York,41601
+Weir-KY,1840030609,Weir,Weir,KY,Weir-KY,Kentucky,21177,Muhlenberg,37.1231,-87.2125,,,13.2,point,FALSE,America/Chicago,42345
+Tompkinsville-KY,1840015272,Tompkinsville,Tompkinsville,KY,Tompkinsville-KY,Kentucky,21171,Monroe,36.7012,-85.6927,2273,2273,267,polygon,TRUE,America/Chicago,42167
+Union-KY,1840015166,Union,Union,KY,Union-KY,Kentucky,21015,Boone,38.9472,-84.6731,5807,5807,672,polygon,TRUE,America/New_York,41091
+Kingsley-KY,1840014312,Kingsley,Kingsley,KY,Kingsley-KY,Kentucky,21111,Jefferson,38.2219,-85.6726,398,398,2126,polygon,TRUE,America/New_York,40205
+Argo-KY,1840030367,Argo,Argo,KY,Argo-KY,Kentucky,21195,Pike,37.4807,-82.0632,,,15.7,point,FALSE,America/New_York,41568
+Muldraugh-KY,1840014317,Muldraugh,Muldraugh,KY,Muldraugh-KY,Kentucky,21163,Meade,37.9366,-85.9915,987,987,729,polygon,TRUE,America/New_York,40155
+Jeffersontown-KY,1840014311,Jeffersontown,Jeffersontown,KY,Jeffersontown-KY,Kentucky,21111,Jefferson,38.2054,-85.5702,27352,27352,1059,polygon,TRUE,America/New_York,40299 40220 40223
+Talbert-KY,1840030776,Talbert,Talbert,KY,Talbert-KY,Kentucky,21025,Breathitt,37.4215,-83.4585,,,30.8,point,FALSE,America/New_York,41339
+Taylor Mill-KY,1840015175,Taylor Mill,Taylor Mill,KY,Taylor Mill-KY,Kentucky,21117,Kenton,39.0092,-84.4987,6756,6756,427,polygon,TRUE,America/New_York,41015
+Cumberland City-KY,1840030424,Cumberland City,Cumberland City,KY,Cumberland City-KY,Kentucky,21053,Clinton,36.8051,-85.0683,,,29,point,FALSE,America/Chicago,42602
+Moon-KY,1840030694,Moon,Moon,KY,Moon-KY,Kentucky,21175,Morgan,37.9734,-83.0488,,,11.9,point,FALSE,America/New_York,41472
+Leatherwood-KY,1840030762,Leatherwood,Leatherwood,KY,Leatherwood-KY,Kentucky,21193,Perry,37.0329,-83.1724,,,6.5,point,FALSE,America/New_York,41763
+Radcliff-KY,1840014329,Radcliff,Radcliff,KY,Radcliff-KY,Kentucky,21093,Hardin,37.8193,-85.9358,22490,22490,669,polygon,TRUE,America/New_York,40160 42701 40159
+South Wallins-KY,1840013278,South Wallins,South Wallins,KY,South Wallins-KY,Kentucky,21095,Harlan,36.8155,-83.4045,,,202.1,polygon,FALSE,America/New_York,40873
+Meadow Vale-KY,1840030803,Meadow Vale,Meadow Vale,KY,Meadow Vale-KY,Kentucky,21111,Jefferson,38.2831,-85.5727,760,760,1512,polygon,TRUE,America/New_York,40242 40241
+Wallins Creek-KY,1840015266,Wallins Creek,Wallins Creek,KY,Wallins Creek-KY,Kentucky,21095,Harlan,36.8274,-83.4148,146,146,179,polygon,TRUE,America/New_York,40873
+Cawood-KY,1840026895,Cawood,Cawood,KY,Cawood-KY,Kentucky,21095,Harlan,36.7878,-83.2284,,,285.3,polygon,FALSE,America/New_York,40815
+Lynnville-KY,1840030506,Lynnville,Lynnville,KY,Lynnville-KY,Kentucky,21083,Graves,36.5603,-88.5692,,,13.5,point,FALSE,America/Chicago,42079
+Wildwood-KY,1840015201,Wildwood,Wildwood,KY,Wildwood-KY,Kentucky,21111,Jefferson,38.249,-85.5747,273,273,1417,polygon,TRUE,America/New_York,40223
+Westbend-KY,1840030611,Westbend,Westbend,KY,Westbend-KY,Kentucky,21197,Powell,37.9059,-83.9691,,,36.3,point,FALSE,America/New_York,40312
+Burnside-KY,1840013254,Burnside,Burnside,KY,Burnside-KY,Kentucky,21199,Pulaski,37.0042,-84.649,900,900,91,polygon,TRUE,America/New_York,42503 42519 42518 42544
+Chaplin-KY,1840026801,Chaplin,Chaplin,KY,Chaplin-KY,Kentucky,21179,Nelson,37.8996,-85.2196,,,266.9,polygon,FALSE,America/New_York,40008 40012
+Ulysses-KY,1840030725,Ulysses,Ulysses,KY,Ulysses-KY,Kentucky,21127,Lawrence,37.9459,-82.6735,,,6.4,point,FALSE,America/New_York,41264
+Lisman-KY,1840030502,Lisman,Lisman,KY,Lisman-KY,Kentucky,21233,Webster,37.4662,-87.7342,,,8.4,point,FALSE,America/Chicago,42404
+Paw Paw-KY,1840030551,Paw Paw,Paw Paw,KY,Paw Paw-KY,Kentucky,21195,Pike,37.4376,-82.1107,,,43.9,point,FALSE,America/New_York,41553
+Helton-KY,1840030754,Helton,Helton,KY,Helton-KY,Kentucky,21131,Leslie,36.954,-83.3907,,,12.6,point,FALSE,America/New_York,40810
+Edmonton-KY,1840013266,Edmonton,Edmonton,KY,Edmonton-KY,Kentucky,21169,Metcalfe,36.9841,-85.6187,1585,1585,181,polygon,TRUE,America/Chicago,42129
+Beaumont-KY,1840030378,Beaumont,Beaumont,KY,Beaumont-KY,Kentucky,21169,Metcalfe,36.8756,-85.6519,,,26.8,point,FALSE,America/Chicago,42129
+Colfax-KY,1840030739,Colfax,Colfax,KY,Colfax-KY,Kentucky,21069,Fleming,38.2126,-83.6341,,,13.2,point,FALSE,America/New_York,41049
+Kirkmansville-KY,1840030487,Kirkmansville,Kirkmansville,KY,Kirkmansville-KY,Kentucky,21219,Todd,37.01,-87.2425,,,58.1,point,FALSE,America/Chicago,42220
+Millstone-KY,1840026874,Millstone,Millstone,KY,Millstone-KY,Kentucky,21133,Letcher,37.1638,-82.7493,,,94.6,polygon,FALSE,America/New_York,41838
+Sonora-KY,1840015217,Sonora,Sonora,KY,Sonora-KY,Kentucky,21093,Hardin,37.5319,-85.8947,507,507,144,polygon,TRUE,America/New_York,42776
+Briarwood-KY,1840030393,Briarwood,Briarwood,KY,Briarwood-KY,Kentucky,21111,Jefferson,38.278,-85.5926,444,444,1799,polygon,TRUE,America/New_York,40242
+Kevil-KY,1840014386,Kevil,Kevil,KY,Kevil-KY,Kentucky,21007,Ballard,37.0846,-88.8827,605,605,339,polygon,TRUE,America/Chicago,42053
+Sunrise-KY,1840030594,Sunrise,Sunrise,KY,Sunrise-KY,Kentucky,21097,Harrison,38.5426,-84.2366,,,16.8,point,FALSE,America/New_York,41003
+Hobson-KY,1840030475,Hobson,Hobson,KY,Hobson-KY,Kentucky,21217,Taylor,37.4256,-85.3689,,,20.3,point,FALSE,America/New_York,42718
+Turkey-KY,1840030779,Turkey,Turkey,KY,Turkey-KY,Kentucky,21025,Breathitt,37.4793,-83.5077,,,4.4,point,FALSE,America/New_York,41314
+Blue Ridge Manor-KY,1840013209,Blue Ridge Manor,Blue Ridge Manor,KY,Blue Ridge Manor-KY,Kentucky,21111,Jefferson,38.2434,-85.5647,772,772,1606,polygon,TRUE,America/New_York,40223
+Grassy Creek-KY,1840030665,Grassy Creek,Grassy Creek,KY,Grassy Creek-KY,Kentucky,21175,Morgan,37.867,-83.3452,,,4.5,point,FALSE,America/New_York,41472
+Flaherty-KY,1840030445,Flaherty,Flaherty,KY,Flaherty-KY,Kentucky,21163,Meade,37.8365,-86.0655,,,133.7,point,FALSE,America/New_York,40175
+Winchester-KY,1840015216,Winchester,Winchester,KY,Winchester-KY,Kentucky,21049,Clark,38.0014,-84.1908,25961,18461,787,polygon,TRUE,America/New_York,40391 40392
+Valeria-KY,1840030780,Valeria,Valeria,KY,Valeria-KY,Kentucky,21237,Wolfe,37.8301,-83.5166,,,19.4,point,FALSE,America/New_York,41301
+Hodgenville-KY,1840014351,Hodgenville,Hodgenville,KY,Hodgenville-KY,Kentucky,21123,Larue,37.5668,-85.7353,3434,3226,591,polygon,TRUE,America/New_York,42748
+Bowling Green-KY,1840013265,Bowling Green,Bowling Green,KY,Bowling Green-KY,Kentucky,21227,Warren,36.9725,-86.4371,87976,65234,656,polygon,TRUE,America/Chicago,42104 42102 42103 42101
+Moorland-KY,1840014296,Moorland,Moorland,KY,Moorland-KY,Kentucky,21111,Jefferson,38.2728,-85.58,447,447,1838,polygon,TRUE,America/New_York,40242 40223
+Paint Lick-KY,1840030549,Paint Lick,Paint Lick,KY,Paint Lick-KY,Kentucky,21079,Garrard,37.6167,-84.4094,,,36.6,point,FALSE,America/New_York,40461
+Fonde-KY,1840030447,Fonde,Fonde,KY,Fonde-KY,Kentucky,21013,Bell,36.5942,-83.8774,,,30.1,point,FALSE,America/New_York,40940
+Burlington-KY,1840013160,Burlington,Burlington,KY,Burlington-KY,Kentucky,21015,Boone,39.0223,-84.7216,,,1033.5,polygon,FALSE,America/New_York,41005
+Flat Lick-KY,1840026894,Flat Lick,Flat Lick,KY,Flat Lick-KY,Kentucky,21121,Knox,36.8353,-83.7598,,,277.5,polygon,FALSE,America/New_York,40935
+Webbville-KY,1840030608,Webbville,Webbville,KY,Webbville-KY,Kentucky,21127,Lawrence,38.1795,-82.8713,,,10.2,point,FALSE,America/New_York,41180
+Somerset-KY,1840015257,Somerset,Somerset,KY,Somerset-KY,Kentucky,21199,Pulaski,37.0815,-84.6089,29799,11487,389,polygon,TRUE,America/New_York,42503 42501 42533 42502
+Mannington-KY,1840030508,Mannington,Mannington,KY,Mannington-KY,Kentucky,21047,Christian,37.12,-87.4875,,,22,point,FALSE,America/Chicago,42217
+Worthville-KY,1840015183,Worthville,Worthville,KY,Worthville-KY,Kentucky,21041,Carroll,38.6098,-85.0681,183,183,276,polygon,TRUE,America/New_York,41098
+Hollyvilla-KY,1840014307,Hollyvilla,Hollyvilla,KY,Hollyvilla-KY,Kentucky,21111,Jefferson,38.0929,-85.7467,556,556,629,polygon,TRUE,America/New_York,40118
+Brooksville-KY,1840013178,Brooksville,Brooksville,KY,Brooksville-KY,Kentucky,21023,Bracken,38.6818,-84.0666,643,643,526,polygon,TRUE,America/New_York,41004
+Sherman-KY,1840030581,Sherman,Sherman,KY,Sherman-KY,Kentucky,21081,Grant,38.7326,-84.5966,,,168.2,point,FALSE,America/New_York,41035
+Drip Rock-KY,1840030742,Drip Rock,Drip Rock,KY,Drip Rock-KY,Kentucky,21109,Jackson,37.5751,-83.9735,,,42.3,point,FALSE,America/New_York,40447
+Chilton-KY,1840030646,Chilton,Chilton,KY,Chilton-KY,Kentucky,21045,Casey,37.4551,-84.9875,,,2.4,point,FALSE,America/New_York,40437
+Pryorsburg-KY,1840026920,Pryorsburg,Pryorsburg,KY,Pryorsburg-KY,Kentucky,21083,Graves,36.6899,-88.7123,,,166.9,polygon,FALSE,America/Chicago,42066
+Reed-KY,1840030563,Reed,Reed,KY,Reed-KY,Kentucky,21101,Henderson,37.8512,-87.3542,,,42.6,point,FALSE,America/Chicago,42451
+Ferguson-KY,1840013253,Ferguson,Ferguson,KY,Ferguson-KY,Kentucky,21199,Pulaski,37.0629,-84.5921,941,941,173,polygon,TRUE,America/New_York,42501 42533
+Wilder-KY,1840015171,Wilder,Wilder,KY,Wilder-KY,Kentucky,21037,Campbell,39.0401,-84.4815,3071,3071,323,polygon,TRUE,America/New_York,41071 41076
+Silverhill-KY,1840030713,Silverhill,Silverhill,KY,Silverhill-KY,Kentucky,21175,Morgan,37.8823,-83.0491,,,8.9,point,FALSE,America/New_York,41472
+Niagara-KY,1840030698,Niagara,Niagara,KY,Niagara-KY,Kentucky,21101,Henderson,37.7209,-87.4864,,,32.7,point,FALSE,America/Chicago,42452
+Galveston-KY,1840030451,Galveston,Galveston,KY,Galveston-KY,Kentucky,21071,Floyd,37.4401,-82.6288,,,59.4,point,FALSE,America/New_York,41635
+Barlow-KY,1840013260,Barlow,Barlow,KY,Barlow-KY,Kentucky,21007,Ballard,37.0512,-89.0444,659,659,462,polygon,TRUE,America/Chicago,42024
+Old Brownsboro Place-KY,1840030805,Old Brownsboro Place,Old Brownsboro Place,KY,Old Brownsboro Place-KY,Kentucky,21111,Jefferson,38.2892,-85.6132,366,366,1069,polygon,TRUE,America/New_York,40242
+Rush-KY,1840030572,Rush,Rush,KY,Rush-KY,Kentucky,21019,Boyd,38.3354,-82.7816,,,58.2,point,FALSE,America/New_York,41168
+Cunningham-KY,1840030425,Cunningham,Cunningham,KY,Cunningham-KY,Kentucky,21039,Carlisle,36.9081,-88.8869,,,33.8,polygon,FALSE,America/Chicago,42035
+Cane Valley-KY,1840030400,Cane Valley,Cane Valley,KY,Cane Valley-KY,Kentucky,21001,Adair,37.1803,-85.3197,,,71.8,point,FALSE,America/Chicago,42728
+Canmer-KY,1840030401,Canmer,Canmer,KY,Canmer-KY,Kentucky,21099,Hart,37.2903,-85.7672,,,50.3,point,FALSE,America/Chicago,42765
+Calvary-KY,1840030638,Calvary,Calvary,KY,Calvary-KY,Kentucky,21155,Marion,37.5156,-85.2625,,,32,point,FALSE,America/New_York,40033
+Windy Hills-KY,1840015202,Windy Hills,Windy Hills,KY,Windy Hills-KY,Kentucky,21111,Jefferson,38.2702,-85.6378,2470,2470,1036,polygon,TRUE,America/New_York,40207
+Berry-KY,1840013189,Berry,Berry,KY,Berry-KY,Kentucky,21097,Harrison,38.5205,-84.3836,261,261,395,polygon,TRUE,America/New_York,41003
+Cerulean-KY,1840026901,Cerulean,Cerulean,KY,Cerulean-KY,Kentucky,21221,Trigg,36.9551,-87.709,,,83.9,polygon,FALSE,America/Chicago,42215
+Columbia-KY,1840014384,Columbia,Columbia,KY,Columbia-KY,Kentucky,21001,Adair,37.1036,-85.3074,5023,4885,389,polygon,TRUE,America/Chicago,42728
+Oak Level-KY,1840030543,Oak Level,Oak Level,KY,Oak Level-KY,Kentucky,21157,Marshall,36.867,-88.4656,,,23.6,point,FALSE,America/Chicago,42025
+Ligon-KY,1840030682,Ligon,Ligon,KY,Ligon-KY,Kentucky,21071,Floyd,37.3704,-82.6727,,,25.4,point,FALSE,America/New_York,41604
+Buckner-KY,1840013192,Buckner,Buckner,KY,Buckner-KY,Kentucky,21185,Oldham,38.3867,-85.4503,,,367.4,polygon,FALSE,America/New_York,40031 40010 40014
+Verona-KY,1840026683,Verona,Verona,KY,Verona-KY,Kentucky,21015,Boone,38.8122,-84.6649,,,100.9,polygon,FALSE,America/New_York,41092
+Cedarville-KY,1840030792,Cedarville,Cedarville,KY,Cedarville-KY,Kentucky,21195,Pike,37.3254,-82.3274,,,15.4,point,TRUE,America/New_York,41522
+Beaver Dam-KY,1840013232,Beaver Dam,Beaver Dam,KY,Beaver Dam-KY,Kentucky,21183,Ohio,37.4044,-86.8742,6764,3648,466,polygon,TRUE,America/Chicago,42320
+Stringtown-KY,1840030591,Stringtown,Stringtown,KY,Stringtown-KY,Kentucky,21015,Boone,39.0812,-84.6461,,,33.2,point,FALSE,America/New_York,41048
+Fort Thomas-KY,1840013163,Fort Thomas,Fort Thomas,KY,Fort Thomas-KY,Kentucky,21037,Campbell,39.0802,-84.4518,16445,16445,1119,polygon,TRUE,America/New_York,41075
+Eddyville-KY,1840013267,Eddyville,Eddyville,KY,Eddyville-KY,Kentucky,21143,Lyon,37.0759,-88.0769,2572,2572,143,polygon,TRUE,America/Chicago,42038
+Athertonville-KY,1840030370,Athertonville,Athertonville,KY,Athertonville-KY,Kentucky,21123,Larue,37.6356,-85.6041,,,41.4,point,FALSE,America/New_York,42748
+Mackville-KY,1840015224,Mackville,Mackville,KY,Mackville-KY,Kentucky,21229,Washington,37.7355,-85.0701,227,227,216,polygon,TRUE,America/New_York,40069 40040
+Wheatley-KY,1840030613,Wheatley,Wheatley,KY,Wheatley-KY,Kentucky,21187,Owen,38.6134,-84.9769,,,7.7,point,FALSE,America/New_York,41098
+Grayson-KY,1840013196,Grayson,Grayson,KY,Grayson-KY,Kentucky,21043,Carter,38.3318,-82.9371,5479,4043,559,polygon,TRUE,America/New_York,41143
+Greendale-KY,1840030666,Greendale,Greendale,KY,Greendale-KY,Kentucky,21067,Fayette,38.1059,-84.5255,,,1089.9,point,FALSE,America/New_York,40511
+Kenton Vale-KY,1840014268,Kenton Vale,Kenton Vale,KY,Kenton Vale-KY,Kentucky,21117,Kenton,39.0514,-84.5198,112,112,833,polygon,TRUE,America/New_York,41015
+Dan-KY,1840030790,Dan,Dan,KY,Dan-KY,Kentucky,21165,Menifee,37.9554,-83.4596,,,34,point,FALSE,America/New_York,40387
+North Middletown-KY,1840014314,North Middletown,North Middletown,KY,North Middletown-KY,Kentucky,21017,Bourbon,38.1425,-84.1101,646,646,749,polygon,TRUE,America/New_York,40361 40357
+Dexter-KY,1840026924,Dexter,Dexter,KY,Dexter-KY,Kentucky,21035,Calloway,36.7396,-88.2956,,,118.4,polygon,FALSE,America/Chicago,42036 42020
+Mortons Gap-KY,1840014368,Mortons Gap,Mortons Gap,KY,Mortons Gap-KY,Kentucky,21107,Hopkins,37.2399,-87.4674,846,846,280,polygon,TRUE,America/Chicago,42442 42440 42431
+Pendleton-KY,1840030703,Pendleton,Pendleton,KY,Pendleton-KY,Kentucky,21103,Henry,38.4623,-85.3036,,,87.9,point,FALSE,America/New_York,40055
+Magnolia-KY,1840026825,Magnolia,Magnolia,KY,Magnolia-KY,Kentucky,21123,Larue,37.4502,-85.74,,,192.8,polygon,FALSE,America/Chicago,42757
+Glenview Hills-KY,1840030791,Glenview Hills,Glenview Hills,KY,Glenview Hills-KY,Kentucky,21111,Jefferson,38.2951,-85.6382,332,332,1017,polygon,TRUE,America/New_York,40222
+Richmond-KY,1840014341,Richmond,Richmond,KY,Richmond-KY,Kentucky,21151,Madison,37.724,-84.2928,39267,34652,585,polygon,TRUE,America/New_York,40475 40476
+Providence-KY,1840014361,Providence,Providence,KY,Providence-KY,Kentucky,21233,Webster,37.3993,-87.7509,3102,3102,198,polygon,TRUE,America/Chicago,42450
+Louisville-KY,1840030815,Louisville,Louisville,KY,Louisville-KY,Kentucky,21111,Jefferson,38.1662,-85.6488,1003412,616261,902,polygon,TRUE,America/New_York,40177 40245 40241 40218 40219 40214 40216 40211 40213 40059 40291 40299 40220 40223 40222 40229 40228 40023 40272 40207 40209 40258 40118 40018 40027
+Shopville-KY,1840030773,Shopville,Shopville,KY,Shopville-KY,Kentucky,21199,Pulaski,37.1587,-84.4799,,,41,point,FALSE,America/New_York,42503
+Heritage Creek-KY,1840014305,Heritage Creek,Heritage Creek,KY,Heritage Creek-KY,Kentucky,21111,Jefferson,38.0952,-85.6125,1124,1124,961,polygon,TRUE,America/New_York,40229
+Cumberland-KY,1840014403,Cumberland,Cumberland,KY,Cumberland-KY,Kentucky,21095,Harlan,36.9824,-82.9919,3415,2059,255,polygon,TRUE,America/New_York,40823
+Sanders-KY,1840015182,Sanders,Sanders,KY,Sanders-KY,Kentucky,21041,Carroll,38.6549,-84.9466,236,236,310,polygon,TRUE,America/New_York,41083
+Columbus-KY,1840014409,Columbus,Columbus,KY,Columbus-KY,Kentucky,21105,Hickman,36.7596,-89.102,160,160,194,polygon,TRUE,America/Chicago,42032 42031
+Spottsville-KY,1840026803,Spottsville,Spottsville,KY,Spottsville-KY,Kentucky,21101,Henderson,37.8564,-87.4167,,,193.6,polygon,FALSE,America/Chicago,42458
+Walton-KY,1840015167,Walton,Walton,KY,Walton-KY,Kentucky,21015,Boone,38.8646,-84.6121,3927,3927,322,polygon,TRUE,America/New_York,41094
+Middletown-KY,1840014295,Middletown,Middletown,KY,Middletown-KY,Kentucky,21111,Jefferson,38.241,-85.5215,7845,7845,589,polygon,TRUE,America/New_York,40243 40299 40223
+Ensor-KY,1840030438,Ensor,Ensor,KY,Ensor-KY,Kentucky,21059,Daviess,37.7892,-86.9805,,,45.7,point,FALSE,America/Chicago,42303
+Guthrie-KY,1840013273,Guthrie,Guthrie,KY,Guthrie-KY,Kentucky,21219,Todd,36.6484,-87.1738,1407,1407,320,polygon,TRUE,America/Chicago,42234
+Sitka-KY,1840030714,Sitka,Sitka,KY,Sitka-KY,Kentucky,21115,Johnson,37.8806,-82.8382,,,60.3,point,FALSE,America/New_York,41255
+Fritz-KY,1840030661,Fritz,Fritz,KY,Fritz-KY,Kentucky,21153,Magoffin,37.7015,-83.1516,,,12.2,point,FALSE,America/New_York,41465
+Daysville-KY,1840030428,Daysville,Daysville,KY,Daysville-KY,Kentucky,21219,Todd,36.8023,-87.0669,,,21.7,point,FALSE,America/Chicago,42265
+Irvine-KY,1840014344,Irvine,Irvine,KY,Irvine-KY,Kentucky,21065,Estill,37.6969,-83.9685,3093,2398,666,polygon,TRUE,America/New_York,40336
+Junction City-KY,1840014356,Junction City,Junction City,KY,Junction City-KY,Kentucky,21021,Boyle,37.5855,-84.7903,2299,2299,471,polygon,TRUE,America/New_York,40422 40440
+Tilden-KY,1840030598,Tilden,Tilden,KY,Tilden-KY,Kentucky,21233,Webster,37.6042,-87.7103,,,8.6,point,FALSE,America/Chicago,42409
+Kenvir-KY,1840026897,Kenvir,Kenvir,KY,Kenvir-KY,Kentucky,21095,Harlan,36.8531,-83.1538,,,211.8,polygon,FALSE,America/New_York,40828 40847
+Gasper-KY,1840030453,Gasper,Gasper,KY,Gasper-KY,Kentucky,21141,Logan,36.95,-86.7419,,,8,point,FALSE,America/Chicago,42206
+Glencoe-KY,1840013175,Glencoe,Glencoe,KY,Glencoe-KY,Kentucky,21077,Gallatin,38.7252,-84.8239,358,358,78,polygon,TRUE,America/New_York,41046
+Spring Mill-KY,1840030807,Spring Mill,Spring Mill,KY,Spring Mill-KY,Kentucky,21111,Jefferson,38.1436,-85.6315,301,301,2096,polygon,TRUE,America/New_York,40228
+Hopkinsville-KY,1840014399,Hopkinsville,Hopkinsville,KY,Hopkinsville-KY,Kentucky,21047,Christian,36.8388,-87.4789,32733,31811,394,polygon,TRUE,America/Chicago,42240 42241
+Smiths Grove-KY,1840015261,Smiths Grove,Smiths Grove,KY,Smiths Grove-KY,Kentucky,21227,Warren,37.0503,-86.2083,770,770,381,polygon,TRUE,America/Chicago,42171
+Olmstead-KY,1840030546,Olmstead,Olmstead,KY,Olmstead-KY,Kentucky,21141,Logan,36.7523,-87.015,,,26.7,point,FALSE,America/Chicago,42265
+Hopeful Heights-KY,1840030476,Hopeful Heights,Hopeful Heights,KY,Hopeful Heights-KY,Kentucky,21015,Boone,39.0012,-84.6577,,,99.2,point,FALSE,America/New_York,41042
+Emerson-KY,1840030744,Emerson,Emerson,KY,Emerson-KY,Kentucky,21135,Lewis,38.354,-83.2524,,,11,point,FALSE,America/New_York,41179
+West Liberty-KY,1840015215,West Liberty,West Liberty,KY,West Liberty-KY,Kentucky,21175,Morgan,37.9161,-83.2668,3375,3375,265,polygon,TRUE,America/New_York,41472
+Colson-KY,1840030648,Colson,Colson,KY,Colson-KY,Kentucky,21133,Letcher,37.224,-82.8563,,,63.5,point,FALSE,America/New_York,41858
+Freeburn-KY,1840026821,Freeburn,Freeburn,KY,Freeburn-KY,Kentucky,21195,Pike,37.5619,-82.1514,,,128.4,polygon,FALSE,America/New_York,41528
+Goose Creek-KY,1840013204,Goose Creek,Goose Creek,KY,Goose Creek-KY,Kentucky,21111,Jefferson,38.2934,-85.5906,308,308,1923,polygon,TRUE,America/New_York,40242
+Wilmore-KY,1840015220,Wilmore,Wilmore,KY,Wilmore-KY,Kentucky,21113,Jessamine,37.8787,-84.6545,9432,6312,600,polygon,TRUE,America/New_York,40356 40390
+Coldstream-KY,1840030795,Coldstream,Coldstream,KY,Coldstream-KY,Kentucky,21111,Jefferson,38.3144,-85.5264,1157,1157,2031,polygon,TRUE,America/New_York,40245
+Monterey-KY,1840014277,Monterey,Monterey,KY,Monterey-KY,Kentucky,21187,Owen,38.4233,-84.8728,135,135,202,polygon,TRUE,America/New_York,40359
+Valley View-KY,1840030602,Valley View,Valley View,KY,Valley View-KY,Kentucky,21151,Madison,37.8462,-84.4305,,,80.1,point,FALSE,America/New_York,40475
+Fredonia-KY,1840013251,Fredonia,Fredonia,KY,Fredonia-KY,Kentucky,21033,Caldwell,37.2085,-88.0604,389,389,241,polygon,TRUE,America/Chicago,42411
+Betsy Layne-KY,1840026819,Betsy Layne,Betsy Layne,KY,Betsy Layne-KY,Kentucky,21071,Floyd,37.5541,-82.6262,,,241.6,polygon,FALSE,America/New_York,41605 41635
+Sprout-KY,1840030718,Sprout,Sprout,KY,Sprout-KY,Kentucky,21181,Nicholas,38.302,-83.8866,,,16.1,point,FALSE,America/New_York,40350
+Lebanon-KY,1840014353,Lebanon,Lebanon,KY,Lebanon-KY,Kentucky,21155,Marion,37.5685,-85.258,5746,5638,409,polygon,TRUE,America/New_York,40033
+Thousandsticks-KY,1840030777,Thousandsticks,Thousandsticks,KY,Thousandsticks-KY,Kentucky,21131,Leslie,37.1851,-83.4288,,,10.3,point,FALSE,America/New_York,41749
+Petersville-KY,1840030769,Petersville,Petersville,KY,Petersville-KY,Kentucky,21135,Lewis,38.4442,-83.4905,,,9.9,point,FALSE,America/New_York,41093
+Dingus-KY,1840030654,Dingus,Dingus,KY,Dingus-KY,Kentucky,21175,Morgan,37.9081,-83.1021,,,12.6,point,FALSE,America/New_York,41472
+Brodhead-KY,1840013241,Brodhead,Brodhead,KY,Brodhead-KY,Kentucky,21203,Rockcastle,37.4027,-84.4144,1198,1198,265,polygon,TRUE,America/New_York,40409
+Wonnie-KY,1840030729,Wonnie,Wonnie,KY,Wonnie-KY,Kentucky,21153,Magoffin,37.8093,-83.1541,,,23.3,point,FALSE,America/New_York,41465
+Nevada-KY,1840030539,Nevada,Nevada,KY,Nevada-KY,Kentucky,21167,Mercer,37.6965,-84.9097,,,28.9,point,FALSE,America/New_York,40330
+Mortonsville-KY,1840030531,Mortonsville,Mortonsville,KY,Mortonsville-KY,Kentucky,21239,Woodford,37.972,-84.7563,,,60.1,point,FALSE,America/New_York,40383
+Mount Hermon-KY,1840030534,Mount Hermon,Mount Hermon,KY,Mount Hermon-KY,Kentucky,21171,Monroe,36.8067,-85.8208,,,14,point,FALSE,America/Chicago,42157
+Hill Top-KY,1840030473,Hill Top,Hill Top,KY,Hill Top-KY,Kentucky,21069,Fleming,38.3604,-83.8391,,,6.8,point,FALSE,America/New_York,41041
+Livermore-KY,1840015237,Livermore,Livermore,KY,Livermore-KY,Kentucky,21149,McLean,37.4919,-87.1342,1347,1347,503,polygon,TRUE,America/Chicago,42352
+Cannel City-KY,1840030402,Cannel City,Cannel City,KY,Cannel City-KY,Kentucky,21175,Morgan,37.7901,-83.2741,,,31.1,point,FALSE,America/New_York,41408
+Herndon-KY,1840030470,Herndon,Herndon,KY,Herndon-KY,Kentucky,21047,Christian,36.7337,-87.5653,,,9.6,point,FALSE,America/Chicago,42236
+Calhoun-KY,1840013235,Calhoun,Calhoun,KY,Calhoun-KY,Kentucky,21149,McLean,37.5411,-87.2595,757,757,446,polygon,TRUE,America/Chicago,42327
+Whitesburg-KY,1840015259,Whitesburg,Whitesburg,KY,Whitesburg-KY,Kentucky,21133,Letcher,37.1183,-82.8231,1974,1974,245,polygon,TRUE,America/New_York,41858
+Horse Cave-KY,1840014375,Horse Cave,Horse Cave,KY,Horse Cave-KY,Kentucky,21099,Hart,37.1714,-85.912,4347,2364,343,polygon,TRUE,America/Chicago,42749
+Utica-KY,1840030601,Utica,Utica,KY,Utica-KY,Kentucky,21059,Daviess,37.6028,-87.1126,,,78.5,polygon,FALSE,America/Chicago,42376
+Francisville-KY,1840026679,Francisville,Francisville,KY,Francisville-KY,Kentucky,21015,Boone,39.1067,-84.7277,,,362.2,polygon,FALSE,America/New_York,41048
+McDowell-KY,1840030513,McDowell,McDowell,KY,McDowell-KY,Kentucky,21071,Floyd,37.459,-82.734,,,114.2,polygon,FALSE,America/New_York,41647
+Glasgow-KY,1840013268,Glasgow,Glasgow,KY,Glasgow-KY,Kentucky,21009,Barren,37.0048,-85.9264,14115,14594,356,polygon,TRUE,America/Chicago,42141 42142
+Arjay-KY,1840030368,Arjay,Arjay,KY,Arjay-KY,Kentucky,21013,Bell,36.8061,-83.642,,,79.4,polygon,FALSE,America/New_York,40902
+Nortonville-KY,1840014370,Nortonville,Nortonville,KY,Nortonville-KY,Kentucky,21107,Hopkins,37.186,-87.4555,1181,1181,392,polygon,TRUE,America/Chicago,42442
+Evarts-KY,1840013279,Evarts,Evarts,KY,Evarts-KY,Kentucky,21095,Harlan,36.8645,-83.1927,2299,836,843,polygon,TRUE,America/New_York,40828
+Phelps-KY,1840013228,Phelps,Phelps,KY,Phelps-KY,Kentucky,21195,Pike,37.5091,-82.1605,,,189.2,polygon,FALSE,America/New_York,41553
+Sharpsburg-KY,1840015208,Sharpsburg,Sharpsburg,KY,Sharpsburg-KY,Kentucky,21011,Bath,38.2015,-83.9279,345,345,676,polygon,TRUE,America/New_York,40374
+West Louisville-KY,1840030610,West Louisville,West Louisville,KY,West Louisville-KY,Kentucky,21059,Daviess,37.6967,-87.2869,,,13.8,point,FALSE,America/Chicago,42301
+Hawesville-KY,1840014332,Hawesville,Hawesville,KY,Hawesville-KY,Kentucky,21091,Hancock,37.8962,-86.7561,1015,1015,242,polygon,TRUE,America/Chicago,42348
+Frances-KY,1840030449,Frances,Frances,KY,Frances-KY,Kentucky,21055,Crittenden,37.2198,-88.1411,,,21.3,point,FALSE,America/Chicago,42064
+Ottusville-KY,1840030547,Ottusville,Ottusville,KY,Ottusville-KY,Kentucky,21073,Franklin,38.3228,-84.8955,,,3.9,point,FALSE,America/New_York,40601
+Hartford-KY,1840013231,Hartford,Hartford,KY,Hartford-KY,Kentucky,21183,Ohio,37.4506,-86.893,2771,2771,380,polygon,TRUE,America/Chicago,42320 42347
+Falcon-KY,1840030658,Falcon,Falcon,KY,Falcon-KY,Kentucky,21153,Magoffin,37.7898,-83.0018,,,28.4,point,FALSE,America/New_York,41465
+Pine Knot-KY,1840013285,Pine Knot,Pine Knot,KY,Pine Knot-KY,Kentucky,21147,McCreary,36.6648,-84.4395,,,232.9,polygon,FALSE,America/New_York,42635 42649
+Cave City-KY,1840014394,Cave City,Cave City,KY,Cave City-KY,Kentucky,21009,Barren,37.14,-85.9647,2422,2422,212,polygon,TRUE,America/Chicago,42127
+Ryland Heights-KY,1840015174,Ryland Heights,Ryland Heights,KY,Ryland Heights-KY,Kentucky,21117,Kenton,38.9701,-84.4607,1036,1036,76,polygon,TRUE,America/New_York,41015
+Lowes-KY,1840026919,Lowes,Lowes,KY,Lowes-KY,Kentucky,21083,Graves,36.8829,-88.7706,,,62.3,polygon,FALSE,America/Chicago,42069 42061 42051
+Fort Mitchell-KY,1840013170,Fort Mitchell,Fort Mitchell,KY,Fort Mitchell-KY,Kentucky,21117,Kenton,39.0459,-84.5562,8286,8286,1031,polygon,TRUE,America/New_York,41011 41017
+Lucas-KY,1840030504,Lucas,Lucas,KY,Lucas-KY,Kentucky,21009,Barren,36.8917,-86.0375,,,12.2,point,FALSE,America/Chicago,42141
+Guage-KY,1840030667,Guage,Guage,KY,Guage-KY,Kentucky,21025,Breathitt,37.5962,-83.1971,,,3.2,point,FALSE,America/New_York,41339
+Bellefonte-KY,1840013184,Bellefonte,Bellefonte,KY,Bellefonte-KY,Kentucky,21089,Greenup,38.4949,-82.6911,860,860,377,polygon,TRUE,America/New_York,41101
+Gulnare-KY,1840030668,Gulnare,Gulnare,KY,Gulnare-KY,Kentucky,21195,Pike,37.6304,-82.5468,,,11.2,point,FALSE,America/New_York,41501
+Buckhorn-KY,1840013245,Buckhorn,Buckhorn,KY,Buckhorn-KY,Kentucky,21193,Perry,37.3461,-83.4697,157,157,179,polygon,TRUE,America/New_York,41721
+Martin-KY,1840015231,Martin,Martin,KY,Martin-KY,Kentucky,21071,Floyd,37.5668,-82.7603,591,591,311,polygon,TRUE,America/New_York,41649
+Kelly-KY,1840030483,Kelly,Kelly,KY,Kelly-KY,Kentucky,21047,Christian,36.9706,-87.4769,,,67.9,point,FALSE,America/Chicago,42240
+Crutchfield-KY,1840030423,Crutchfield,Crutchfield,KY,Crutchfield-KY,Kentucky,21075,Fulton,36.5767,-88.9353,,,73.9,point,FALSE,America/Chicago,42041
+Chavies-KY,1840030736,Chavies,Chavies,KY,Chavies-KY,Kentucky,21193,Perry,37.3479,-83.3563,,,124.4,point,FALSE,America/New_York,41727
+Jonestown-KY,1840030678,Jonestown,Jonestown,KY,Jonestown-KY,Kentucky,21067,Fayette,37.977,-84.4966,,,2828.9,point,FALSE,America/New_York,40517
+Keavy-KY,1840030760,Keavy,Keavy,KY,Keavy-KY,Kentucky,21125,Laurel,37.0037,-84.161,,,91.7,point,FALSE,America/New_York,40737
+Crofton-KY,1840014396,Crofton,Crofton,KY,Crofton-KY,Kentucky,21047,Christian,37.0477,-87.4842,731,731,444,polygon,TRUE,America/Chicago,42217
+Beaverlick-KY,1840030379,Beaverlick,Beaverlick,KY,Beaverlick-KY,Kentucky,21015,Boone,38.879,-84.6944,,,83.3,point,FALSE,America/New_York,41094
+Horse Branch-KY,1840030477,Horse Branch,Horse Branch,KY,Horse Branch-KY,Kentucky,21183,Ohio,37.4559,-86.6767,,,41.4,point,FALSE,America/Chicago,42349
+Rineyville-KY,1840030569,Rineyville,Rineyville,KY,Rineyville-KY,Kentucky,21093,Hardin,37.7502,-85.9703,,,128.1,polygon,FALSE,America/New_York,40162
+Beechwood Village-KY,1840013207,Beechwood Village,Beechwood Village,KY,Beechwood Village-KY,Kentucky,21111,Jefferson,38.2555,-85.6295,1367,1367,1897,polygon,TRUE,America/New_York,40207
+Wickliffe-KY,1840015260,Wickliffe,Wickliffe,KY,Wickliffe-KY,Kentucky,21007,Ballard,36.9658,-89.0822,672,672,227,polygon,TRUE,America/Chicago,42087
+Newport-KY,1840014261,Newport,Newport,KY,Newport-KY,Kentucky,21037,Campbell,39.0855,-84.4868,15241,15241,2156,polygon,TRUE,America/New_York,41071 41072
+Dizney-KY,1840030430,Dizney,Dizney,KY,Dizney-KY,Kentucky,21095,Harlan,36.8529,-83.1166,,,19.9,point,FALSE,America/New_York,40828
+McKinney-KY,1840030514,McKinney,McKinney,KY,McKinney-KY,Kentucky,21137,Lincoln,37.453,-84.7579,,,102.3,polygon,FALSE,America/New_York,40484 40448 40437
+Northfield-KY,1840014297,Northfield,Northfield,KY,Northfield-KY,Kentucky,21111,Jefferson,38.2857,-85.6362,1053,1053,863,polygon,TRUE,America/New_York,40222
+Manchester-KY,1840015255,Manchester,Manchester,KY,Manchester-KY,Kentucky,21051,Clay,37.1464,-83.7635,5162,1391,191,polygon,TRUE,America/New_York,40962
+Strathmoor Manor-KY,1840030589,Strathmoor Manor,Strathmoor Manor,KY,Strathmoor Manor-KY,Kentucky,21111,Jefferson,38.219,-85.6836,343,343,2330,polygon,TRUE,America/New_York,40205
+Upton-KY,1840015235,Upton,Upton,KY,Upton-KY,Kentucky,21093,Hardin,37.4626,-85.899,686,686,195,polygon,TRUE,America/New_York,42784
+Richlawn-KY,1840030566,Richlawn,Richlawn,KY,Richlawn-KY,Kentucky,21111,Jefferson,38.2547,-85.6412,418,418,1594,polygon,TRUE,America/New_York,40207
+Arlington-KY,1840013286,Arlington,Arlington,KY,Arlington-KY,Kentucky,21039,Carlisle,36.7904,-89.0132,308,308,316,polygon,TRUE,America/Chicago,42021
+Kimper-KY,1840030485,Kimper,Kimper,KY,Kimper-KY,Kentucky,21195,Pike,37.497,-82.3504,,,38.7,point,FALSE,America/New_York,41539
+Mount Eden-KY,1840030533,Mount Eden,Mount Eden,KY,Mount Eden-KY,Kentucky,21215,Spencer,38.0562,-85.1511,,,57.9,point,FALSE,America/New_York,40046
+Milltown-KY,1840030693,Milltown,Milltown,KY,Milltown-KY,Kentucky,21001,Adair,37.1223,-85.4075,,,10.6,point,FALSE,America/Chicago,42728
+Barbourville-KY,1840013277,Barbourville,Barbourville,KY,Barbourville-KY,Kentucky,21121,Knox,36.8669,-83.8854,6309,3170,465,polygon,TRUE,America/New_York,40906
+Covington-KY,1840014263,Covington,Covington,KY,Covington-KY,Kentucky,21117,Kenton,39.0334,-84.5166,40797,40797,1194,polygon,TRUE,America/New_York,41011 41015 41014 41017 41016 41012 41019
+Dixon-KY,1840014360,Dixon,Dixon,KY,Dixon-KY,Kentucky,21233,Webster,37.5132,-87.6961,907,907,280,polygon,TRUE,America/Chicago,42409
+Jonesville-KY,1840030481,Jonesville,Jonesville,KY,Jonesville-KY,Kentucky,21081,Grant,38.6398,-84.7755,,,78.7,point,FALSE,America/New_York,41052
+Gatliff-KY,1840030749,Gatliff,Gatliff,KY,Gatliff-KY,Kentucky,21235,Whitley,36.6818,-84.0263,,,12.7,point,FALSE,America/New_York,40769
+Pike View-KY,1840030556,Pike View,Pike View,KY,Pike View-KY,Kentucky,21099,Hart,37.3795,-85.753,,,23.5,point,FALSE,America/Chicago,42757
+Dunmor-KY,1840026861,Dunmor,Dunmor,KY,Dunmor-KY,Kentucky,21177,Muhlenberg,37.0753,-86.9951,,,110.2,polygon,FALSE,America/Chicago,42256 42339
+Smithfield-KY,1840015188,Smithfield,Smithfield,KY,Smithfield-KY,Kentucky,21103,Henry,38.3864,-85.2566,108,108,306,polygon,TRUE,America/New_York,40068
+Dry Ridge-KY,1840013179,Dry Ridge,Dry Ridge,KY,Dry Ridge-KY,Kentucky,21081,Grant,38.6798,-84.6009,2219,2219,188,polygon,TRUE,America/New_York,41035
+Norbourne Estates-KY,1840030542,Norbourne Estates,Norbourne Estates,KY,Norbourne Estates-KY,Kentucky,21111,Jefferson,38.2466,-85.6465,458,458,2215,polygon,TRUE,America/New_York,40207
+Waverly-KY,1840015229,Waverly,Waverly,KY,Waverly-KY,Kentucky,21225,Union,37.7094,-87.8145,308,308,445,polygon,TRUE,America/Chicago,42462
+Belfry-KY,1840030382,Belfry,Belfry,KY,Belfry-KY,Kentucky,21195,Pike,37.6194,-82.2684,,,205.9,polygon,FALSE,America/New_York,41514
+Cecilia-KY,1840026798,Cecilia,Cecilia,KY,Cecilia-KY,Kentucky,21093,Hardin,37.6622,-85.9524,,,150.8,polygon,FALSE,America/New_York,42724
+Coletown-KY,1840030412,Coletown,Coletown,KY,Coletown-KY,Kentucky,21067,Fayette,37.929,-84.4422,,,16.2,point,FALSE,America/New_York,40515
+Burna-KY,1840026858,Burna,Burna,KY,Burna-KY,Kentucky,21139,Livingston,37.2456,-88.3589,,,77.9,polygon,FALSE,America/Chicago,42028
+Beechburg-KY,1840030631,Beechburg,Beechburg,KY,Beechburg-KY,Kentucky,21069,Fleming,38.4467,-83.6402,,,17.1,point,FALSE,America/New_York,41093
+Manor Creek-KY,1840030801,Manor Creek,Manor Creek,KY,Manor Creek-KY,Kentucky,21111,Jefferson,38.2981,-85.5873,231,231,1614,polygon,TRUE,America/New_York,40241
+Monticello-KY,1840014404,Monticello,Monticello,KY,Monticello-KY,Kentucky,21231,Wayne,36.8404,-84.8506,6606,6087,400,polygon,TRUE,America/Kentucky/Monticello,42633
+Brooks-KY,1840013215,Brooks,Brooks,KY,Brooks-KY,Kentucky,21029,Bullitt,38.0645,-85.7146,,,206.8,polygon,FALSE,America/New_York,40229 40109 40165
+Midway-KY,1840014318,Midway,Midway,KY,Midway-KY,Kentucky,21239,Woodford,38.1536,-84.6784,1706,1706,594,polygon,TRUE,America/New_York,40347
+Cherokee-KY,1840030645,Cherokee,Cherokee,KY,Cherokee-KY,Kentucky,21127,Lawrence,38.0776,-82.8377,,,4.4,point,FALSE,America/New_York,41180
+South Shore-KY,1840015184,South Shore,South Shore,KY,South Shore-KY,Kentucky,21089,Greenup,38.7224,-82.9647,1086,1086,634,polygon,TRUE,America/New_York,41175
+Grand Rivers-KY,1840013247,Grand Rivers,Grand Rivers,KY,Grand Rivers-KY,Kentucky,21139,Livingston,37.005,-88.233,372,372,77,polygon,TRUE,America/Chicago,42045
+Camargo-KY,1840013214,Camargo,Camargo,KY,Camargo-KY,Kentucky,21173,Montgomery,37.997,-83.8925,1127,1127,198,polygon,TRUE,America/New_York,40353
+Panco-KY,1840030768,Panco,Panco,KY,Panco-KY,Kentucky,21051,Clay,37.2373,-83.5335,,,9.5,point,FALSE,America/New_York,40972
+Carrollton-KY,1840014272,Carrollton,Carrollton,KY,Carrollton-KY,Kentucky,21041,Carroll,38.68,-85.1656,5081,3874,734,polygon,TRUE,America/New_York,41008
+Avon-KY,1840030373,Avon,Avon,KY,Avon-KY,Kentucky,21067,Fayette,38.0717,-84.3185,,,27.8,point,FALSE,America/New_York,40516
+Harrodsburg-KY,1840013222,Harrodsburg,Harrodsburg,KY,Harrodsburg-KY,Kentucky,21167,Mercer,37.7655,-84.8474,8797,8419,470,polygon,TRUE,America/New_York,40330
+Leesburg-KY,1840030494,Leesburg,Leesburg,KY,Leesburg-KY,Kentucky,21097,Harrison,38.2945,-84.4183,,,54.9,point,FALSE,America/New_York,41031
+Goshen-KY,1840013193,Goshen,Goshen,KY,Goshen-KY,Kentucky,21185,Oldham,38.4027,-85.5825,985,985,1929,polygon,TRUE,America/New_York,40026
+Shepherdsville-KY,1840015214,Shepherdsville,Shepherdsville,KY,Shepherdsville-KY,Kentucky,21029,Bullitt,37.9841,-85.7007,12082,12082,358,polygon,TRUE,America/New_York,40165 40166
+Hickory-KY,1840030472,Hickory,Hickory,KY,Hickory-KY,Kentucky,21083,Graves,36.8174,-88.6484,,,205.7,polygon,FALSE,America/Chicago,42051 42066
+White Oak-KY,1840030615,White Oak,White Oak,KY,White Oak-KY,Kentucky,21175,Morgan,37.8584,-83.2021,,,21.9,point,FALSE,America/New_York,41472
+Elihu-KY,1840030655,Elihu,Elihu,KY,Elihu-KY,Kentucky,21199,Pulaski,37.0465,-84.5922,,,17,point,FALSE,America/New_York,42501
+Morrill-KY,1840030765,Morrill,Morrill,KY,Morrill-KY,Kentucky,21109,Jackson,37.5193,-84.1974,,,39.5,point,FALSE,America/New_York,40447
+Beechwood-KY,1840030632,Beechwood,Beechwood,KY,Beechwood-KY,Kentucky,21187,Owen,38.4123,-84.7461,,,8.6,point,FALSE,America/New_York,40359
+Raceland-KY,1840014274,Raceland,Raceland,KY,Raceland-KY,Kentucky,21089,Greenup,38.5376,-82.7343,2384,2384,371,polygon,TRUE,America/New_York,41169
+Diablock-KY,1840026855,Diablock,Diablock,KY,Diablock-KY,Kentucky,21193,Perry,37.2296,-83.1709,,,649.5,polygon,FALSE,America/New_York,41701
+Augusta-KY,1840013176,Augusta,Augusta,KY,Augusta-KY,Kentucky,21023,Bracken,38.7723,-84.0002,1175,1175,335,polygon,TRUE,America/New_York,41002
+Uniontown-KY,1840015228,Uniontown,Uniontown,KY,Uniontown-KY,Kentucky,21225,Union,37.7732,-87.9318,951,951,431,polygon,TRUE,America/Chicago,42461
+Rome-KY,1840030570,Rome,Rome,KY,Rome-KY,Kentucky,21059,Daviess,37.7212,-87.1808,,,74.9,point,FALSE,America/Chicago,42301
+East Bernstadt-KY,1840013022,East Bernstadt,East Bernstadt,KY,East Bernstadt-KY,Kentucky,21125,Laurel,37.1923,-84.1209,,,124.5,polygon,FALSE,America/New_York,40729
+Glenville-KY,1840030664,Glenville,Glenville,KY,Glenville-KY,Kentucky,21149,McLean,37.5945,-87.1934,,,39.8,point,FALSE,America/Chicago,42327
+Centertown-KY,1840014349,Centertown,Centertown,KY,Centertown-KY,Kentucky,21183,Ohio,37.4178,-86.9959,445,445,548,polygon,TRUE,America/Chicago,42328
+Lovelaceville-KY,1840026879,Lovelaceville,Lovelaceville,KY,Lovelaceville-KY,Kentucky,21007,Ballard,36.9672,-88.8336,,,141.2,polygon,FALSE,America/Chicago,42053 42060
+Emlyn-KY,1840026914,Emlyn,Emlyn,KY,Emlyn-KY,Kentucky,21235,Whitley,36.7023,-84.1418,,,327.1,polygon,FALSE,America/New_York,40769 40730
+Phillipsburg-KY,1840030554,Phillipsburg,Phillipsburg,KY,Phillipsburg-KY,Kentucky,21155,Marion,37.4565,-85.26,,,45.4,point,FALSE,America/New_York,42718
+Pathfork-KY,1840026898,Pathfork,Pathfork,KY,Pathfork-KY,Kentucky,21095,Harlan,36.7595,-83.4711,,,183,polygon,FALSE,America/New_York,40863
+York-KY,1840030730,York,York,KY,York-KY,Kentucky,21089,Greenup,38.5656,-83.0463,,,9.3,point,FALSE,America/New_York,41175
+Mozelle-KY,1840030766,Mozelle,Mozelle,KY,Mozelle-KY,Kentucky,21131,Leslie,37.0026,-83.398,,,36.2,point,FALSE,America/New_York,40858
+Munfordville-KY,1840014374,Munfordville,Munfordville,KY,Munfordville-KY,Kentucky,21099,Hart,37.2795,-85.8982,1653,1653,284,polygon,TRUE,America/Chicago,42765
+Kuttawa-KY,1840014393,Kuttawa,Kuttawa,KY,Kuttawa-KY,Kentucky,21143,Lyon,37.0594,-88.1149,660,660,116,polygon,TRUE,America/Chicago,42038 42055
+Glenview-KY,1840013203,Glenview,Glenview,KY,Glenview-KY,Kentucky,21111,Jefferson,38.302,-85.6519,542,542,146,polygon,TRUE,America/New_York,40222 40025
+Bancroft-KY,1840030811,Bancroft,Bancroft,KY,Bancroft-KY,Kentucky,21111,Jefferson,38.2832,-85.613,509,509,1294,polygon,TRUE,America/New_York,40242 40222
+Hickman-KY,1840014420,Hickman,Hickman,KY,Hickman-KY,Kentucky,21075,Fulton,36.565,-89.1836,2183,2183,237,polygon,TRUE,America/Chicago,42050
+Freemont-KY,1840030660,Freemont,Freemont,KY,Freemont-KY,Kentucky,21145,McCracken,36.9728,-88.612,,,105.6,point,FALSE,America/Chicago,42003
+Charters-KY,1840030405,Charters,Charters,KY,Charters-KY,Kentucky,21135,Lewis,38.5737,-83.4332,,,12.9,point,FALSE,America/New_York,41179
+Mooleyville-KY,1840030528,Mooleyville,Mooleyville,KY,Mooleyville-KY,Kentucky,21027,Breckinridge,38.0212,-86.4639,,,6.4,point,FALSE,America/Chicago,40157
+Elkton-KY,1840013272,Elkton,Elkton,KY,Elkton-KY,Kentucky,21219,Todd,36.8134,-87.161,2136,2136,326,polygon,TRUE,America/Chicago,42220
+Flatwoods-KY,1840013182,Flatwoods,Flatwoods,KY,Flatwoods-KY,Kentucky,21089,Greenup,38.5209,-82.7195,7311,7311,863,polygon,TRUE,America/New_York,41139
+Lebanon Junction-KY,1840014326,Lebanon Junction,Lebanon Junction,KY,Lebanon Junction-KY,Kentucky,21029,Bullitt,37.8358,-85.7243,1927,1927,131,polygon,TRUE,America/New_York,40150
+Frankfort-KY,1840013210,Frankfort,Frankfort,KY,Frankfort-KY,Kentucky,21073,Franklin,38.1924,-84.8644,39034,27885,729,polygon,TRUE,America/New_York,40604 40601 40602 40603 40618 40619 40620 40621 40622
+Stanley-KY,1840030586,Stanley,Stanley,KY,Stanley-KY,Kentucky,21059,Daviess,37.8234,-87.2439,,,176.2,point,FALSE,America/Chicago,42301
+Sublett-KY,1840030720,Sublett,Sublett,KY,Sublett-KY,Kentucky,21153,Magoffin,37.6776,-83.0374,,,45.4,point,FALSE,America/New_York,41465
+Johnetta-KY,1840030759,Johnetta,Johnetta,KY,Johnetta-KY,Kentucky,21203,Rockcastle,37.4156,-84.1919,,,12,point,FALSE,America/New_York,40460
+South Carrollton-KY,1840015253,South Carrollton,South Carrollton,KY,South Carrollton-KY,Kentucky,21177,Muhlenberg,37.3358,-87.1401,181,181,276,polygon,TRUE,America/Chicago,42374 42330
+Willard-KY,1840030616,Willard,Willard,KY,Willard-KY,Kentucky,21043,Carter,38.2118,-82.8971,,,51,point,FALSE,America/New_York,41143
+Rich Pond-KY,1840030564,Rich Pond,Rich Pond,KY,Rich Pond-KY,Kentucky,21227,Warren,36.8942,-86.5094,,,67,point,FALSE,America/Chicago,42104
+Liberty-KY,1840015247,Liberty,Liberty,KY,Liberty-KY,Kentucky,21045,Casey,37.3206,-84.9286,2155,2155,443,polygon,TRUE,America/New_York,42539
+Belton-KY,1840030622,Belton,Belton,KY,Belton-KY,Kentucky,21177,Muhlenberg,37.16,-87.0283,,,80.1,point,FALSE,America/Chicago,42324
+Petersburg-KY,1840026681,Petersburg,Petersburg,KY,Petersburg-KY,Kentucky,21015,Boone,39.0533,-84.8574,,,640.7,polygon,FALSE,America/New_York,41080
+Owensboro-KY,1840014340,Owensboro,Owensboro,KY,Owensboro-KY,Kentucky,21059,Daviess,37.7574,-87.1181,73011,59273,1149,polygon,TRUE,America/Chicago,42301 42303 42302 42304
+Jamestown-KY,1840014392,Jamestown,Jamestown,KY,Jamestown-KY,Kentucky,21207,Russell,36.995,-85.0683,1806,1806,214,polygon,TRUE,America/Chicago,42629
+Hiseville-KY,1840026882,Hiseville,Hiseville,KY,Hiseville-KY,Kentucky,21009,Barren,37.1008,-85.8149,,,130.8,polygon,FALSE,America/Chicago,42127 42141 42152
+Elrod-KY,1840030743,Elrod,Elrod,KY,Elrod-KY,Kentucky,21199,Pulaski,37.2192,-84.4694,,,14.9,point,FALSE,America/New_York,42503
+Crestview Hills-KY,1840014265,Crestview Hills,Crestview Hills,KY,Crestview Hills-KY,Kentucky,21117,Kenton,39.0248,-84.5694,3332,3332,678,polygon,TRUE,America/New_York,41017
+Millersburg-KY,1840014313,Millersburg,Millersburg,KY,Millersburg-KY,Kentucky,21017,Bourbon,38.3041,-84.145,792,792,746,polygon,TRUE,America/New_York,40311 40348
+Broeck Pointe-KY,1840030794,Broeck Pointe,Broeck Pointe,KY,Broeck Pointe-KY,Kentucky,21111,Jefferson,38.2955,-85.5856,281,281,1518,polygon,TRUE,America/New_York,40241
+Seneca Gardens-KY,1840030576,Seneca Gardens,Seneca Gardens,KY,Seneca Gardens-KY,Kentucky,21111,Jefferson,38.2272,-85.6772,717,717,1807,polygon,TRUE,America/New_York,40205
+Lee City-KY,1840030493,Lee City,Lee City,KY,Lee City-KY,Kentucky,21237,Wolfe,37.7393,-83.333,,,50.5,point,FALSE,America/New_York,41301
+Stanton-KY,1840015222,Stanton,Stanton,KY,Stanton-KY,Kentucky,21197,Powell,37.8475,-83.8572,4053,2670,500,polygon,TRUE,America/New_York,40380
+Bank Lick-KY,1840030629,Bank Lick,Bank Lick,KY,Bank Lick-KY,Kentucky,21117,Kenton,38.9098,-84.5797,,,18.3,point,FALSE,America/New_York,41094
+Fearisville-KY,1840030659,Fearisville,Fearisville,KY,Fearisville-KY,Kentucky,21135,Lewis,38.6256,-83.598,,,11,point,FALSE,America/New_York,41179
+Maryhill Estates-KY,1840030689,Maryhill Estates,Maryhill Estates,KY,Maryhill Estates-KY,Kentucky,21111,Jefferson,38.2664,-85.6533,181,181,1766,polygon,TRUE,America/New_York,40207
+Pineville-KY,1840014407,Pineville,Pineville,KY,Pineville-KY,Kentucky,21013,Bell,36.7526,-83.7065,1756,1756,268,polygon,TRUE,America/New_York,40977
+Cranston-KY,1840030741,Cranston,Cranston,KY,Cranston-KY,Kentucky,21205,Rowan,38.2634,-83.4355,,,46.7,point,FALSE,America/New_York,40351
+Shipley-KY,1840030582,Shipley,Shipley,KY,Shipley-KY,Kentucky,21053,Clinton,36.6673,-85.2177,,,29.4,point,FALSE,America/Chicago,42602
+Wingo-KY,1840015270,Wingo,Wingo,KY,Wingo-KY,Kentucky,21083,Graves,36.6422,-88.7396,636,636,251,polygon,TRUE,America/Chicago,42088
+Nazareth-KY,1840030696,Nazareth,Nazareth,KY,Nazareth-KY,Kentucky,21179,Nelson,37.8481,-85.4727,,,141.2,point,FALSE,America/New_York,40004
+Smithland-KY,1840015252,Smithland,Smithland,KY,Smithland-KY,Kentucky,21139,Livingston,37.1386,-88.4038,293,293,223,polygon,TRUE,America/Chicago,42081
+Slaughters-KY,1840015240,Slaughters,Slaughters,KY,Slaughters-KY,Kentucky,21233,Webster,37.4903,-87.502,212,212,356,polygon,TRUE,America/Chicago,42456
+Lenoxburg-KY,1840030495,Lenoxburg,Lenoxburg,KY,Lenoxburg-KY,Kentucky,21023,Bracken,38.7426,-84.2249,,,19.9,point,FALSE,America/New_York,41043
+Nina-KY,1840030699,Nina,Nina,KY,Nina-KY,Kentucky,21079,Garrard,37.664,-84.4663,,,9.4,point,FALSE,America/New_York,40444
+Alva-KY,1840030364,Alva,Alva,KY,Alva-KY,Kentucky,21095,Harlan,36.7351,-83.4244,,,1.4,point,FALSE,America/New_York,40863
+Cool Springs-KY,1840030649,Cool Springs,Cool Springs,KY,Cool Springs-KY,Kentucky,21183,Ohio,37.2934,-86.8819,,,9.9,point,FALSE,America/Chicago,42320
+Allensville-KY,1840013271,Allensville,Allensville,KY,Allensville-KY,Kentucky,21219,Todd,36.7159,-87.0669,,,20.2,polygon,TRUE,America/Chicago,42204
+Prestonville-KY,1840014273,Prestonville,Prestonville,KY,Prestonville-KY,Kentucky,21041,Carroll,38.6806,-85.1931,159,159,283,polygon,TRUE,America/New_York,41008
+Buffalo-KY,1840026824,Buffalo,Buffalo,KY,Buffalo-KY,Kentucky,21123,Larue,37.5081,-85.6992,,,164.5,polygon,FALSE,America/New_York,42716
+Campbellsville-KY,1840013242,Campbellsville,Campbellsville,KY,Campbellsville-KY,Kentucky,21217,Taylor,37.3443,-85.3502,14650,11387,601,polygon,TRUE,America/New_York,42718 42719
+Cambridge-KY,1840030398,Cambridge,Cambridge,KY,Cambridge-KY,Kentucky,21111,Jefferson,38.2217,-85.6172,179,179,1248,polygon,TRUE,America/New_York,40220
+Clinton-KY,1840014408,Clinton,Clinton,KY,Clinton-KY,Kentucky,21105,Hickman,36.6664,-88.9938,1321,1321,316,polygon,TRUE,America/Chicago,42031
+Boston-KY,1840026800,Boston,Boston,KY,Boston-KY,Kentucky,21179,Nelson,37.7838,-85.6804,,,121.1,polygon,FALSE,America/New_York,40107
+Pine Grove-KY,1840030557,Pine Grove,Pine Grove,KY,Pine Grove-KY,Kentucky,21049,Clark,38.002,-84.3158,,,12.7,point,FALSE,America/New_York,40391
+Middleton-KY,1840030521,Middleton,Middleton,KY,Middleton-KY,Kentucky,21213,Simpson,36.7509,-86.7347,,,8.5,point,FALSE,America/Chicago,42134
+Hollow Creek-KY,1840014306,Hollow Creek,Hollow Creek,KY,Hollow Creek-KY,Kentucky,21111,Jefferson,38.1526,-85.6244,805,805,1343,polygon,TRUE,America/New_York,40228
+Wheeler-KY,1840030614,Wheeler,Wheeler,KY,Wheeler-KY,Kentucky,21121,Knox,36.7254,-83.843,,,8,point,FALSE,America/New_York,40906
+Cooper-KY,1840030650,Cooper,Cooper,KY,Cooper-KY,Kentucky,21231,Wayne,36.7712,-84.8613,,,25.3,point,FALSE,America/Kentucky/Monticello,42633
+Cardwell-KY,1840030639,Cardwell,Cardwell,KY,Cardwell-KY,Kentucky,21229,Washington,37.8242,-85.0341,,,8.7,point,FALSE,America/New_York,40330
+Panther-KY,1840030550,Panther,Panther,KY,Panther-KY,Kentucky,21059,Daviess,37.64,-87.225,,,73.5,point,FALSE,America/Chicago,42376
+Waddy-KY,1840030607,Waddy,Waddy,KY,Waddy-KY,Kentucky,21211,Shelby,38.137,-85.0744,,,132.3,point,FALSE,America/New_York,40076
+Combs-KY,1840030413,Combs,Combs,KY,Combs-KY,Kentucky,21193,Perry,37.2684,-83.2148,,,262.9,polygon,FALSE,America/New_York,41729 41701
+Lakeview Heights-KY,1840014292,Lakeview Heights,Lakeview Heights,KY,Lakeview Heights-KY,Kentucky,21205,Rowan,38.152,-83.5044,232,232,634,polygon,TRUE,America/New_York,40351
+Symsonia-KY,1840026922,Symsonia,Symsonia,KY,Symsonia-KY,Kentucky,21083,Graves,36.9211,-88.5227,,,156.2,polygon,FALSE,America/Chicago,42082
+Eubank-KY,1840013252,Eubank,Eubank,KY,Eubank-KY,Kentucky,21199,Pulaski,37.2799,-84.6541,325,325,148,polygon,TRUE,America/New_York,42567
+Earlington-KY,1840013237,Earlington,Earlington,KY,Earlington-KY,Kentucky,21107,Hopkins,37.2754,-87.5066,1385,1385,189,polygon,TRUE,America/Chicago,42410 42431
+Watterson Park-KY,1840015198,Watterson Park,Watterson Park,KY,Watterson Park-KY,Kentucky,21111,Jefferson,38.189,-85.6865,1005,1005,269,polygon,TRUE,America/New_York,40231 40218 40213
+Rochester-KY,1840014381,Rochester,Rochester,KY,Rochester-KY,Kentucky,21031,Butler,37.2093,-86.8921,154,154,127,polygon,TRUE,America/Chicago,42273
+Lamasco-KY,1840030491,Lamasco,Lamasco,KY,Lamasco-KY,Kentucky,21143,Lyon,36.9862,-87.9361,,,16.9,point,FALSE,America/Chicago,42038
+Flatgap-KY,1840030446,Flatgap,Flatgap,KY,Flatgap-KY,Kentucky,21115,Johnson,37.9343,-82.8874,,,50.9,point,FALSE,America/New_York,41219
+Wheelwright-KY,1840015233,Wheelwright,Wheelwright,KY,Wheelwright-KY,Kentucky,21071,Floyd,37.3392,-82.7186,542,542,118,polygon,TRUE,America/New_York,41669
+Minerva-KY,1840030525,Minerva,Minerva,KY,Minerva-KY,Kentucky,21161,Mason,38.7054,-83.9191,,,52,point,FALSE,America/New_York,41034
+Cold Spring-KY,1840014257,Cold Spring,Cold Spring,KY,Cold Spring-KY,Kentucky,21037,Campbell,39.013,-84.4349,6227,6227,506,polygon,TRUE,America/New_York,41076
+Myers-KY,1840030536,Myers,Myers,KY,Myers-KY,Kentucky,21181,Nicholas,38.3509,-83.9533,,,14,point,FALSE,America/New_York,40311
+Raywick-KY,1840014352,Raywick,Raywick,KY,Raywick-KY,Kentucky,21155,Marion,37.5606,-85.4311,135,135,58,polygon,TRUE,America/New_York,40060
+Highland Heights-KY,1840014262,Highland Heights,Highland Heights,KY,Highland Heights-KY,Kentucky,21037,Campbell,39.0355,-84.4567,7155,7155,1053,polygon,TRUE,America/New_York,41076 41099
+Poplar Hills-KY,1840030793,Poplar Hills,Poplar Hills,KY,Poplar Hills-KY,Kentucky,21111,Jefferson,38.178,-85.6931,421,421,6375,polygon,TRUE,America/New_York,40213
+Hardinsburg-KY,1840013217,Hardinsburg,Hardinsburg,KY,Hardinsburg-KY,Kentucky,21027,Breckinridge,37.7755,-86.4536,2326,2326,259,polygon,TRUE,America/Chicago,40143
+Cundiff-KY,1840030652,Cundiff,Cundiff,KY,Cundiff-KY,Kentucky,21001,Adair,36.9448,-85.2544,,,16,point,FALSE,America/Chicago,42728
+Audubon Park-KY,1840013199,Audubon Park,Audubon Park,KY,Audubon Park-KY,Kentucky,21111,Jefferson,38.205,-85.727,1505,1505,1794,polygon,TRUE,America/New_York,40213
+Hanson-KY,1840013238,Hanson,Hanson,KY,Hanson-KY,Kentucky,21107,Hopkins,37.4166,-87.4786,729,729,106,polygon,TRUE,America/Chicago,42413
+Wolf Creek-KY,1840030617,Wolf Creek,Wolf Creek,KY,Wolf Creek-KY,Kentucky,21163,Meade,38.1028,-86.3897,,,28,point,FALSE,America/New_York,40104
+Crayne-KY,1840026846,Crayne,Crayne,KY,Crayne-KY,Kentucky,21055,Crittenden,37.2762,-88.0839,,,52.8,polygon,FALSE,America/Chicago,42064 42033
+Oakdale-KY,1840030544,Oakdale,Oakdale,KY,Oakdale-KY,Kentucky,21145,McCracken,37.0359,-88.567,,,549.5,point,FALSE,America/Chicago,42003
+McDaniels-KY,1840030512,McDaniels,McDaniels,KY,McDaniels-KY,Kentucky,21027,Breckinridge,37.6067,-86.425,,,25.4,point,FALSE,America/Chicago,42754
+Clarkson-KY,1840014365,Clarkson,Clarkson,KY,Clarkson-KY,Kentucky,21085,Grayson,37.4937,-86.226,885,885,322,polygon,TRUE,America/Chicago,42726 42754
+Versailles-KY,1840015212,Versailles,Versailles,KY,Versailles-KY,Kentucky,21239,Woodford,38.0488,-84.7312,17209,9270,698,polygon,TRUE,America/New_York,40383 40384
+Vaughns Mill-KY,1840030781,Vaughns Mill,Vaughns Mill,KY,Vaughns Mill-KY,Kentucky,21197,Powell,37.8131,-83.9166,,,12.7,point,FALSE,America/New_York,40312
+Elizaville-KY,1840026742,Elizaville,Elizaville,KY,Elizaville-KY,Kentucky,21069,Fleming,38.4167,-83.8243,,,60.6,polygon,FALSE,America/New_York,41039 41037
+Creekside-KY,1840014293,Creekside,Creekside,KY,Creekside-KY,Kentucky,21111,Jefferson,38.2914,-85.5701,322,322,1638,polygon,TRUE,America/New_York,40241
+Summit-KY,1840030722,Summit,Summit,KY,Summit-KY,Kentucky,21093,Hardin,37.5689,-86.0811,,,26.3,point,FALSE,America/New_York,42732
+Gray Hawk-KY,1840030750,Gray Hawk,Gray Hawk,KY,Gray Hawk-KY,Kentucky,21109,Jackson,37.3951,-83.9402,,,92.6,point,FALSE,America/New_York,40434
+Lynnview-KY,1840015192,Lynnview,Lynnview,KY,Lynnview-KY,Kentucky,21111,Jefferson,38.1791,-85.7112,943,943,1959,polygon,TRUE,America/New_York,40213
+Garlin-KY,1840030452,Garlin,Garlin,KY,Garlin-KY,Kentucky,21001,Adair,37.114,-85.2522,,,97.9,point,FALSE,America/Chicago,42728
+Wheatcroft-KY,1840015241,Wheatcroft,Wheatcroft,KY,Wheatcroft-KY,Kentucky,21233,Webster,37.4893,-87.8612,157,157,246,polygon,TRUE,America/Chicago,42463 42404
+Vine Grove-KY,1840015218,Vine Grove,Vine Grove,KY,Vine Grove-KY,Kentucky,21093,Hardin,37.8131,-85.9827,5921,5921,340,polygon,TRUE,America/New_York,40175 40160
+Bruin-KY,1840030637,Bruin,Bruin,KY,Bruin-KY,Kentucky,21063,Elliott,38.1879,-83.0188,,,19.2,point,FALSE,America/New_York,41164
+Mayking-KY,1840026873,Mayking,Mayking,KY,Mayking-KY,Kentucky,21133,Letcher,37.1335,-82.773,,,94,polygon,FALSE,America/New_York,41858 41837
+Vicco-KY,1840015250,Vicco,Vicco,KY,Vicco-KY,Kentucky,21193,Perry,37.2161,-83.0609,318,318,146,polygon,TRUE,America/New_York,41773
+Concord-KY,1840014279,Concord,Concord,KY,Concord-KY,Kentucky,21135,Lewis,38.6876,-83.4915,34,34,212,polygon,TRUE,America/New_York,41179
+Bellewood-KY,1840030383,Bellewood,Bellewood,KY,Bellewood-KY,Kentucky,21111,Jefferson,38.2608,-85.6594,332,332,1582,polygon,TRUE,America/New_York,40207
+Russell Springs-KY,1840014391,Russell Springs,Russell Springs,KY,Russell Springs-KY,Kentucky,21207,Russell,37.0509,-85.0774,2554,2554,210,polygon,TRUE,America/Chicago,42642
+Auburn-KY,1840013270,Auburn,Auburn,KY,Auburn-KY,Kentucky,21141,Logan,36.8642,-86.7145,1348,1348,322,polygon,TRUE,America/Chicago,42206
+Oldtown-KY,1840030701,Oldtown,Oldtown,KY,Oldtown-KY,Kentucky,21089,Greenup,38.4404,-82.8982,,,9.5,point,FALSE,America/New_York,41144
+Hustonville-KY,1840014363,Hustonville,Hustonville,KY,Hustonville-KY,Kentucky,21137,Lincoln,37.475,-84.8161,397,397,148,polygon,TRUE,America/New_York,40437
+Concordia-KY,1840030414,Concordia,Concordia,KY,Concordia-KY,Kentucky,21163,Meade,38.059,-86.428,,,27.5,point,FALSE,America/New_York,40157
+Fletcher-KY,1840030747,Fletcher,Fletcher,KY,Fletcher-KY,Kentucky,21125,Laurel,37.0051,-83.9702,,,23.1,point,FALSE,America/New_York,40740
+Benham-KY,1840013281,Benham,Benham,KY,Benham-KY,Kentucky,21095,Harlan,36.9653,-82.9548,459,459,756,polygon,TRUE,America/New_York,40807 40823
+Crittenden-KY,1840014271,Crittenden,Crittenden,KY,Crittenden-KY,Kentucky,21081,Grant,38.7754,-84.6137,4288,3876,439,polygon,TRUE,America/New_York,41030
+Sutherland-KY,1840030595,Sutherland,Sutherland,KY,Sutherland-KY,Kentucky,21059,Daviess,37.67,-87.1211,,,16.9,point,FALSE,America/Chicago,42303
+Spring Valley-KY,1840030808,Spring Valley,Spring Valley,KY,Spring Valley-KY,Kentucky,21111,Jefferson,38.2968,-85.6108,676,676,1320,polygon,TRUE,America/New_York,40241
+Thornhill-KY,1840015197,Thornhill,Thornhill,KY,Thornhill-KY,Kentucky,21111,Jefferson,38.2884,-85.6256,182,182,1546,polygon,TRUE,America/New_York,40222
+Colmar-KY,1840030647,Colmar,Colmar,KY,Colmar-KY,Kentucky,21013,Bell,36.6659,-83.6519,,,5.2,point,FALSE,America/New_York,40965
+Ezel-KY,1840026790,Ezel,Ezel,KY,Ezel-KY,Kentucky,21175,Morgan,37.8921,-83.4446,,,110.3,polygon,FALSE,America/New_York,41425
+Pioneer Village-KY,1840014323,Pioneer Village,Pioneer Village,KY,Pioneer Village-KY,Kentucky,21029,Bullitt,38.0599,-85.68,2899,2899,913,polygon,TRUE,America/New_York,40229 40165
+Summer Shade-KY,1840026881,Summer Shade,Summer Shade,KY,Summer Shade-KY,Kentucky,21169,Metcalfe,36.8837,-85.7098,,,105.9,polygon,FALSE,America/Chicago,42166
+Farmington-KY,1840026918,Farmington,Farmington,KY,Farmington-KY,Kentucky,21083,Graves,36.6691,-88.5277,,,161.8,polygon,FALSE,America/Chicago,42040 42066
+Pleasureville-KY,1840014282,Pleasureville,Pleasureville,KY,Pleasureville-KY,Kentucky,21211,Shelby,38.3511,-85.1122,851,851,704,polygon,TRUE,America/New_York,40057
+Jonancy-KY,1840030677,Jonancy,Jonancy,KY,Jonancy-KY,Kentucky,21195,Pike,37.3165,-82.5829,,,21.8,point,FALSE,America/New_York,41537
+New Hope-KY,1840026802,New Hope,New Hope,KY,New Hope-KY,Kentucky,21179,Nelson,37.6279,-85.5067,,,93.4,polygon,FALSE,America/New_York,40052
+Yosemite-KY,1840030620,Yosemite,Yosemite,KY,Yosemite-KY,Kentucky,21045,Casey,37.3467,-84.8247,,,56,point,FALSE,America/New_York,42539
+Field-KY,1840030746,Field,Field,KY,Field-KY,Kentucky,21013,Bell,36.8929,-83.6021,,,6.3,point,FALSE,America/New_York,40913
+Robinson-KY,1840030709,Robinson,Robinson,KY,Robinson-KY,Kentucky,21097,Harrison,38.4912,-84.3483,,,23,point,FALSE,America/New_York,41031
+Danville-KY,1840014354,Danville,Danville,KY,Danville-KY,Kentucky,21021,Boyle,37.642,-84.7767,19567,16802,385,polygon,TRUE,America/New_York,40422 40423
+Cropper-KY,1840030421,Cropper,Cropper,KY,Cropper-KY,Kentucky,21211,Shelby,38.3123,-85.1133,,,43.8,point,FALSE,America/New_York,40065
+Bandana-KY,1840026878,Bandana,Bandana,KY,Bandana-KY,Kentucky,21007,Ballard,37.1447,-88.9418,,,88.9,polygon,FALSE,America/Chicago,42022 42056 42053
+North Corbin-KY,1840013256,North Corbin,North Corbin,KY,North Corbin-KY,Kentucky,21125,Laurel,36.9649,-84.0973,,,529.2,polygon,FALSE,America/New_York,40701
+Hinton-KY,1840030671,Hinton,Hinton,KY,Hinton-KY,Kentucky,21097,Harrison,38.4573,-84.5294,,,20.5,point,FALSE,America/New_York,41010
+Crider-KY,1840030420,Crider,Crider,KY,Crider-KY,Kentucky,21033,Caldwell,37.1573,-87.9745,,,15.9,point,FALSE,America/Chicago,42445
+Hendron-KY,1840013262,Hendron,Hendron,KY,Hendron-KY,Kentucky,21145,McCracken,37.0346,-88.6437,,,152.2,polygon,FALSE,America/Chicago,42003
+Edgewood-KY,1840013166,Edgewood,Edgewood,KY,Edgewood-KY,Kentucky,21117,Kenton,39.0091,-84.5604,8748,8748,792,polygon,TRUE,America/New_York,41017
+Lincolnshire-KY,1840030499,Lincolnshire,Lincolnshire,KY,Lincolnshire-KY,Kentucky,21111,Jefferson,38.2238,-85.6216,150,150,1215,polygon,TRUE,America/New_York,40220
+Alton-KY,1840030363,Alton,Alton,KY,Alton-KY,Kentucky,21005,Anderson,38.089,-84.935,,,116.3,point,FALSE,America/New_York,40342
+Moreland-KY,1840030529,Moreland,Moreland,KY,Moreland-KY,Kentucky,21137,Lincoln,37.5056,-84.8133,,,196,point,FALSE,America/New_York,40437
+Morehead-KY,1840014291,Morehead,Morehead,KY,Morehead-KY,Kentucky,21205,Rowan,38.1906,-83.4466,8252,7758,316,polygon,TRUE,America/New_York,40351
+Erlanger-KY,1840013168,Erlanger,Erlanger,KY,Erlanger-KY,Kentucky,21117,Kenton,39.0109,-84.5863,18813,18813,874,polygon,TRUE,America/New_York,41018 41017 41051
+Gradyville-KY,1840030457,Gradyville,Gradyville,KY,Gradyville-KY,Kentucky,21001,Adair,37.0634,-85.4225,,,20.6,point,FALSE,America/Chicago,42728
+River Bluff-KY,1840014286,River Bluff,River Bluff,KY,River Bluff-KY,Kentucky,21185,Oldham,38.372,-85.604,431,431,706,polygon,TRUE,America/New_York,40059
+Ten Broeck-KY,1840030810,Ten Broeck,Ten Broeck,KY,Ten Broeck-KY,Kentucky,21111,Jefferson,38.2976,-85.5806,104,104,184,polygon,TRUE,America/New_York,40241
+Langley-KY,1840030492,Langley,Langley,KY,Langley-KY,Kentucky,21071,Floyd,37.5318,-82.7907,,,186.4,point,FALSE,America/New_York,41645
+Devon-KY,1840030429,Devon,Devon,KY,Devon-KY,Kentucky,21015,Boone,38.969,-84.6158,,,237.1,point,FALSE,America/New_York,41042
+Peaks Mill-KY,1840030552,Peaks Mill,Peaks Mill,KY,Peaks Mill-KY,Kentucky,21073,Franklin,38.2984,-84.8124,,,26.1,point,FALSE,America/New_York,40601
+Hall-KY,1840030462,Hall,Hall,KY,Hall-KY,Kentucky,21113,Jessamine,37.784,-84.6169,,,33.8,point,FALSE,America/New_York,40356
+Elk Horn-KY,1840030656,Elk Horn,Elk Horn,KY,Elk Horn-KY,Kentucky,21217,Taylor,37.3165,-85.2852,,,53.9,point,FALSE,America/New_York,42733
+Rolling Fields-KY,1840014303,Rolling Fields,Rolling Fields,KY,Rolling Fields-KY,Kentucky,21111,Jefferson,38.2689,-85.6708,663,663,1102,polygon,TRUE,America/New_York,40207
+Perryville-KY,1840014355,Perryville,Perryville,KY,Perryville-KY,Kentucky,21021,Boyle,37.6494,-84.9513,766,766,378,polygon,TRUE,America/New_York,40468
+Pierce-KY,1840030555,Pierce,Pierce,KY,Pierce-KY,Kentucky,21087,Green,37.1864,-85.6077,,,16.6,point,FALSE,America/Chicago,42743
+Hardin-KY,1840013274,Hardin,Hardin,KY,Hardin-KY,Kentucky,21157,Marshall,36.7652,-88.3023,612,612,337,polygon,TRUE,America/Chicago,42048
+Knifley-KY,1840030680,Knifley,Knifley,KY,Knifley-KY,Kentucky,21001,Adair,37.2428,-85.1894,,,21.1,point,FALSE,America/Chicago,42753
+Bee Spring-KY,1840030380,Bee Spring,Bee Spring,KY,Bee Spring-KY,Kentucky,21061,Edmonson,37.2895,-86.2847,,,39,point,FALSE,America/Chicago,42207
+Sycamore-KY,1840030809,Sycamore,Sycamore,KY,Sycamore-KY,Kentucky,21111,Jefferson,38.2468,-85.5612,164,164,3826,polygon,TRUE,America/New_York,40223
+Benton-KY,1840013275,Benton,Benton,KY,Benton-KY,Kentucky,21157,Marshall,36.8519,-88.3584,4632,4531,410,polygon,TRUE,America/Chicago,42025
+Ludlow-KY,1840015173,Ludlow,Ludlow,KY,Ludlow-KY,Kentucky,21117,Kenton,39.0905,-84.5497,4524,4524,1914,polygon,TRUE,America/New_York,41016
+Heath-KY,1840030465,Heath,Heath,KY,Heath-KY,Kentucky,21145,McCracken,37.0867,-88.7901,,,118.9,point,FALSE,America/Chicago,42086
+Boone-KY,1840030635,Boone,Boone,KY,Boone-KY,Kentucky,21203,Rockcastle,37.5176,-84.3166,,,30,point,FALSE,America/New_York,40403
+Whitesville-KY,1840015223,Whitesville,Whitesville,KY,Whitesville-KY,Kentucky,21059,Daviess,37.6831,-86.8697,537,537,496,polygon,TRUE,America/Chicago,42378
+Sedalia-KY,1840026921,Sedalia,Sedalia,KY,Sedalia-KY,Kentucky,21083,Graves,36.6438,-88.6049,,,129,polygon,FALSE,America/Chicago,42079 42066
+Crab Orchard-KY,1840014362,Crab Orchard,Crab Orchard,KY,Crab Orchard-KY,Kentucky,21137,Lincoln,37.4627,-84.5067,831,831,183,polygon,TRUE,America/New_York,40419
+Sebree-KY,1840015239,Sebree,Sebree,KY,Sebree-KY,Kentucky,21233,Webster,37.604,-87.5187,1573,1573,206,polygon,TRUE,America/Chicago,42455
+Sandgap-KY,1840030771,Sandgap,Sandgap,KY,Sandgap-KY,Kentucky,21109,Jackson,37.4862,-84.0905,,,48.5,point,FALSE,America/New_York,40447
+Mountain Valley-KY,1840030695,Mountain Valley,Mountain Valley,KY,Mountain Valley-KY,Kentucky,21025,Breathitt,37.6615,-83.2688,,,4.1,point,FALSE,America/New_York,41339
+Grays Branch-KY,1840030458,Grays Branch,Grays Branch,KY,Grays Branch-KY,Kentucky,21089,Greenup,38.6534,-82.8752,,,93.4,point,FALSE,America/New_York,41144
+Trenton-KY,1840015263,Trenton,Trenton,KY,Trenton-KY,Kentucky,21219,Todd,36.7226,-87.2631,378,378,264,polygon,TRUE,America/Chicago,42286
+Rabbit Hash-KY,1840026682,Rabbit Hash,Rabbit Hash,KY,Rabbit Hash-KY,Kentucky,21015,Boone,38.9239,-84.8503,,,37.5,polygon,FALSE,America/New_York,41091 41005
+Speight-KY,1840030717,Speight,Speight,KY,Speight-KY,Kentucky,21195,Pike,37.2751,-82.6874,,,22.7,point,FALSE,America/New_York,41572
+Baskett-KY,1840030376,Baskett,Baskett,KY,Baskett-KY,Kentucky,21101,Henderson,37.8709,-87.4625,,,160.1,point,FALSE,America/Chicago,42420
+Kingston-KY,1840030486,Kingston,Kingston,KY,Kingston-KY,Kentucky,21151,Madison,37.6504,-84.2416,,,158.1,point,FALSE,America/New_York,40403
+Union City-KY,1840030600,Union City,Union City,KY,Union City-KY,Kentucky,21151,Madison,37.7973,-84.1977,,,50,point,FALSE,America/New_York,40475
+McVeigh-KY,1840030516,McVeigh,McVeigh,KY,McVeigh-KY,Kentucky,21195,Pike,37.5384,-82.256,,,55.2,point,FALSE,America/New_York,41555
+Ekron-KY,1840013212,Ekron,Ekron,KY,Ekron-KY,Kentucky,21163,Meade,37.9302,-86.1765,146,146,347,polygon,TRUE,America/New_York,40117
+Mattoxtown-KY,1840030511,Mattoxtown,Mattoxtown,KY,Mattoxtown-KY,Kentucky,21067,Fayette,38.1273,-84.4502,,,44.1,point,FALSE,America/New_York,40511
+Bradfordsville-KY,1840013233,Bradfordsville,Bradfordsville,KY,Bradfordsville-KY,Kentucky,21155,Marion,37.4943,-85.1483,295,295,422,polygon,TRUE,America/New_York,40009
+Farristown-KY,1840030442,Farristown,Farristown,KY,Farristown-KY,Kentucky,21151,Madison,37.6226,-84.3002,,,37,point,FALSE,America/New_York,40403
+Worthington-KY,1840015185,Worthington,Worthington,KY,Worthington-KY,Kentucky,21089,Greenup,38.5508,-82.7349,1571,1571,537,polygon,TRUE,America/New_York,41183
+Halfway-KY,1840030669,Halfway,Halfway,KY,Halfway-KY,Kentucky,21003,Allen,36.7956,-86.2961,,,54.1,point,FALSE,America/Chicago,42164
+Loyall-KY,1840015264,Loyall,Loyall,KY,Loyall-KY,Kentucky,21095,Harlan,36.8527,-83.3506,639,639,836,polygon,TRUE,America/New_York,40806 40854
+Lola-KY,1840030685,Lola,Lola,KY,Lola-KY,Kentucky,21139,Livingston,37.3187,-88.3078,,,54.1,point,FALSE,America/Chicago,42078
+Eolia-KY,1840030657,Eolia,Eolia,KY,Eolia-KY,Kentucky,21133,Letcher,37.0537,-82.7915,,,11.4,point,FALSE,America/New_York,40826
+Lair-KY,1840030490,Lair,Lair,KY,Lair-KY,Kentucky,21097,Harrison,38.342,-84.3077,,,137.5,point,FALSE,America/New_York,41031
+Paris-KY,1840014315,Paris,Paris,KY,Paris-KY,Kentucky,21017,Bourbon,38.2015,-84.2717,12704,9840,483,polygon,TRUE,America/New_York,40361 40362
+Vancleve-KY,1840030726,Vancleve,Vancleve,KY,Vancleve-KY,Kentucky,21025,Breathitt,37.6276,-83.4135,,,6.8,point,FALSE,America/New_York,41385
+Glen Dean-KY,1840030454,Glen Dean,Glen Dean,KY,Glen Dean-KY,Kentucky,21027,Breckinridge,37.6534,-86.5411,,,9.5,point,FALSE,America/Chicago,40143
+Paintsville-KY,1840014331,Paintsville,Paintsville,KY,Paintsville-KY,Kentucky,21115,Johnson,37.8169,-82.8068,7323,4203,267,polygon,TRUE,America/New_York,41240
+Steubenville-KY,1840030588,Steubenville,Steubenville,KY,Steubenville-KY,Kentucky,21231,Wayne,36.8876,-84.8027,,,103.6,point,FALSE,America/Kentucky/Monticello,42633
+Hunters Hollow-KY,1840030799,Hunters Hollow,Hunters Hollow,KY,Hunters Hollow-KY,Kentucky,21029,Bullitt,38.0784,-85.6933,379,379,1731,polygon,TRUE,America/New_York,40229
+Woodlawn Park-KY,1840030619,Woodlawn Park,Woodlawn Park,KY,Woodlawn Park-KY,Kentucky,21111,Jefferson,38.2615,-85.6305,978,978,1558,polygon,TRUE,America/New_York,40207
+Hebron Estates-KY,1840014324,Hebron Estates,Hebron Estates,KY,Hebron Estates-KY,Kentucky,21029,Bullitt,38.0501,-85.6682,1153,1153,753,polygon,TRUE,America/New_York,40165
+South Williamson-KY,1840030585,South Williamson,South Williamson,KY,South Williamson-KY,Kentucky,21195,Pike,37.6633,-82.2879,,,782.3,polygon,FALSE,America/New_York,41514 41503
+Royville-KY,1840030571,Royville,Royville,KY,Royville-KY,Kentucky,21207,Russell,37.0667,-85.1058,,,175.8,point,FALSE,America/Chicago,42642
+Dunnville-KY,1840030435,Dunnville,Dunnville,KY,Dunnville-KY,Kentucky,21045,Casey,37.2001,-85.01,,,13,point,FALSE,America/New_York,42528
+Henderson-KY,1840014337,Henderson,Henderson,KY,Henderson-KY,Kentucky,21101,Henderson,37.8402,-87.5786,28841,28841,717,polygon,TRUE,America/Chicago,42420 42419
+Blandville-KY,1840013261,Blandville,Blandville,KY,Blandville-KY,Kentucky,21007,Ballard,36.9441,-88.9646,,,88.7,polygon,TRUE,America/Chicago,42087
+Sacramento-KY,1840015238,Sacramento,Sacramento,KY,Sacramento-KY,Kentucky,21149,McLean,37.416,-87.2678,459,459,411,polygon,TRUE,America/Chicago,42372
+Rectorville-KY,1840030562,Rectorville,Rectorville,KY,Rectorville-KY,Kentucky,21161,Mason,38.5765,-83.646,,,40.2,point,FALSE,America/New_York,41056
+Lyndon-KY,1840015191,Lyndon,Lyndon,KY,Lyndon-KY,Kentucky,21111,Jefferson,38.2644,-85.5891,11407,11407,1223,polygon,TRUE,America/New_York,40242 40223 40222
+Adairville-KY,1840013269,Adairville,Adairville,KY,Adairville-KY,Kentucky,21141,Logan,36.671,-86.8561,876,876,287,polygon,TRUE,America/Chicago,42202
+Beulah-KY,1840030385,Beulah,Beulah,KY,Beulah-KY,Kentucky,21107,Hopkins,37.2714,-87.6842,,,43.2,point,FALSE,America/Chicago,42408
+Graymoor-Devondale-KY,1840013205,Graymoor-Devondale,Graymoor-Devondale,KY,Graymoor-Devondale-KY,Kentucky,21111,Jefferson,38.2733,-85.6177,2960,2960,1550,polygon,TRUE,America/New_York,40222
+Middlesboro-KY,1840030520,Middlesboro,Middlesboro,KY,Middlesboro-KY,Kentucky,21013,Bell,36.6084,-83.7166,,,471.5,point,TRUE,America/New_York,40965
+Hills and Dales-KY,1840030798,Hills and Dales,Hills and Dales,KY,Hills and Dales-KY,Kentucky,21111,Jefferson,38.3005,-85.6249,144,144,557,polygon,TRUE,America/New_York,40241
+Masonville-KY,1840013224,Masonville,Masonville,KY,Masonville-KY,Kentucky,21059,Daviess,37.6718,-87.0511,,,35.5,polygon,FALSE,America/Chicago,42376
+Morgantown-KY,1840014380,Morgantown,Morgantown,KY,Morgantown-KY,Kentucky,21031,Butler,37.2173,-86.7001,2453,2453,284,polygon,TRUE,America/Chicago,42261
+Cayce-KY,1840026925,Cayce,Cayce,KY,Cayce-KY,Kentucky,21075,Fulton,36.5577,-89.0349,,,57.8,polygon,FALSE,America/Chicago,42041 42050
+Bedford-KY,1840013185,Bedford,Bedford,KY,Bedford-KY,Kentucky,21223,Trimble,38.5955,-85.3174,597,597,846,polygon,TRUE,America/New_York,40006
+Epleys-KY,1840030439,Epleys,Epleys,KY,Epleys-KY,Kentucky,21141,Logan,36.927,-86.9386,,,39,point,FALSE,America/Chicago,42276
+Paducah-KY,1840014388,Paducah,Paducah,KY,Paducah-KY,Kentucky,21145,McCracken,37.0711,-88.6435,49027,25145,481,polygon,TRUE,America/Chicago,42003 42001 42002
+Smith-KY,1840030715,Smith,Smith,KY,Smith-KY,Kentucky,21095,Harlan,36.7359,-83.2593,,,5.9,point,FALSE,America/New_York,40815
+Millville-KY,1840030523,Millville,Millville,KY,Millville-KY,Kentucky,21239,Woodford,38.137,-84.8219,,,29.2,point,FALSE,America/New_York,40601
+Dublin-KY,1840030433,Dublin,Dublin,KY,Dublin-KY,Kentucky,21083,Graves,36.7253,-88.8023,,,24.2,point,FALSE,America/Chicago,42039
+Lexington-KY,1840015211,Lexington,Lexington,KY,Lexington-KY,Kentucky,21067,Fayette,38.0423,-84.4587,312495,318449,433,polygon,TRUE,America/New_York,40508 40509 40505 40502 40504 40507 40503 40506 40511 40516 40513 40510 40517 40515 40514 40512 40522 40523 40524 40526 40533 40536 40544 40546 40550 40555 40574 40575 40576 40577 40578 40579 40580 40581 40582 40583 40588 40591 40598
+Oneida-KY,1840026864,Oneida,Oneida,KY,Oneida-KY,Kentucky,21051,Clay,37.2701,-83.6496,,,292.8,polygon,FALSE,America/New_York,40962 40972
+Stella-KY,1840030719,Stella,Stella,KY,Stella-KY,Kentucky,21035,Calloway,36.6403,-88.3967,,,85.8,point,FALSE,America/Chicago,42071
+Finchville-KY,1840030443,Finchville,Finchville,KY,Finchville-KY,Kentucky,21211,Shelby,38.1537,-85.3127,,,91.2,point,FALSE,America/New_York,40022
+Mentor-KY,1840014260,Mentor,Mentor,KY,Mentor-KY,Kentucky,21037,Campbell,38.8902,-84.2484,210,210,108,polygon,TRUE,America/New_York,41007
+Hollyhill-KY,1840030755,Hollyhill,Hollyhill,KY,Hollyhill-KY,Kentucky,21147,McCreary,36.6631,-84.3302,,,6.5,point,FALSE,America/New_York,40769
+Briensburg-KY,1840030394,Briensburg,Briensburg,KY,Briensburg-KY,Kentucky,21157,Marshall,36.9037,-88.3236,,,127.9,point,FALSE,America/Chicago,42025
+Oak Grove-KY,1840014397,Oak Grove,Oak Grove,KY,Oak Grove-KY,Kentucky,21047,Christian,36.6686,-87.4216,7370,7370,265,polygon,TRUE,America/Chicago,42262
+Forest Hills-KY,1840013202,Forest Hills,Forest Hills,KY,Forest Hills-KY,Kentucky,21111,Jefferson,38.2158,-85.5837,462,462,617,polygon,TRUE,America/New_York,40299
+Rockholds-KY,1840026916,Rockholds,Rockholds,KY,Rockholds-KY,Kentucky,21235,Whitley,36.8308,-84.1131,,,189.5,polygon,FALSE,America/New_York,40759
+Keene-KY,1840030482,Keene,Keene,KY,Keene-KY,Kentucky,21113,Jessamine,37.9434,-84.6419,,,115.3,point,FALSE,America/New_York,40339
+Olympia-KY,1840030767,Olympia,Olympia,KY,Olympia-KY,Kentucky,21011,Bath,38.0981,-83.6957,,,58.4,point,FALSE,America/New_York,40358
+Meadowbrook Farm-KY,1840030802,Meadowbrook Farm,Meadowbrook Farm,KY,Meadowbrook Farm-KY,Kentucky,21111,Jefferson,38.2782,-85.5748,137,137,2030,polygon,TRUE,America/New_York,40223
+Onton-KY,1840026833,Onton,Onton,KY,Onton-KY,Kentucky,21233,Webster,37.5579,-87.4371,,,53.6,polygon,FALSE,America/Chicago,42455
+Shawhan-KY,1840030579,Shawhan,Shawhan,KY,Shawhan-KY,Kentucky,21017,Bourbon,38.3017,-84.2724,,,14,point,FALSE,America/New_York,40361
+Allegre-KY,1840030360,Allegre,Allegre,KY,Allegre-KY,Kentucky,21219,Todd,36.9287,-87.2172,,,8.6,point,FALSE,America/Chicago,42220
+Sullivan-KY,1840030592,Sullivan,Sullivan,KY,Sullivan-KY,Kentucky,21225,Union,37.4975,-87.9453,,,55.2,point,FALSE,America/Chicago,42459
+Jeff-KY,1840026856,Jeff,Jeff,KY,Jeff-KY,Kentucky,21193,Perry,37.2093,-83.1395,,,112.8,polygon,FALSE,America/New_York,41774 41751
+Artemus-KY,1840026893,Artemus,Artemus,KY,Artemus-KY,Kentucky,21121,Knox,36.8352,-83.8414,,,179.6,polygon,FALSE,America/New_York,40906 40903
+Visalia-KY,1840030606,Visalia,Visalia,KY,Visalia-KY,Kentucky,21117,Kenton,38.9162,-84.4491,,,144.1,point,FALSE,America/New_York,41015
+Colesburg-KY,1840030411,Colesburg,Colesburg,KY,Colesburg-KY,Kentucky,21093,Hardin,37.7848,-85.7738,,,30.9,point,FALSE,America/New_York,42701
+Marion-KY,1840015248,Marion,Marion,KY,Marion-KY,Kentucky,21055,Crittenden,37.3321,-88.0795,2666,2981,346,polygon,TRUE,America/Chicago,42064
+Rockport-KY,1840014350,Rockport,Rockport,KY,Rockport-KY,Kentucky,21183,Ohio,37.3359,-86.9909,271,271,150,polygon,TRUE,America/Chicago,42369
+Blairs Mills-KY,1840030734,Blairs Mills,Blairs Mills,KY,Blairs Mills-KY,Kentucky,21175,Morgan,38.0829,-83.2918,,,5,point,FALSE,America/New_York,41472
+Ryland-KY,1840030573,Ryland,Ryland,KY,Ryland-KY,Kentucky,21117,Kenton,38.9387,-84.4691,,,84.7,point,FALSE,America/New_York,41015
+Shelbyville-KY,1840015205,Shelbyville,Shelbyville,KY,Shelbyville-KY,Kentucky,21211,Shelby,38.2059,-85.2306,22779,15514,723,polygon,TRUE,America/New_York,40065 40066
+Pellville-KY,1840030553,Pellville,Pellville,KY,Pellville-KY,Kentucky,21091,Hancock,37.7523,-86.8136,,,49.9,point,FALSE,America/Chicago,42348
+White Plains-KY,1840015246,White Plains,White Plains,KY,White Plains-KY,Kentucky,21107,Hopkins,37.1704,-87.3797,905,905,112,polygon,TRUE,America/Chicago,42464
+Brownsboro Village-KY,1840030396,Brownsboro Village,Brownsboro Village,KY,Brownsboro Village-KY,Kentucky,21111,Jefferson,38.2629,-85.6659,329,329,1695,polygon,TRUE,America/New_York,40207
+Burning Springs-KY,1840030735,Burning Springs,Burning Springs,KY,Burning Springs-KY,Kentucky,21051,Clay,37.2493,-83.8213,,,47.6,point,FALSE,America/New_York,40962
+Closplint-KY,1840030737,Closplint,Closplint,KY,Closplint-KY,Kentucky,21095,Harlan,36.904,-83.0688,,,95.8,point,FALSE,America/New_York,40927
+Jackson-KY,1840014357,Jackson,Jackson,KY,Jackson-KY,Kentucky,21025,Breathitt,37.5589,-83.3782,2435,2117,325,polygon,TRUE,America/New_York,41339
+Campton-KY,1840013226,Campton,Campton,KY,Campton-KY,Kentucky,21237,Wolfe,37.7353,-83.5473,425,425,164,polygon,TRUE,America/New_York,41301
+Sparta-KY,1840015177,Sparta,Sparta,KY,Sparta-KY,Kentucky,21077,Gallatin,38.6969,-84.9073,267,267,16,polygon,TRUE,America/New_York,41086
+Decoy-KY,1840030653,Decoy,Decoy,KY,Decoy-KY,Kentucky,21119,Knott,37.4957,-83.0941,,,2.3,point,FALSE,America/New_York,41339
+Sharpe-KY,1840030578,Sharpe,Sharpe,KY,Sharpe-KY,Kentucky,21157,Marshall,36.9687,-88.4584,,,96.9,point,FALSE,America/Chicago,42025
+Nicholasville-KY,1840014330,Nicholasville,Nicholasville,KY,Nicholasville-KY,Kentucky,21113,Jessamine,37.8914,-84.5665,30052,30006,857,polygon,TRUE,America/New_York,40356 40340
+Williamstown-KY,1840015179,Williamstown,Williamstown,KY,Williamstown-KY,Kentucky,21081,Grant,38.6415,-84.5676,4537,3965,91,polygon,TRUE,America/New_York,41097
+Henshaw-KY,1840030469,Henshaw,Henshaw,KY,Henshaw-KY,Kentucky,21225,Union,37.6217,-88.0556,,,70.4,point,FALSE,America/Chicago,42437
+Powderly-KY,1840014379,Powderly,Powderly,KY,Powderly-KY,Kentucky,21177,Muhlenberg,37.2374,-87.1588,734,734,178,polygon,TRUE,America/Chicago,42330 42367 42345
+Massac-KY,1840013263,Massac,Massac,KY,Massac-KY,Kentucky,21145,McCracken,37.0336,-88.6858,,,75.2,polygon,FALSE,America/Chicago,42001
+Butler-KY,1840013174,Butler,Butler,KY,Butler-KY,Kentucky,21191,Pendleton,38.7876,-84.372,594,594,1207,polygon,TRUE,America/New_York,41006
+Jenkins-KY,1840014385,Jenkins,Jenkins,KY,Jenkins-KY,Kentucky,21133,Letcher,37.1831,-82.6302,2070,2070,87,polygon,TRUE,America/New_York,41537
+Elkatawa-KY,1840030437,Elkatawa,Elkatawa,KY,Elkatawa-KY,Kentucky,21025,Breathitt,37.557,-83.4268,,,12.8,point,FALSE,America/New_York,41339
+Patesville-KY,1840030702,Patesville,Patesville,KY,Patesville-KY,Kentucky,21091,Hancock,37.782,-86.7189,,,7.5,point,FALSE,America/Chicago,42348
+Grove Center-KY,1840030459,Grove Center,Grove Center,KY,Grove Center-KY,Kentucky,21225,Union,37.6398,-88.0131,,,20.8,point,FALSE,America/Chicago,42437
+Saxton-KY,1840030772,Saxton,Saxton,KY,Saxton-KY,Kentucky,21235,Whitley,36.6337,-84.1099,,,69.7,point,FALSE,America/New_York,40769
+Fincastle-KY,1840013201,Fincastle,Fincastle,KY,Fincastle-KY,Kentucky,21111,Jefferson,38.3082,-85.5414,849,849,1538,polygon,TRUE,America/New_York,40241
+Taylorsville-KY,1840015213,Taylorsville,Taylorsville,KY,Taylorsville-KY,Kentucky,21215,Spencer,38.0354,-85.3429,1252,1252,1062,polygon,TRUE,America/New_York,40071
+Owenton-KY,1840014278,Owenton,Owenton,KY,Owenton-KY,Kentucky,21187,Owen,38.5386,-84.8408,1539,1539,311,polygon,TRUE,America/New_York,40359
+Summersville-KY,1840026853,Summersville,Summersville,KY,Summersville-KY,Kentucky,21087,Green,37.3265,-85.543,,,163.8,polygon,FALSE,America/Chicago,42743
+Aurora-KY,1840030371,Aurora,Aurora,KY,Aurora-KY,Kentucky,21157,Marshall,36.7767,-88.1442,,,14.8,point,FALSE,America/Chicago,42048
+Bonnieville-KY,1840013244,Bonnieville,Bonnieville,KY,Bonnieville-KY,Kentucky,21099,Hart,37.3776,-85.9011,262,262,182,polygon,TRUE,America/Chicago,42713
+Howardstown-KY,1840030672,Howardstown,Howardstown,KY,Howardstown-KY,Kentucky,21179,Nelson,37.5723,-85.5919,,,10.3,point,FALSE,America/New_York,40051
+Green Spring-KY,1840013206,Green Spring,Green Spring,KY,Green Spring-KY,Kentucky,21111,Jefferson,38.3163,-85.6137,738,738,1068,polygon,TRUE,America/New_York,40241
+Saint John-KY,1840030710,Saint John,Saint John,KY,Saint John-KY,Kentucky,21093,Hardin,37.6984,-85.9664,,,27.1,point,FALSE,America/New_York,42701
+Bernstadt-KY,1840030733,Bernstadt,Bernstadt,KY,Bernstadt-KY,Kentucky,21125,Laurel,37.1562,-84.1947,,,85.5,point,FALSE,America/New_York,40741
+Druid Hills-KY,1840030432,Druid Hills,Druid Hills,KY,Druid Hills-KY,Kentucky,21111,Jefferson,38.2649,-85.6617,320,320,1388,polygon,TRUE,America/New_York,40207
+Clay City-KY,1840014339,Clay City,Clay City,KY,Clay City-KY,Kentucky,21197,Powell,37.8622,-83.9275,1098,1098,400,polygon,TRUE,America/New_York,40312
+Idlewild-KY,1840030674,Idlewild,Idlewild,KY,Idlewild-KY,Kentucky,21015,Boone,39.0776,-84.7949,,,53.5,point,FALSE,America/New_York,41080
+Barbourmeade-KY,1840013200,Barbourmeade,Barbourmeade,KY,Barbourmeade-KY,Kentucky,21111,Jefferson,38.2986,-85.6009,1256,1256,1229,polygon,TRUE,America/New_York,40242 40241
+Cadiz-KY,1840013282,Cadiz,Cadiz,KY,Cadiz-KY,Kentucky,21221,Trigg,36.8696,-87.8045,3038,2626,341,polygon,TRUE,America/Chicago,42211
+Owingsville-KY,1840014316,Owingsville,Owingsville,KY,Owingsville-KY,Kentucky,21011,Bath,38.1364,-83.7603,1592,1592,244,polygon,TRUE,America/New_York,40360
+La Center-KY,1840014387,La Center,La Center,KY,La Center-KY,Kentucky,21007,Ballard,37.075,-88.9749,986,986,628,polygon,TRUE,America/Chicago,42056
+Threelinks-KY,1840030778,Threelinks,Threelinks,KY,Threelinks-KY,Kentucky,21109,Jackson,37.4679,-84.1894,,,10.9,point,FALSE,America/New_York,40447
+Loretto-KY,1840015236,Loretto,Loretto,KY,Loretto-KY,Kentucky,21155,Marion,37.6352,-85.3988,709,709,86,polygon,TRUE,America/New_York,40037
+Gracey-KY,1840026884,Gracey,Gracey,KY,Gracey-KY,Kentucky,21047,Christian,36.8792,-87.6638,,,162.6,polygon,FALSE,America/Chicago,42232
+Rosine-KY,1840026823,Rosine,Rosine,KY,Rosine-KY,Kentucky,21183,Ohio,37.4523,-86.7374,,,75.8,polygon,FALSE,America/Chicago,42370 42320 42349
+Stamping Ground-KY,1840015190,Stamping Ground,Stamping Ground,KY,Stamping Ground-KY,Kentucky,21209,Scott,38.2697,-84.683,746,746,492,polygon,TRUE,America/New_York,40379
+Fallsburg-KY,1840030441,Fallsburg,Fallsburg,KY,Fallsburg-KY,Kentucky,21127,Lawrence,38.1751,-82.6735,,,62.3,point,FALSE,America/New_York,41230
+Fulton-KY,1840013296,Fulton,Fulton,KY,Fulton-KY,Kentucky,21075,Fulton,36.5145,-88.8818,3924,2211,297,polygon,TRUE,America/Chicago,42041
+Carver-KY,1840030641,Carver,Carver,KY,Carver-KY,Kentucky,21153,Magoffin,37.6412,-83.0502,,,13.4,point,FALSE,America/New_York,41465
+Lewisport-KY,1840014333,Lewisport,Lewisport,KY,Lewisport-KY,Kentucky,21091,Hancock,37.931,-86.9026,1720,1720,697,polygon,TRUE,America/Chicago,42351
+Gilpin-KY,1840030663,Gilpin,Gilpin,KY,Gilpin-KY,Kentucky,21045,Casey,37.2567,-84.8819,,,5.4,point,FALSE,America/New_York,42539
+Sugar Grove-KY,1840030721,Sugar Grove,Sugar Grove,KY,Sugar Grove-KY,Kentucky,21031,Butler,37.09,-86.665,,,11.7,point,FALSE,America/Chicago,42261
+Frenchburg-KY,1840013216,Frenchburg,Frenchburg,KY,Frenchburg-KY,Kentucky,21165,Menifee,37.9542,-83.6226,535,535,245,polygon,TRUE,America/New_York,40322
+Fox Chase-KY,1840030796,Fox Chase,Fox Chase,KY,Fox Chase-KY,Kentucky,21029,Bullitt,38.046,-85.6911,479,479,484,polygon,TRUE,America/New_York,40165
+Fordsville-KY,1840013230,Fordsville,Fordsville,KY,Fordsville-KY,Kentucky,21183,Ohio,37.6356,-86.7171,532,532,458,polygon,TRUE,America/Chicago,42343
+Irvington-KY,1840014328,Irvington,Irvington,KY,Irvington-KY,Kentucky,21027,Breckinridge,37.8779,-86.2846,1178,1178,518,polygon,TRUE,America/Chicago,40146
+Willisburg-KY,1840015226,Willisburg,Willisburg,KY,Willisburg-KY,Kentucky,21229,Washington,37.8092,-85.1208,288,288,162,polygon,TRUE,America/New_York,40078
+Richardsville-KY,1840030565,Richardsville,Richardsville,KY,Richardsville-KY,Kentucky,21227,Warren,37.1048,-86.4708,,,110.2,point,FALSE,America/Chicago,42101
+Aberdeen-KY,1840030357,Aberdeen,Aberdeen,KY,Aberdeen-KY,Kentucky,21031,Butler,37.2539,-86.6817,,,38,point,FALSE,America/Chicago,42261
+Livia-KY,1840030684,Livia,Livia,KY,Livia-KY,Kentucky,21059,Daviess,37.5709,-87.1044,,,75.2,point,FALSE,America/Chicago,42376
+Pleasant View-KY,1840026915,Pleasant View,Pleasant View,KY,Pleasant View-KY,Kentucky,21235,Whitley,36.6781,-84.1284,,,259.1,polygon,FALSE,America/New_York,40769
+Carlisle-KY,1840014290,Carlisle,Carlisle,KY,Carlisle-KY,Kentucky,21181,Nicholas,38.3162,-84.0334,1994,1994,580,polygon,TRUE,America/New_York,40311
+La Grange-KY,1840014287,La Grange,La Grange,KY,La Grange-KY,Kentucky,21185,Oldham,38.3988,-85.375,8722,8722,466,polygon,TRUE,America/New_York,40031 40032
+Mount Olivet-KY,1840014280,Mount Olivet,Mount Olivet,KY,Mount Olivet-KY,Kentucky,21201,Robertson,38.5317,-84.0358,349,349,163,polygon,TRUE,America/New_York,41064
+Nebo-KY,1840014369,Nebo,Nebo,KY,Nebo-KY,Kentucky,21107,Hopkins,37.3832,-87.6415,229,229,356,polygon,TRUE,America/Chicago,42441
+Clay-KY,1840014359,Clay,Clay,KY,Clay-KY,Kentucky,21233,Webster,37.4763,-87.8203,1150,1150,515,polygon,TRUE,America/Chicago,42404
+Battletown-KY,1840030377,Battletown,Battletown,KY,Battletown-KY,Kentucky,21163,Meade,38.064,-86.2939,,,14.3,point,FALSE,America/New_York,40104
+Oneonta-KY,1840030624,Oneonta,Oneonta,KY,Oneonta-KY,Kentucky,21037,Campbell,38.9751,-84.3016,,,31.5,point,FALSE,America/New_York,41007
+Brownsboro Farm-KY,1840030395,Brownsboro Farm,Brownsboro Farm,KY,Brownsboro Farm-KY,Kentucky,21111,Jefferson,38.304,-85.5946,668,668,1134,polygon,TRUE,America/New_York,40241
+Cobb-KY,1840030410,Cobb,Cobb,KY,Cobb-KY,Kentucky,21033,Caldwell,36.9903,-87.7789,,,6.7,point,FALSE,America/Chicago,42445
+Wax-KY,1840030728,Wax,Wax,KY,Wax-KY,Kentucky,21085,Grayson,37.3542,-86.1222,,,14.5,point,FALSE,America/Chicago,42726
+McHenry-KY,1840015234,McHenry,McHenry,KY,McHenry-KY,Kentucky,21183,Ohio,37.3794,-86.9226,395,395,235,polygon,TRUE,America/Chicago,42320 42354
+Slade-KY,1840030774,Slade,Slade,KY,Slade-KY,Kentucky,21197,Powell,37.7951,-83.7041,,,17,point,FALSE,America/New_York,40376
+Coxton-KY,1840030417,Coxton,Coxton,KY,Coxton-KY,Kentucky,21095,Harlan,36.8581,-83.2681,,,198.9,polygon,FALSE,America/New_York,40831 40801 40828
+Slemp-KY,1840030775,Slemp,Slemp,KY,Slemp-KY,Kentucky,21193,Perry,37.0787,-83.1116,,,103.6,point,FALSE,America/New_York,41763
+Riley-KY,1840030568,Riley,Riley,KY,Riley-KY,Kentucky,21155,Marion,37.5595,-85.0988,,,16.8,point,FALSE,America/New_York,40328
+Beda-KY,1840030630,Beda,Beda,KY,Beda-KY,Kentucky,21183,Ohio,37.5078,-86.9494,,,19.2,point,FALSE,America/Chicago,42347
+Camp Springs-KY,1840030399,Camp Springs,Camp Springs,KY,Camp Springs-KY,Kentucky,21037,Campbell,39.002,-84.3647,,,57.1,point,FALSE,America/New_York,41059
+Sadieville-KY,1840015189,Sadieville,Sadieville,KY,Sadieville-KY,Kentucky,21209,Scott,38.3882,-84.5493,340,340,117,polygon,TRUE,America/New_York,40370
+Bagdad-KY,1840030374,Bagdad,Bagdad,KY,Bagdad-KY,Kentucky,21211,Shelby,38.2623,-85.0577,,,44.1,point,FALSE,America/New_York,40003
+Dorton-KY,1840030431,Dorton,Dorton,KY,Dorton-KY,Kentucky,21195,Pike,37.2768,-82.579,,,55.4,point,FALSE,America/New_York,41537
+Blackford-KY,1840030390,Blackford,Blackford,KY,Blackford-KY,Kentucky,21233,Webster,37.4484,-87.9347,,,39.7,point,FALSE,America/Chicago,42404
+Hargis-KY,1840030753,Hargis,Hargis,KY,Hargis-KY,Kentucky,21199,Pulaski,36.9651,-84.4902,,,13.3,point,FALSE,America/New_York,42519
+Leitchfield-KY,1840014366,Leitchfield,Leitchfield,KY,Leitchfield-KY,Kentucky,21085,Grayson,37.4863,-86.2857,6979,6874,244,polygon,TRUE,America/Chicago,42754 42755
+Creelsboro-KY,1840030418,Creelsboro,Creelsboro,KY,Creelsboro-KY,Kentucky,21207,Russell,36.8851,-85.1975,,,14.5,point,FALSE,America/Chicago,42629
+Brooklyn-KY,1840030636,Brooklyn,Brooklyn,KY,Brooklyn-KY,Kentucky,21031,Butler,37.2898,-86.5764,,,11.5,point,FALSE,America/Chicago,42261
+Samuels-KY,1840030575,Samuels,Samuels,KY,Samuels-KY,Kentucky,21179,Nelson,37.8828,-85.5333,,,34.3,point,FALSE,America/New_York,40013
+California-KY,1840013165,California,California,KY,California-KY,Kentucky,21037,Campbell,38.918,-84.264,86,86,146,polygon,TRUE,America/New_York,41007
+Lynch-KY,1840015265,Lynch,Lynch,KY,Lynch-KY,Kentucky,21095,Harlan,36.9641,-82.9139,694,694,894,polygon,TRUE,America/New_York,40855
+Anton-KY,1840030628,Anton,Anton,KY,Anton-KY,Kentucky,21107,Hopkins,37.352,-87.3947,,,36.9,point,FALSE,America/Chicago,42431
+Ritchie-KY,1840030708,Ritchie,Ritchie,KY,Ritchie-KY,Kentucky,21119,Knott,37.3115,-83.0835,,,17.9,point,FALSE,America/New_York,41701
+Reidland-KY,1840013264,Reidland,Reidland,KY,Reidland-KY,Kentucky,21145,McCracken,37.0086,-88.5261,,,262.7,polygon,FALSE,America/Chicago,42003
+Germantown-KY,1840013177,Germantown,Germantown,KY,Germantown-KY,Kentucky,21023,Bracken,38.6559,-83.9643,153,153,482,polygon,TRUE,America/New_York,41044
+Adams-KY,1840030626,Adams,Adams,KY,Adams-KY,Kentucky,21127,Lawrence,38.0545,-82.7077,,,5.3,point,FALSE,America/New_York,41201
+Princeton-KY,1840014382,Princeton,Princeton,KY,Princeton-KY,Kentucky,21033,Caldwell,37.1068,-87.8853,5695,6119,262,polygon,TRUE,America/Chicago,42445
+Fort Wright-KY,1840013171,Fort Wright,Fort Wright,KY,Fort Wright-KY,Kentucky,21117,Kenton,39.0462,-84.5362,5766,5766,655,polygon,TRUE,America/New_York,41011 41015 41017
+Wellington-KY,1840015199,Wellington,Wellington,KY,Wellington-KY,Kentucky,21111,Jefferson,38.2168,-85.6702,580,580,2455,polygon,TRUE,America/New_York,40205
+Corinth-KY,1840014270,Corinth,Corinth,KY,Corinth-KY,Kentucky,21081,Grant,38.4997,-84.6031,233,233,42,polygon,TRUE,America/New_York,41010
+Lake-KY,1840030761,Lake,Lake,KY,Lake-KY,Kentucky,21125,Laurel,37.0895,-83.8855,,,69.6,point,FALSE,America/New_York,40741
+High Bridge-KY,1840026799,High Bridge,High Bridge,KY,High Bridge-KY,Kentucky,21113,Jessamine,37.8299,-84.7096,,,102.9,polygon,FALSE,America/New_York,40390
+Mayfield-KY,1840015268,Mayfield,Mayfield,KY,Mayfield-KY,Kentucky,21083,Graves,36.7359,-88.6452,11328,9999,560,polygon,TRUE,America/Chicago,42066
+McRoberts-KY,1840013257,McRoberts,McRoberts,KY,McRoberts-KY,Kentucky,21133,Letcher,37.2132,-82.6686,,,79.2,polygon,FALSE,America/New_York,41835
+Tiline-KY,1840030599,Tiline,Tiline,KY,Tiline-KY,Kentucky,21139,Livingston,37.1726,-88.2445,,,27.5,point,FALSE,America/Chicago,42083
+Norwood-KY,1840014298,Norwood,Norwood,KY,Norwood-KY,Kentucky,21111,Jefferson,38.2521,-85.6107,383,383,1256,polygon,TRUE,America/New_York,40222
+Breckinridge Center-KY,1840030812,Breckinridge Center,Breckinridge Center,KY,Breckinridge Center-KY,Kentucky,21225,Union,37.682,-87.8657,,,461.2,polygon,FALSE,America/Chicago,42437
+Ledbetter-KY,1840013246,Ledbetter,Ledbetter,KY,Ledbetter-KY,Kentucky,21139,Livingston,37.0521,-88.4963,,,77,polygon,FALSE,America/Chicago,42058
+Riceville-KY,1840030707,Riceville,Riceville,KY,Riceville-KY,Kentucky,21115,Johnson,37.7345,-82.9243,,,38.1,point,FALSE,America/New_York,41240
+Lost Creek-KY,1840030687,Lost Creek,Lost Creek,KY,Lost Creek-KY,Kentucky,21025,Breathitt,37.4818,-83.3252,,,3.2,point,FALSE,America/New_York,41339
+Murray Hill-KY,1840030804,Murray Hill,Murray Hill,KY,Murray Hill-KY,Kentucky,21111,Jefferson,38.2907,-85.5871,607,607,1798,polygon,TRUE,America/New_York,40242 40241
+Cannonsburg-KY,1840026749,Cannonsburg,Cannonsburg,KY,Cannonsburg-KY,Kentucky,21019,Boyd,38.3806,-82.7006,,,433,polygon,FALSE,America/New_York,41102
+Van Lear-KY,1840030604,Van Lear,Van Lear,KY,Van Lear-KY,Kentucky,21115,Johnson,37.7712,-82.7579,,,72.2,point,FALSE,America/New_York,41265
+Conway-KY,1840030740,Conway,Conway,KY,Conway-KY,Kentucky,21203,Rockcastle,37.4779,-84.3344,,,30.6,point,FALSE,America/New_York,40403
+Vanceburg-KY,1840015187,Vanceburg,Vanceburg,KY,Vanceburg-KY,Kentucky,21135,Lewis,38.5938,-83.3211,1427,1427,462,polygon,TRUE,America/New_York,41179
+South Fork-KY,1840030583,South Fork,South Fork,KY,South Fork-KY,Kentucky,21137,Lincoln,37.4095,-84.738,,,22.6,point,FALSE,America/New_York,40437
+Halls Gap-KY,1840030463,Halls Gap,Halls Gap,KY,Halls Gap-KY,Kentucky,21137,Lincoln,37.462,-84.6333,,,23.4,point,FALSE,America/New_York,40489
+Garner-KY,1840030662,Garner,Garner,KY,Garner-KY,Kentucky,21119,Knott,37.3582,-82.9252,,,31.5,point,FALSE,America/New_York,41839
+Orchard Grass Hills-KY,1840030806,Orchard Grass Hills,Orchard Grass Hills,KY,Orchard Grass Hills-KY,Kentucky,21185,Oldham,38.3234,-85.5236,1734,1734,1724,polygon,TRUE,America/New_York,40014
+Mockingbird Valley-KY,1840030527,Mockingbird Valley,Mockingbird Valley,KY,Mockingbird Valley-KY,Kentucky,21111,Jefferson,38.2701,-85.6816,169,169,309,polygon,TRUE,America/New_York,40207
+Heidrick-KY,1840030467,Heidrick,Heidrick,KY,Heidrick-KY,Kentucky,21121,Knox,36.8826,-83.8785,,,280.8,point,FALSE,America/New_York,40949
+Park City-KY,1840014395,Park City,Park City,KY,Park City-KY,Kentucky,21009,Barren,37.0934,-86.0486,562,562,148,polygon,TRUE,America/Chicago,42160
+Hindman-KY,1840014373,Hindman,Hindman,KY,Hindman-KY,Kentucky,21119,Knott,37.335,-82.9819,733,733,90,polygon,TRUE,America/New_York,41822
+Zag-KY,1840030786,Zag,Zag,KY,Zag-KY,Kentucky,21175,Morgan,37.9868,-83.3649,,,11.3,point,FALSE,America/New_York,41472
+Trent-KY,1840030724,Trent,Trent,KY,Trent-KY,Kentucky,21237,Wolfe,37.772,-83.4613,,,15.6,point,FALSE,America/New_York,41301
+Eminence-KY,1840013187,Eminence,Eminence,KY,Eminence-KY,Kentucky,21103,Henry,38.3637,-85.1779,2566,2566,350,polygon,TRUE,America/New_York,40019
+McQuady-KY,1840030515,McQuady,McQuady,KY,McQuady-KY,Kentucky,21027,Breckinridge,37.7084,-86.5189,,,8.9,point,FALSE,America/Chicago,40119
+Warfield-KY,1840015221,Warfield,Warfield,KY,Warfield-KY,Kentucky,21159,Martin,37.8416,-82.4223,250,250,116,polygon,TRUE,America/New_York,41267
+Simpsonville-KY,1840015206,Simpsonville,Simpsonville,KY,Simpsonville-KY,Kentucky,21211,Shelby,38.2166,-85.3514,2751,2751,453,polygon,TRUE,America/New_York,40067
+Bullittsville-KY,1840030397,Bullittsville,Bullittsville,KY,Bullittsville-KY,Kentucky,21015,Boone,39.0753,-84.7386,,,275.3,point,FALSE,America/New_York,41048
+Primrose-KY,1840030705,Primrose,Primrose,KY,Primrose-KY,Kentucky,21129,Lee,37.6023,-83.6085,,,15.5,point,FALSE,America/New_York,41311
+Ravenna-KY,1840014343,Ravenna,Ravenna,KY,Ravenna-KY,Kentucky,21065,Estill,37.6871,-83.9502,586,586,723,polygon,TRUE,America/New_York,40472
+Oakbrook-KY,1840030814,Oakbrook,Oakbrook,KY,Oakbrook-KY,Kentucky,21015,Boone,38.9996,-84.6795,,,1965.2,polygon,FALSE,America/New_York,41042
+Athens-KY,1840030369,Athens,Athens,KY,Athens-KY,Kentucky,21067,Fayette,37.9492,-84.3641,,,56.5,point,FALSE,America/New_York,40515
+Bewleyville-KY,1840030386,Bewleyville,Bewleyville,KY,Bewleyville-KY,Kentucky,21027,Breckinridge,37.8401,-86.2444,,,10.7,point,FALSE,America/Chicago,40146
+Plantation-KY,1840014300,Plantation,Plantation,KY,Plantation-KY,Kentucky,21111,Jefferson,38.2834,-85.5939,862,862,1647,polygon,TRUE,America/New_York,40242
+Westport-KY,1840024676,Westport,Westport,KY,Westport-KY,Kentucky,21185,Oldham,38.4873,-85.4753,,,155.8,polygon,FALSE,America/New_York,40077
+Payne Gap-KY,1840026875,Payne Gap,Payne Gap,KY,Payne Gap-KY,Kentucky,21133,Letcher,37.1509,-82.667,,,73.4,polygon,FALSE,America/New_York,41537
+Corydon-KY,1840014335,Corydon,Corydon,KY,Corydon-KY,Kentucky,21101,Henderson,37.7403,-87.7063,702,702,499,polygon,TRUE,America/Chicago,42406
+Jessietown-KY,1840030480,Jessietown,Jessietown,KY,Jessietown-KY,Kentucky,21155,Marion,37.4809,-85.325,,,14.3,point,FALSE,America/New_York,42718
+Elsmere-KY,1840013167,Elsmere,Elsmere,KY,Elsmere-KY,Kentucky,21117,Kenton,38.9949,-84.6017,8520,8520,1254,polygon,TRUE,America/New_York,41018 41042
+Georgetown-KY,1840013197,Georgetown,Georgetown,KY,Georgetown-KY,Kentucky,21209,Scott,38.2253,-84.5481,35353,33440,779,polygon,TRUE,America/New_York,40324
+Casky-KY,1840030642,Casky,Casky,KY,Casky-KY,Kentucky,21047,Christian,36.817,-87.4322,,,13.4,point,FALSE,America/Chicago,42240
+Huntsville-KY,1840030621,Huntsville,Huntsville,KY,Huntsville-KY,Kentucky,21031,Butler,37.1634,-86.8817,,,16.6,point,FALSE,America/Chicago,42261
+Doe Valley-KY,1840030816,Doe Valley,Doe Valley,KY,Doe Valley-KY,Kentucky,21163,Meade,37.9745,-86.1107,,,120,polygon,FALSE,America/New_York,40108
+Claryville-KY,1840030406,Claryville,Claryville,KY,Claryville-KY,Kentucky,21037,Campbell,38.9141,-84.4103,,,303.4,polygon,FALSE,America/New_York,41001
+Hillsboro-KY,1840030474,Hillsboro,Hillsboro,KY,Hillsboro-KY,Kentucky,21069,Fleming,38.2934,-83.6588,,,17.3,point,FALSE,America/New_York,41049
+Vortex-KY,1840030783,Vortex,Vortex,KY,Vortex-KY,Kentucky,21237,Wolfe,37.6973,-83.5271,,,37.5,point,FALSE,America/New_York,41301
+Houston Acres-KY,1840030478,Houston Acres,Houston Acres,KY,Houston Acres-KY,Kentucky,21111,Jefferson,38.2147,-85.6143,504,504,1350,polygon,TRUE,America/New_York,40220
+LaFayette-KY,1840014400,LaFayette,LaFayette,KY,LaFayette-KY,Kentucky,21047,Christian,36.6599,-87.6583,168,168,251,polygon,TRUE,America/Chicago,42254
+Fairview-KY,1840013169,Fairview,Fairview,KY,Fairview-KY,Kentucky,21117,Kenton,38.9978,-84.4854,145,145,76,polygon,TRUE,America/New_York,41015
+Birdsville-KY,1840030389,Birdsville,Birdsville,KY,Birdsville-KY,Kentucky,21139,Livingston,37.2212,-88.4481,,,48.1,point,FALSE,America/Chicago,42081
+Island-KY,1840014358,Island,Island,KY,Island-KY,Kentucky,21149,McLean,37.4433,-87.1474,457,457,524,polygon,TRUE,America/Chicago,42350
+Oxford-KY,1840030548,Oxford,Oxford,KY,Oxford-KY,Kentucky,21209,Scott,38.2684,-84.503,,,42.2,point,FALSE,America/New_York,40324
+Plano-KY,1840026880,Plano,Plano,KY,Plano-KY,Kentucky,21227,Warren,36.8772,-86.4165,,,479.1,polygon,FALSE,America/Chicago,42104
+Tolu-KY,1840026847,Tolu,Tolu,KY,Tolu-KY,Kentucky,21055,Crittenden,37.4337,-88.2452,,,78.8,polygon,FALSE,America/Chicago,42084 42064
+Park Hills-KY,1840014266,Park Hills,Park Hills,KY,Park Hills-KY,Kentucky,21117,Kenton,39.0691,-84.5312,2999,2999,1492,polygon,TRUE,America/New_York,41011
+Booneville-KY,1840013240,Booneville,Booneville,KY,Booneville-KY,Kentucky,21189,Owsley,37.4743,-83.6802,76,76,50,polygon,TRUE,America/New_York,41314
+Oakton-KY,1840030545,Oakton,Oakton,KY,Oakton-KY,Kentucky,21105,Hickman,36.6634,-89.0673,,,12.9,point,FALSE,America/Chicago,42031
+Wurtland-KY,1840015186,Wurtland,Wurtland,KY,Wurtland-KY,Kentucky,21089,Greenup,38.5495,-82.7788,1036,1036,226,polygon,TRUE,America/New_York,41144
+Pembroke-KY,1840014398,Pembroke,Pembroke,KY,Pembroke-KY,Kentucky,21047,Christian,36.7753,-87.358,874,874,305,polygon,TRUE,America/Chicago,42266
+Anchorage-KY,1840013198,Anchorage,Anchorage,KY,Anchorage-KY,Kentucky,21111,Jefferson,38.2689,-85.5364,2425,2425,316,polygon,TRUE,America/New_York,40223
+Almo-KY,1840030362,Almo,Almo,KY,Almo-KY,Kentucky,21035,Calloway,36.6948,-88.2784,,,106.3,point,FALSE,America/Chicago,42020
+Crossgate-KY,1840030422,Crossgate,Crossgate,KY,Crossgate-KY,Kentucky,21111,Jefferson,38.2793,-85.6296,229,229,1725,polygon,TRUE,America/New_York,40222
+Plum Springs-KY,1840014390,Plum Springs,Plum Springs,KY,Plum Springs-KY,Kentucky,21227,Warren,37.0198,-86.3824,498,498,642,polygon,TRUE,America/Chicago,42101
+Nancy-KY,1840030537,Nancy,Nancy,KY,Nancy-KY,Kentucky,21199,Pulaski,37.0717,-84.748,,,36.9,point,FALSE,America/New_York,42544
+Glendale-KY,1840030455,Glendale,Glendale,KY,Glendale-KY,Kentucky,21093,Hardin,37.6017,-85.9055,,,185.8,point,FALSE,America/New_York,42740
+Garrison-KY,1840026729,Garrison,Garrison,KY,Garrison-KY,Kentucky,21135,Lewis,38.6075,-83.1834,,,215,polygon,FALSE,America/New_York,41179 41141
+Crescent Park-KY,1840030419,Crescent Park,Crescent Park,KY,Crescent Park-KY,Kentucky,21117,Kenton,39.0434,-84.5741,,,1808.2,point,FALSE,America/New_York,41017
+Langdon Place-KY,1840030800,Langdon Place,Langdon Place,KY,Langdon Place-KY,Kentucky,21111,Jefferson,38.2864,-85.5855,974,974,2048,polygon,TRUE,America/New_York,40242 40241
+Carter-KY,1840030403,Carter,Carter,KY,Carter-KY,Kentucky,21043,Carter,38.429,-83.1207,,,71.8,point,FALSE,America/New_York,41164
+Springlake-KY,1840030625,Springlake,Springlake,KY,Springlake-KY,Kentucky,21117,Kenton,38.9951,-84.4649,,,44.6,point,FALSE,America/New_York,41015
+Fox Creek-KY,1840030448,Fox Creek,Fox Creek,KY,Fox Creek-KY,Kentucky,21005,Anderson,37.9879,-84.968,,,18.1,point,FALSE,America/New_York,40342
+Ashland-KY,1840013195,Ashland,Ashland,KY,Ashland-KY,Kentucky,21019,Boyd,38.4593,-82.6449,21038,21038,756,polygon,TRUE,America/New_York,41102 41101 41105 41114
+Fancy Farm-KY,1840026917,Fancy Farm,Fancy Farm,KY,Fancy Farm-KY,Kentucky,21083,Graves,36.8003,-88.7928,,,110.3,polygon,FALSE,America/Chicago,42039
+Sunnybrook-KY,1840030593,Sunnybrook,Sunnybrook,KY,Sunnybrook-KY,Kentucky,21231,Wayne,36.6578,-84.9758,,,4.5,point,FALSE,America/Kentucky/Monticello,42633
+Burgin-KY,1840013223,Burgin,Burgin,KY,Burgin-KY,Kentucky,21167,Mercer,37.7544,-84.7632,968,968,297,polygon,TRUE,America/New_York,40330 40310
+Hillview-KY,1840014325,Hillview,Hillview,KY,Hillview-KY,Kentucky,21029,Bullitt,38.055,-85.6793,8851,8851,1141,polygon,TRUE,America/New_York,40229 40165 40129
+Madisonville-KY,1840015244,Madisonville,Madisonville,KY,Madisonville-KY,Kentucky,21107,Hopkins,37.341,-87.5033,24565,19399,417,polygon,TRUE,America/Chicago,42431
+Albany-KY,1840013289,Albany,Albany,KY,Albany-KY,Kentucky,21053,Clinton,36.6906,-85.1353,2013,2013,341,polygon,TRUE,America/Chicago,42602
+Mount Sterling-KY,1840014319,Mount Sterling,Mount Sterling,KY,Mount Sterling-KY,Kentucky,21173,Montgomery,38.0647,-83.9473,11380,7242,633,polygon,TRUE,America/New_York,40353
+Auxier-KY,1840026818,Auxier,Auxier,KY,Auxier-KY,Kentucky,21071,Floyd,37.7356,-82.7662,,,216.3,polygon,FALSE,America/New_York,41602
+Russell-KY,1840014275,Russell,Russell,KY,Russell-KY,Kentucky,21089,Greenup,38.5136,-82.6963,3244,3244,417,polygon,TRUE,America/New_York,41169
+Elk Creek-KY,1840025690,Elk Creek,Elk Creek,KY,Elk Creek-KY,Kentucky,21215,Spencer,38.117,-85.3722,,,192.3,polygon,FALSE,America/New_York,40023 40071
+Long Ridge-KY,1840030686,Long Ridge,Long Ridge,KY,Long Ridge-KY,Kentucky,21187,Owen,38.5873,-84.8236,,,14.7,point,FALSE,America/New_York,40359
+Williamsburg-KY,1840015267,Williamsburg,Williamsburg,KY,Williamsburg-KY,Kentucky,21235,Whitley,36.7393,-84.1645,6046,5313,492,polygon,TRUE,America/New_York,40769
+Bremen-KY,1840013250,Bremen,Bremen,KY,Bremen-KY,Kentucky,21177,Muhlenberg,37.3623,-87.22,194,194,362,polygon,TRUE,America/Chicago,42325 42330
+Taylorsport-KY,1840030596,Taylorsport,Taylorsport,KY,Taylorsport-KY,Kentucky,21015,Boone,39.0998,-84.6933,,,76.7,point,FALSE,America/New_York,41048
+Pippa Passes-KY,1840014372,Pippa Passes,Pippa Passes,KY,Pippa Passes-KY,Kentucky,21119,Knott,37.3342,-82.8733,643,643,556,polygon,TRUE,America/New_York,41844
+Big Clifty-KY,1840030387,Big Clifty,Big Clifty,KY,Big Clifty-KY,Kentucky,21085,Grayson,37.5441,-86.1514,,,147.4,polygon,FALSE,America/New_York,42712
+Poindexter-KY,1840030704,Poindexter,Poindexter,KY,Poindexter-KY,Kentucky,21097,Harrison,38.437,-84.3083,,,8.9,point,FALSE,America/New_York,41031
+Clay Village-KY,1840030407,Clay Village,Clay Village,KY,Clay Village-KY,Kentucky,21211,Shelby,38.1926,-85.1072,,,69.9,point,FALSE,America/New_York,40065
+Sturgis-KY,1840015227,Sturgis,Sturgis,KY,Sturgis-KY,Kentucky,21225,Union,37.5465,-87.9878,1890,1890,465,polygon,TRUE,America/Chicago,42459
+Cowan-KY,1840030416,Cowan,Cowan,KY,Cowan-KY,Kentucky,21069,Fleming,38.4073,-83.8919,,,37.3,point,FALSE,America/New_York,41039
+Milford-KY,1840030522,Milford,Milford,KY,Milford-KY,Kentucky,21023,Bracken,38.5817,-84.1566,,,17.2,point,FALSE,America/New_York,41004
+Narrows-KY,1840030538,Narrows,Narrows,KY,Narrows-KY,Kentucky,21183,Ohio,37.5673,-86.73,,,5.6,point,FALSE,America/Chicago,42347
+Bellevue-KY,1840013164,Bellevue,Bellevue,KY,Bellevue-KY,Kentucky,21037,Campbell,39.1011,-84.4776,5845,5845,2419,polygon,TRUE,America/New_York,41073
+Ewing-KY,1840013190,Ewing,Ewing,KY,Ewing-KY,Kentucky,21069,Fleming,38.4278,-83.8618,264,264,406,polygon,TRUE,America/New_York,41039
+Custer-KY,1840030426,Custer,Custer,KY,Custer-KY,Kentucky,21027,Breckinridge,37.7384,-86.2547,,,26.4,point,FALSE,America/Chicago,40146
+Gratz-KY,1840013186,Gratz,Gratz,KY,Gratz-KY,Kentucky,21187,Owen,38.4718,-84.947,77,77,85,polygon,TRUE,America/New_York,40359
+Richwood-KY,1840030567,Richwood,Richwood,KY,Richwood-KY,Kentucky,21015,Boone,38.9206,-84.6249,,,17.9,point,FALSE,America/New_York,41094
+Kirkwood-KY,1840030679,Kirkwood,Kirkwood,KY,Kirkwood-KY,Kentucky,21167,Mercer,37.9165,-84.9233,,,5.8,point,FALSE,America/New_York,40372
+Hickory Hill-KY,1840030797,Hickory Hill,Hickory Hill,KY,Hickory Hill-KY,Kentucky,21111,Jefferson,38.2877,-85.5679,115,115,1676,polygon,TRUE,America/New_York,40241
+Calvert City-KY,1840013276,Calvert City,Calvert City,KY,Calvert City-KY,Kentucky,21157,Marshall,37.0289,-88.3593,2550,2550,54,polygon,TRUE,America/Chicago,42044 42029
+Mays Lick-KY,1840026726,Mays Lick,Mays Lick,KY,Mays Lick-KY,Kentucky,21161,Mason,38.5169,-83.8452,,,60.5,polygon,FALSE,America/New_York,41055
+Rolling Hills-KY,1840014304,Rolling Hills,Rolling Hills,KY,Rolling Hills-KY,Kentucky,21111,Jefferson,38.2825,-85.5784,992,992,2022,polygon,TRUE,America/New_York,40242
+Riverwood-KY,1840014302,Riverwood,Riverwood,KY,Riverwood-KY,Kentucky,21111,Jefferson,38.2831,-85.6615,465,465,862,polygon,TRUE,America/New_York,40207
+Greenwood-KY,1840030751,Greenwood,Greenwood,KY,Greenwood-KY,Kentucky,21147,McCreary,36.8745,-84.4955,,,24.8,point,FALSE,America/New_York,42634
+Villa Hills-KY,1840015176,Villa Hills,Villa Hills,KY,Villa Hills-KY,Kentucky,21117,Kenton,39.0656,-84.5951,7468,7468,799,polygon,TRUE,America/New_York,41017
+Annville-KY,1840013236,Annville,Annville,KY,Annville-KY,Kentucky,21109,Jackson,37.3255,-83.9622,,,127.3,polygon,FALSE,America/New_York,40402 40486
+Lackey-KY,1840030489,Lackey,Lackey,KY,Lackey-KY,Kentucky,21071,Floyd,37.4684,-82.8288,,,44.2,point,FALSE,America/New_York,41643
+Fullerton-KY,1840030450,Fullerton,Fullerton,KY,Fullerton-KY,Kentucky,21089,Greenup,38.7217,-82.9818,,,53.6,point,FALSE,America/New_York,41174
+Coldiron-KY,1840026896,Coldiron,Coldiron,KY,Coldiron-KY,Kentucky,21095,Harlan,36.8283,-83.4519,,,228.2,polygon,FALSE,America/New_York,40819 40873
+Flemingsburg-KY,1840013191,Flemingsburg,Flemingsburg,KY,Flemingsburg-KY,Kentucky,21069,Fleming,38.4236,-83.7371,3011,2864,414,polygon,TRUE,America/New_York,41041
+Sardis-KY,1840015181,Sardis,Sardis,KY,Sardis-KY,Kentucky,21161,Mason,38.5348,-83.9573,100,100,38,polygon,TRUE,America/New_York,41064 41055
+Salyersville-KY,1840015230,Salyersville,Salyersville,KY,Salyersville-KY,Kentucky,21153,Magoffin,37.7459,-83.0646,1800,1800,281,polygon,TRUE,America/New_York,41465
+Knob Lick-KY,1840030681,Knob Lick,Knob Lick,KY,Knob Lick-KY,Kentucky,21169,Metcalfe,37.0784,-85.6944,,,12.6,point,FALSE,America/Chicago,42129
+Hyden-KY,1840014383,Hyden,Hyden,KY,Hyden-KY,Kentucky,21131,Leslie,37.162,-83.3779,351,351,105,polygon,TRUE,America/New_York,41749
+Big Spring-KY,1840030388,Big Spring,Big Spring,KY,Big Spring-KY,Kentucky,21027,Breckinridge,37.7992,-86.1522,,,37.4,point,FALSE,America/Chicago,40175
+Silver Grove-KY,1840015169,Silver Grove,Silver Grove,KY,Silver Grove-KY,Kentucky,21037,Campbell,39.0404,-84.3995,1117,1117,380,polygon,TRUE,America/New_York,41076 41059 41085
+Alexandria-KY,1840013162,Alexandria,Alexandria,KY,Alexandria-KY,Kentucky,21037,Campbell,38.9622,-84.3861,9340,9340,521,polygon,TRUE,America/New_York,41001
+Lawrenceburg-KY,1840014321,Lawrenceburg,Lawrenceburg,KY,Lawrenceburg-KY,Kentucky,21005,Anderson,38.0331,-84.9031,13262,11169,718,polygon,TRUE,America/New_York,40342
+Meldrum-KY,1840030517,Meldrum,Meldrum,KY,Meldrum-KY,Kentucky,21013,Bell,36.667,-83.6941,,,57.5,point,FALSE,America/New_York,40965
+Hardyville-KY,1840026854,Hardyville,Hardyville,KY,Hardyville-KY,Kentucky,21099,Hart,37.2535,-85.7896,,,121,polygon,FALSE,America/Chicago,42746
+Belmont-KY,1840030384,Belmont,Belmont,KY,Belmont-KY,Kentucky,21029,Bullitt,37.8965,-85.7136,,,83.9,point,FALSE,America/New_York,40150
+Bloomfield-KY,1840013221,Bloomfield,Bloomfield,KY,Bloomfield-KY,Kentucky,21179,Nelson,37.9122,-85.314,1064,1064,285,polygon,TRUE,America/New_York,40008
+Scottsville-KY,1840015271,Scottsville,Scottsville,KY,Scottsville-KY,Kentucky,21003,Allen,36.7493,-86.1966,4442,4416,299,polygon,TRUE,America/Chicago,42164
+McKee-KY,1840015243,McKee,McKee,KY,McKee-KY,Kentucky,21109,Jackson,37.4303,-83.9869,788,788,130,polygon,TRUE,America/New_York,40447
+Old Washington-KY,1840030788,Old Washington,Old Washington,KY,Old Washington-KY,Kentucky,21161,Mason,38.6159,-83.8085,,,336.5,point,FALSE,America/New_York,41056
+Gamaliel-KY,1840013292,Gamaliel,Gamaliel,KY,Gamaliel-KY,Kentucky,21171,Monroe,36.6401,-85.796,363,363,247,polygon,TRUE,America/Chicago,42140
+Majestic-KY,1840030507,Majestic,Majestic,KY,Majestic-KY,Kentucky,21195,Pike,37.534,-82.0999,,,9.6,point,FALSE,America/New_York,41547
+Westwood-KY,1840030612,Westwood,Westwood,KY,Westwood-KY,Kentucky,21111,Jefferson,38.2796,-85.5842,655,655,2090,polygon,TRUE,America/New_York,40242
+Kirksey-KY,1840030488,Kirksey,Kirksey,KY,Kirksey-KY,Kentucky,21035,Calloway,36.6987,-88.3953,,,90,point,FALSE,America/Chicago,42054
+Alvaton-KY,1840030365,Alvaton,Alvaton,KY,Alvaton-KY,Kentucky,21227,Warren,36.8734,-86.353,,,117.6,point,FALSE,America/Chicago,42122
+Memphis Junction-KY,1840030518,Memphis Junction,Memphis Junction,KY,Memphis Junction-KY,Kentucky,21227,Warren,36.9423,-86.4892,,,223.2,point,FALSE,America/Chicago,42101
+Strathmoor Village-KY,1840030590,Strathmoor Village,Strathmoor Village,KY,Strathmoor Village-KY,Kentucky,21111,Jefferson,38.2208,-85.6778,667,667,2466,polygon,TRUE,America/New_York,40205
+Hoskinston-KY,1840030756,Hoskinston,Hoskinston,KY,Hoskinston-KY,Kentucky,21131,Leslie,37.0773,-83.3916,,,18.3,point,FALSE,America/New_York,40844
+Clifty-KY,1840030409,Clifty,Clifty,KY,Clifty-KY,Kentucky,21219,Todd,36.9953,-87.1478,,,109.7,point,FALSE,America/Chicago,42256
+Brandenburg-KY,1840013213,Brandenburg,Brandenburg,KY,Brandenburg-KY,Kentucky,21163,Meade,37.9955,-86.1766,2873,2873,266,polygon,TRUE,America/New_York,40108
+Greensburg-KY,1840013243,Greensburg,Greensburg,KY,Greensburg-KY,Kentucky,21087,Green,37.2598,-85.4966,2128,2128,395,polygon,TRUE,America/Chicago,42743
+Woodlawn-KY,1840015172,Woodlawn,Woodlawn,KY,Woodlawn-KY,Kentucky,21037,Campbell,39.091,-84.4729,231,231,1514,polygon,TRUE,America/New_York,41071
+Mason-KY,1840030510,Mason,Mason,KY,Mason-KY,Kentucky,21081,Grant,38.5762,-84.5852,,,18.3,point,FALSE,America/New_York,41097
+Inez-KY,1840014338,Inez,Inez,KY,Inez-KY,Kentucky,21159,Martin,37.8693,-82.5399,672,672,150,polygon,TRUE,America/New_York,41224
+Marrowbone-KY,1840026923,Marrowbone,Marrowbone,KY,Marrowbone-KY,Kentucky,21057,Cumberland,36.8319,-85.5053,,,48.5,polygon,FALSE,America/Chicago,42731 42717
+Belcher-KY,1840030381,Belcher,Belcher,KY,Belcher-KY,Kentucky,21195,Pike,37.3418,-82.3735,,,55.6,point,FALSE,America/New_York,41522
+Woodland Hills-KY,1840015203,Woodland Hills,Woodland Hills,KY,Woodland Hills-KY,Kentucky,21111,Jefferson,38.2393,-85.5288,741,741,1357,polygon,TRUE,America/New_York,40243
+Furnace-KY,1840030748,Furnace,Furnace,KY,Furnace-KY,Kentucky,21065,Estill,37.762,-83.8316,,,42.9,point,FALSE,America/New_York,40472
+Gilbertsville-KY,1840026892,Gilbertsville,Gilbertsville,KY,Gilbertsville-KY,Kentucky,21157,Marshall,37.0284,-88.3104,,,45.3,polygon,FALSE,America/Chicago,42044 42029
+Beech Grove-KY,1840026830,Beech Grove,Beech Grove,KY,Beech Grove-KY,Kentucky,21149,McLean,37.6183,-87.3921,,,114.8,polygon,FALSE,America/Chicago,42327 42322
+Moscow-KY,1840030532,Moscow,Moscow,KY,Moscow-KY,Kentucky,21105,Hickman,36.607,-89.0362,,,32.5,point,FALSE,America/Chicago,42031
+Smiths Creek-KY,1840030716,Smiths Creek,Smiths Creek,KY,Smiths Creek-KY,Kentucky,21043,Carter,38.4587,-83.186,,,20.3,point,FALSE,America/New_York,41164
+Olive Hill-KY,1840014289,Olive Hill,Olive Hill,KY,Olive Hill-KY,Kentucky,21043,Carter,38.3033,-83.1696,1591,1591,322,polygon,TRUE,America/New_York,41164
+Cleaton-KY,1840030408,Cleaton,Cleaton,KY,Cleaton-KY,Kentucky,21177,Muhlenberg,37.2518,-87.0903,,,165,polygon,FALSE,America/Chicago,42330 42332
+Millwood-KY,1840030524,Millwood,Millwood,KY,Millwood-KY,Kentucky,21085,Grayson,37.4503,-86.3905,,,42.3,point,FALSE,America/Chicago,42762
+London-KY,1840015258,London,London,KY,London-KY,Kentucky,21125,Laurel,37.1209,-84.0804,38130,8157,301,polygon,TRUE,America/New_York,40744 40741 40742 40745
+Independence-KY,1840014267,Independence,Independence,KY,Independence-KY,Kentucky,21117,Kenton,38.9512,-84.5492,27024,27024,597,polygon,TRUE,America/New_York,41051
+Blackey-KY,1840013259,Blackey,Blackey,KY,Blackey-KY,Kentucky,21133,Letcher,37.139,-82.9812,156,156,137,polygon,TRUE,America/New_York,41804
+Parkway Village-KY,1840014299,Parkway Village,Parkway Village,KY,Parkway Village-KY,Kentucky,21111,Jefferson,38.2113,-85.7381,665,665,2929,polygon,TRUE,America/New_York,40217
+Cornettsville-KY,1840030415,Cornettsville,Cornettsville,KY,Cornettsville-KY,Kentucky,21193,Perry,37.134,-83.0768,,,19.1,point,FALSE,America/New_York,41731
+Campbellsburg-KY,1840013188,Campbellsburg,Campbellsburg,KY,Campbellsburg-KY,Kentucky,21103,Henry,38.5238,-85.2167,791,791,182,polygon,TRUE,America/New_York,40011
+Olaton-KY,1840030700,Olaton,Olaton,KY,Olaton-KY,Kentucky,21183,Ohio,37.5259,-86.6875,,,4.6,point,FALSE,America/Chicago,42361
+McCarr-KY,1840030691,McCarr,McCarr,KY,McCarr-KY,Kentucky,21195,Pike,37.6177,-82.1704,,,104.2,polygon,FALSE,America/New_York,41544
+Mannsville-KY,1840030509,Mannsville,Mannsville,KY,Mannsville-KY,Kentucky,21217,Taylor,37.3726,-85.1966,,,43.3,point,FALSE,America/New_York,42758
+Lindseyville-KY,1840030500,Lindseyville,Lindseyville,KY,Lindseyville-KY,Kentucky,21061,Edmonson,37.2359,-86.2944,,,58.7,point,FALSE,America/Chicago,42210
+Repton-KY,1840030770,Repton,Repton,KY,Repton-KY,Kentucky,21055,Crittenden,37.3887,-88.017,,,30,point,FALSE,America/Chicago,42064
+Bardstown-KY,1840013219,Bardstown,Bardstown,KY,Bardstown-KY,Kentucky,21179,Nelson,37.8175,-85.455,21143,13227,425,polygon,TRUE,America/New_York,40004
+Worthington Hills-KY,1840015204,Worthington Hills,Worthington Hills,KY,Worthington Hills-KY,Kentucky,21111,Jefferson,38.3095,-85.527,1481,1481,2316,polygon,TRUE,America/New_York,40245
+David-KY,1840030427,David,David,KY,David-KY,Kentucky,21071,Floyd,37.5995,-82.8907,,,36.8,point,FALSE,America/New_York,41616
+Saint Francis-KY,1840030787,Saint Francis,Saint Francis,KY,Saint Francis-KY,Kentucky,21155,Marion,37.6265,-85.4277,,,23,point,FALSE,America/New_York,40062
+Mount Washington-KY,1840014322,Mount Washington,Mount Washington,KY,Mount Washington-KY,Kentucky,21029,Bullitt,38.0427,-85.5553,14360,14360,626,polygon,TRUE,America/New_York,40047
+Pikeville-KY,1840014348,Pikeville,Pikeville,KY,Pikeville-KY,Kentucky,21195,Pike,37.4808,-82.5261,8169,7106,125,polygon,TRUE,America/New_York,41501 41502
+Newfoundland-KY,1840030697,Newfoundland,Newfoundland,KY,Newfoundland-KY,Kentucky,21063,Elliott,38.1315,-83.0993,,,357.1,point,FALSE,America/New_York,41171
+Brownsville-KY,1840013255,Brownsville,Brownsville,KY,Brownsville-KY,Kentucky,21061,Edmonson,37.1952,-86.2691,832,832,122,polygon,TRUE,America/Chicago,42210
+Shelbiana-KY,1840030580,Shelbiana,Shelbiana,KY,Shelbiana-KY,Kentucky,21195,Pike,37.4254,-82.4929,,,106.9,point,FALSE,America/New_York,41562
+West Point-KY,1840015219,West Point,West Point,KY,West Point-KY,Kentucky,21093,Hardin,37.9851,-85.9557,870,870,126,polygon,TRUE,America/New_York,40177
+Pewee Valley-KY,1840014285,Pewee Valley,Pewee Valley,KY,Pewee Valley-KY,Kentucky,21185,Oldham,38.3105,-85.4895,1547,1547,307,polygon,TRUE,America/New_York,40056 40014
+Temple Hill-KY,1840030597,Temple Hill,Temple Hill,KY,Temple Hill-KY,Kentucky,21009,Barren,36.8867,-85.8472,,,44.4,point,FALSE,America/Chicago,42141
+Ages-KY,1840030359,Ages,Ages,KY,Ages-KY,Kentucky,21095,Harlan,36.8569,-83.2426,,,266.5,polygon,FALSE,America/New_York,40801
+Anneta-KY,1840030627,Anneta,Anneta,KY,Anneta-KY,Kentucky,21085,Grayson,37.3709,-86.2453,,,16.9,point,FALSE,America/Chicago,42754
+Balltown-KY,1840030375,Balltown,Balltown,KY,Balltown-KY,Kentucky,21179,Nelson,37.7387,-85.5063,,,78.4,point,FALSE,America/New_York,40004
+Salvisa-KY,1840026805,Salvisa,Salvisa,KY,Salvisa-KY,Kentucky,21167,Mercer,37.921,-84.8615,,,58.1,polygon,FALSE,America/New_York,40372
+Blaine-KY,1840013211,Blaine,Blaine,KY,Blaine-KY,Kentucky,21127,Lawrence,38.0272,-82.8413,47,47,64,polygon,TRUE,America/New_York,41124
+Port Royal-KY,1840030560,Port Royal,Port Royal,KY,Port Royal-KY,Kentucky,21103,Henry,38.5553,-85.0802,,,39,point,FALSE,America/New_York,40075
+Poplar Plains-KY,1840030559,Poplar Plains,Poplar Plains,KY,Poplar Plains-KY,Kentucky,21069,Fleming,38.3609,-83.6744,,,24.9,point,FALSE,America/New_York,41041
+Mousie-KY,1840030535,Mousie,Mousie,KY,Mousie-KY,Kentucky,21119,Knott,37.4184,-82.8782,,,54.8,point,FALSE,America/New_York,41839
+Elizabethtown-KY,1840013218,Elizabethtown,Elizabethtown,KY,Elizabethtown-KY,Kentucky,21093,Hardin,37.7033,-85.8771,77016,29906,427,polygon,TRUE,America/New_York,42701 42702
+Anthoston-KY,1840030366,Anthoston,Anthoston,KY,Anthoston-KY,Kentucky,21101,Henderson,37.7553,-87.5327,,,101.6,polygon,FALSE,America/Chicago,42420
+Robards-KY,1840014336,Robards,Robards,KY,Robards-KY,Kentucky,21101,Henderson,37.6766,-87.5333,509,509,64,polygon,TRUE,America/Chicago,42452
+Carthage-KY,1840030404,Carthage,Carthage,KY,Carthage-KY,Kentucky,21037,Campbell,38.9356,-84.3072,,,50.3,point,FALSE,America/New_York,41007
+Ida May-KY,1840030757,Ida May,Ida May,KY,Ida May-KY,Kentucky,21129,Lee,37.5212,-83.7663,,,16.4,point,FALSE,America/New_York,41311
+Short Creek-KY,1840030712,Short Creek,Short Creek,KY,Short Creek-KY,Kentucky,21085,Grayson,37.5278,-86.4744,,,8.3,point,FALSE,America/Chicago,40119
+Mariba-KY,1840030763,Mariba,Mariba,KY,Mariba-KY,Kentucky,21165,Menifee,37.9162,-83.5785,,,8,point,FALSE,America/New_York,40322
+Greenville-KY,1840013249,Greenville,Greenville,KY,Greenville-KY,Kentucky,21177,Muhlenberg,37.2121,-87.1764,4366,4366,357,polygon,TRUE,America/Chicago,42345
+Linton-KY,1840030501,Linton,Linton,KY,Linton-KY,Kentucky,21221,Trigg,36.6867,-87.9186,,,26.1,point,FALSE,America/Chicago,42211
+Fairfield-KY,1840013220,Fairfield,Fairfield,KY,Fairfield-KY,Kentucky,21179,Nelson,37.932,-85.3839,114,114,154,polygon,TRUE,America/New_York,40020 40013
+Bourne-KY,1840030392,Bourne,Bourne,KY,Bourne-KY,Kentucky,21079,Garrard,37.7098,-84.613,,,22.8,point,FALSE,America/New_York,40444
+Island City-KY,1840030758,Island City,Island City,KY,Island City-KY,Kentucky,21189,Owsley,37.3665,-83.768,,,13.8,point,FALSE,America/New_York,40983
+Letcher-KY,1840030496,Letcher,Letcher,KY,Letcher-KY,Kentucky,21133,Letcher,37.1451,-82.9591,,,96.6,point,FALSE,America/New_York,41832
+Hazard-KY,1840014376,Hazard,Hazard,KY,Hazard-KY,Kentucky,21193,Perry,37.2583,-83.1977,8853,5300,274,polygon,TRUE,America/New_York,41701 41702
+Cynthiana-KY,1840014283,Cynthiana,Cynthiana,KY,Cynthiana-KY,Kentucky,21097,Harrison,38.3855,-84.2995,6402,6383,609,polygon,TRUE,America/New_York,41031
+Shady Grove-KY,1840030577,Shady Grove,Shady Grove,KY,Shady Grove-KY,Kentucky,21055,Crittenden,37.3367,-87.8792,,,13.1,point,FALSE,America/Chicago,42064
+Whitley City-KY,1840013284,Whitley City,Whitley City,KY,Whitley City-KY,Kentucky,21147,McCreary,36.7238,-84.4731,,,348.3,polygon,FALSE,America/New_York,42631 42653
+Shively-KY,1840015196,Shively,Shively,KY,Shively-KY,Kentucky,21111,Jefferson,38.197,-85.8136,15751,15751,1330,polygon,TRUE,America/Kentucky/Louisville,40216
+Manitou-KY,1840026843,Manitou,Manitou,KY,Manitou-KY,Kentucky,21107,Hopkins,37.3754,-87.5782,,,126.9,polygon,FALSE,America/Chicago,42436
+Harold-KY,1840030464,Harold,Harold,KY,Harold-KY,Kentucky,21071,Floyd,37.5368,-82.6332,,,277.5,point,FALSE,America/New_York,41635
+Dayton-KY,1840014259,Dayton,Dayton,KY,Dayton-KY,Kentucky,21037,Campbell,39.1127,-84.4639,5413,5413,1631,polygon,TRUE,America/New_York,41074
+Salem-KY,1840015251,Salem,Salem,KY,Salem-KY,Kentucky,21139,Livingston,37.2653,-88.241,735,735,333,polygon,TRUE,America/Chicago,42078
+Vernon-KY,1840030727,Vernon,Vernon,KY,Vernon-KY,Kentucky,21171,Monroe,36.637,-85.5091,,,3.3,point,FALSE,America/Chicago,42151
+Coal Run Village-KY,1840014347,Coal Run Village,Coal Run Village,KY,Coal Run Village-KY,Kentucky,21195,Pike,37.5373,-82.5581,1561,1561,69,polygon,TRUE,America/New_York,41501
+Crescent Springs-KY,1840014264,Crescent Springs,Crescent Springs,KY,Crescent Springs-KY,Kentucky,21117,Kenton,39.0553,-84.5788,4009,4009,1035,polygon,TRUE,America/New_York,41017
+Guston-KY,1840030460,Guston,Guston,KY,Guston-KY,Kentucky,21163,Meade,37.8928,-86.2219,,,89.7,point,FALSE,America/New_York,40142
+West Buechel-KY,1840015200,West Buechel,West Buechel,KY,West Buechel-KY,Kentucky,21111,Jefferson,38.195,-85.6678,1273,1273,768,polygon,TRUE,America/New_York,40218
+Sandy Hook-KY,1840015210,Sandy Hook,Sandy Hook,KY,Sandy Hook-KY,Kentucky,21063,Elliott,38.0929,-83.1241,622,622,244,polygon,TRUE,America/New_York,41171
+Bardwell-KY,1840013287,Bardwell,Bardwell,KY,Bardwell-KY,Kentucky,21039,Carlisle,36.874,-89.0091,691,691,308,polygon,TRUE,America/Chicago,42023
+Water Valley-KY,1840015269,Water Valley,Water Valley,KY,Water Valley-KY,Kentucky,21083,Graves,36.5688,-88.8108,281,281,174,polygon,TRUE,America/Chicago,42085
+Prospect-KY,1840014301,Prospect,Prospect,KY,Prospect-KY,Kentucky,21111,Jefferson,38.347,-85.6103,4875,4875,491,polygon,TRUE,America/New_York,40059
+Catlettsburg-KY,1840014288,Catlettsburg,Catlettsburg,KY,Catlettsburg-KY,Kentucky,21019,Boyd,38.4197,-82.6021,1803,1803,559,polygon,TRUE,America/New_York,41129
+Carrsville-KY,1840014377,Carrsville,Carrsville,KY,Carrsville-KY,Kentucky,21139,Livingston,37.3981,-88.3754,49,49,290,polygon,TRUE,America/Chicago,42081
+Hebbardsville-KY,1840030466,Hebbardsville,Hebbardsville,KY,Hebbardsville-KY,Kentucky,21101,Henderson,37.7762,-87.3753,,,32.9,point,FALSE,America/Chicago,42420
+New Concord-KY,1840030540,New Concord,New Concord,KY,New Concord-KY,Kentucky,21035,Calloway,36.5484,-88.1548,,,13.7,point,FALSE,America/Chicago,42076
+Russellville-KY,1840014401,Russellville,Russellville,KY,Russellville-KY,Kentucky,21141,Logan,36.8393,-86.895,6754,7001,249,polygon,TRUE,America/Chicago,42276
+Little Rock-KY,1840030503,Little Rock,Little Rock,KY,Little Rock-KY,Kentucky,21017,Bourbon,38.194,-84.051,,,7.1,point,FALSE,America/New_York,40311
+Poole-KY,1840030558,Poole,Poole,KY,Poole-KY,Kentucky,21233,Webster,37.6392,-87.6446,,,45.2,polygon,FALSE,America/Chicago,42455 42409 42406 42444
+Jackstown-KY,1840030676,Jackstown,Jackstown,KY,Jackstown-KY,Kentucky,21017,Bourbon,38.2448,-84.0585,,,5.6,point,FALSE,America/New_York,40311
+Limestone-KY,1840030683,Limestone,Limestone,KY,Limestone-KY,Kentucky,21043,Carter,38.2662,-83.2071,,,31,point,FALSE,America/New_York,41164
+Harlan-KY,1840013280,Harlan,Harlan,KY,Harlan-KY,Kentucky,21095,Harlan,36.8432,-83.3184,6502,1606,476,polygon,TRUE,America/New_York,40831
+Franklin-KY,1840013290,Franklin,Franklin,KY,Franklin-KY,Kentucky,21213,Simpson,36.7158,-86.5585,9908,8823,245,polygon,TRUE,America/Chicago,42134 42135
+Co-Operative-KY,1840030738,Co-Operative,Co-Operative,KY,Co-Operative-KY,Kentucky,21147,McCreary,36.6929,-84.6077,,,7.4,point,FALSE,America/New_York,42647
+Southgate-KY,1840015170,Southgate,Southgate,KY,Southgate-KY,Kentucky,21037,Campbell,39.0633,-84.4716,3845,3845,1045,polygon,TRUE,America/New_York,41071
+Austin-KY,1840030372,Austin,Austin,KY,Austin-KY,Kentucky,21009,Barren,36.8253,-86.0191,,,14.5,point,FALSE,America/Chicago,42123
+Wrigley-KY,1840030784,Wrigley,Wrigley,KY,Wrigley-KY,Kentucky,21175,Morgan,38.0184,-83.2713,,,21,point,FALSE,America/New_York,41472
+Burkesville-KY,1840013288,Burkesville,Burkesville,KY,Burkesville-KY,Kentucky,21057,Cumberland,36.7906,-85.3675,1509,1509,226,polygon,TRUE,America/Chicago,42717
+Millers Creek-KY,1840030764,Millers Creek,Millers Creek,KY,Millers Creek-KY,Kentucky,21065,Estill,37.6718,-83.8969,,,7.5,point,FALSE,America/New_York,40472
+Iron Hill-KY,1840030675,Iron Hill,Iron Hill,KY,Iron Hill-KY,Kentucky,21043,Carter,38.4062,-83.038,,,17,point,FALSE,America/New_York,41143
+Reynoldsville-KY,1840030706,Reynoldsville,Reynoldsville,KY,Reynoldsville-KY,Kentucky,21011,Bath,38.1904,-83.8235,,,8.2,point,FALSE,America/New_York,40360
+Murray-KY,1840014410,Murray,Murray,KY,Murray-KY,Kentucky,21035,Calloway,36.6146,-88.3204,20431,19006,637,polygon,TRUE,America/Chicago,42071
+Hebron-KY,1840026680,Hebron,Hebron,KY,Hebron-KY,Kentucky,21015,Boone,39.0626,-84.709,,,213.9,polygon,FALSE,America/New_York,41048 41005 41021
+Helena-KY,1840030468,Helena,Helena,KY,Helena-KY,Kentucky,21161,Mason,38.4934,-83.7752,,,27.1,point,FALSE,America/New_York,41055
+Chapel Hill-KY,1840030644,Chapel Hill,Chapel Hill,KY,Chapel Hill-KY,Kentucky,21003,Allen,36.7198,-86.2928,,,28.9,point,FALSE,America/Chicago,42164
+Berea-KY,1840013225,Berea,Berea,KY,Berea-KY,Kentucky,21151,Madison,37.5903,-84.2897,17412,15147,356,polygon,TRUE,America/New_York,40404 40403
+Beattyville-KY,1840013234,Beattyville,Beattyville,KY,Beattyville-KY,Kentucky,21129,Lee,37.5843,-83.7065,1214,1214,222,polygon,TRUE,America/New_York,41311
+Hesler-KY,1840030471,Hesler,Hesler,KY,Hesler-KY,Kentucky,21187,Owen,38.4637,-84.7772,,,8.9,point,FALSE,America/New_York,40359
+Florence-KY,1840013161,Florence,Florence,KY,Florence-KY,Kentucky,21015,Boone,38.9893,-84.6469,32460,32460,1210,polygon,TRUE,America/New_York,41042 41022
+Dycusburg-KY,1840013239,Dycusburg,Dycusburg,KY,Dycusburg-KY,Kentucky,21055,Crittenden,37.1604,-88.1846,,,47.8,polygon,TRUE,America/Chicago,42037
+Lancaster-KY,1840014345,Lancaster,Lancaster,KY,Lancaster-KY,Kentucky,21079,Garrard,37.6152,-84.5817,4200,3866,682,polygon,TRUE,America/New_York,40444
+Saint Matthews-KY,1840015194,Saint Matthews,Saint Matthews,KY,Saint Matthews-KY,Kentucky,21111,Jefferson,38.2495,-85.6382,18071,18071,1610,polygon,TRUE,America/New_York,40222 40207
+Louisa-KY,1840015209,Louisa,Louisa,KY,Louisa-KY,Kentucky,21127,Lawrence,38.1079,-82.6133,4263,2473,425,polygon,TRUE,America/New_York,41230
+Farmers-KY,1840026761,Farmers,Farmers,KY,Farmers-KY,Kentucky,21205,Rowan,38.1405,-83.5414,,,147.3,polygon,FALSE,America/New_York,40351 40319
+Hurstbourne Acres-KY,1840014309,Hurstbourne Acres,Hurstbourne Acres,KY,Hurstbourne Acres-KY,Kentucky,21111,Jefferson,38.2201,-85.5907,1881,1881,2099,polygon,TRUE,America/New_York,40220
+Hudson-KY,1840030673,Hudson,Hudson,KY,Hudson-KY,Kentucky,21027,Breckinridge,37.6512,-86.2766,,,10.9,point,FALSE,America/Chicago,40145
+Meadowview Estates-KY,1840015193,Meadowview Estates,Meadowview Estates,KY,Meadowview Estates-KY,Kentucky,21111,Jefferson,38.2231,-85.6357,429,429,2115,polygon,TRUE,America/New_York,40220
+Central City-KY,1840014378,Central City,Central City,KY,Central City-KY,Kentucky,21177,Muhlenberg,37.2962,-87.128,9742,5857,436,polygon,TRUE,America/Chicago,42330
+Handshoe-KY,1840030670,Handshoe,Handshoe,KY,Handshoe-KY,Kentucky,21119,Knott,37.4701,-82.9066,,,7.1,point,FALSE,America/New_York,41640
+Mazie-KY,1840030690,Mazie,Mazie,KY,Mazie-KY,Kentucky,21127,Lawrence,38.027,-82.9724,,,15.9,point,FALSE,America/New_York,41159
+Stephensburg-KY,1840030587,Stephensburg,Stephensburg,KY,Stephensburg-KY,Kentucky,21093,Hardin,37.6248,-86.0189,,,33.9,point,FALSE,America/New_York,42724
+Viper-KY,1840030782,Viper,Viper,KY,Viper-KY,Kentucky,21193,Perry,37.1829,-83.1482,,,40.1,point,FALSE,America/New_York,41774
+Belleview-KY,1840026678,Belleview,Belleview,KY,Belleview-KY,Kentucky,21015,Boone,38.9792,-84.8249,,,240.4,polygon,FALSE,America/New_York,41005
+Ironville-KY,1840030479,Ironville,Ironville,KY,Ironville-KY,Kentucky,21019,Boyd,38.4562,-82.6978,,,494.6,polygon,FALSE,America/New_York,41102
+Mitchellsburg-KY,1840030526,Mitchellsburg,Mitchellsburg,KY,Mitchellsburg-KY,Kentucky,21021,Boyle,37.6006,-84.9497,,,10.7,point,FALSE,America/New_York,40464
+Virgie-KY,1840026822,Virgie,Virgie,KY,Virgie-KY,Kentucky,21195,Pike,37.3323,-82.5824,,,97.8,polygon,FALSE,America/New_York,41572
+Adolphus-KY,1840030358,Adolphus,Adolphus,KY,Adolphus-KY,Kentucky,21003,Allen,36.6517,-86.2614,,,28.1,point,FALSE,America/Chicago,42120
+Springfield-KY,1840015225,Springfield,Springfield,KY,Springfield-KY,Kentucky,21229,Washington,37.6921,-85.2193,3123,3123,293,polygon,TRUE,America/New_York,40069
+Fleming-Neon-KY,1840013258,Fleming-Neon,Fleming-Neon,KY,Fleming-Neon-KY,Kentucky,21133,Letcher,37.1953,-82.7047,717,717,171,polygon,TRUE,America/New_York,41840 41835
+Sheridan-KY,1840030711,Sheridan,Sheridan,KY,Sheridan-KY,Kentucky,21055,Crittenden,37.3517,-88.1989,,,12.3,point,FALSE,America/Chicago,42064
+Greenup-KY,1840013183,Greenup,Greenup,KY,Greenup-KY,Kentucky,21089,Greenup,38.5727,-82.8302,1153,1153,551,polygon,TRUE,America/New_York,41144
+Saint Charles-KY,1840015245,Saint Charles,Saint Charles,KY,Saint Charles-KY,Kentucky,21107,Hopkins,37.1881,-87.551,269,269,104,polygon,TRUE,America/Chicago,42442 42453
+Woodbury-KY,1840015254,Woodbury,Woodbury,KY,Woodbury-KY,Kentucky,21031,Butler,37.1835,-86.6353,92,92,249,polygon,TRUE,America/Chicago,42261 42288
+Hazel Green-KY,1840026812,Hazel Green,Hazel Green,KY,Hazel Green-KY,Kentucky,21237,Wolfe,37.7999,-83.4173,,,117.8,polygon,FALSE,America/New_York,41332
+Mayo-KY,1840030623,Mayo,Mayo,KY,Mayo-KY,Kentucky,21167,Mercer,37.8717,-84.925,,,14.4,point,FALSE,America/New_York,40330
+Hazel-KY,1840014411,Hazel,Hazel,KY,Hazel-KY,Kentucky,21035,Calloway,36.5055,-88.3253,406,406,447,polygon,TRUE,America/Chicago,42049
+Merrimac-KY,1840030519,Merrimac,Merrimac,KY,Merrimac-KY,Kentucky,21217,Taylor,37.4126,-85.1286,,,17.5,point,FALSE,America/New_York,40009
+South Park View-KY,1840030584,South Park View,South Park View,KY,South Park View-KY,Kentucky,21111,Jefferson,38.1184,-85.7201,7,7,21,polygon,TRUE,America/New_York,40219
+Woodburn-KY,1840015262,Woodburn,Woodburn,KY,Woodburn-KY,Kentucky,21227,Warren,36.8421,-86.53,382,382,344,polygon,TRUE,America/Chicago,42170 42104
+Maceo-KY,1840026806,Maceo,Maceo,KY,Maceo-KY,Kentucky,21059,Daviess,37.8624,-86.9914,,,182.6,polygon,FALSE,America/Chicago,42355
+Prestonsburg-KY,1840014346,Prestonsburg,Prestonsburg,KY,Prestonsburg-KY,Kentucky,21071,Floyd,37.6796,-82.764,6489,3541,98,polygon,TRUE,America/New_York,41653 41602
+Saint Paul-KY,1840030574,Saint Paul,Saint Paul,KY,Saint Paul-KY,Kentucky,21135,Lewis,38.6709,-83.0871,,,8.7,point,FALSE,America/New_York,41166
+Fountain Run-KY,1840013291,Fountain Run,Fountain Run,KY,Fountain Run-KY,Kentucky,21171,Monroe,36.7238,-85.9561,209,209,61,polygon,TRUE,America/Chicago,42133
+Ghent-KY,1840013181,Ghent,Ghent,KY,Ghent-KY,Kentucky,21041,Carroll,38.734,-85.0612,320,320,173,polygon,TRUE,America/Indiana/Vevay,41045
+Tracy-KY,1840030723,Tracy,Tracy,KY,Tracy-KY,Kentucky,21009,Barren,36.7981,-85.9705,,,9.6,point,FALSE,America/Chicago,42133
+Mount Vernon-KY,1840014371,Mount Vernon,Mount Vernon,KY,Mount Vernon-KY,Kentucky,21203,Rockcastle,37.3578,-84.3431,2636,2486,466,polygon,TRUE,America/New_York,40456
+Elkhorn City-KY,1840013229,Elkhorn City,Elkhorn City,KY,Elkhorn City-KY,Kentucky,21195,Pike,37.316,-82.358,932,932,53,polygon,TRUE,America/New_York,41513 41522
+Milton-KY,1840014276,Milton,Milton,KY,Milton-KY,Kentucky,21223,Trimble,38.7122,-85.3741,562,562,155,polygon,TRUE,America/New_York,40045
+Crestview-KY,1840014258,Crestview,Crestview,KY,Crestview-KY,Kentucky,21037,Campbell,39.0245,-84.4155,483,483,1177,polygon,TRUE,America/New_York,41076
+Drakesboro-KY,1840013248,Drakesboro,Drakesboro,KY,Drakesboro-KY,Kentucky,21177,Muhlenberg,37.2176,-87.0493,506,506,353,polygon,TRUE,America/Chicago,42337
+Stearns-KY,1840013283,Stearns,Stearns,KY,Stearns-KY,Kentucky,21147,McCreary,36.6957,-84.4769,,,267.3,polygon,FALSE,America/New_York,42647
+Douglass Hills-KY,1840014294,Douglass Hills,Douglass Hills,KY,Douglass Hills-KY,Kentucky,21111,Jefferson,38.2367,-85.55,5696,5696,1659,polygon,TRUE,America/New_York,40243 40223
+Stanford-KY,1840015242,Stanford,Stanford,KY,Stanford-KY,Kentucky,21137,Lincoln,37.5349,-84.6606,4393,3662,343,polygon,TRUE,America/New_York,40484
+Hagerhill-KY,1840030461,Hagerhill,Hagerhill,KY,Hagerhill-KY,Kentucky,21115,Johnson,37.7862,-82.7935,,,76.9,point,FALSE,America/New_York,41222
+Maysville-KY,1840015180,Maysville,Maysville,KY,Maysville-KY,Kentucky,21161,Mason,38.6455,-83.7911,11269,8866,180,polygon,TRUE,America/New_York,41056 41096
+Indian Hills-KY,1840014310,Indian Hills,Indian Hills,KY,Indian Hills-KY,Kentucky,21111,Jefferson,38.2809,-85.6616,2979,2979,586,polygon,TRUE,America/New_York,40207
+Cedar Bluff-KY,1840030643,Cedar Bluff,Cedar Bluff,KY,Cedar Bluff-KY,Kentucky,21033,Caldwell,37.0884,-87.8447,,,10,point,FALSE,America/Chicago,42445
+Melbourne-KY,1840015168,Melbourne,Melbourne,KY,Melbourne-KY,Kentucky,21037,Campbell,39.0319,-84.3708,467,467,213,polygon,TRUE,America/New_York,41059
+Caneyville-KY,1840014364,Caneyville,Caneyville,KY,Caneyville-KY,Kentucky,21085,Grayson,37.4241,-86.4906,612,612,143,polygon,TRUE,America/Chicago,42721
+Kenton-KY,1840030484,Kenton,Kenton,KY,Kenton-KY,Kentucky,21117,Kenton,38.8684,-84.4561,,,75.1,point,FALSE,America/New_York,41063
+Morgan-KY,1840030530,Morgan,Morgan,KY,Morgan-KY,Kentucky,21191,Pendleton,38.6028,-84.3988,,,9.1,point,FALSE,America/New_York,41040
+Saint Regis Park-KY,1840015195,Saint Regis Park,Saint Regis Park,KY,Saint Regis Park-KY,Kentucky,21111,Jefferson,38.2289,-85.6159,1509,1509,1650,polygon,TRUE,America/New_York,40220
+Beechmont-KY,1840026860,Beechmont,Beechmont,KY,Beechmont-KY,Kentucky,21177,Muhlenberg,37.1714,-87.0364,,,159.3,polygon,FALSE,America/Chicago,42323 42321
+Lewisburg-KY,1840014402,Lewisburg,Lewisburg,KY,Lewisburg-KY,Kentucky,21141,Logan,36.9872,-86.9502,795,795,264,polygon,TRUE,America/Chicago,42256
+Dover-KY,1840013180,Dover,Dover,KY,Dover-KY,Kentucky,21161,Mason,38.7563,-83.8845,246,246,220,polygon,TRUE,America/New_York,41034
+New Castle-KY,1840014281,New Castle,New Castle,KY,New Castle-KY,Kentucky,21103,Henry,38.4334,-85.1689,937,937,881,polygon,TRUE,America/New_York,40058 40050
+Bromley-KY,1840013172,Bromley,Bromley,KY,Bromley-KY,Kentucky,21117,Kenton,39.0801,-84.5628,804,804,820,polygon,TRUE,America/New_York,41017 41016
+New Haven-KY,1840014334,New Haven,New Haven,KY,New Haven-KY,Kentucky,21179,Nelson,37.6592,-85.5885,896,896,598,polygon,TRUE,America/New_York,40051
+Erose-KY,1840030745,Erose,Erose,KY,Erose-KY,Kentucky,21121,Knox,36.9273,-83.6194,,,8.2,point,FALSE,America/New_York,40935
+Bohon-KY,1840030391,Bohon,Bohon,KY,Bohon-KY,Kentucky,21167,Mercer,37.8117,-84.9197,,,19.7,point,FALSE,America/New_York,40330
+Firebrick-KY,1840030444,Firebrick,Firebrick,KY,Firebrick-KY,Kentucky,21135,Lewis,38.6876,-83.0471,,,90.9,point,FALSE,America/New_York,41174
+Hurstbourne-KY,1840014308,Hurstbourne,Hurstbourne,KY,Hurstbourne-KY,Kentucky,21111,Jefferson,38.238,-85.5891,4378,4378,938,polygon,TRUE,America/New_York,40222
+Morganfield-KY,1840014342,Morganfield,Morganfield,KY,Morganfield-KY,Kentucky,21225,Union,37.6869,-87.8884,5618,3543,468,polygon,TRUE,America/Chicago,42437
+Bellemeade-KY,1840013208,Bellemeade,Bellemeade,KY,Bellemeade-KY,Kentucky,21111,Jefferson,38.251,-85.591,894,894,1177,polygon,TRUE,America/New_York,40223 40222
+Yerkes-KY,1840030785,Yerkes,Yerkes,KY,Yerkes-KY,Kentucky,21193,Perry,37.2773,-83.301,,,61.4,point,FALSE,America/New_York,41723
+Livingston-KY,1840015249,Livingston,Livingston,KY,Livingston-KY,Kentucky,21203,Rockcastle,37.298,-84.2157,224,224,276,polygon,TRUE,America/New_York,40445
+Dwale-KY,1840030436,Dwale,Dwale,KY,Dwale-KY,Kentucky,21071,Floyd,37.6253,-82.7277,,,211.4,polygon,FALSE,America/New_York,41621
+Bell City-KY,1840030633,Bell City,Bell City,KY,Bell City-KY,Kentucky,21083,Graves,36.5376,-88.5006,,,1.9,point,FALSE,America/Chicago,42040
+Jeffersonville-KY,1840014320,Jeffersonville,Jeffersonville,KY,Jeffersonville-KY,Kentucky,21173,Montgomery,37.966,-83.832,1715,1715,241,polygon,TRUE,America/New_York,40337
+Oakland-KY,1840014389,Oakland,Oakland,KY,Oakland-KY,Kentucky,21227,Warren,37.0468,-86.2506,234,234,64,polygon,TRUE,America/Chicago,42159
+Warsaw-KY,1840015178,Warsaw,Warsaw,KY,Warsaw-KY,Kentucky,21077,Gallatin,38.7773,-84.9044,1688,1688,684,polygon,TRUE,America/New_York,41095

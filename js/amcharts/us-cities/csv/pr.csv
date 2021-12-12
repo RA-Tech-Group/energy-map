@@ -1,0 +1,474 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Central Aguirre-PR,1630023632,Central Aguirre,Central Aguirre,PR,Central Aguirre-PR,Puerto Rico,72123,Salinas,17.9559,-66.2264,,,354.5,polygon,FALSE,America/Puerto_Rico,704
+Morovis-PR,1630023611,Morovis,Morovis,PR,Morovis-PR,Puerto Rico,72101,Morovis,18.3269,-66.4058,,,1975.8,polygon,FALSE,America/Puerto_Rico,687
+La Fermina Comunidad-PR,1630035696,La Fermina Comunidad,La Fermina Comunidad,PR,La Fermina Comunidad-PR,Puerto Rico,72069,Humacao,18.1744,-65.8527,,,1042.2,polygon,FALSE,America/Puerto_Rico,00771 00791
+Suarez Comunidad-PR,1630035584,Suárez Comunidad,Suarez Comunidad,PR,Suarez Comunidad-PR,Puerto Rico,72087,Loíza,18.4311,-65.8514,,,2403.7,polygon,FALSE,America/Puerto_Rico,772
+Lajas Zona Urbana-PR,1630035498,Lajas Zona Urbana,Lajas Zona Urbana,PR,Lajas Zona Urbana-PR,Puerto Rico,72079,Lajas,18.0452,-67.0583,,,316.1,polygon,FALSE,America/Puerto_Rico,667
+La Liga Comunidad-PR,1630025217,La Liga Comunidad,La Liga Comunidad,PR,La Liga Comunidad-PR,Puerto Rico,72025,Caguas,18.2905,-66.0492,,,995.5,polygon,FALSE,America/Puerto_Rico,725
+Anon Raices Comunidad-PR,1630025223,Anon Raices Comunidad,Anon Raices Comunidad,PR,Anon Raices Comunidad-PR,Puerto Rico,72113,Ponce,18.1391,-66.5863,,,349.1,polygon,FALSE,America/Puerto_Rico,780
+Trujillo Alto Zona Urbana-PR,1630035591,Trujillo Alto Zona Urbana,Trujillo Alto Zona Urbana,PR,Trujillo Alto Zona Urbana-PR,Puerto Rico,72139,Trujillo Alto,18.36,-66.0103,,,1798.4,polygon,FALSE,America/Puerto_Rico,00976 00926 00977 00978
+Comerio Zona Urbana-PR,1630035650,Comerío Zona Urbana,Comerio Zona Urbana,PR,Comerio Zona Urbana-PR,Puerto Rico,72045,Comerío,18.2203,-66.2243,,,1707.3,polygon,FALSE,America/Puerto_Rico,782
+Caguas Zona Urbana-PR,1630035629,Caguas Zona Urbana,Caguas Zona Urbana,PR,Caguas Zona Urbana-PR,Puerto Rico,72025,Caguas,18.2319,-66.0388,,,4326.2,polygon,FALSE,America/Puerto_Rico,00725 00727 00726
+Coqui-PR,1630023634,Coquí,Coqui,PR,Coqui-PR,Puerto Rico,72123,Salinas,17.9793,-66.2255,,,968.9,polygon,FALSE,America/Puerto_Rico,704
+Trujillo Alto-PR,1630023656,Trujillo Alto,Trujillo Alto,PR,Trujillo Alto-PR,Puerto Rico,72139,Trujillo Alto,18.36,-66.0103,,,1461.6,polygon,FALSE,America/Puerto_Rico,00976 00926 00977 00978
+Benitez Comunidad-PR,1630023715,Benítez Comunidad,Benitez Comunidad,PR,Benitez Comunidad-PR,Puerto Rico,72029,Canóvanas,18.2725,-65.8788,,,1171.9,polygon,FALSE,America/Puerto_Rico,729
+Yabucoa Zona Urbana-PR,1630035599,Yabucoa Zona Urbana,Yabucoa Zona Urbana,PR,Yabucoa Zona Urbana-PR,Puerto Rico,72151,Yabucoa,18.0469,-65.8792,,,2195,polygon,FALSE,America/Puerto_Rico,767
+Cabo Rojo Zona Urbana-PR,1630035627,Cabo Rojo Zona Urbana,Cabo Rojo Zona Urbana,PR,Cabo Rojo Zona Urbana-PR,Puerto Rico,72023,Cabo Rojo,18.0867,-67.1483,,,2900.2,polygon,FALSE,America/Puerto_Rico,623
+Palmas del Mar Comunidad-PR,1630035708,Palmas del Mar Comunidad,Palmas del Mar Comunidad,PR,Palmas del Mar Comunidad-PR,Puerto Rico,72069,Humacao,18.0924,-65.8005,,,355.7,polygon,FALSE,America/Puerto_Rico,791
+Candelero Arriba-PR,1630023727,Candelero Arriba,Candelero Arriba,PR,Candelero Arriba-PR,Puerto Rico,72069,Humacao,18.1017,-65.8342,,,810.3,polygon,FALSE,America/Puerto_Rico,791
+Vega Alta Zona Urbana-PR,1630035594,Vega Alta Zona Urbana,Vega Alta Zona Urbana,PR,Vega Alta Zona Urbana-PR,Puerto Rico,72143,Vega Alta,18.4152,-66.3211,,,2378.5,polygon,FALSE,America/Puerto_Rico,692
+Aguada Zona Urbana-PR,1630035604,Aguada Zona Urbana,Aguada Zona Urbana,PR,Aguada Zona Urbana-PR,Puerto Rico,72003,Aguada,18.3804,-67.1884,,,2445.2,polygon,FALSE,America/Puerto_Rico,602
+Arroyo-PR,1630023595,Arroyo,Arroyo,PR,Arroyo-PR,Puerto Rico,72015,Arroyo,17.9706,-66.0609,,,2679.3,polygon,FALSE,America/Puerto_Rico,714
+Betances Comunidad-PR,1630035623,Betances Comunidad,Betances Comunidad,PR,Betances Comunidad-PR,Puerto Rico,72023,Cabo Rojo,18.0296,-67.1335,,,1170.6,polygon,FALSE,America/Puerto_Rico,623
+Parcelas Viejas Borinquen Comunidad-PR,1630025220,Parcelas Viejas Borinquen Comunidad,Parcelas Viejas Borinquen Comunidad,PR,Parcelas Viejas Borinquen Comunidad-PR,Puerto Rico,72025,Caguas,18.1739,-66.0406,,,836.1,polygon,FALSE,America/Puerto_Rico,725
+Levittown-PR,1630023685,Levittown,Levittown,PR,Levittown-PR,Puerto Rico,72137,Toa Baja,18.4454,-66.1759,,,4820.9,polygon,FALSE,America/Puerto_Rico,949
+Sabana Eneas-PR,1630023525,Sabana Eneas,Sabana Eneas,PR,Sabana Eneas-PR,Puerto Rico,72125,San Germán,18.0809,-67.0852,,,169.7,polygon,FALSE,America/Puerto_Rico,683
+Potala Pastillo Comunidad-PR,1630035554,Potala Pastillo Comunidad,Potala Pastillo Comunidad,PR,Potala Pastillo Comunidad-PR,Puerto Rico,72075,Juana Díaz,17.9921,-66.4966,,,2084.1,polygon,FALSE,America/Puerto_Rico,795
+Candelaria Comunidad-PR,1630035634,Candelaria Comunidad,Candelaria Comunidad,PR,Candelaria Comunidad-PR,Puerto Rico,72137,Toa Baja,18.4043,-66.2175,,,1258.4,polygon,FALSE,America/Puerto_Rico,949
+Magas Arriba Comunidad-PR,1630035513,Magas Arriba Comunidad,Magas Arriba Comunidad,PR,Magas Arriba Comunidad-PR,Puerto Rico,72059,Guayanilla,18.0234,-66.7664,,,420.3,polygon,FALSE,America/Puerto_Rico,656
+Sabana Grande Zona Urbana-PR,1630035567,Sabana Grande Zona Urbana,Sabana Grande Zona Urbana,PR,Sabana Grande Zona Urbana-PR,Puerto Rico,72121,Sabana Grande,18.0821,-66.9673,,,1700.1,polygon,FALSE,America/Puerto_Rico,637
+Levittown Comunidad-PR,1630035506,Levittown Comunidad,Levittown Comunidad,PR,Levittown Comunidad-PR,Puerto Rico,72137,Toa Baja,18.4454,-66.1759,,,4820.9,polygon,FALSE,America/Puerto_Rico,949
+Santa Barbara-PR,1630035493,Santa Barbara,Santa Barbara,PR,Santa Barbara-PR,Puerto Rico,72029,Canóvanas,18.3952,-65.9176,,,3132.9,polygon,FALSE,America/Puerto_Rico,729
+Ingenio-PR,1630023690,Ingenio,Ingenio,PR,Ingenio-PR,Puerto Rico,72137,Toa Baja,18.4454,-66.2259,,,2758.5,polygon,FALSE,America/Puerto_Rico,949
+Luyando Comunidad-PR,1630035512,Luyando Comunidad,Luyando Comunidad,PR,Luyando Comunidad-PR,Puerto Rico,72003,Aguada,18.3575,-67.1553,,,359.9,polygon,FALSE,America/Puerto_Rico,602
+Toa Alta Zona Urbana-PR,1630035589,Toa Alta Zona Urbana,Toa Alta Zona Urbana,PR,Toa Alta Zona Urbana-PR,Puerto Rico,72135,Toa Alta,18.3883,-66.2504,,,2425,polygon,FALSE,America/Puerto_Rico,00953 00954
+Gurabo-PR,1630023585,Gurabo,Gurabo,PR,Gurabo-PR,Puerto Rico,72063,Gurabo,18.2529,-65.9786,,,3229.3,polygon,FALSE,America/Puerto_Rico,778
+Playa Fortuna-PR,1630023693,Playa Fortuna,Playa Fortuna,PR,Playa Fortuna-PR,Puerto Rico,72089,Luquillo,18.3769,-65.7455,,,1765.3,polygon,FALSE,America/Puerto_Rico,773
+Sabana Seca-PR,1630023686,Sabana Seca,Sabana Seca,PR,Sabana Seca-PR,Puerto Rico,72137,Toa Baja,18.4273,-66.1809,,,2156.7,polygon,FALSE,America/Puerto_Rico,952
+Adjuntas-PR,1630023555,Adjuntas,Adjuntas,PR,Adjuntas-PR,Puerto Rico,72001,Adjuntas,18.1638,-66.7235,,,2695.6,polygon,FALSE,America/Puerto_Rico,601
+Tierras Nuevas Poniente-PR,1630023563,Tierras Nuevas Poniente,Tierras Nuevas Poniente,PR,Tierras Nuevas Poniente-PR,Puerto Rico,72091,Manatí,18.4614,-66.4891,,,1561.4,polygon,FALSE,America/Puerto_Rico,674
+Vieques Zona Urbana-PR,1630035597,Vieques Zona Urbana,Vieques Zona Urbana,PR,Vieques Zona Urbana-PR,Puerto Rico,72147,Vieques,18.1463,-65.4428,,,1063.8,polygon,FALSE,America/Puerto_Rico,765
+Parcelas Nuevas-PR,1630023626,Parcelas Nuevas,Parcelas Nuevas,PR,Parcelas Nuevas-PR,Puerto Rico,72041,Cidra,18.14,-66.1702,,,964.7,polygon,FALSE,America/Puerto_Rico,739
+Boqueron-PR,1630023607,Boquerón,Boqueron,PR,Boqueron-PR,Puerto Rico,72023,Cabo Rojo,18.0341,-67.1715,,,1097,polygon,FALSE,America/Puerto_Rico,622
+Lares-PR,1630023592,Lares,Lares,PR,Lares-PR,Puerto Rico,72081,Lares,18.2951,-66.8822,,,1765.2,polygon,FALSE,America/Puerto_Rico,669
+Bufalo-PR,1630035477,Bufalo,Bufalo,PR,Bufalo-PR,Puerto Rico,72017,Barceloneta,18.4175,-66.5749,,,813.9,polygon,FALSE,America/Puerto_Rico,617
+Loiza-PR,1630023695,Loíza,Loiza,PR,Loiza-PR,Puerto Rico,72087,Loíza,18.4309,-65.88,,,3526.4,polygon,FALSE,America/Puerto_Rico,772
+Maguayo-PR,1630027035,Maguayo,Maguayo,PR,Maguayo-PR,Puerto Rico,72079,Lajas,18.01,-67.0855,,,712.1,polygon,FALSE,America/Puerto_Rico,667
+San German Zona Urbana-PR,1630035574,San Germán Zona Urbana,San German Zona Urbana,PR,San German Zona Urbana-PR,Puerto Rico,72125,San Germán,18.0827,-67.046,,,2047.4,polygon,FALSE,America/Puerto_Rico,683
+Pajonal Comunidad-PR,1630035533,Pajonal Comunidad,Pajonal Comunidad,PR,Pajonal Comunidad-PR,Puerto Rico,72054,Florida,18.3848,-66.556,,,741.8,polygon,FALSE,America/Puerto_Rico,650
+Catano Zona Urbana-PR,1630035639,Cataño Zona Urbana,Catano Zona Urbana,PR,Catano Zona Urbana-PR,Puerto Rico,72033,Cataño,18.4415,-66.1389,,,1417.5,polygon,FALSE,America/Puerto_Rico,00962 00965
+G. L. Garcia Comunidad-PR,1630023639,G. L. García Comunidad,G. L. Garcia Comunidad,PR,G. L. Garcia Comunidad-PR,Puerto Rico,72035,Cayey,18.1258,-66.1027,,,958.6,polygon,FALSE,America/Puerto_Rico,736
+Galateo-PR,1630023643,Galateo,Galateo,PR,Galateo-PR,Puerto Rico,72135,Toa Alta,18.3639,-66.259,,,1676.7,polygon,FALSE,America/Puerto_Rico,953
+Alianza Comunidad-PR,1630035702,Alianza Comunidad,Alianza Comunidad,PR,Alianza Comunidad-PR,Puerto Rico,72027,Camuy,18.4533,-66.8556,,,1477.2,polygon,FALSE,America/Puerto_Rico,627
+Cidra-PR,1630023627,Cidra,Cidra,PR,Cidra-PR,Puerto Rico,72041,Cidra,18.1775,-66.1582,,,1588.8,polygon,FALSE,America/Puerto_Rico,739
+Cidra Zona Urbana-PR,1630035647,Cidra Zona Urbana,Cidra Zona Urbana,PR,Cidra Zona Urbana-PR,Puerto Rico,72041,Cidra,18.1775,-66.1582,,,1224.4,polygon,FALSE,America/Puerto_Rico,739
+Canovanas-PR,1630035479,Canovanas,Canovanas,PR,Canovanas-PR,Puerto Rico,72029,Canóvanas,18.3783,-65.9056,,,674.3,polygon,FALSE,America/Puerto_Rico,729
+Utuado Zona Urbana-PR,1630035592,Utuado Zona Urbana,Utuado Zona Urbana,PR,Utuado Zona Urbana-PR,Puerto Rico,72141,Utuado,18.2698,-66.705,,,1282.5,polygon,FALSE,America/Puerto_Rico,641
+Luis M. Cintron-PR,1630035485,Luis M. Cintron,Luis M. Cintron,PR,Luis M. Cintron-PR,Puerto Rico,72053,Fajardo,18.3014,-65.6379,,,1208.7,polygon,FALSE,America/Puerto_Rico,738
+El Mango-PR,1630023720,El Mangó,El Mango,PR,El Mango-PR,Puerto Rico,72077,Juncos,18.2345,-65.8751,,,1202.9,polygon,FALSE,America/Puerto_Rico,777
+Sabana Eneas Comunidad-PR,1630035566,Sabana Eneas Comunidad,Sabana Eneas Comunidad,PR,Sabana Eneas Comunidad-PR,Puerto Rico,72125,San Germán,18.0809,-67.0852,,,697.3,polygon,FALSE,America/Puerto_Rico,683
+Luis Llorens Torres-PR,1630035484,Luis Llorens Torres,Luis Llorens Torres,PR,Luis Llorens Torres-PR,Puerto Rico,72075,Juana Díaz,18.0565,-66.5267,,,2616.1,polygon,FALSE,America/Puerto_Rico,795
+Aguas Claras Comunidad-PR,1630035607,Aguas Claras Comunidad,Aguas Claras Comunidad,PR,Aguas Claras Comunidad-PR,Puerto Rico,72037,Ceiba,18.2447,-65.6662,,,188.6,polygon,FALSE,America/Puerto_Rico,735
+Barahona Comunidad-PR,1630035617,Barahona Comunidad,Barahona Comunidad,PR,Barahona Comunidad-PR,Puerto Rico,72101,Morovis,18.3523,-66.4442,,,2426.5,polygon,FALSE,America/Puerto_Rico,687
+Quebrada del Agua Comunidad-PR,1630025230,Quebrada del Agua Comunidad,Quebrada del Agua Comunidad,PR,Quebrada del Agua Comunidad-PR,Puerto Rico,72113,Ponce,18.0379,-66.6846,,,704.2,polygon,FALSE,America/Puerto_Rico,624
+Parcelas La Milagrosa Comunidad-PR,1630023625,Parcelas La Milagrosa Comunidad,Parcelas La Milagrosa Comunidad,PR,Parcelas La Milagrosa Comunidad-PR,Puerto Rico,72041,Cidra,18.1716,-66.1868,,,1464.6,polygon,FALSE,America/Puerto_Rico,739
+Candelero Abajo Comunidad-PR,1630025232,Candelero Abajo Comunidad,Candelero Abajo Comunidad,PR,Candelero Abajo Comunidad-PR,Puerto Rico,72069,Humacao,18.0943,-65.8165,,,701.2,polygon,FALSE,America/Puerto_Rico,791
+Santa Clara Comunidad-PR,1630035580,Santa Clara Comunidad,Santa Clara Comunidad,PR,Santa Clara Comunidad-PR,Puerto Rico,72007,Aguas Buenas,18.211,-66.132,,,1084.6,polygon,FALSE,America/Puerto_Rico,703
+Animas-PR,1630023565,Animas,Animas,PR,Animas-PR,Puerto Rico,72013,Arecibo,18.4457,-66.6365,,,1756.4,polygon,FALSE,America/Puerto_Rico,612
+Rosa Sanchez-PR,1630035491,Rosa Sanchez,Rosa Sanchez,PR,Rosa Sanchez-PR,Puerto Rico,72151,Yabucoa,18.0622,-65.914,,,732.5,polygon,FALSE,America/Puerto_Rico,767
+Anton Ruiz Comunidad-PR,1630023725,Antón Ruíz Comunidad,Anton Ruiz Comunidad,PR,Anton Ruiz Comunidad-PR,Puerto Rico,72069,Humacao,18.1883,-65.8079,,,587.5,polygon,FALSE,America/Puerto_Rico,791
+Campo Rico-PR,1630023716,Campo Rico,Campo Rico,PR,Campo Rico-PR,Puerto Rico,72029,Canóvanas,18.3371,-65.8974,,,2749.6,polygon,FALSE,America/Puerto_Rico,729
+Moca-PR,1630023601,Moca,Moca,PR,Moca-PR,Puerto Rico,72099,Moca,18.3972,-67.1154,,,1562.6,polygon,FALSE,America/Puerto_Rico,676
+Florida Zona Urbana-PR,1630035669,Florida Zona Urbana,Florida Zona Urbana,PR,Florida Zona Urbana-PR,Puerto Rico,72054,Florida,18.3642,-66.5611,,,1634.6,polygon,FALSE,America/Puerto_Rico,650
+Punta Santiago-PR,1630023724,Punta Santiago,Punta Santiago,PR,Punta Santiago-PR,Puerto Rico,72069,Humacao,18.1619,-65.7584,,,1790.9,polygon,FALSE,America/Puerto_Rico,741
+Vayas Comunidad-PR,1630035701,Vayas Comunidad,Vayas Comunidad,PR,Vayas Comunidad-PR,Puerto Rico,72113,Ponce,18.0541,-66.5858,,,763.8,polygon,FALSE,America/Puerto_Rico,731
+Camuy-PR,1630023553,Camuy,Camuy,PR,Camuy-PR,Puerto Rico,72027,Camuy,18.4825,-66.8501,,,1843.4,polygon,FALSE,America/Puerto_Rico,627
+Buena Vista-PR,1630027039,Buena Vista,Buena Vista,PR,Buena Vista-PR,Puerto Rico,72069,Humacao,18.1153,-65.799,,,966.3,polygon,FALSE,America/Puerto_Rico,791
+La Luisa Comunidad-PR,1630035494,La Luisa Comunidad,La Luisa Comunidad,PR,La Luisa Comunidad-PR,Puerto Rico,72091,Manatí,18.4488,-66.5079,,,475.7,polygon,FALSE,America/Puerto_Rico,674
+Candelero Arriba Comunidad-PR,1630035635,Candelero Arriba Comunidad,Candelero Arriba Comunidad,PR,Candelero Arriba Comunidad-PR,Puerto Rico,72069,Humacao,18.1017,-65.8342,,,810.3,polygon,FALSE,America/Puerto_Rico,791
+Santa Barbara Comunidad-PR,1630023714,Santa Bárbara Comunidad,Santa Barbara Comunidad,PR,Santa Barbara Comunidad-PR,Puerto Rico,72029,Canóvanas,18.3952,-65.9176,,,3132.9,polygon,FALSE,America/Puerto_Rico,729
+Barceloneta-PR,1630023651,Barceloneta,Barceloneta,PR,Barceloneta-PR,Puerto Rico,72017,Barceloneta,18.4529,-66.5381,,,1968,polygon,FALSE,America/Puerto_Rico,617
+Dorado Zona Urbana-PR,1630035660,Dorado Zona Urbana,Dorado Zona Urbana,PR,Dorado Zona Urbana-PR,Puerto Rico,72051,Dorado,18.4658,-66.2721,,,1482.2,polygon,FALSE,America/Puerto_Rico,646
+Rafael Gonzalez Comunidad-PR,1630023531,Rafael González Comunidad,Rafael Gonzalez Comunidad,PR,Rafael Gonzalez Comunidad-PR,Puerto Rico,72065,Hatillo,18.4264,-66.7872,,,1048.1,polygon,FALSE,America/Puerto_Rico,659
+Catano-PR,1630023554,Cataño,Catano,PR,Catano-PR,Puerto Rico,72033,Cataño,18.4415,-66.1389,,,6779.9,polygon,FALSE,America/Puerto_Rico,00962 00965
+Bairoa La Veinticinco Comunidad-PR,1630025215,Bairoa La Veinticinco Comunidad,Bairoa La Veinticinco Comunidad,PR,Bairoa La Veinticinco Comunidad-PR,Puerto Rico,72025,Caguas,18.2637,-66.0212,,,519.3,polygon,FALSE,America/Puerto_Rico,725
+Bufalo Comunidad-PR,1630023652,Búfalo Comunidad,Bufalo Comunidad,PR,Bufalo Comunidad-PR,Puerto Rico,72017,Barceloneta,18.4175,-66.5749,,,813.9,polygon,FALSE,America/Puerto_Rico,617
+Guanica Zona Urbana-PR,1630035673,Guánica Zona Urbana,Guanica Zona Urbana,PR,Guanica Zona Urbana-PR,Puerto Rico,72055,Guánica,17.9698,-66.9309,,,698.3,polygon,FALSE,America/Puerto_Rico,00647 00653
+Aguas Claras-PR,1630023722,Aguas Claras,Aguas Claras,PR,Aguas Claras-PR,Puerto Rico,72037,Ceiba,18.2447,-65.6662,,,827.2,polygon,FALSE,America/Puerto_Rico,735
+Quebrada Comunidad-PR,1630035557,Quebrada Comunidad,Quebrada Comunidad,PR,Quebrada Comunidad-PR,Puerto Rico,72027,Camuy,18.3603,-66.8353,,,1000.3,polygon,FALSE,America/Puerto_Rico,627
+Santa Isabel Zona Urbana-PR,1630035581,Santa Isabel Zona Urbana,Santa Isabel Zona Urbana,PR,Santa Isabel Zona Urbana-PR,Puerto Rico,72133,Santa Isabel,17.9687,-66.4049,,,3183.7,polygon,FALSE,America/Puerto_Rico,757
+Pole Ojea Comunidad-PR,1630035552,Pole Ojea Comunidad,Pole Ojea Comunidad,PR,Pole Ojea Comunidad-PR,Puerto Rico,72023,Cabo Rojo,17.9743,-67.1832,,,326.9,polygon,FALSE,America/Puerto_Rico,622
+Yauco-PR,1630023662,Yauco,Yauco,PR,Yauco-PR,Puerto Rico,72153,Yauco,18.0344,-66.8614,,,2246.3,polygon,FALSE,America/Puerto_Rico,698
+Utuado-PR,1630023623,Utuado,Utuado,PR,Utuado-PR,Puerto Rico,72141,Utuado,18.2698,-66.705,,,2185.5,polygon,FALSE,America/Puerto_Rico,641
+Tiburones Comunidad-PR,1630035587,Tiburones Comunidad,Tiburones Comunidad,PR,Tiburones Comunidad-PR,Puerto Rico,72017,Barceloneta,18.4382,-66.5809,,,1429.9,polygon,FALSE,America/Puerto_Rico,617
+Sabana-PR,1630023571,Sabana,Sabana,PR,Sabana-PR,Puerto Rico,72145,Vega Baja,18.4643,-66.3517,,,17.1,polygon,FALSE,America/Puerto_Rico,693
+Aguilita Comunidad-PR,1630035608,Aguilita Comunidad,Aguilita Comunidad,PR,Aguilita Comunidad-PR,Puerto Rico,72075,Juana Díaz,18.0284,-66.533,,,622.4,polygon,FALSE,America/Puerto_Rico,795
+Fuig-PR,1630023536,Fuig,Fuig,PR,Fuig-PR,Puerto Rico,72055,Guánica,17.9857,-66.9171,,,556.3,polygon,FALSE,America/Puerto_Rico,647
+Humacao-PR,1630023728,Humacao,Humacao,PR,Humacao-PR,Puerto Rico,72069,Humacao,18.1519,-65.8204,,,2515.5,polygon,FALSE,America/Puerto_Rico,00791 00792
+Barranquitas-PR,1630023677,Barranquitas,Barranquitas,PR,Barranquitas-PR,Puerto Rico,72019,Barranquitas,18.1847,-66.3103,,,1061,polygon,FALSE,America/Puerto_Rico,794
+Bajadero-PR,1630023567,Bajadero,Bajadero,PR,Bajadero-PR,Puerto Rico,72013,Arecibo,18.4235,-66.677,,,1237.2,polygon,FALSE,America/Puerto_Rico,616
+Coto Laurel-PR,1630023670,Coto Laurel,Coto Laurel,PR,Coto Laurel-PR,Puerto Rico,72113,Ponce,18.0491,-66.5517,,,1649.7,polygon,FALSE,America/Puerto_Rico,780
+Las Carolinas-PR,1630023539,Las Carolinas,Las Carolinas,PR,Las Carolinas-PR,Puerto Rico,72025,Caguas,18.2539,-66.0659,,,1795,polygon,FALSE,America/Puerto_Rico,727
+G. L. Garcia-PR,1630035481,G. L. Garcia,G. L. Garcia,PR,G. L. Garcia-PR,Puerto Rico,72035,Cayey,18.1258,-66.1027,,,958.6,polygon,FALSE,America/Puerto_Rico,736
+Coamo-PR,1630023666,Coamo,Coamo,PR,Coamo-PR,Puerto Rico,72043,Coamo,18.0765,-66.3638,,,2159.6,polygon,FALSE,America/Puerto_Rico,769
+Puerto Real-PR,1630023605,Puerto Real,Puerto Real,PR,Puerto Real-PR,Puerto Rico,72023,Cabo Rojo,18.0763,-67.1861,,,723.8,polygon,FALSE,America/Puerto_Rico,623
+Coto Norte-PR,1630023573,Coto Norte,Coto Norte,PR,Coto Norte-PR,Puerto Rico,72145,Vega Baja,18.4328,-66.4409,,,787.5,polygon,FALSE,America/Puerto_Rico,674
+Hatillo-PR,1630023534,Hatillo,Hatillo,PR,Hatillo-PR,Puerto Rico,72065,Hatillo,18.4811,-66.8221,,,1128.6,polygon,FALSE,America/Puerto_Rico,659
+Imbery Comunidad-PR,1630023654,Imbéry Comunidad,Imbery Comunidad,PR,Imbery Comunidad-PR,Puerto Rico,72017,Barceloneta,18.4371,-66.5566,,,2388.5,polygon,FALSE,America/Puerto_Rico,617
+Tallaboa-PR,1630023559,Tallaboa,Tallaboa,PR,Tallaboa-PR,Puerto Rico,72111,Peñuelas,17.9961,-66.7085,,,639,polygon,FALSE,America/Puerto_Rico,624
+Espino-PR,1630023591,Espino,Espino,PR,Espino-PR,Puerto Rico,72011,Añasco,18.276,-67.1193,,,1301.3,polygon,FALSE,America/Puerto_Rico,610
+Playa Fortuna Comunidad-PR,1630035548,Playa Fortuna Comunidad,Playa Fortuna Comunidad,PR,Playa Fortuna Comunidad-PR,Puerto Rico,72089,Luquillo,18.3769,-65.7455,,,1765.3,polygon,FALSE,America/Puerto_Rico,773
+Sabana Seca Comunidad-PR,1630035569,Sabana Seca Comunidad,Sabana Seca Comunidad,PR,Sabana Seca Comunidad-PR,Puerto Rico,72137,Toa Baja,18.4273,-66.1809,,,3734.9,polygon,FALSE,America/Puerto_Rico,952
+Las Croabas Comunidad-PR,1630035706,Las Croabas Comunidad,Las Croabas Comunidad,PR,Las Croabas Comunidad-PR,Puerto Rico,72053,Fajardo,18.3676,-65.6303,,,569.7,polygon,FALSE,America/Puerto_Rico,738
+Miranda-PR,1630023569,Miranda,Miranda,PR,Miranda-PR,Puerto Rico,72145,Vega Baja,18.3869,-66.3789,,,539.8,polygon,FALSE,America/Puerto_Rico,693
+San Sebastian Zona Urbana-PR,1630035579,San Sebastián Zona Urbana,San Sebastian Zona Urbana,PR,San Sebastian Zona Urbana-PR,Puerto Rico,72131,San Sebastián,18.3356,-66.9949,,,1993.9,polygon,FALSE,America/Puerto_Rico,685
+Guayabal-PR,1630023582,Guayabal,Guayabal,PR,Guayabal-PR,Puerto Rico,72075,Juana Díaz,18.0761,-66.5017,,,1318.2,polygon,FALSE,America/Puerto_Rico,795
+Jobos-PR,1630023660,Jobos,Jobos,PR,Jobos-PR,Puerto Rico,72057,Guayama,17.9608,-66.1655,,,651.3,polygon,FALSE,America/Puerto_Rico,784
+Liborio Negron Torres-PR,1630035483,Liborio Negron Torres,Liborio Negron Torres,PR,Liborio Negron Torres-PR,Puerto Rico,72121,Sabana Grande,18.0431,-66.9426,,,971.3,polygon,FALSE,America/Puerto_Rico,637
+Mariano Colon Comunidad-PR,1630035515,Mariano Colón Comunidad,Mariano Colon Comunidad,PR,Mariano Colon Comunidad-PR,Puerto Rico,72043,Coamo,18.0287,-66.3357,,,695.8,polygon,FALSE,America/Puerto_Rico,769
+Los Prados Comunidad-PR,1630025219,Los Prados Comunidad,Los Prados Comunidad,PR,Los Prados Comunidad-PR,Puerto Rico,72025,Caguas,18.233,-66.0619,,,1904.2,polygon,FALSE,America/Puerto_Rico,727
+Cayey-PR,1630023638,Cayey,Cayey,PR,Cayey-PR,Puerto Rico,72035,Cayey,18.115,-66.163,,,3867.6,polygon,FALSE,America/Puerto_Rico,00736 00737
+Isabela Zona Urbana-PR,1630035686,Isabela Zona Urbana,Isabela Zona Urbana,PR,Isabela Zona Urbana-PR,Puerto Rico,72071,Isabela,18.4992,-67.022,,,2202.8,polygon,FALSE,America/Puerto_Rico,662
+Palmarejo Comunidad-PR,1630035534,Palmarejo Comunidad,Palmarejo Comunidad,PR,Palmarejo Comunidad-PR,Puerto Rico,72043,Coamo,18.0682,-66.3266,,,429.5,polygon,FALSE,America/Puerto_Rico,769
+Anasco Zona Urbana-PR,1630035610,Añasco Zona Urbana,Anasco Zona Urbana,PR,Anasco Zona Urbana-PR,Puerto Rico,72011,Añasco,18.286,-67.1411,,,3207.2,polygon,FALSE,America/Puerto_Rico,610
+Corcovado Comunidad-PR,1630035654,Corcovado Comunidad,Corcovado Comunidad,PR,Corcovado Comunidad-PR,Puerto Rico,72065,Hatillo,18.461,-66.7778,,,1161.9,polygon,FALSE,America/Puerto_Rico,659
+Palmas Comunidad-PR,1630035536,Palmas Comunidad,Palmas Comunidad,PR,Palmas Comunidad-PR,Puerto Rico,72015,Arroyo,17.9878,-66.0255,,,1373.1,polygon,FALSE,America/Puerto_Rico,00714 00723
+Santo Domingo-PR,1630023557,Santo Domingo,Santo Domingo,PR,Santo Domingo-PR,Puerto Rico,72111,Peñuelas,18.0722,-66.7458,,,798.3,polygon,FALSE,America/Puerto_Rico,624
+Salinas-PR,1630023630,Salinas,Salinas,PR,Salinas-PR,Puerto Rico,72123,Salinas,17.9779,-66.2961,,,2606.1,polygon,FALSE,America/Puerto_Rico,751
+Indios Comunidad-PR,1630035684,Indios Comunidad,Indios Comunidad,PR,Indios Comunidad-PR,Puerto Rico,72059,Guayanilla,17.9942,-66.8211,,,489.4,polygon,FALSE,America/Puerto_Rico,656
+Franquez Comunidad-PR,1630023613,Fránquez Comunidad,Franquez Comunidad,PR,Franquez Comunidad-PR,Puerto Rico,72101,Morovis,18.3401,-66.4276,,,1202,polygon,FALSE,America/Puerto_Rico,687
+Maria Antonia-PR,1630035486,Maria Antonia,Maria Antonia,PR,Maria Antonia-PR,Puerto Rico,72055,Guánica,17.9789,-66.889,,,924.3,polygon,FALSE,America/Puerto_Rico,653
+Salinas Zona Urbana-PR,1630035570,Salinas Zona Urbana,Salinas Zona Urbana,PR,Salinas Zona Urbana-PR,Puerto Rico,72123,Salinas,17.9779,-66.2961,,,2606.1,polygon,FALSE,America/Puerto_Rico,751
+Lares Zona Urbana-PR,1630035500,Lares Zona Urbana,Lares Zona Urbana,PR,Lares Zona Urbana-PR,Puerto Rico,72081,Lares,18.2951,-66.8822,,,1765.2,polygon,FALSE,America/Puerto_Rico,669
+Rafael Gonzalez-PR,1630035489,Rafael Gonzalez,Rafael Gonzalez,PR,Rafael Gonzalez-PR,Puerto Rico,72065,Hatillo,18.4264,-66.7872,,,1048.1,polygon,FALSE,America/Puerto_Rico,659
+Candelaria Arenas-PR,1630023688,Candelaria Arenas,Candelaria Arenas,PR,Candelaria Arenas-PR,Puerto Rico,72137,Toa Baja,18.4175,-66.2203,,,1674.2,polygon,FALSE,America/Puerto_Rico,949
+Stella Comunidad-PR,1630035583,Stella Comunidad,Stella Comunidad,PR,Stella Comunidad-PR,Puerto Rico,72117,Rincón,18.3235,-67.2462,,,1298.5,polygon,FALSE,America/Puerto_Rico,677
+Sumidero-PR,1630035471,Sumidero,Sumidero,PR,Sumidero-PR,Puerto Rico,72007,Aguas Buenas,18.2186,-66.1288,,,1071.8,point,FALSE,America/Puerto_Rico,703
+Yabucoa-PR,1630023682,Yabucoa,Yabucoa,PR,Yabucoa-PR,Puerto Rico,72151,Yabucoa,18.0469,-65.8792,,,556.2,polygon,FALSE,America/Puerto_Rico,767
+La Parguera-PR,1630023597,La Parguera,La Parguera,PR,La Parguera-PR,Puerto Rico,72079,Lajas,17.9746,-67.046,,,1212.4,polygon,FALSE,America/Puerto_Rico,667
+Luquillo Zona Urbana-PR,1630035511,Luquillo Zona Urbana,Luquillo Zona Urbana,PR,Luquillo Zona Urbana-PR,Puerto Rico,72089,Luquillo,18.3735,-65.7218,,,1731,polygon,FALSE,America/Puerto_Rico,773
+San Lorenzo-PR,1630023576,San Lorenzo,San Lorenzo,PR,San Lorenzo-PR,Puerto Rico,72129,San Lorenzo,18.1894,-65.9674,,,2364.1,polygon,FALSE,America/Puerto_Rico,754
+Santo Domingo Comunidad-PR,1630035582,Santo Domingo Comunidad,Santo Domingo Comunidad,PR,Santo Domingo Comunidad-PR,Puerto Rico,72111,Peñuelas,18.0722,-66.7458,,,231.5,polygon,FALSE,America/Puerto_Rico,624
+Jobos Comunidad-PR,1630035690,Jobos Comunidad,Jobos Comunidad,PR,Jobos Comunidad-PR,Puerto Rico,72057,Guayama,17.9608,-66.1655,,,1368.5,polygon,FALSE,America/Puerto_Rico,784
+Duque Comunidad-PR,1630035661,Duque Comunidad,Duque Comunidad,PR,Duque Comunidad-PR,Puerto Rico,72103,Naguabo,18.2381,-65.7433,,,911.3,polygon,FALSE,America/Puerto_Rico,718
+Los Panes Comunidad-PR,1630025218,Los Panes Comunidad,Los Panes Comunidad,PR,Los Panes Comunidad-PR,Puerto Rico,72025,Caguas,18.1871,-66.0762,,,504.8,polygon,FALSE,America/Puerto_Rico,727
+La Fermina-PR,1630023729,La Fermina,La Fermina,PR,La Fermina-PR,Puerto Rico,72085,Las Piedras,18.1744,-65.8527,,,1189,polygon,FALSE,America/Puerto_Rico,00771 00791
+Vazquez Comunidad-PR,1630035593,Vázquez Comunidad,Vazquez Comunidad,PR,Vazquez Comunidad-PR,Puerto Rico,72123,Salinas,18.0688,-66.2339,,,732.6,polygon,FALSE,America/Puerto_Rico,751
+Rafael Capo Comunidad-PR,1630023530,Rafael Capó Comunidad,Rafael Capo Comunidad,PR,Rafael Capo Comunidad-PR,Puerto Rico,72065,Hatillo,18.3998,-66.7908,,,181,polygon,FALSE,America/Puerto_Rico,659
+Pajonal-PR,1630023647,Pajonal,Pajonal,PR,Pajonal-PR,Puerto Rico,72054,Florida,18.3848,-66.556,,,423,polygon,FALSE,America/Puerto_Rico,650
+Aibonito-PR,1630023600,Aibonito,Aibonito,PR,Aibonito-PR,Puerto Rico,72009,Aibonito,18.1398,-66.2659,,,1643.9,polygon,FALSE,America/Puerto_Rico,705
+Palo Seco-PR,1630023698,Palo Seco,Palo Seco,PR,Palo Seco-PR,Puerto Rico,72095,Maunabo,18.0093,-65.9369,,,533.2,polygon,FALSE,America/Puerto_Rico,707
+Corozal-PR,1630023560,Corozal,Corozal,PR,Corozal-PR,Puerto Rico,72047,Corozal,18.3411,-66.3124,,,1716.6,polygon,FALSE,America/Puerto_Rico,783
+Brenas Comunidad-PR,1630023588,Breñas Comunidad,Brenas Comunidad,PR,Brenas Comunidad-PR,Puerto Rico,72143,Vega Alta,18.4734,-66.3346,,,1777.1,polygon,FALSE,America/Puerto_Rico,692
+Camuy Zona Urbana-PR,1630035632,Camuy Zona Urbana,Camuy Zona Urbana,PR,Camuy Zona Urbana-PR,Puerto Rico,72027,Camuy,18.4825,-66.8501,,,1473.5,polygon,FALSE,America/Puerto_Rico,627
+Naguabo-PR,1630023705,Naguabo,Naguabo,PR,Naguabo-PR,Puerto Rico,72103,Naguabo,18.2116,-65.737,,,2348.8,polygon,FALSE,America/Puerto_Rico,718
+Maricao Zona Urbana-PR,1630035516,Maricao Zona Urbana,Maricao Zona Urbana,PR,Maricao Zona Urbana-PR,Puerto Rico,72093,Maricao,18.1837,-66.9809,,,193.8,polygon,FALSE,America/Puerto_Rico,606
+Lomas-PR,1630023712,Lomas,Lomas,PR,Lomas-PR,Puerto Rico,72029,Canóvanas,18.2687,-65.9091,,,993.7,polygon,FALSE,America/Puerto_Rico,729
+Las Piedras Zona Urbana-PR,1630035505,Las Piedras Zona Urbana,Las Piedras Zona Urbana,PR,Las Piedras Zona Urbana-PR,Puerto Rico,72085,Las Piedras,18.1785,-65.8708,,,1039.7,polygon,FALSE,America/Puerto_Rico,771
+Naguabo Zona Urbana-PR,1630035528,Naguabo Zona Urbana,Naguabo Zona Urbana,PR,Naguabo Zona Urbana-PR,Puerto Rico,72103,Naguabo,18.2116,-65.737,,,2348.8,polygon,FALSE,America/Puerto_Rico,718
+Galateo Comunidad-PR,1630035671,Galateo Comunidad,Galateo Comunidad,PR,Galateo Comunidad-PR,Puerto Rico,72135,Toa Alta,18.3639,-66.259,,,1676.7,polygon,FALSE,America/Puerto_Rico,953
+Hato Arriba Comunidad-PR,1630035680,Hato Arriba Comunidad,Hato Arriba Comunidad,PR,Hato Arriba Comunidad-PR,Puerto Rico,72131,San Sebastián,18.3503,-67.0333,,,345.2,polygon,FALSE,America/Puerto_Rico,685
+Las Ollas-PR,1630023542,Las Ollas,Las Ollas,PR,Las Ollas-PR,Puerto Rico,72133,Santa Isabel,18.0141,-66.4208,,,40.4,polygon,FALSE,America/Puerto_Rico,757
+Mora-PR,1630023673,Mora,Mora,PR,Mora-PR,Puerto Rico,72071,Isabela,18.4626,-67.0323,,,1618.3,polygon,FALSE,America/Puerto_Rico,662
+Comerio-PR,1630023541,Comerío,Comerio,PR,Comerio-PR,Puerto Rico,72045,Comerío,18.2203,-66.2243,,,1713.7,polygon,FALSE,America/Puerto_Rico,782
+Carolina-PR,1630023574,Carolina,Carolina,PR,Carolina-PR,Puerto Rico,72031,Carolina,18.4054,-65.9792,,,2429.9,polygon,FALSE,America/Puerto_Rico,00979 00985 00987 00982 00983 00981 00984 00986 00988
+Puerto Real Comunidad-PR,1630035555,Puerto Real Comunidad,Puerto Real Comunidad,PR,Puerto Real Comunidad-PR,Puerto Rico,72023,Cabo Rojo,18.0763,-67.1861,,,3025.5,polygon,FALSE,America/Puerto_Rico,623
+Coto Norte Comunidad-PR,1630035657,Coto Norte Comunidad,Coto Norte Comunidad,PR,Coto Norte Comunidad-PR,Puerto Rico,72091,Manatí,18.4328,-66.4409,,,787.5,polygon,FALSE,America/Puerto_Rico,674
+Tallaboa Comunidad-PR,1630035586,Tallaboa Comunidad,Tallaboa Comunidad,PR,Tallaboa Comunidad-PR,Puerto Rico,72111,Peñuelas,17.9961,-66.7085,,,639,polygon,FALSE,America/Puerto_Rico,624
+Manati Zona Urbana-PR,1630035514,Manatí Zona Urbana,Manati Zona Urbana,PR,Manati Zona Urbana-PR,Puerto Rico,72091,Manatí,18.4283,-66.4823,,,3316,polygon,FALSE,America/Puerto_Rico,674
+Cayuco-PR,1630023624,Cayuco,Cayuco,PR,Cayuco-PR,Puerto Rico,72141,Utuado,18.2922,-66.7348,,,574,polygon,FALSE,America/Puerto_Rico,641
+Guayanilla Zona Urbana-PR,1630035676,Guayanilla Zona Urbana,Guayanilla Zona Urbana,PR,Guayanilla Zona Urbana-PR,Puerto Rico,72059,Guayanilla,18.0222,-66.7898,,,1566.4,polygon,FALSE,America/Puerto_Rico,656
+Cerrillos Hoyos Comunidad-PR,1630026087,Cerrillos Hoyos Comunidad,Cerrillos Hoyos Comunidad,PR,Cerrillos Hoyos Comunidad-PR,Puerto Rico,72113,Ponce,18.0656,-66.5691,,,516.6,polygon,FALSE,America/Puerto_Rico,780
+Corcovado-PR,1630023533,Corcovado,Corcovado,PR,Corcovado-PR,Puerto Rico,72065,Hatillo,18.461,-66.7778,,,1161.9,polygon,FALSE,America/Puerto_Rico,659
+El Negro Comunidad-PR,1630035663,El Negro Comunidad,El Negro Comunidad,PR,El Negro Comunidad-PR,Puerto Rico,72151,Yabucoa,18.0371,-65.8494,,,1078.7,polygon,FALSE,America/Puerto_Rico,767
+Adjuntas Zona Urbana-PR,1630035603,Adjuntas Zona Urbana,Adjuntas Zona Urbana,PR,Adjuntas Zona Urbana-PR,Puerto Rico,72001,Adjuntas,18.1638,-66.7235,,,2695.6,polygon,FALSE,America/Puerto_Rico,601
+Toa Baja Zona Urbana-PR,1630035590,Toa Baja Zona Urbana,Toa Baja Zona Urbana,PR,Toa Baja Zona Urbana-PR,Puerto Rico,72137,Toa Baja,18.4439,-66.2547,,,1242.2,polygon,FALSE,America/Puerto_Rico,949
+Tallaboa Alta Comunidad-PR,1630035585,Tallaboa Alta Comunidad,Tallaboa Alta Comunidad,PR,Tallaboa Alta Comunidad-PR,Puerto Rico,72111,Peñuelas,18.0504,-66.7018,,,1562.3,polygon,FALSE,America/Puerto_Rico,624
+Corozal Zona Urbana-PR,1630035655,Corozal Zona Urbana,Corozal Zona Urbana,PR,Corozal Zona Urbana-PR,Puerto Rico,72047,Corozal,18.3411,-66.3124,,,1286.1,polygon,FALSE,America/Puerto_Rico,783
+Comunas-PR,1630023683,Comunas,Comunas,PR,Comunas-PR,Puerto Rico,72151,Yabucoa,18.0871,-65.8404,,,1650.2,polygon,FALSE,America/Puerto_Rico,767
+Central Aguirre Comunidad-PR,1630035645,Central Aguirre Comunidad,Central Aguirre Comunidad,PR,Central Aguirre Comunidad-PR,Puerto Rico,72123,Salinas,17.9559,-66.2264,,,690.6,polygon,FALSE,America/Puerto_Rico,704
+Parcelas Penuelas-PR,1630023543,Parcelas Peñuelas,Parcelas Penuelas,PR,Parcelas Penuelas-PR,Puerto Rico,72133,Santa Isabel,18.0061,-66.3476,,,257.7,polygon,FALSE,America/Puerto_Rico,757
+Patillas Zona Urbana-PR,1630035544,Patillas Zona Urbana,Patillas Zona Urbana,PR,Patillas Zona Urbana-PR,Puerto Rico,72109,Patillas,18.0069,-66.0134,,,1727.1,polygon,FALSE,America/Puerto_Rico,723
+Campanilla-PR,1630023687,Campanilla,Campanilla,PR,Campanilla-PR,Puerto Rico,72137,Toa Baja,18.4229,-66.2382,,,3135.4,polygon,FALSE,America/Puerto_Rico,949
+Guanica-PR,1630023537,Guánica,Guanica,PR,Guanica-PR,Puerto Rico,72055,Guánica,17.9698,-66.9309,,,2077.7,polygon,FALSE,America/Puerto_Rico,00647 00653
+Ceiba Comunidad-PR,1630035642,Ceiba Comunidad,Ceiba Comunidad,PR,Ceiba Comunidad-PR,Puerto Rico,72143,Vega Alta,18.4434,-66.3468,,,1449.2,polygon,FALSE,America/Puerto_Rico,00692 00693
+San Jose Comunidad-PR,1630035576,San José Comunidad,San Jose Comunidad,PR,San Jose Comunidad-PR,Puerto Rico,72137,Toa Baja,18.4029,-66.2492,,,510.4,polygon,FALSE,America/Puerto_Rico,949
+Orocovis-PR,1630023671,Orocovis,Orocovis,PR,Orocovis-PR,Puerto Rico,72107,Orocovis,18.2257,-66.3916,,,572.2,polygon,FALSE,America/Puerto_Rico,720
+Luquillo-PR,1630023692,Luquillo,Luquillo,PR,Luquillo-PR,Puerto Rico,72089,Luquillo,18.3735,-65.7218,,,1645.2,polygon,FALSE,America/Puerto_Rico,773
+Sabana Hoyos-PR,1630023564,Sabana Hoyos,Sabana Hoyos,PR,Sabana Hoyos-PR,Puerto Rico,72013,Arecibo,18.4281,-66.6117,,,320.3,polygon,FALSE,America/Puerto_Rico,688
+El Mango Comunidad-PR,1630035662,El Mangó Comunidad,El Mango Comunidad,PR,El Mango Comunidad-PR,Puerto Rico,72077,Juncos,18.2345,-65.8751,,,1202.9,polygon,FALSE,America/Puerto_Rico,777
+Jayuya Zona Urbana-PR,1630035689,Jayuya Zona Urbana,Jayuya Zona Urbana,PR,Jayuya Zona Urbana-PR,Puerto Rico,72073,Jayuya,18.2188,-66.5967,,,1393.7,polygon,FALSE,America/Puerto_Rico,664
+Corral Viejo Comunidad-PR,1630035698,Corral Viejo Comunidad,Corral Viejo Comunidad,PR,Corral Viejo Comunidad-PR,Puerto Rico,72113,Ponce,18.0754,-66.6524,,,197.8,polygon,FALSE,America/Puerto_Rico,731
+Arecibo Zona Urbana-PR,1630035612,Arecibo Zona Urbana,Arecibo Zona Urbana,PR,Arecibo Zona Urbana-PR,Puerto Rico,72013,Arecibo,18.4491,-66.7387,,,1915.7,polygon,FALSE,America/Puerto_Rico,00612 00613 00614
+El Combate-PR,1630027036,El Combate,El Combate,PR,El Combate-PR,Puerto Rico,72023,Cabo Rojo,17.9818,-67.2086,,,479.2,polygon,FALSE,America/Puerto_Rico,622
+Yaurel Comunidad-PR,1630035601,Yaurel Comunidad,Yaurel Comunidad,PR,Yaurel Comunidad-PR,Puerto Rico,72015,Arroyo,18.03,-66.056,,,192.5,polygon,FALSE,America/Puerto_Rico,714
+Rafael Hernandez Comunidad-PR,1630023616,Rafael Hernández Comunidad,Rafael Hernandez Comunidad,PR,Rafael Hernandez Comunidad-PR,Puerto Rico,72005,Aguadilla,18.4719,-67.0785,,,1572,polygon,FALSE,America/Puerto_Rico,603
+Vega Baja Zona Urbana-PR,1630035595,Vega Baja Zona Urbana,Vega Baja Zona Urbana,PR,Vega Baja Zona Urbana-PR,Puerto Rico,72145,Vega Baja,18.4411,-66.3993,,,2746.4,polygon,FALSE,America/Puerto_Rico,693
+Vega Baja-PR,1630023572,Vega Baja,Vega Baja,PR,Vega Baja-PR,Puerto Rico,72145,Vega Baja,18.4411,-66.3993,,,2663.1,polygon,FALSE,America/Puerto_Rico,693
+Monte Verde Comunidad-PR,1630025228,Monte Verde Comunidad,Monte Verde Comunidad,PR,Monte Verde Comunidad-PR,Puerto Rico,72113,Ponce,18.0972,-66.6196,,,106.3,polygon,FALSE,America/Puerto_Rico,731
+Aguas Buenas-PR,1630023676,Aguas Buenas,Aguas Buenas,PR,Aguas Buenas-PR,Puerto Rico,72007,Aguas Buenas,18.2573,-66.1063,,,2096.9,polygon,FALSE,America/Puerto_Rico,703
+Palmer-PR,1630023700,Palmer,Palmer,PR,Palmer-PR,Puerto Rico,72119,Río Grande,18.3699,-65.774,,,1213.4,polygon,FALSE,America/Puerto_Rico,745
+San Antonio Comunidad-PR,1630035571,San Antonio Comunidad,San Antonio Comunidad,PR,San Antonio Comunidad-PR,Puerto Rico,72005,Aguadilla,18.4932,-67.0998,,,2178.1,polygon,FALSE,America/Puerto_Rico,690
+Carrizales Comunidad-PR,1630035638,Carrizales Comunidad,Carrizales Comunidad,PR,Carrizales Comunidad-PR,Puerto Rico,72065,Hatillo,18.4811,-66.7878,,,2086.4,polygon,FALSE,America/Puerto_Rico,659
+Hato Candal-PR,1630023703,Hato Candal,Hato Candal,PR,Hato Candal-PR,Puerto Rico,72119,Río Grande,18.3733,-65.7906,,,1181.3,polygon,FALSE,America/Puerto_Rico,745
+Rodriguez Hevia-PR,1630025222,Rodríguez Hevia,Rodriguez Hevia,PR,Rodriguez Hevia-PR,Puerto Rico,72041,Cidra,18.202,-66.1824,,,364.4,polygon,FALSE,America/Puerto_Rico,739
+Coco Comunidad-PR,1630035649,Coco Comunidad,Coco Comunidad,PR,Coco Comunidad-PR,Puerto Rico,72123,Salinas,18.001,-66.2603,,,1661.6,polygon,FALSE,America/Puerto_Rico,751
+Vayas-PR,1630026088,Vayas,Vayas,PR,Vayas-PR,Puerto Rico,72113,Ponce,18.0541,-66.5858,,,763.8,polygon,FALSE,America/Puerto_Rico,731
+Pastos Comunidad-PR,1630035543,Pastos Comunidad,Pastos Comunidad,PR,Pastos Comunidad-PR,Puerto Rico,72009,Aibonito,18.1193,-66.2601,,,795.4,polygon,FALSE,America/Puerto_Rico,705
+Parcelas La Milagrosa-PR,1630035487,Parcelas La Milagrosa,Parcelas La Milagrosa,PR,Parcelas La Milagrosa-PR,Puerto Rico,72041,Cidra,18.1716,-66.1868,,,1464.6,polygon,FALSE,America/Puerto_Rico,739
+Barahona-PR,1630023612,Barahona,Barahona,PR,Barahona-PR,Puerto Rico,72101,Morovis,18.3523,-66.4442,,,2426.5,polygon,FALSE,America/Puerto_Rico,687
+Fuig Comunidad-PR,1630035670,Fuig Comunidad,Fuig Comunidad,PR,Fuig Comunidad-PR,Puerto Rico,72055,Guánica,17.9857,-66.9171,,,694.2,polygon,FALSE,America/Puerto_Rico,647
+Playita Cortada Comunidad-PR,1630035551,Playita Cortada Comunidad,Playita Cortada Comunidad,PR,Playita Cortada Comunidad-PR,Puerto Rico,72133,Santa Isabel,17.982,-66.4402,,,773.8,polygon,FALSE,America/Puerto_Rico,757
+Jagual Comunidad-PR,1630035687,Jagual Comunidad,Jagual Comunidad,PR,Jagual Comunidad-PR,Puerto Rico,72129,San Lorenzo,18.161,-65.9993,,,1175.2,polygon,FALSE,America/Puerto_Rico,754
+Yauco Zona Urbana-PR,1630035600,Yauco Zona Urbana,Yauco Zona Urbana,PR,Yauco Zona Urbana-PR,Puerto Rico,72153,Yauco,18.0344,-66.8614,,,1525,polygon,FALSE,America/Puerto_Rico,698
+La Luisa-PR,1630023561,La Luisa,La Luisa,PR,La Luisa-PR,Puerto Rico,72091,Manatí,18.4488,-66.5079,,,999.8,polygon,FALSE,America/Puerto_Rico,674
+Juncal-PR,1630023637,Juncal,Juncal,PR,Juncal-PR,Puerto Rico,72131,San Sebastián,18.3132,-66.9189,,,1055.3,polygon,FALSE,America/Puerto_Rico,685
+Marueno Comunidad-PR,1630035518,Marueño Comunidad,Marueno Comunidad,PR,Marueno Comunidad-PR,Puerto Rico,72113,Ponce,18.0587,-66.6568,,,434.8,polygon,FALSE,America/Puerto_Rico,731
+Playita Comunidad-PR,1630035549,Playita Comunidad,Playita Comunidad,PR,Playita Comunidad-PR,Puerto Rico,72123,Salinas,17.9623,-66.2908,,,870.5,polygon,FALSE,America/Puerto_Rico,751
+Campanilla Comunidad-PR,1630035630,Campanilla Comunidad,Campanilla Comunidad,PR,Campanilla Comunidad-PR,Puerto Rico,72137,Toa Baja,18.4229,-66.2382,,,3135.4,polygon,FALSE,America/Puerto_Rico,949
+San Lorenzo Zona Urbana-PR,1630035578,San Lorenzo Zona Urbana,San Lorenzo Zona Urbana,PR,San Lorenzo Zona Urbana-PR,Puerto Rico,72129,San Lorenzo,18.1894,-65.9674,,,1023.9,polygon,FALSE,America/Puerto_Rico,754
+Playita-PR,1630023680,Playita,Playita,PR,Playita-PR,Puerto Rico,72151,Yabucoa,18.0405,-65.9071,,,949.6,polygon,FALSE,America/Puerto_Rico,767
+Hato Arriba-PR,1630023636,Hato Arriba,Hato Arriba,PR,Hato Arriba-PR,Puerto Rico,72131,San Sebastián,18.3503,-67.0333,,,345.2,polygon,FALSE,America/Puerto_Rico,685
+Lamboglia Comunidad-PR,1630035499,Lamboglia Comunidad,Lamboglia Comunidad,PR,Lamboglia Comunidad-PR,Puerto Rico,72109,Patillas,17.9846,-65.9851,,,445.5,polygon,FALSE,America/Puerto_Rico,723
+Emajagua Comunidad-PR,1630035665,Emajagua Comunidad,Emajagua Comunidad,PR,Emajagua Comunidad-PR,Puerto Rico,72095,Maunabo,18.0015,-65.8829,,,1615.5,polygon,FALSE,America/Puerto_Rico,707
+Ciales Zona Urbana-PR,1630035646,Ciales Zona Urbana,Ciales Zona Urbana,PR,Ciales Zona Urbana-PR,Puerto Rico,72039,Ciales,18.3343,-66.4704,,,2175.8,polygon,FALSE,America/Puerto_Rico,638
+Los Llanos Comunidad-PR,1630035510,Los Llanos Comunidad,Los Llanos Comunidad,PR,Los Llanos Comunidad-PR,Puerto Rico,72043,Coamo,18.0579,-66.4092,,,438.1,polygon,FALSE,America/Puerto_Rico,769
+Culebra Zona Urbana-PR,1630035658,Culebra Zona Urbana,Culebra Zona Urbana,PR,Culebra Zona Urbana-PR,Puerto Rico,72049,Culebra,18.3104,-65.3029,,,780.6,polygon,FALSE,America/Puerto_Rico,775
+Bajandas-PR,1630023726,Bajandas,Bajandas,PR,Bajandas-PR,Puerto Rico,72069,Humacao,18.1601,-65.7831,,,116,polygon,FALSE,America/Puerto_Rico,791
+Mucarabones Comunidad-PR,1630035527,Mucarabones Comunidad,Mucarabones Comunidad,PR,Mucarabones Comunidad-PR,Puerto Rico,72135,Toa Alta,18.3906,-66.2178,,,1555.5,polygon,FALSE,America/Puerto_Rico,953
+Cayuco Comunidad-PR,1630035641,Cayuco Comunidad,Cayuco Comunidad,PR,Cayuco Comunidad-PR,Puerto Rico,72141,Utuado,18.2922,-66.7348,,,595.3,polygon,FALSE,America/Puerto_Rico,641
+Pastos-PR,1630023599,Pastos,Pastos,PR,Pastos-PR,Puerto Rico,72009,Aibonito,18.1193,-66.2601,,,795.4,polygon,FALSE,America/Puerto_Rico,705
+La Playa-PR,1630023589,La Playa,La Playa,PR,La Playa-PR,Puerto Rico,72011,Añasco,18.2864,-67.1866,,,1692.9,polygon,FALSE,America/Puerto_Rico,610
+Bairoa-PR,1630035460,Bairoa,Bairoa,PR,Bairoa-PR,Puerto Rico,72025,Caguas,18.2591,-66.0404,,,815.4,point,FALSE,America/Puerto_Rico,725
+Carrizales-PR,1630023532,Carrizales,Carrizales,PR,Carrizales-PR,Puerto Rico,72065,Hatillo,18.4811,-66.7878,,,2086.4,polygon,FALSE,America/Puerto_Rico,659
+Playita Cortada-PR,1630023544,Playita Cortada,Playita Cortada,PR,Playita Cortada-PR,Puerto Rico,72133,Santa Isabel,17.982,-66.4402,,,556.5,polygon,FALSE,America/Puerto_Rico,757
+San Isidro-PR,1630023713,San Isidro,San Isidro,PR,San Isidro-PR,Puerto Rico,72029,Canóvanas,18.3919,-65.8853,,,3121.2,polygon,FALSE,America/Puerto_Rico,729
+Aceitunas Comunidad-PR,1630035602,Aceitunas Comunidad,Aceitunas Comunidad,PR,Aceitunas Comunidad-PR,Puerto Rico,72099,Moca,18.4456,-67.0668,,,924.2,polygon,FALSE,America/Puerto_Rico,676
+Barceloneta Zona Urbana-PR,1630035618,Barceloneta Zona Urbana,Barceloneta Zona Urbana,PR,Barceloneta Zona Urbana-PR,Puerto Rico,72017,Barceloneta,18.4529,-66.5381,,,1968,polygon,FALSE,America/Puerto_Rico,617
+Martorell Comunidad-PR,1630035517,Martorell Comunidad,Martorell Comunidad,PR,Martorell Comunidad-PR,Puerto Rico,72151,Yabucoa,18.0729,-65.8976,,,905.4,polygon,FALSE,America/Puerto_Rico,767
+Fajardo-PR,1630023719,Fajardo,Fajardo,PR,Fajardo-PR,Puerto Rico,72053,Fajardo,18.333,-65.6591,,,2264.8,polygon,FALSE,America/Puerto_Rico,00740 00738
+Tiburones-PR,1630023650,Tiburones,Tiburones,PR,Tiburones-PR,Puerto Rico,72017,Barceloneta,18.4382,-66.5809,,,322.4,polygon,FALSE,America/Puerto_Rico,617
+Monte Grande Comunidad-PR,1630035524,Monte Grande Comunidad,Monte Grande Comunidad,PR,Monte Grande Comunidad-PR,Puerto Rico,72023,Cabo Rojo,18.0894,-67.1201,,,826.3,polygon,FALSE,America/Puerto_Rico,623
+Hatillo Zona Urbana-PR,1630035679,Hatillo Zona Urbana,Hatillo Zona Urbana,PR,Hatillo Zona Urbana-PR,Puerto Rico,72065,Hatillo,18.4811,-66.8221,,,2908,polygon,FALSE,America/Puerto_Rico,659
+Miranda Comunidad-PR,1630035521,Miranda Comunidad,Miranda Comunidad,PR,Miranda Comunidad-PR,Puerto Rico,72145,Vega Baja,18.3869,-66.3789,,,441.2,polygon,FALSE,America/Puerto_Rico,693
+Olimpo Comunidad-PR,1630035530,Olimpo Comunidad,Olimpo Comunidad,PR,Olimpo Comunidad-PR,Puerto Rico,72057,Guayama,18.0027,-66.1095,,,1369.9,polygon,FALSE,America/Puerto_Rico,784
+Pena Pobre-PR,1630023706,Peña Pobre,Pena Pobre,PR,Pena Pobre-PR,Puerto Rico,72103,Naguabo,18.2172,-65.8222,,,537.8,polygon,FALSE,America/Puerto_Rico,718
+Toa Alta-PR,1630023642,Toa Alta,Toa Alta,PR,Toa Alta-PR,Puerto Rico,72135,Toa Alta,18.3883,-66.2504,,,1628.1,polygon,FALSE,America/Puerto_Rico,00953 00954
+Capitanejo Comunidad-PR,1630035636,Capitanejo Comunidad,Capitanejo Comunidad,PR,Capitanejo Comunidad-PR,Puerto Rico,72075,Juana Díaz,18.0132,-66.5359,,,1833,polygon,FALSE,America/Puerto_Rico,00715 00795
+Parcelas Mandry Comunidad-PR,1630025229,Parcelas Mandry Comunidad,Parcelas Mandry Comunidad,PR,Parcelas Mandry Comunidad-PR,Puerto Rico,72113,Ponce,18.081,-66.5628,,,853.1,polygon,FALSE,America/Puerto_Rico,780
+Campo Rico Comunidad-PR,1630035631,Campo Rico Comunidad,Campo Rico Comunidad,PR,Campo Rico Comunidad-PR,Puerto Rico,72029,Canóvanas,18.3371,-65.8974,,,2749.6,polygon,FALSE,America/Puerto_Rico,729
+Rosa Sanchez Comunidad-PR,1630023681,Rosa Sánchez Comunidad,Rosa Sanchez Comunidad,PR,Rosa Sanchez Comunidad-PR,Puerto Rico,72151,Yabucoa,18.0622,-65.914,,,732.5,polygon,FALSE,America/Puerto_Rico,767
+Las Croabas-PR,1630027038,Las Croabas,Las Croabas,PR,Las Croabas-PR,Puerto Rico,72053,Fajardo,18.3676,-65.6303,,,328.5,polygon,FALSE,America/Puerto_Rico,738
+Cabo Rojo-PR,1630023608,Cabo Rojo,Cabo Rojo,PR,Cabo Rojo-PR,Puerto Rico,72023,Cabo Rojo,18.0867,-67.1483,,,2900.2,polygon,FALSE,America/Puerto_Rico,623
+Arroyo Zona Urbana-PR,1630035613,Arroyo Zona Urbana,Arroyo Zona Urbana,PR,Arroyo Zona Urbana-PR,Puerto Rico,72015,Arroyo,17.9706,-66.0609,,,3384,polygon,FALSE,America/Puerto_Rico,714
+Sabana Hoyos Comunidad-PR,1630035568,Sabana Hoyos Comunidad,Sabana Hoyos Comunidad,PR,Sabana Hoyos Comunidad-PR,Puerto Rico,72013,Arecibo,18.4281,-66.6117,,,858.8,polygon,FALSE,America/Puerto_Rico,688
+Humacao Zona Urbana-PR,1630035683,Humacao Zona Urbana,Humacao Zona Urbana,PR,Humacao Zona Urbana-PR,Puerto Rico,72069,Humacao,18.1519,-65.8204,,,2722,polygon,FALSE,America/Puerto_Rico,00791 00792
+El Ojo-PR,1630023546,El Ojo,El Ojo,PR,El Ojo-PR,Puerto Rico,72133,Santa Isabel,18.0038,-66.3919,,,1795.1,polygon,FALSE,America/Puerto_Rico,757
+Pueblito del Rio Comunidad-PR,1630023711,Pueblito del Río Comunidad,Pueblito del Rio Comunidad,PR,Pueblito del Rio Comunidad-PR,Puerto Rico,72085,Las Piedras,18.2281,-65.8615,,,1661.6,polygon,FALSE,America/Puerto_Rico,00771 00777
+Daguao-PR,1630023708,Daguao,Daguao,PR,Daguao-PR,Puerto Rico,72103,Naguabo,18.2217,-65.6798,,,537.8,polygon,FALSE,America/Puerto_Rico,718
+Garrochales-PR,1630023653,Garrochales,Garrochales,PR,Garrochales-PR,Puerto Rico,72017,Barceloneta,18.4572,-66.5676,,,944.4,polygon,FALSE,America/Puerto_Rico,617
+Lluveras Comunidad-PR,1630035507,Lluveras Comunidad,Lluveras Comunidad,PR,Lluveras Comunidad-PR,Puerto Rico,72121,Sabana Grande,18.0382,-66.9026,,,938.1,polygon,FALSE,America/Puerto_Rico,637
+Yaurel-PR,1630023594,Yaurel,Yaurel,PR,Yaurel-PR,Puerto Rico,72015,Arroyo,18.03,-66.056,,,192.5,polygon,FALSE,America/Puerto_Rico,714
+Barranquitas Zona Urbana-PR,1630035619,Barranquitas Zona Urbana,Barranquitas Zona Urbana,PR,Barranquitas Zona Urbana-PR,Puerto Rico,72019,Barranquitas,18.1847,-66.3103,,,1073,polygon,FALSE,America/Puerto_Rico,794
+Esperanza Comunidad-PR,1630035666,Esperanza Comunidad,Esperanza Comunidad,PR,Esperanza Comunidad-PR,Puerto Rico,72147,Vieques,18.1021,-65.4798,,,522.4,polygon,FALSE,America/Puerto_Rico,765
+Stella-PR,1630023615,Stella,Stella,PR,Stella-PR,Puerto Rico,72117,Rincón,18.3235,-67.2462,,,1298.5,polygon,FALSE,America/Puerto_Rico,677
+Rio Lajas-PR,1630023732,Río Lajas,Rio Lajas,PR,Rio Lajas-PR,Puerto Rico,72051,Dorado,18.397,-66.2643,,,289.7,polygon,FALSE,America/Puerto_Rico,646
+Anton Ruiz-PR,1630035459,Antón Ruiz,Anton Ruiz,PR,Anton Ruiz-PR,Puerto Rico,72069,Humacao,18.1883,-65.8079,,,1598.1,polygon,FALSE,America/Puerto_Rico,791
+Maricao-PR,1630023678,Maricao,Maricao,PR,Maricao-PR,Puerto Rico,72093,Maricao,18.1837,-66.9809,,,984.6,polygon,FALSE,America/Puerto_Rico,606
+San Juan-PR,1630023655,San Juan,San Juan,PR,San Juan-PR,Puerto Rico,72127,San Juan,18.4037,-66.0636,,,2606.2,polygon,FALSE,America/Puerto_Rico,00918 00913 00911 00917 00915 00912 00926 00927 00924 00925 00923 00920 00921 00906 00907 00901 00909 00936 00969 00902 00908 00910 00914 00916 00919 00922 00928 00929 00930 00931 00933 00935 00937 00939 00940 00955 00975
+Hormigueros Zona Urbana-PR,1630035682,Hormigueros Zona Urbana,Hormigueros Zona Urbana,PR,Hormigueros Zona Urbana-PR,Puerto Rico,72067,Hormigueros,18.1437,-67.12,,,982,polygon,FALSE,America/Puerto_Rico,660
+Rio Canas Abajo-PR,1630023580,Río Cañas Abajo,Rio Canas Abajo,PR,Rio Canas Abajo-PR,Puerto Rico,72075,Juana Díaz,18.0391,-66.4679,,,789.8,polygon,FALSE,America/Puerto_Rico,795
+Magas Arriba-PR,1630023619,Magas Arriba,Magas Arriba,PR,Magas Arriba-PR,Puerto Rico,72059,Guayanilla,18.0234,-66.7664,,,757.1,polygon,FALSE,America/Puerto_Rico,656
+Jayuya-PR,1630023586,Jayuya,Jayuya,PR,Jayuya-PR,Puerto Rico,72073,Jayuya,18.2188,-66.5967,,,1911.1,polygon,FALSE,America/Puerto_Rico,664
+Las Ochenta Comunidad-PR,1630035503,Las Ochenta Comunidad,Las Ochenta Comunidad,PR,Las Ochenta Comunidad-PR,Puerto Rico,72123,Salinas,17.9847,-66.3173,,,566.7,polygon,FALSE,America/Puerto_Rico,751
+Hormigueros-PR,1630023672,Hormigueros,Hormigueros,PR,Hormigueros-PR,Puerto Rico,72067,Hormigueros,18.1437,-67.12,,,970.7,polygon,FALSE,America/Puerto_Rico,660
+La Plena-PR,1630023628,La Plena,La Plena,PR,La Plena-PR,Puerto Rico,72123,Salinas,18.0411,-66.2065,,,544.4,polygon,FALSE,America/Puerto_Rico,751
+Fajardo Zona Urbana-PR,1630035668,Fajardo Zona Urbana,Fajardo Zona Urbana,PR,Fajardo Zona Urbana-PR,Puerto Rico,72053,Fajardo,18.333,-65.6591,,,1867.3,polygon,FALSE,America/Puerto_Rico,00740 00738
+H. Rivera Colon Comunidad-PR,1630023644,H. Rivera Colón Comunidad,H. Rivera Colon Comunidad,PR,H. Rivera Colon Comunidad-PR,Puerto Rico,72135,Toa Alta,18.3482,-66.2733,,,2036.9,polygon,FALSE,America/Puerto_Rico,953
+Aguada-PR,1630023528,Aguada,Aguada,PR,Aguada-PR,Puerto Rico,72003,Aguada,18.3804,-67.1884,,,2445.2,polygon,FALSE,America/Puerto_Rico,602
+Rincon-PR,1630023614,Rincón,Rincon,PR,Rincon-PR,Puerto Rico,72117,Rincón,18.3389,-67.2515,,,1034.5,polygon,FALSE,America/Puerto_Rico,677
+Emajagua-PR,1630023699,Emajagua,Emajagua,PR,Emajagua-PR,Puerto Rico,72095,Maunabo,18.0015,-65.8829,,,1615.5,polygon,FALSE,America/Puerto_Rico,707
+Las Marias-PR,1630035465,Las Marias,Las Marias,PR,Las Marias-PR,Puerto Rico,72011,Añasco,18.2928,-67.145,,,1932.9,polygon,FALSE,America/Puerto_Rico,610
+Parcelas Penuelas Comunidad-PR,1630035542,Parcelas Peñuelas Comunidad,Parcelas Penuelas Comunidad,PR,Parcelas Penuelas Comunidad-PR,Puerto Rico,72133,Santa Isabel,18.0061,-66.3476,,,5.4,polygon,FALSE,America/Puerto_Rico,757
+Vega Alta-PR,1630023587,Vega Alta,Vega Alta,PR,Vega Alta-PR,Puerto Rico,72143,Vega Alta,18.4152,-66.3211,,,3278.5,polygon,FALSE,America/Puerto_Rico,692
+El Negro-PR,1630023684,El Negro,El Negro,PR,El Negro-PR,Puerto Rico,72151,Yabucoa,18.0371,-65.8494,,,493.5,polygon,FALSE,America/Puerto_Rico,767
+San Antonio-PR,1630023733,San Antonio,San Antonio,PR,San Antonio-PR,Puerto Rico,72051,Dorado,18.4468,-66.3001,,,1846.6,polygon,FALSE,America/Puerto_Rico,646
+Brenas-PR,1630035461,Brenas,Brenas,PR,Brenas-PR,Puerto Rico,72143,Vega Alta,18.4734,-66.3346,,,1777.1,polygon,FALSE,America/Puerto_Rico,692
+Liborio Negron Torres Comunidad-PR,1630023548,Liborio Negrón Torres Comunidad,Liborio Negron Torres Comunidad,PR,Liborio Negron Torres Comunidad-PR,Puerto Rico,72121,Sabana Grande,18.0431,-66.9426,,,971.3,polygon,FALSE,America/Puerto_Rico,637
+Palmas del Mar-PR,1630027040,Palmas del Mar,Palmas del Mar,PR,Palmas del Mar-PR,Puerto Rico,72069,Humacao,18.0924,-65.8005,,,366.4,polygon,FALSE,America/Puerto_Rico,791
+Florida-PR,1630023648,Florida,Florida,PR,Florida-PR,Puerto Rico,72054,Florida,18.3642,-66.5611,,,1634.6,polygon,FALSE,America/Puerto_Rico,650
+Maria Antonia Comunidad-PR,1630023535,María Antonia Comunidad,Maria Antonia Comunidad,PR,Maria Antonia Comunidad-PR,Puerto Rico,72055,Guánica,17.9789,-66.889,,,924.3,polygon,FALSE,America/Puerto_Rico,653
+Las Ochenta-PR,1630023629,Las Ochenta,Las Ochenta,PR,Las Ochenta-PR,Puerto Rico,72123,Salinas,17.9847,-66.3173,,,566.7,polygon,FALSE,America/Puerto_Rico,751
+Aguilita-PR,1630023581,Aguilita,Aguilita,PR,Aguilita-PR,Puerto Rico,72075,Juana Díaz,18.0284,-66.533,,,917.2,polygon,FALSE,America/Puerto_Rico,795
+Aguadilla-PR,1630023617,Aguadilla,Aguadilla,PR,Aguadilla-PR,Puerto Rico,72005,Aguadilla,18.4382,-67.1536,,,2849.9,polygon,FALSE,America/Puerto_Rico,00603 00604 00605
+Juncos Zona Urbana-PR,1630035693,Juncos Zona Urbana,Juncos Zona Urbana,PR,Juncos Zona Urbana-PR,Puerto Rico,72077,Juncos,18.2264,-65.9163,,,1239.3,polygon,FALSE,America/Puerto_Rico,777
+Palmer Comunidad-PR,1630035538,Palmer Comunidad,Palmer Comunidad,PR,Palmer Comunidad-PR,Puerto Rico,72119,Río Grande,18.3699,-65.774,,,1213.4,polygon,FALSE,America/Puerto_Rico,745
+Maguayo Comunidad-PR,1630035707,Maguayo Comunidad,Maguayo Comunidad,PR,Maguayo Comunidad-PR,Puerto Rico,72079,Lajas,18.01,-67.0855,,,712.1,polygon,FALSE,America/Puerto_Rico,667
+Palmas-PR,1630023593,Palmas,Palmas,PR,Palmas-PR,Puerto Rico,72015,Arroyo,17.9878,-66.0255,,,1373.1,polygon,FALSE,America/Puerto_Rico,00714 00723
+Palo Seco Comunidad-PR,1630035537,Palo Seco Comunidad,Palo Seco Comunidad,PR,Palo Seco Comunidad-PR,Puerto Rico,72095,Maunabo,18.0093,-65.9369,,,423.6,polygon,FALSE,America/Puerto_Rico,707
+Las Marias Zona Urbana-PR,1630035502,Las Marías Zona Urbana,Las Marias Zona Urbana,PR,Las Marias Zona Urbana-PR,Puerto Rico,72083,Las Marías,18.2545,-66.9866,,,635.7,polygon,FALSE,America/Puerto_Rico,670
+Rio Grande Zona Urbana-PR,1630035563,Río Grande Zona Urbana,Rio Grande Zona Urbana,PR,Rio Grande Zona Urbana-PR,Puerto Rico,72119,Río Grande,18.3789,-65.8389,,,2916.5,polygon,FALSE,America/Puerto_Rico,745
+Pena Pobre Comunidad-PR,1630035545,Peña Pobre Comunidad,Pena Pobre Comunidad,PR,Pena Pobre Comunidad-PR,Puerto Rico,72103,Naguabo,18.2172,-65.8222,,,1253.8,polygon,FALSE,America/Puerto_Rico,718
+Villalba Zona Urbana-PR,1630035598,Villalba Zona Urbana,Villalba Zona Urbana,PR,Villalba Zona Urbana-PR,Puerto Rico,72149,Villalba,18.1279,-66.4815,,,1184.4,polygon,FALSE,America/Puerto_Rico,766
+Las Carolinas Comunidad-PR,1630035614,Las Carolinas Comunidad,Las Carolinas Comunidad,PR,Las Carolinas Comunidad-PR,Puerto Rico,72025,Caguas,18.2539,-66.0659,,,1795,polygon,FALSE,America/Puerto_Rico,727
+Luis Llorens Torres Comunidad-PR,1630023578,Luis Lloréns Torres Comunidad,Luis Llorens Torres Comunidad,PR,Luis Llorens Torres Comunidad-PR,Puerto Rico,72075,Juana Díaz,18.0565,-66.5267,,,2616.1,polygon,FALSE,America/Puerto_Rico,795
+Santa Clara-PR,1630023675,Santa Clara,Santa Clara,PR,Santa Clara-PR,Puerto Rico,72007,Aguas Buenas,18.211,-66.132,,,1071.8,polygon,FALSE,America/Puerto_Rico,703
+Juncos-PR,1630023721,Juncos,Juncos,PR,Juncos-PR,Puerto Rico,72077,Juncos,18.2264,-65.9163,,,2836.1,polygon,FALSE,America/Puerto_Rico,777
+Naranjito Zona Urbana-PR,1630035529,Naranjito Zona Urbana,Naranjito Zona Urbana,PR,Naranjito Zona Urbana-PR,Puerto Rico,72105,Naranjito,18.3021,-66.2459,,,1268.9,polygon,FALSE,America/Puerto_Rico,719
+La Dolores-PR,1630023704,La Dolores,La Dolores,PR,La Dolores-PR,Puerto Rico,72119,Río Grande,18.3725,-65.8546,,,2406.2,polygon,FALSE,America/Puerto_Rico,745
+Guayabal Comunidad-PR,1630035674,Guayabal Comunidad,Guayabal Comunidad,PR,Guayabal Comunidad-PR,Puerto Rico,72075,Juana Díaz,18.0761,-66.5017,,,1318.2,polygon,FALSE,America/Puerto_Rico,795
+Bayamon-PR,1630023622,Bayamón,Bayamon,PR,Bayamon-PR,Puerto Rico,72021,Bayamón,18.3793,-66.1635,,,2848.3,polygon,FALSE,America/Puerto_Rico,00959 00957 00956 00934 00960 00961 00966
+Guayanilla-PR,1630023620,Guayanilla,Guayanilla,PR,Guayanilla-PR,Puerto Rico,72059,Guayanilla,18.0222,-66.7898,,,713.9,polygon,FALSE,America/Puerto_Rico,656
+Punta Santiago Comunidad-PR,1630035556,Punta Santiago Comunidad,Punta Santiago Comunidad,PR,Punta Santiago Comunidad-PR,Puerto Rico,72069,Humacao,18.1619,-65.7584,,,2259.8,polygon,FALSE,America/Puerto_Rico,741
+Buena Vista Comunidad-PR,1630035626,Buena Vista Comunidad,Buena Vista Comunidad,PR,Buena Vista Comunidad-PR,Puerto Rico,72015,Arroyo,17.9962,-66.0519,,,1467.1,polygon,FALSE,America/Puerto_Rico,714
+Hacienda San Jose Comunidad-PR,1630025216,Hacienda San José Comunidad,Hacienda San Jose Comunidad,PR,Hacienda San Jose Comunidad-PR,Puerto Rico,72025,Caguas,18.2408,-66.072,,,2349.9,polygon,FALSE,America/Puerto_Rico,727
+Corral Viejo-PR,1630025225,Corral Viejo,Corral Viejo,PR,Corral Viejo-PR,Puerto Rico,72113,Ponce,18.0754,-66.6524,,,197.8,polygon,FALSE,America/Puerto_Rico,731
+Parcelas Nuevas Comunidad-PR,1630035541,Parcelas Nuevas Comunidad,Parcelas Nuevas Comunidad,PR,Parcelas Nuevas Comunidad-PR,Puerto Rico,72041,Cidra,18.14,-66.1702,,,964.7,polygon,FALSE,America/Puerto_Rico,739
+Palmarejo-PR,1630035467,Palmarejo,Palmarejo,PR,Palmarejo-PR,Puerto Rico,72079,Lajas,18.0412,-67.0764,,,965,polygon,FALSE,America/Puerto_Rico,667
+Jauca Comunidad-PR,1630035688,Jauca Comunidad,Jauca Comunidad,PR,Jauca Comunidad-PR,Puerto Rico,72133,Santa Isabel,17.9627,-66.3683,,,1484.6,polygon,FALSE,America/Puerto_Rico,757
+La Parguera Comunidad-PR,1630035495,La Parguera Comunidad,La Parguera Comunidad,PR,La Parguera Comunidad-PR,Puerto Rico,72079,Lajas,17.9746,-67.046,,,1212.4,polygon,FALSE,America/Puerto_Rico,667
+Luis M. Cintron Comunidad-PR,1630023718,Luis M. Cintrón Comunidad,Luis M. Cintron Comunidad,PR,Luis M. Cintron Comunidad-PR,Puerto Rico,72053,Fajardo,18.3014,-65.6379,,,341.7,polygon,FALSE,America/Puerto_Rico,738
+Coto Laurel Comunidad-PR,1630035656,Coto Laurel Comunidad,Coto Laurel Comunidad,PR,Coto Laurel Comunidad-PR,Puerto Rico,72113,Ponce,18.0491,-66.5517,,,1649.7,polygon,FALSE,America/Puerto_Rico,780
+Bajadero Comunidad-PR,1630035615,Bajadero Comunidad,Bajadero Comunidad,PR,Bajadero Comunidad-PR,Puerto Rico,72013,Arecibo,18.4235,-66.677,,,339.5,polygon,FALSE,America/Puerto_Rico,616
+Daguao Comunidad-PR,1630035659,Daguao Comunidad,Daguao Comunidad,PR,Daguao Comunidad-PR,Puerto Rico,72103,Naguabo,18.2217,-65.6798,,,845.4,polygon,FALSE,America/Puerto_Rico,718
+Aceitunas-PR,1630023602,Aceitunas,Aceitunas,PR,Aceitunas-PR,Puerto Rico,72099,Moca,18.4456,-67.0668,,,983,polygon,FALSE,America/Puerto_Rico,676
+Cacao Comunidad-PR,1630035628,Cacao Comunidad,Cacao Comunidad,PR,Cacao Comunidad-PR,Puerto Rico,72115,Quebradillas,18.4524,-66.9559,,,939.4,polygon,FALSE,America/Puerto_Rico,678
+Villalba-PR,1630023667,Villalba,Villalba,PR,Villalba-PR,Puerto Rico,72149,Villalba,18.1279,-66.4815,,,1418,polygon,FALSE,America/Puerto_Rico,766
+Pajaros-PR,1630023641,Pájaros,Pajaros,PR,Pajaros-PR,Puerto Rico,72135,Toa Alta,18.361,-66.2184,,,2803.4,polygon,FALSE,America/Puerto_Rico,953
+Corazon-PR,1630023658,Corazón,Corazon,PR,Corazon-PR,Puerto Rico,72057,Guayama,17.994,-66.0832,,,990.1,polygon,FALSE,America/Puerto_Rico,784
+Loiza Zona Urbana-PR,1630035508,Loíza Zona Urbana,Loiza Zona Urbana,PR,Loiza Zona Urbana-PR,Puerto Rico,72087,Loíza,18.4309,-65.88,,,3526.4,polygon,FALSE,America/Puerto_Rico,772
+Tierras Nuevas Poniente Comunidad-PR,1630035588,Tierras Nuevas Poniente Comunidad,Tierras Nuevas Poniente Comunidad,PR,Tierras Nuevas Poniente Comunidad-PR,Puerto Rico,72091,Manatí,18.4614,-66.4891,,,1561.4,polygon,FALSE,America/Puerto_Rico,674
+Parcelas de Navarro Comunidad-PR,1630025221,Parcelas de Navarro Comunidad,Parcelas de Navarro Comunidad,PR,Parcelas de Navarro Comunidad-PR,Puerto Rico,72063,Gurabo,18.2301,-66.0042,,,3731.4,polygon,FALSE,America/Puerto_Rico,778
+Rafael Hernandez-PR,1630035490,Rafael Hernandez,Rafael Hernandez,PR,Rafael Hernandez-PR,Puerto Rico,72005,Aguadilla,18.4719,-67.0785,,,1572,polygon,FALSE,America/Puerto_Rico,603
+Naranjito-PR,1630023649,Naranjito,Naranjito,PR,Naranjito-PR,Puerto Rico,72105,Naranjito,18.3021,-66.2459,,,1268.9,polygon,FALSE,America/Puerto_Rico,719
+Lomas Comunidad-PR,1630035509,Lomas Comunidad,Lomas Comunidad,PR,Lomas Comunidad-PR,Puerto Rico,72029,Canóvanas,18.2687,-65.9091,,,993.7,polygon,FALSE,America/Puerto_Rico,729
+Maunabo Zona Urbana-PR,1630035519,Maunabo Zona Urbana,Maunabo Zona Urbana,PR,Maunabo Zona Urbana-PR,Puerto Rico,72095,Maunabo,18.0057,-65.9009,,,297.7,polygon,FALSE,America/Puerto_Rico,707
+Guaynabo Zona Urbana-PR,1630035677,Guaynabo Zona Urbana,Guaynabo Zona Urbana,PR,Guaynabo Zona Urbana-PR,Puerto Rico,72061,Guaynabo,18.3839,-66.1134,,,2268.4,polygon,FALSE,America/Puerto_Rico,00971 00934 00966 00965 00968 00969 00963 00970
+Las Marias Comunidad-PR,1630035501,Las Marías Comunidad,Las Marias Comunidad,PR,Las Marias Comunidad-PR,Puerto Rico,72011,Añasco,18.2928,-67.145,,,1932.9,polygon,FALSE,America/Puerto_Rico,610
+Dorado-PR,1630023736,Dorado,Dorado,PR,Dorado-PR,Puerto Rico,72051,Dorado,18.4658,-66.2721,,,1761.9,polygon,FALSE,America/Puerto_Rico,646
+Canovanas Zona Urbana-PR,1630023717,Canóvanas Zona Urbana,Canovanas Zona Urbana,PR,Canovanas Zona Urbana-PR,Puerto Rico,72029,Canóvanas,18.3783,-65.9056,,,674.3,polygon,FALSE,America/Puerto_Rico,729
+Toa Baja-PR,1630023735,Toa Baja,Toa Baja,PR,Toa Baja-PR,Puerto Rico,72137,Toa Baja,18.4439,-66.2547,,,304.3,polygon,FALSE,America/Puerto_Rico,949
+Luyando-PR,1630023527,Luyando,Luyando,PR,Luyando-PR,Puerto Rico,72003,Aguada,18.3575,-67.1553,,,1347.3,polygon,FALSE,America/Puerto_Rico,602
+La Dolores Comunidad-PR,1630035695,La Dolores Comunidad,La Dolores Comunidad,PR,La Dolores Comunidad-PR,Puerto Rico,72119,Río Grande,18.3725,-65.8546,,,1850.4,polygon,FALSE,America/Puerto_Rico,745
+Monte Grande-PR,1630023603,Monte Grande,Monte Grande,PR,Monte Grande-PR,Puerto Rico,72023,Cabo Rojo,18.0894,-67.1201,,,379.7,polygon,FALSE,America/Puerto_Rico,623
+Aibonito Zona Urbana-PR,1630035609,Aibonito Zona Urbana,Aibonito Zona Urbana,PR,Aibonito Zona Urbana-PR,Puerto Rico,72009,Aibonito,18.1398,-66.2659,,,1643.9,polygon,FALSE,America/Puerto_Rico,705
+El Ojo Comunidad-PR,1630035664,El Ojo Comunidad,El Ojo Comunidad,PR,El Ojo Comunidad-PR,Puerto Rico,72133,Santa Isabel,18.0038,-66.3919,,,894.8,polygon,FALSE,America/Puerto_Rico,757
+El Paraiso-PR,1630025226,El Paraiso,El Paraiso,PR,El Paraiso-PR,Puerto Rico,72113,Ponce,18.0647,-66.6021,,,802.9,polygon,FALSE,America/Puerto_Rico,731
+Carolina Zona Urbana-PR,1630035637,Carolina Zona Urbana,Carolina Zona Urbana,PR,Carolina Zona Urbana-PR,Puerto Rico,72031,Carolina,18.4054,-65.9792,,,5784.9,polygon,FALSE,America/Puerto_Rico,00979 00985 00987 00982 00983 00981 00984 00986 00988
+Bayamon Comunidad-PR,1630035621,Bayamón Comunidad,Bayamon Comunidad,PR,Bayamon Comunidad-PR,Puerto Rico,72041,Cidra,18.1782,-66.1097,,,1354.4,polygon,FALSE,America/Puerto_Rico,739
+La Plena Comunidad-PR,1630035497,La Plena Comunidad,La Plena Comunidad,PR,La Plena Comunidad-PR,Puerto Rico,72123,Salinas,18.0411,-66.2065,,,92.2,polygon,FALSE,America/Puerto_Rico,751
+San Isidro Comunidad-PR,1630035575,San Isidro Comunidad,San Isidro Comunidad,PR,San Isidro Comunidad-PR,Puerto Rico,72029,Canóvanas,18.3919,-65.8853,,,3121.2,polygon,FALSE,America/Puerto_Rico,729
+Betances-PR,1630023606,Betances,Betances,PR,Betances-PR,Puerto Rico,72023,Cabo Rojo,18.0296,-67.1335,,,1170.6,polygon,FALSE,America/Puerto_Rico,623
+Rio Lajas Comunidad-PR,1630035564,Río Lajas Comunidad,Rio Lajas Comunidad,PR,Rio Lajas Comunidad-PR,Puerto Rico,72051,Dorado,18.397,-66.2643,,,1124.8,polygon,FALSE,America/Puerto_Rico,646
+La Yuca Comunidad-PR,1630025227,La Yuca Comunidad,La Yuca Comunidad,PR,La Yuca Comunidad-PR,Puerto Rico,72113,Ponce,18.0727,-66.6077,,,1414.6,polygon,FALSE,America/Puerto_Rico,731
+Ponce Zona Urbana-PR,1630035553,Ponce Zona Urbana,Ponce Zona Urbana,PR,Ponce Zona Urbana-PR,Puerto Rico,72113,Ponce,18.012,-66.6198,,,218.6,polygon,FALSE,America/Puerto_Rico,00728 00717 00716 00730 00732 00733 00734
+Santa Isabel-PR,1630023545,Santa Isabel,Santa Isabel,PR,Santa Isabel-PR,Puerto Rico,72133,Santa Isabel,17.9687,-66.4049,,,1937.4,polygon,FALSE,America/Puerto_Rico,757
+Marueno-PR,1630035466,Marueño,Marueno,PR,Marueno-PR,Puerto Rico,72113,Ponce,18.0587,-66.6568,,,84.7,polygon,FALSE,America/Puerto_Rico,731
+Maunabo-PR,1630023697,Maunabo,Maunabo,PR,Maunabo-PR,Puerto Rico,72095,Maunabo,18.0057,-65.9009,,,1629.3,polygon,FALSE,America/Puerto_Rico,707
+Las Piedras-PR,1630023710,Las Piedras,Las Piedras,PR,Las Piedras-PR,Puerto Rico,72085,Las Piedras,18.1785,-65.8708,,,1889,polygon,FALSE,America/Puerto_Rico,771
+Cayey Zona Urbana-PR,1630035640,Cayey Zona Urbana,Cayey Zona Urbana,PR,Cayey Zona Urbana-PR,Puerto Rico,72035,Cayey,18.115,-66.163,,,3867.6,polygon,FALSE,America/Puerto_Rico,00736 00737
+Gurabo Zona Urbana-PR,1630035678,Gurabo Zona Urbana,Gurabo Zona Urbana,PR,Gurabo Zona Urbana-PR,Puerto Rico,72063,Gurabo,18.2529,-65.9786,,,4429.6,polygon,FALSE,America/Puerto_Rico,778
+Rio Blanco Comunidad-PR,1630035561,Río Blanco Comunidad,Rio Blanco Comunidad,PR,Rio Blanco Comunidad-PR,Puerto Rico,72103,Naguabo,18.2123,-65.793,,,278.2,polygon,FALSE,America/Puerto_Rico,718
+Lajas-PR,1630023598,Lajas,Lajas,PR,Lajas-PR,Puerto Rico,72079,Lajas,18.0452,-67.0583,,,1515.1,polygon,FALSE,America/Puerto_Rico,667
+Martorell-PR,1630023679,Martorell,Martorell,PR,Martorell-PR,Puerto Rico,72151,Yabucoa,18.0729,-65.8976,,,739.8,polygon,FALSE,America/Puerto_Rico,767
+Corazon Comunidad-PR,1630035653,Corazón Comunidad,Corazon Comunidad,PR,Corazon Comunidad-PR,Puerto Rico,72057,Guayama,17.994,-66.0832,,,990.1,polygon,FALSE,America/Puerto_Rico,784
+Rio Canas Abajo Comunidad-PR,1630035562,Río Cañas Abajo Comunidad,Rio Canas Abajo Comunidad,PR,Rio Canas Abajo Comunidad-PR,Puerto Rico,72075,Juana Díaz,18.0391,-66.4679,,,789.8,polygon,FALSE,America/Puerto_Rico,795
+Piedra Aguza Comunidad-PR,1630027034,Piedra Aguza Comunidad,Piedra Aguza Comunidad,PR,Piedra Aguza Comunidad-PR,Puerto Rico,72075,Juana Díaz,18.0339,-66.4949,,,1908.6,polygon,FALSE,America/Puerto_Rico,795
+Vieques Comunidad-PR,1630035596,Vieques Comunidad,Vieques Comunidad,PR,Vieques Comunidad-PR,Puerto Rico,72087,Loíza,18.4271,-65.8353,,,3838.4,polygon,FALSE,America/Puerto_Rico,772
+Bartolo-PR,1630023702,Bartolo,Bartolo,PR,Bartolo-PR,Puerto Rico,72119,Río Grande,18.362,-65.8414,,,958.7,polygon,FALSE,America/Puerto_Rico,745
+Caban Comunidad-PR,1630023618,Cabán Comunidad,Caban Comunidad,PR,Caban Comunidad-PR,Puerto Rico,72005,Aguadilla,18.4448,-67.1358,,,2791.8,polygon,FALSE,America/Puerto_Rico,603
+Ramos Comunidad-PR,1630035559,Ramos Comunidad,Ramos Comunidad,PR,Ramos Comunidad-PR,Puerto Rico,72089,Luquillo,18.3389,-65.7111,,,387.9,polygon,FALSE,America/Puerto_Rico,773
+Las Ollas Comunidad-PR,1630035504,Las Ollas Comunidad,Las Ollas Comunidad,PR,Las Ollas Comunidad-PR,Puerto Rico,72133,Santa Isabel,18.0141,-66.4208,,,1799.1,polygon,FALSE,America/Puerto_Rico,757
+Arecibo-PR,1630023566,Arecibo,Arecibo,PR,Arecibo-PR,Puerto Rico,72013,Arecibo,18.4491,-66.7387,,,557.5,polygon,FALSE,America/Puerto_Rico,00612 00613 00614
+Mayaguez-PR,1630023529,Mayagüez,Mayaguez,PR,Mayaguez-PR,Puerto Rico,72097,Mayagüez,18.2003,-67.1398,,,3138.6,polygon,FALSE,America/Puerto_Rico,00682 00680 00681
+Mariano Colon-PR,1630023664,Mariano Colón,Mariano Colon,PR,Mariano Colon-PR,Puerto Rico,72043,Coamo,18.0287,-66.3357,,,374.4,polygon,FALSE,America/Puerto_Rico,769
+Palomas-PR,1630035468,Palomas,Palomas,PR,Palomas-PR,Puerto Rico,72045,Comerío,18.2353,-66.2534,,,526.4,polygon,FALSE,America/Puerto_Rico,782
+Bayamon Zona Urbana-PR,1630035622,Bayamón Zona Urbana,Bayamon Zona Urbana,PR,Bayamon Zona Urbana-PR,Puerto Rico,72021,Bayamón,18.3793,-66.1635,,,4386.9,polygon,FALSE,America/Puerto_Rico,00959 00957 00956 00934 00960 00961 00966
+Pueblito del Rio-PR,1630035488,Pueblito del Rio,Pueblito del Rio,PR,Pueblito del Rio-PR,Puerto Rico,72085,Las Piedras,18.2281,-65.8615,,,1661.6,polygon,FALSE,America/Puerto_Rico,00771 00777
+Lluveras-PR,1630023549,Lluveras,Lluveras,PR,Lluveras-PR,Puerto Rico,72121,Sabana Grande,18.0382,-66.9026,,,938.1,polygon,FALSE,America/Puerto_Rico,637
+Monserrate-PR,1630023570,Monserrate,Monserrate,PR,Monserrate-PR,Puerto Rico,72145,Vega Baja,18.4367,-66.3579,,,1014.7,polygon,FALSE,America/Puerto_Rico,693
+El Combate Comunidad-PR,1630035704,El Combate Comunidad,El Combate Comunidad,PR,El Combate Comunidad-PR,Puerto Rico,72023,Cabo Rojo,17.9818,-67.2086,,,479.2,polygon,FALSE,America/Puerto_Rico,622
+Jauca-PR,1630023547,Jauca,Jauca,PR,Jauca-PR,Puerto Rico,72133,Santa Isabel,17.9627,-66.3683,,,418.6,polygon,FALSE,America/Puerto_Rico,757
+San Sebastian-PR,1630023635,San Sebastián,San Sebastian,PR,San Sebastian-PR,Puerto Rico,72131,San Sebastián,18.3356,-66.9949,,,2255.9,polygon,FALSE,America/Puerto_Rico,685
+Palomas Comunidad-PR,1630035539,Palomas Comunidad,Palomas Comunidad,PR,Palomas Comunidad-PR,Puerto Rico,72045,Comerío,18.2353,-66.2534,,,695.2,polygon,FALSE,America/Puerto_Rico,782
+Guayama-PR,1630023659,Guayama,Guayama,PR,Guayama-PR,Puerto Rico,72057,Guayama,17.9744,-66.1104,,,2633,polygon,FALSE,America/Puerto_Rico,00784 00785
+Celada Comunidad-PR,1630035644,Celada Comunidad,Celada Comunidad,PR,Celada Comunidad-PR,Puerto Rico,72063,Gurabo,18.2666,-65.9621,,,1958,polygon,FALSE,America/Puerto_Rico,778
+El Tumbao Comunidad-PR,1630035705,El Tumbao Comunidad,El Tumbao Comunidad,PR,El Tumbao Comunidad-PR,Puerto Rico,72055,Guánica,18.0015,-66.8996,,,1624.7,polygon,FALSE,America/Puerto_Rico,653
+San Juan Zona Urbana-PR,1630035577,San Juan Zona Urbana,San Juan Zona Urbana,PR,San Juan Zona Urbana-PR,Puerto Rico,72127,San Juan,18.4037,-66.0636,,,3397.5,polygon,FALSE,America/Puerto_Rico,00918 00913 00911 00917 00915 00912 00926 00927 00924 00925 00923 00920 00921 00906 00907 00901 00909 00936 00969 00902 00908 00910 00914 00916 00919 00922 00928 00929 00930 00931 00933 00935 00937 00939 00940 00955 00975
+Guayama Zona Urbana-PR,1630035675,Guayama Zona Urbana,Guayama Zona Urbana,PR,Guayama Zona Urbana-PR,Puerto Rico,72057,Guayama,17.9744,-66.1104,,,3475,polygon,FALSE,America/Puerto_Rico,00784 00785
+El Tumbao-PR,1630027032,El Tumbao,El Tumbao,PR,El Tumbao-PR,Puerto Rico,72055,Guánica,18.0015,-66.8996,,,1624.7,polygon,FALSE,America/Puerto_Rico,653
+Orocovis Zona Urbana-PR,1630035531,Orocovis Zona Urbana,Orocovis Zona Urbana,PR,Orocovis Zona Urbana-PR,Puerto Rico,72107,Orocovis,18.2257,-66.3916,,,572.2,polygon,FALSE,America/Puerto_Rico,720
+Piedra Gorda-PR,1630023551,Piedra Gorda,Piedra Gorda,PR,Piedra Gorda-PR,Puerto Rico,72027,Camuy,18.4342,-66.8861,,,1113.2,polygon,FALSE,America/Puerto_Rico,627
+Animas Comunidad-PR,1630035611,Animas Comunidad,Animas Comunidad,PR,Animas Comunidad-PR,Puerto Rico,72013,Arecibo,18.4457,-66.6365,,,1756.4,polygon,FALSE,America/Puerto_Rico,612
+Indios-PR,1630023621,Indios,Indios,PR,Indios-PR,Puerto Rico,72059,Guayanilla,17.9942,-66.8211,,,489.4,polygon,FALSE,America/Puerto_Rico,656
+Tibes Comunidad-PR,1630025231,Tibes Comunidad,Tibes Comunidad,PR,Tibes Comunidad-PR,Puerto Rico,72113,Ponce,18.0907,-66.6323,,,146.4,polygon,FALSE,America/Puerto_Rico,731
+Pueblito del Carmen Comunidad-PR,1630027037,Pueblito del Carmen Comunidad,Pueblito del Carmen Comunidad,PR,Pueblito del Carmen Comunidad-PR,Puerto Rico,72057,Guayama,18.0316,-66.1656,,,128.5,polygon,FALSE,America/Puerto_Rico,784
+Morovis Zona Urbana-PR,1630035526,Morovis Zona Urbana,Morovis Zona Urbana,PR,Morovis Zona Urbana-PR,Puerto Rico,72101,Morovis,18.3269,-66.4058,,,1975.8,polygon,FALSE,America/Puerto_Rico,687
+La Alianza-PR,1630023568,La Alianza,La Alianza,PR,La Alianza-PR,Puerto Rico,72013,Arecibo,18.3975,-66.5995,,,831.1,polygon,FALSE,America/Puerto_Rico,688
+Quebrada-PR,1630023552,Quebrada,Quebrada,PR,Quebrada-PR,Puerto Rico,72027,Camuy,18.3603,-66.8353,,,349.5,polygon,FALSE,America/Puerto_Rico,627
+Ingenio Comunidad-PR,1630035685,Ingenio Comunidad,Ingenio Comunidad,PR,Ingenio Comunidad-PR,Puerto Rico,72137,Toa Baja,18.4454,-66.2259,,,2758.5,polygon,FALSE,America/Puerto_Rico,949
+Olimpo-PR,1630023657,Olimpo,Olimpo,PR,Olimpo-PR,Puerto Rico,72057,Guayama,18.0027,-66.1095,,,1386.5,polygon,FALSE,America/Puerto_Rico,784
+Candelaria Arenas Comunidad-PR,1630035633,Candelaria Arenas Comunidad,Candelaria Arenas Comunidad,PR,Candelaria Arenas Comunidad-PR,Puerto Rico,72137,Toa Baja,18.4175,-66.2203,,,1674.2,polygon,FALSE,America/Puerto_Rico,949
+Anasco-PR,1630023590,Añasco,Anasco,PR,Anasco-PR,Puerto Rico,72011,Añasco,18.286,-67.1411,,,548.1,polygon,FALSE,America/Puerto_Rico,610
+Vieques-PR,1630035472,Vieques,Vieques,PR,Vieques-PR,Puerto Rico,72087,Loíza,18.4271,-65.8353,,,322.9,polygon,FALSE,America/Puerto_Rico,772
+Aguas Buenas Zona Urbana-PR,1630035606,Aguas Buenas Zona Urbana,Aguas Buenas Zona Urbana,PR,Aguas Buenas Zona Urbana-PR,Puerto Rico,72007,Aguas Buenas,18.2573,-66.1063,,,2096.9,polygon,FALSE,America/Puerto_Rico,703
+Bartolo Comunidad-PR,1630035620,Bartolo Comunidad,Bartolo Comunidad,PR,Bartolo Comunidad-PR,Puerto Rico,72119,Río Grande,18.362,-65.8414,,,958.7,polygon,FALSE,America/Puerto_Rico,745
+Rodriguez Hevia Comunidad-PR,1630035700,Rodríguez Hevia Comunidad,Rodriguez Hevia Comunidad,PR,Rodriguez Hevia Comunidad-PR,Puerto Rico,72041,Cidra,18.202,-66.1824,,,369.8,polygon,FALSE,America/Puerto_Rico,739
+San Jose-PR,1630023734,San José,San Jose,PR,San Jose-PR,Puerto Rico,72137,Toa Baja,18.4029,-66.2492,,,1349.5,polygon,FALSE,America/Puerto_Rico,949
+Juana Diaz Zona Urbana-PR,1630035691,Juana Díaz Zona Urbana,Juana Diaz Zona Urbana,PR,Juana Diaz Zona Urbana-PR,Puerto Rico,72075,Juana Díaz,18.0532,-66.5047,,,2927.5,polygon,FALSE,America/Puerto_Rico,795
+Calzada-PR,1630025224,Calzada,Calzada,PR,Calzada-PR,Puerto Rico,72113,Ponce,18.0075,-66.5671,,,169.6,polygon,FALSE,America/Puerto_Rico,715
+Mora Comunidad-PR,1630035525,Mora Comunidad,Mora Comunidad,PR,Mora Comunidad-PR,Puerto Rico,72071,Isabela,18.4626,-67.0323,,,1618.3,polygon,FALSE,America/Puerto_Rico,662
+Vazquez-PR,1630023631,Vázquez,Vazquez,PR,Vazquez-PR,Puerto Rico,72123,Salinas,18.0688,-66.2339,,,638.7,polygon,FALSE,America/Puerto_Rico,751
+Sabana Grande-PR,1630023550,Sabana Grande,Sabana Grande,PR,Sabana Grande-PR,Puerto Rico,72121,Sabana Grande,18.0821,-66.9673,,,3304.8,polygon,FALSE,America/Puerto_Rico,637
+Imbery-PR,1630035464,Imbery,Imbery,PR,Imbery-PR,Puerto Rico,72017,Barceloneta,18.4371,-66.5566,,,2388.5,polygon,FALSE,America/Puerto_Rico,617
+Ceiba Zona Urbana-PR,1630035643,Ceiba Zona Urbana,Ceiba Zona Urbana,PR,Ceiba Zona Urbana-PR,Puerto Rico,72037,Ceiba,18.265,-65.6487,,,1511.2,polygon,FALSE,America/Puerto_Rico,735
+Mucarabones-PR,1630023640,Mucarabones,Mucarabones,PR,Mucarabones-PR,Puerto Rico,72135,Toa Alta,18.3906,-66.2178,,,3742.2,polygon,FALSE,America/Puerto_Rico,953
+Isabela-PR,1630023674,Isabela,Isabela,PR,Isabela-PR,Puerto Rico,72071,Isabela,18.4992,-67.022,,,2202.8,polygon,FALSE,America/Puerto_Rico,662
+Garrochales Comunidad-PR,1630035672,Garrochales Comunidad,Garrochales Comunidad,PR,Garrochales Comunidad-PR,Puerto Rico,72017,Barceloneta,18.4572,-66.5676,,,416.9,polygon,FALSE,America/Puerto_Rico,617
+Ponce-PR,1630023669,Ponce,Ponce,PR,Ponce-PR,Puerto Rico,72113,Ponce,18.012,-66.6198,,,2257.5,polygon,FALSE,America/Puerto_Rico,00728 00717 00716 00730 00732 00733 00734
+Franquez-PR,1630035480,Franquez,Franquez,PR,Franquez-PR,Puerto Rico,72101,Morovis,18.3401,-66.4276,,,1202,polygon,FALSE,America/Puerto_Rico,687
+Sabana Comunidad-PR,1630035565,Sabana Comunidad,Sabana Comunidad,PR,Sabana Comunidad-PR,Puerto Rico,72145,Vega Baja,18.4643,-66.3517,,,1489.7,polygon,FALSE,America/Puerto_Rico,693
+Lamboglia-PR,1630023609,Lamboglia,Lamboglia,PR,Lamboglia-PR,Puerto Rico,72109,Patillas,17.9846,-65.9851,,,841.1,polygon,FALSE,America/Puerto_Rico,723
+La Playa Comunidad-PR,1630035496,La Playa Comunidad,La Playa Comunidad,PR,La Playa Comunidad-PR,Puerto Rico,72011,Añasco,18.2864,-67.1866,,,1692.9,polygon,FALSE,America/Puerto_Rico,610
+Piedra Gorda Comunidad-PR,1630035547,Piedra Gorda Comunidad,Piedra Gorda Comunidad,PR,Piedra Gorda Comunidad-PR,Puerto Rico,72027,Camuy,18.4342,-66.8861,,,1113.2,polygon,FALSE,America/Puerto_Rico,627
+Rafael Capo-PR,1630035469,Rafael Capo,Rafael Capo,PR,Rafael Capo-PR,Puerto Rico,72065,Hatillo,18.3998,-66.7908,,,836.7,polygon,FALSE,America/Puerto_Rico,659
+Culebra-PR,1630023691,Culebra,Culebra,PR,Culebra-PR,Puerto Rico,72049,Culebra,18.3104,-65.3029,,,602.8,polygon,FALSE,America/Puerto_Rico,775
+Tallaboa Alta-PR,1630023558,Tallaboa Alta,Tallaboa Alta,PR,Tallaboa Alta-PR,Puerto Rico,72111,Peñuelas,18.0504,-66.7018,,,1562.3,polygon,FALSE,America/Puerto_Rico,624
+Monserrate Comunidad-PR,1630035523,Monserrate Comunidad,Monserrate Comunidad,PR,Monserrate Comunidad-PR,Puerto Rico,72145,Vega Baja,18.4367,-66.3579,,,1852.7,polygon,FALSE,America/Puerto_Rico,693
+Comunas Comunidad-PR,1630035651,Comunas Comunidad,Comunas Comunidad,PR,Comunas Comunidad-PR,Puerto Rico,72151,Yabucoa,18.0871,-65.8404,,,631.6,polygon,FALSE,America/Puerto_Rico,767
+Mayaguez Zona Urbana-PR,1630035520,Mayagüez Zona Urbana,Mayaguez Zona Urbana,PR,Mayaguez Zona Urbana-PR,Puerto Rico,72097,Mayagüez,18.2003,-67.1398,,,4764.1,polygon,FALSE,America/Puerto_Rico,00682 00680 00681
+Esperanza-PR,1630023731,Esperanza,Esperanza,PR,Esperanza-PR,Puerto Rico,72147,Vieques,18.1021,-65.4798,,,512.8,polygon,FALSE,America/Puerto_Rico,765
+El Paraiso Comunidad-PR,1630035699,El Paraiso Comunidad,El Paraiso Comunidad,PR,El Paraiso Comunidad-PR,Puerto Rico,72113,Ponce,18.0647,-66.6021,,,802.9,polygon,FALSE,America/Puerto_Rico,731
+Penuelas Zona Urbana-PR,1630035546,Peñuelas Zona Urbana,Penuelas Zona Urbana,PR,Penuelas Zona Urbana-PR,Puerto Rico,72111,Peñuelas,18.0595,-66.7206,,,2342.3,polygon,FALSE,America/Puerto_Rico,624
+Ceiba-PR,1630035463,Ceiba,Ceiba,PR,Ceiba-PR,Puerto Rico,72143,Vega Alta,18.4434,-66.3468,,,666,polygon,FALSE,America/Puerto_Rico,00692 00693
+Ciales-PR,1630023668,Ciales,Ciales,PR,Ciales-PR,Puerto Rico,72039,Ciales,18.3343,-66.4704,,,2175.8,polygon,FALSE,America/Puerto_Rico,638
+Juana Diaz-PR,1630023583,Juana Díaz,Juana Diaz,PR,Juana Diaz-PR,Puerto Rico,72075,Juana Díaz,18.0532,-66.5047,,,2927.5,polygon,FALSE,America/Puerto_Rico,795
+Coqui Comunidad-PR,1630035652,Coquí Comunidad,Coqui Comunidad,PR,Coqui Comunidad-PR,Puerto Rico,72123,Salinas,17.9793,-66.2255,,,1544.4,polygon,FALSE,America/Puerto_Rico,704
+Quebradillas-PR,1630023645,Quebradillas,Quebradillas,PR,Quebradillas-PR,Puerto Rico,72115,Quebradillas,18.4732,-66.936,,,2309.4,polygon,FALSE,America/Puerto_Rico,00678 00742
+Capitanejo-PR,1630035462,Capitanejo,Capitanejo,PR,Capitanejo-PR,Puerto Rico,72075,Juana Díaz,18.0132,-66.5359,,,2276.2,polygon,FALSE,America/Puerto_Rico,00715 00795
+Rio Blanco-PR,1630023707,Río Blanco,Rio Blanco,PR,Rio Blanco-PR,Puerto Rico,72103,Naguabo,18.2123,-65.793,,,534.4,polygon,FALSE,America/Puerto_Rico,718
+Los Llanos-PR,1630023663,Los Llanos,Los Llanos,PR,Los Llanos-PR,Puerto Rico,72043,Coamo,18.0579,-66.4092,,,1464.5,polygon,FALSE,America/Puerto_Rico,769
+Benitez-PR,1630035475,Benitez,Benitez,PR,Benitez-PR,Puerto Rico,72029,Canóvanas,18.2725,-65.8788,,,1171.9,polygon,FALSE,America/Puerto_Rico,729
+Quebradillas Zona Urbana-PR,1630035558,Quebradillas Zona Urbana,Quebradillas Zona Urbana,PR,Quebradillas Zona Urbana-PR,Puerto Rico,72115,Quebradillas,18.4732,-66.936,,,2309.4,polygon,FALSE,America/Puerto_Rico,00678 00742
+Rio Grande-PR,1630023701,Río Grande,Rio Grande,PR,Rio Grande-PR,Puerto Rico,72119,Río Grande,18.3789,-65.8389,,,2178.9,polygon,FALSE,America/Puerto_Rico,745
+Moca Zona Urbana-PR,1630035522,Moca Zona Urbana,Moca Zona Urbana,PR,Moca Zona Urbana-PR,Puerto Rico,72099,Moca,18.3972,-67.1154,,,1562.6,polygon,FALSE,America/Puerto_Rico,676
+Cacao-PR,1630023646,Cacao,Cacao,PR,Cacao-PR,Puerto Rico,72115,Quebradillas,18.4524,-66.9559,,,769.2,polygon,FALSE,America/Puerto_Rico,678
+Candelaria-PR,1630023689,Candelaria,Candelaria,PR,Candelaria-PR,Puerto Rico,72137,Toa Baja,18.4043,-66.2175,,,1930,polygon,FALSE,America/Puerto_Rico,949
+Caguas-PR,1630023540,Caguas,Caguas,PR,Caguas-PR,Puerto Rico,72025,Caguas,18.2319,-66.0388,,,3950.3,polygon,FALSE,America/Puerto_Rico,00725 00727 00726
+Boqueron Comunidad-PR,1630035624,Boquerón Comunidad,Boqueron Comunidad,PR,Boqueron Comunidad-PR,Puerto Rico,72023,Cabo Rojo,18.0341,-67.1715,,,275.5,polygon,FALSE,America/Puerto_Rico,622
+Alianza-PR,1630027033,Alianza,Alianza,PR,Alianza-PR,Puerto Rico,72027,Camuy,18.4533,-66.8556,,,1477.2,polygon,FALSE,America/Puerto_Rico,627
+Calzada Comunidad-PR,1630035697,Calzada Comunidad,Calzada Comunidad,PR,Calzada Comunidad-PR,Puerto Rico,72113,Ponce,18.0075,-66.5671,,,169.6,polygon,FALSE,America/Puerto_Rico,715
+Duque-PR,1630023709,Duque,Duque,PR,Duque-PR,Puerto Rico,72103,Naguabo,18.2381,-65.7433,,,92.1,polygon,FALSE,America/Puerto_Rico,718
+Hato Candal Comunidad-PR,1630035681,Hato Candal Comunidad,Hato Candal Comunidad,PR,Hato Candal Comunidad-PR,Puerto Rico,72119,Río Grande,18.3733,-65.7906,,,1181.3,polygon,FALSE,America/Puerto_Rico,745
+Penuelas-PR,1630023556,Peñuelas,Penuelas,PR,Penuelas-PR,Puerto Rico,72111,Peñuelas,18.0595,-66.7206,,,1702.7,polygon,FALSE,America/Puerto_Rico,624
+Rincon Zona Urbana-PR,1630035560,Rincón Zona Urbana,Rincon Zona Urbana,PR,Rincon Zona Urbana-PR,Puerto Rico,72117,Rincón,18.3389,-67.2515,,,1233.8,polygon,FALSE,America/Puerto_Rico,677
+Coamo Zona Urbana-PR,1630035648,Coamo Zona Urbana,Coamo Zona Urbana,PR,Coamo Zona Urbana-PR,Puerto Rico,72043,Coamo,18.0765,-66.3638,,,3117.8,polygon,FALSE,America/Puerto_Rico,769
+Juncal Comunidad-PR,1630035692,Juncal Comunidad,Juncal Comunidad,PR,Juncal Comunidad-PR,Puerto Rico,72131,San Sebastián,18.3132,-66.9189,,,1055.3,polygon,FALSE,America/Puerto_Rico,685
+Guaynabo-PR,1630023575,Guaynabo,Guaynabo,PR,Guaynabo-PR,Puerto Rico,72061,Guaynabo,18.3839,-66.1134,,,2875.8,polygon,FALSE,America/Puerto_Rico,00971 00934 00966 00965 00968 00969 00963 00970
+San German-PR,1630023526,San Germán,San German,PR,San German-PR,Puerto Rico,72125,San Germán,18.0827,-67.046,,,2047.4,polygon,FALSE,America/Puerto_Rico,683
+Ramos-PR,1630023694,Ramos,Ramos,PR,Ramos-PR,Puerto Rico,72089,Luquillo,18.3389,-65.7111,,,387.9,polygon,FALSE,America/Puerto_Rico,773
+Pajaros Comunidad-PR,1630035532,Pájaros Comunidad,Pajaros Comunidad,PR,Pajaros Comunidad-PR,Puerto Rico,72135,Toa Alta,18.361,-66.2184,,,2341.7,polygon,FALSE,America/Puerto_Rico,953
+Pole Ojea-PR,1630023604,Pole Ojea,Pole Ojea,PR,Pole Ojea-PR,Puerto Rico,72023,Cabo Rojo,17.9743,-67.1832,,,1583.4,polygon,FALSE,America/Puerto_Rico,622
+Suarez-PR,1630023696,Suárez,Suarez,PR,Suarez-PR,Puerto Rico,72087,Loíza,18.4311,-65.8514,,,2403.7,polygon,FALSE,America/Puerto_Rico,772
+Manati-PR,1630023562,Manatí,Manati,PR,Manati-PR,Puerto Rico,72091,Manatí,18.4283,-66.4823,,,1376.2,polygon,FALSE,America/Puerto_Rico,674
+Aguadilla Zona Urbana-PR,1630035605,Aguadilla Zona Urbana,Aguadilla Zona Urbana,PR,Aguadilla Zona Urbana-PR,Puerto Rico,72005,Aguadilla,18.4382,-67.1536,,,3611.6,polygon,FALSE,America/Puerto_Rico,00603 00604 00605
+Coco-PR,1630023633,Coco,Coco,PR,Coco-PR,Puerto Rico,72123,Salinas,18.001,-66.2603,,,1661.6,polygon,FALSE,America/Puerto_Rico,751
+Jagual-PR,1630023577,Jagual,Jagual,PR,Jagual-PR,Puerto Rico,72129,San Lorenzo,18.161,-65.9993,,,1175.2,polygon,FALSE,America/Puerto_Rico,754
+Patillas-PR,1630023610,Patillas,Patillas,PR,Patillas-PR,Puerto Rico,72109,Patillas,18.0069,-66.0134,,,1727.1,polygon,FALSE,America/Puerto_Rico,723
+Potala Pastillo-PR,1630023579,Potala Pastillo,Potala Pastillo,PR,Potala Pastillo-PR,Puerto Rico,72075,Juana Díaz,17.9921,-66.4966,,,2276.2,polygon,FALSE,America/Puerto_Rico,795
+La Alianza Comunidad-PR,1630035694,La Alianza Comunidad,La Alianza Comunidad,PR,La Alianza Comunidad-PR,Puerto Rico,72013,Arecibo,18.3975,-66.5995,,,899.6,polygon,FALSE,America/Puerto_Rico,688
+Bajandas Comunidad-PR,1630035616,Bajandas Comunidad,Bajandas Comunidad,PR,Bajandas Comunidad-PR,Puerto Rico,72069,Humacao,18.1601,-65.7831,,,1037.7,polygon,FALSE,America/Puerto_Rico,791
+Caban-PR,1630035478,Caban,Caban,PR,Caban-PR,Puerto Rico,72005,Aguadilla,18.4448,-67.1358,,,2791.8,polygon,FALSE,America/Puerto_Rico,603
+Celada-PR,1630023584,Celada,Celada,PR,Celada-PR,Puerto Rico,72063,Gurabo,18.2666,-65.9621,,,2728,polygon,FALSE,America/Puerto_Rico,778
+Espino Comunidad-PR,1630035667,Espino Comunidad,Espino Comunidad,PR,Espino Comunidad-PR,Puerto Rico,72011,Añasco,18.276,-67.1193,,,1301.3,polygon,FALSE,America/Puerto_Rico,610
+H. Rivera Colon-PR,1630035482,H. Rivera Colon,H. Rivera Colon,PR,H. Rivera Colon-PR,Puerto Rico,72135,Toa Alta,18.3482,-66.2733,,,2036.9,polygon,FALSE,America/Puerto_Rico,953

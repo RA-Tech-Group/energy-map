@@ -1,0 +1,7 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Charlotte Amalie-VI,1850037473,Charlotte Amalie,Charlotte Amalie,VI,Charlotte Amalie-VI,Virgin Islands,78030,St. Thomas,18.3419,-64.9332,,,1595.9,polygon,TRUE,America/St_Thomas,802
+Frederiksted-VI,1850037477,Frederiksted,Frederiksted,VI,Frederiksted-VI,Virgin Islands,78010,St. Croix,17.7122,-64.8812,,,748,polygon,TRUE,America/St_Thomas,00841 00840
+Cruz Bay-VI,1850037476,Cruz Bay,Cruz Bay,VI,Cruz Bay-VI,Virgin Islands,78020,St. John,18.326,-64.7792,,,345.6,polygon,FALSE,America/St_Thomas,00830 00831
+Coral Bay-VI,1850037475,Coral Bay,Coral Bay,VI,Coral Bay-VI,Virgin Islands,78020,St. John,18.3452,-64.7185,,,113.9,polygon,FALSE,America/St_Thomas,830
+Tutu-VI,1850037478,Tutu,Tutu,VI,Tutu-VI,Virgin Islands,78030,St. Thomas,18.3405,-64.8884,,,1514.8,polygon,FALSE,America/St_Thomas,802
+Christiansted-VI,1850037474,Christiansted,Christiansted,VI,Christiansted-VI,Virgin Islands,78010,St. Croix,17.7439,-64.7066,,,1247.7,polygon,TRUE,America/St_Thomas,00820 00821 00822

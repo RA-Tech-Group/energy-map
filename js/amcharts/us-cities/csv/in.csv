@@ -1,0 +1,833 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Burney-IN,1840029920,Burney,Burney,IN,Burney-IN,Indiana,18031,Decatur,39.3173,-85.6403,,,142.7,point,FALSE,America/Indiana/Indianapolis,47240
+Delphi-IN,1840013728,Delphi,Delphi,IN,Delphi-IN,Indiana,18015,Carroll,40.5831,-86.6672,2990,2877,407,polygon,TRUE,America/Indiana/Indianapolis,46923
+Kouts-IN,1840009269,Kouts,Kouts,IN,Kouts-IN,Indiana,18127,Porter,41.3172,-87.0264,1962,1962,677,polygon,TRUE,America/Chicago,46347
+Bengal-IN,1840029913,Bengal,Bengal,IN,Bengal-IN,Indiana,18145,Shelby,39.4734,-85.9228,,,10.6,point,FALSE,America/Indiana/Indianapolis,46131
+Plainville-IN,1840010733,Plainville,Plainville,IN,Plainville-IN,Indiana,18027,Daviess,38.8048,-87.1517,494,494,543,polygon,TRUE,America/Indiana/Vincennes,47568
+Brownsburg-IN,1840009536,Brownsburg,Brownsburg,IN,Brownsburg-IN,Indiana,18063,Hendricks,39.833,-86.3828,25408,25408,631,polygon,TRUE,America/Indiana/Indianapolis,46234 46112
+Bippus-IN,1840029914,Bippus,Bippus,IN,Bippus-IN,Indiana,18069,Huntington,40.9442,-85.6239,,,146.4,point,FALSE,America/Indiana/Indianapolis,46750
+Wabash-IN,1840010335,Wabash,Wabash,IN,Wabash-IN,Indiana,18169,Wabash,40.8046,-85.831,10015,10253,424,polygon,TRUE,America/Indiana/Indianapolis,46992
+Otterbein-IN,1840009404,Otterbein,Otterbein,IN,Otterbein-IN,Indiana,18007,Benton,40.4886,-87.0936,1256,1256,794,polygon,TRUE,America/Indiana/Indianapolis,47970
+Highwoods-IN,1840029950,Highwoods,Highwoods,IN,Highwoods-IN,Indiana,18097,Marion,39.8442,-86.1833,,,398.3,point,FALSE,America/Indiana/Indianapolis,46228
+Crocker-IN,1840029932,Crocker,Crocker,IN,Crocker-IN,Indiana,18127,Porter,41.5881,-87.1223,,,433.5,point,FALSE,America/Chicago,46304
+Edwardsport-IN,1840010729,Edwardsport,Edwardsport,IN,Edwardsport-IN,Indiana,18083,Knox,38.8127,-87.2511,298,298,413,polygon,TRUE,America/Indiana/Vincennes,47528
+DeMotte-IN,1840030064,DeMotte,DeMotte,IN,DeMotte-IN,Indiana,18073,Jasper,41.1987,-87.1974,4915,4030,431,polygon,TRUE,America/Chicago,46310
+Etna Green-IN,1840010276,Etna Green,Etna Green,IN,Etna Green-IN,Indiana,18085,Kosciusko,41.2755,-86.0461,586,586,451,polygon,TRUE,America/Indiana/Indianapolis,46524
+Liverpool-IN,1840029975,Liverpool,Liverpool,IN,Liverpool-IN,Indiana,18089,Lake,41.5525,-87.2948,,,836.6,point,FALSE,America/Chicago,46405
+State Line-IN,1840030059,State Line,State Line,IN,State Line-IN,Indiana,18171,Warren,40.1973,-87.527,,,203.8,point,TRUE,America/Indiana/Indianapolis,47982
+Monroe City-IN,1840009732,Monroe City,Monroe City,IN,Monroe City-IN,Indiana,18083,Knox,38.6145,-87.3532,533,533,764,polygon,TRUE,America/Indiana/Vincennes,47557
+New Washington-IN,1840006209,New Washington,New Washington,IN,New Washington-IN,Indiana,18019,Clark,38.5657,-85.5461,,,264.3,polygon,FALSE,America/Kentucky/Louisville,47147 47162
+Shelby-IN,1840026272,Shelby,Shelby,IN,Shelby-IN,Indiana,18089,Lake,41.1934,-87.3427,,,358.8,polygon,FALSE,America/Chicago,46377 46356
+Fremont-IN,1840010204,Fremont,Fremont,IN,Fremont-IN,Indiana,18151,Steuben,41.7298,-84.9343,2135,2135,372,polygon,TRUE,America/Detroit,46737
+Judyville-IN,1840029960,Judyville,Judyville,IN,Judyville-IN,Indiana,18171,Warren,40.3584,-87.395,,,37.5,point,FALSE,America/Indiana/Indianapolis,47993
+Lydick-IN,1840030080,Lydick,Lydick,IN,Lydick-IN,Indiana,18141,St. Joseph,41.6934,-86.38,,,315.1,point,FALSE,America/Indiana/Indianapolis,46628
+Avilla-IN,1840010253,Avilla,Avilla,IN,Avilla-IN,Indiana,18113,Noble,41.3641,-85.2344,2411,2411,628,polygon,TRUE,America/Indiana/Indianapolis,46710
+Majenica-IN,1840029979,Majenica,Majenica,IN,Majenica-IN,Indiana,18069,Huntington,40.77,-85.4533,,,94.4,point,FALSE,America/Indiana/Indianapolis,46750
+Modoc-IN,1840009450,Modoc,Modoc,IN,Modoc-IN,Indiana,18135,Randolph,40.0455,-85.1261,190,190,709,polygon,TRUE,America/Indiana/Indianapolis,47358
+Shirley-IN,1840010567,Shirley,Shirley,IN,Shirley-IN,Indiana,18059,Hancock,39.8911,-85.5801,830,830,924,polygon,TRUE,America/Indiana/Indianapolis,47384
+Atlanta-IN,1840010498,Atlanta,Atlanta,IN,Atlanta-IN,Indiana,18057,Hamilton,40.2135,-86.0266,738,738,944,polygon,TRUE,America/Indiana/Indianapolis,46031
+Charlestown-IN,1840007489,Charlestown,Charlestown,IN,Charlestown-IN,Indiana,18019,Clark,38.427,-85.6677,7438,8152,274,polygon,TRUE,America/Kentucky/Louisville,47111
+Whitestown-IN,1840010514,Whitestown,Whitestown,IN,Whitestown-IN,Indiana,18011,Boone,39.9704,-86.3607,6590,6590,183,polygon,TRUE,America/Indiana/Indianapolis,46052 46075
+Batesville-IN,1840007379,Batesville,Batesville,IN,Batesville-IN,Indiana,18137,Ripley,39.2974,-85.2139,7922,6679,419,polygon,TRUE,America/Indiana/Indianapolis,47006
+Rolling Prairie-IN,1840026258,Rolling Prairie,Rolling Prairie,IN,Rolling Prairie-IN,Indiana,18091,LaPorte,41.6743,-86.6207,,,208,polygon,FALSE,America/Chicago,46371
+Holland-IN,1840010802,Holland,Holland,IN,Holland-IN,Indiana,18037,Dubois,38.2462,-87.038,626,626,768,polygon,TRUE,America/Indiana/Vincennes,47541
+Monterey-IN,1840009331,Monterey,Monterey,IN,Monterey-IN,Indiana,18131,Pulaski,41.1561,-86.4821,206,206,434,polygon,TRUE,America/Indiana/Winamac,46960
+Huntertown-IN,1840010297,Huntertown,Huntertown,IN,Huntertown-IN,Indiana,18003,Allen,41.2129,-85.1764,5286,5286,513,polygon,TRUE,America/Indiana/Indianapolis,46748 46845 46818
+New Amsterdam-IN,1840009825,New Amsterdam,New Amsterdam,IN,New Amsterdam-IN,Indiana,18061,Harrison,38.1019,-86.2754,27,27,129,polygon,TRUE,America/New_York,47142
+Monon-IN,1840009380,Monon,Monon,IN,Monon-IN,Indiana,18181,White,40.8642,-86.8788,1725,1725,1180,polygon,TRUE,America/Indiana/Indianapolis,47959
+Fowler-IN,1840010379,Fowler,Fowler,IN,Fowler-IN,Indiana,18007,Benton,40.6171,-87.3185,2265,2265,626,polygon,TRUE,America/Indiana/Indianapolis,47944
+Jonesville-IN,1840010670,Jonesville,Jonesville,IN,Jonesville-IN,Indiana,18005,Bartholomew,39.0598,-85.8878,185,185,503,polygon,TRUE,America/Indiana/Indianapolis,47201 47247
+Chesterfield-IN,1840009437,Chesterfield,Chesterfield,IN,Chesterfield-IN,Indiana,18095,Madison,40.113,-85.5942,2484,2484,695,polygon,TRUE,America/Indiana/Indianapolis,46017
+Lincoln Hills-IN,1840029973,Lincoln Hills,Lincoln Hills,IN,Lincoln Hills-IN,Indiana,18127,Porter,41.4684,-87.1078,,,197.5,point,FALSE,America/Chicago,46385
+McCordsville-IN,1840009526,McCordsville,McCordsville,IN,McCordsville-IN,Indiana,18059,Hancock,39.9036,-85.923,6485,6485,509,polygon,TRUE,America/Indiana/Indianapolis,46055
+Goshen-IN,1840013733,Goshen,Goshen,IN,Goshen-IN,Indiana,18039,Elkhart,41.5741,-85.8304,33034,33034,765,polygon,TRUE,America/Indiana/Indianapolis,46528 46526 46527
+Bucktown-IN,1840029917,Bucktown,Bucktown,IN,Bucktown-IN,Indiana,18153,Sullivan,38.9948,-87.26,,,5.1,point,FALSE,America/Indiana/Indianapolis,47848
+Williams Creek-IN,1840010576,Williams Creek,Williams Creek,IN,Williams Creek-IN,Indiana,18097,Marion,39.9001,-86.1502,421,421,486,polygon,TRUE,America/Indiana/Indianapolis,46240
+Blountsville-IN,1840009478,Blountsville,Blountsville,IN,Blountsville-IN,Indiana,18065,Henry,40.0599,-85.2384,131,131,450,polygon,TRUE,America/Indiana/Indianapolis,47354
+Herbst-IN,1840024290,Herbst,Herbst,IN,Herbst-IN,Indiana,18053,Grant,40.5145,-85.7815,,,53.3,polygon,FALSE,America/Indiana/Indianapolis,46953
+Pierceton-IN,1840010275,Pierceton,Pierceton,IN,Pierceton-IN,Indiana,18085,Kosciusko,41.1992,-85.7032,1028,1028,318,polygon,TRUE,America/Indiana/Indianapolis,46562
+Crandall-IN,1840009821,Crandall,Crandall,IN,Crandall-IN,Indiana,18061,Harrison,38.288,-86.066,152,152,576,polygon,TRUE,America/Kentucky/Louisville,47114
+Lagro-IN,1840014647,Lagro,Lagro,IN,Lagro-IN,Indiana,18169,Wabash,40.8392,-85.7276,402,402,261,polygon,TRUE,America/Indiana/Indianapolis,46941
+Vallonia-IN,1840026692,Vallonia,Vallonia,IN,Vallonia-IN,Indiana,18071,Jackson,38.8462,-86.0992,,,218.4,polygon,FALSE,America/Indiana/Indianapolis,47281
+Thorntown-IN,1840010512,Thorntown,Thorntown,IN,Thorntown-IN,Indiana,18011,Boone,40.1293,-86.61,1487,1487,950,polygon,TRUE,America/Indiana/Indianapolis,46071
+Alpine-IN,1840029905,Alpine,Alpine,IN,Alpine-IN,Indiana,18041,Fayette,39.5539,-85.1758,,,33.1,point,FALSE,America/Indiana/Indianapolis,47331
+Griffith-IN,1840010225,Griffith,Griffith,IN,Griffith-IN,Indiana,18089,Lake,41.5279,-87.424,16252,16252,811,polygon,TRUE,America/Chicago,46319
+Mecca-IN,1840009523,Mecca,Mecca,IN,Mecca-IN,Indiana,18121,Parke,39.7271,-87.3317,320,320,314,polygon,TRUE,America/Indiana/Indianapolis,47860 47872
+Winchester-IN,1840014526,Winchester,Winchester,IN,Winchester-IN,Indiana,18135,Randolph,40.172,-84.9765,4791,4751,532,polygon,TRUE,America/Indiana/Indianapolis,47394
+Jeffersonville-IN,1840008642,Jeffersonville,Jeffersonville,IN,Jeffersonville-IN,Indiana,18019,Clark,38.3377,-85.7026,47124,47124,533,polygon,TRUE,America/Kentucky/Louisville,47130 47131 47132 47133 47134 47144 47190 47199
+Lebanon-IN,1840008387,Lebanon,Lebanon,IN,Lebanon-IN,Indiana,18011,Boone,40.0318,-86.455,15713,16098,397,polygon,TRUE,America/Indiana/Indianapolis,46052
+Denver-IN,1840009366,Denver,Denver,IN,Denver-IN,Indiana,18103,Miami,40.8646,-86.0771,471,471,780,polygon,TRUE,America/Indiana/Indianapolis,46926
+Medaryville-IN,1840009330,Medaryville,Medaryville,IN,Medaryville-IN,Indiana,18131,Pulaski,41.0803,-86.8905,581,581,488,polygon,TRUE,America/Indiana/Winamac,47957
+Burlington-IN,1840009406,Burlington,Burlington,IN,Burlington-IN,Indiana,18015,Carroll,40.4808,-86.3943,600,600,388,polygon,TRUE,America/Indiana/Indianapolis,46915
+Somerset-IN,1840026385,Somerset,Somerset,IN,Somerset-IN,Indiana,18169,Wabash,40.6695,-85.8318,,,336.1,polygon,FALSE,America/Indiana/Indianapolis,46984 46940
+Hamlet-IN,1840010199,Hamlet,Hamlet,IN,Hamlet-IN,Indiana,18149,Starke,41.3792,-86.5831,769,769,307,polygon,TRUE,America/Chicago,46532
+Norway-IN,1840005345,Norway,Norway,IN,Norway-IN,Indiana,18181,White,40.7797,-86.7719,,,376.1,polygon,FALSE,America/Indiana/Indianapolis,47960
+Whiteland-IN,1840010618,Whiteland,Whiteland,IN,Whiteland-IN,Indiana,18081,Johnson,39.5507,-86.0742,4346,4346,365,polygon,TRUE,America/Indiana/Indianapolis,46184
+South Haven-IN,1840004834,South Haven,South Haven,IN,South Haven-IN,Indiana,18127,Porter,41.5438,-87.1367,,,2091.6,polygon,FALSE,America/Chicago,46385
+Churubusco-IN,1840009318,Churubusco,Churubusco,IN,Churubusco-IN,Indiana,18183,Whitley,41.2308,-85.3201,1811,1811,636,polygon,TRUE,America/Indiana/Indianapolis,46723
+Lamar-IN,1840029964,Lamar,Lamar,IN,Lamar-IN,Indiana,18147,Spencer,38.0692,-86.9055,,,85.8,point,FALSE,America/Chicago,47550
+Spring Hills-IN,1840030026,Spring Hills,Spring Hills,IN,Spring Hills-IN,Indiana,18097,Marion,39.8346,-86.1926,101,101,363,polygon,TRUE,America/Indiana/Indianapolis,46228
+Saint Meinrad-IN,1840026783,Saint Meinrad,Saint Meinrad,IN,Saint Meinrad-IN,Indiana,18147,Spencer,38.1692,-86.8257,,,526.7,polygon,FALSE,America/Chicago,47577
+Clear Creek-IN,1840030052,Clear Creek,Clear Creek,IN,Clear Creek-IN,Indiana,18105,Monroe,39.1092,-86.54,,,639.3,point,FALSE,America/Indiana/Indianapolis,47403
+Hammond-IN,1840007092,Hammond,Hammond,IN,Hammond-IN,Indiana,18089,Lake,41.617,-87.4908,77134,77134,1307,polygon,TRUE,America/Chicago,46394 46323 46320 46327 46324
+Kniman-IN,1840030062,Kniman,Kniman,IN,Kniman-IN,Indiana,18073,Jasper,41.1442,-87.1375,,,60.5,point,FALSE,America/Chicago,46392
+Hamilton-IN,1840010205,Hamilton,Hamilton,IN,Hamilton-IN,Indiana,18151,Steuben,41.5407,-84.9203,1530,1530,273,polygon,TRUE,America/Indiana/Indianapolis,46742
+Pimento-IN,1840030001,Pimento,Pimento,IN,Pimento-IN,Indiana,18167,Vigo,39.3095,-87.3792,,,29.2,point,FALSE,America/Indiana/Indianapolis,47866
+Freetown-IN,1840026691,Freetown,Freetown,IN,Freetown-IN,Indiana,18071,Jackson,38.9775,-86.1273,,,292.6,polygon,FALSE,America/Indiana/Indianapolis,47235
+Emma-IN,1840029939,Emma,Emma,IN,Emma-IN,Indiana,18087,LaGrange,41.6112,-85.5411,,,43.8,point,FALSE,America/Indiana/Indianapolis,46571
+Brownstown-IN,1840009709,Brownstown,Brownstown,IN,Brownstown-IN,Indiana,18071,Jackson,38.8791,-86.0466,3127,2927,707,polygon,TRUE,America/Indiana/Indianapolis,47220
+Freedom-IN,1840029943,Freedom,Freedom,IN,Freedom-IN,Indiana,18119,Owen,39.207,-86.8692,,,56.5,point,FALSE,America/Indiana/Indianapolis,47431
+Warren Park-IN,1840010575,Warren Park,Warren Park,IN,Warren Park-IN,Indiana,18097,Marion,39.7832,-86.0517,1543,1543,1325,polygon,TRUE,America/Indiana/Indianapolis,46219
+Dupont-IN,1840010725,Dupont,Dupont,IN,Dupont-IN,Indiana,18077,Jefferson,38.8915,-85.5169,338,338,128,polygon,TRUE,America/Indiana/Indianapolis,47231
+Uniondale-IN,1840010357,Uniondale,Uniondale,IN,Uniondale-IN,Indiana,18179,Wells,40.8299,-85.2415,310,310,570,polygon,TRUE,America/Indiana/Indianapolis,46791
+Silver Lake-IN,1840010279,Silver Lake,Silver Lake,IN,Silver Lake-IN,Indiana,18085,Kosciusko,41.0744,-85.8923,924,924,662,polygon,TRUE,America/Indiana/Indianapolis,46982
+West College Corner-IN,1840010608,West College Corner,West College Corner,IN,West College Corner-IN,Indiana,18161,Union,39.5694,-84.819,645,645,933,polygon,TRUE,America/New_York,47003
+English-IN,1840010810,English,English,IN,English-IN,Indiana,18025,Crawford,38.3408,-86.4592,632,632,80,polygon,TRUE,America/Indiana/Marengo,47118
+Medora-IN,1840009711,Medora,Medora,IN,Medora-IN,Indiana,18071,Jackson,38.8247,-86.1715,689,689,808,polygon,TRUE,America/Indiana/Indianapolis,47260
+Spencer-IN,1840010655,Spencer,Spencer,IN,Spencer-IN,Indiana,18119,Owen,39.2861,-86.7726,2271,2271,553,polygon,TRUE,America/Indiana/Indianapolis,47460
+Saint Mary-of-the-Woods-IN,1840030014,Saint Mary-of-the-Woods,Saint Mary-of-the-Woods,IN,Saint Mary-of-the-Woods-IN,Indiana,18167,Vigo,39.512,-87.4628,,,209.4,polygon,FALSE,America/Indiana/Indianapolis,47876 47885
+Borden-IN,1840009664,Borden,Borden,IN,Borden-IN,Indiana,18019,Clark,38.4699,-85.9491,911,911,252,polygon,TRUE,America/Kentucky/Louisville,47106
+Burket-IN,1840009303,Burket,Burket,IN,Burket-IN,Indiana,18085,Kosciusko,41.155,-85.9687,194,194,1050,polygon,TRUE,America/Indiana/Indianapolis,46508
+Lyons-IN,1840009694,Lyons,Lyons,IN,Lyons-IN,Indiana,18055,Greene,38.9879,-87.0813,720,720,320,polygon,TRUE,America/Indiana/Indianapolis,47443
+Wingate-IN,1840010504,Wingate,Wingate,IN,Wingate-IN,Indiana,18107,Montgomery,40.1724,-87.0726,262,262,469,polygon,TRUE,America/Indiana/Indianapolis,47994
+West Baden Springs-IN,1840010779,West Baden Springs,West Baden Springs,IN,West Baden Springs-IN,Indiana,18117,Orange,38.5675,-86.612,555,555,196,polygon,TRUE,America/Indiana/Indianapolis,47469
+Hatfield-IN,1840026784,Hatfield,Hatfield,IN,Hatfield-IN,Indiana,18147,Spencer,37.903,-87.2217,,,429.6,polygon,FALSE,America/Chicago,47634 47617
+Terre Haute-IN,1840009671,Terre Haute,Terre Haute,IN,Terre Haute-IN,Indiana,18167,Vigo,39.4654,-87.3763,92841,60852,680,polygon,TRUE,America/Indiana/Indianapolis,47804 47807 47802 47803 47809 47801 47808
+Corydon-IN,1840009820,Corydon,Corydon,IN,Corydon-IN,Indiana,18061,Harrison,38.2132,-86.1259,5578,3163,740,polygon,TRUE,America/Kentucky/Louisville,47112
+Sweetser-IN,1840010397,Sweetser,Sweetser,IN,Sweetser-IN,Indiana,18053,Grant,40.5688,-85.7668,1177,1177,448,polygon,TRUE,America/Indiana/Indianapolis,46987 46952
+LaPorte-IN,1840030063,LaPorte,LaPorte,IN,LaPorte-IN,Indiana,18091,LaPorte,41.6077,-86.7137,21732,21732,718,polygon,TRUE,America/Chicago,46350 46352
+Spring Grove-IN,1840010547,Spring Grove,Spring Grove,IN,Spring Grove-IN,Indiana,18177,Wayne,39.8472,-84.8912,330,330,419,polygon,TRUE,America/Indiana/Indianapolis,47374
+Orleans-IN,1840009657,Orleans,Orleans,IN,Orleans-IN,Indiana,18117,Orange,38.6615,-86.4517,2097,2097,473,polygon,TRUE,America/Indiana/Indianapolis,47452
+Russellville-IN,1840010595,Russellville,Russellville,IN,Russellville-IN,Indiana,18133,Putnam,39.8568,-86.9832,349,349,668,polygon,TRUE,America/Indiana/Indianapolis,46175
+Markle-IN,1840009361,Markle,Markle,IN,Markle-IN,Indiana,18069,Huntington,40.8275,-85.3393,1088,1088,342,polygon,TRUE,America/Indiana/Indianapolis,46770
+Middlebury-IN,1840009239,Middlebury,Middlebury,IN,Middlebury-IN,Indiana,18039,Elkhart,41.6701,-85.7073,4247,3575,357,polygon,TRUE,America/Indiana/Indianapolis,46540
+Odell-IN,1840029997,Odell,Odell,IN,Odell-IN,Indiana,18157,Tippecanoe,40.2878,-87.0742,,,46.8,point,FALSE,America/Indiana/Indianapolis,47918
+New Elliott-IN,1840029993,New Elliott,New Elliott,IN,New Elliott-IN,Indiana,18089,Lake,41.4931,-87.4175,,,256.1,point,FALSE,America/Chicago,46319
+Scottsburg-IN,1840009788,Scottsburg,Scottsburg,IN,Scottsburg-IN,Indiana,18143,Scott,38.6862,-85.7839,11326,6684,511,polygon,TRUE,America/Indiana/Indianapolis,47170
+Munster-IN,1840009262,Munster,Munster,IN,Munster-IN,Indiana,18089,Lake,41.5468,-87.5037,22825,22825,1165,polygon,TRUE,America/Chicago,46321
+Redkey-IN,1840010422,Redkey,Redkey,IN,Redkey-IN,Indiana,18075,Jay,40.3481,-85.1524,1338,1338,552,polygon,TRUE,America/Indiana/Indianapolis,47373
+Holton-IN,1840010674,Holton,Holton,IN,Holton-IN,Indiana,18137,Ripley,39.0752,-85.3847,471,471,100,polygon,TRUE,America/Indiana/Indianapolis,47023
+Laketon-IN,1840026384,Laketon,Laketon,IN,Laketon-IN,Indiana,18169,Wabash,40.9807,-85.8393,,,271.7,polygon,FALSE,America/Indiana/Indianapolis,46943 46962
+Richmond-IN,1840014176,Richmond,Richmond,IN,Richmond-IN,Indiana,18177,Wayne,39.8318,-84.8904,42759,35664,573,polygon,TRUE,America/Indiana/Indianapolis,47374 47375
+Gessie-IN,1840029944,Gessie,Gessie,IN,Gessie-IN,Indiana,18165,Vermillion,40.0825,-87.4997,,,48.2,point,FALSE,America/Indiana/Indianapolis,47974
+Town of Pines-IN,1840030032,Town of Pines,Town of Pines,IN,Town of Pines-IN,Indiana,18127,Porter,41.6882,-86.9518,700,700,119,polygon,TRUE,America/Chicago,46360
+Roachdale-IN,1840010594,Roachdale,Roachdale,IN,Roachdale-IN,Indiana,18133,Putnam,39.8491,-86.8004,895,895,681,polygon,TRUE,America/Indiana/Indianapolis,46172
+New Market-IN,1840009463,New Market,New Market,IN,New Market-IN,Indiana,18107,Montgomery,39.9527,-86.9217,629,629,884,polygon,TRUE,America/Indiana/Indianapolis,47965
+New Salem-IN,1840029995,New Salem,New Salem,IN,New Salem-IN,Indiana,18139,Rush,39.5423,-85.358,,,20.2,point,FALSE,America/Indiana/Indianapolis,46173
+Gas City-IN,1840008338,Gas City,Gas City,IN,Gas City-IN,Indiana,18053,Grant,40.4897,-85.5984,5874,5874,501,polygon,TRUE,America/Indiana/Indianapolis,46933
+Columbus-IN,1840013714,Columbus,Columbus,IN,Columbus-IN,Indiana,18005,Bartholomew,39.2094,-85.9178,58406,46850,655,polygon,TRUE,America/Indiana/Indianapolis,47203 47201 47202
+Buena Vista-IN,1840029918,Buena Vista,Buena Vista,IN,Buena Vista-IN,Indiana,18047,Franklin,39.4389,-85.2725,,,61.5,point,FALSE,America/Indiana/Indianapolis,47024
+Trevlac-IN,1840030033,Trevlac,Trevlac,IN,Trevlac-IN,Indiana,18013,Brown,39.2656,-86.3369,,,59.9,point,FALSE,America/Indiana/Indianapolis,47448
+Seymour-IN,1840009708,Seymour,Seymour,IN,Seymour-IN,Indiana,18071,Jackson,38.9474,-85.8914,22918,19384,625,polygon,TRUE,America/Indiana/Indianapolis,47274
+South Bend-IN,1840009241,South Bend,South Bend,IN,South Bend-IN,Indiana,18141,St. Joseph,41.6771,-86.269,279698,101735,950,polygon,TRUE,America/Indiana/Indianapolis,46616 46635 46628 46601 46614 46613 46619 46617 46615 46624 46626 46634 46660 46680 46699
+Vernon-IN,1840010695,Vernon,Vernon,IN,Vernon-IN,Indiana,18079,Jennings,38.9853,-85.6106,309,309,501,polygon,TRUE,America/Indiana/Indianapolis,47282 47265
+Wanatah-IN,1840010202,Wanatah,Wanatah,IN,Wanatah-IN,Indiana,18091,LaPorte,41.4304,-86.8926,1017,1017,276,polygon,TRUE,America/Chicago,46390
+Akron-IN,1840010309,Akron,Akron,IN,Akron-IN,Indiana,18049,Fulton,41.0389,-86.0249,1122,1122,947,polygon,TRUE,America/Indiana/Indianapolis,46910
+Carbon-IN,1840009672,Carbon,Carbon,IN,Carbon-IN,Indiana,18021,Clay,39.5991,-87.1078,389,389,943,polygon,TRUE,America/Indiana/Indianapolis,47837
+Kewanna-IN,1840010308,Kewanna,Kewanna,IN,Kewanna-IN,Indiana,18049,Fulton,41.0194,-86.4125,597,597,430,polygon,TRUE,America/Indiana/Indianapolis,46939
+Royal Center-IN,1840010361,Royal Center,Royal Center,IN,Royal Center-IN,Indiana,18017,Cass,40.8644,-86.5,835,835,541,polygon,TRUE,America/Indiana/Indianapolis,46978
+Cory-IN,1840029931,Cory,Cory,IN,Cory-IN,Indiana,18021,Clay,39.3823,-87.2058,,,52.7,point,FALSE,America/Indiana/Indianapolis,47846
+Attica-IN,1840007244,Attica,Attica,IN,Attica-IN,Indiana,18045,Fountain,40.2877,-87.2449,4948,3092,739,polygon,TRUE,America/Indiana/Indianapolis,47918
+West Lafayette-IN,1840010430,West Lafayette,West Lafayette,IN,West Lafayette-IN,Indiana,18157,Tippecanoe,40.4432,-86.9239,45872,45872,1283,polygon,TRUE,America/Indiana/Indianapolis,47906 47907 47996
+New Harmony-IN,1840013890,New Harmony,New Harmony,IN,New Harmony-IN,Indiana,18129,Posey,38.1291,-87.9308,763,763,390,polygon,TRUE,America/Chicago,47631
+Milan-IN,1840009620,Milan,Milan,IN,Milan-IN,Indiana,18137,Ripley,39.1255,-85.127,1886,1886,363,polygon,TRUE,America/Indiana/Indianapolis,47031
+Fair Oaks-IN,1840030054,Fair Oaks,Fair Oaks,IN,Fair Oaks-IN,Indiana,18073,Jasper,41.075,-87.2575,,,33.3,point,FALSE,America/Chicago,47943
+Burrows-IN,1840029921,Burrows,Burrows,IN,Burrows-IN,Indiana,18015,Carroll,40.6767,-86.5075,,,46.3,point,FALSE,America/Indiana/Indianapolis,46917
+New Pekin-IN,1840009794,New Pekin,New Pekin,IN,New Pekin-IN,Indiana,18175,Washington,38.5029,-86.0152,1371,1371,223,polygon,TRUE,America/Indiana/Indianapolis,47165
+Greens Fork-IN,1840010545,Greens Fork,Greens Fork,IN,Greens Fork-IN,Indiana,18177,Wayne,39.8917,-85.0411,408,408,1124,polygon,TRUE,America/Indiana/Indianapolis,47345
+Morocco-IN,1840009325,Morocco,Morocco,IN,Morocco-IN,Indiana,18111,Newton,40.9445,-87.4503,1109,1109,401,polygon,TRUE,America/Chicago,47963
+Vera Cruz-IN,1840010358,Vera Cruz,Vera Cruz,IN,Vera Cruz-IN,Indiana,18179,Wells,40.7016,-85.0795,80,80,304,polygon,TRUE,America/Indiana/Indianapolis,46714
+Dyer-IN,1840010224,Dyer,Dyer,IN,Dyer-IN,Indiana,18089,Lake,41.4977,-87.5088,15941,15941,992,polygon,TRUE,America/Chicago,46311
+Clinton-IN,1840007263,Clinton,Clinton,IN,Clinton-IN,Indiana,18165,Vermillion,39.6607,-87.4046,6294,4794,827,polygon,TRUE,America/Indiana/Indianapolis,47842
+Azalia-IN,1840029911,Azalia,Azalia,IN,Azalia-IN,Indiana,18005,Bartholomew,39.0917,-85.8472,,,54.8,point,FALSE,America/Indiana/Indianapolis,47232
+Dunreith-IN,1840010530,Dunreith,Dunreith,IN,Dunreith-IN,Indiana,18065,Henry,39.8028,-85.4364,173,173,536,polygon,TRUE,America/Indiana/Indianapolis,47337
+Upland-IN,1840010398,Upland,Upland,IN,Upland-IN,Indiana,18053,Grant,40.4639,-85.5008,3287,3781,465,polygon,TRUE,America/Indiana/Indianapolis,46989
+Albion-IN,1840010252,Albion,Albion,IN,Albion-IN,Indiana,18113,Noble,41.3966,-85.4187,2320,2320,469,polygon,TRUE,America/Indiana/Indianapolis,46701
+Saint Leon-IN,1840010677,Saint Leon,Saint Leon,IN,Saint Leon-IN,Indiana,18029,Dearborn,39.2933,-84.9639,666,666,36,polygon,TRUE,America/New_York,47060 47012
+Patricksburg-IN,1840030000,Patricksburg,Patricksburg,IN,Patricksburg-IN,Indiana,18119,Owen,39.3156,-86.9592,,,81.2,point,FALSE,America/Indiana/Indianapolis,47455
+Greenfield-IN,1840014673,Greenfield,Greenfield,IN,Greenfield-IN,Indiana,18059,Hancock,39.7937,-85.7739,21709,21709,618,polygon,TRUE,America/Indiana/Indianapolis,46140 46129 46154
+Greendale-IN,1840008522,Greendale,Greendale,IN,Greendale-IN,Indiana,18029,Dearborn,39.1317,-84.851,4402,4402,297,polygon,TRUE,America/New_York,47025
+Bath-IN,1840029912,Bath,Bath,IN,Bath-IN,Indiana,18047,Franklin,39.5084,-84.8625,,,9.8,point,FALSE,America/Indiana/Indianapolis,47010
+Westphalia-IN,1840024607,Westphalia,Westphalia,IN,Westphalia-IN,Indiana,18083,Knox,38.8665,-87.2277,,,76.2,polygon,FALSE,America/Indiana/Vincennes,47596
+Coal City-IN,1840029929,Coal City,Coal City,IN,Coal City-IN,Indiana,18119,Owen,39.2303,-87.0458,,,132.6,point,FALSE,America/Indiana/Indianapolis,47427
+Amboy-IN,1840010343,Amboy,Amboy,IN,Amboy-IN,Indiana,18103,Miami,40.602,-85.9275,379,379,417,polygon,TRUE,America/Indiana/Indianapolis,46911
+Centerville-IN,1840009494,Centerville,Centerville,IN,Centerville-IN,Indiana,18177,Wayne,39.8295,-84.9936,2563,2563,336,polygon,TRUE,America/Indiana/Indianapolis,47330
+Kentland-IN,1840010306,Kentland,Kentland,IN,Kentland-IN,Indiana,18111,Newton,40.7739,-87.4465,1683,1683,481,polygon,TRUE,America/Chicago,47951
+Crows Nest-IN,1840009531,Crows Nest,Crows Nest,IN,Crows Nest-IN,Indiana,18097,Marion,39.8566,-86.1691,75,75,67,polygon,TRUE,America/Indiana/Indianapolis,46228
+New Chicago-IN,1840009263,New Chicago,New Chicago,IN,New Chicago-IN,Indiana,18089,Lake,41.5587,-87.2718,1956,1956,1128,polygon,TRUE,America/Chicago,46342 46405
+Onward-IN,1840009382,Onward,Onward,IN,Onward-IN,Indiana,18017,Cass,40.6946,-86.1952,99,99,387,polygon,TRUE,America/Indiana/Indianapolis,46967
+Millgrove-IN,1840029989,Millgrove,Millgrove,IN,Millgrove-IN,Indiana,18009,Blackford,40.4084,-85.275,,,20.3,point,FALSE,America/Indiana/Indianapolis,47348
+Cato-IN,1840029926,Cato,Cato,IN,Cato-IN,Indiana,18125,Pike,38.4367,-87.1856,,,41,point,FALSE,America/Indiana/Petersburg,47598
+North Terre Haute-IN,1840005743,North Terre Haute,North Terre Haute,IN,North Terre Haute-IN,Indiana,18167,Vigo,39.537,-87.3653,,,497.6,polygon,FALSE,America/Indiana/Indianapolis,47805
+Plainfield-IN,1840010579,Plainfield,Plainfield,IN,Plainfield-IN,Indiana,18063,Hendricks,39.7005,-86.3726,31409,31409,537,polygon,TRUE,America/Indiana/Indianapolis,46168 46231 46197
+Mount Summit-IN,1840009484,Mount Summit,Mount Summit,IN,Mount Summit-IN,Indiana,18065,Henry,40.0035,-85.3861,343,343,700,polygon,TRUE,America/Indiana/Indianapolis,47361 47362
+Utica-IN,1840010787,Utica,Utica,IN,Utica-IN,Indiana,18019,Clark,38.338,-85.6561,808,808,261,polygon,TRUE,America/New_York,47130
+Syracuse-IN,1840010280,Syracuse,Syracuse,IN,Syracuse-IN,Indiana,18085,Kosciusko,41.4215,-85.749,7085,2882,591,polygon,TRUE,America/Indiana/Indianapolis,46567
+Waterloo-IN,1840010250,Waterloo,Waterloo,IN,Waterloo-IN,Indiana,18033,DeKalb,41.4319,-85.0286,2248,2248,499,polygon,TRUE,America/Indiana/Indianapolis,46793
+Owensburg-IN,1840024532,Owensburg,Owensburg,IN,Owensburg-IN,Indiana,18055,Greene,38.9305,-86.7292,,,94.3,polygon,FALSE,America/Indiana/Indianapolis,47453 47462
+Raymond-IN,1840030006,Raymond,Raymond,IN,Raymond-IN,Indiana,18047,Franklin,39.4717,-84.8494,,,7.8,point,FALSE,America/Indiana/Indianapolis,47010
+Chambersburg-IN,1840030066,Chambersburg,Chambersburg,IN,Chambersburg-IN,Indiana,18117,Orange,38.5181,-86.3922,,,12,point,FALSE,America/Indiana/Indianapolis,47454
+Underwood-IN,1840030035,Underwood,Underwood,IN,Underwood-IN,Indiana,18019,Clark,38.6037,-85.7744,,,169.6,point,FALSE,America/Indiana/Indianapolis,47177
+Knightsville-IN,1840009675,Knightsville,Knightsville,IN,Knightsville-IN,Indiana,18021,Clay,39.5253,-87.0891,768,768,285,polygon,TRUE,America/Indiana/Indianapolis,47857 47834
+Stroh-IN,1840030029,Stroh,Stroh,IN,Stroh-IN,Indiana,18087,LaGrange,41.5814,-85.1994,,,206.7,point,FALSE,America/Indiana/Indianapolis,46761
+Clayton-IN,1840009537,Clayton,Clayton,IN,Clayton-IN,Indiana,18063,Hendricks,39.6883,-86.5231,1005,1005,508,polygon,TRUE,America/Indiana/Indianapolis,46118
+Tocsin-IN,1840030031,Tocsin,Tocsin,IN,Tocsin-IN,Indiana,18179,Wells,40.8303,-85.1091,,,109.6,point,FALSE,America/Indiana/Indianapolis,46777
+Cedar Grove-IN,1840009595,Cedar Grove,Cedar Grove,IN,Cedar Grove-IN,Indiana,18047,Franklin,39.3561,-84.9371,152,152,391,polygon,TRUE,America/Indiana/Indianapolis,47016
+Columbia City-IN,1840007140,Columbia City,Columbia City,IN,Columbia City-IN,Indiana,18183,Whitley,41.1611,-85.4854,9342,8861,613,polygon,TRUE,America/Indiana/Indianapolis,46725
+Smithville-IN,1840030074,Smithville,Smithville,IN,Smithville-IN,Indiana,18105,Monroe,39.0712,-86.5069,,,268.4,point,FALSE,America/Indiana/Indianapolis,47401
+Hanover-IN,1840013778,Hanover,Hanover,IN,Hanover-IN,Indiana,18077,Jefferson,38.7137,-85.4724,3543,3543,592,polygon,TRUE,America/Indiana/Indianapolis,47243
+Simonton Lake-IN,1840004816,Simonton Lake,Simonton Lake,IN,Simonton Lake-IN,Indiana,18039,Elkhart,41.7478,-85.9657,,,513.9,polygon,FALSE,America/Detroit,46514
+Fish Lake-IN,1840026261,Fish Lake,Fish Lake,IN,Fish Lake-IN,Indiana,18091,LaPorte,41.5616,-86.5513,,,134,polygon,FALSE,America/Chicago,46574
+Lowell-IN,1840009260,Lowell,Lowell,IN,Lowell-IN,Indiana,18089,Lake,41.2934,-87.4183,10102,9519,632,polygon,TRUE,America/Chicago,46356
+Star City-IN,1840005179,Star City,Star City,IN,Star City-IN,Indiana,18131,Pulaski,40.9746,-86.5613,,,327.4,polygon,FALSE,America/Indiana/Winamac,46985
+Schneider-IN,1840010223,Schneider,Schneider,IN,Schneider-IN,Indiana,18089,Lake,41.1929,-87.4462,270,270,121,polygon,TRUE,America/Chicago,46376
+Cicero-IN,1840009459,Cicero,Cicero,IN,Cicero-IN,Indiana,18057,Hamilton,40.1248,-86.0244,4826,4826,1090,polygon,TRUE,America/Indiana/Indianapolis,46034
+Laud-IN,1840029965,Laud,Laud,IN,Laud-IN,Indiana,18183,Whitley,41.0495,-85.4522,,,92.5,point,FALSE,America/Indiana/Indianapolis,46725
+North Manchester-IN,1840009360,North Manchester,North Manchester,IN,North Manchester-IN,Indiana,18169,Wabash,41.0044,-85.775,5829,5907,645,polygon,TRUE,America/Indiana/Indianapolis,46962
+Bunker Hill-IN,1840009364,Bunker Hill,Bunker Hill,IN,Bunker Hill-IN,Indiana,18103,Miami,40.66,-86.1012,859,859,791,polygon,TRUE,America/Indiana/Indianapolis,46914
+Hartsville-IN,1840010668,Hartsville,Hartsville,IN,Hartsville-IN,Indiana,18005,Bartholomew,39.2669,-85.6992,390,390,463,polygon,TRUE,America/Indiana/Indianapolis,47244
+Dillsboro-IN,1840009623,Dillsboro,Dillsboro,IN,Dillsboro-IN,Indiana,18029,Dearborn,39.019,-85.055,1317,1317,412,polygon,TRUE,America/New_York,47018
+Jasonville-IN,1840008551,Jasonville,Jasonville,IN,Jasonville-IN,Indiana,18055,Greene,39.1619,-87.1995,2147,2147,633,polygon,TRUE,America/Indiana/Indianapolis,47438
+Michiana Shores-IN,1840009248,Michiana Shores,Michiana Shores,IN,Michiana Shores-IN,Indiana,18091,LaPorte,41.7563,-86.8181,302,302,332,polygon,TRUE,America/Detroit,46360
+Mexico-IN,1840005199,Mexico,Mexico,IN,Mexico-IN,Indiana,18103,Miami,40.8143,-86.1113,,,374.5,polygon,FALSE,America/Indiana/Indianapolis,46970 46958
+Shipshewana-IN,1840010207,Shipshewana,Shipshewana,IN,Shipshewana-IN,Indiana,18087,LaGrange,41.6749,-85.5763,703,703,230,polygon,TRUE,America/Indiana/Indianapolis,46565
+Kingman-IN,1840010465,Kingman,Kingman,IN,Kingman-IN,Indiana,18045,Fountain,39.9665,-87.2786,484,484,228,polygon,TRUE,America/Indiana/Indianapolis,47952
+Elnora-IN,1840010734,Elnora,Elnora,IN,Elnora-IN,Indiana,18027,Daviess,38.8762,-87.0849,657,657,267,polygon,TRUE,America/Indiana/Vincennes,47529
+Winamac-IN,1840014463,Winamac,Winamac,IN,Winamac-IN,Indiana,18131,Pulaski,41.0535,-86.6037,2422,2361,669,polygon,TRUE,America/Indiana/Winamac,46996
+Newport-IN,1840009472,Newport,Newport,IN,Newport-IN,Indiana,18165,Vermillion,39.8841,-87.4072,487,487,216,polygon,TRUE,America/Indiana/Indianapolis,47966 47854
+Metea-IN,1840029986,Metea,Metea,IN,Metea-IN,Indiana,18017,Cass,40.8692,-86.3094,,,14.3,point,FALSE,America/Indiana/Indianapolis,46950
+Monroe-IN,1840009375,Monroe,Monroe,IN,Monroe-IN,Indiana,18001,Adams,40.7452,-84.9413,867,867,531,polygon,TRUE,America/Indiana/Indianapolis,46772
+Oldenburg-IN,1840009598,Oldenburg,Oldenburg,IN,Oldenburg-IN,Indiana,18047,Franklin,39.3387,-85.2039,661,661,588,polygon,TRUE,America/Indiana/Indianapolis,47006 47036
+Moores Hill-IN,1840009624,Moores Hill,Moores Hill,IN,Moores Hill-IN,Indiana,18029,Dearborn,39.1115,-85.0905,584,584,418,polygon,TRUE,America/New_York,47032
+Markleville-IN,1840009440,Markleville,Markleville,IN,Markleville-IN,Indiana,18095,Madison,39.9765,-85.6171,515,515,353,polygon,TRUE,America/Indiana/Indianapolis,46056
+La Fontaine-IN,1840009358,La Fontaine,La Fontaine,IN,La Fontaine-IN,Indiana,18169,Wabash,40.6739,-85.7221,852,852,547,polygon,TRUE,America/Indiana/Indianapolis,46940
+Arlington-IN,1840026613,Arlington,Arlington,IN,Arlington-IN,Indiana,18139,Rush,39.6458,-85.5796,,,185.9,polygon,FALSE,America/Indiana/Indianapolis,46104
+Orland-IN,1840009250,Orland,Orland,IN,Orland-IN,Indiana,18151,Steuben,41.7306,-85.1723,434,434,252,polygon,TRUE,America/Detroit,46776
+New Salisbury-IN,1840026757,New Salisbury,New Salisbury,IN,New Salisbury-IN,Indiana,18061,Harrison,38.314,-86.1,,,227.5,polygon,FALSE,America/Kentucky/Louisville,47161
+Brook-IN,1840009324,Brook,Brook,IN,Brook-IN,Indiana,18111,Newton,40.8664,-87.3653,963,963,548,polygon,TRUE,America/Chicago,47922
+Milltown-IN,1840009819,Milltown,Milltown,IN,Milltown-IN,Indiana,18025,Crawford,38.3425,-86.2749,807,807,220,polygon,TRUE,America/Kentucky/Louisville,47145 47115
+Montgomery-IN,1840009737,Montgomery,Montgomery,IN,Montgomery-IN,Indiana,18027,Daviess,38.665,-87.0474,350,350,559,polygon,TRUE,America/Indiana/Vincennes,47558
+Covington-IN,1840007243,Covington,Covington,IN,Covington-IN,Indiana,18045,Fountain,40.1405,-87.391,2531,2551,837,polygon,TRUE,America/Indiana/Indianapolis,47932
+Mixersville-IN,1840029990,Mixersville,Mixersville,IN,Mixersville-IN,Indiana,18047,Franklin,39.4884,-84.825,,,47.9,point,FALSE,America/Indiana/Indianapolis,47010
+Indian Springs-IN,1840029956,Indian Springs,Indian Springs,IN,Indian Springs-IN,Indiana,18101,Martin,38.7964,-86.765,,,28.6,point,FALSE,America/Indiana/Vincennes,47581
+Cromwell-IN,1840009279,Cromwell,Cromwell,IN,Cromwell-IN,Indiana,18113,Noble,41.4033,-85.6141,504,504,655,polygon,TRUE,America/Indiana/Indianapolis,46732
+Lynnville-IN,1840009836,Lynnville,Lynnville,IN,Lynnville-IN,Indiana,18173,Warrick,38.1988,-87.3141,934,934,206,polygon,TRUE,America/Chicago,47619
+Bluffton-IN,1840007178,Bluffton,Bluffton,IN,Bluffton-IN,Indiana,18179,Wells,40.7426,-85.173,10052,9997,469,polygon,TRUE,America/Indiana/Indianapolis,46714
+Beal-IN,1840030076,Beal,Beal,IN,Beal-IN,Indiana,18083,Knox,38.5767,-87.63,,,9.4,point,FALSE,America/Indiana/Vincennes,47591
+West Lebanon-IN,1840010443,West Lebanon,West Lebanon,IN,West Lebanon-IN,Indiana,18171,Warren,40.2724,-87.3861,696,696,436,polygon,TRUE,America/Indiana/Indianapolis,47991
+Wallace-IN,1840010467,Wallace,Wallace,IN,Wallace-IN,Indiana,18045,Fountain,39.9876,-87.1482,95,95,430,polygon,TRUE,America/Indiana/Indianapolis,47949 47988
+Zanesville-IN,1840010299,Zanesville,Zanesville,IN,Zanesville-IN,Indiana,18179,Wells,40.9155,-85.2807,604,604,283,polygon,TRUE,America/Indiana/Indianapolis,46798 46799 46770
+Monticello-IN,1840008296,Monticello,Monticello,IN,Monticello-IN,Indiana,18181,White,40.7455,-86.7668,8445,5261,586,polygon,TRUE,America/Indiana/Indianapolis,47960
+Salamonia-IN,1840010423,Salamonia,Salamonia,IN,Salamonia-IN,Indiana,18075,Jay,40.3818,-84.8659,156,156,164,polygon,TRUE,America/Indiana/Indianapolis,47371 47381
+Ingalls-IN,1840010457,Ingalls,Ingalls,IN,Ingalls-IN,Indiana,18095,Madison,39.965,-85.8041,2418,2418,605,polygon,TRUE,America/Indiana/Indianapolis,46064 46048 46040
+Kempton-IN,1840010447,Kempton,Kempton,IN,Kempton-IN,Indiana,18159,Tipton,40.2878,-86.2296,311,311,728,polygon,TRUE,America/Indiana/Indianapolis,46049
+Fort Wayne-IN,1840008261,Fort Wayne,Fort Wayne,IN,Fort Wayne-IN,Indiana,18003,Allen,41.0885,-85.1436,326814,264488,923,polygon,TRUE,America/Indiana/Indianapolis,46835 46845 46818 46814 46815 46816 46825 46803 46802 46807 46806 46805 46804 46809 46808 46801 46850 46851 46852 46853 46854 46855 46856 46857 46858 46859 46860 46861 46862 46863 46864 46865 46866 46867 46868 46869 46885 46895 46896 46897 46898 46899
+Stockwell-IN,1840030028,Stockwell,Stockwell,IN,Stockwell-IN,Indiana,18157,Tippecanoe,40.2823,-86.7687,,,428.4,polygon,FALSE,America/Indiana/Indianapolis,47983 47909
+Jonesboro-IN,1840008340,Jonesboro,Jonesboro,IN,Jonesboro-IN,Indiana,18053,Grant,40.4797,-85.6302,1665,1665,721,polygon,TRUE,America/Indiana/Indianapolis,46938
+Avon-IN,1840009535,Avon,Avon,IN,Avon-IN,Indiana,18063,Hendricks,39.7604,-86.3916,16960,16960,363,polygon,TRUE,America/Indiana/Indianapolis,46123 46213
+Harrodsburg-IN,1840024487,Harrodsburg,Harrodsburg,IN,Harrodsburg-IN,Indiana,18105,Monroe,39.018,-86.5533,,,220.3,polygon,FALSE,America/Indiana/Indianapolis,47403 47434 47462
+Laotto-IN,1840030058,Laotto,Laotto,IN,Laotto-IN,Indiana,18113,Noble,41.2903,-85.198,,,234.8,point,FALSE,America/Indiana/Indianapolis,46763
+Yoder-IN,1840030047,Yoder,Yoder,IN,Yoder-IN,Indiana,18003,Allen,40.9312,-85.1766,,,84.5,point,FALSE,America/Indiana/Indianapolis,46798
+Sims-IN,1840024295,Sims,Sims,IN,Sims-IN,Indiana,18053,Grant,40.5006,-85.854,,,53.2,polygon,FALSE,America/Indiana/Indianapolis,46986
+Rome City-IN,1840010251,Rome City,Rome City,IN,Rome City-IN,Indiana,18113,Noble,41.4891,-85.3607,1399,1399,467,polygon,TRUE,America/Indiana/Indianapolis,46784
+Ashley-IN,1840010249,Ashley,Ashley,IN,Ashley-IN,Indiana,18033,DeKalb,41.5203,-85.0624,971,971,207,polygon,TRUE,America/Indiana/Indianapolis,46705
+Martinsville-IN,1840008461,Martinsville,Martinsville,IN,Martinsville-IN,Indiana,18109,Morgan,39.4228,-86.4207,13097,11669,994,polygon,TRUE,America/Indiana/Indianapolis,46151
+Mooreland-IN,1840009483,Mooreland,Mooreland,IN,Mooreland-IN,Indiana,18065,Henry,39.9973,-85.2513,362,362,970,polygon,TRUE,America/Indiana/Indianapolis,47360
+Middletown-IN,1840009482,Middletown,Middletown,IN,Middletown-IN,Indiana,18065,Henry,40.0596,-85.5422,2451,2238,756,polygon,TRUE,America/Indiana/Indianapolis,47356
+Waveland-IN,1840010502,Waveland,Waveland,IN,Waveland-IN,Indiana,18107,Montgomery,39.8773,-87.0454,419,419,508,polygon,TRUE,America/Indiana/Indianapolis,47989
+Topeka-IN,1840010208,Topeka,Topeka,IN,Topeka-IN,Indiana,18087,LaGrange,41.5398,-85.5469,1203,1203,269,polygon,TRUE,America/Indiana/Indianapolis,46571
+Lottaville-IN,1840029977,Lottaville,Lottaville,IN,Lottaville-IN,Indiana,18089,Lake,41.5034,-87.3648,,,864.5,point,FALSE,America/Chicago,46410
+Webster-IN,1840030039,Webster,Webster,IN,Webster-IN,Indiana,18177,Wayne,39.9034,-84.9452,,,133.8,point,FALSE,America/Indiana/Indianapolis,47393
+Stillwell-IN,1840030027,Stillwell,Stillwell,IN,Stillwell-IN,Indiana,18091,LaPorte,41.5559,-86.6028,,,156.8,point,FALSE,America/Chicago,46350
+Hidden Valley-IN,1840005881,Hidden Valley,Hidden Valley,IN,Hidden Valley-IN,Indiana,18029,Dearborn,39.1674,-84.8445,,,945.5,polygon,FALSE,America/New_York,47025
+Ladoga-IN,1840009461,Ladoga,Ladoga,IN,Ladoga-IN,Indiana,18107,Montgomery,39.9165,-86.7991,1005,1005,710,polygon,TRUE,America/Indiana/Indianapolis,47954
+River Forest-IN,1840030008,River Forest,River Forest,IN,River Forest-IN,Indiana,18095,Madison,40.1107,-85.7294,22,22,487,polygon,TRUE,America/Indiana/Indianapolis,46011
+Solitude-IN,1840030023,Solitude,Solitude,IN,Solitude-IN,Indiana,18129,Posey,38.0148,-87.8989,,,14.7,point,FALSE,America/Chicago,47620
+Metamora-IN,1840025606,Metamora,Metamora,IN,Metamora-IN,Indiana,18047,Franklin,39.4481,-85.1378,,,192.5,polygon,FALSE,America/Indiana/Indianapolis,47030
+Montpelier-IN,1840008352,Montpelier,Montpelier,IN,Montpelier-IN,Indiana,18009,Blackford,40.5494,-85.2874,1714,1714,429,polygon,TRUE,America/Indiana/Indianapolis,47359
+Bargersville-IN,1840009569,Bargersville,Bargersville,IN,Bargersville-IN,Indiana,18081,Johnson,39.5414,-86.2004,7213,7213,148,polygon,TRUE,America/Indiana/Indianapolis,46131 46106 46143
+Cross Plains-IN,1840030053,Cross Plains,Cross Plains,IN,Cross Plains-IN,Indiana,18137,Ripley,38.9439,-85.2047,,,55.5,point,FALSE,America/Indiana/Indianapolis,47017
+Gary-IN,1840008194,Gary,Gary,IN,Gary-IN,Indiana,18089,Lake,41.5906,-87.3472,76424,76424,591,polygon,TRUE,America/Chicago,46409 46408 46407 46406 46405 46404 46403 46402 46401
+Arcola-IN,1840029910,Arcola,Arcola,IN,Arcola-IN,Indiana,18003,Allen,41.1037,-85.2941,,,107.8,point,FALSE,America/Indiana/Indianapolis,46704
+Lizton-IN,1840009540,Lizton,Lizton,IN,Lizton-IN,Indiana,18063,Hendricks,39.884,-86.5421,497,497,334,polygon,TRUE,America/Indiana/Indianapolis,46149
+Shepardsville-IN,1840030022,Shepardsville,Shepardsville,IN,Shepardsville-IN,Indiana,18167,Vigo,39.6017,-87.4264,,,147.9,polygon,FALSE,America/Indiana/Indianapolis,47842 47885 47880
+Pine Village-IN,1840010441,Pine Village,Pine Village,IN,Pine Village-IN,Indiana,18171,Warren,40.4495,-87.2534,208,208,667,polygon,TRUE,America/Indiana/Indianapolis,47975
+Frankfort-IN,1840008358,Frankfort,Frankfort,IN,Frankfort-IN,Indiana,18023,Clinton,40.2799,-86.5181,16205,15951,828,polygon,TRUE,America/Indiana/Indianapolis,46041
+Sharptown-IN,1840030021,Sharptown,Sharptown,IN,Sharptown-IN,Indiana,18047,Franklin,39.367,-84.8736,,,9.2,point,FALSE,America/Indiana/Indianapolis,47060
+Waterford-IN,1840030038,Waterford,Waterford,IN,Waterford-IN,Indiana,18091,LaPorte,41.6714,-86.845,,,202.2,point,FALSE,America/Chicago,46360
+Liberty-IN,1840013860,Liberty,Liberty,IN,Liberty-IN,Indiana,18161,Union,39.6349,-84.926,2046,2046,921,polygon,TRUE,America/Indiana/Indianapolis,47353
+Center Point-IN,1840009673,Center Point,Center Point,IN,Center Point-IN,Indiana,18021,Clay,39.4154,-87.0752,237,237,123,polygon,TRUE,America/Indiana/Indianapolis,47840
+Coalmont-IN,1840026643,Coalmont,Coalmont,IN,Coalmont-IN,Indiana,18021,Clay,39.1931,-87.2265,,,166.8,polygon,FALSE,America/Indiana/Indianapolis,47438
+Harmony-IN,1840010623,Harmony,Harmony,IN,Harmony-IN,Indiana,18021,Clay,39.5335,-87.0734,630,630,326,polygon,TRUE,America/Indiana/Indianapolis,47853 47834
+Peru-IN,1840009363,Peru,Peru,IN,Peru-IN,Indiana,18103,Miami,40.7585,-86.0715,12686,11061,836,polygon,TRUE,America/Indiana/Indianapolis,46970
+Jamestown-IN,1840010510,Jamestown,Jamestown,IN,Jamestown-IN,Indiana,18011,Boone,39.9285,-86.6263,945,945,416,polygon,TRUE,America/Indiana/Indianapolis,46147
+Mount Ayr-IN,1840009326,Mount Ayr,Mount Ayr,IN,Mount Ayr-IN,Indiana,18111,Newton,40.9523,-87.299,119,119,262,polygon,TRUE,America/Chicago,47964 47963
+Scipio-IN,1840030017,Scipio,Scipio,IN,Scipio-IN,Indiana,18047,Franklin,39.392,-84.8183,,,47.2,point,FALSE,America/New_York,45053
+Millhousen-IN,1840009607,Millhousen,Millhousen,IN,Millhousen-IN,Indiana,18031,Decatur,39.2114,-85.435,131,131,50,polygon,TRUE,America/Indiana/Indianapolis,47240 47261
+Ross-IN,1840030012,Ross,Ross,IN,Ross-IN,Indiana,18089,Lake,41.5267,-87.3748,,,293.9,point,FALSE,America/Chicago,46408
+North Webster-IN,1840009308,North Webster,North Webster,IN,North Webster-IN,Indiana,18085,Kosciusko,41.324,-85.6979,3707,1160,553,polygon,TRUE,America/Indiana/Indianapolis,46555
+Millersburg-IN,1840009240,Millersburg,Millersburg,IN,Millersburg-IN,Indiana,18039,Elkhart,41.5277,-85.6964,937,937,560,polygon,TRUE,America/Indiana/Indianapolis,46543
+Elizabeth-IN,1840010812,Elizabeth,Elizabeth,IN,Elizabeth-IN,Indiana,18061,Harrison,38.1239,-85.9729,193,193,450,polygon,TRUE,America/Kentucky/Louisville,47117
+Black Oak-IN,1840030050,Black Oak,Black Oak,IN,Black Oak-IN,Indiana,18089,Lake,41.5661,-87.3936,,,62,point,FALSE,America/Chicago,46404
+Oakland City-IN,1840008645,Oakland City,Oakland City,IN,Oakland City-IN,Indiana,18051,Gibson,38.3378,-87.3492,2505,2419,924,polygon,TRUE,America/Indiana/Petersburg,47660
+Libertyville-IN,1840029971,Libertyville,Libertyville,IN,Libertyville-IN,Indiana,18167,Vigo,39.6028,-87.5186,,,172.6,point,FALSE,America/Indiana/Indianapolis,47885
+Avoca-IN,1840026705,Avoca,Avoca,IN,Avoca-IN,Indiana,18093,Lawrence,38.9172,-86.5557,,,122.5,polygon,FALSE,America/Indiana/Indianapolis,47420 47421 47462
+Ellettsville-IN,1840010665,Ellettsville,Ellettsville,IN,Ellettsville-IN,Indiana,18105,Monroe,39.2308,-86.6221,6622,6622,621,polygon,TRUE,America/Indiana/Indianapolis,47429 47404
+Marion-IN,1840013868,Marion,Marion,IN,Marion-IN,Indiana,18053,Grant,40.5497,-85.66,41550,28592,706,polygon,TRUE,America/Indiana/Indianapolis,46953 46952
+Chesterton-IN,1840009267,Chesterton,Chesterton,IN,Chesterton-IN,Indiana,18127,Porter,41.5995,-87.0549,13441,13441,555,polygon,TRUE,America/Chicago,46304
+Burnettsville-IN,1840009378,Burnettsville,Burnettsville,IN,Burnettsville-IN,Indiana,18181,White,40.7612,-86.5947,337,337,173,polygon,TRUE,America/Indiana/Indianapolis,47926
+Napoleon-IN,1840013885,Napoleon,Napoleon,IN,Napoleon-IN,Indiana,18137,Ripley,39.2042,-85.3273,229,229,446,polygon,TRUE,America/Indiana/Indianapolis,47006 47034 47037
+Bloomingdale-IN,1840009521,Bloomingdale,Bloomingdale,IN,Bloomingdale-IN,Indiana,18121,Parke,39.8306,-87.2502,327,327,217,polygon,TRUE,America/Indiana/Indianapolis,47832
+Rockport-IN,1840009848,Rockport,Rockport,IN,Rockport-IN,Indiana,18147,Spencer,37.8899,-87.0537,2209,2209,543,polygon,TRUE,America/Chicago,47635
+Brookston-IN,1840009377,Brookston,Brookston,IN,Brookston-IN,Indiana,18181,White,40.6009,-86.8663,1515,1515,892,polygon,TRUE,America/Indiana/Indianapolis,47923
+Buck Creek-IN,1840024298,Buck Creek,Buck Creek,IN,Buck Creek-IN,Indiana,18157,Tippecanoe,40.4874,-86.7622,,,323.4,polygon,FALSE,America/Indiana/Indianapolis,47905 47924
+Walkerton-IN,1840010197,Walkerton,Walkerton,IN,Walkerton-IN,Indiana,18141,St. Joseph,41.4656,-86.4824,3201,2262,445,polygon,TRUE,America/Indiana/Indianapolis,46574
+Castleton-IN,1840029923,Castleton,Castleton,IN,Castleton-IN,Indiana,18097,Marion,39.907,-86.0522,,,502.5,point,FALSE,America/Indiana/Indianapolis,46250
+Windfall-IN,1840030043,Windfall,Windfall,IN,Windfall-IN,Indiana,18159,Tipton,40.3631,-85.9564,,,572.1,point,TRUE,America/Indiana/Indianapolis,46076
+Wheatfield-IN,1840010293,Wheatfield,Wheatfield,IN,Wheatfield-IN,Indiana,18073,Jasper,41.191,-87.0526,844,844,584,polygon,TRUE,America/Chicago,46392
+Daleville-IN,1840009442,Daleville,Daleville,IN,Daleville-IN,Indiana,18035,Delaware,40.1186,-85.5576,1598,1598,301,polygon,TRUE,America/Indiana/Indianapolis,47334
+Westfield-IN,1840010500,Westfield,Westfield,IN,Westfield-IN,Indiana,18057,Hamilton,40.0314,-86.1539,37221,37221,493,polygon,TRUE,America/Indiana/Indianapolis,46033 46074
+Buffalo-IN,1840005346,Buffalo,Buffalo,IN,Buffalo-IN,Indiana,18181,White,40.888,-86.7374,,,214.2,polygon,FALSE,America/Indiana/Indianapolis,47925 47960
+Tyner-IN,1840030060,Tyner,Tyner,IN,Tyner-IN,Indiana,18099,Marshall,41.4098,-86.4025,,,143.4,point,FALSE,America/Indiana/Indianapolis,46563
+Beverly Shores-IN,1840009265,Beverly Shores,Beverly Shores,IN,Beverly Shores-IN,Indiana,18127,Porter,41.685,-86.9804,609,609,65,polygon,TRUE,America/Chicago,46301 46360
+Angola-IN,1840007084,Angola,Angola,IN,Angola-IN,Indiana,18151,Steuben,41.6431,-85.005,11169,8591,513,polygon,TRUE,America/Indiana/Indianapolis,46703
+Boston-IN,1840009492,Boston,Boston,IN,Boston-IN,Indiana,18177,Wayne,39.7412,-84.8517,133,133,230,polygon,TRUE,America/Indiana/Indianapolis,47324
+Dayton-IN,1840009426,Dayton,Dayton,IN,Dayton-IN,Indiana,18157,Tippecanoe,40.3759,-86.7747,1618,1618,587,polygon,TRUE,America/Indiana/Indianapolis,47941 47905
+Valparaiso-IN,1840014674,Valparaiso,Valparaiso,IN,Valparaiso-IN,Indiana,18127,Porter,41.4796,-87.0528,33104,33104,816,polygon,TRUE,America/Chicago,46383 46385 46384
+Ridgeville-IN,1840010477,Ridgeville,Ridgeville,IN,Ridgeville-IN,Indiana,18135,Randolph,40.292,-85.0285,765,765,532,polygon,TRUE,America/Indiana/Indianapolis,47380
+Sulphur Springs-IN,1840010536,Sulphur Springs,Sulphur Springs,IN,Sulphur Springs-IN,Indiana,18065,Henry,39.9991,-85.4393,382,382,209,polygon,TRUE,America/Indiana/Indianapolis,47388 47356
+Cuzco-IN,1840030067,Cuzco,Cuzco,IN,Cuzco-IN,Indiana,18037,Dubois,38.4751,-86.7228,,,17.5,point,FALSE,America/Indiana/Vincennes,47432
+Battle Ground-IN,1840009424,Battle Ground,Battle Ground,IN,Battle Ground-IN,Indiana,18157,Tippecanoe,40.507,-86.852,1922,1922,859,polygon,TRUE,America/Indiana/Indianapolis,47906 47920
+Osceola-IN,1840009245,Osceola,Osceola,IN,Osceola-IN,Indiana,18141,St. Joseph,41.6647,-86.0787,2479,2479,704,polygon,TRUE,America/Indiana/Indianapolis,46561
+Lake Hart-IN,1840030081,Lake Hart,Lake Hart,IN,Lake Hart-IN,Indiana,18109,Morgan,39.5675,-86.4319,,,209.4,point,FALSE,America/Indiana/Indianapolis,46158
+Huntington-IN,1840007169,Huntington,Huntington,IN,Huntington-IN,Indiana,18069,Huntington,40.8812,-85.5062,17982,17176,779,polygon,TRUE,America/Indiana/Indianapolis,46750
+Orestes-IN,1840009441,Orestes,Orestes,IN,Orestes-IN,Indiana,18095,Madison,40.2694,-85.7277,410,410,257,polygon,TRUE,America/Indiana/Indianapolis,46001 46063
+Brazil-IN,1840005744,Brazil,Brazil,IN,Brazil-IN,Indiana,18021,Clay,39.5232,-87.1244,8110,8110,855,polygon,TRUE,America/Indiana/Indianapolis,47834
+Manson-IN,1840029981,Manson,Manson,IN,Manson-IN,Indiana,18023,Clinton,40.24,-86.5903,,,39.1,point,FALSE,America/Indiana/Indianapolis,46041
+Stinesville-IN,1840010666,Stinesville,Stinesville,IN,Stinesville-IN,Indiana,18105,Monroe,39.2998,-86.6499,213,213,794,polygon,TRUE,America/Indiana/Indianapolis,47464
+West Harrison-IN,1840030041,West Harrison,West Harrison,IN,West Harrison-IN,Indiana,18029,Dearborn,39.2577,-84.8226,283,283,507,polygon,TRUE,America/New_York,47060
+Wilkinson-IN,1840010569,Wilkinson,Wilkinson,IN,Wilkinson-IN,Indiana,18059,Hancock,39.8861,-85.6089,447,447,906,polygon,TRUE,America/Indiana/Indianapolis,46186
+Osgood-IN,1840009622,Osgood,Osgood,IN,Osgood-IN,Indiana,18137,Ripley,39.1291,-85.292,1615,1615,429,polygon,TRUE,America/Indiana/Indianapolis,47037
+Winfield-IN,1840010228,Winfield,Winfield,IN,Winfield-IN,Indiana,18089,Lake,41.4097,-87.2623,5560,5560,173,polygon,TRUE,America/Chicago,46307
+Ambia-IN,1840010380,Ambia,Ambia,IN,Ambia-IN,Indiana,18007,Benton,40.4894,-87.5164,235,235,613,polygon,TRUE,America/Indiana/Indianapolis,47917
+Lanesville-IN,1840009823,Lanesville,Lanesville,IN,Lanesville-IN,Indiana,18061,Harrison,38.2351,-85.9859,573,573,423,polygon,TRUE,America/Kentucky/Louisville,47136
+Koontz Lake-IN,1840004908,Koontz Lake,Koontz Lake,IN,Koontz Lake-IN,Indiana,18149,Starke,41.4169,-86.4827,,,409.1,polygon,FALSE,America/Indiana/Knox,46574
+Indian Village-IN,1840010196,Indian Village,Indian Village,IN,Indian Village-IN,Indiana,18141,St. Joseph,41.7143,-86.2322,133,133,577,polygon,TRUE,America/Indiana/Indianapolis,46637
+Parker City-IN,1840009451,Parker City,Parker City,IN,Parker City-IN,Indiana,18135,Randolph,40.1898,-85.2038,1366,1366,931,polygon,TRUE,America/Indiana/Indianapolis,47368
+Elkhart-IN,1840008187,Elkhart,Elkhart,IN,Elkhart-IN,Indiana,18039,Elkhart,41.6919,-85.962,147181,52221,792,polygon,TRUE,America/Indiana/Indianapolis,46514 46517 46516 46515
+Selma-IN,1840010462,Selma,Selma,IN,Selma-IN,Indiana,18035,Delaware,40.1888,-85.2755,839,839,347,polygon,TRUE,America/Indiana/Indianapolis,47383 47302
+Merriam-IN,1840029985,Merriam,Merriam,IN,Merriam-IN,Indiana,18113,Noble,41.2873,-85.4344,,,163,point,FALSE,America/Indiana/Indianapolis,46701
+Argos-IN,1840010268,Argos,Argos,IN,Argos-IN,Indiana,18099,Marshall,41.2388,-86.2525,1647,1647,548,polygon,TRUE,America/Indiana/Indianapolis,46501
+Hardinsburg-IN,1840010763,Hardinsburg,Hardinsburg,IN,Hardinsburg-IN,Indiana,18175,Washington,38.462,-86.2732,243,243,46,polygon,TRUE,America/Indiana/Indianapolis,47125
+Carmel-IN,1840007260,Carmel,Carmel,IN,Carmel-IN,Indiana,18057,Hamilton,39.9658,-86.1461,91065,91065,740,polygon,TRUE,America/Indiana/Indianapolis,46290 46032 46033 46280 46082
+Odon-IN,1840009738,Odon,Odon,IN,Odon-IN,Indiana,18027,Daviess,38.8424,-86.9891,1404,1404,562,polygon,TRUE,America/Indiana/Vincennes,47562
+Yankeetown-IN,1840030045,Yankeetown,Yankeetown,IN,Yankeetown-IN,Indiana,18173,Warrick,37.9175,-87.2978,,,55.6,point,FALSE,America/Chicago,47630
+Matthews-IN,1840009409,Matthews,Matthews,IN,Matthews-IN,Indiana,18053,Grant,40.3875,-85.4975,560,560,613,polygon,TRUE,America/Indiana/Indianapolis,46957
+Valeene-IN,1840030073,Valeene,Valeene,IN,Valeene-IN,Indiana,18117,Orange,38.4389,-86.3972,,,37.4,point,FALSE,America/Indiana/Indianapolis,47125
+Huntingburg-IN,1840007496,Huntingburg,Huntingburg,IN,Huntingburg-IN,Indiana,18037,Dubois,38.3009,-86.9625,5566,6130,467,polygon,TRUE,America/Indiana/Vincennes,47542
+Oolitic-IN,1840009717,Oolitic,Oolitic,IN,Oolitic-IN,Indiana,18093,Lawrence,38.8926,-86.5253,1157,1157,570,polygon,TRUE,America/Indiana/Indianapolis,47451
+Farmland-IN,1840010479,Farmland,Farmland,IN,Farmland-IN,Indiana,18135,Randolph,40.1895,-85.1273,1280,1280,930,polygon,TRUE,America/Indiana/Indianapolis,47340
+Paoli-IN,1840014683,Paoli,Paoli,IN,Paoli-IN,Indiana,18117,Orange,38.5572,-86.4699,3196,3581,369,polygon,TRUE,America/Indiana/Indianapolis,47454
+Rockville-IN,1840014205,Rockville,Rockville,IN,Rockville-IN,Indiana,18121,Parke,39.7665,-87.2295,4231,2542,657,polygon,TRUE,America/Indiana/Indianapolis,47872
+Chalmers-IN,1840009379,Chalmers,Chalmers,IN,Chalmers-IN,Indiana,18181,White,40.6626,-86.8677,497,497,771,polygon,TRUE,America/Indiana/Indianapolis,47929
+Laconia-IN,1840009822,Laconia,Laconia,IN,Laconia-IN,Indiana,18061,Harrison,38.0318,-86.0855,50,50,388,polygon,TRUE,America/Kentucky/Louisville,47135
+Hagerstown-IN,1840010546,Hagerstown,Hagerstown,IN,Hagerstown-IN,Indiana,18177,Wayne,39.9115,-85.1554,1713,1713,501,polygon,TRUE,America/Indiana/Indianapolis,47346
+Elizaville-IN,1840029937,Elizaville,Elizaville,IN,Elizaville-IN,Indiana,18011,Boone,40.1267,-86.3758,,,71.3,point,FALSE,America/Indiana/Indianapolis,46052
+Malden-IN,1840029980,Malden,Malden,IN,Malden-IN,Indiana,18127,Porter,41.3762,-87.027,,,130.2,point,FALSE,America/Chicago,46383
+Alquina-IN,1840029906,Alquina,Alquina,IN,Alquina-IN,Indiana,18041,Fayette,39.6128,-85.0547,,,33.4,point,FALSE,America/Indiana/Indianapolis,47331
+Burnett-IN,1840029919,Burnett,Burnett,IN,Burnett-IN,Indiana,18167,Vigo,39.5428,-87.2956,,,118.1,point,FALSE,America/Indiana/Indianapolis,47805
+Flat Rock-IN,1840030055,Flat Rock,Flat Rock,IN,Flat Rock-IN,Indiana,18145,Shelby,39.3642,-85.8317,,,187.3,point,FALSE,America/Indiana/Indianapolis,47234
+Kurtz-IN,1840030071,Kurtz,Kurtz,IN,Kurtz-IN,Indiana,18071,Jackson,38.9606,-86.2033,,,84.4,point,FALSE,America/Indiana/Indianapolis,47264
+Whitewater-IN,1840010548,Whitewater,Whitewater,IN,Whitewater-IN,Indiana,18177,Wayne,39.9449,-84.8309,69,69,338,polygon,TRUE,America/Indiana/Indianapolis,47374
+Sandborn-IN,1840010728,Sandborn,Sandborn,IN,Sandborn-IN,Indiana,18083,Knox,38.8967,-87.1849,408,408,402,polygon,TRUE,America/Indiana/Vincennes,47578
+Universal-IN,1840010521,Universal,Universal,IN,Universal-IN,Indiana,18165,Vermillion,39.6226,-87.4554,341,341,365,polygon,TRUE,America/Indiana/Indianapolis,47842 47884
+Kokomo-IN,1840013844,Kokomo,Kokomo,IN,Kokomo-IN,Indiana,18067,Howard,40.464,-86.1277,79048,57799,610,polygon,TRUE,America/Indiana/Indianapolis,46902 46901 46903 46904 46937 46965 46995
+Larwill-IN,1840009319,Larwill,Larwill,IN,Larwill-IN,Indiana,18183,Whitley,41.1792,-85.6243,281,281,485,polygon,TRUE,America/Indiana/Indianapolis,46764
+Auburn-IN,1840007100,Auburn,Auburn,IN,Auburn-IN,Indiana,18033,DeKalb,41.3666,-85.0559,22257,13052,658,polygon,TRUE,America/Indiana/Indianapolis,46706
+Maxwell-IN,1840029983,Maxwell,Maxwell,IN,Maxwell-IN,Indiana,18059,Hancock,39.8575,-85.77,,,243.1,point,FALSE,America/Indiana/Indianapolis,46140
+Woodlawn Heights-IN,1840030044,Woodlawn Heights,Woodlawn Heights,IN,Woodlawn Heights-IN,Indiana,18095,Madison,40.1184,-85.6972,78,78,260,polygon,TRUE,America/Indiana/Indianapolis,46011
+Catlin-IN,1840029925,Catlin,Catlin,IN,Catlin-IN,Indiana,18121,Parke,39.6937,-87.2353,,,42.7,point,FALSE,America/Indiana/Indianapolis,47872
+Cambridge City-IN,1840009493,Cambridge City,Cambridge City,IN,Cambridge City-IN,Indiana,18177,Wayne,39.8125,-85.1703,3590,1765,675,polygon,TRUE,America/Indiana/Indianapolis,47327 47370
+Americus-IN,1840024297,Americus,Americus,IN,Americus-IN,Indiana,18157,Tippecanoe,40.5254,-86.7476,,,102.7,polygon,FALSE,America/Indiana/Indianapolis,47905
+Crown Point-IN,1840007091,Crown Point,Crown Point,IN,Crown Point-IN,Indiana,18089,Lake,41.414,-87.3455,29176,29176,632,polygon,TRUE,America/Chicago,46307 46308
+Raglesville-IN,1840024610,Raglesville,Raglesville,IN,Raglesville-IN,Indiana,18027,Daviess,38.802,-86.9618,,,101.9,polygon,FALSE,America/Indiana/Vincennes,47562
+Wellsboro-IN,1840030040,Wellsboro,Wellsboro,IN,Wellsboro-IN,Indiana,18091,LaPorte,41.4973,-86.7653,,,339,point,FALSE,America/Chicago,46382
+Denham-IN,1840029934,Denham,Denham,IN,Denham-IN,Indiana,18131,Pulaski,41.152,-86.7136,,,54.3,point,FALSE,America/Indiana/Winamac,46996
+Cannelton-IN,1840007521,Cannelton,Cannelton,IN,Cannelton-IN,Indiana,18123,Perry,37.9106,-86.7377,1494,1494,389,polygon,TRUE,America/Chicago,47520
+East Germantown-IN,1840010542,East Germantown,East Germantown,IN,East Germantown-IN,Indiana,18177,Wayne,39.8131,-85.137,370,370,1224,polygon,TRUE,America/Indiana/Indianapolis,47327
+Clear Lake-IN,1840009249,Clear Lake,Clear Lake,IN,Clear Lake-IN,Indiana,18151,Steuben,41.7382,-84.8392,340,340,126,polygon,TRUE,America/Detroit,46737
+Elberfeld-IN,1840010820,Elberfeld,Elberfeld,IN,Elberfeld-IN,Indiana,18173,Warrick,38.1617,-87.4482,650,650,820,polygon,TRUE,America/Chicago,47613
+Corunna-IN,1840009277,Corunna,Corunna,IN,Corunna-IN,Indiana,18033,DeKalb,41.4359,-85.1441,255,255,568,polygon,TRUE,America/Indiana/Indianapolis,46730
+New Whiteland-IN,1840009570,New Whiteland,New Whiteland,IN,New Whiteland-IN,Indiana,18081,Johnson,39.5618,-86.0994,6025,6025,1576,polygon,TRUE,America/Indiana/Indianapolis,46184
+Danville-IN,1840009539,Danville,Danville,IN,Danville-IN,Indiana,18063,Hendricks,39.7607,-86.5081,9676,9676,539,polygon,TRUE,America/Indiana/Indianapolis,46122
+Westport-IN,1840010658,Westport,Westport,IN,Westport-IN,Indiana,18031,Decatur,39.1772,-85.5751,1426,1426,417,polygon,TRUE,America/Indiana/Indianapolis,47283
+Pleasant Lake-IN,1840030002,Pleasant Lake,Pleasant Lake,IN,Pleasant Lake-IN,Indiana,18151,Steuben,41.5753,-85.0161,,,193.7,point,FALSE,America/Indiana/Indianapolis,46779
+Yeoman-IN,1840010382,Yeoman,Yeoman,IN,Yeoman-IN,Indiana,18015,Carroll,40.6677,-86.7236,137,137,434,polygon,TRUE,America/Indiana/Indianapolis,47997
+Williams-IN,1840024596,Williams,Williams,IN,Williams-IN,Indiana,18093,Lawrence,38.8147,-86.6446,,,166.9,polygon,FALSE,America/Indiana/Indianapolis,47470
+Edgewood-IN,1840010455,Edgewood,Edgewood,IN,Edgewood-IN,Indiana,18095,Madison,40.1032,-85.7374,1871,1871,893,polygon,TRUE,America/Indiana/Indianapolis,46011
+Lapel-IN,1840009439,Lapel,Lapel,IN,Lapel-IN,Indiana,18095,Madison,40.066,-85.8463,2365,2365,666,polygon,TRUE,America/Indiana/Indianapolis,46051
+Caborn-IN,1840030051,Caborn,Caborn,IN,Caborn-IN,Indiana,18129,Posey,37.9706,-87.792,,,19.5,point,FALSE,America/Chicago,47620
+Marengo-IN,1840009818,Marengo,Marengo,IN,Marengo-IN,Indiana,18025,Crawford,38.3714,-86.3444,816,816,406,polygon,TRUE,America/Indiana/Marengo,47140
+Marshfield-IN,1840029982,Marshfield,Marshfield,IN,Marshfield-IN,Indiana,18171,Warren,40.2492,-87.4528,,,12.1,point,FALSE,America/Indiana/Indianapolis,47993
+Alton-IN,1840010811,Alton,Alton,IN,Alton-IN,Indiana,18025,Crawford,38.1211,-86.4196,55,55,123,polygon,TRUE,America/Indiana/Marengo,47137
+Cayuga-IN,1840009470,Cayuga,Cayuga,IN,Cayuga-IN,Indiana,18165,Vermillion,39.9474,-87.4646,1118,1118,425,polygon,TRUE,America/Indiana/Indianapolis,47928
+Linwood-IN,1840029974,Linwood,Linwood,IN,Linwood-IN,Indiana,18095,Madison,40.1937,-85.6816,,,72.4,point,FALSE,America/Indiana/Indianapolis,46001
+Poseyville-IN,1840010822,Poseyville,Poseyville,IN,Poseyville-IN,Indiana,18129,Posey,38.1699,-87.7834,1028,1028,615,polygon,TRUE,America/Chicago,47633
+West Terre Haute-IN,1840010622,West Terre Haute,West Terre Haute,IN,West Terre Haute-IN,Indiana,18167,Vigo,39.4638,-87.4506,2219,2219,1138,polygon,TRUE,America/Indiana/Indianapolis,47885
+Dunlap-IN,1840004814,Dunlap,Dunlap,IN,Dunlap-IN,Indiana,18039,Elkhart,41.6344,-85.9235,,,621.5,polygon,FALSE,America/Indiana/Indianapolis,46517 46516
+Newberry-IN,1840009695,Newberry,Newberry,IN,Newberry-IN,Indiana,18055,Greene,38.9237,-87.0191,190,190,148,polygon,TRUE,America/Indiana/Indianapolis,47449
+Wheatland-IN,1840010731,Wheatland,Wheatland,IN,Wheatland-IN,Indiana,18083,Knox,38.6632,-87.3062,472,472,444,polygon,TRUE,America/Indiana/Vincennes,47597
+Jalapa-IN,1840024291,Jalapa,Jalapa,IN,Jalapa-IN,Indiana,18053,Grant,40.6263,-85.7464,,,51.6,polygon,FALSE,America/Indiana/Indianapolis,46952
+Leo-Cedarville-IN,1840009322,Leo-Cedarville,Leo-Cedarville,IN,Leo-Cedarville-IN,Indiana,18003,Allen,41.2198,-85.0193,3767,3767,391,polygon,TRUE,America/Indiana/Indianapolis,46765
+Connersville-IN,1840007318,Connersville,Connersville,IN,Connersville-IN,Indiana,18041,Fayette,39.6582,-85.141,14740,12949,645,polygon,TRUE,America/Indiana/Indianapolis,47331
+Leopold-IN,1840030072,Leopold,Leopold,IN,Leopold-IN,Indiana,18123,Perry,38.1039,-86.5833,,,33.3,point,FALSE,America/Indiana/Tell_City,47551
+Decatur-IN,1840007177,Decatur,Decatur,IN,Decatur-IN,Indiana,18001,Adams,40.8301,-84.9281,10572,9524,636,polygon,TRUE,America/Indiana/Indianapolis,46733
+Fortville-IN,1840013731,Fortville,Fortville,IN,Fortville-IN,Indiana,18059,Hancock,39.924,-85.8465,3998,3998,532,polygon,TRUE,America/Indiana/Indianapolis,46040
+Lynn-IN,1840009449,Lynn,Lynn,IN,Lynn-IN,Indiana,18135,Randolph,40.0488,-84.9424,1052,1052,719,polygon,TRUE,America/Indiana/Indianapolis,47355
+Sheridan-IN,1840010499,Sheridan,Sheridan,IN,Sheridan-IN,Indiana,18057,Hamilton,40.1318,-86.2195,3094,3004,542,polygon,TRUE,America/Indiana/Indianapolis,46069
+Turkey Creek Meadows-IN,1840030034,Turkey Creek Meadows,Turkey Creek Meadows,IN,Turkey Creek Meadows-IN,Indiana,18089,Lake,41.4953,-87.3434,,,2343.9,point,FALSE,America/Chicago,46410
+Lake Holiday-IN,1840026545,Lake Holiday,Lake Holiday,IN,Lake Holiday-IN,Indiana,18107,Montgomery,39.9642,-86.9607,,,162.7,polygon,FALSE,America/Indiana/Indianapolis,47933
+Servia-IN,1840030020,Servia,Servia,IN,Servia-IN,Indiana,18169,Wabash,40.9567,-85.7405,,,88.6,point,FALSE,America/Indiana/Indianapolis,46962
+Shamrock Lakes-IN,1840010427,Shamrock Lakes,Shamrock Lakes,IN,Shamrock Lakes-IN,Indiana,18009,Blackford,40.4117,-85.4261,222,222,325,polygon,TRUE,America/Indiana/Indianapolis,47348
+Lafayette-IN,1840008354,Lafayette,Lafayette,IN,Lafayette-IN,Indiana,18157,Tippecanoe,40.399,-86.8592,157955,71782,940,polygon,TRUE,America/Indiana/Indianapolis,47909 47905 47904 47901 47902 47903
+New Palestine-IN,1840009527,New Palestine,New Palestine,IN,New Palestine-IN,Indiana,18059,Hancock,39.7255,-85.8934,2283,2283,610,polygon,TRUE,America/Indiana/Indianapolis,46163
+Boonville-IN,1840007528,Boonville,Boonville,IN,Boonville-IN,Indiana,18173,Warrick,38.0452,-87.2739,6198,6187,795,polygon,TRUE,America/Chicago,47601
+Ainsworth-IN,1840029908,Ainsworth,Ainsworth,IN,Ainsworth-IN,Indiana,18089,Lake,41.4878,-87.2586,,,114.3,point,FALSE,America/Chicago,46342
+Sedalia-IN,1840030018,Sedalia,Sedalia,IN,Sedalia-IN,Indiana,18023,Clinton,40.4156,-86.5147,,,90.3,point,FALSE,America/Indiana/Indianapolis,46041
+Meridian Hills-IN,1840009533,Meridian Hills,Meridian Hills,IN,Meridian Hills-IN,Indiana,18097,Marion,39.8873,-86.1568,1686,1686,441,polygon,TRUE,America/Indiana/Indianapolis,46260 46240
+Seelyville-IN,1840010621,Seelyville,Seelyville,IN,Seelyville-IN,Indiana,18167,Vigo,39.4936,-87.2667,1022,1022,444,polygon,TRUE,America/Indiana/Indianapolis,47803 47878
+Galveston-IN,1840010362,Galveston,Galveston,IN,Galveston-IN,Indiana,18017,Cass,40.5772,-86.1914,1270,1270,934,polygon,TRUE,America/Indiana/Indianapolis,46932
+Alfordsville-IN,1840010736,Alfordsville,Alfordsville,IN,Alfordsville-IN,Indiana,18027,Daviess,38.5607,-86.9482,105,105,600,polygon,TRUE,America/Indiana/Vincennes,47553
+Independence Hill-IN,1840029955,Independence Hill,Independence Hill,IN,Independence Hill-IN,Indiana,18089,Lake,41.4761,-87.3673,,,1620.6,point,FALSE,America/Chicago,46410
+Lewis-IN,1840029968,Lewis,Lewis,IN,Lewis-IN,Indiana,18167,Vigo,39.26,-87.2575,,,60.9,point,FALSE,America/Indiana/Indianapolis,47858
+East Chicago-IN,1840008193,East Chicago,East Chicago,IN,East Chicago-IN,Indiana,18089,Lake,41.6487,-87.4531,28418,28418,778,polygon,TRUE,America/Chicago,46312 46325
+Green Acres-IN,1840029948,Green Acres,Green Acres,IN,Green Acres-IN,Indiana,18089,Lake,41.4839,-87.2973,,,163.5,point,FALSE,America/Chicago,46410
+Paragon-IN,1840009670,Paragon,Paragon,IN,Paragon-IN,Indiana,18109,Morgan,39.3948,-86.5628,659,659,895,polygon,TRUE,America/Indiana/Indianapolis,46166
+Glenwood-IN,1840010603,Glenwood,Glenwood,IN,Glenwood-IN,Indiana,18139,Rush,39.6261,-85.3021,241,241,527,polygon,TRUE,America/Indiana/Indianapolis,46133
+Kimmell-IN,1840026314,Kimmell,Kimmell,IN,Kimmell-IN,Indiana,18113,Noble,41.395,-85.5487,,,340.1,polygon,FALSE,America/Indiana/Indianapolis,46760 46767
+Emison-IN,1840024604,Emison,Emison,IN,Emison-IN,Indiana,18083,Knox,38.7991,-87.4604,,,46.8,polygon,FALSE,America/Indiana/Vincennes,47561 47516
+Hoagland-IN,1840026347,Hoagland,Hoagland,IN,Hoagland-IN,Indiana,18003,Allen,40.952,-84.9955,,,164.1,polygon,FALSE,America/Indiana/Indianapolis,46745
+Reynolds-IN,1840010359,Reynolds,Reynolds,IN,Reynolds-IN,Indiana,18181,White,40.7492,-86.8743,517,517,360,polygon,TRUE,America/Indiana/Indianapolis,47980
+Melody Hill-IN,1840006310,Melody Hill,Melody Hill,IN,Melody Hill-IN,Indiana,18163,Vanderburgh,38.024,-87.512,,,914.4,polygon,FALSE,America/Chicago,47711
+Colfax-IN,1840009431,Colfax,Colfax,IN,Colfax-IN,Indiana,18023,Clinton,40.1944,-86.6673,679,679,721,polygon,TRUE,America/Indiana/Indianapolis,46035
+Michigantown-IN,1840009433,Michigantown,Michigantown,IN,Michigantown-IN,Indiana,18023,Clinton,40.3279,-86.3915,450,450,656,polygon,TRUE,America/Indiana/Indianapolis,46057
+Saint Bernice-IN,1840026557,Saint Bernice,Saint Bernice,IN,Saint Bernice-IN,Indiana,18165,Vermillion,39.7119,-87.52,,,285,polygon,FALSE,America/Indiana/Indianapolis,47842
+Losantville-IN,1840009448,Losantville,Losantville,IN,Losantville-IN,Indiana,18135,Randolph,40.0236,-85.1835,229,229,468,polygon,TRUE,America/Indiana/Indianapolis,47354
+Fowlerton-IN,1840010395,Fowlerton,Fowlerton,IN,Fowlerton-IN,Indiana,18053,Grant,40.4095,-85.5728,250,250,493,polygon,TRUE,America/Indiana/Indianapolis,46930 46938
+Howe-IN,1840013798,Howe,Howe,IN,Howe-IN,Indiana,18087,LaGrange,41.7228,-85.4255,,,640.5,polygon,FALSE,America/Detroit,46746
+Southport-IN,1840009529,Southport,Southport,IN,Southport-IN,Indiana,18097,Marion,39.66,-86.1171,1750,1750,1075,polygon,TRUE,America/Indiana/Indianapolis,46227
+Clarksville-IN,1840009665,Clarksville,Clarksville,IN,Clarksville-IN,Indiana,18019,Clark,38.3225,-85.7674,21920,21920,842,polygon,TRUE,America/Kentucky/Louisville,47129 47172
+Bass Lake-IN,1840004910,Bass Lake,Bass Lake,IN,Bass Lake-IN,Indiana,18149,Starke,41.2304,-86.5845,,,51.2,polygon,FALSE,America/Indiana/Knox,46534
+Morristown-IN,1840009562,Morristown,Morristown,IN,Morristown-IN,Indiana,18145,Shelby,39.6738,-85.7045,1340,1340,197,polygon,TRUE,America/Indiana/Indianapolis,46161
+Spurgeon-IN,1840010792,Spurgeon,Spurgeon,IN,Spurgeon-IN,Indiana,18125,Pike,38.2554,-87.2588,201,201,442,polygon,TRUE,America/Indiana/Petersburg,47584
+Kent-IN,1840025649,Kent,Kent,IN,Kent-IN,Indiana,18077,Jefferson,38.7369,-85.5387,,,117.1,polygon,FALSE,America/Indiana/Indianapolis,47250
+Ogden Dunes-IN,1840009270,Ogden Dunes,Ogden Dunes,IN,Ogden Dunes-IN,Indiana,18127,Porter,41.6229,-87.1932,1106,1106,580,polygon,TRUE,America/Chicago,46368
+Frankton-IN,1840010456,Frankton,Frankton,IN,Frankton-IN,Indiana,18095,Madison,40.2212,-85.772,1820,1820,666,polygon,TRUE,America/Indiana/Indianapolis,46044
+Roll-IN,1840030011,Roll,Roll,IN,Roll-IN,Indiana,18009,Blackford,40.5523,-85.3903,,,38,point,FALSE,America/Indiana/Indianapolis,47348
+Parkers Settlement-IN,1840026782,Parkers Settlement,Parkers Settlement,IN,Parkers Settlement-IN,Indiana,18129,Posey,38.044,-87.7146,,,230,polygon,FALSE,America/Chicago,47712 47638
+Tell City-IN,1840009755,Tell City,Tell City,IN,Tell City-IN,Indiana,18123,Perry,37.9528,-86.7596,9677,7323,623,polygon,TRUE,America/Indiana/Tell_City,47586
+Brooksburg-IN,1840009729,Brooksburg,Brooksburg,IN,Brooksburg-IN,Indiana,18077,Jefferson,38.735,-85.2445,81,81,307,polygon,TRUE,America/New_York,47250
+Koleen-IN,1840029962,Koleen,Koleen,IN,Koleen-IN,Indiana,18055,Greene,38.9714,-86.8289,,,21.7,point,FALSE,America/Indiana/Indianapolis,47424
+Perrysville-IN,1840010519,Perrysville,Perrysville,IN,Perrysville-IN,Indiana,18165,Vermillion,40.0532,-87.436,434,434,656,polygon,TRUE,America/Indiana/Indianapolis,47974
+Walton-IN,1840010363,Walton,Walton,IN,Walton-IN,Indiana,18017,Cass,40.6623,-86.2444,1023,1023,926,polygon,TRUE,America/Indiana/Indianapolis,46994
+Lewisville-IN,1840009481,Lewisville,Lewisville,IN,Lewisville-IN,Indiana,18065,Henry,39.8068,-85.3532,357,357,538,polygon,TRUE,America/Indiana/Indianapolis,47352
+North Salem-IN,1840009541,North Salem,North Salem,IN,North Salem-IN,Indiana,18063,Hendricks,39.8596,-86.6445,529,529,785,polygon,TRUE,America/Indiana/Indianapolis,46165
+Newtown-IN,1840009444,Newtown,Newtown,IN,Newtown-IN,Indiana,18045,Fountain,40.2044,-87.1482,247,247,189,polygon,TRUE,America/Indiana/Indianapolis,47969 47987
+Fishers-IN,1840010496,Fishers,Fishers,IN,Fishers-IN,Indiana,18057,Hamilton,39.959,-85.968,90127,90127,1011,polygon,TRUE,America/Indiana/Indianapolis,46038 46256 46037 46085
+Kingsford Heights-IN,1840009246,Kingsford Heights,Kingsford Heights,IN,Kingsford Heights-IN,Indiana,18091,LaPorte,41.4786,-86.6927,1409,1409,577,polygon,TRUE,America/Chicago,46346
+Liberty Park-IN,1840029970,Liberty Park,Liberty Park,IN,Liberty Park-IN,Indiana,18089,Lake,41.4325,-87.3686,,,1031.6,point,FALSE,America/Chicago,46307
+Morgantown-IN,1840009669,Morgantown,Morgantown,IN,Morgantown-IN,Indiana,18109,Morgan,39.3729,-86.2585,986,986,1007,polygon,TRUE,America/Indiana/Indianapolis,46160
+Waynetown-IN,1840010503,Waynetown,Waynetown,IN,Waynetown-IN,Indiana,18107,Montgomery,40.0879,-87.0662,947,947,757,polygon,TRUE,America/Indiana/Indianapolis,47990
+Bedford-IN,1840007426,Bedford,Bedford,IN,Bedford-IN,Indiana,18093,Lawrence,38.8602,-86.4895,14896,13341,423,polygon,TRUE,America/Indiana/Indianapolis,47421
+Patriot-IN,1840009726,Patriot,Patriot,IN,Patriot-IN,Indiana,18155,Switzerland,38.8366,-84.8293,208,208,367,polygon,TRUE,America/Indiana/Vevay,47038
+Zionsville-IN,1840010515,Zionsville,Zionsville,IN,Zionsville-IN,Indiana,18011,Boone,39.999,-86.2921,26784,26784,193,polygon,TRUE,America/Indiana/Indianapolis,46077 46075
+Hollandsburg-IN,1840030057,Hollandsburg,Hollandsburg,IN,Hollandsburg-IN,Indiana,18121,Parke,39.7603,-87.0722,,,46.7,point,FALSE,America/Indiana/Indianapolis,47872
+Dublin-IN,1840009495,Dublin,Dublin,IN,Dublin-IN,Indiana,18177,Wayne,39.8127,-85.2055,761,761,569,polygon,TRUE,America/Indiana/Indianapolis,47335 47327
+Lexington-IN,1840029969,Lexington,Lexington,IN,Lexington-IN,Indiana,18143,Scott,38.6523,-85.6252,,,159.7,point,FALSE,America/Indiana/Indianapolis,47138
+Eaton-IN,1840010459,Eaton,Eaton,IN,Eaton-IN,Indiana,18035,Delaware,40.322,-85.359,1737,1737,181,polygon,TRUE,America/Indiana/Indianapolis,47338
+Noblesville-IN,1840013891,Noblesville,Noblesville,IN,Noblesville-IN,Indiana,18057,Hamilton,40.0354,-86.0056,60183,60183,726,polygon,TRUE,America/Indiana/Indianapolis,46060 46062 46061
+New Albany-IN,1840008662,New Albany,New Albany,IN,New Albany-IN,Indiana,18043,Floyd,38.3078,-85.8242,36670,36670,947,polygon,TRUE,America/Kentucky/Louisville,47150 47151
+Point Isabel-IN,1840024294,Point Isabel,Point Isabel,IN,Point Isabel-IN,Indiana,18053,Grant,40.4207,-85.8218,,,15.3,polygon,FALSE,America/Indiana/Indianapolis,46928
+Country Squire Lakes-IN,1840030082,Country Squire Lakes,Country Squire Lakes,IN,Country Squire Lakes-IN,Indiana,18079,Jennings,39.038,-85.6849,,,807.5,polygon,FALSE,America/Indiana/Indianapolis,47265
+Sullivan-IN,1840009628,Sullivan,Sullivan,IN,Sullivan-IN,Indiana,18153,Sullivan,39.0973,-87.4074,4384,4124,848,polygon,TRUE,America/Indiana/Indianapolis,47882
+Fredericksburg-IN,1840010762,Fredericksburg,Fredericksburg,IN,Fredericksburg-IN,Indiana,18175,Washington,38.4352,-86.1969,,,20.7,polygon,FALSE,America/Kentucky/Louisville,47120
+Little York-IN,1840009792,Little York,Little York,IN,Little York-IN,Indiana,18175,Washington,38.6993,-85.9045,188,188,74,polygon,TRUE,America/Indiana/Indianapolis,47170
+Crumstown-IN,1840030078,Crumstown,Crumstown,IN,Crumstown-IN,Indiana,18141,St. Joseph,41.6242,-86.4081,,,52.1,point,FALSE,America/Indiana/Indianapolis,46554
+Bright-IN,1840005882,Bright,Bright,IN,Bright-IN,Indiana,18029,Dearborn,39.2254,-84.8613,,,308.3,polygon,FALSE,America/New_York,47025 47060
+Livonia-IN,1840009793,Livonia,Livonia,IN,Livonia-IN,Indiana,18175,Washington,38.5549,-86.2778,126,126,46,polygon,TRUE,America/Indiana/Indianapolis,47108
+Camden-IN,1840009407,Camden,Camden,IN,Camden-IN,Indiana,18015,Carroll,40.6099,-86.539,604,604,893,polygon,TRUE,America/Indiana/Indianapolis,46917
+Darlington-IN,1840009460,Darlington,Darlington,IN,Darlington-IN,Indiana,18107,Montgomery,40.1073,-86.7765,842,842,979,polygon,TRUE,America/Indiana/Indianapolis,47940 47933
+Huron-IN,1840030070,Huron,Huron,IN,Huron-IN,Indiana,18093,Lawrence,38.7223,-86.6706,,,177.6,point,FALSE,America/Indiana/Indianapolis,47437
+Shelbyville-IN,1840009561,Shelbyville,Shelbyville,IN,Shelbyville-IN,Indiana,18145,Shelby,39.5319,-85.7753,20639,19048,636,polygon,TRUE,America/Indiana/Indianapolis,46176
+Clifford-IN,1840009617,Clifford,Clifford,IN,Clifford-IN,Indiana,18005,Bartholomew,39.2827,-85.8691,235,235,1026,polygon,TRUE,America/Indiana/Indianapolis,47226
+Rochester-IN,1840009329,Rochester,Rochester,IN,Rochester-IN,Indiana,18049,Fulton,41.0591,-86.196,7077,6021,495,polygon,TRUE,America/Indiana/Indianapolis,46975
+Letts-IN,1840029967,Letts,Letts,IN,Letts-IN,Indiana,18031,Decatur,39.2351,-85.565,,,46.5,point,FALSE,America/Indiana/Indianapolis,47240
+Yorktown-IN,1840010463,Yorktown,Yorktown,IN,Yorktown-IN,Indiana,18035,Delaware,40.183,-85.5123,11210,11210,135,polygon,TRUE,America/Indiana/Indianapolis,47334 47396 47304
+Crawfordsville-IN,1840007261,Crawfordsville,Crawfordsville,IN,Crawfordsville-IN,Indiana,18107,Montgomery,40.0433,-86.8966,18109,16001,675,polygon,TRUE,America/Indiana/Indianapolis,47933
+Shoals-IN,1840010732,Shoals,Shoals,IN,Shoals-IN,Indiana,18101,Martin,38.6668,-86.7939,779,779,167,polygon,TRUE,America/Indiana/Vincennes,47581
+Newville-IN,1840029996,Newville,Newville,IN,Newville-IN,Indiana,18033,DeKalb,41.3487,-84.845,,,87,point,FALSE,America/Indiana/Indianapolis,46721
+Collegeville-IN,1840005148,Collegeville,Collegeville,IN,Collegeville-IN,Indiana,18073,Jasper,40.9059,-87.1612,,,165.4,polygon,FALSE,America/Chicago,47978
+Hudson Lake-IN,1840026259,Hudson Lake,Hudson Lake,IN,Hudson Lake-IN,Indiana,18091,LaPorte,41.7174,-86.5476,,,505.4,polygon,FALSE,America/Chicago,46552
+Anderson-IN,1840007242,Anderson,Anderson,IN,Anderson-IN,Indiana,18095,Madison,40.0875,-85.6921,86565,55130,499,polygon,TRUE,America/Indiana/Indianapolis,46016 46011 46012 46013 46014 46015 46018
+Foster-IN,1840029942,Foster,Foster,IN,Foster-IN,Indiana,18171,Warren,40.1467,-87.4714,,,37.4,point,FALSE,America/Indiana/Indianapolis,47932
+Gifford-IN,1840029945,Gifford,Gifford,IN,Gifford-IN,Indiana,18073,Jasper,41.0709,-87.0525,,,10.6,point,FALSE,America/Chicago,47978
+Shelburn-IN,1840010684,Shelburn,Shelburn,IN,Shelburn-IN,Indiana,18153,Sullivan,39.179,-87.3971,1216,1216,684,polygon,TRUE,America/Indiana/Indianapolis,47879
+Butler-IN,1840007099,Butler,Butler,IN,Butler-IN,Indiana,18033,DeKalb,41.4274,-84.8721,2670,2703,518,polygon,TRUE,America/Indiana/Indianapolis,46721
+Winslow-IN,1840010793,Winslow,Winslow,IN,Winslow-IN,Indiana,18125,Pike,38.3827,-87.2129,840,840,511,polygon,TRUE,America/Indiana/Petersburg,47598
+Evansville-IN,1840013730,Evansville,Evansville,IN,Evansville-IN,Indiana,18163,Vanderburgh,37.9882,-87.5339,233353,119477,974,polygon,TRUE,America/Chicago,47708 47714 47715 47710 47711 47713 47701 47702 47703 47704 47705 47706 47716 47719 47721 47722 47724 47728 47730 47731 47732 47733 47734 47735 47736 47737 47740 47747 47750
+Linden-IN,1840009462,Linden,Linden,IN,Linden-IN,Indiana,18107,Montgomery,40.189,-86.9028,753,753,695,polygon,TRUE,America/Indiana/Indianapolis,47955
+Cloverdale-IN,1840009544,Cloverdale,Cloverdale,IN,Cloverdale-IN,Indiana,18133,Putnam,39.5211,-86.7995,2088,2088,233,polygon,TRUE,America/Indiana/Indianapolis,46120
+Taylorsville-IN,1840005823,Taylorsville,Taylorsville,IN,Taylorsville-IN,Indiana,18005,Bartholomew,39.2964,-85.9503,,,593.2,polygon,FALSE,America/Indiana/Indianapolis,47280
+Aurora-IN,1840013709,Aurora,Aurora,IN,Aurora-IN,Indiana,18029,Dearborn,39.0653,-84.905,3689,3689,515,polygon,TRUE,America/New_York,47001
+Loogootee-IN,1840009734,Loogootee,Loogootee,IN,Loogootee-IN,Indiana,18101,Martin,38.6759,-86.9143,2926,2708,667,polygon,TRUE,America/Indiana/Vincennes,47553
+Cambria-IN,1840029922,Cambria,Cambria,IN,Cambria-IN,Indiana,18023,Clinton,40.3659,-86.5592,,,29.8,point,FALSE,America/Indiana/Indianapolis,46041
+Kingsbury-IN,1840010200,Kingsbury,Kingsbury,IN,Kingsbury-IN,Indiana,18091,LaPorte,41.5303,-86.6974,243,243,163,polygon,TRUE,America/Chicago,46345 46350
+Saint John-IN,1840010221,Saint John,Saint John,IN,Saint John-IN,Indiana,18089,Lake,41.4431,-87.469,16800,16800,541,polygon,TRUE,America/Chicago,46373 46311 46307
+Central-IN,1840029928,Central,Central,IN,Central-IN,Indiana,18061,Harrison,38.0998,-86.1586,,,63.4,point,FALSE,America/Kentucky/Louisville,47112
+Clay City-IN,1840009674,Clay City,Clay City,IN,Clay City-IN,Indiana,18021,Clay,39.2769,-87.1126,835,835,596,polygon,TRUE,America/Indiana/Indianapolis,47841
+Cadiz-IN,1840009479,Cadiz,Cadiz,IN,Cadiz-IN,Indiana,18065,Henry,39.9511,-85.487,143,143,382,polygon,TRUE,America/Indiana/Indianapolis,47362
+Spencerville-IN,1840030025,Spencerville,Spencerville,IN,Spencerville-IN,Indiana,18033,DeKalb,41.2831,-84.9219,,,115.8,point,FALSE,America/Indiana/Indianapolis,46788
+Sharpsville-IN,1840010449,Sharpsville,Sharpsville,IN,Sharpsville-IN,Indiana,18159,Tipton,40.3795,-86.0868,575,575,927,polygon,TRUE,America/Indiana/Indianapolis,46068
+Nappanee-IN,1840008189,Nappanee,Nappanee,IN,Nappanee-IN,Indiana,18039,Elkhart,41.4452,-85.9962,7074,6780,621,polygon,TRUE,America/Indiana/Indianapolis,46550
+Judson-IN,1840029959,Judson,Judson,IN,Judson-IN,Indiana,18121,Parke,39.8131,-87.1345,,,66.5,point,FALSE,America/Indiana/Indianapolis,47872
+Dana-IN,1840009471,Dana,Dana,IN,Dana-IN,Indiana,18165,Vermillion,39.8072,-87.4945,578,578,764,polygon,TRUE,America/Indiana/Indianapolis,47847
+Sellersburg-IN,1840010786,Sellersburg,Sellersburg,IN,Sellersburg-IN,Indiana,18019,Clark,38.4029,-85.7705,8765,8765,463,polygon,TRUE,America/Kentucky/Louisville,47172
+Dune Acres-IN,1840009268,Dune Acres,Dune Acres,IN,Dune Acres-IN,Indiana,18127,Porter,41.6447,-87.0964,185,185,32,polygon,TRUE,America/Chicago,46304
+Bridgeton-IN,1840029916,Bridgeton,Bridgeton,IN,Bridgeton-IN,Indiana,18121,Parke,39.645,-87.1775,,,106.1,point,FALSE,America/Indiana/Indianapolis,47836
+Metz-IN,1840029987,Metz,Metz,IN,Metz-IN,Indiana,18151,Steuben,41.6162,-84.8394,,,73,point,FALSE,America/Indiana/Indianapolis,46703
+Gentryville-IN,1840010827,Gentryville,Gentryville,IN,Gentryville-IN,Indiana,18147,Spencer,38.1091,-87.0316,268,268,262,polygon,TRUE,America/Chicago,47537
+Knightstown-IN,1840009480,Knightstown,Knightstown,IN,Knightstown-IN,Indiana,18065,Henry,39.796,-85.5312,2828,2112,790,polygon,TRUE,America/Indiana/Indianapolis,46148
+Speedway-IN,1840010574,Speedway,Speedway,IN,Speedway-IN,Indiana,18097,Marion,39.7937,-86.2479,12102,12102,983,polygon,TRUE,America/Indiana/Indianapolis,46224 46222
+Manilla-IN,1840026615,Manilla,Manilla,IN,Manilla-IN,Indiana,18139,Rush,39.5727,-85.622,,,319.6,polygon,FALSE,America/Indiana/Indianapolis,46150
+Iona-IN,1840029958,Iona,Iona,IN,Iona-IN,Indiana,18083,Knox,38.5487,-87.4717,,,12.3,point,FALSE,America/Indiana/Vincennes,47591
+Grabill-IN,1840010296,Grabill,Grabill,IN,Grabill-IN,Indiana,18003,Allen,41.2099,-84.968,1106,1106,663,polygon,TRUE,America/Indiana/Indianapolis,46741
+Logansport-IN,1840013861,Logansport,Logansport,IN,Logansport-IN,Indiana,18017,Cass,40.7502,-86.3559,20838,17780,784,polygon,TRUE,America/Indiana/Indianapolis,46947
+Burns Harbor-IN,1840009266,Burns Harbor,Burns Harbor,IN,Burns Harbor-IN,Indiana,18127,Porter,41.6197,-87.1256,1643,1643,95,polygon,TRUE,America/Chicago,46304
+Hymera-IN,1840010683,Hymera,Hymera,IN,Hymera-IN,Indiana,18153,Sullivan,39.1859,-87.2989,768,768,416,polygon,TRUE,America/Indiana/Indianapolis,47879 47855
+Aberdeen-IN,1840030083,Aberdeen,Aberdeen,IN,Aberdeen-IN,Indiana,18127,Porter,41.4418,-87.1166,,,688.2,polygon,FALSE,America/Chicago,46385
+Inglefield-IN,1840029957,Inglefield,Inglefield,IN,Inglefield-IN,Indiana,18163,Vanderburgh,38.1081,-87.5589,,,109.9,point,FALSE,America/Chicago,47725
+Pleasant View-IN,1840030003,Pleasant View,Pleasant View,IN,Pleasant View-IN,Indiana,18145,Shelby,39.6634,-85.9416,,,353,point,FALSE,America/Indiana/Indianapolis,46126
+Carlisle-IN,1840009629,Carlisle,Carlisle,IN,Carlisle-IN,Indiana,18153,Sullivan,38.9608,-87.4015,671,671,499,polygon,TRUE,America/Indiana/Indianapolis,47838
+Sunman-IN,1840010675,Sunman,Sunman,IN,Sunman-IN,Indiana,18137,Ripley,39.2373,-85.0931,1044,1044,344,polygon,TRUE,America/Indiana/Indianapolis,47041
+Toad Hop-IN,1840030030,Toad Hop,Toad Hop,IN,Toad Hop-IN,Indiana,18167,Vigo,39.457,-87.464,,,193.7,polygon,FALSE,America/Indiana/Indianapolis,47885
+Princeton-IN,1840009801,Princeton,Princeton,IN,Princeton-IN,Indiana,18051,Gibson,38.3552,-87.5785,8632,8632,659,polygon,TRUE,America/Chicago,47670
+Crothersville-IN,1840009710,Crothersville,Crothersville,IN,Crothersville-IN,Indiana,18071,Jackson,38.7946,-85.8397,1585,1585,535,polygon,TRUE,America/Indiana/Indianapolis,47229
+Homecroft-IN,1840029952,Homecroft,Homecroft,IN,Homecroft-IN,Indiana,18097,Marion,39.6696,-86.1312,745,745,1190,polygon,TRUE,America/Indiana/Indianapolis,46227
+Rockdale-IN,1840030009,Rockdale,Rockdale,IN,Rockdale-IN,Indiana,18047,Franklin,39.317,-84.8469,,,57.5,point,FALSE,America/Indiana/Indianapolis,47060
+Fairbanks-IN,1840029941,Fairbanks,Fairbanks,IN,Fairbanks-IN,Indiana,18153,Sullivan,39.2195,-87.5222,,,110,point,FALSE,America/Indiana/Indianapolis,47849
+Haubstadt-IN,1840010798,Haubstadt,Haubstadt,IN,Haubstadt-IN,Indiana,18051,Gibson,38.2038,-87.5753,1685,1685,901,polygon,TRUE,America/Chicago,47639
+Ligonier-IN,1840009278,Ligonier,Ligonier,IN,Ligonier-IN,Indiana,18113,Noble,41.465,-85.5945,4803,4419,738,polygon,TRUE,America/Indiana/Indianapolis,46767
+Hazleton-IN,1840010799,Hazleton,Hazleton,IN,Hazleton-IN,Indiana,18051,Gibson,38.4893,-87.5406,254,254,294,polygon,TRUE,America/Indiana/Vincennes,47640
+Granger-IN,1840030079,Granger,Granger,IN,Granger-IN,Indiana,18141,St. Joseph,41.7372,-86.1352,,,125.1,polygon,FALSE,America/Detroit,46635 46545 46530
+Kasson-IN,1840029961,Kasson,Kasson,IN,Kasson-IN,Indiana,18163,Vanderburgh,38.017,-87.6361,,,146.3,point,FALSE,America/Chicago,47720
+New Carlisle-IN,1840009243,New Carlisle,New Carlisle,IN,New Carlisle-IN,Indiana,18141,St. Joseph,41.7018,-86.4917,3670,1865,345,polygon,TRUE,America/Indiana/Indianapolis,46552
+Riley-IN,1840010620,Riley,Riley,IN,Riley-IN,Indiana,18167,Vigo,39.3897,-87.3002,218,218,939,polygon,TRUE,America/Indiana/Indianapolis,47871
+Stilesville-IN,1840010581,Stilesville,Stilesville,IN,Stilesville-IN,Indiana,18063,Hendricks,39.6373,-86.6343,330,330,341,polygon,TRUE,America/Indiana/Indianapolis,46180
+Winona Lake-IN,1840010281,Winona Lake,Winona Lake,IN,Winona Lake-IN,Indiana,18085,Kosciusko,41.2167,-85.8106,5166,5166,721,polygon,TRUE,America/Indiana/Indianapolis,46580 46590
+Macy-IN,1840009367,Macy,Macy,IN,Macy-IN,Indiana,18103,Miami,40.9582,-86.1296,206,206,592,polygon,TRUE,America/Indiana/Indianapolis,46951
+Sardinia-IN,1840030016,Sardinia,Sardinia,IN,Sardinia-IN,Indiana,18031,Decatur,39.1539,-85.6311,,,88.8,point,FALSE,America/Indiana/Indianapolis,47283
+Brooklyn-IN,1840009666,Brooklyn,Brooklyn,IN,Brooklyn-IN,Indiana,18109,Morgan,39.5435,-86.3675,1607,1607,926,polygon,TRUE,America/Indiana/Indianapolis,46158 46111
+Fulton-IN,1840010307,Fulton,Fulton,IN,Fulton-IN,Indiana,18049,Fulton,40.9462,-86.2643,324,324,704,polygon,TRUE,America/Indiana/Indianapolis,46975 46931
+Portage-IN,1840009264,Portage,Portage,IN,Portage-IN,Indiana,18127,Porter,41.5866,-87.1792,36505,36505,552,polygon,TRUE,America/Chicago,46368
+Enos Corner-IN,1840029940,Enos Corner,Enos Corner,IN,Enos Corner-IN,Indiana,18125,Pike,38.2892,-87.2611,,,29.9,point,FALSE,America/Indiana/Petersburg,47660
+Remington-IN,1840010292,Remington,Remington,IN,Remington-IN,Indiana,18073,Jasper,40.7653,-87.1524,1185,1185,449,polygon,TRUE,America/Indiana/Indianapolis,47977
+Flora-IN,1840010381,Flora,Flora,IN,Flora-IN,Indiana,18015,Carroll,40.5452,-86.5242,1988,1988,725,polygon,TRUE,America/Indiana/Indianapolis,46929 46913
+Adams-IN,1840029904,Adams,Adams,IN,Adams-IN,Indiana,18031,Decatur,39.3825,-85.56,,,190.7,point,FALSE,America/Indiana/Indianapolis,47240
+Montezuma-IN,1840009524,Montezuma,Montezuma,IN,Montezuma-IN,Indiana,18121,Parke,39.7911,-87.3694,992,992,631,polygon,TRUE,America/Indiana/Indianapolis,47862
+Saint Paul-IN,1840010657,Saint Paul,Saint Paul,IN,Saint Paul-IN,Indiana,18031,Decatur,39.428,-85.6288,1050,1050,1298,polygon,TRUE,America/Indiana/Indianapolis,47272
+Clermont-IN,1840009530,Clermont,Clermont,IN,Clermont-IN,Indiana,18097,Marion,39.8167,-86.3207,1409,1409,810,polygon,TRUE,America/Indiana/Indianapolis,46234
+Farmersburg-IN,1840010682,Farmersburg,Farmersburg,IN,Farmersburg-IN,Indiana,18153,Sullivan,39.2526,-87.3807,1088,1088,565,polygon,TRUE,America/Indiana/Indianapolis,47850
+Bethany-IN,1840009571,Bethany,Bethany,IN,Bethany-IN,Indiana,18109,Morgan,39.5337,-86.3778,81,81,373,polygon,TRUE,America/Indiana/Indianapolis,46151
+Delong-IN,1840029933,Delong,Delong,IN,Delong-IN,Indiana,18049,Fulton,41.1384,-86.4164,,,92.8,point,FALSE,America/Indiana/Indianapolis,46922
+Lovett-IN,1840029978,Lovett,Lovett,IN,Lovett-IN,Indiana,18079,Jennings,38.9114,-85.633,,,14.8,point,FALSE,America/Indiana/Indianapolis,47265
+Straughn-IN,1840010535,Straughn,Straughn,IN,Straughn-IN,Indiana,18065,Henry,39.8083,-85.2907,217,217,597,polygon,TRUE,America/Indiana/Indianapolis,47387
+Goodland-IN,1840010305,Goodland,Goodland,IN,Goodland-IN,Indiana,18111,Newton,40.7637,-87.2952,1004,1004,509,polygon,TRUE,America/Indiana/Indianapolis,47948
+Darmstadt-IN,1840009767,Darmstadt,Darmstadt,IN,Darmstadt-IN,Indiana,18163,Vanderburgh,38.0938,-87.5793,1466,1466,125,polygon,TRUE,America/Chicago,47725 47618
+Fillmore-IN,1840010596,Fillmore,Fillmore,IN,Fillmore-IN,Indiana,18133,Putnam,39.6697,-86.7532,526,526,104,polygon,TRUE,America/Indiana/Indianapolis,46128
+Deputy-IN,1840025648,Deputy,Deputy,IN,Deputy-IN,Indiana,18077,Jefferson,38.7952,-85.6528,,,110.2,polygon,FALSE,America/Indiana/Indianapolis,47230
+Marshall-IN,1840009522,Marshall,Marshall,IN,Marshall-IN,Indiana,18121,Parke,39.8475,-87.1868,319,319,481,polygon,TRUE,America/Indiana/Indianapolis,47859
+Greentown-IN,1840010429,Greentown,Greentown,IN,Greentown-IN,Indiana,18067,Howard,40.4765,-85.9624,3166,2375,671,polygon,TRUE,America/Indiana/Indianapolis,46936
+Saint Peter-IN,1840030015,Saint Peter,Saint Peter,IN,Saint Peter-IN,Indiana,18047,Franklin,39.3217,-85.0316,,,26.6,point,FALSE,America/Indiana/Indianapolis,47012
+Canaan-IN,1840025647,Canaan,Canaan,IN,Canaan-IN,Indiana,18077,Jefferson,38.8661,-85.2995,,,53.5,polygon,FALSE,America/Indiana/Indianapolis,47250
+Paris Crossing-IN,1840029999,Paris Crossing,Paris Crossing,IN,Paris Crossing-IN,Indiana,18079,Jennings,38.8295,-85.648,,,97.4,point,FALSE,America/Indiana/Indianapolis,47227
+Westville-IN,1840010203,Westville,Westville,IN,Westville-IN,Indiana,18091,LaPorte,41.5381,-86.9054,5650,5577,697,polygon,TRUE,America/Chicago,46391
+Salem-IN,1840009790,Salem,Salem,IN,Salem-IN,Indiana,18175,Washington,38.6048,-86.0977,6396,6176,596,polygon,TRUE,America/Indiana/Indianapolis,47167
+Saint Joseph-IN,1840030013,Saint Joseph,Saint Joseph,IN,Saint Joseph-IN,Indiana,18043,Floyd,38.4001,-85.8083,,,94.1,point,FALSE,America/Kentucky/Louisville,47172
+Waldron-IN,1840026630,Waldron,Waldron,IN,Waldron-IN,Indiana,18145,Shelby,39.4535,-85.6632,,,434.9,polygon,FALSE,America/Indiana/Indianapolis,46182
+Young America-IN,1840030048,Young America,Young America,IN,Young America-IN,Indiana,18017,Cass,40.5686,-86.3467,,,158.4,point,FALSE,America/Indiana/Indianapolis,46998
+Rockfield-IN,1840030010,Rockfield,Rockfield,IN,Rockfield-IN,Indiana,18015,Carroll,40.6411,-86.5739,,,140,point,FALSE,America/Indiana/Indianapolis,46923
+Laurel-IN,1840009596,Laurel,Laurel,IN,Laurel-IN,Indiana,18047,Franklin,39.502,-85.188,500,500,800,polygon,TRUE,America/Indiana/Indianapolis,47024
+Eminence-IN,1840029938,Eminence,Eminence,IN,Eminence-IN,Indiana,18109,Morgan,39.5214,-86.6414,,,78.1,point,FALSE,America/Indiana/Indianapolis,46125
+Leesburg-IN,1840009305,Leesburg,Leesburg,IN,Leesburg-IN,Indiana,18085,Kosciusko,41.3307,-85.8489,560,560,830,polygon,TRUE,America/Indiana/Indianapolis,46538
+Somerville-IN,1840010800,Somerville,Somerville,IN,Somerville-IN,Indiana,18051,Gibson,38.2783,-87.3774,288,288,379,polygon,TRUE,America/Chicago,47683 47660
+Palmyra-IN,1840009827,Palmyra,Palmyra,IN,Palmyra-IN,Indiana,18061,Harrison,38.4081,-86.1086,941,941,293,polygon,TRUE,America/Kentucky/Louisville,47164
+Ulen-IN,1840010513,Ulen,Ulen,IN,Ulen-IN,Indiana,18011,Boone,40.0662,-86.4652,125,125,212,polygon,TRUE,America/Indiana/Indianapolis,46052
+Grass Creek-IN,1840029946,Grass Creek,Grass Creek,IN,Grass Creek-IN,Indiana,18049,Fulton,40.9475,-86.4044,,,27.3,point,FALSE,America/Indiana/Indianapolis,46939
+Graysville-IN,1840029947,Graysville,Graysville,IN,Graysville-IN,Indiana,18153,Sullivan,39.1175,-87.5561,,,21.9,point,FALSE,America/Indiana/Indianapolis,47882
+Cannelburg-IN,1840009736,Cannelburg,Cannelburg,IN,Cannelburg-IN,Indiana,18027,Daviess,38.6679,-86.9974,156,156,307,polygon,TRUE,America/Indiana/Vincennes,47519
+Springport-IN,1840010534,Springport,Springport,IN,Springport-IN,Indiana,18065,Henry,40.0472,-85.3925,142,142,455,polygon,TRUE,America/Indiana/Indianapolis,47386
+Cumberland-IN,1840009532,Cumberland,Cumberland,IN,Cumberland-IN,Indiana,18097,Marion,39.7852,-85.9498,5599,5599,908,polygon,TRUE,America/Indiana/Indianapolis,46229 46140
+Hartford City-IN,1840007231,Hartford City,Hartford City,IN,Hartford City-IN,Indiana,18009,Blackford,40.4536,-85.3735,5862,5920,589,polygon,TRUE,America/Indiana/Indianapolis,47348
+Earl Park-IN,1840010378,Earl Park,Earl Park,IN,Earl Park-IN,Indiana,18007,Benton,40.6855,-87.4199,331,331,135,polygon,TRUE,America/Indiana/Indianapolis,47942
+Celestine-IN,1840029927,Celestine,Celestine,IN,Celestine-IN,Indiana,18037,Dubois,38.3848,-86.7792,,,253.2,point,FALSE,America/Indiana/Vincennes,47521
+Clarksburg-IN,1840025617,Clarksburg,Clarksburg,IN,Clarksburg-IN,Indiana,18031,Decatur,39.4353,-85.3472,,,86.2,polygon,FALSE,America/Indiana/Indianapolis,46173
+North Judson-IN,1840009310,North Judson,North Judson,IN,North Judson-IN,Indiana,18149,Starke,41.2161,-86.7769,1739,1739,607,polygon,TRUE,America/Indiana/Knox,46366
+Sparksville-IN,1840030024,Sparksville,Sparksville,IN,Sparksville-IN,Indiana,18071,Jackson,38.7778,-86.2372,,,42.4,point,FALSE,America/Indiana/Indianapolis,47260
+Mount Carmel-IN,1840009597,Mount Carmel,Mount Carmel,IN,Mount Carmel-IN,Indiana,18047,Franklin,39.4076,-84.8756,84,84,714,polygon,TRUE,America/Indiana/Indianapolis,47012 47016
+Roann-IN,1840010334,Roann,Roann,IN,Roann-IN,Indiana,18169,Wabash,40.9112,-85.9245,465,465,789,polygon,TRUE,America/Indiana/Indianapolis,46974
+Chandler-IN,1840009835,Chandler,Chandler,IN,Chandler-IN,Indiana,18173,Warrick,38.0368,-87.3747,3396,3396,483,polygon,TRUE,America/Chicago,47610
+Hope-IN,1840010669,Hope,Hope,IN,Hope-IN,Indiana,18005,Bartholomew,39.2993,-85.766,2158,2158,877,polygon,TRUE,America/Indiana/Indianapolis,47246
+Georgetown-IN,1840010813,Georgetown,Georgetown,IN,Georgetown-IN,Indiana,18043,Floyd,38.2958,-85.9628,3222,3222,607,polygon,TRUE,America/Kentucky/Louisville,47122
+Grandview-IN,1840010828,Grandview,Grandview,IN,Grandview-IN,Indiana,18147,Spencer,37.9369,-86.9842,723,723,291,polygon,TRUE,America/Chicago,47615
+Mount Auburn-IN,1840009497,Mount Auburn,Mount Auburn,IN,Mount Auburn-IN,Indiana,18177,Wayne,39.8123,-85.1905,106,106,215,polygon,TRUE,America/Indiana/Indianapolis,47327
+Mishawaka-IN,1840014695,Mishawaka,Mishawaka,IN,Mishawaka-IN,Indiana,18141,St. Joseph,41.6733,-86.1667,48679,48679,1061,polygon,TRUE,America/Indiana/Indianapolis,46544 46545 46546
+Staunton-IN,1840010624,Staunton,Staunton,IN,Staunton-IN,Indiana,18021,Clay,39.4864,-87.1888,513,513,572,polygon,TRUE,America/Indiana/Indianapolis,47881 47834
+Wolflake-IN,1840030065,Wolflake,Wolflake,IN,Wolflake-IN,Indiana,18113,Noble,41.335,-85.4958,,,181.1,point,FALSE,America/Indiana/Indianapolis,46701
+Culver-IN,1840009301,Culver,Culver,IN,Culver-IN,Indiana,18099,Marshall,41.2157,-86.4234,1412,1412,531,polygon,TRUE,America/Indiana/Indianapolis,46511
+Nashville-IN,1840013887,Nashville,Nashville,IN,Nashville-IN,Indiana,18013,Brown,39.2081,-86.2383,1067,1067,292,polygon,TRUE,America/Indiana/Indianapolis,47448
+Van Buren-IN,1840010399,Van Buren,Van Buren,IN,Van Buren-IN,Indiana,18053,Grant,40.6157,-85.5039,822,822,543,polygon,TRUE,America/Indiana/Indianapolis,46991
+New Lisbon-IN,1840029994,New Lisbon,New Lisbon,IN,New Lisbon-IN,Indiana,18065,Henry,39.8634,-85.263,,,107.9,point,FALSE,America/Indiana/Indianapolis,47387
+Berne-IN,1840007176,Berne,Berne,IN,Berne-IN,Indiana,18001,Adams,40.6567,-84.9555,5631,4102,762,polygon,TRUE,America/Indiana/Indianapolis,46711
+Wolcottville-IN,1840010254,Wolcottville,Wolcottville,IN,Wolcottville-IN,Indiana,18113,Noble,41.5256,-85.3667,1015,1015,385,polygon,TRUE,America/Indiana/Indianapolis,46795
+Selvin-IN,1840030019,Selvin,Selvin,IN,Selvin-IN,Indiana,18173,Warrick,38.2042,-87.1061,,,50.6,point,FALSE,America/Chicago,47523
+Country Club Heights-IN,1840009438,Country Club Heights,Country Club Heights,IN,Country Club Heights-IN,Indiana,18095,Madison,40.1242,-85.6877,78,78,106,polygon,TRUE,America/Indiana/Indianapolis,46011
+Grovertown-IN,1840030056,Grovertown,Grovertown,IN,Grovertown-IN,Indiana,18149,Starke,41.375,-86.5047,,,54.2,point,FALSE,America/Indiana/Knox,46531
+Pottawattamie Park-IN,1840010198,Pottawattamie Park,Pottawattamie Park,IN,Pottawattamie Park-IN,Indiana,18091,LaPorte,41.7234,-86.8672,231,231,363,polygon,TRUE,America/Chicago,46360
+Oxford-IN,1840014073,Oxford,Oxford,IN,Oxford-IN,Indiana,18007,Benton,40.5222,-87.2484,1137,1137,811,polygon,TRUE,America/Indiana/Indianapolis,47971
+Otwell-IN,1840026740,Otwell,Otwell,IN,Otwell-IN,Indiana,18125,Pike,38.4566,-87.0959,,,314.5,polygon,FALSE,America/Indiana/Vincennes,47564
+Otisco-IN,1840029998,Otisco,Otisco,IN,Otisco-IN,Indiana,18019,Clark,38.5423,-85.6672,,,82,point,FALSE,America/Kentucky/Louisville,47163
+Tipton-IN,1840010448,Tipton,Tipton,IN,Tipton-IN,Indiana,18159,Tipton,40.2818,-86.0424,6555,5132,700,polygon,TRUE,America/Indiana/Indianapolis,46072
+Owensville-IN,1840009803,Owensville,Owensville,IN,Owensville-IN,Indiana,18051,Gibson,38.2716,-87.6921,1278,1278,907,polygon,TRUE,America/Chicago,47665
+Decker-IN,1840009731,Decker,Decker,IN,Decker-IN,Indiana,18083,Knox,38.5184,-87.524,245,245,523,polygon,TRUE,America/Indiana/Vincennes,47524
+Coe-IN,1840030049,Coe,Coe,IN,Coe-IN,Indiana,18125,Pike,38.3064,-87.2581,,,10.3,point,FALSE,America/Indiana/Petersburg,47660
+Bristol-IN,1840009238,Bristol,Bristol,IN,Bristol-IN,Indiana,18039,Elkhart,41.718,-85.8234,1672,1672,163,polygon,TRUE,America/Indiana/Indianapolis,46507
+Glendale-IN,1840030077,Glendale,Glendale,IN,Glendale-IN,Indiana,18027,Daviess,38.5681,-87.0772,,,14.2,point,FALSE,America/Indiana/Vincennes,47558
+Kirklin-IN,1840009432,Kirklin,Kirklin,IN,Kirklin-IN,Indiana,18023,Clinton,40.1933,-86.359,784,784,886,polygon,TRUE,America/Indiana/Indianapolis,46050
+Mitchell-IN,1840008567,Mitchell,Mitchell,IN,Mitchell-IN,Indiana,18093,Lawrence,38.7364,-86.4746,4090,4244,500,polygon,TRUE,America/Indiana/Indianapolis,47446
+Landess-IN,1840024292,Landess,Landess,IN,Landess-IN,Indiana,18053,Grant,40.6126,-85.5592,,,68.1,polygon,FALSE,America/Indiana/Indianapolis,46991
+La Paz-IN,1840009302,La Paz,La Paz,IN,La Paz-IN,Indiana,18099,Marshall,41.456,-86.3083,551,551,554,polygon,TRUE,America/Indiana/Indianapolis,46563 46537
+Idaville-IN,1840024253,Idaville,Idaville,IN,Idaville-IN,Indiana,18181,White,40.7588,-86.6505,,,184.1,polygon,FALSE,America/Indiana/Indianapolis,47950
+Lakes of the Four Seasons-IN,1840004833,Lakes of the Four Seasons,Lakes of the Four Seasons,IN,Lakes of the Four Seasons-IN,Indiana,18127,Porter,41.4074,-87.2203,,,1278.8,polygon,FALSE,America/Chicago,46307
+Mount Etna-IN,1840009362,Mount Etna,Mount Etna,IN,Mount Etna-IN,Indiana,18069,Huntington,40.7405,-85.5612,103,103,335,polygon,TRUE,America/Indiana/Indianapolis,46792 46750
+Whiting-IN,1840010227,Whiting,Whiting,IN,Whiting-IN,Indiana,18089,Lake,41.6731,-87.4843,4831,4831,1037,polygon,TRUE,America/Chicago,46394
+Burns City-IN,1840024608,Burns City,Burns City,IN,Burns City-IN,Indiana,18101,Martin,38.8203,-86.8926,,,81.8,polygon,FALSE,America/Indiana/Vincennes,47553
+Poneto-IN,1840010356,Poneto,Poneto,IN,Poneto-IN,Indiana,18179,Wells,40.6568,-85.2225,167,167,562,polygon,TRUE,America/Indiana/Indianapolis,46781
+Kennard-IN,1840010532,Kennard,Kennard,IN,Kennard-IN,Indiana,18065,Henry,39.9055,-85.5222,460,460,419,polygon,TRUE,America/Indiana/Indianapolis,47351
+New Trenton-IN,1840025607,New Trenton,New Trenton,IN,New Trenton-IN,Indiana,18047,Franklin,39.3088,-84.8968,,,327.4,polygon,FALSE,America/Indiana/Indianapolis,47035 47060
+Indian Heights-IN,1840005425,Indian Heights,Indian Heights,IN,Indian Heights-IN,Indiana,18067,Howard,40.4273,-86.1255,,,296.5,point,FALSE,America/Indiana/Indianapolis,46902
+Heltonville-IN,1840030069,Heltonville,Heltonville,IN,Heltonville-IN,Indiana,18093,Lawrence,38.9278,-86.3755,,,60.2,point,FALSE,America/Indiana/Indianapolis,47436
+Portland-IN,1840014175,Portland,Portland,IN,Portland-IN,Indiana,18075,Jay,40.4377,-84.9835,5946,6161,478,polygon,TRUE,America/Indiana/Indianapolis,47371
+Swayzee-IN,1840010396,Swayzee,Swayzee,IN,Swayzee-IN,Indiana,18053,Grant,40.5066,-85.8244,936,936,771,polygon,TRUE,America/Indiana/Indianapolis,46986
+Vincennes-IN,1840010730,Vincennes,Vincennes,IN,Vincennes-IN,Indiana,18083,Knox,38.6759,-87.5102,20726,17924,933,polygon,TRUE,America/Indiana/Vincennes,47591
+Rexville-IN,1840030007,Rexville,Rexville,IN,Rexville-IN,Indiana,18137,Ripley,38.9526,-85.3366,,,29.9,point,FALSE,America/Indiana/Indianapolis,47250
+Roanoke-IN,1840010340,Roanoke,Roanoke,IN,Roanoke-IN,Indiana,18069,Huntington,40.9639,-85.376,1691,1691,543,polygon,TRUE,America/Indiana/Indianapolis,46783
+Albany-IN,1840010461,Albany,Albany,IN,Albany-IN,Indiana,18035,Delaware,40.3061,-85.2324,2107,2107,464,polygon,TRUE,America/Indiana/Indianapolis,47320
+Griffin-IN,1840010823,Griffin,Griffin,IN,Griffin-IN,Indiana,18129,Posey,38.2039,-87.9149,166,166,937,polygon,TRUE,America/Chicago,47616
+Converse-IN,1840009365,Converse,Converse,IN,Converse-IN,Indiana,18103,Miami,40.577,-85.8779,1229,1229,528,polygon,TRUE,America/Indiana/Indianapolis,46919
+Tecumseh-IN,1840026642,Tecumseh,Tecumseh,IN,Tecumseh-IN,Indiana,18167,Vigo,39.5658,-87.4327,,,135.6,polygon,FALSE,America/Indiana/Indianapolis,47885
+Fountain City-IN,1840010544,Fountain City,Fountain City,IN,Fountain City-IN,Indiana,18177,Wayne,39.9549,-84.9192,772,772,1129,polygon,TRUE,America/Indiana/Indianapolis,47341
+Bremen-IN,1840009300,Bremen,Bremen,IN,Bremen-IN,Indiana,18099,Marshall,41.448,-86.1507,4625,4552,647,polygon,TRUE,America/Indiana/Indianapolis,46506
+North Vernon-IN,1840008549,North Vernon,North Vernon,IN,North Vernon-IN,Indiana,18079,Jennings,39.0151,-85.6287,11575,6859,400,polygon,TRUE,America/Indiana/Indianapolis,47265
+Hayden-IN,1840025626,Hayden,Hayden,IN,Hayden-IN,Indiana,18079,Jennings,38.9714,-85.739,,,183.6,polygon,FALSE,America/Indiana/Indianapolis,47265 47245
+Rocky Ripple-IN,1840010573,Rocky Ripple,Rocky Ripple,IN,Rocky Ripple-IN,Indiana,18097,Marion,39.8484,-86.1731,629,629,801,polygon,TRUE,America/Indiana/Indianapolis,46208
+Depauw-IN,1840029935,Depauw,Depauw,IN,Depauw-IN,Indiana,18061,Harrison,38.3351,-86.2175,,,111.7,point,FALSE,America/Kentucky/Louisville,47115
+Rising Sun-IN,1840014664,Rising Sun,Rising Sun,IN,Rising Sun-IN,Indiana,18115,Ohio,38.9533,-84.8543,2195,2195,580,polygon,TRUE,America/New_York,47040
+Bloomington-IN,1840007376,Bloomington,Bloomington,IN,Bloomington-IN,Indiana,18105,Monroe,39.1637,-86.5257,114140,84465,1402,polygon,TRUE,America/Indiana/Indianapolis,47408 47401 47403 47404 47405 47406 47402 47407
+Bourbon-IN,1840009299,Bourbon,Bourbon,IN,Bourbon-IN,Indiana,18099,Marshall,41.2977,-86.1175,1777,1777,691,polygon,TRUE,America/Indiana/Indianapolis,46504
+Mier-IN,1840024293,Mier,Mier,IN,Mier-IN,Indiana,18053,Grant,40.5748,-85.8233,,,43.4,polygon,FALSE,America/Indiana/Indianapolis,46919
+Fontanet-IN,1840024457,Fontanet,Fontanet,IN,Fontanet-IN,Indiana,18167,Vigo,39.5713,-87.2434,,,54.1,polygon,FALSE,America/Indiana/Indianapolis,47874 47805 47834 47851
+Porter-IN,1840010229,Porter,Porter,IN,Porter-IN,Indiana,18127,Porter,41.6257,-87.0801,4846,4846,301,polygon,TRUE,America/Chicago,46304
+Quincy-IN,1840030005,Quincy,Quincy,IN,Quincy-IN,Indiana,18119,Owen,39.4537,-86.7125,,,114.1,point,FALSE,America/Indiana/Indianapolis,47456
+Rossville-IN,1840010446,Rossville,Rossville,IN,Rossville-IN,Indiana,18023,Clinton,40.4199,-86.5955,1628,1628,1197,polygon,TRUE,America/Indiana/Indianapolis,46065
+Milford-IN,1840009307,Milford,Milford,IN,Milford-IN,Indiana,18085,Kosciusko,41.4142,-85.8446,1565,1565,416,polygon,TRUE,America/Indiana/Indianapolis,46542
+Sidney-IN,1840010278,Sidney,Sidney,IN,Sidney-IN,Indiana,18085,Kosciusko,41.1049,-85.7425,83,83,257,polygon,TRUE,America/Indiana/Indianapolis,46510 46562
+Amity-IN,1840029907,Amity,Amity,IN,Amity-IN,Indiana,18081,Johnson,39.4262,-86.0011,,,101.5,point,FALSE,America/Indiana/Indianapolis,46131
+Pendleton-IN,1840014100,Pendleton,Pendleton,IN,Pendleton-IN,Indiana,18095,Madison,40.0057,-85.765,4263,4263,147,polygon,TRUE,America/Indiana/Indianapolis,46064
+Trafalgar-IN,1840010617,Trafalgar,Trafalgar,IN,Trafalgar-IN,Indiana,18081,Johnson,39.4132,-86.1497,1182,1182,173,polygon,TRUE,America/Indiana/Indianapolis,46181
+Oaktown-IN,1840009733,Oaktown,Oaktown,IN,Oaktown-IN,Indiana,18083,Knox,38.8717,-87.4412,597,597,846,polygon,TRUE,America/Indiana/Vincennes,47561
+Crane-IN,1840009735,Crane,Crane,IN,Crane-IN,Indiana,18101,Martin,38.8945,-86.9012,182,182,598,polygon,TRUE,America/Indiana/Vincennes,47522
+Greenwood-IN,1840007332,Greenwood,Greenwood,IN,Greenwood-IN,Indiana,18081,Johnson,39.6019,-86.1073,56545,56545,782,polygon,TRUE,America/Indiana/Indianapolis,46184 46142 46143
+Yeddo-IN,1840030046,Yeddo,Yeddo,IN,Yeddo-IN,Indiana,18045,Fountain,40.0114,-87.26,,,46.2,point,FALSE,America/Indiana/Indianapolis,47952
+Saratoga-IN,1840010478,Saratoga,Saratoga,IN,Saratoga-IN,Indiana,18135,Randolph,40.2368,-84.9159,246,246,358,polygon,TRUE,America/Indiana/Indianapolis,47394 47382
+Alamo-IN,1840010501,Alamo,Alamo,IN,Alamo-IN,Indiana,18107,Montgomery,39.9835,-87.0554,65,65,372,polygon,TRUE,America/Indiana/Indianapolis,47916
+La Crosse-IN,1840009247,La Crosse,La Crosse,IN,La Crosse-IN,Indiana,18091,LaPorte,41.3177,-86.8898,531,531,386,polygon,TRUE,America/Chicago,46348
+Alexandria-IN,1840007241,Alexandria,Alexandria,IN,Alexandria-IN,Indiana,18095,Madison,40.2583,-85.676,5024,5024,738,polygon,TRUE,America/Indiana/Indianapolis,46001
+Lawrenceburg-IN,1840008523,Lawrenceburg,Lawrenceburg,IN,Lawrenceburg-IN,Indiana,18029,Dearborn,39.0989,-84.8713,12787,4968,364,polygon,TRUE,America/New_York,47025
+Washington-IN,1840010735,Washington,Washington,IN,Washington-IN,Indiana,18027,Daviess,38.6592,-87.1721,13090,12089,986,polygon,TRUE,America/Indiana/Vincennes,47501
+Saint Joe-IN,1840010247,Saint Joe,Saint Joe,IN,Saint Joe-IN,Indiana,18033,DeKalb,41.3149,-84.9029,464,464,655,polygon,TRUE,America/Indiana/Indianapolis,46785
+Dubois-IN,1840026741,Dubois,Dubois,IN,Dubois-IN,Indiana,18037,Dubois,38.4458,-86.7978,,,352.7,polygon,FALSE,America/Indiana/Vincennes,47527
+Shorewood Forest-IN,1840026274,Shorewood Forest,Shorewood Forest,IN,Shorewood Forest-IN,Indiana,18127,Porter,41.4598,-87.1497,,,679.1,polygon,FALSE,America/Chicago,46385
+Bloomfield-IN,1840009693,Bloomfield,Bloomfield,IN,Bloomfield-IN,Indiana,18055,Greene,39.0262,-86.9373,2434,2323,651,polygon,TRUE,America/Indiana/Indianapolis,47424
+Long Beach-IN,1840029976,Long Beach,Long Beach,IN,Long Beach-IN,Indiana,18091,LaPorte,41.7432,-86.8526,1161,1161,416,polygon,TRUE,America/Chicago,46360
+Troy-IN,1840010817,Troy,Troy,IN,Troy-IN,Indiana,18123,Perry,37.996,-86.8005,364,364,441,polygon,TRUE,America/Indiana/Tell_City,47588
+Lake Dalecarlia-IN,1840004832,Lake Dalecarlia,Lake Dalecarlia,IN,Lake Dalecarlia-IN,Indiana,18089,Lake,41.337,-87.4036,,,649,polygon,FALSE,America/Chicago,46356
+Jasper-IN,1840008646,Jasper,Jasper,IN,Jasper-IN,Indiana,18037,Dubois,38.3936,-86.9405,16245,15503,451,polygon,TRUE,America/Indiana/Vincennes,47546 47547 47549
+Lagrange-IN,1840013851,Lagrange,Lagrange,IN,Lagrange-IN,Indiana,18087,LaGrange,41.6489,-85.4178,3242,2734,619,polygon,TRUE,America/Indiana/Indianapolis,46761
+Howesville-IN,1840029954,Howesville,Howesville,IN,Howesville-IN,Indiana,18021,Clay,39.177,-87.147,,,26.2,point,FALSE,America/Indiana/Indianapolis,47438
+Warren-IN,1840010342,Warren,Warren,IN,Warren-IN,Indiana,18069,Huntington,40.6878,-85.4249,1210,1210,427,polygon,TRUE,America/Indiana/Indianapolis,46792
+Vevay-IN,1840010722,Vevay,Vevay,IN,Vevay-IN,Indiana,18155,Switzerland,38.7428,-85.0781,1681,1681,447,polygon,TRUE,America/Indiana/Vevay,47043
+Colburn-IN,1840024299,Colburn,Colburn,IN,Colburn-IN,Indiana,18157,Tippecanoe,40.5187,-86.7123,,,301.5,polygon,FALSE,America/Indiana/Indianapolis,47905
+Newburgh-IN,1840014684,Newburgh,Newburgh,IN,Newburgh-IN,Indiana,18173,Warrick,37.9492,-87.4051,3283,3283,854,polygon,TRUE,America/Chicago,47630 47629
+Garrett-IN,1840008207,Garrett,Garrett,IN,Garrett-IN,Indiana,18033,DeKalb,41.3532,-85.1236,6360,6360,630,polygon,TRUE,America/Indiana/Indianapolis,46738
+Andersonville-IN,1840029909,Andersonville,Andersonville,IN,Andersonville-IN,Indiana,18047,Franklin,39.4975,-85.2889,,,134.7,point,FALSE,America/Indiana/Indianapolis,46173
+Greensburg-IN,1840014567,Greensburg,Greensburg,IN,Greensburg-IN,Indiana,18031,Decatur,39.3515,-85.5024,11928,11859,494,polygon,TRUE,America/Indiana/Indianapolis,47240
+New Point-IN,1840009608,New Point,New Point,IN,New Point-IN,Indiana,18031,Decatur,39.3097,-85.3275,340,340,458,polygon,TRUE,America/Indiana/Indianapolis,47240 47263
+Fairland-IN,1840022449,Fairland,Fairland,IN,Fairland-IN,Indiana,18145,Shelby,39.5849,-85.8627,584,584,195,polygon,TRUE,America/Indiana/Indianapolis,46126
+Muncie-IN,1840008365,Muncie,Muncie,IN,Muncie-IN,Indiana,18035,Delaware,40.1989,-85.395,89186,69010,972,polygon,TRUE,America/Indiana/Indianapolis,47306 47305 47303 47304 47302 47307 47308
+Merrillville-IN,1840009261,Merrillville,Merrillville,IN,Merrillville-IN,Indiana,18089,Lake,41.4728,-87.3197,34994,34994,406,polygon,TRUE,America/Chicago,46410 46307 46411
+Economy-IN,1840010543,Economy,Economy,IN,Economy-IN,Indiana,18177,Wayne,39.9774,-85.0871,179,179,770,polygon,TRUE,America/Indiana/Indianapolis,47339 47346
+Edinburgh-IN,1840013729,Edinburgh,Edinburgh,IN,Edinburgh-IN,Indiana,18081,Johnson,39.3509,-85.9628,4577,4577,569,polygon,TRUE,America/Indiana/Indianapolis,46124
+Beech Grove-IN,1840007307,Beech Grove,Beech Grove,IN,Beech Grove-IN,Indiana,18097,Marion,39.7153,-86.087,14740,14740,1295,polygon,TRUE,America/Indiana/Indianapolis,46107 46203
+Saltillo-IN,1840010761,Saltillo,Saltillo,IN,Saltillo-IN,Indiana,18175,Washington,38.6662,-86.2975,90,90,30,polygon,TRUE,America/Indiana/Indianapolis,47108
+Lee-IN,1840029966,Lee,Lee,IN,Lee-IN,Indiana,18181,White,40.8964,-86.9681,,,25.5,point,FALSE,America/Chicago,47959
+Roseland-IN,1840010195,Roseland,Roseland,IN,Roseland-IN,Indiana,18141,St. Joseph,41.7177,-86.2506,628,628,643,polygon,TRUE,America/Indiana/Indianapolis,46637
+Roselawn-IN,1840005175,Roselawn,Roselawn,IN,Roselawn-IN,Indiana,18111,Newton,41.1535,-87.2881,,,125.8,polygon,FALSE,America/Chicago,46310 46372
+Gosport-IN,1840010654,Gosport,Gosport,IN,Gosport-IN,Indiana,18119,Owen,39.3507,-86.6655,802,802,804,polygon,TRUE,America/Indiana/Indianapolis,47433
+Guilford-IN,1840029949,Guilford,Guilford,IN,Guilford-IN,Indiana,18029,Dearborn,39.1681,-84.9119,,,106,point,FALSE,America/New_York,47022
+Blocher-IN,1840029915,Blocher,Blocher,IN,Blocher-IN,Indiana,18143,Scott,38.7181,-85.6566,,,201.9,point,FALSE,America/Indiana/Indianapolis,47138
+Dugger-IN,1840009630,Dugger,Dugger,IN,Dugger-IN,Indiana,18153,Sullivan,39.0704,-87.259,891,891,587,polygon,TRUE,America/Indiana/Indianapolis,47848
+Monroeville-IN,1840009323,Monroeville,Monroeville,IN,Monroeville-IN,Indiana,18003,Allen,40.9733,-84.8682,1297,1297,673,polygon,TRUE,America/Indiana/Indianapolis,46773
+Heritage Lake-IN,1840026610,Heritage Lake,Heritage Lake,IN,Heritage Lake-IN,Indiana,18133,Putnam,39.7288,-86.7123,,,398.1,polygon,FALSE,America/Indiana/Indianapolis,46128 46121
+Westpoint-IN,1840030042,Westpoint,Westpoint,IN,Westpoint-IN,Indiana,18157,Tippecanoe,40.3412,-87.0432,,,150.5,polygon,FALSE,America/Indiana/Indianapolis,47992
+Bryant-IN,1840009423,Bryant,Bryant,IN,Bryant-IN,Indiana,18075,Jay,40.5358,-84.9633,257,257,326,polygon,TRUE,America/Indiana/Indianapolis,47326
+Cornettsville-IN,1840029930,Cornettsville,Cornettsville,IN,Cornettsville-IN,Indiana,18027,Daviess,38.7567,-87.11,,,8.5,point,FALSE,America/Indiana/Vincennes,47568
+Campbellsburg-IN,1840009791,Campbellsburg,Campbellsburg,IN,Campbellsburg-IN,Indiana,18175,Washington,38.6514,-86.2613,574,574,223,polygon,TRUE,America/Indiana/Indianapolis,47108
+Dale-IN,1840009758,Dale,Dale,IN,Dale-IN,Indiana,18147,Spencer,38.1733,-86.9849,1532,1532,386,polygon,TRUE,America/Chicago,47523
+Arcadia-IN,1840010497,Arcadia,Arcadia,IN,Arcadia-IN,Indiana,18057,Hamilton,40.1742,-86.0211,1653,1653,1144,polygon,TRUE,America/Indiana/Indianapolis,46030
+San Pierre-IN,1840004909,San Pierre,San Pierre,IN,San Pierre-IN,Indiana,18149,Starke,41.1989,-86.8923,,,44.5,polygon,FALSE,America/Indiana/Knox,46374
+Mooresville-IN,1840009668,Mooresville,Mooresville,IN,Mooresville-IN,Indiana,18109,Morgan,39.6038,-86.3677,9660,9660,593,polygon,TRUE,America/Indiana/Indianapolis,46158
+Leavenworth-IN,1840009817,Leavenworth,Leavenworth,IN,Leavenworth-IN,Indiana,18025,Crawford,38.1994,-86.3453,232,232,108,polygon,TRUE,America/Indiana/Marengo,47137
+South Whitley-IN,1840010291,South Whitley,South Whitley,IN,South Whitley-IN,Indiana,18183,Whitley,41.0838,-85.6278,1740,1740,699,polygon,TRUE,America/Indiana/Indianapolis,46787
+Tennyson-IN,1840010821,Tennyson,Tennyson,IN,Tennyson-IN,Indiana,18173,Warrick,38.0816,-87.1187,296,296,488,polygon,TRUE,America/Chicago,47637
+Mentone-IN,1840009306,Mentone,Mentone,IN,Mentone-IN,Indiana,18085,Kosciusko,41.174,-86.0382,979,979,648,polygon,TRUE,America/Indiana/Indianapolis,46539
+Princes Lakes-IN,1840010615,Princes Lakes,Princes Lakes,IN,Princes Lakes-IN,Indiana,18081,Johnson,39.3516,-86.11,1347,1347,385,polygon,TRUE,America/Indiana/Indianapolis,46164
+Monrovia-IN,1840009667,Monrovia,Monrovia,IN,Monrovia-IN,Indiana,18109,Morgan,39.5842,-86.4791,1441,1441,314,polygon,TRUE,America/Indiana/Indianapolis,46157
+Indianapolis-IN,1840030084,Indianapolis,Indianapolis,IN,Indianapolis-IN,Indiana,18097,Marion,39.7771,-86.1458,1550488,855164,913,polygon,TRUE,America/Indiana/Indianapolis,46237 46218 46219 46217 46214 46260 46268 46226 46224 46229 46228 46183 46231 46234 46235 46236 46239 46254 46208 46201 46203 46202 46205 46204 46256 46250 46259 46227 46225 46222 46221 46220 46113 46278 46241 46240 46206 46207 46209 46210 46211 46230 46242 46244 46247 46249 46251 46253 46255 46262 46274 46275 46277 46282 46283 46285 46291 46296 46298
+Mackey-IN,1840009802,Mackey,Mackey,IN,Mackey-IN,Indiana,18051,Gibson,38.2505,-87.3912,105,105,469,polygon,TRUE,America/Chicago,47654 47660
+Michigan City-IN,1840013869,Michigan City,Michigan City,IN,Michigan City-IN,Indiana,18091,LaPorte,41.7098,-86.8705,65356,31157,611,polygon,TRUE,America/Chicago,46360 46361
+Santa Claus-IN,1840010826,Santa Claus,Santa Claus,IN,Santa Claus-IN,Indiana,18147,Spencer,38.1168,-86.9292,2463,2463,147,polygon,TRUE,America/Chicago,47579
+Wadesville-IN,1840030037,Wadesville,Wadesville,IN,Wadesville-IN,Indiana,18129,Posey,38.1025,-87.7861,,,222.9,point,FALSE,America/Chicago,47638
+Blanford-IN,1840026558,Blanford,Blanford,IN,Blanford-IN,Indiana,18165,Vermillion,39.667,-87.5203,,,225.8,polygon,FALSE,America/Indiana/Indianapolis,47842
+Madison-IN,1840009728,Madison,Madison,IN,Madison-IN,Indiana,18077,Jefferson,38.758,-85.397,18298,11985,539,polygon,TRUE,America/Indiana/Indianapolis,47250
+Rushville-IN,1840014235,Rushville,Rushville,IN,Rushville-IN,Indiana,18139,Rush,39.6154,-85.4464,6444,6065,757,polygon,TRUE,America/Indiana/Indianapolis,46173
+Gaston-IN,1840010460,Gaston,Gaston,IN,Gaston-IN,Indiana,18035,Delaware,40.3138,-85.5009,863,863,950,polygon,TRUE,America/Indiana/Indianapolis,47342
+Butlerville-IN,1840025625,Butlerville,Butlerville,IN,Butlerville-IN,Indiana,18079,Jennings,39.0326,-85.5131,,,186.6,polygon,FALSE,America/Indiana/Indianapolis,47223
+Plymouth-IN,1840014170,Plymouth,Plymouth,IN,Plymouth-IN,Indiana,18099,Marshall,41.3482,-86.3188,12392,9949,509,polygon,TRUE,America/Indiana/Indianapolis,46563
+Spring Lake-IN,1840010568,Spring Lake,Spring Lake,IN,Spring Lake-IN,Indiana,18059,Hancock,39.7767,-85.8536,218,218,551,polygon,TRUE,America/Indiana/Indianapolis,46140
+Brookville-IN,1840009594,Brookville,Brookville,IN,Brookville-IN,Indiana,18047,Franklin,39.4232,-85.0114,2546,2546,656,polygon,TRUE,America/Indiana/Indianapolis,47012
+Cedar Lake-IN,1840009259,Cedar Lake,Cedar Lake,IN,Cedar Lake-IN,Indiana,18089,Lake,41.3693,-87.438,12183,12183,558,polygon,TRUE,America/Chicago,46303
+Elizabethtown-IN,1840010667,Elizabethtown,Elizabethtown,IN,Elizabethtown-IN,Indiana,18005,Bartholomew,39.1351,-85.8124,515,515,760,polygon,TRUE,America/Indiana/Indianapolis,47232
+Greencastle-IN,1840008439,Greencastle,Greencastle,IN,Greencastle-IN,Indiana,18133,Putnam,39.6431,-86.8419,10812,10508,773,polygon,TRUE,America/Indiana/Indianapolis,46135
+Wolcott-IN,1840010360,Wolcott,Wolcott,IN,Wolcott-IN,Indiana,18181,White,40.7589,-87.042,977,977,636,polygon,TRUE,America/Indiana/Indianapolis,47995
+Altona-IN,1840010248,Altona,Altona,IN,Altona-IN,Indiana,18033,DeKalb,41.3521,-85.1524,194,194,344,polygon,TRUE,America/Indiana/Indianapolis,46738
+Midland-IN,1840029988,Midland,Midland,IN,Midland-IN,Indiana,18055,Greene,39.122,-87.1917,,,57.4,point,FALSE,America/Indiana/Indianapolis,47438
+Carthage-IN,1840009554,Carthage,Carthage,IN,Carthage-IN,Indiana,18139,Rush,39.7366,-85.5715,889,889,590,polygon,TRUE,America/Indiana/Indianapolis,46115
+Coatesville-IN,1840009538,Coatesville,Coatesville,IN,Coatesville-IN,Indiana,18063,Hendricks,39.6881,-86.6698,546,546,322,polygon,TRUE,America/Indiana/Indianapolis,46121
+Urbana-IN,1840030036,Urbana,Urbana,IN,Urbana-IN,Indiana,18169,Wabash,40.8984,-85.7928,,,99,point,FALSE,America/Indiana/Indianapolis,46990
+Scotland-IN,1840024533,Scotland,Scotland,IN,Scotland-IN,Indiana,18055,Greene,38.909,-86.9048,,,102.7,polygon,FALSE,America/Indiana/Indianapolis,47457
+Greenville-IN,1840010814,Greenville,Greenville,IN,Greenville-IN,Indiana,18043,Floyd,38.3717,-85.9847,807,807,399,polygon,TRUE,America/Kentucky/Louisville,47124
+Linton-IN,1840009692,Linton,Linton,IN,Linton-IN,Indiana,18055,Greene,39.0357,-87.1587,5644,5248,670,polygon,TRUE,America/Indiana/Indianapolis,47441
+Bruceville-IN,1840009730,Bruceville,Bruceville,IN,Bruceville-IN,Indiana,18083,Knox,38.758,-87.4154,475,475,534,polygon,TRUE,America/Indiana/Vincennes,47516
+Summitville-IN,1840010458,Summitville,Summitville,IN,Summitville-IN,Indiana,18095,Madison,40.3361,-85.6435,985,985,685,polygon,TRUE,America/Indiana/Indianapolis,46070
+Henryville-IN,1840006207,Henryville,Henryville,IN,Henryville-IN,Indiana,18019,Clark,38.5395,-85.7655,,,390.8,polygon,FALSE,America/Kentucky/Louisville,47126
+Cynthiana-IN,1840009838,Cynthiana,Cynthiana,IN,Cynthiana-IN,Indiana,18129,Posey,38.1873,-87.7086,538,538,520,polygon,TRUE,America/Chicago,47612
+French Lick-IN,1840010778,French Lick,French Lick,IN,French Lick-IN,Indiana,18117,Orange,38.5467,-86.6197,1769,1769,386,polygon,TRUE,America/Indiana/Indianapolis,47432
+Fairview Park-IN,1840010520,Fairview Park,Fairview Park,IN,Fairview Park-IN,Indiana,18165,Vermillion,39.6821,-87.4142,1330,1330,583,polygon,TRUE,America/Indiana/Indianapolis,47842
+Mellott-IN,1840009443,Mellott,Mellott,IN,Mellott-IN,Indiana,18045,Fountain,40.1639,-87.1489,188,188,424,polygon,TRUE,America/Indiana/Indianapolis,47958
+Francesville-IN,1840010310,Francesville,Francesville,IN,Francesville-IN,Indiana,18131,Pulaski,40.9853,-86.8834,822,822,1045,polygon,TRUE,America/Indiana/Winamac,47946
+Lake Station-IN,1840008195,Lake Station,Lake Station,IN,Lake Station-IN,Indiana,18089,Lake,41.5729,-87.26,11952,11952,556,polygon,TRUE,America/Chicago,46405
+Amo-IN,1840010580,Amo,Amo,IN,Amo-IN,Indiana,18063,Hendricks,39.6888,-86.6125,418,418,255,polygon,TRUE,America/Indiana/Indianapolis,46103 46121
+Lawrence-IN,1840008434,Lawrence,Lawrence,IN,Lawrence-IN,Indiana,18097,Marion,39.8674,-85.9904,47866,47866,917,polygon,TRUE,America/Indiana/Indianapolis,46216 46226 46235 46236
+Wheeler-IN,1840026273,Wheeler,Wheeler,IN,Wheeler-IN,Indiana,18127,Porter,41.5105,-87.1712,,,299.7,polygon,FALSE,America/Chicago,46393 46342
+Schererville-IN,1840010222,Schererville,Schererville,IN,Schererville-IN,Indiana,18089,Lake,41.487,-87.4444,28701,28701,752,polygon,TRUE,America/Chicago,46375 46307
+Nabb-IN,1840029992,Nabb,Nabb,IN,Nabb-IN,Indiana,18143,Scott,38.6056,-85.6327,,,42.2,point,FALSE,America/Indiana/Indianapolis,47147
+Kendallville-IN,1840008208,Kendallville,Kendallville,IN,Kendallville-IN,Indiana,18113,Noble,41.4441,-85.2578,10444,9906,632,polygon,TRUE,America/Indiana/Indianapolis,46755
+Fort Branch-IN,1840010796,Fort Branch,Fort Branch,IN,Fort Branch-IN,Indiana,18051,Gibson,38.2462,-87.5735,4419,2797,990,polygon,TRUE,America/Chicago,47648
+Hobart-IN,1840007093,Hobart,Hobart,IN,Hobart-IN,Indiana,18089,Lake,41.5139,-87.2728,28248,28248,413,polygon,TRUE,America/Chicago,46342 46410
+Chrisney-IN,1840009757,Chrisney,Chrisney,IN,Chrisney-IN,Indiana,18147,Spencer,38.0097,-87.0315,483,483,264,polygon,TRUE,America/Chicago,47611
+New Goshen-IN,1840024458,New Goshen,New Goshen,IN,New Goshen-IN,Indiana,18167,Vigo,39.583,-87.4646,,,192.8,polygon,FALSE,America/Indiana/Indianapolis,47863 47885
+Homestead-IN,1840029953,Homestead,Homestead,IN,Homestead-IN,Indiana,18029,Dearborn,39.1242,-84.8525,,,639.6,point,FALSE,America/New_York,47025
+Pennville-IN,1840010421,Pennville,Pennville,IN,Pennville-IN,Indiana,18075,Jay,40.4919,-85.1467,690,690,528,polygon,TRUE,America/Indiana/Indianapolis,47369
+Montmorenci-IN,1840024300,Montmorenci,Montmorenci,IN,Montmorenci-IN,Indiana,18157,Tippecanoe,40.4704,-87.0354,,,86.6,polygon,FALSE,America/Indiana/Indianapolis,47906 47962
+Birdseye-IN,1840009805,Birdseye,Birdseye,IN,Birdseye-IN,Indiana,18037,Dubois,38.315,-86.6961,415,415,251,polygon,TRUE,America/Indiana/Vincennes,47513
+Lake Hills-IN,1840029963,Lake Hills,Lake Hills,IN,Lake Hills-IN,Indiana,18089,Lake,41.4642,-87.4461,,,162,point,FALSE,America/Chicago,46375
+Rosedale-IN,1840010564,Rosedale,Rosedale,IN,Rosedale-IN,Indiana,18121,Parke,39.6225,-87.2818,705,705,689,polygon,TRUE,America/Indiana/Indianapolis,47874
+Cordry Sweetwater Lakes-IN,1840030086,Cordry Sweetwater Lakes,Cordry Sweetwater Lakes,IN,Cordry Sweetwater Lakes-IN,Indiana,18013,Brown,39.3085,-86.1222,,,259.6,polygon,FALSE,America/Indiana/Indianapolis,46164
+Harlan-IN,1840026346,Harlan,Harlan,IN,Harlan-IN,Indiana,18003,Allen,41.1966,-84.9245,,,404.6,polygon,FALSE,America/Indiana/Indianapolis,46741 46743
+Franklin-IN,1840008460,Franklin,Franklin,IN,Franklin-IN,Indiana,18081,Johnson,39.4935,-86.0541,24867,24867,737,polygon,TRUE,America/Indiana/Indianapolis,46131
+Boswell-IN,1840009403,Boswell,Boswell,IN,Boswell-IN,Indiana,18007,Benton,40.5173,-87.376,759,759,316,polygon,TRUE,America/Indiana/Indianapolis,47921
+Bicknell-IN,1840007437,Bicknell,Bicknell,IN,Bicknell-IN,Indiana,18083,Knox,38.7744,-87.3078,3174,2876,822,polygon,TRUE,America/Indiana/Vincennes,47512
+Highland-IN,1840010226,Highland,Highland,IN,Highland-IN,Indiana,18089,Lake,41.5484,-87.4587,22737,22737,1262,polygon,TRUE,America/Chicago,46322
+Austin-IN,1840010757,Austin,Austin,IN,Austin-IN,Indiana,18143,Scott,38.7417,-85.8118,4139,4139,610,polygon,TRUE,America/Indiana/Indianapolis,47102
+Greensboro-IN,1840010531,Greensboro,Greensboro,IN,Greensboro-IN,Indiana,18065,Henry,39.8786,-85.464,140,140,489,polygon,TRUE,America/Indiana/Indianapolis,47362 47344
+Cataract-IN,1840029924,Cataract,Cataract,IN,Cataract-IN,Indiana,18119,Owen,39.4275,-86.8164,,,28.8,point,FALSE,America/Indiana/Indianapolis,47460
+Russiaville-IN,1840010428,Russiaville,Russiaville,IN,Russiaville-IN,Indiana,18067,Howard,40.4185,-86.2731,1097,1097,525,polygon,TRUE,America/Indiana/Indianapolis,46979
+Patoka-IN,1840009804,Patoka,Patoka,IN,Patoka-IN,Indiana,18051,Gibson,38.4012,-87.5875,724,724,249,polygon,TRUE,America/Chicago,47666
+Memphis-IN,1840006208,Memphis,Memphis,IN,Memphis-IN,Indiana,18019,Clark,38.4892,-85.7679,,,190.2,polygon,FALSE,America/Kentucky/Louisville,47143
+Domestic-IN,1840029936,Domestic,Domestic,IN,Domestic-IN,Indiana,18179,Wells,40.6117,-85.0886,,,17.9,point,FALSE,America/Indiana/Indianapolis,46714
+Tri-Lakes-IN,1840005007,Tri-Lakes,Tri-Lakes,IN,Tri-Lakes-IN,Indiana,18183,Whitley,41.2507,-85.4433,,,542.3,polygon,FALSE,America/Indiana/Indianapolis,46725
+Claypool-IN,1840009304,Claypool,Claypool,IN,Claypool-IN,Indiana,18085,Kosciusko,41.1306,-85.8826,429,429,678,polygon,TRUE,America/Indiana/Indianapolis,46510
+Hebron-IN,1840010230,Hebron,Hebron,IN,Hebron-IN,Indiana,18127,Porter,41.325,-87.2024,3507,3694,721,polygon,TRUE,America/Chicago,46341
+Merom-IN,1840009631,Merom,Merom,IN,Merom-IN,Indiana,18153,Sullivan,39.056,-87.5673,224,224,243,polygon,TRUE,America/Indiana/Indianapolis,47861
+New Richmond-IN,1840009464,New Richmond,New Richmond,IN,New Richmond-IN,Indiana,18107,Montgomery,40.1944,-86.9774,332,332,648,polygon,TRUE,America/Indiana/Indianapolis,47967
+Mauckport-IN,1840009824,Mauckport,Mauckport,IN,Mauckport-IN,Indiana,18061,Harrison,38.0257,-86.1996,81,81,165,polygon,TRUE,America/New_York,47142
+Lakeville-IN,1840009242,Lakeville,Lakeville,IN,Lakeville-IN,Indiana,18141,St. Joseph,41.5287,-86.2743,788,788,500,polygon,TRUE,America/Indiana/Indianapolis,46536
+Bainbridge-IN,1840009543,Bainbridge,Bainbridge,IN,Bainbridge-IN,Indiana,18133,Putnam,39.7616,-86.8117,745,745,718,polygon,TRUE,America/Indiana/Indianapolis,46105
+Florence-IN,1840025646,Florence,Florence,IN,Florence-IN,Indiana,18155,Switzerland,38.7837,-84.9238,,,66.8,polygon,FALSE,America/Indiana/Vevay,47020 47038
+North Crows Nest-IN,1840009534,North Crows Nest,North Crows Nest,IN,North Crows Nest-IN,Indiana,18097,Marion,39.8661,-86.1623,47,47,280,polygon,TRUE,America/Indiana/Indianapolis,46228
+Petersburg-IN,1840009799,Petersburg,Petersburg,IN,Petersburg-IN,Indiana,18125,Pike,38.4919,-87.281,2331,2331,613,polygon,TRUE,America/Indiana/Petersburg,47567
+Clarks Hill-IN,1840009425,Clarks Hill,Clarks Hill,IN,Clarks Hill-IN,Indiana,18157,Tippecanoe,40.2472,-86.7245,694,694,983,polygon,TRUE,America/Indiana/Indianapolis,47930
+Wynnedale-IN,1840010577,Wynnedale,Wynnedale,IN,Wynnedale-IN,Indiana,18097,Marion,39.8326,-86.2004,239,239,578,polygon,TRUE,America/Indiana/Indianapolis,46228
+Lake Village-IN,1840005174,Lake Village,Lake Village,IN,Lake Village-IN,Indiana,18111,Newton,41.1308,-87.439,,,198.5,polygon,FALSE,America/Chicago,46349
+Hudson-IN,1840010206,Hudson,Hudson,IN,Hudson-IN,Indiana,18151,Steuben,41.5318,-85.0842,510,510,284,polygon,TRUE,America/Indiana/Indianapolis,46747
+Union City-IN,1840010480,Union City,Union City,IN,Union City-IN,Indiana,18135,Randolph,40.1994,-84.8204,5295,3487,611,polygon,TRUE,America/New_York,47390
+Veedersburg-IN,1840010466,Veedersburg,Veedersburg,IN,Veedersburg-IN,Indiana,18045,Fountain,40.1128,-87.2566,2078,2078,295,polygon,TRUE,America/Indiana/Indianapolis,47987
+Wakarusa-IN,1840010194,Wakarusa,Wakarusa,IN,Wakarusa-IN,Indiana,18039,Elkhart,41.5336,-86.014,1819,1819,318,polygon,TRUE,America/Indiana/Indianapolis,46573
+Pittsboro-IN,1840010578,Pittsboro,Pittsboro,IN,Pittsboro-IN,Indiana,18063,Hendricks,39.8676,-86.4647,3283,3283,429,polygon,TRUE,America/Indiana/Indianapolis,46167
+Ragsdale-IN,1840024606,Ragsdale,Ragsdale,IN,Ragsdale-IN,Indiana,18083,Knox,38.7467,-87.3241,,,18.2,polygon,FALSE,America/Indiana/Vincennes,47512 47573
+Putnamville-IN,1840030004,Putnamville,Putnamville,IN,Putnamville-IN,Indiana,18133,Putnam,39.5742,-86.8653,,,28.5,point,FALSE,America/Indiana/Indianapolis,46120
+Ferdinand-IN,1840010801,Ferdinand,Ferdinand,IN,Ferdinand-IN,Indiana,18037,Dubois,38.2265,-86.8626,2201,2201,374,polygon,TRUE,America/Indiana/Vincennes,47532
+Dunkirk-IN,1840008351,Dunkirk,Dunkirk,IN,Dunkirk-IN,Indiana,18075,Jay,40.3745,-85.2073,3513,2329,715,polygon,TRUE,America/Indiana/Indianapolis,47336
+Aboite-IN,1840029903,Aboite,Aboite,IN,Aboite-IN,Indiana,18003,Allen,41.0009,-85.318,,,9.8,point,FALSE,America/Indiana/Indianapolis,46783
+Hillsboro-IN,1840010464,Hillsboro,Hillsboro,IN,Hillsboro-IN,Indiana,18045,Fountain,40.1089,-87.1576,517,517,637,polygon,TRUE,America/Indiana/Indianapolis,47949
+Versailles-IN,1840014406,Versailles,Versailles,IN,Versailles-IN,Indiana,18137,Ripley,39.064,-85.2565,2108,2108,537,polygon,TRUE,America/Indiana/Indianapolis,47042
+Francisco-IN,1840010797,Francisco,Francisco,IN,Francisco-IN,Indiana,18051,Gibson,38.3332,-87.4478,470,470,366,polygon,TRUE,America/Chicago,47649
+Geneva-IN,1840010354,Geneva,Geneva,IN,Geneva-IN,Indiana,18001,Adams,40.5975,-84.9569,1331,1331,472,polygon,TRUE,America/Indiana/Indianapolis,46740
+Whitehall-IN,1840030061,Whitehall,Whitehall,IN,Whitehall-IN,Indiana,18119,Owen,39.1742,-86.6844,,,51.3,point,FALSE,America/Indiana/Indianapolis,47404
+New Ross-IN,1840009465,New Ross,New Ross,IN,New Ross-IN,Indiana,18107,Montgomery,39.9647,-86.7146,344,344,413,polygon,TRUE,America/Indiana/Indianapolis,47968
+East Enterprise-IN,1840025645,East Enterprise,East Enterprise,IN,East Enterprise-IN,Indiana,18155,Switzerland,38.8702,-84.9889,,,114.3,polygon,FALSE,America/Indiana/Vevay,47043
+Carefree-IN,1840030075,Carefree,Carefree,IN,Carefree-IN,Indiana,18025,Crawford,38.2517,-86.3514,,,11.7,point,FALSE,America/Indiana/Marengo,47118
+Trail Creek-IN,1840010201,Trail Creek,Trail Creek,IN,Trail Creek-IN,Indiana,18091,LaPorte,41.6963,-86.8555,2012,2012,640,polygon,TRUE,America/Chicago,46360
+Woodburn-IN,1840010298,Woodburn,Woodburn,IN,Woodburn-IN,Indiana,18003,Allen,41.1287,-84.8503,1578,1578,654,polygon,TRUE,America/Indiana/Indianapolis,46797
+Shadeland-IN,1840010431,Shadeland,Shadeland,IN,Shadeland-IN,Indiana,18157,Tippecanoe,40.3509,-86.9622,1824,1824,25,polygon,TRUE,America/Indiana/Indianapolis,47909
+Mulberry-IN,1840009434,Mulberry,Mulberry,IN,Mulberry-IN,Indiana,18023,Clinton,40.3458,-86.6674,1239,1239,811,polygon,TRUE,America/Indiana/Indianapolis,46058
+New Paris-IN,1840004815,New Paris,New Paris,IN,New Paris-IN,Indiana,18039,Elkhart,41.5005,-85.8248,,,896.4,polygon,FALSE,America/Indiana/Indianapolis,46553
+Andrews-IN,1840010341,Andrews,Andrews,IN,Andrews-IN,Indiana,18069,Huntington,40.8603,-85.6019,1129,1129,678,polygon,TRUE,America/Indiana/Indianapolis,46702
+Mays-IN,1840029984,Mays,Mays,IN,Mays-IN,Indiana,18139,Rush,39.7437,-85.43,,,174.2,point,FALSE,America/Indiana/Indianapolis,46155
+New Middletown-IN,1840009826,New Middletown,New Middletown,IN,New Middletown-IN,Indiana,18061,Harrison,38.1645,-86.0513,93,93,873,polygon,TRUE,America/Kentucky/Louisville,47160
+Galena-IN,1840006265,Galena,Galena,IN,Galena-IN,Indiana,18043,Floyd,38.3513,-85.9372,,,174.1,polygon,FALSE,America/Kentucky/Louisville,47124 47119 47146
+Knox-IN,1840013836,Knox,Knox,IN,Knox-IN,Indiana,18149,Starke,41.291,-86.621,3213,3597,354,polygon,TRUE,America/Indiana/Knox,46534
+Spiceland-IN,1840010533,Spiceland,Spiceland,IN,Spiceland-IN,Indiana,18065,Henry,39.8374,-85.4378,860,860,656,polygon,TRUE,America/Indiana/Indianapolis,47385
+Mount Vernon-IN,1840013884,Mount Vernon,Mount Vernon,IN,Mount Vernon-IN,Indiana,18129,Posey,37.9364,-87.8955,6821,6507,888,polygon,TRUE,America/Chicago,47620
+Freelandville-IN,1840024605,Freelandville,Freelandville,IN,Freelandville-IN,Indiana,18083,Knox,38.8653,-87.3102,,,351.7,polygon,FALSE,America/Indiana/Vincennes,47512 47535
+Milton-IN,1840009496,Milton,Milton,IN,Milton-IN,Indiana,18177,Wayne,39.7862,-85.1563,459,459,638,polygon,TRUE,America/Indiana/Indianapolis,47357
+Advance-IN,1840010511,Advance,Advance,IN,Advance-IN,Indiana,18011,Boone,39.9954,-86.6204,514,514,318,polygon,TRUE,America/Indiana/Indianapolis,46147 46102
+Lincoln City-IN,1840029972,Lincoln City,Lincoln City,IN,Lincoln City-IN,Indiana,18147,Spencer,38.1212,-86.9986,,,24.6,point,FALSE,America/Chicago,47552
+Dover Hill-IN,1840024609,Dover Hill,Dover Hill,IN,Dover Hill-IN,Indiana,18101,Martin,38.7221,-86.8002,,,18.1,polygon,FALSE,America/Indiana/Vincennes,47581
+Hanna-IN,1840026260,Hanna,Hanna,IN,Hanna-IN,Indiana,18091,LaPorte,41.4121,-86.7795,,,382.9,polygon,FALSE,America/Chicago,46340
+Hillsdale-IN,1840029951,Hillsdale,Hillsdale,IN,Hillsdale-IN,Indiana,18165,Vermillion,39.7859,-87.3903,,,100.3,point,FALSE,America/Indiana/Indianapolis,47854
+North Liberty-IN,1840009244,North Liberty,North Liberty,IN,North Liberty-IN,Indiana,18141,St. Joseph,41.5324,-86.4279,1920,1920,742,polygon,TRUE,America/Indiana/Indianapolis,46554
+Milroy-IN,1840026614,Milroy,Milroy,IN,Milroy-IN,Indiana,18139,Rush,39.4981,-85.4675,,,423.1,polygon,FALSE,America/Indiana/Indianapolis,46156
+Rensselaer-IN,1840009320,Rensselaer,Rensselaer,IN,Rensselaer-IN,Indiana,18073,Jasper,40.9381,-87.1683,6091,5902,346,polygon,TRUE,America/Chicago,47978
+Derby-IN,1840030068,Derby,Derby,IN,Derby-IN,Indiana,18123,Perry,38.0303,-86.5272,,,33.2,point,FALSE,America/Indiana/Tell_City,47525
+Painted Hills-IN,1840030085,Painted Hills,Painted Hills,IN,Painted Hills-IN,Indiana,18109,Morgan,39.3963,-86.3494,,,162.2,polygon,FALSE,America/Indiana/Indianapolis,46151
+New Castle-IN,1840008396,New Castle,New Castle,IN,New Castle-IN,Indiana,18065,Henry,39.919,-85.3697,21949,17426,914,polygon,TRUE,America/Indiana/Indianapolis,47362
+Ossian-IN,1840009376,Ossian,Ossian,IN,Ossian-IN,Indiana,18179,Wells,40.8784,-85.1684,3783,3353,906,polygon,TRUE,America/Indiana/Indianapolis,46777
+New Haven-IN,1840008262,New Haven,New Haven,IN,New Haven-IN,Indiana,18003,Allen,41.0669,-85.0282,15384,15384,593,polygon,TRUE,America/Indiana/Indianapolis,46774 46803 46806
+Fairmount-IN,1840010394,Fairmount,Fairmount,IN,Fairmount-IN,Indiana,18053,Grant,40.4172,-85.6477,2793,2805,684,polygon,TRUE,America/Indiana/Indianapolis,46928
+Worthington-IN,1840010697,Worthington,Worthington,IN,Worthington-IN,Indiana,18055,Greene,39.1185,-86.9793,1416,1416,676,polygon,TRUE,America/Indiana/Indianapolis,47471
+Switz City-IN,1840010696,Switz City,Switz City,IN,Switz City-IN,Indiana,18055,Greene,39.0349,-87.0534,288,288,493,polygon,TRUE,America/Indiana/Indianapolis,47465
+Elwood-IN,1840008364,Elwood,Elwood,IN,Elwood-IN,Indiana,18095,Madison,40.2743,-85.8372,9204,8416,879,polygon,TRUE,America/Indiana/Indianapolis,46036
+Van Bibber Lake-IN,1840026609,Van Bibber Lake,Van Bibber Lake,IN,Van Bibber Lake-IN,Indiana,18133,Putnam,39.7292,-86.9297,,,516.7,polygon,FALSE,America/Indiana/Indianapolis,46135
+Williamsport-IN,1840014427,Williamsport,Williamsport,IN,Williamsport-IN,Indiana,18171,Warren,40.2884,-87.2922,1824,1824,540,polygon,TRUE,America/Indiana/Indianapolis,47993
+Warsaw-IN,1840010277,Warsaw,Warsaw,IN,Warsaw-IN,Indiana,18085,Kosciusko,41.2443,-85.8479,32622,14662,466,polygon,TRUE,America/Indiana/Indianapolis,46582 46580 46581

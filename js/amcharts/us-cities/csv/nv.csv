@@ -1,0 +1,142 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Spanish Springs-NV,1840033826,Spanish Springs,Spanish Springs,NV,Spanish Springs-NV,Nevada,32031,Washoe,39.6566,-119.6695,,,445,polygon,FALSE,America/Los_Angeles,89441 89436
+Schurz-NV,1840018828,Schurz,Schurz,NV,Schurz-NV,Nevada,32021,Mineral,38.9366,-118.7925,,,19.5,polygon,FALSE,America/Los_Angeles,89427
+Round Mountain-NV,1840033817,Round Mountain,Round Mountain,NV,Round Mountain-NV,Nevada,32023,Nye,38.711,-117.0676,,,17.8,point,FALSE,America/Los_Angeles,89045
+Montello-NV,1840024117,Montello,Montello,NV,Montello-NV,Nevada,32007,Elko,41.2673,-114.1969,,,114.9,polygon,FALSE,America/Los_Angeles,89830
+Gardnerville-NV,1840017563,Gardnerville,Gardnerville,NV,Gardnerville-NV,Nevada,32005,Douglas,38.939,-119.7369,,,795,polygon,FALSE,America/Los_Angeles,89423 89410
+Walker Lake-NV,1840024562,Walker Lake,Walker Lake,NV,Walker Lake-NV,Nevada,32021,Mineral,38.6467,-118.7572,,,93.9,polygon,FALSE,America/Los_Angeles,89415
+Crystal Bay-NV,1840024127,Crystal Bay,Crystal Bay,NV,Crystal Bay-NV,Nevada,32031,Washoe,39.2315,-120.0017,,,348.2,polygon,FALSE,America/Los_Angeles,89451 89402
+West Wendover-NV,1840021336,West Wendover,West Wendover,NV,West Wendover-NV,Nevada,32007,Elko,40.7407,-114.0783,5183,4261,220,polygon,TRUE,America/Los_Angeles,89883
+Paradise-NV,1840033743,Paradise,Paradise,NV,Paradise-NV,Nevada,32003,Clark,36.0807,-115.1369,,,2028.7,polygon,FALSE,America/Los_Angeles,89103 89102 89109 89183 89169 89118 89119 89121 89120 89123 89111 89132 89136 89154 89157 89159 89160 89170 89177 89193
+Indian Springs-NV,1840017688,Indian Springs,Indian Springs,NV,Indian Springs-NV,Nevada,32003,Clark,36.5719,-115.7203,,,751.9,polygon,FALSE,America/Los_Angeles,89124 89018 89070
+Henderson-NV,1840020361,Henderson,Henderson,NV,Henderson-NV,Nevada,32003,Clark,36.0145,-115.0362,292969,292969,1080,polygon,TRUE,America/Los_Angeles,89044 89052 89002 89074 89015 89014 89011 89012 89009 89077 89105 89140
+Zephyr Cove-NV,1840033820,Zephyr Cove,Zephyr Cove,NV,Zephyr Cove-NV,Nevada,32005,Douglas,39.0082,-119.9307,,,375.1,polygon,FALSE,America/Los_Angeles,89448
+Jackpot-NV,1840024115,Jackpot,Jackpot,NV,Jackpot-NV,Nevada,32007,Elko,41.9797,-114.6645,,,444.3,polygon,FALSE,America/Los_Angeles,89825
+Genoa-NV,1840024555,Genoa,Genoa,NV,Genoa-NV,Nevada,32005,Douglas,39.0256,-119.8309,,,189.8,polygon,FALSE,America/Los_Angeles,89411
+McGill-NV,1840017531,McGill,McGill,NV,McGill-NV,Nevada,32033,White Pine,39.402,-114.777,,,719.5,polygon,FALSE,America/Los_Angeles,89318
+Sutcliffe-NV,1840018712,Sutcliffe,Sutcliffe,NV,Sutcliffe-NV,Nevada,32031,Washoe,39.9461,-119.6305,,,92.1,polygon,FALSE,America/Los_Angeles,89510
+Amargosa Valley-NV,1840033803,Amargosa Valley,Amargosa Valley,NV,Amargosa Valley-NV,Nevada,32023,Nye,36.6438,-116.4003,,,1.7,point,FALSE,America/Los_Angeles,89020
+Whitney-NV,1840033834,Whitney,Whitney,NV,Whitney-NV,Nevada,32003,Clark,36.1005,-115.038,,,4489.4,polygon,FALSE,America/Los_Angeles,89122
+Winnemucca-NV,1840021334,Winnemucca,Winnemucca,NV,Winnemucca-NV,Nevada,32013,Humboldt,40.9646,-117.725,10919,7866,314,polygon,TRUE,America/Los_Angeles,89445
+Verdi-NV,1840024131,Verdi,Verdi,NV,Verdi-NV,Nevada,32031,Washoe,39.5143,-119.9773,,,283.2,polygon,FALSE,America/Los_Angeles,89523 89439
+Golden Valley-NV,1840033784,Golden Valley,Golden Valley,NV,Golden Valley-NV,Nevada,32031,Washoe,39.6177,-119.8231,,,410.6,polygon,FALSE,America/Los_Angeles,89506
+Battle Mountain-NV,1840017497,Battle Mountain,Battle Mountain,NV,Battle Mountain-NV,Nevada,32015,Lander,40.6379,-116.9485,,,516,polygon,FALSE,America/Los_Angeles,89820
+Eureka-NV,1840024244,Eureka,Eureka,NV,Eureka-NV,Nevada,32011,Eureka,39.5113,-115.9668,,,536.4,polygon,FALSE,America/Los_Angeles,89316
+Lemmon Valley-NV,1840033785,Lemmon Valley,Lemmon Valley,NV,Lemmon Valley-NV,Nevada,32031,Washoe,39.6857,-119.8359,,,1029.2,polygon,FALSE,America/Los_Angeles,89506
+Alamo-NV,1840024649,Alamo,Alamo,NV,Alamo-NV,Nevada,32017,Lincoln,37.3648,-115.163,,,308.8,polygon,FALSE,America/Los_Angeles,89001
+Nelson-NV,1840024863,Nelson,Nelson,NV,Nelson-NV,Nevada,32003,Clark,35.7179,-114.8313,,,18.7,polygon,FALSE,America/Los_Angeles,89046
+Fernley-NV,1840020214,Fernley,Fernley,NV,Fernley-NV,Nevada,32019,Lyon,39.5612,-119.1925,19195,19588,61,polygon,TRUE,America/Los_Angeles,89408
+Steptoe-NV,1840033790,Steptoe,Steptoe,NV,Steptoe-NV,Nevada,32033,White Pine,39.4069,-114.7639,,,2.8,point,FALSE,America/Los_Angeles,89301
+Stateline-NV,1840018827,Stateline,Stateline,NV,Stateline-NV,Nevada,32005,Douglas,38.9678,-119.9439,,,78.3,polygon,FALSE,America/Los_Angeles,89449
+Humboldt-NV,1840033755,Humboldt,Humboldt,NV,Humboldt-NV,Nevada,32027,Pershing,40.4556,-118.2676,,,1.8,polygon,FALSE,America/Los_Angeles,89419
+Gardnerville Ranchos-NV,1840033828,Gardnerville Ranchos,Gardnerville Ranchos,NV,Gardnerville Ranchos-NV,Nevada,32005,Douglas,38.8872,-119.7424,,,2162,polygon,FALSE,America/Los_Angeles,89460
+Incline Village-NV,1840033809,Incline Village,Incline Village,NV,Incline Village-NV,Nevada,32031,Washoe,39.2639,-119.9453,,,399.3,polygon,FALSE,America/Los_Angeles,89451 89450 89511 89452
+Stillwater-NV,1840033788,Stillwater,Stillwater,NV,Stillwater-NV,Nevada,32001,Churchill,39.5216,-118.5471,,,19.9,point,FALSE,America/Los_Angeles,89406
+Mogul-NV,1840024130,Mogul,Mogul,NV,Mogul-NV,Nevada,32031,Washoe,39.5164,-119.923,,,313.7,polygon,FALSE,America/Los_Angeles,89523
+Orovada-NV,1840024112,Orovada,Orovada,NV,Orovada-NV,Nevada,32013,Humboldt,41.561,-117.7762,,,6.6,polygon,FALSE,America/Los_Angeles,89445 89425
+Beowawe-NV,1840033792,Beowawe,Beowawe,NV,Beowawe-NV,Nevada,32011,Eureka,40.5927,-116.4773,,,1.4,point,FALSE,America/Los_Angeles,89821
+Skyland-NV,1840024558,Skyland,Skyland,NV,Skyland-NV,Nevada,32005,Douglas,39.0265,-119.9221,,,381.4,polygon,FALSE,America/Los_Angeles,89448
+Washoe City-NV,1840033819,Washoe City,Washoe City,NV,Washoe City-NV,Nevada,32031,Washoe,39.3202,-119.8096,,,285.7,point,FALSE,America/Los_Angeles,89704
+Carson City-NV,1840003826,Carson City,Carson City,NV,Carson City-NV,Nevada,32510,Carson City (city),39.1512,-119.7474,57522,54742,146,polygon,TRUE,America/Los_Angeles,89701 89703 89702 89705 89706 89711 89712 89713 89714
+Searchlight-NV,1840019027,Searchlight,Searchlight,NV,Searchlight-NV,Nevada,32003,Clark,35.4828,-114.9157,,,202.4,polygon,FALSE,America/Los_Angeles,89046
+Laughlin-NV,1840017689,Laughlin,Laughlin,NV,Laughlin-NV,Nevada,32003,Clark,35.1316,-114.689,,,46.8,polygon,FALSE,America/Phoenix,89029 89028
+Winchester-NV,1840033770,Winchester,Winchester,NV,Winchester-NV,Nevada,32003,Clark,36.1367,-115.13,,,1792.7,polygon,FALSE,America/Los_Angeles,89109 89169 89121
+Sparks-NV,1840021337,Sparks,Sparks,NV,Sparks-NV,Nevada,32031,Washoe,39.5727,-119.7131,98345,98345,1049,polygon,TRUE,America/Los_Angeles,89436 89434 89431 89432 89435
+Goldfield-NV,1840024689,Goldfield,Goldfield,NV,Goldfield-NV,Nevada,32009,Esmeralda,37.7121,-117.2378,,,122,polygon,FALSE,America/Los_Angeles,89013
+Lee-NV,1840033822,Lee,Lee,NV,Lee-NV,Nevada,32007,Elko,40.5683,-115.6076,,,6.3,point,FALSE,America/Los_Angeles,89815
+Silver City-NV,1840033764,Silver City,Silver City,NV,Silver City-NV,Nevada,32019,Lyon,39.2639,-119.6356,,,175.3,polygon,FALSE,America/Los_Angeles,89428
+Owyhee-NV,1840018705,Owyhee,Owyhee,NV,Owyhee-NV,Nevada,32007,Elko,41.9166,-116.182,,,142.3,polygon,FALSE,America/Los_Angeles,89832
+Mill City-NV,1840033775,Mill City,Mill City,NV,Mill City-NV,Nevada,32027,Pershing,40.6835,-118.0704,,,1.6,point,FALSE,America/Los_Angeles,89418
+Hawthorne-NV,1840017564,Hawthorne,Hawthorne,NV,Hawthorne-NV,Nevada,32021,Mineral,38.5249,-118.6271,,,1342.3,polygon,FALSE,America/Los_Angeles,89415
+Mountain City-NV,1840033814,Mountain City,Mountain City,NV,Mountain City-NV,Nevada,32007,Elko,41.8385,-115.9654,,,29.7,point,FALSE,America/Los_Angeles,89831
+Fallon-NV,1840020191,Fallon,Fallon,NV,Fallon-NV,Nevada,32001,Churchill,39.4739,-118.778,15982,8470,893,polygon,TRUE,America/Los_Angeles,89406 89407 89496
+Moapa Town-NV,1840033825,Moapa Town,Moapa Town,NV,Moapa Town-NV,Nevada,32003,Clark,36.7708,-114.6473,,,25.6,polygon,FALSE,America/Los_Angeles,89025 89037 89067
+Minden-NV,1840018826,Minden,Minden,NV,Minden-NV,Nevada,32005,Douglas,38.9609,-119.7688,,,400.3,polygon,FALSE,America/Los_Angeles,89423
+Hiko-NV,1840024650,Hiko,Hiko,NV,Hiko-NV,Nevada,32017,Lincoln,37.6063,-115.2018,,,41.8,polygon,FALSE,America/Los_Angeles,89017
+Baker-NV,1840026573,Baker,Baker,NV,Baker-NV,Nevada,32033,White Pine,39.0149,-114.1233,,,38.3,polygon,FALSE,America/Los_Angeles,89311
+Arthur-NV,1840033805,Arthur,Arthur,NV,Arthur-NV,Nevada,32007,Elko,40.7966,-115.1909,,,1.3,point,FALSE,America/Los_Angeles,89833
+Overton-NV,1840033804,Overton,Overton,NV,Overton-NV,Nevada,32003,Clark,36.5433,-114.4469,,,739,point,FALSE,America/Los_Angeles,89040
+Crescent Valley-NV,1840024243,Crescent Valley,Crescent Valley,NV,Crescent Valley-NV,Nevada,32011,Eureka,40.4198,-116.5753,,,149.4,polygon,FALSE,America/Los_Angeles,89821
+Paradise Valley-NV,1840024113,Paradise Valley,Paradise Valley,NV,Paradise Valley-NV,Nevada,32013,Humboldt,41.49,-117.5323,,,16.9,polygon,FALSE,America/Los_Angeles,89426
+Boulder City-NV,1840019028,Boulder City,Boulder City,NV,Boulder City-NV,Nevada,32003,Clark,35.8407,-114.9256,14481,15689,29,polygon,TRUE,America/Los_Angeles,89046 89005 89006
+Yerington-NV,1840021443,Yerington,Yerington,NV,Yerington-NV,Nevada,32019,Lyon,38.9928,-119.1631,3001,3142,141,polygon,TRUE,America/Los_Angeles,89447
+Caselton-NV,1840033746,Caselton,Caselton,NV,Caselton-NV,Nevada,32017,Lincoln,37.9191,-114.4853,,,4.4,point,FALSE,America/Los_Angeles,89043
+Golconda-NV,1840024111,Golconda,Golconda,NV,Golconda-NV,Nevada,32013,Humboldt,40.9614,-117.5076,,,104.6,polygon,FALSE,America/Los_Angeles,89414
+Sandy Valley-NV,1840019026,Sandy Valley,Sandy Valley,NV,Sandy Valley-NV,Nevada,32003,Clark,35.8423,-115.6304,,,26.4,polygon,FALSE,America/Los_Angeles,89019
+Sun Valley-NV,1840018711,Sun Valley,Sun Valley,NV,Sun Valley-NV,Nevada,32031,Washoe,39.6105,-119.7764,,,1925.9,polygon,FALSE,America/Los_Angeles,89433
+Cherry Creek-NV,1840033800,Cherry Creek,Cherry Creek,NV,Cherry Creek-NV,Nevada,32033,White Pine,39.9005,-114.8859,,,7.6,point,FALSE,America/Los_Angeles,89301
+Las Vegas-NV,1840020364,Las Vegas,Las Vegas,NV,Las Vegas-NV,Nevada,32003,Clark,36.2288,-115.2603,2044731,632912,1829,polygon,TRUE,America/Los_Angeles,89149 89107 89106 89104 89102 89101 89108 89138 89130 89131 89134 89143 89146 89145 89144 89124 89110 89117 89129 89128 88901 88905 89114 89116 89125 89127 89133 89137 89151 89152 89153 89155 89158 89163 89164 89180 89185 89195
+Gerlach-NV,1840024129,Gerlach,Gerlach,NV,Gerlach-NV,Nevada,32031,Washoe,40.6452,-119.3614,,,217.4,polygon,FALSE,America/Los_Angeles,89405 89412
+Cosgrave-NV,1840033801,Cosgrave,Cosgrave,NV,Cosgrave-NV,Nevada,32027,Pershing,40.7966,-118.0157,,,3,point,FALSE,America/Los_Angeles,89418
+Stagecoach-NV,1840026616,Stagecoach,Stagecoach,NV,Stagecoach-NV,Nevada,32019,Lyon,39.3656,-119.3832,,,381.2,polygon,FALSE,America/Los_Angeles,89429
+Wadsworth-NV,1840018710,Wadsworth,Wadsworth,NV,Wadsworth-NV,Nevada,32031,Washoe,39.6322,-119.2901,,,455.3,polygon,FALSE,America/Los_Angeles,89442
+Silver Springs-NV,1840018797,Silver Springs,Silver Springs,NV,Silver Springs-NV,Nevada,32019,Lyon,39.3826,-119.2149,,,890.6,polygon,FALSE,America/Los_Angeles,89429
+Tonopah-NV,1840018822,Tonopah,Tonopah,NV,Tonopah-NV,Nevada,32023,Nye,38.0996,-117.2482,,,273.8,polygon,FALSE,America/Los_Angeles,89049
+Ursine-NV,1840024654,Ursine,Ursine,NV,Ursine-NV,Nevada,32017,Lincoln,37.9771,-114.2289,,,60.7,polygon,FALSE,America/Los_Angeles,89043
+Ely-NV,1840020183,Ely,Ely,NV,Ely-NV,Nevada,32033,White Pine,39.2649,-114.8709,4446,4042,204,polygon,TRUE,America/Los_Angeles,89301 89315
+Mount Charleston-NV,1840019025,Mount Charleston,Mount Charleston,NV,Mount Charleston-NV,Nevada,32003,Clark,36.2625,-115.6138,,,48.3,polygon,FALSE,America/Los_Angeles,89124
+Ruth-NV,1840026574,Ruth,Ruth,NV,Ruth-NV,Nevada,32033,White Pine,39.2793,-114.9899,,,462.9,polygon,FALSE,America/Los_Angeles,89319
+Blue Diamond-NV,1840017684,Blue Diamond,Blue Diamond,NV,Blue Diamond-NV,Nevada,32003,Clark,36.04,-115.4128,,,252.5,polygon,FALSE,America/Los_Angeles,89004
+Bunkerville-NV,1840017685,Bunkerville,Bunkerville,NV,Bunkerville-NV,Nevada,32003,Clark,36.7196,-114.1222,,,1132.9,polygon,FALSE,America/Los_Angeles,89007
+Dayton-NV,1840018796,Dayton,Dayton,NV,Dayton-NV,Nevada,32019,Lyon,39.258,-119.5677,,,51.2,polygon,FALSE,America/Los_Angeles,89403 89428
+Lida-NV,1840033734,Lida,Lida,NV,Lida-NV,Nevada,32009,Esmeralda,37.4583,-117.4981,,,5.5,point,FALSE,America/Los_Angeles,89013
+Beatty-NV,1840017561,Beatty,Beatty,NV,Beatty-NV,Nevada,32023,Nye,36.9352,-116.7025,,,375.1,polygon,FALSE,America/Los_Angeles,89003
+Logandale-NV,1840033771,Logandale,Logandale,NV,Logandale-NV,Nevada,32003,Clark,36.5966,-114.4841,,,458.4,point,FALSE,America/Los_Angeles,89021
+Nixon-NV,1840018709,Nixon,Nixon,NV,Nixon-NV,Nevada,32031,Washoe,39.828,-119.3589,,,38.4,polygon,FALSE,America/Los_Angeles,89424 89510
+Cal-Nev-Ari-NV,1840017686,Cal-Nev-Ari,Cal-Nev-Ari,NV,Cal-Nev-Ari-NV,Nevada,32003,Clark,35.2997,-114.8778,,,53.7,polygon,FALSE,America/Los_Angeles,89039
+Patrick-NV,1840033780,Patrick,Patrick,NV,Patrick-NV,Nevada,32031,Washoe,39.5471,-119.5793,,,2.3,point,FALSE,America/Los_Angeles,89434
+Wellington-NV,1840033783,Wellington,Wellington,NV,Wellington-NV,Nevada,32019,Lyon,38.7563,-119.376,,,26.7,point,FALSE,America/Los_Angeles,89444
+Virginia City-NV,1840026641,Virginia City,Virginia City,NV,Virginia City-NV,Nevada,32029,Storey,39.3074,-119.6484,,,599.7,polygon,FALSE,America/Los_Angeles,89440
+Carlin-NV,1840018706,Carlin,Carlin,NV,Carlin-NV,Nevada,32007,Elko,40.719,-116.108,2307,2307,85,polygon,TRUE,America/Los_Angeles,89822
+Enterprise-NV,1840033827,Enterprise,Enterprise,NV,Enterprise-NV,Nevada,32003,Clark,36.0183,-115.2154,,,247,polygon,FALSE,America/Los_Angeles,89178 89183 89054 89139 89141 89113 89118 89119 89123
+Dyer-NV,1840024688,Dyer,Dyer,NV,Dyer-NV,Nevada,32009,Esmeralda,37.6493,-118.0345,,,6.3,polygon,FALSE,America/Los_Angeles,89010
+Spring Creek-NV,1840018704,Spring Creek,Spring Creek,NV,Spring Creek-NV,Nevada,32007,Elko,40.7387,-115.5972,,,162,polygon,FALSE,America/Los_Angeles,89815
+Austin-NV,1840024245,Austin,Austin,NV,Austin-NV,Nevada,32015,Lander,39.4978,-117.0741,,,160.3,polygon,FALSE,America/Los_Angeles,89310
+Imlay-NV,1840024249,Imlay,Imlay,NV,Imlay-NV,Nevada,32027,Pershing,40.6581,-118.144,,,97.2,polygon,FALSE,America/Los_Angeles,89418
+Preston-NV,1840024358,Preston,Preston,NV,Preston-NV,Nevada,32033,White Pine,38.9157,-115.0642,,,80.8,polygon,FALSE,America/Los_Angeles,89301
+Rachel-NV,1840024653,Rachel,Rachel,NV,Rachel-NV,Nevada,32017,Lincoln,37.6509,-115.7341,,,20.8,polygon,FALSE,America/Los_Angeles,89001
+Topaz Lake-NV,1840024559,Topaz Lake,Topaz Lake,NV,Topaz Lake-NV,Nevada,32005,Douglas,38.6976,-119.5427,,,151.6,polygon,FALSE,America/Los_Angeles,89410
+Silver Peak-NV,1840024690,Silver Peak,Silver Peak,NV,Silver Peak-NV,Nevada,32009,Esmeralda,37.7578,-117.6386,,,80.2,polygon,FALSE,America/Los_Angeles,89047
+Kingsbury-NV,1840033778,Kingsbury,Kingsbury,NV,Kingsbury-NV,Nevada,32005,Douglas,38.9909,-119.8837,,,61.3,polygon,FALSE,America/Los_Angeles,89449 89411
+Lund-NV,1840024357,Lund,Lund,NV,Lund-NV,Nevada,32033,White Pine,38.8654,-115.0091,,,157.5,polygon,FALSE,America/Los_Angeles,89317
+Sunrise Manor-NV,1840033833,Sunrise Manor,Sunrise Manor,NV,Sunrise Manor-NV,Nevada,32003,Clark,36.1785,-115.049,,,2.8,polygon,FALSE,America/Los_Angeles,89104 89156 89142 89110 89115 89121 89122 89162
+Spring Valley-NV,1840033832,Spring Valley,Spring Valley,NV,Spring Valley-NV,Nevada,32003,Clark,36.0987,-115.2619,,,4447.3,polygon,FALSE,America/Los_Angeles,89103 89147 89146 89148 89113 89117 89118 89126 89150 89173
+Gabbs-NV,1840026677,Gabbs,Gabbs,NV,Gabbs-NV,Nevada,32023,Nye,38.8654,-117.9237,,,117,polygon,FALSE,America/Los_Angeles,89409
+Moapa Valley-NV,1840033831,Moapa Valley,Moapa Valley,NV,Moapa Valley-NV,Nevada,32003,Clark,36.6078,-114.4566,,,308.9,polygon,FALSE,America/Los_Angeles,89040 89021
+Goodsprings-NV,1840017687,Goodsprings,Goodsprings,NV,Goodsprings-NV,Nevada,32003,Clark,35.8303,-115.4289,,,113,polygon,FALSE,America/Los_Angeles,89019
+Lamoille-NV,1840024116,Lamoille,Lamoille,NV,Lamoille-NV,Nevada,32007,Elko,40.7238,-115.479,,,74.8,polygon,FALSE,America/Los_Angeles,89828
+Glenbrook-NV,1840024556,Glenbrook,Glenbrook,NV,Glenbrook-NV,Nevada,32005,Douglas,39.0986,-119.9341,,,83.7,polygon,FALSE,America/Los_Angeles,89413
+Valmy-NV,1840024114,Valmy,Valmy,NV,Valmy-NV,Nevada,32013,Humboldt,40.7718,-117.131,,,0.4,polygon,FALSE,America/Los_Angeles,89438
+Pahrump-NV,1840018821,Pahrump,Pahrump,NV,Pahrump-NV,Nevada,32023,Nye,36.2411,-116.0176,,,244.6,polygon,FALSE,America/Los_Angeles,89048 89060 89061 89041
+Manhattan-NV,1840033812,Manhattan,Manhattan,NV,Manhattan-NV,Nevada,32023,Nye,38.5388,-117.0734,,,18.9,point,FALSE,America/Los_Angeles,89022
+Panaca-NV,1840024651,Panaca,Panaca,NV,Panaca-NV,Nevada,32017,Lincoln,37.7889,-114.3997,,,527.1,polygon,FALSE,America/Los_Angeles,89042
+Johnson Lane-NV,1840033830,Johnson Lane,Johnson Lane,NV,Johnson Lane-NV,Nevada,32005,Douglas,39.0489,-119.7245,,,138.7,polygon,FALSE,America/Los_Angeles,89423
+Hazen-NV,1840033733,Hazen,Hazen,NV,Hazen-NV,Nevada,32001,Churchill,39.5652,-119.0463,,,26.3,point,FALSE,America/Los_Angeles,89408
+Arden-NV,1840033729,Arden,Arden,NV,Arden-NV,Nevada,32003,Clark,36.018,-115.2308,,,173.3,point,FALSE,America/Los_Angeles,89139
+Wells-NV,1840021335,Wells,Wells,NV,Wells-NV,Nevada,32007,Elko,41.1132,-114.9535,1229,1229,68,polygon,TRUE,America/Los_Angeles,89835
+Oasis-NV,1840024118,Oasis,Oasis,NV,Oasis-NV,Nevada,32007,Elko,41.0286,-114.4763,,,1.4,polygon,FALSE,America/Los_Angeles,89830
+Weed Heights-NV,1840033769,Weed Heights,Weed Heights,NV,Weed Heights-NV,Nevada,32019,Lyon,38.9871,-119.209,,,375.8,point,FALSE,America/Los_Angeles,89447
+Gold Point-NV,1840033787,Gold Point,Gold Point,NV,Gold Point-NV,Nevada,32009,Esmeralda,37.3547,-117.3651,,,2.9,point,FALSE,America/Los_Angeles,89013
+Mesquite-NV,1840020362,Mesquite,Mesquite,NV,Mesquite-NV,Nevada,32003,Clark,36.8035,-114.1325,16819,17987,219,polygon,TRUE,America/Los_Angeles,89007 89027 89034
+North Las Vegas-NV,1840020363,North Las Vegas,North Las Vegas,NV,North Las Vegas-NV,Nevada,32003,Clark,36.288,-115.0901,238702,238702,940,polygon,TRUE,America/Los_Angeles,89032 89031 89030 89086 89084 89085 89081 89115 89033 89087
+Cold Springs-NV,1840033824,Cold Springs,Cold Springs,NV,Cold Springs-NV,Nevada,32031,Washoe,39.6927,-119.9775,,,641.5,polygon,FALSE,America/Los_Angeles,89508
+Indian Hills-NV,1840033829,Indian Hills,Indian Hills,NV,Indian Hills-NV,Nevada,32005,Douglas,39.0894,-119.7977,,,366.3,polygon,FALSE,America/Los_Angeles,89705 89423
+Osino-NV,1840024119,Osino,Osino,NV,Osino-NV,Nevada,32007,Elko,40.9409,-115.661,,,0,polygon,FALSE,America/Los_Angeles,89801
+Tuscarora-NV,1840033739,Tuscarora,Tuscarora,NV,Tuscarora-NV,Nevada,32007,Elko,41.3141,-116.2218,,,6.5,point,FALSE,America/Los_Angeles,89834
+Midas-NV,1840033772,Midas,Midas,NV,Midas-NV,Nevada,32007,Elko,41.2441,-116.7968,,,18.2,point,FALSE,America/Los_Angeles,89414
+Glendale-NV,1840033752,Glendale,Glendale,NV,Glendale-NV,Nevada,32003,Clark,36.6653,-114.5692,,,25.1,point,FALSE,America/Los_Angeles,89025
+East Las Vegas-NV,1840033774,East Las Vegas,East Las Vegas,NV,East Las Vegas-NV,Nevada,32003,Clark,36.0944,-115.0419,,,2912.1,point,FALSE,America/Los_Angeles,89122
+Luning-NV,1840033759,Luning,Luning,NV,Luning-NV,Nevada,32021,Mineral,38.5063,-118.1815,,,55,point,FALSE,America/Los_Angeles,89420
+Lakeridge-NV,1840024557,Lakeridge,Lakeridge,NV,Lakeridge-NV,Nevada,32005,Douglas,39.0381,-119.9397,,,212.4,polygon,FALSE,America/Los_Angeles,89413
+Lovelock-NV,1840020154,Lovelock,Lovelock,NV,Lovelock-NV,Nevada,32027,Pershing,40.1789,-118.4773,1841,1841,825,polygon,TRUE,America/Los_Angeles,89419
+Caliente-NV,1840018856,Caliente,Caliente,NV,Caliente-NV,Nevada,32017,Lincoln,37.6449,-114.4926,1108,1108,7,polygon,TRUE,America/Los_Angeles,89008
+McDermitt-NV,1840017479,McDermitt,McDermitt,NV,McDermitt-NV,Nevada,32013,Humboldt,41.9909,-117.7045,,,41.9,polygon,FALSE,America/Los_Angeles,89421
+Denio-NV,1840024110,Denio,Denio,NV,Denio-NV,Nevada,32013,Humboldt,41.97,-118.6125,,,9.6,polygon,FALSE,America/Los_Angeles,89404
+Mina-NV,1840024561,Mina,Mina,NV,Mina-NV,Nevada,32021,Mineral,38.3898,-118.1116,,,131.5,polygon,FALSE,America/Los_Angeles,89422
+Kingston-NV,1840024246,Kingston,Kingston,NV,Kingston-NV,Nevada,32015,Lander,39.2101,-117.0679,,,15.3,polygon,FALSE,America/Los_Angeles,89310
+Pioche-NV,1840024652,Pioche,Pioche,NV,Pioche-NV,Nevada,32017,Lincoln,37.9519,-114.4435,,,167,polygon,FALSE,America/Los_Angeles,89043
+Elko-NV,1840020120,Elko,Elko,NV,Elko-NV,Nevada,32007,Elko,40.8383,-115.7677,21168,20442,445,polygon,TRUE,America/Los_Angeles,89801
+Reno-NV,1840020121,Reno,Reno,NV,Reno-NV,Nevada,32031,Washoe,39.5487,-119.8486,427007,245255,882,polygon,TRUE,America/Los_Angeles,89521 89523 89439 89503 89502 89501 89506 89509 89508 89519 89512 89504 89505 89507 89513 89515 89520 89533 89555 89557 89570 89595 89599
+Unionville-NV,1840033798,Unionville,Unionville,NV,Unionville-NV,Nevada,32027,Pershing,40.4437,-118.1146,,,19,polygon,FALSE,America/Los_Angeles,89419 89418
+New Washoe City-NV,1840033815,New Washoe City,New Washoe City,NV,New Washoe City-NV,Nevada,32031,Washoe,39.2963,-119.7757,,,510.1,point,FALSE,America/Los_Angeles,89704
+Empire-NV,1840024128,Empire,Empire,NV,Empire-NV,Nevada,32031,Washoe,40.5759,-119.3431,,,177.6,polygon,FALSE,America/Los_Angeles,89405

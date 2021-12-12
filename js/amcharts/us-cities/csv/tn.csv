@@ -1,0 +1,573 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+White Pine-TN,1840016169,White Pine,White Pine,TN,White Pine-TN,Tennessee,47089,Jefferson,36.1092,-83.2958,3152,2262,329,polygon,TRUE,America/New_York,37890
+Dyersburg-TN,1840013372,Dyersburg,Dyersburg,TN,Dyersburg-TN,Tennessee,47045,Dyer,36.0459,-89.3782,21313,16685,371,polygon,TRUE,America/Chicago,38024 38025
+Park City-TN,1840024961,Park City,Park City,TN,Park City-TN,Tennessee,47103,Lincoln,35.0782,-86.5834,,,420.2,polygon,FALSE,America/Chicago,37334
+Bolivar-TN,1840013465,Bolivar,Bolivar,TN,Bolivar-TN,Tennessee,47069,Hardeman,35.2656,-89.0148,5089,5112,229,polygon,TRUE,America/Chicago,38008
+Lookout Mountain-TN,1840016374,Lookout Mountain,Lookout Mountain,TN,Lookout Mountain-TN,Tennessee,47065,Hamilton,34.9944,-85.3516,1888,1888,542,polygon,TRUE,America/New_York,37350
+Pleasant Hill-TN,1840016173,Pleasant Hill,Pleasant Hill,TN,Pleasant Hill-TN,Tennessee,47035,Cumberland,35.9767,-85.1994,563,563,140,polygon,TRUE,America/Chicago,38578 38572 38571 38583
+Pinson-TN,1840036083,Pinson,Pinson,TN,Pinson-TN,Tennessee,47113,Madison,35.4901,-88.7206,,,164.8,point,FALSE,America/Chicago,38366
+Jonesborough-TN,1840016092,Jonesborough,Jonesborough,TN,Jonesborough-TN,Tennessee,47179,Washington,36.2959,-82.4765,5333,5333,398,polygon,TRUE,America/New_York,37659
+Fayetteville-TN,1840013476,Fayetteville,Fayetteville,TN,Fayetteville-TN,Tennessee,47103,Lincoln,35.149,-86.5636,9478,7051,280,polygon,TRUE,America/Chicago,37334
+Rural Hill-TN,1840013351,Rural Hill,Rural Hill,TN,Rural Hill-TN,Tennessee,47189,Wilson,36.1164,-86.5152,,,175.3,polygon,FALSE,America/Chicago,37076 37122
+Columbia-TN,1840014518,Columbia,Columbia,TN,Columbia-TN,Tennessee,47119,Maury,35.6223,-87.048,37845,37540,455,polygon,TRUE,America/Chicago,38401 38402
+Estill Springs-TN,1840016420,Estill Springs,Estill Springs,TN,Estill Springs-TN,Tennessee,47051,Franklin,35.2741,-86.1383,2027,2027,177,polygon,TRUE,America/Chicago,37330 37398
+Christiana-TN,1840036020,Christiana,Christiana,TN,Christiana-TN,Tennessee,47149,Rutherford,35.7205,-86.4109,,,142.2,polygon,FALSE,America/Chicago,37037 37128
+Wynnburg-TN,1840036002,Wynnburg,Wynnburg,TN,Wynnburg-TN,Tennessee,47095,Lake,36.3287,-89.4734,,,76.6,point,FALSE,America/Chicago,38077
+Ashland City-TN,1840015304,Ashland City,Ashland City,TN,Ashland City-TN,Tennessee,47021,Cheatham,36.2599,-87.0409,3459,4641,168,polygon,TRUE,America/Chicago,37015
+Waynesboro-TN,1840015439,Waynesboro,Waynesboro,TN,Waynesboro-TN,Tennessee,47181,Wayne,35.3229,-87.7598,2357,2357,238,polygon,TRUE,America/Chicago,38485
+Cumberland City-TN,1840016012,Cumberland City,Cumberland City,TN,Cumberland City-TN,Tennessee,47161,Stewart,36.3829,-87.6395,300,300,23,polygon,TRUE,America/Chicago,37050
+Lakeland-TN,1840014594,Lakeland,Lakeland,TN,Lakeland-TN,Tennessee,47157,Shelby,35.2586,-89.7307,12494,12494,205,polygon,TRUE,America/Chicago,38002 38014
+McKinnon-TN,1840036068,McKinnon,McKinnon,TN,McKinnon-TN,Tennessee,47083,Houston,36.3162,-87.907,,,24.1,point,FALSE,America/Chicago,37175
+New Tazewell-TN,1840016022,New Tazewell,New Tazewell,TN,New Tazewell-TN,Tennessee,47025,Claiborne,36.4387,-83.6055,4188,2767,203,polygon,TRUE,America/New_York,37825 37824
+Dandridge-TN,1840016168,Dandridge,Dandridge,TN,Dandridge-TN,Tennessee,47089,Jefferson,36.0283,-83.4308,5213,2956,193,polygon,TRUE,America/New_York,37725
+Red Bank-TN,1840014571,Red Bank,Red Bank,TN,Red Bank-TN,Tennessee,47065,Hamilton,35.1116,-85.2962,11813,11813,695,polygon,TRUE,America/New_York,37415 37405
+La Vergne-TN,1840014496,La Vergne,La Vergne,TN,La Vergne-TN,Tennessee,47149,Rutherford,36.021,-86.5574,35071,35071,543,polygon,TRUE,America/Chicago,37086 37089
+Vanleer-TN,1840016105,Vanleer,Vanleer,TN,Vanleer-TN,Tennessee,47043,Dickson,36.2383,-87.4463,376,376,223,polygon,TRUE,America/Chicago,37181
+Lynnville-TN,1840016376,Lynnville,Lynnville,TN,Lynnville-TN,Tennessee,47055,Giles,35.378,-87.0062,295,295,348,polygon,TRUE,America/Chicago,38472
+Wildwood-TN,1840025791,Wildwood,Wildwood,TN,Wildwood-TN,Tennessee,47009,Blount,35.7999,-83.8686,,,294.3,polygon,FALSE,America/New_York,37804
+East Cleveland-TN,1840036031,East Cleveland,East Cleveland,TN,East Cleveland-TN,Tennessee,47011,Bradley,35.1526,-84.8541,,,479.5,polygon,FALSE,America/New_York,37311
+Charlotte-TN,1840016104,Charlotte,Charlotte,TN,Charlotte-TN,Tennessee,47043,Dickson,36.1865,-87.3384,1511,1511,144,polygon,TRUE,America/Chicago,37036
+Banner Hill-TN,1840013353,Banner Hill,Banner Hill,TN,Banner Hill-TN,Tennessee,47171,Unicoi,36.1223,-82.4202,,,1119.2,polygon,FALSE,America/New_York,37650
+Campaign-TN,1840036118,Campaign,Campaign,TN,Campaign-TN,Tennessee,47177,Warren,35.7709,-85.6286,,,197.8,point,FALSE,America/Chicago,38581
+Shouns-TN,1840036136,Shouns,Shouns,TN,Shouns-TN,Tennessee,47091,Johnson,36.4454,-81.7996,,,206,point,FALSE,America/New_York,37683
+Halls Crossroads-TN,1840036047,Halls Crossroads,Halls Crossroads,TN,Halls Crossroads-TN,Tennessee,47093,Knox,36.0804,-83.9424,,,518.4,point,FALSE,America/New_York,37918
+Trimble-TN,1840016160,Trimble,Trimble,TN,Trimble-TN,Tennessee,47045,Dyer,36.2021,-89.1888,622,622,368,polygon,TRUE,America/Chicago,38259
+Tennessee City-TN,1840036107,Tennessee City,Tennessee City,TN,Tennessee City-TN,Tennessee,47043,Dickson,36.0931,-87.5147,,,23.8,point,FALSE,America/Chicago,37055
+Rockvale-TN,1840036091,Rockvale,Rockvale,TN,Rockvale-TN,Tennessee,47149,Rutherford,35.7682,-86.5197,,,58.4,polygon,FALSE,America/Chicago,37153 37128
+Alpine-TN,1840036005,Alpine,Alpine,TN,Alpine-TN,Tennessee,47133,Overton,36.3948,-85.2169,,,52.1,point,FALSE,America/Chicago,38543
+Summertown-TN,1840025826,Summertown,Summertown,TN,Summertown-TN,Tennessee,47099,Lawrence,35.4344,-87.3084,,,155.9,polygon,FALSE,America/Chicago,38483
+Winchester-TN,1840015466,Winchester,Winchester,TN,Winchester-TN,Tennessee,47051,Franklin,35.1898,-86.1078,11724,8562,308,polygon,TRUE,America/Chicago,37398
+Hornbeak-TN,1840016066,Hornbeak,Hornbeak,TN,Hornbeak-TN,Tennessee,47131,Obion,36.3355,-89.2954,389,389,215,polygon,TRUE,America/Chicago,38232
+Fowlkes-TN,1840036041,Fowlkes,Fowlkes,TN,Fowlkes-TN,Tennessee,47045,Dyer,35.9706,-89.3862,,,455.9,point,FALSE,America/Chicago,38024
+Theta-TN,1840036108,Theta,Theta,TN,Theta-TN,Tennessee,47119,Maury,35.7787,-87.0503,,,39,point,FALSE,America/Chicago,38401
+Newbern-TN,1840016161,Newbern,Newbern,TN,Newbern-TN,Tennessee,47045,Dyer,36.1172,-89.2693,3284,3284,259,polygon,TRUE,America/Chicago,38059
+Townsend-TN,1840015381,Townsend,Townsend,TN,Townsend-TN,Tennessee,47009,Blount,35.6758,-83.7524,444,444,79,polygon,TRUE,America/New_York,37882
+Gleason-TN,1840016071,Gleason,Gleason,TN,Gleason-TN,Tennessee,47183,Weakley,36.2174,-88.6107,1390,1390,235,polygon,TRUE,America/Chicago,38229
+Forest Hills-TN,1840013344,Forest Hills,Forest Hills,TN,Forest Hills-TN,Tennessee,47037,Davidson,36.0651,-86.8403,4993,4993,209,polygon,TRUE,America/Chicago,37215
+Walnut Grove-TN,1840024897,Walnut Grove,Walnut Grove,TN,Walnut Grove-TN,Tennessee,47165,Sumner,36.489,-86.6057,,,101.3,polygon,FALSE,America/Chicago,37048
+Gruetli-Laager-TN,1840013441,Gruetli-Laager,Gruetli-Laager,TN,Gruetli-Laager-TN,Tennessee,47061,Grundy,35.3727,-85.6378,1744,1744,53,polygon,TRUE,America/Chicago,37339
+Oak Ridge-TN,1840014473,Oak Ridge,Oak Ridge,TN,Oak Ridge-TN,Tennessee,47001,Anderson,35.9639,-84.2938,29350,29350,132,polygon,TRUE,America/New_York,37830 37831
+Green Brier-TN,1840036046,Green Brier,Green Brier,TN,Green Brier-TN,Tennessee,47137,Pickett,36.6128,-85.1313,,,25.3,point,FALSE,America/Chicago,38549
+South Carthage-TN,1840017721,South Carthage,South Carthage,TN,South Carthage-TN,Tennessee,47159,Smith,36.2409,-85.9575,1343,1343,197,polygon,TRUE,America/Chicago,38547 37030
+Elizabethton-TN,1840013314,Elizabethton,Elizabethton,TN,Elizabethton-TN,Tennessee,47019,Carter,36.3363,-82.238,13854,13854,547,polygon,TRUE,America/New_York,37643 37601 37682 37644
+Cedar Hill-TN,1840014412,Cedar Hill,Cedar Hill,TN,Cedar Hill-TN,Tennessee,47147,Robertson,36.5512,-87.0007,310,310,174,polygon,TRUE,America/Chicago,37032
+Elora-TN,1840036034,Elora,Elora,TN,Elora-TN,Tennessee,47103,Lincoln,35.0134,-86.3558,,,106.9,point,FALSE,America/Chicago,37328
+Gadsden-TN,1840016236,Gadsden,Gadsden,TN,Gadsden-TN,Tennessee,47033,Crockett,35.7768,-88.9861,462,462,162,polygon,TRUE,America/Chicago,38337
+Bell Buckle-TN,1840015411,Bell Buckle,Bell Buckle,TN,Bell Buckle-TN,Tennessee,47003,Bedford,35.5901,-86.353,519,519,335,polygon,TRUE,America/Chicago,37020
+Millersville-TN,1840014416,Millersville,Millersville,TN,Millersville-TN,Tennessee,47165,Sumner,36.3967,-86.7108,6742,6742,187,polygon,TRUE,America/Chicago,37072
+Arthur-TN,1840036006,Arthur,Arthur,TN,Arthur-TN,Tennessee,47025,Claiborne,36.5481,-83.6707,,,229.7,point,FALSE,America/New_York,37724
+Pine Crest-TN,1840036143,Pine Crest,Pine Crest,TN,Pine Crest-TN,Tennessee,47019,Carter,36.2964,-82.3108,,,1153.6,polygon,FALSE,America/New_York,37601
+Oakdale-TN,1840016101,Oakdale,Oakdale,TN,Oakdale-TN,Tennessee,47129,Morgan,35.9895,-84.5575,217,217,100,polygon,TRUE,America/New_York,37829
+Gibson-TN,1840016159,Gibson,Gibson,TN,Gibson-TN,Tennessee,47053,Gibson,35.8743,-88.844,379,379,240,polygon,TRUE,America/Chicago,38343 38338
+Spencer-TN,1840017790,Spencer,Spencer,TN,Spencer-TN,Tennessee,47175,Van Buren,35.7393,-85.4557,1629,1629,91,polygon,TRUE,America/Chicago,38585
+Grandview-TN,1840036044,Grandview,Grandview,TN,Grandview-TN,Tennessee,47143,Rhea,35.7437,-84.8399,,,52.5,point,FALSE,America/New_York,37337
+Byrdstown-TN,1840015275,Byrdstown,Byrdstown,TN,Byrdstown-TN,Tennessee,47137,Pickett,36.5736,-85.1343,815,815,214,polygon,TRUE,America/Chicago,38549
+Ridgetop-TN,1840014415,Ridgetop,Ridgetop,TN,Ridgetop-TN,Tennessee,47147,Robertson,36.4046,-86.7682,2076,2076,260,polygon,TRUE,America/Chicago,37072 37073 37152
+Somerville-TN,1840017868,Somerville,Somerville,TN,Somerville-TN,Tennessee,47047,Fayette,35.234,-89.3804,3137,3137,97,polygon,TRUE,America/Chicago,38068
+Sneedville-TN,1840017698,Sneedville,Sneedville,TN,Sneedville-TN,Tennessee,47067,Hancock,36.537,-83.21,1347,1347,226,polygon,TRUE,America/New_York,37869
+Milledgeville-TN,1840016409,Milledgeville,Milledgeville,TN,Milledgeville-TN,Tennessee,47109,McNairy,35.3779,-88.3662,265,265,63,polygon,TRUE,America/Chicago,38332 38359
+New Providence-TN,1840036073,New Providence,New Providence,TN,New Providence-TN,Tennessee,47125,Montgomery,36.5487,-87.3792,,,982.1,point,FALSE,America/Chicago,37042
+Russellville-TN,1840036094,Russellville,Russellville,TN,Russellville-TN,Tennessee,47063,Hamblen,36.2587,-83.1952,,,171.5,point,FALSE,America/New_York,37860
+Church Hill-TN,1840014428,Church Hill,Church Hill,TN,Church Hill-TN,Tennessee,47073,Hawkins,36.5206,-82.7142,6740,6740,278,polygon,TRUE,America/New_York,37642
+Vonore-TN,1840016312,Vonore,Vonore,TN,Vonore-TN,Tennessee,47123,Monroe,35.5976,-84.2373,1502,1502,64,polygon,TRUE,America/New_York,37885 37801
+Mount Pleasant-TN,1840014519,Mount Pleasant,Mount Pleasant,TN,Mount Pleasant-TN,Tennessee,47119,Maury,35.5484,-87.1882,3732,4853,152,polygon,TRUE,America/Chicago,38401 38474
+Gatlinburg-TN,1840013387,Gatlinburg,Gatlinburg,TN,Gatlinburg-TN,Tennessee,47155,Sevier,35.725,-83.4936,4206,4206,156,polygon,TRUE,America/New_York,37738
+Louisville-TN,1840015379,Louisville,Louisville,TN,Louisville-TN,Tennessee,47009,Blount,35.8247,-84.0551,4127,4127,106,polygon,TRUE,America/New_York,37777
+Finger-TN,1840013475,Finger,Finger,TN,Finger-TN,Tennessee,47109,McNairy,35.3568,-88.6174,295,295,74,polygon,TRUE,America/Chicago,38334
+Monteagle-TN,1840016430,Monteagle,Monteagle,TN,Monteagle-TN,Tennessee,47115,Marion,35.2358,-85.8494,1172,1172,52,polygon,TRUE,America/Chicago,37375 37356
+Cumberland Furnace-TN,1840036027,Cumberland Furnace,Cumberland Furnace,TN,Cumberland Furnace-TN,Tennessee,47043,Dickson,36.2687,-87.3597,,,30.1,point,FALSE,America/Chicago,37051
+Buena Vista-TN,1840036117,Buena Vista,Buena Vista,TN,Buena Vista-TN,Tennessee,47017,Carroll,35.9765,-88.2895,,,37.5,point,FALSE,America/Chicago,38318
+Seymour-TN,1840013386,Seymour,Seymour,TN,Seymour-TN,Tennessee,47155,Sevier,35.8761,-83.7741,,,166.1,polygon,FALSE,America/New_York,37865
+Overall-TN,1840036147,Overall,Overall,TN,Overall-TN,Tennessee,47149,Rutherford,35.8101,-86.475,,,47.5,point,FALSE,America/Chicago,37128
+Huntland-TN,1840016419,Huntland,Huntland,TN,Huntland-TN,Tennessee,47051,Franklin,35.0579,-86.269,855,855,227,polygon,TRUE,America/Chicago,37345
+Dodson Branch-TN,1840025768,Dodson Branch,Dodson Branch,TN,Dodson Branch-TN,Tennessee,47087,Jackson,36.3149,-85.5321,,,51.5,polygon,FALSE,America/Chicago,38501
+Campbellsville-TN,1840036016,Campbellsville,Campbellsville,TN,Campbellsville-TN,Tennessee,47055,Giles,35.3373,-87.1306,,,43.1,point,FALSE,America/Chicago,38478
+Memphis-TN,1840015457,Memphis,Memphis,TN,Memphis-TN,Tennessee,47157,Shelby,35.1047,-89.9773,1069661,652717,794,polygon,TRUE,America/Chicago,38122 38125 38127 38107 38106 38105 38104 38103 38109 38108 38152 38132 38133 38131 38141 38111 38112 38114 38115 38116 38117 38118 38119 38018 38016 38134 38128 38120 38126 37501 37544 38101 38113 38124 38130 38136 38137 38145 38148 38150 38151 38157 38159 38161 38163 38166 38167 38168 38173 38174 38175 38177 38181 38182 38184 38186 38187 38188 38190 38193 38194 38197
+Lyles-TN,1840024919,Lyles,Lyles,TN,Lyles-TN,Tennessee,47081,Hickman,35.9195,-87.345,,,186.9,polygon,FALSE,America/Chicago,37098
+Brighton-TN,1840015417,Brighton,Brighton,TN,Brighton-TN,Tennessee,47167,Tipton,35.4815,-89.7346,2936,2936,400,polygon,TRUE,America/Chicago,38011
+East Ridge-TN,1840013452,East Ridge,East Ridge,TN,East Ridge-TN,Tennessee,47065,Hamilton,34.9973,-85.2284,21302,21302,993,polygon,TRUE,America/New_York,37412
+Eva-TN,1840025776,Eva,Eva,TN,Eva-TN,Tennessee,47005,Benton,36.0687,-88.0082,,,133.2,polygon,FALSE,America/Chicago,38333
+Midtown-TN,1840013384,Midtown,Midtown,TN,Midtown-TN,Tennessee,47145,Roane,35.8812,-84.5717,,,165.9,polygon,FALSE,America/New_York,37748
+Tracy City-TN,1840016344,Tracy City,Tracy City,TN,Tracy City-TN,Tennessee,47061,Grundy,35.262,-85.7518,1425,1425,114,polygon,TRUE,America/Chicago,37387
+Chewalla-TN,1840036019,Chewalla,Chewalla,TN,Chewalla-TN,Tennessee,47109,McNairy,35.0134,-88.6464,,,25.5,point,FALSE,America/Chicago,38367
+Dyer-TN,1840013371,Dyer,Dyer,TN,Dyer-TN,Tennessee,47053,Gibson,36.0711,-88.9923,3102,2236,378,polygon,TRUE,America/Chicago,38330
+Bemis-TN,1840036010,Bemis,Bemis,TN,Bemis-TN,Tennessee,47113,Madison,35.5762,-88.8214,,,847.1,point,FALSE,America/Chicago,38301
+Monterey-TN,1840016108,Monterey,Monterey,TN,Monterey-TN,Tennessee,47141,Putnam,36.1449,-85.2643,3029,2868,362,polygon,TRUE,America/Chicago,38574
+Toone-TN,1840016387,Toone,Toone,TN,Toone-TN,Tennessee,47069,Hardeman,35.3564,-88.9541,339,339,124,polygon,TRUE,America/Chicago,38381
+Greenfield-TN,1840013316,Greenfield,Greenfield,TN,Greenfield-TN,Tennessee,47183,Weakley,36.1598,-88.8038,2091,2091,219,polygon,TRUE,America/Chicago,38230
+Guys-TN,1840016411,Guys,Guys,TN,Guys-TN,Tennessee,47109,McNairy,35.0193,-88.5415,462,462,15,polygon,TRUE,America/Chicago,38367 38339
+Lebanon-TN,1840014466,Lebanon,Lebanon,TN,Lebanon-TN,Tennessee,47189,Wilson,36.2038,-86.3467,33068,31317,314,polygon,TRUE,America/Chicago,37087 37090 37088
+Mosheim-TN,1840016098,Mosheim,Mosheim,TN,Mosheim-TN,Tennessee,47059,Greene,36.1955,-82.9648,2303,2303,145,polygon,TRUE,America/New_York,37743 37818
+Algood-TN,1840015317,Algood,Algood,TN,Algood-TN,Tennessee,47141,Putnam,36.2,-85.4467,4193,4193,401,polygon,TRUE,America/Chicago,38506
+Centerville-TN,1840016240,Centerville,Centerville,TN,Centerville-TN,Tennessee,47081,Hickman,35.8043,-87.4587,3568,3568,121,polygon,TRUE,America/Chicago,37033
+Gallatin-TN,1840013295,Gallatin,Gallatin,TN,Gallatin-TN,Tennessee,47165,Sumner,36.3783,-86.4697,35734,35734,436,polygon,TRUE,America/Chicago,37066
+Sharon-TN,1840017709,Sharon,Sharon,TN,Sharon-TN,Tennessee,47183,Weakley,36.2337,-88.8251,903,903,307,polygon,TRUE,America/Chicago,38255
+Calhoun-TN,1840015419,Calhoun,Calhoun,TN,Calhoun-TN,Tennessee,47107,McMinn,35.2976,-84.7458,497,497,176,polygon,TRUE,America/New_York,37309
+Pioneer-TN,1840036084,Pioneer,Pioneer,TN,Pioneer-TN,Tennessee,47013,Campbell,36.4176,-84.3141,,,13.8,point,FALSE,America/New_York,37847
+Gladeville-TN,1840036043,Gladeville,Gladeville,TN,Gladeville-TN,Tennessee,47189,Wilson,36.1126,-86.4164,,,48.5,point,FALSE,America/Chicago,37122
+Condon-TN,1840036149,Condon,Condon,TN,Condon-TN,Tennessee,47173,Union,36.1812,-83.7938,,,404.8,point,TRUE,America/New_York,37721
+Neubert-TN,1840036148,Neubert,Neubert,TN,Neubert-TN,Tennessee,47093,Knox,35.8934,-83.8416,,,206,point,FALSE,America/New_York,37920
+Loudon-TN,1840016254,Loudon,Loudon,TN,Loudon-TN,Tennessee,47105,Loudon,35.7414,-84.3699,5750,5750,177,polygon,TRUE,America/New_York,37774
+Ocoee-TN,1840036135,Ocoee,Ocoee,TN,Ocoee-TN,Tennessee,47139,Polk,35.1223,-84.7188,,,144.6,point,FALSE,America/New_York,37361
+Wartrace-TN,1840016309,Wartrace,Wartrace,TN,Wartrace-TN,Tennessee,47003,Bedford,35.5276,-86.3327,657,657,369,polygon,TRUE,America/Chicago,37183
+Hanging Limb-TN,1840036049,Hanging Limb,Hanging Limb,TN,Hanging Limb-TN,Tennessee,47133,Overton,36.237,-85.1619,,,28.6,point,FALSE,America/Chicago,38554
+Dresden-TN,1840016070,Dresden,Dresden,TN,Dresden-TN,Tennessee,47183,Weakley,36.2784,-88.6939,2846,2846,197,polygon,TRUE,America/Chicago,38225
+Lakewood-TN,1840036057,Lakewood,Lakewood,TN,Lakewood-TN,Tennessee,47037,Davidson,36.2431,-86.6356,,,1266.9,point,TRUE,America/Chicago,37138
+Woodland Mills-TN,1840015281,Woodland Mills,Woodland Mills,TN,Woodland Mills-TN,Tennessee,47131,Obion,36.4765,-89.1104,364,364,114,polygon,TRUE,America/Chicago,38261 38271
+Luttrell-TN,1840016095,Luttrell,Luttrell,TN,Luttrell-TN,Tennessee,47173,Union,36.21,-83.7477,1089,1089,107,polygon,TRUE,America/New_York,37779
+Hartford-TN,1840036140,Hartford,Hartford,TN,Hartford-TN,Tennessee,47029,Cocke,35.8168,-83.1432,,,5.4,point,FALSE,America/New_York,37753
+Cedar Grove-TN,1840036119,Cedar Grove,Cedar Grove,TN,Cedar Grove-TN,Tennessee,47017,Carroll,35.817,-88.5956,,,61.1,point,FALSE,America/Chicago,38321
+Holladay-TN,1840036052,Holladay,Holladay,TN,Holladay-TN,Tennessee,47005,Benton,35.8706,-88.1459,,,34.4,point,FALSE,America/Chicago,38341
+New River-TN,1840036074,New River,New River,TN,New River-TN,Tennessee,47151,Scott,36.3826,-84.5486,,,58.1,point,FALSE,America/New_York,37755
+Ridgeside-TN,1840014572,Ridgeside,Ridgeside,TN,Ridgeside-TN,Tennessee,47065,Hamilton,35.0349,-85.2469,426,426,970,polygon,TRUE,America/New_York,37411
+Chattanooga-TN,1840014569,Chattanooga,Chattanooga,TN,Chattanooga-TN,Tennessee,47065,Hamilton,35.0657,-85.2488,403618,177571,479,polygon,TRUE,America/New_York,37415 37416 37410 37411 37419 37409 37421 37363 37408 37403 37402 37407 37405 37406 37404 37343 37351 37350 37401 37414 37422 37424 37450
+Gordonsville-TN,1840016097,Gordonsville,Gordonsville,TN,Gordonsville-TN,Tennessee,47159,Smith,36.1814,-85.9322,1209,1209,66,polygon,TRUE,America/Chicago,38563
+Spring Hill-TN,1840015386,Spring Hill,Spring Hill,TN,Spring Hill-TN,Tennessee,47119,Maury,35.7436,-86.912,40552,37731,538,polygon,TRUE,America/Chicago,37174 37179
+Ten Mile-TN,1840036106,Ten Mile,Ten Mile,TN,Ten Mile-TN,Tennessee,47121,Meigs,35.6667,-84.6647,,,3.4,point,FALSE,America/New_York,37880
+South Cleveland-TN,1840036101,South Cleveland,South Cleveland,TN,South Cleveland-TN,Tennessee,47011,Bradley,35.1098,-84.9096,,,1108.7,polygon,FALSE,America/New_York,37311 37323
+Briceville-TN,1840036013,Briceville,Briceville,TN,Briceville-TN,Tennessee,47001,Anderson,36.1784,-84.1852,,,85.1,point,FALSE,America/New_York,37710
+Howell-TN,1840036054,Howell,Howell,TN,Howell-TN,Tennessee,47103,Lincoln,35.2301,-86.6111,,,91.8,point,FALSE,America/Chicago,37144
+Martin-TN,1840015282,Martin,Martin,TN,Martin-TN,Tennessee,47183,Weakley,36.3391,-88.8518,10697,10768,327,polygon,TRUE,America/Chicago,38237 38238
+Hartsville-TN,1840036050,Hartsville,Hartsville,TN,Hartsville-TN,Tennessee,47169,Trousdale,36.3909,-86.1672,,,350.9,point,TRUE,America/Chicago,37074
+Chestnut Mound-TN,1840036018,Chestnut Mound,Chestnut Mound,TN,Chestnut Mound-TN,Tennessee,47159,Smith,36.2028,-85.8264,,,52.6,point,FALSE,America/Chicago,38560
+Sevierville-TN,1840015359,Sevierville,Sevierville,TN,Sevierville-TN,Tennessee,47155,Sevier,35.8868,-83.5674,24882,16665,266,polygon,TRUE,America/New_York,37862 37876 37764 37864
+Whiteville-TN,1840016388,Whiteville,Whiteville,TN,Whiteville-TN,Tennessee,47069,Hardeman,35.3181,-89.1496,4503,4503,633,polygon,TRUE,America/Chicago,38075
+Lenoir City-TN,1840014514,Lenoir City,Lenoir City,TN,Lenoir City-TN,Tennessee,47105,Loudon,35.8113,-84.2817,9106,9106,414,polygon,TRUE,America/New_York,37771 37772
+Jefferson City-TN,1840014485,Jefferson City,Jefferson City,TN,Jefferson City-TN,Tennessee,47089,Jefferson,36.1196,-83.484,8335,8335,491,polygon,TRUE,America/New_York,37760
+Quebeck-TN,1840036086,Quebeck,Quebeck,TN,Quebeck-TN,Tennessee,47185,White,35.8167,-85.5669,,,71.3,point,FALSE,America/Chicago,38579
+Falling Water-TN,1840024959,Falling Water,Falling Water,TN,Falling Water-TN,Tennessee,47065,Hamilton,35.1961,-85.2604,,,136.5,polygon,FALSE,America/New_York,37415 37343
+Eagleton Village-TN,1840013068,Eagleton Village,Eagleton Village,TN,Eagleton Village-TN,Tennessee,47009,Blount,35.7884,-83.9363,,,341,polygon,FALSE,America/New_York,37804
+New Deal-TN,1840024894,New Deal,New Deal,TN,New Deal-TN,Tennessee,47165,Sumner,36.5138,-86.5628,,,107.8,polygon,FALSE,America/Chicago,37048 37148
+Spurgeon-TN,1840013334,Spurgeon,Spurgeon,TN,Spurgeon-TN,Tennessee,47179,Washington,36.443,-82.4621,,,765.7,polygon,FALSE,America/New_York,37615 37663
+Arlington-TN,1840015458,Arlington,Arlington,TN,Arlington-TN,Tennessee,47157,Shelby,35.2595,-89.668,11551,11566,193,polygon,TRUE,America/Chicago,38002 38028
+Henry-TN,1840015283,Henry,Henry,TN,Henry-TN,Tennessee,47079,Henry,36.2004,-88.4108,462,462,123,polygon,TRUE,America/Chicago,38231
+LaFollette-TN,1840036150,LaFollette,LaFollette,TN,LaFollette-TN,Tennessee,47013,Campbell,36.372,-84.1252,19684,6971,548,polygon,TRUE,America/New_York,37766
+Milltown-TN,1840035988,Milltown,Milltown,TN,Milltown-TN,Tennessee,47087,Jackson,36.3937,-85.7994,,,5,point,FALSE,America/Chicago,38588
+Covington-TN,1840014547,Covington,Covington,TN,Covington-TN,Tennessee,47167,Tipton,35.5656,-89.648,8469,8924,299,polygon,TRUE,America/Chicago,38019
+Chesterfield-TN,1840025795,Chesterfield,Chesterfield,TN,Chesterfield-TN,Tennessee,47077,Henderson,35.6467,-88.27,,,114.5,polygon,FALSE,America/Chicago,38351
+Leoma-TN,1840036059,Leoma,Leoma,TN,Leoma-TN,Tennessee,47099,Lawrence,35.1615,-87.3481,,,119.9,point,FALSE,America/Chicago,38468
+Waverly-TN,1840015331,Waverly,Waverly,TN,Waverly-TN,Tennessee,47085,Humphreys,36.0942,-87.785,3267,4133,181,polygon,TRUE,America/Chicago,37185
+Copperhill-TN,1840014611,Copperhill,Copperhill,TN,Copperhill-TN,Tennessee,47139,Polk,34.995,-84.3756,333,333,68,polygon,TRUE,America/New_York,37317
+Castalian Springs-TN,1840024890,Castalian Springs,Castalian Springs,TN,Castalian Springs-TN,Tennessee,47165,Sumner,36.4012,-86.3067,,,68.1,polygon,FALSE,America/Chicago,37031
+Tazewell-TN,1840016021,Tazewell,Tazewell,TN,Tazewell-TN,Tennessee,47025,Claiborne,36.4628,-83.5658,2281,2281,192,polygon,TRUE,America/New_York,37879
+Greeneville-TN,1840016099,Greeneville,Greeneville,TN,Greeneville-TN,Tennessee,47059,Greene,36.168,-82.8197,23953,15061,341,polygon,TRUE,America/New_York,37745 37743 37744
+Doyle-TN,1840016192,Doyle,Doyle,TN,Doyle-TN,Tennessee,47185,White,35.8558,-85.5131,556,556,163,polygon,TRUE,America/Chicago,38583 38559
+Hopewell-TN,1840013479,Hopewell,Hopewell,TN,Hopewell-TN,Tennessee,47011,Bradley,35.2387,-84.9138,,,107.3,polygon,FALSE,America/New_York,37312
+Burns-TN,1840015316,Burns,Burns,TN,Burns-TN,Tennessee,47043,Dickson,36.0501,-87.2977,1470,1470,151,polygon,TRUE,America/Chicago,37029 37055
+Collinwood-TN,1840014563,Collinwood,Collinwood,TN,Collinwood-TN,Tennessee,47181,Wayne,35.1748,-87.7434,965,965,132,polygon,TRUE,America/Chicago,38450
+Fairview-TN,1840013379,Fairview,Fairview,TN,Fairview-TN,Tennessee,47187,Williamson,35.9819,-87.1286,7040,8529,195,polygon,TRUE,America/Chicago,37062
+Rutledge-TN,1840017722,Rutledge,Rutledge,TN,Rutledge-TN,Tennessee,47057,Grainger,36.2804,-83.5199,1189,1189,97,polygon,TRUE,America/New_York,37861
+Bruceton-TN,1840015348,Bruceton,Bruceton,TN,Bruceton-TN,Tennessee,47017,Carroll,36.034,-88.2469,1434,1434,292,polygon,TRUE,America/Chicago,38317
+Kimball-TN,1840016429,Kimball,Kimball,TN,Kimball-TN,Tennessee,47115,Marion,35.0457,-85.6734,1391,1391,109,polygon,TRUE,America/Chicago,37347 37380
+Saint Bethlehem-TN,1840036095,Saint Bethlehem,Saint Bethlehem,TN,Saint Bethlehem-TN,Tennessee,47125,Montgomery,36.572,-87.3,,,220,point,FALSE,America/Chicago,37040
+Ozone-TN,1840036080,Ozone,Ozone,TN,Ozone-TN,Tennessee,47035,Cumberland,35.882,-84.8091,,,20.2,point,FALSE,America/Chicago,37854
+Rome-TN,1840036092,Rome,Rome,TN,Rome-TN,Tennessee,47159,Smith,36.262,-86.0717,,,96.1,point,FALSE,America/Chicago,37087
+Normandy-TN,1840016310,Normandy,Normandy,TN,Normandy-TN,Tennessee,47003,Bedford,35.4522,-86.2581,148,148,248,polygon,TRUE,America/Chicago,37360
+Centertown-TN,1840016270,Centertown,Centertown,TN,Centertown-TN,Tennessee,47177,Warren,35.7253,-85.9199,247,247,101,polygon,TRUE,America/Chicago,37110
+Spring City-TN,1840017789,Spring City,Spring City,TN,Spring City-TN,Tennessee,47143,Rhea,35.6879,-84.8627,1988,1988,294,polygon,TRUE,America/New_York,37381
+Savannah-TN,1840015453,Savannah,Savannah,TN,Savannah-TN,Tennessee,47071,Hardin,35.2211,-88.2356,8391,7019,414,polygon,TRUE,America/Chicago,38372
+Hermitage Springs-TN,1840036051,Hermitage Springs,Hermitage Springs,TN,Hermitage Springs-TN,Tennessee,47027,Clay,36.5809,-85.7814,,,35,point,FALSE,America/Chicago,37150
+Milan-TN,1840014483,Milan,Milan,TN,Milan-TN,Tennessee,47053,Gibson,35.9127,-88.7556,7371,7792,337,polygon,TRUE,America/Chicago,38358
+Michie-TN,1840016408,Michie,Michie,TN,Michie-TN,Tennessee,47109,McNairy,35.0603,-88.4257,589,589,40,polygon,TRUE,America/Chicago,38357
+Munford-TN,1840014548,Munford,Munford,TN,Munford-TN,Tennessee,47167,Tipton,35.4436,-89.8141,6057,6057,254,polygon,TRUE,America/Chicago,38058
+Evensville-TN,1840036035,Evensville,Evensville,TN,Evensville-TN,Tennessee,47143,Rhea,35.5645,-84.9547,,,74.8,point,FALSE,America/New_York,37332
+Cumberland Gap-TN,1840016020,Cumberland Gap,Cumberland Gap,TN,Cumberland Gap-TN,Tennessee,47025,Claiborne,36.5975,-83.6656,494,494,581,polygon,TRUE,America/New_York,37724
+Elkton-TN,1840013454,Elkton,Elkton,TN,Elkton-TN,Tennessee,47055,Giles,35.062,-86.8976,542,542,96,polygon,TRUE,America/Chicago,38477 38455
+McEwen-TN,1840015330,McEwen,McEwen,TN,McEwen-TN,Tennessee,47085,Humphreys,36.1098,-87.6357,1716,1716,355,polygon,TRUE,America/Chicago,37101
+Cookeville-TN,1840014470,Cookeville,Cookeville,TN,Cookeville-TN,Tennessee,47141,Putnam,36.1485,-85.5114,47381,32622,356,polygon,TRUE,America/Chicago,38501 38506 38505 38502 38503
+Liberty-TN,1840016184,Liberty,Liberty,TN,Liberty-TN,Tennessee,47041,DeKalb,36.0053,-85.978,315,315,108,polygon,TRUE,America/Chicago,37095
+Leipers Fork-TN,1840036096,Leipers Fork,Leipers Fork,TN,Leipers Fork-TN,Tennessee,47187,Williamson,35.8956,-86.9978,,,40.5,point,FALSE,America/Chicago,37064
+Coalmont-TN,1840014556,Coalmont,Coalmont,TN,Coalmont-TN,Tennessee,47061,Grundy,35.3447,-85.7114,819,819,53,polygon,TRUE,America/Chicago,37313
+Petersburg-TN,1840016413,Petersburg,Petersburg,TN,Petersburg-TN,Tennessee,47103,Lincoln,35.3174,-86.6409,543,543,222,polygon,TRUE,America/Chicago,37144
+Granville-TN,1840036045,Granville,Granville,TN,Granville-TN,Tennessee,47087,Jackson,36.2712,-85.7953,,,84.4,point,FALSE,America/Chicago,38564
+Flat Woods-TN,1840036038,Flat Woods,Flat Woods,TN,Flat Woods-TN,Tennessee,47135,Perry,35.477,-87.8275,,,50.5,point,FALSE,America/Chicago,37096
+Fairfield Glade-TN,1840013067,Fairfield Glade,Fairfield Glade,TN,Fairfield Glade-TN,Tennessee,47035,Cumberland,36.0029,-84.8711,,,305.6,polygon,FALSE,America/Chicago,38558
+Rives-TN,1840017707,Rives,Rives,TN,Rives-TN,Tennessee,47131,Obion,36.3563,-89.0495,316,316,351,polygon,TRUE,America/Chicago,38261 38253
+Rocky Top-TN,1840016109,Rocky Top,Rocky Top,TN,Rocky Top-TN,Tennessee,47001,Anderson,36.2179,-84.1546,,,735.4,point,TRUE,America/New_York,37769
+Shepherd-TN,1840036098,Shepherd,Shepherd,TN,Shepherd-TN,Tennessee,47065,Hamilton,35.039,-85.1919,,,141.7,point,FALSE,America/New_York,37421
+Burlison-TN,1840015418,Burlison,Burlison,TN,Burlison-TN,Tennessee,47167,Tipton,35.557,-89.7847,408,408,147,polygon,TRUE,America/Chicago,38015
+Coopertown-TN,1840016013,Coopertown,Coopertown,TN,Coopertown-TN,Tennessee,47147,Robertson,36.4144,-86.9657,4429,4429,54,polygon,TRUE,America/Chicago,37073 37172 37146
+Belle Meade-TN,1840013346,Belle Meade,Belle Meade,TN,Belle Meade-TN,Tennessee,47037,Davidson,36.0993,-86.8563,2964,2964,371,polygon,TRUE,America/Chicago,37215 37205
+Bethel Springs-TN,1840015463,Bethel Springs,Bethel Springs,TN,Bethel Springs-TN,Tennessee,47109,McNairy,35.2347,-88.6117,708,708,126,polygon,TRUE,America/Chicago,38315
+Bloomingdale-TN,1840013297,Bloomingdale,Bloomingdale,TN,Bloomingdale-TN,Tennessee,47163,Sullivan,36.5795,-82.5094,,,715.5,polygon,FALSE,America/New_York,37660
+Alcoa-TN,1840013404,Alcoa,Alcoa,TN,Alcoa-TN,Tennessee,47009,Blount,35.8071,-83.9748,9874,9874,258,polygon,TRUE,America/New_York,37701 37777 37804
+Helenwood-TN,1840013302,Helenwood,Helenwood,TN,Helenwood-TN,Tennessee,47151,Scott,36.4287,-84.5531,,,71.4,polygon,FALSE,America/New_York,37755
+Parsons-TN,1840014520,Parsons,Parsons,TN,Parsons-TN,Tennessee,47039,Decatur,35.6515,-88.123,2357,2357,219,polygon,TRUE,America/Chicago,38363
+Watertown-TN,1840015315,Watertown,Watertown,TN,Watertown-TN,Tennessee,47189,Wilson,36.1011,-86.1403,1529,1529,450,polygon,TRUE,America/Chicago,37184
+Pelham-TN,1840025821,Pelham,Pelham,TN,Pelham-TN,Tennessee,47061,Grundy,35.3342,-85.8703,,,17.2,polygon,FALSE,America/Chicago,37366 37324
+Nixon-TN,1840036075,Nixon,Nixon,TN,Nixon-TN,Tennessee,47071,Hardin,35.1148,-88.2567,,,64.7,point,FALSE,America/Chicago,38372
+Harrogate-TN,1840013303,Harrogate,Harrogate,TN,Harrogate-TN,Tennessee,47025,Claiborne,36.5744,-83.6465,4388,4388,222,polygon,TRUE,America/New_York,37752
+Clinton-TN,1840014471,Clinton,Clinton,TN,Clinton-TN,Tennessee,47001,Anderson,36.0986,-84.1283,10106,10106,341,polygon,TRUE,America/New_York,37716 37717
+Eads-TN,1840036029,Eads,Eads,TN,Eads-TN,Tennessee,47157,Shelby,35.2045,-89.6492,,,44.4,point,FALSE,America/Chicago,38028
+Erin-TN,1840013348,Erin,Erin,TN,Erin-TN,Tennessee,47083,Houston,36.316,-87.7025,1283,1283,121,polygon,TRUE,America/Chicago,37061
+Middleton-TN,1840014584,Middleton,Middleton,TN,Middleton-TN,Tennessee,47069,Hardeman,35.0617,-88.8896,650,650,131,polygon,TRUE,America/Chicago,38052
+Belfast-TN,1840036008,Belfast,Belfast,TN,Belfast-TN,Tennessee,47117,Marshall,35.4209,-86.7025,,,45.3,point,FALSE,America/Chicago,37019
+Watauga-TN,1840015278,Watauga,Watauga,TN,Watauga-TN,Tennessee,47019,Carter,36.369,-82.2935,350,350,166,polygon,TRUE,America/New_York,37694
+Unicoi-TN,1840016131,Unicoi,Unicoi,TN,Unicoi-TN,Tennessee,47171,Unicoi,36.2217,-82.329,3531,3531,83,polygon,TRUE,America/New_York,37692
+Farner-TN,1840036139,Farner,Farner,TN,Farner-TN,Tennessee,47139,Polk,35.1542,-84.3152,,,51.6,point,FALSE,America/New_York,37333
+Winfield-TN,1840016018,Winfield,Winfield,TN,Winfield-TN,Tennessee,47151,Scott,36.5645,-84.4461,960,960,58,polygon,TRUE,America/New_York,37892
+Rickman-TN,1840036089,Rickman,Rickman,TN,Rickman-TN,Tennessee,47133,Overton,36.2626,-85.3755,,,321.2,point,FALSE,America/Chicago,38580
+Scotts Hill-TN,1840017792,Scotts Hill,Scotts Hill,TN,Scotts Hill-TN,Tennessee,47039,Decatur,35.5189,-88.2527,985,985,100,polygon,TRUE,America/Chicago,38374
+Halls-TN,1840016246,Halls,Halls,TN,Halls-TN,Tennessee,47097,Lauderdale,35.8794,-89.4047,2621,2162,227,polygon,TRUE,America/Chicago,38037 38040
+Crossville-TN,1840014489,Crossville,Crossville,TN,Crossville-TN,Tennessee,47035,Cumberland,35.9526,-85.0294,17335,11455,217,polygon,TRUE,America/Chicago,38571 38555 38557
+Ashport-TN,1840036007,Ashport,Ashport,TN,Ashport-TN,Tennessee,47097,Lauderdale,35.7601,-89.7856,,,1,point,FALSE,America/Chicago,38063
+Grimsley-TN,1840025760,Grimsley,Grimsley,TN,Grimsley-TN,Tennessee,47049,Fentress,36.2761,-84.9969,,,28.2,polygon,FALSE,America/Chicago,38565 38556
+Palmer-TN,1840016345,Palmer,Palmer,TN,Palmer-TN,Tennessee,47061,Grundy,35.3575,-85.5656,664,664,51,polygon,TRUE,America/Chicago,37365
+Medina-TN,1840015340,Medina,Medina,TN,Medina-TN,Tennessee,47053,Gibson,35.8149,-88.7905,4370,4182,412,polygon,TRUE,America/Chicago,38355
+Bean Station-TN,1840013342,Bean Station,Bean Station,TN,Bean Station-TN,Tennessee,47057,Grainger,36.3318,-83.2855,3109,3109,200,polygon,TRUE,America/New_York,37708
+Middle Valley-TN,1840013450,Middle Valley,Middle Valley,TN,Middle Valley-TN,Tennessee,47065,Hamilton,35.1878,-85.1958,,,811.8,polygon,FALSE,America/New_York,37343
+Belinda City-TN,1840036146,Belinda City,Belinda City,TN,Belinda City-TN,Tennessee,47189,Wilson,36.1676,-86.4858,,,796,point,FALSE,America/Chicago,37122
+Westover-TN,1840035999,Westover,Westover,TN,Westover-TN,Tennessee,47113,Madison,35.6109,-88.8767,,,262.9,point,FALSE,America/Chicago,38301
+Clarkrange-TN,1840025759,Clarkrange,Clarkrange,TN,Clarkrange-TN,Tennessee,47049,Fentress,36.1857,-85.0096,,,26.8,polygon,FALSE,America/Chicago,38553
+Pegram-TN,1840016091,Pegram,Pegram,TN,Pegram-TN,Tennessee,47021,Cheatham,36.1048,-87.0564,2115,2115,105,polygon,TRUE,America/Chicago,37143
+Grand Junction-TN,1840013464,Grand Junction,Grand Junction,TN,Grand Junction-TN,Tennessee,47069,Hardeman,35.0501,-89.1888,279,279,91,polygon,TRUE,America/Chicago,38039
+White Bluff-TN,1840016106,White Bluff,White Bluff,TN,White Bluff-TN,Tennessee,47043,Dickson,36.1,-87.2109,3437,3437,223,polygon,TRUE,America/Chicago,37187
+Atwood-TN,1840015347,Atwood,Atwood,TN,Atwood-TN,Tennessee,47017,Carroll,35.975,-88.6684,921,921,192,polygon,TRUE,America/Chicago,38220
+Crab Orchard-TN,1840014488,Crab Orchard,Crab Orchard,TN,Crab Orchard-TN,Tennessee,47035,Cumberland,35.9065,-84.8841,761,761,26,polygon,TRUE,America/Chicago,37723 38555
+Bartlett-TN,1840013472,Bartlett,Bartlett,TN,Bartlett-TN,Tennessee,47157,Shelby,35.2337,-89.8195,58622,58622,701,polygon,TRUE,America/Chicago,38002 38133 38134 38135 38029
+Charleston-TN,1840014602,Charleston,Charleston,TN,Charleston-TN,Tennessee,47011,Bradley,35.2861,-84.7611,674,674,254,polygon,TRUE,America/New_York,37310
+Saulsbury-TN,1840017860,Saulsbury,Saulsbury,TN,Saulsbury-TN,Tennessee,47069,Hardeman,35.0488,-89.0883,93,93,61,polygon,TRUE,America/Chicago,38067
+Concord-TN,1840036023,Concord,Concord,TN,Concord-TN,Tennessee,47093,Knox,35.8687,-84.1419,,,1014.5,point,FALSE,America/New_York,37934
+Ethridge-TN,1840016373,Ethridge,Ethridge,TN,Ethridge-TN,Tennessee,47099,Lawrence,35.3217,-87.3012,480,480,158,polygon,TRUE,America/Chicago,38456
+Millington-TN,1840014593,Millington,Millington,TN,Millington-TN,Tennessee,47157,Shelby,35.3368,-89.8932,10974,10974,127,polygon,TRUE,America/Chicago,38053 38054 38055 38083
+Parker Crossroads-TN,1840036152,Parker Crossroads,Parker Crossroads,TN,Parker Crossroads-TN,Tennessee,47077,Henderson,35.7937,-88.3909,,,11.8,point,TRUE,America/Chicago,38388
+Hendersonville-TN,1840014419,Hendersonville,Hendersonville,TN,Hendersonville-TN,Tennessee,47165,Sumner,36.3063,-86.5997,57050,57050,700,polygon,TRUE,America/Chicago,37075 37077
+Hohenwald-TN,1840014546,Hohenwald,Hohenwald,TN,Hohenwald-TN,Tennessee,47101,Lewis,35.5518,-87.5536,3549,3678,265,polygon,TRUE,America/Chicago,38462
+Olivet-TN,1840025828,Olivet,Olivet,TN,Olivet-TN,Tennessee,47071,Hardin,35.2048,-88.194,,,114.2,polygon,FALSE,America/Chicago,38372
+Baileyton-TN,1840015306,Baileyton,Baileyton,TN,Baileyton-TN,Tennessee,47059,Greene,36.3303,-82.8289,434,434,100,polygon,TRUE,America/New_York,37745
+New Hope-TN,1840014604,New Hope,New Hope,TN,New Hope-TN,Tennessee,47115,Marion,35.0044,-85.6597,1063,1063,39,polygon,TRUE,America/Chicago,37380
+Philadelphia-TN,1840014513,Philadelphia,Philadelphia,TN,Philadelphia-TN,Tennessee,47105,Loudon,35.6788,-84.3999,692,692,167,polygon,TRUE,America/New_York,37846
+Blountville-TN,1840013298,Blountville,Blountville,TN,Blountville-TN,Tennessee,47163,Sullivan,36.533,-82.329,,,162.1,polygon,FALSE,America/New_York,37617
+Talbott-TN,1840036104,Talbott,Talbott,TN,Talbott-TN,Tennessee,47089,Jefferson,36.1526,-83.4152,,,225.8,point,FALSE,America/New_York,37877
+College Grove-TN,1840036120,College Grove,College Grove,TN,College Grove-TN,Tennessee,47187,Williamson,35.7884,-86.6744,,,17.2,point,FALSE,America/Chicago,37046
+Witt-TN,1840036112,Witt,Witt,TN,Witt-TN,Tennessee,47063,Hamblen,36.1501,-83.2829,,,131.8,point,FALSE,America/New_York,37813
+Brush Creek-TN,1840036116,Brush Creek,Brush Creek,TN,Brush Creek-TN,Tennessee,47159,Smith,36.1173,-86.0278,,,104.6,point,FALSE,America/Chicago,38547
+Summitville-TN,1840035994,Summitville,Summitville,TN,Summitville-TN,Tennessee,47031,Coffee,35.5595,-85.9925,,,82.9,point,FALSE,America/Chicago,37355
+Linden-TN,1840016273,Linden,Linden,TN,Linden-TN,Tennessee,47135,Perry,35.6124,-87.8431,903,903,344,polygon,TRUE,America/Chicago,37096
+Dunlap-TN,1840013437,Dunlap,Dunlap,TN,Dunlap-TN,Tennessee,47153,Sequatchie,35.3676,-85.3897,3933,5132,184,polygon,TRUE,America/Chicago,37327
+Jasper-TN,1840016428,Jasper,Jasper,TN,Jasper-TN,Tennessee,47115,Marion,35.0675,-85.6244,3363,3362,138,polygon,TRUE,America/Chicago,37347
+Kingston Springs-TN,1840016090,Kingston Springs,Kingston Springs,TN,Kingston Springs-TN,Tennessee,47021,Cheatham,36.0848,-87.1043,2763,2763,107,polygon,TRUE,America/Chicago,37082
+Shackle Island-TN,1840024896,Shackle Island,Shackle Island,TN,Shackle Island-TN,Tennessee,47165,Sumner,36.3775,-86.6168,,,214.7,polygon,FALSE,America/Chicago,37075
+Mooresburg-TN,1840025758,Mooresburg,Mooresburg,TN,Mooresburg-TN,Tennessee,47073,Hawkins,36.3531,-83.2362,,,98.2,polygon,FALSE,America/New_York,37811
+Apison-TN,1840024958,Apison,Apison,TN,Apison-TN,Tennessee,47065,Hamilton,35.0104,-85.0089,,,177.3,polygon,FALSE,America/New_York,37302
+Bells-TN,1840013394,Bells,Bells,TN,Bells-TN,Tennessee,47033,Crockett,35.7207,-89.0852,4737,2426,402,polygon,TRUE,America/Chicago,38006
+Decatur-TN,1840016301,Decatur,Decatur,TN,Decatur-TN,Tennessee,47121,Meigs,35.5277,-84.7927,1572,1572,202,polygon,TRUE,America/New_York,37322
+Perryville-TN,1840036082,Perryville,Perryville,TN,Perryville-TN,Tennessee,47039,Decatur,35.6206,-88.0417,,,108.9,point,FALSE,America/Chicago,38363
+Pigeon Forge-TN,1840014500,Pigeon Forge,Pigeon Forge,TN,Pigeon Forge-TN,Tennessee,47155,Sevier,35.7978,-83.5619,6199,6199,181,polygon,TRUE,America/New_York,37863 37868
+Rugby-TN,1840036129,Rugby,Rugby,TN,Rugby-TN,Tennessee,47129,Morgan,36.3604,-84.7008,,,9.8,point,FALSE,America/New_York,37733
+Niota-TN,1840014549,Niota,Niota,TN,Niota-TN,Tennessee,47107,McMinn,35.5169,-84.5496,723,723,122,polygon,TRUE,America/New_York,37826
+Oliver Springs-TN,1840016221,Oliver Springs,Oliver Springs,TN,Oliver Springs-TN,Tennessee,47145,Roane,36.04,-84.3284,3253,3253,225,polygon,TRUE,America/New_York,37840
+Benton-TN,1840015475,Benton,Benton,TN,Benton-TN,Tennessee,47139,Polk,35.1746,-84.6522,1317,1317,158,polygon,TRUE,America/New_York,37307
+Rosemark-TN,1840036093,Rosemark,Rosemark,TN,Rosemark-TN,Tennessee,47157,Shelby,35.3626,-89.7723,,,58.6,point,FALSE,America/Chicago,38053
+Enville-TN,1840016325,Enville,Enville,TN,Enville-TN,Tennessee,47023,Chester,35.3923,-88.4329,190,190,50,polygon,TRUE,America/Chicago,38332
+New Johnsonville-TN,1840014480,New Johnsonville,New Johnsonville,TN,New Johnsonville-TN,Tennessee,47085,Humphreys,36.0162,-87.9694,1915,1915,139,polygon,TRUE,America/Chicago,37134
+Decherd-TN,1840014601,Decherd,Decherd,TN,Decherd-TN,Tennessee,47051,Franklin,35.2162,-86.0759,2414,2414,193,polygon,TRUE,America/Chicago,37398 37324
+Wildersville-TN,1840036001,Wildersville,Wildersville,TN,Wildersville-TN,Tennessee,47077,Henderson,35.7815,-88.3603,,,69.6,point,FALSE,America/Chicago,38388
+Allardt-TN,1840013304,Allardt,Allardt,TN,Allardt-TN,Tennessee,47049,Fentress,36.3807,-84.8811,636,636,63,polygon,TRUE,America/Chicago,38556
+Washburn-TN,1840036109,Washburn,Washburn,TN,Washburn-TN,Tennessee,47057,Grainger,36.2901,-83.591,,,8.6,point,FALSE,America/New_York,37888
+Trenton-TN,1840015343,Trenton,Trenton,TN,Trenton-TN,Tennessee,47053,Gibson,35.9685,-88.9457,3739,4140,196,polygon,TRUE,America/Chicago,38382
+McMinnville-TN,1840015385,McMinnville,McMinnville,TN,McMinnville-TN,Tennessee,47177,Warren,35.6859,-85.7817,15561,13761,480,polygon,TRUE,America/Chicago,37110 37111
+Lobelville-TN,1840015387,Lobelville,Lobelville,TN,Lobelville-TN,Tennessee,47135,Perry,35.7503,-87.7954,891,891,87,polygon,TRUE,America/Chicago,37097
+Ardmore-TN,1840013453,Ardmore,Ardmore,TN,Ardmore-TN,Tennessee,47055,Giles,35.0031,-86.8555,1216,1216,102,polygon,TRUE,America/Chicago,38449
+Mount Juliet-TN,1840014465,Mount Juliet,Mount Juliet,TN,Mount Juliet-TN,Tennessee,47189,Wilson,36.2004,-86.5122,33263,33263,533,polygon,TRUE,America/Chicago,37122 37121
+Chapel Hill-TN,1840016306,Chapel Hill,Chapel Hill,TN,Chapel Hill-TN,Tennessee,47117,Marshall,35.6287,-86.695,1476,1476,176,polygon,TRUE,America/Chicago,37034
+Huntingdon-TN,1840016180,Huntingdon,Huntingdon,TN,Huntingdon-TN,Tennessee,47017,Carroll,36.0046,-88.4181,3913,3913,127,polygon,TRUE,America/Chicago,38344
+Kingston-TN,1840014499,Kingston,Kingston,TN,Kingston-TN,Tennessee,47145,Roane,35.8717,-84.4954,5840,5840,318,polygon,TRUE,America/New_York,37763
+Union City-TN,1840015280,Union City,Union City,TN,Union City-TN,Tennessee,47131,Obion,36.4265,-89.0477,10013,10589,331,polygon,TRUE,America/Chicago,38261 38281
+Flintville-TN,1840025830,Flintville,Flintville,TN,Flintville-TN,Tennessee,47103,Lincoln,35.0601,-86.4164,,,186.8,polygon,FALSE,America/Chicago,37335
+Slayden-TN,1840017723,Slayden,Slayden,TN,Slayden-TN,Tennessee,47043,Dickson,36.2925,-87.4658,184,184,53,polygon,TRUE,America/Chicago,37165 37051
+RoEllen-TN,1840036090,RoEllen,RoEllen,TN,RoEllen-TN,Tennessee,47045,Dyer,36.0237,-89.2815,,,91.1,point,FALSE,America/Chicago,38024
+Braden-TN,1840015460,Braden,Braden,TN,Braden-TN,Tennessee,47047,Fayette,35.3685,-89.5714,273,273,27,polygon,TRUE,America/Chicago,38049 38010
+Norris-TN,1840014472,Norris,Norris,TN,Norris-TN,Tennessee,47001,Anderson,36.2106,-84.0629,3309,1642,85,polygon,TRUE,America/New_York,37705 37828
+Paris-TN,1840014438,Paris,Paris,TN,Paris-TN,Tennessee,47079,Henry,36.2936,-88.3066,10679,10192,302,polygon,TRUE,America/Chicago,38242
+Saint Joseph-TN,1840015441,Saint Joseph,Saint Joseph,TN,Saint Joseph-TN,Tennessee,47099,Lawrence,35.0325,-87.5017,787,787,87,polygon,TRUE,America/Chicago,38481
+Hickory Valley-TN,1840015449,Hickory Valley,Hickory Valley,TN,Hickory Valley-TN,Tennessee,47069,Hardeman,35.1548,-89.126,95,95,112,polygon,TRUE,America/Chicago,38042
+Clarksville-TN,1840014421,Clarksville,Clarksville,TN,Clarksville-TN,Tennessee,47125,Montgomery,36.5696,-87.3428,179367,150287,590,polygon,TRUE,America/Chicago,42223 37043 37042 37040 37041 37044
+Morristown-TN,1840014467,Morristown,Morristown,TN,Morristown-TN,Tennessee,47063,Hamblen,36.2043,-83.3,60098,29663,419,polygon,TRUE,America/New_York,37813 37814 37778 37815 37816
+Counce-TN,1840036026,Counce,Counce,TN,Counce-TN,Tennessee,47071,Hardin,35.0423,-88.2734,,,18.4,point,FALSE,America/Chicago,38326
+Tellico Plains-TN,1840016311,Tellico Plains,Tellico Plains,TN,Tellico Plains-TN,Tennessee,47123,Monroe,35.3657,-84.2974,941,941,187,polygon,TRUE,America/New_York,37385
+Bold Spring-TN,1840036132,Bold Spring,Bold Spring,TN,Bold Spring-TN,Tennessee,47085,Humphreys,35.967,-87.6792,,,5.5,point,FALSE,America/Chicago,37101
+Powell-TN,1840036085,Powell,Powell,TN,Powell-TN,Tennessee,47093,Knox,36.0317,-84.028,,,462.4,point,FALSE,America/New_York,37849
+Henderson-TN,1840014550,Henderson,Henderson,TN,Henderson-TN,Tennessee,47023,Chester,35.4444,-88.6529,6258,6551,322,polygon,TRUE,America/Chicago,38340
+Decaturville-TN,1840016272,Decaturville,Decaturville,TN,Decaturville-TN,Tennessee,47039,Decatur,35.582,-88.1193,875,875,203,polygon,TRUE,America/Chicago,38329
+Medon-TN,1840015394,Medon,Medon,TN,Medon-TN,Tennessee,47113,Madison,35.456,-88.8645,163,163,64,polygon,TRUE,America/Chicago,38356
+Powells Crossroads-TN,1840017872,Powells Crossroads,Powells Crossroads,TN,Powells Crossroads-TN,Tennessee,47115,Marion,35.1844,-85.4846,1326,1326,101,polygon,TRUE,America/Chicago,37397
+Ridgely-TN,1840017710,Ridgely,Ridgely,TN,Ridgely-TN,Tennessee,47095,Lake,36.2614,-89.4801,1707,1707,384,polygon,TRUE,America/Chicago,38080
+Dickson-TN,1840014468,Dickson,Dickson,TN,Dickson-TN,Tennessee,47043,Dickson,36.0637,-87.3661,17066,15492,296,polygon,TRUE,America/Chicago,37029 37055 37056
+Atoka-TN,1840015416,Atoka,Atoka,TN,Atoka-TN,Tennessee,47167,Tipton,35.4229,-89.7862,20478,9095,284,polygon,TRUE,America/Chicago,38004
+Graball-TN,1840024893,Graball,Graball,TN,Graball-TN,Tennessee,47165,Sumner,36.4837,-86.4396,,,44.9,polygon,FALSE,America/Chicago,37066 37148
+Obion-TN,1840016069,Obion,Obion,TN,Obion-TN,Tennessee,47131,Obion,36.2642,-89.1941,1072,1072,271,polygon,TRUE,America/Chicago,38240
+Bumpus Mills-TN,1840036015,Bumpus Mills,Bumpus Mills,TN,Bumpus Mills-TN,Tennessee,47161,Stewart,36.6048,-87.8375,,,53,point,FALSE,America/Chicago,37028
+Lexington-TN,1840014527,Lexington,Lexington,TN,Lexington-TN,Tennessee,47077,Henderson,35.6609,-88.3965,6660,7769,243,polygon,TRUE,America/Chicago,38351
+Oneida-TN,1840016019,Oneida,Oneida,TN,Oneida-TN,Tennessee,47151,Scott,36.5174,-84.5102,4286,3722,153,polygon,TRUE,America/New_York,37841
+Stella-TN,1840035993,Stella,Stella,TN,Stella-TN,Tennessee,47055,Giles,35.039,-87.0847,,,15.7,point,FALSE,America/Chicago,38477
+Newport-TN,1840014487,Newport,Newport,TN,Newport-TN,Tennessee,47029,Cocke,35.9614,-83.1977,11415,6833,477,polygon,TRUE,America/New_York,37821 37822
+Mentor-TN,1840036069,Mentor,Mentor,TN,Mentor-TN,Tennessee,47009,Blount,35.8217,-84.0119,,,386.5,point,FALSE,America/New_York,37777
+Crump-TN,1840014588,Crump,Crump,TN,Crump-TN,Tennessee,47071,Hardin,35.2317,-88.3359,1395,1395,40,polygon,TRUE,America/Chicago,38310 38327
+Eagleville-TN,1840013378,Eagleville,Eagleville,TN,Eagleville-TN,Tennessee,47149,Rutherford,35.7398,-86.6531,663,663,93,polygon,TRUE,America/Chicago,37060
+Oak Grove-TN,1840013335,Oak Grove,Oak Grove,TN,Oak Grove-TN,Tennessee,47179,Washington,36.4223,-82.4293,,,796.8,polygon,FALSE,America/New_York,37615
+Frankewing-TN,1840036042,Frankewing,Frankewing,TN,Frankewing-TN,Tennessee,47055,Giles,35.1926,-86.8511,,,86.8,point,FALSE,America/Chicago,38459
+Humboldt-TN,1840014484,Humboldt,Humboldt,TN,Humboldt-TN,Tennessee,47053,Gibson,35.8254,-88.9045,8543,8235,327,polygon,TRUE,America/Chicago,38343
+Big Rock-TN,1840036114,Big Rock,Big Rock,TN,Big Rock-TN,Tennessee,47161,Stewart,36.5806,-87.76,,,73.7,point,FALSE,America/Chicago,37023
+Telford-TN,1840025772,Telford,Telford,TN,Telford-TN,Tennessee,47179,Washington,36.2535,-82.5477,,,109,polygon,FALSE,America/New_York,37690
+Manchester-TN,1840015409,Manchester,Manchester,TN,Manchester-TN,Tennessee,47031,Coffee,35.4629,-86.0774,11959,10617,288,polygon,TRUE,America/Chicago,37355 37349
+Mascot-TN,1840013374,Mascot,Mascot,TN,Mascot-TN,Tennessee,47093,Knox,36.0673,-83.765,,,126.8,polygon,FALSE,America/New_York,37924 37806
+Shelbyville-TN,1840015412,Shelbyville,Shelbyville,TN,Shelbyville-TN,Tennessee,47003,Bedford,35.4991,-86.4518,21083,21432,444,polygon,TRUE,America/Chicago,37160 37161 37162
+Camden-TN,1840013349,Camden,Camden,TN,Camden-TN,Tennessee,47005,Benton,36.0662,-88.1044,3521,3551,241,polygon,TRUE,America/Chicago,38320
+Clairfield-TN,1840036021,Clairfield,Clairfield,TN,Clairfield-TN,Tennessee,47025,Claiborne,36.5501,-83.9502,,,56.9,point,FALSE,America/New_York,37715
+Jackson-TN,1840014528,Jackson,Jackson,TN,Jackson-TN,Tennessee,47113,Madison,35.6535,-88.8351,73860,67005,441,polygon,TRUE,America/Chicago,38305 38301 38302 38303 38308 38314
+Sparta-TN,1840015354,Sparta,Sparta,TN,Sparta-TN,Tennessee,47185,White,35.9348,-85.4724,5613,5073,290,polygon,TRUE,America/Chicago,38583
+Knoxville-TN,1840014486,Knoxville,Knoxville,TN,Knoxville-TN,Tennessee,47093,Knox,35.969,-83.9498,581787,186239,729,polygon,TRUE,America/New_York,37909 37902 37924 37920 37921 37922 37923 37919 37918 37915 37914 37917 37916 37912 37901 37927 37928 37929 37930 37933 37939 37940 37950 37995 37996 37997 37998
+Strawberry Plains-TN,1840036103,Strawberry Plains,Strawberry Plains,TN,Strawberry Plains-TN,Tennessee,47089,Jefferson,36.0631,-83.686,,,151.9,point,FALSE,America/New_York,37871
+Walnut Hill-TN,1840013299,Walnut Hill,Walnut Hill,TN,Walnut Hill-TN,Tennessee,47163,Sullivan,36.5673,-82.2655,,,477.2,polygon,FALSE,America/New_York,37620
+Sale Creek-TN,1840024960,Sale Creek,Sale Creek,TN,Sale Creek-TN,Tennessee,47065,Hamilton,35.3895,-85.0875,,,306,polygon,FALSE,America/New_York,37373 37304
+Morrison-TN,1840016269,Morrison,Morrison,TN,Morrison-TN,Tennessee,47177,Warren,35.6047,-85.9122,707,707,100,polygon,TRUE,America/Chicago,37357
+Green Hill-TN,1840013350,Green Hill,Green Hill,TN,Green Hill-TN,Tennessee,47189,Wilson,36.2349,-86.5733,,,475.3,polygon,FALSE,America/Chicago,37138
+Fincastle-TN,1840025757,Fincastle,Fincastle,TN,Fincastle-TN,Tennessee,47013,Campbell,36.4038,-84.048,,,179.1,polygon,FALSE,America/New_York,37766
+Tullahoma-TN,1840015410,Tullahoma,Tullahoma,TN,Tullahoma-TN,Tennessee,47031,Coffee,35.372,-86.2173,17821,19273,316,polygon,TRUE,America/Chicago,37360 37388
+Greenbrier-TN,1840016014,Greenbrier,Greenbrier,TN,Greenbrier-TN,Tennessee,47147,Robertson,36.4237,-86.7974,6796,6796,376,polygon,TRUE,America/Chicago,37073
+Indian Mound-TN,1840036127,Indian Mound,Indian Mound,TN,Indian Mound-TN,Tennessee,47161,Stewart,36.5009,-87.6936,,,54.9,point,FALSE,America/Chicago,37079
+Mountain City-TN,1840016016,Mountain City,Mountain City,TN,Mountain City-TN,Tennessee,47091,Johnson,36.4695,-81.805,2603,2443,285,polygon,TRUE,America/New_York,37683
+Gilt Edge-TN,1840013428,Gilt Edge,Gilt Edge,TN,Gilt Edge-TN,Tennessee,47167,Tipton,35.5337,-89.8302,468,468,66,polygon,TRUE,America/Chicago,38015
+Tasso-TN,1840036105,Tasso,Tasso,TN,Tasso-TN,Tennessee,47011,Bradley,35.2117,-84.8041,,,143.1,point,FALSE,America/New_York,37312
+De Rossett-TN,1840035986,De Rossett,De Rossett,TN,De Rossett-TN,Tennessee,47185,White,35.9506,-85.3089,,,87.1,point,FALSE,America/Chicago,38583
+Rockford-TN,1840014517,Rockford,Rockford,TN,Rockford-TN,Tennessee,47009,Blount,35.833,-83.9359,861,861,104,polygon,TRUE,America/New_York,37853 37804
+Central-TN,1840013312,Central,Central,TN,Central-TN,Tennessee,47019,Carter,36.3292,-82.2938,,,400.7,polygon,FALSE,America/New_York,37601
+Soddy-Daisy-TN,1840035990,Soddy-Daisy,Soddy-Daisy,TN,Soddy-Daisy-TN,Tennessee,47065,Hamilton,35.2571,-85.174,13217,13217,220,polygon,TRUE,America/New_York,37343 37379 37384
+Fall Branch-TN,1840013064,Fall Branch,Fall Branch,TN,Fall Branch-TN,Tennessee,47179,Washington,36.4161,-82.6242,,,162.6,polygon,FALSE,America/New_York,37656
+Rocky Fork-TN,1840036144,Rocky Fork,Rocky Fork,TN,Rocky Fork-TN,Tennessee,47171,Unicoi,36.0351,-82.5521,,,6.9,point,FALSE,America/New_York,37657
+Cottage Grove-TN,1840016073,Cottage Grove,Cottage Grove,TN,Cottage Grove-TN,Tennessee,47079,Henry,36.3786,-88.4791,88,88,177,polygon,TRUE,America/Chicago,38224
+Statesville-TN,1840036102,Statesville,Statesville,TN,Statesville-TN,Tennessee,47189,Wilson,36.0195,-86.125,,,41.7,point,FALSE,America/Chicago,37184
+Loretto-TN,1840015440,Loretto,Loretto,TN,Loretto-TN,Tennessee,47099,Lawrence,35.08,-87.4403,1752,1752,171,polygon,TRUE,America/Chicago,38469
+Westmoreland-TN,1840016015,Westmoreland,Westmoreland,TN,Westmoreland-TN,Tennessee,47165,Sumner,36.5606,-86.2442,2311,2311,227,polygon,TRUE,America/Chicago,37186
+Mount Carmel-TN,1840016025,Mount Carmel,Mount Carmel,TN,Mount Carmel-TN,Tennessee,47073,Hawkins,36.5612,-82.6615,5427,5427,302,polygon,TRUE,America/New_York,37645
+Big Sandy-TN,1840015314,Big Sandy,Big Sandy,TN,Big Sandy-TN,Tennessee,47005,Benton,36.2324,-88.0854,536,536,291,polygon,TRUE,America/Chicago,38221
+Stantonville-TN,1840016412,Stantonville,Stantonville,TN,Stantonville-TN,Tennessee,47109,McNairy,35.1569,-88.4299,267,267,93,polygon,TRUE,America/Chicago,38379
+Bluff City-TN,1840013300,Bluff City,Bluff City,TN,Bluff City-TN,Tennessee,47163,Sullivan,36.4608,-82.2781,1656,1656,415,polygon,TRUE,America/New_York,37618 37686
+Erwin-TN,1840016130,Erwin,Erwin,TN,Erwin-TN,Tennessee,47171,Unicoi,36.1455,-82.4115,9503,5920,566,polygon,TRUE,America/New_York,37650
+Thompson's Station-TN,1840016218,Thompson's Station,Thompson's Station,TN,Thompson's Station-TN,Tennessee,47187,Williamson,35.809,-86.9,5194,5194,102,polygon,TRUE,America/Chicago,37064 37179
+Smithville-TN,1840015350,Smithville,Smithville,TN,Smithville-TN,Tennessee,47041,DeKalb,35.9583,-85.8212,4194,4692,306,polygon,TRUE,America/Chicago,37166
+Willette-TN,1840036111,Willette,Willette,TN,Willette-TN,Tennessee,47111,Macon,36.4412,-85.8505,,,8.9,point,FALSE,America/Chicago,37150
+Auburntown-TN,1840015371,Auburntown,Auburntown,TN,Auburntown-TN,Tennessee,47015,Cannon,35.951,-86.0972,264,264,179,polygon,TRUE,America/Chicago,37016
+Pleasant View-TN,1840014461,Pleasant View,Pleasant View,TN,Pleasant View-TN,Tennessee,47021,Cheatham,36.3893,-87.0455,3906,4346,134,polygon,TRUE,America/Chicago,37146
+Madisonville-TN,1840015414,Madisonville,Madisonville,TN,Madisonville-TN,Tennessee,47123,Monroe,35.5234,-84.3637,5617,4770,296,polygon,TRUE,America/New_York,37354
+La Grange-TN,1840016406,La Grange,La Grange,TN,La Grange-TN,Tennessee,47047,Fayette,35.0475,-89.2396,135,135,28,polygon,TRUE,America/Chicago,38057 38046
+Lenox-TN,1840036058,Lenox,Lenox,TN,Lenox-TN,Tennessee,47045,Dyer,36.0892,-89.4984,,,121.1,point,FALSE,America/Chicago,38047
+Harriman-TN,1840013385,Harriman,Harriman,TN,Harriman-TN,Tennessee,47145,Roane,35.9306,-84.5603,23026,6218,227,polygon,TRUE,America/New_York,37748
+Samburg-TN,1840017708,Samburg,Samburg,TN,Samburg-TN,Tennessee,47131,Obion,36.3818,-89.3523,207,207,133,polygon,TRUE,America/Chicago,38254 38232
+Sherwood-TN,1840036099,Sherwood,Sherwood,TN,Sherwood-TN,Tennessee,47051,Franklin,35.0762,-85.9233,,,38.1,point,FALSE,America/Chicago,37376
+Conasauga-TN,1840036121,Conasauga,Conasauga,TN,Conasauga-TN,Tennessee,47139,Polk,35.0045,-84.7294,,,92.1,point,FALSE,America/New_York,37362
+Ramer-TN,1840014597,Ramer,Ramer,TN,Ramer-TN,Tennessee,47109,McNairy,35.0717,-88.6152,318,318,71,polygon,TRUE,America/Chicago,38367
+Jacksboro-TN,1840016023,Jacksboro,Jacksboro,TN,Jacksboro-TN,Tennessee,47013,Campbell,36.3353,-84.1926,1944,1944,295,polygon,TRUE,America/New_York,37757
+Johnson City-TN,1840014462,Johnson City,Johnson City,TN,Johnson City-TN,Tennessee,47179,Washington,36.3404,-82.3803,127134,66677,599,polygon,TRUE,America/New_York,37614 37615 37601 37604 37602 37605 37684
+Friendship-TN,1840013393,Friendship,Friendship,TN,Friendship-TN,Tennessee,47033,Crockett,35.9074,-89.2408,659,659,195,polygon,TRUE,America/Chicago,38034
+Corryton-TN,1840036025,Corryton,Corryton,TN,Corryton-TN,Tennessee,47093,Knox,36.1537,-83.7824,,,189.6,point,FALSE,America/New_York,37721
+Robbins-TN,1840025756,Robbins,Robbins,TN,Robbins-TN,Tennessee,47151,Scott,36.3536,-84.5839,,,63.9,polygon,FALSE,America/New_York,37852
+Mansfield-TN,1840036066,Mansfield,Mansfield,TN,Mansfield-TN,Tennessee,47079,Henry,36.1773,-88.2862,,,24.3,point,FALSE,America/Chicago,38236
+Moss-TN,1840036071,Moss,Moss,TN,Moss-TN,Tennessee,47027,Clay,36.5892,-85.6169,,,16,point,FALSE,America/Chicago,38575
+Germantown-TN,1840013473,Germantown,Germantown,TN,Germantown-TN,Tennessee,47157,Shelby,35.083,-89.7824,39056,39056,754,polygon,TRUE,America/Chicago,38139 38138 38183
+Adams-TN,1840013294,Adams,Adams,TN,Adams-TN,Tennessee,47147,Robertson,36.5824,-87.0628,657,657,94,polygon,TRUE,America/Chicago,37010
+Malesus-TN,1840036065,Malesus,Malesus,TN,Malesus-TN,Tennessee,47113,Madison,35.5429,-88.8267,,,94.3,point,FALSE,America/Chicago,38301
+Ducktown-TN,1840013488,Ducktown,Ducktown,TN,Ducktown-TN,Tennessee,47139,Polk,35.036,-84.3855,476,476,69,polygon,TRUE,America/New_York,37317 37326
+Wildwood Lake-TN,1840036154,Wildwood Lake,Wildwood Lake,TN,Wildwood Lake-TN,Tennessee,47011,Bradley,35.0893,-84.8512,,,85.8,polygon,FALSE,America/New_York,37323
+Livingston-TN,1840016059,Livingston,Livingston,TN,Livingston-TN,Tennessee,47133,Overton,36.3877,-85.327,3488,4062,243,polygon,TRUE,America/Chicago,38570
+Beech Bluff-TN,1840036113,Beech Bluff,Beech Bluff,TN,Beech Bluff-TN,Tennessee,47113,Madison,35.5965,-88.6314,,,21.9,point,FALSE,America/Chicago,38313
+Gallaway-TN,1840013474,Gallaway,Gallaway,TN,Gallaway-TN,Tennessee,47047,Fayette,35.3279,-89.6068,657,657,41,polygon,TRUE,America/Chicago,38036 38002 38049
+Riceville-TN,1840025814,Riceville,Riceville,TN,Riceville-TN,Tennessee,47107,McMinn,35.3895,-84.6989,,,169.4,polygon,FALSE,America/New_York,37370
+Cornersville-TN,1840016307,Cornersville,Cornersville,TN,Cornersville-TN,Tennessee,47117,Marshall,35.3656,-86.8597,1243,1243,76,polygon,TRUE,America/Chicago,37047
+Lancing-TN,1840036128,Lancing,Lancing,TN,Lancing-TN,Tennessee,47129,Morgan,36.1206,-84.6538,,,29.1,point,FALSE,America/New_York,37770
+Elgin-TN,1840025755,Elgin,Elgin,TN,Elgin-TN,Tennessee,47151,Scott,36.3285,-84.6091,,,73.9,polygon,FALSE,America/New_York,37852 37732 37872
+Trezevant-TN,1840016183,Trezevant,Trezevant,TN,Trezevant-TN,Tennessee,47017,Carroll,36.011,-88.6208,834,834,231,polygon,TRUE,America/Chicago,38258
+Cypress Inn-TN,1840036028,Cypress Inn,Cypress Inn,TN,Cypress Inn-TN,Tennessee,47181,Wayne,35.012,-87.8167,,,8,point,FALSE,America/Chicago,38452
+Reagan-TN,1840036087,Reagan,Reagan,TN,Reagan-TN,Tennessee,47077,Henderson,35.5217,-88.3425,,,36.3,point,FALSE,America/Chicago,38368
+Delano-TN,1840036138,Delano,Delano,TN,Delano-TN,Tennessee,47139,Polk,35.2651,-84.5533,,,215.9,point,FALSE,America/New_York,37325
+Bethpage-TN,1840024888,Bethpage,Bethpage,TN,Bethpage-TN,Tennessee,47165,Sumner,36.4843,-86.3086,,,130.3,polygon,FALSE,America/Chicago,37022
+Farragut-TN,1840016171,Farragut,Farragut,TN,Farragut-TN,Tennessee,47093,Knox,35.8731,-84.1821,22282,22282,537,polygon,TRUE,America/New_York,37934
+Harrison-TN,1840013449,Harrison,Harrison,TN,Harrison-TN,Tennessee,47065,Hamilton,35.1275,-85.1464,,,595.8,polygon,FALSE,America/New_York,37416 37341
+Cleveland-TN,1840014603,Cleveland,Cleveland,TN,Cleveland-TN,Tennessee,47011,Bradley,35.1816,-84.8709,71601,44271,635,polygon,TRUE,America/New_York,37312 37311 37320 37364
+Mercer-TN,1840036070,Mercer,Mercer,TN,Mercer-TN,Tennessee,47113,Madison,35.4792,-89.0423,,,14.6,point,FALSE,America/Chicago,38392
+Shop Springs-TN,1840036100,Shop Springs,Shop Springs,TN,Shop Springs-TN,Tennessee,47189,Wilson,36.1278,-86.2122,,,78.6,point,FALSE,America/Chicago,37184
+Graysville-TN,1840016286,Graysville,Graysville,TN,Graysville-TN,Tennessee,47143,Rhea,35.4495,-85.0762,1523,1523,504,polygon,TRUE,America/New_York,37338 37321
+Cottontown-TN,1840024891,Cottontown,Cottontown,TN,Cottontown-TN,Tennessee,47165,Sumner,36.4489,-86.5335,,,43,polygon,FALSE,America/Chicago,37066 37048
+Orlinda-TN,1840014414,Orlinda,Orlinda,TN,Orlinda-TN,Tennessee,47147,Robertson,36.5935,-86.6994,891,891,51,polygon,TRUE,America/Chicago,37148 37141
+Athens-TN,1840013429,Athens,Athens,TN,Athens-TN,Tennessee,47107,McMinn,35.4573,-84.6042,16328,13748,341,polygon,TRUE,America/New_York,37303 37371
+Clarksburg-TN,1840016182,Clarksburg,Clarksburg,TN,Clarksburg-TN,Tennessee,47017,Carroll,35.8658,-88.3935,386,386,73,polygon,TRUE,America/Chicago,38390 38344 38324
+Pulaski-TN,1840014575,Pulaski,Pulaski,TN,Pulaski-TN,Tennessee,47055,Giles,35.1934,-87.0354,7630,7758,414,polygon,TRUE,America/Chicago,38478
+Silerton-TN,1840017861,Silerton,Silerton,TN,Silerton-TN,Tennessee,47069,Hardeman,35.3425,-88.8106,102,102,59,polygon,TRUE,America/Chicago,38340 38377
+Hollow Rock-TN,1840016179,Hollow Rock,Hollow Rock,TN,Hollow Rock-TN,Tennessee,47017,Carroll,36.0352,-88.2738,688,688,149,polygon,TRUE,America/Chicago,38342
+Surgoinsville-TN,1840016026,Surgoinsville,Surgoinsville,TN,Surgoinsville-TN,Tennessee,47073,Hawkins,36.4735,-82.8606,1787,1787,123,polygon,TRUE,America/New_York,37857 37873
+Viola-TN,1840016271,Viola,Viola,TN,Viola-TN,Tennessee,47177,Warren,35.5386,-85.8606,133,133,299,polygon,TRUE,America/Chicago,37394 37357
+New Union-TN,1840025812,New Union,New Union,TN,New Union-TN,Tennessee,47031,Coffee,35.534,-86.0832,,,163.7,polygon,FALSE,America/Chicago,37355
+Cordova-TN,1840036024,Cordova,Cordova,TN,Cordova-TN,Tennessee,47157,Shelby,35.1556,-89.7762,,,1607.4,point,FALSE,America/Chicago,38018
+Oak Hill-TN,1840014464,Oak Hill,Oak Hill,TN,Oak Hill-TN,Tennessee,47037,Davidson,36.0734,-86.7856,4681,4681,230,polygon,TRUE,America/Chicago,37204 37220
+Maynardville-TN,1840015305,Maynardville,Maynardville,TN,Maynardville-TN,Tennessee,47173,Union,36.2467,-83.8064,2357,2357,166,polygon,TRUE,America/New_York,37807
+Huntsville-TN,1840016017,Huntsville,Huntsville,TN,Huntsville-TN,Tennessee,47151,Scott,36.4106,-84.5038,1234,1234,121,polygon,TRUE,America/New_York,37756 37755
+Nashville-TN,1840036155,Nashville,Nashville,TN,Nashville-TN,Tennessee,47037,Davidson,36.1714,-86.7844,1065078,660388,535,polygon,TRUE,America/Chicago,37027 37138 37076 37072 37201 37203 37206 37240 37243 37246 37080 37218 37219 37216 37217 37214 37215 37212 37213 37210 37211 37189 37209 37208 37205 37204 37207 37115 37013 37228 37221 37220 37143 37011 37116 37202 37222 37224 37227 37229 37230 37232 37234 37235 37236 37238 37241 37242 37244 37250
+New Market-TN,1840016170,New Market,New Market,TN,New Market-TN,Tennessee,47089,Jefferson,36.109,-83.5495,1360,1360,127,polygon,TRUE,America/New_York,37820
+Iron City-TN,1840036055,Iron City,Iron City,TN,Iron City-TN,Tennessee,47099,Lawrence,35.0227,-87.5854,,,122.5,polygon,TRUE,America/Chicago,38463
+McLemoresville-TN,1840016181,McLemoresville,McLemoresville,TN,McLemoresville-TN,Tennessee,47017,Carroll,35.987,-88.5812,345,345,51,polygon,TRUE,America/Chicago,38258 38235 38344
+Karns-TN,1840036056,Karns,Karns,TN,Karns-TN,Tennessee,47093,Knox,35.982,-84.1138,,,386.1,point,FALSE,America/New_York,37931
+Fork Mountain-TN,1840036040,Fork Mountain,Fork Mountain,TN,Fork Mountain-TN,Tennessee,47001,Anderson,36.1267,-84.4199,,,6.1,point,FALSE,America/New_York,37710
+Williston-TN,1840015461,Williston,Williston,TN,Williston-TN,Tennessee,47047,Fayette,35.1583,-89.3754,383,383,91,polygon,TRUE,America/Chicago,38068 38076
+Lake Tansi-TN,1840013375,Lake Tansi,Lake Tansi,TN,Lake Tansi-TN,Tennessee,47035,Cumberland,35.8706,-85.0617,,,382,polygon,FALSE,America/Chicago,38572
+Red Boiling Springs-TN,1840014422,Red Boiling Springs,Red Boiling Springs,TN,Red Boiling Springs-TN,Tennessee,47111,Macon,36.5298,-85.8481,1137,1137,251,polygon,TRUE,America/Chicago,37150
+Rogersville-TN,1840017699,Rogersville,Rogersville,TN,Rogersville-TN,Tennessee,47073,Hawkins,36.408,-83.0037,6377,4375,497,polygon,TRUE,America/New_York,37857
+Nolensville-TN,1840016219,Nolensville,Nolensville,TN,Nolensville-TN,Tennessee,47187,Williamson,35.9594,-86.6754,7580,7580,354,polygon,TRUE,America/Chicago,37135
+Bristol-TN,1840013301,Bristol,Bristol,TN,Bristol-TN,Tennessee,47163,Sullivan,36.5572,-82.2144,70560,27109,321,polygon,TRUE,America/New_York,37620 37618 37621 37625
+Gainesboro-TN,1840016060,Gainesboro,Gainesboro,TN,Gainesboro-TN,Tennessee,47087,Jackson,36.3615,-85.6497,945,945,235,polygon,TRUE,America/Chicago,38562
+Lone Mountain-TN,1840036061,Lone Mountain,Lone Mountain,TN,Lone Mountain-TN,Tennessee,47025,Claiborne,36.3906,-83.5849,,,20.4,point,FALSE,America/New_York,37879
+Gates-TN,1840016245,Gates,Gates,TN,Gates-TN,Tennessee,47097,Lauderdale,35.8402,-89.4081,614,614,339,polygon,TRUE,America/Chicago,38037
+Hampton-TN,1840036048,Hampton,Hampton,TN,Hampton-TN,Tennessee,47019,Carter,36.2843,-82.1726,,,338.8,point,FALSE,America/New_York,37658
+Carter-TN,1840036137,Carter,Carter,TN,Carter-TN,Tennessee,47019,Carter,36.4129,-82.0804,,,149.9,point,FALSE,America/New_York,37643
+Bogota-TN,1840036011,Bogota,Bogota,TN,Bogota-TN,Tennessee,47045,Dyer,36.164,-89.4384,,,109.7,point,FALSE,America/Chicago,38007
+Smyrna-TN,1840017758,Smyrna,Smyrna,TN,Smyrna-TN,Tennessee,47149,Rutherford,35.9732,-86.5242,48596,48596,629,polygon,TRUE,America/Chicago,37167
+Yorkville-TN,1840015341,Yorkville,Yorkville,TN,Yorkville-TN,Tennessee,47053,Gibson,36.0966,-89.1184,266,266,72,polygon,TRUE,America/Chicago,38059 38330 38389
+Unionville-TN,1840024945,Unionville,Unionville,TN,Unionville-TN,Tennessee,47003,Bedford,35.6118,-86.5739,,,68.9,polygon,FALSE,America/Chicago,37180 37160
+Fair Garden-TN,1840036036,Fair Garden,Fair Garden,TN,Fair Garden-TN,Tennessee,47155,Sevier,35.8915,-83.4108,,,71.1,polygon,FALSE,America/New_York,37876
+Portland-TN,1840014418,Portland,Portland,TN,Portland-TN,Tennessee,47165,Sumner,36.5878,-86.5191,11854,12522,339,polygon,TRUE,America/Chicago,37148
+White House-TN,1840015274,White House,White House,TN,White House-TN,Tennessee,47165,Sumner,36.4646,-86.6663,11388,11388,394,polygon,TRUE,America/Chicago,37188
+Allons-TN,1840036003,Allons,Allons,TN,Allons-TN,Tennessee,47133,Overton,36.442,-85.3447,,,69.7,point,FALSE,America/Chicago,38541
+Dowelltown-TN,1840016185,Dowelltown,Dowelltown,TN,Dowelltown-TN,Tennessee,47041,DeKalb,36.0122,-85.9422,369,369,181,polygon,TRUE,America/Chicago,37095 37059
+Tennessee Ridge-TN,1840016102,Tennessee Ridge,Tennessee Ridge,TN,Tennessee Ridge-TN,Tennessee,47083,Houston,36.3195,-87.7635,1334,1334,138,polygon,TRUE,America/Chicago,37061 37178
+Rockwood-TN,1840014498,Rockwood,Rockwood,TN,Rockwood-TN,Tennessee,47145,Roane,35.8692,-84.6731,5443,5443,261,polygon,TRUE,America/New_York,37854
+Stanton-TN,1840016287,Stanton,Stanton,TN,Stanton-TN,Tennessee,47075,Haywood,35.4613,-89.4012,422,422,321,polygon,TRUE,America/Chicago,38069
+Pittman Center-TN,1840016222,Pittman Center,Pittman Center,TN,Pittman Center-TN,Tennessee,47155,Sevier,35.7595,-83.3885,570,570,36,polygon,TRUE,America/New_York,37738 37876
+Eagan-TN,1840036030,Eagan,Eagan,TN,Eagan-TN,Tennessee,47025,Claiborne,36.552,-83.9769,,,90,point,FALSE,America/New_York,37730
+Bransford-TN,1840024889,Bransford,Bransford,TN,Bransford-TN,Tennessee,47165,Sumner,36.5133,-86.2853,,,19.3,polygon,FALSE,America/Chicago,37022
+South Tunnel-TN,1840035992,South Tunnel,South Tunnel,TN,South Tunnel-TN,Tennessee,47165,Sumner,36.4803,-86.4661,,,59,point,FALSE,America/Chicago,37148
+Lynn Garden-TN,1840036064,Lynn Garden,Lynn Garden,TN,Lynn Garden-TN,Tennessee,47163,Sullivan,36.577,-82.5677,,,1204.5,point,FALSE,America/New_York,37665
+Rossville-TN,1840017867,Rossville,Rossville,TN,Rossville-TN,Tennessee,47047,Fayette,35.0326,-89.5613,818,818,63,polygon,TRUE,America/Chicago,38066
+Cowan-TN,1840014600,Cowan,Cowan,TN,Cowan-TN,Tennessee,47051,Franklin,35.163,-86.0143,1683,1683,314,polygon,TRUE,America/Chicago,37318
+Parrottsville-TN,1840016172,Parrottsville,Parrottsville,TN,Parrottsville-TN,Tennessee,47029,Cocke,36.0082,-83.0913,262,262,137,polygon,TRUE,America/New_York,37843
+Palmersville-TN,1840036081,Palmersville,Palmersville,TN,Palmersville-TN,Tennessee,47183,Weakley,36.4034,-88.5873,,,17.9,point,FALSE,America/Chicago,38241
+Victoria-TN,1840036131,Victoria,Victoria,TN,Victoria-TN,Tennessee,47115,Marion,35.1537,-85.5541,,,60,point,FALSE,America/Chicago,37397
+Ooltewah-TN,1840013451,Ooltewah,Ooltewah,TN,Ooltewah-TN,Tennessee,47065,Hamilton,35.0722,-85.0547,,,26.6,polygon,FALSE,America/New_York,37363
+Hunter-TN,1840013311,Hunter,Hunter,TN,Hunter-TN,Tennessee,47019,Carter,36.3978,-82.1511,,,592.1,polygon,FALSE,America/New_York,37643
+Tallassee-TN,1840035996,Tallassee,Tallassee,TN,Tallassee-TN,Tennessee,47009,Blount,35.5467,-84.0599,,,44.1,point,FALSE,America/New_York,37878
+Bowman-TN,1840025787,Bowman,Bowman,TN,Bowman-TN,Tennessee,47035,Cumberland,36.0586,-85.0305,,,74.5,polygon,FALSE,America/Chicago,38571
+Nunnelly-TN,1840036077,Nunnelly,Nunnelly,TN,Nunnelly-TN,Tennessee,47081,Hickman,35.8595,-87.4692,,,105,point,FALSE,America/Chicago,37137
+Collierville-TN,1840016403,Collierville,Collierville,TN,Collierville-TN,Tennessee,47157,Shelby,35.0474,-89.6989,49177,49177,526,polygon,TRUE,America/Chicago,38139 38017 38027
+Sardis-TN,1840017791,Sardis,Sardis,TN,Sardis-TN,Tennessee,47077,Henderson,35.4428,-88.2916,371,371,59,polygon,TRUE,America/Chicago,38371
+Alamo-TN,1840015368,Alamo,Alamo,TN,Alamo-TN,Tennessee,47033,Crockett,35.7832,-89.1166,2457,2457,421,polygon,TRUE,America/Chicago,38001
+Alexandria-TN,1840015349,Alexandria,Alexandria,TN,Alexandria-TN,Tennessee,47041,DeKalb,36.0791,-86.0381,972,972,185,polygon,TRUE,America/Chicago,37012
+Shawanee-TN,1840035989,Shawanee,Shawanee,TN,Shawanee-TN,Tennessee,47025,Claiborne,36.5806,-83.6388,,,390.3,point,FALSE,America/New_York,37752
+Tusculum-TN,1840015307,Tusculum,Tusculum,TN,Tusculum-TN,Tennessee,47059,Greene,36.1751,-82.7454,2670,2670,214,polygon,TRUE,America/New_York,37616 37745
+Forbus-TN,1840036039,Forbus,Forbus,TN,Forbus-TN,Tennessee,47049,Fentress,36.5528,-84.9916,,,18.1,point,FALSE,America/Chicago,38577
+Lawrenceburg-TN,1840014568,Lawrenceburg,Lawrenceburg,TN,Lawrenceburg-TN,Tennessee,47099,Lawrence,35.2497,-87.332,10398,10736,327,polygon,TRUE,America/Chicago,38464
+Boma-TN,1840036012,Boma,Boma,TN,Boma-TN,Tennessee,47141,Putnam,36.127,-85.6825,,,78.7,point,FALSE,America/Chicago,38544
+Berry Hill-TN,1840013347,Berry Hill,Berry Hill,TN,Berry Hill-TN,Tennessee,47037,Davidson,36.1196,-86.7673,536,536,228,polygon,TRUE,America/Chicago,37211 37204
+Westel-TN,1840035998,Westel,Westel,TN,Westel-TN,Tennessee,47035,Cumberland,35.8631,-84.7552,,,138.9,point,FALSE,America/Chicago,37854
+Marbledale-TN,1840036067,Marbledale,Marbledale,TN,Marbledale-TN,Tennessee,47093,Knox,35.9579,-83.8185,,,33.4,point,FALSE,America/New_York,37914
+Orme-TN,1840016431,Orme,Orme,TN,Orme-TN,Tennessee,47115,Marion,35.0146,-85.8048,113,113,10,polygon,TRUE,America/Chicago,37380
+Troy-TN,1840016068,Troy,Troy,TN,Troy-TN,Tennessee,47131,Obion,36.3426,-89.1568,1285,1285,333,polygon,TRUE,America/Chicago,38260
+Elk Valley-TN,1840036032,Elk Valley,Elk Valley,TN,Elk Valley-TN,Tennessee,47013,Campbell,36.4837,-84.2458,,,89,point,FALSE,America/New_York,37847
+Nough-TN,1840036142,Nough,Nough,TN,Nough-TN,Tennessee,47029,Cocke,35.882,-83.0104,,,26.1,point,FALSE,America/New_York,37727
+Piperton-TN,1840014596,Piperton,Piperton,TN,Piperton-TN,Tennessee,47047,Fayette,35.0513,-89.609,1683,1683,23,polygon,TRUE,America/Chicago,38017
+Maury City-TN,1840016235,Maury City,Maury City,TN,Maury City-TN,Tennessee,47033,Crockett,35.8143,-89.2239,665,665,227,polygon,TRUE,America/Chicago,38050 38001
+South Pittsburg-TN,1840015471,South Pittsburg,South Pittsburg,TN,South Pittsburg-TN,Tennessee,47115,Marion,35.0109,-85.7183,5562,3097,146,polygon,TRUE,America/Chicago,37380
+Kingsport-TN,1840014425,Kingsport,Kingsport,TN,Kingsport-TN,Tennessee,47163,Sullivan,36.522,-82.5452,116745,52806,381,polygon,TRUE,America/New_York,37660 37665 37664 37663 37662 37669
+Andersonville-TN,1840025777,Andersonville,Andersonville,TN,Andersonville-TN,Tennessee,47001,Anderson,36.197,-84.033,,,213.4,polygon,FALSE,America/New_York,37705
+Mason-TN,1840016315,Mason,Mason,TN,Mason-TN,Tennessee,47167,Tipton,35.4124,-89.5434,1578,1578,287,polygon,TRUE,America/Chicago,38049
+Hixson-TN,1840036126,Hixson,Hixson,TN,Hixson-TN,Tennessee,47065,Hamilton,35.1406,-85.2327,,,192.3,point,FALSE,America/New_York,37343
+Greenback-TN,1840013401,Greenback,Greenback,TN,Greenback-TN,Tennessee,47105,Loudon,35.6491,-84.1724,1119,1119,54,polygon,TRUE,America/New_York,37742
+Difficult-TN,1840036124,Difficult,Difficult,TN,Difficult-TN,Tennessee,47159,Smith,36.3692,-85.8922,,,17.1,point,FALSE,America/Chicago,37145
+Murfreesboro-TN,1840014495,Murfreesboro,Murfreesboro,TN,Murfreesboro-TN,Tennessee,47149,Rutherford,35.851,-86.4093,161634,131947,911,polygon,TRUE,America/Chicago,37132 37130 37128 37129 37127 37131 37133
+Walterhill-TN,1840013377,Walterhill,Walterhill,TN,Walterhill-TN,Tennessee,47149,Rutherford,35.9573,-86.3678,,,171.4,polygon,FALSE,America/Chicago,37130 37085 37129
+Kenton-TN,1840016067,Kenton,Kenton,TN,Kenton-TN,Tennessee,47131,Obion,36.2022,-89.0155,1219,1219,235,polygon,TRUE,America/Chicago,38233
+Saltillo-TN,1840017863,Saltillo,Saltillo,TN,Saltillo-TN,Tennessee,47071,Hardin,35.3819,-88.2343,503,503,97,polygon,TRUE,America/Chicago,38370
+Brentwood-TN,1840013381,Brentwood,Brentwood,TN,Brentwood-TN,Tennessee,47187,Williamson,35.9917,-86.7759,42517,42517,398,polygon,TRUE,America/Chicago,37027 37024
+Rheatown-TN,1840036088,Rheatown,Rheatown,TN,Rheatown-TN,Tennessee,47059,Greene,36.2312,-82.6957,,,195.6,point,FALSE,America/New_York,37641
+Moscow-TN,1840014595,Moscow,Moscow,TN,Moscow-TN,Tennessee,47047,Fayette,35.0608,-89.3887,528,528,163,polygon,TRUE,America/Chicago,38057
+Daus-TN,1840036123,Daus,Daus,TN,Daus-TN,Tennessee,47153,Sequatchie,35.3145,-85.4341,,,115.3,point,FALSE,America/Chicago,37327
+Walden-TN,1840016375,Walden,Walden,TN,Walden-TN,Tennessee,47065,Hamilton,35.1635,-85.3098,2098,2098,229,polygon,TRUE,America/New_York,37377
+Sewanee-TN,1840013478,Sewanee,Sewanee,TN,Sewanee-TN,Tennessee,47051,Franklin,35.1975,-85.9213,,,1029.7,polygon,FALSE,America/Chicago,37375 37383
+Westpoint-TN,1840036110,Westpoint,Westpoint,TN,Westpoint-TN,Tennessee,47099,Lawrence,35.1331,-87.5336,,,92,point,FALSE,America/Chicago,38486
+Oakfield-TN,1840036078,Oakfield,Oakfield,TN,Oakfield-TN,Tennessee,47113,Madison,35.7134,-88.7939,,,38.3,point,FALSE,America/Chicago,38305
+Lynchburg-TN,1840036063,Lynchburg,Lynchburg,TN,Lynchburg-TN,Tennessee,47127,Moore,35.2831,-86.3742,,,60.9,point,TRUE,America/Chicago,37352
+Gray-TN,1840013333,Gray,Gray,TN,Gray-TN,Tennessee,47179,Washington,36.4219,-82.4767,,,265.9,polygon,FALSE,America/New_York,37615
+Coalfield-TN,1840025774,Coalfield,Coalfield,TN,Coalfield-TN,Tennessee,47129,Morgan,36.0219,-84.4414,,,238.4,polygon,FALSE,America/New_York,37719 37840 37748
+Friendsville-TN,1840013405,Friendsville,Friendsville,TN,Friendsville-TN,Tennessee,47009,Blount,35.7548,-84.1341,926,926,118,polygon,TRUE,America/New_York,37737
+Whitwell-TN,1840015472,Whitwell,Whitwell,TN,Whitwell-TN,Tennessee,47115,Marion,35.1927,-85.5206,1717,1717,195,polygon,TRUE,America/Chicago,37397
+Rutherford-TN,1840017740,Rutherford,Rutherford,TN,Rutherford-TN,Tennessee,47053,Gibson,36.1259,-88.9925,1108,1108,187,polygon,TRUE,America/Chicago,38369
+Mitchellville-TN,1840014417,Mitchellville,Mitchellville,TN,Mitchellville-TN,Tennessee,47165,Sumner,36.6341,-86.5401,201,201,149,polygon,TRUE,America/Chicago,37148 37119
+Adamsville-TN,1840015462,Adamsville,Adamsville,TN,Adamsville-TN,Tennessee,47109,McNairy,35.256,-88.3864,2204,2204,124,polygon,TRUE,America/Chicago,38310
+Kimmins-TN,1840036130,Kimmins,Kimmins,TN,Kimmins-TN,Tennessee,47101,Lewis,35.6203,-87.5378,,,36,point,FALSE,America/Chicago,38462
+Ripley-TN,1840014509,Ripley,Ripley,TN,Ripley-TN,Tennessee,47097,Lauderdale,35.7446,-89.5359,8422,8116,244,polygon,TRUE,America/Chicago,38063
+South Fulton-TN,1840015279,South Fulton,South Fulton,TN,South Fulton-TN,Tennessee,47131,Obion,36.4934,-88.8835,2256,2256,263,polygon,TRUE,America/Chicago,38257
+Pikeville-TN,1840014532,Pikeville,Pikeville,TN,Pikeville-TN,Tennessee,47007,Bledsoe,35.6028,-85.1982,1648,1648,260,polygon,TRUE,America/Chicago,37367
+Bulls Gap-TN,1840015276,Bulls Gap,Bulls Gap,TN,Bulls Gap-TN,Tennessee,47073,Hawkins,36.2618,-83.0783,724,724,216,polygon,TRUE,America/New_York,37711
+Ellendale-TN,1840036033,Ellendale,Ellendale,TN,Ellendale-TN,Tennessee,47157,Shelby,35.2306,-89.8259,,,870,point,FALSE,America/Chicago,38135
+Brownsville-TN,1840013413,Brownsville,Brownsville,TN,Brownsville-TN,Tennessee,47075,Haywood,35.5881,-89.2574,9389,9782,370,polygon,TRUE,America/Chicago,38012
+Walland-TN,1840025790,Walland,Walland,TN,Walland-TN,Tennessee,47009,Blount,35.732,-83.8069,,,134.8,polygon,FALSE,America/New_York,37886
+Three Way-TN,1840036153,Three Way,Three Way,TN,Three Way-TN,Tennessee,47113,Madison,35.7722,-88.8574,1676,1676,142,polygon,TRUE,America/Chicago,38343
+Jellico-TN,1840014426,Jellico,Jellico,TN,Jellico-TN,Tennessee,47013,Campbell,36.5879,-84.1269,,,615,point,TRUE,America/New_York,37762
+Celina-TN,1840014424,Celina,Celina,TN,Celina-TN,Tennessee,47027,Clay,36.5477,-85.5037,1488,1488,338,polygon,TRUE,America/Chicago,38551
+Blaine-TN,1840013343,Blaine,Blaine,TN,Blaine-TN,Tennessee,47057,Grainger,36.1479,-83.6944,1875,1875,77,polygon,TRUE,America/New_York,37709
+Lafayette-TN,1840014423,Lafayette,Lafayette,TN,Lafayette-TN,Tennessee,47111,Macon,36.5243,-86.0309,5223,5141,402,polygon,TRUE,America/Chicago,37083
+Holts Corner-TN,1840036053,Holts Corner,Holts Corner,TN,Holts Corner-TN,Tennessee,47117,Marshall,35.6926,-86.6933,,,45.1,point,FALSE,America/Chicago,37034
+West Shiloh-TN,1840035997,West Shiloh,West Shiloh,TN,West Shiloh-TN,Tennessee,47109,McNairy,35.1487,-88.3834,,,33.5,point,FALSE,America/Chicago,38379
+Carthage-TN,1840016096,Carthage,Carthage,TN,Carthage-TN,Tennessee,47159,Smith,36.2565,-85.9432,3253,2286,308,polygon,TRUE,America/Chicago,37030
+Beersheba Springs-TN,1840015432,Beersheba Springs,Beersheba Springs,TN,Beersheba Springs-TN,Tennessee,47061,Grundy,35.4588,-85.6692,467,467,36,polygon,TRUE,America/Chicago,37305
+Buffalo Valley-TN,1840036014,Buffalo Valley,Buffalo Valley,TN,Buffalo Valley-TN,Tennessee,47141,Putnam,36.1414,-85.7867,,,14.8,point,FALSE,America/Chicago,38548
+Fairfield-TN,1840024892,Fairfield,Fairfield,TN,Fairfield-TN,Tennessee,47165,Sumner,36.6209,-86.3425,,,70.6,polygon,FALSE,America/Chicago,37186
+Cross Plains-TN,1840014413,Cross Plains,Cross Plains,TN,Cross Plains-TN,Tennessee,47147,Robertson,36.541,-86.675,1731,1731,78,polygon,TRUE,America/Chicago,37049
+Henning-TN,1840015373,Henning,Henning,TN,Henning-TN,Tennessee,47097,Lauderdale,35.6818,-89.577,935,935,151,polygon,TRUE,America/Chicago,38041
+Dayton-TN,1840014525,Dayton,Dayton,TN,Dayton-TN,Tennessee,47143,Rhea,35.4917,-85.0116,10255,7248,365,polygon,TRUE,America/New_York,37321
+Norma-TN,1840036076,Norma,Norma,TN,Norma-TN,Tennessee,47151,Scott,36.337,-84.3855,,,19.1,point,FALSE,America/New_York,37756
+Five Points-TN,1840036037,Five Points,Five Points,TN,Five Points-TN,Tennessee,47099,Lawrence,35.0459,-87.3111,,,67.9,point,FALSE,America/Chicago,38457
+Como-TN,1840036022,Como,Como,TN,Como-TN,Tennessee,47079,Henry,36.2931,-88.5123,,,19.2,point,FALSE,America/Chicago,38242
+Petros-TN,1840025775,Petros,Petros,TN,Petros-TN,Tennessee,47129,Morgan,36.1027,-84.4503,,,226.2,polygon,FALSE,America/New_York,37840 37845
+Lakesite-TN,1840014573,Lakesite,Lakesite,TN,Lakesite-TN,Tennessee,47065,Hamilton,35.2027,-85.1412,1867,1867,419,polygon,TRUE,America/New_York,37343 37379
+Dover-TN,1840013293,Dover,Dover,TN,Dover-TN,Tennessee,47161,Stewart,36.4818,-87.8436,1445,1445,147,polygon,TRUE,America/Chicago,37058
+Solway-TN,1840035991,Solway,Solway,TN,Solway-TN,Tennessee,47093,Knox,35.9801,-84.1813,,,108.4,point,FALSE,America/New_York,37931
+Bradford-TN,1840015342,Bradford,Bradford,TN,Bradford-TN,Tennessee,47053,Gibson,36.0741,-88.8157,996,996,222,polygon,TRUE,America/Chicago,38316
+Bon Air-TN,1840036115,Bon Air,Bon Air,TN,Bon Air-TN,Tennessee,47185,White,35.9412,-85.3625,,,89.1,point,FALSE,America/Chicago,38583
+Englewood-TN,1840016317,Englewood,Englewood,TN,Englewood-TN,Tennessee,47107,McMinn,35.4226,-84.4887,1530,1530,324,polygon,TRUE,America/New_York,37329
+Maryville-TN,1840015380,Maryville,Maryville,TN,Maryville-TN,Tennessee,47009,Blount,35.7469,-83.9788,28703,28703,657,polygon,TRUE,America/New_York,37803 37804 37801 37802
+Beechgrove-TN,1840035987,Beechgrove,Beechgrove,TN,Beechgrove-TN,Tennessee,47031,Coffee,35.627,-86.2403,,,27.8,point,FALSE,America/Chicago,37018
+Rosedale-TN,1840036134,Rosedale,Rosedale,TN,Rosedale-TN,Tennessee,47001,Anderson,36.172,-84.3488,,,17,point,FALSE,America/New_York,37710
+Taft-TN,1840035995,Taft,Taft,TN,Taft-TN,Tennessee,47103,Lincoln,35.0206,-86.7181,,,108.7,point,FALSE,America/Chicago,38488
+Roan Mountain-TN,1840013313,Roan Mountain,Roan Mountain,TN,Roan Mountain-TN,Tennessee,47019,Carter,36.1866,-82.0705,,,412,polygon,FALSE,America/New_York,37687
+Franklin-TN,1840013380,Franklin,Franklin,TN,Franklin-TN,Tennessee,47187,Williamson,35.9215,-86.8522,74794,74794,697,polygon,TRUE,America/Chicago,37069 37064 37067 37065 37068
+Bon Aqua Junction-TN,1840024918,Bon Aqua Junction,Bon Aqua Junction,TN,Bon Aqua Junction-TN,Tennessee,47081,Hickman,35.9281,-87.3124,,,152.1,polygon,FALSE,America/Chicago,37098
+Etowah-TN,1840013430,Etowah,Etowah,TN,Etowah-TN,Tennessee,47107,McMinn,35.3384,-84.5281,4149,3508,463,polygon,TRUE,America/New_York,37331
+Wrigley-TN,1840024920,Wrigley,Wrigley,TN,Wrigley-TN,Tennessee,47081,Hickman,35.8998,-87.3537,,,144.3,polygon,FALSE,America/Chicago,37098
+Caryville-TN,1840016024,Caryville,Caryville,TN,Caryville-TN,Tennessee,47013,Campbell,36.3252,-84.2199,2179,2179,163,polygon,TRUE,America/New_York,37766 37714 37847 37757
+Baxter-TN,1840015318,Baxter,Baxter,TN,Baxter-TN,Tennessee,47141,Putnam,36.1533,-85.6353,1406,1406,179,polygon,TRUE,America/Chicago,38544
+Goodlettsville-TN,1840013345,Goodlettsville,Goodlettsville,TN,Goodlettsville-TN,Tennessee,47037,Davidson,36.3323,-86.7032,16950,16950,460,polygon,TRUE,America/Chicago,37072 37070
+Sweetwater-TN,1840015415,Sweetwater,Sweetwater,TN,Sweetwater-TN,Tennessee,47123,Monroe,35.6026,-84.4718,5589,5933,257,polygon,TRUE,America/New_York,37874
+Oakwood-TN,1840036079,Oakwood,Oakwood,TN,Oakwood-TN,Tennessee,47125,Montgomery,36.5359,-87.5795,,,25,point,FALSE,America/Chicago,37191
+Selmer-TN,1840017869,Selmer,Selmer,TN,Selmer-TN,Tennessee,47109,McNairy,35.1708,-88.5959,3899,4465,176,polygon,TRUE,America/Chicago,38375
+Hampshire-TN,1840036125,Hampshire,Hampshire,TN,Hampshire-TN,Tennessee,47119,Maury,35.5967,-87.2931,,,73.2,point,FALSE,America/Chicago,38461
+Puryear-TN,1840014439,Puryear,Puryear,TN,Puryear-TN,Tennessee,47079,Henry,36.4422,-88.3327,672,672,285,polygon,TRUE,America/Chicago,38251
+McKenzie-TN,1840015346,McKenzie,McKenzie,TN,McKenzie-TN,Tennessee,47017,Carroll,36.138,-88.5083,5307,5564,342,polygon,TRUE,America/Chicago,38201
+Jamestown-TN,1840014429,Jamestown,Jamestown,TN,Jamestown-TN,Tennessee,47049,Fentress,36.4318,-84.934,1963,1963,261,polygon,TRUE,America/Chicago,38556
+Altamont-TN,1840015431,Altamont,Altamont,TN,Altamont-TN,Tennessee,47061,Grundy,35.4327,-85.7435,1021,1021,19,polygon,TRUE,America/Chicago,37305 37301
+Hillsboro-TN,1840025811,Hillsboro,Hillsboro,TN,Hillsboro-TN,Tennessee,47031,Coffee,35.4086,-85.9639,,,80,polygon,FALSE,America/Chicago,37342
+Springfield-TN,1840015273,Springfield,Springfield,TN,Springfield-TN,Tennessee,47147,Robertson,36.4944,-86.8706,17747,16809,482,polygon,TRUE,America/Chicago,37172
+Collegedale-TN,1840014570,Collegedale,Collegedale,TN,Collegedale-TN,Tennessee,47065,Hamilton,35.0522,-85.0488,11437,11437,357,polygon,TRUE,America/New_York,37302 37363 37315
+Garland-TN,1840016316,Garland,Garland,TN,Garland-TN,Tennessee,47167,Tipton,35.5825,-89.7526,306,306,202,polygon,TRUE,America/Chicago,38019
+Woodbury-TN,1840016243,Woodbury,Woodbury,TN,Woodbury-TN,Tennessee,47015,Cannon,35.8246,-86.0725,2698,2777,532,polygon,TRUE,America/Chicago,37190
+Eastview-TN,1840016410,Eastview,Eastview,TN,Eastview-TN,Tennessee,47109,McNairy,35.0868,-88.5513,697,697,54,polygon,TRUE,America/Chicago,38367 38375
+Belvidere-TN,1840036009,Belvidere,Belvidere,TN,Belvidere-TN,Tennessee,47051,Franklin,35.1293,-86.1867,,,47,point,FALSE,America/Chicago,37306
+Mulberry-TN,1840036072,Mulberry,Mulberry,TN,Mulberry-TN,Tennessee,47103,Lincoln,35.2106,-86.4603,,,48.8,point,FALSE,America/Chicago,37359
+Mount Vernon-TN,1840036141,Mount Vernon,Mount Vernon,TN,Mount Vernon-TN,Tennessee,47123,Monroe,35.4117,-84.3644,,,80.2,point,FALSE,America/New_York,37385
+Alnwick-TN,1840036004,Alnwick,Alnwick,TN,Alnwick-TN,Tennessee,47009,Blount,35.7481,-84.0377,,,475.2,point,FALSE,America/New_York,37801
+Sunbright-TN,1840015312,Sunbright,Sunbright,TN,Sunbright-TN,Tennessee,47129,Morgan,36.2433,-84.6806,545,545,55,polygon,TRUE,America/New_York,37872
+Tiptonville-TN,1840016072,Tiptonville,Tiptonville,TN,Tiptonville-TN,Tennessee,47095,Lake,36.3876,-89.4676,4349,4349,817,polygon,TRUE,America/Chicago,38079
+Culleoka-TN,1840036122,Culleoka,Culleoka,TN,Culleoka-TN,Tennessee,47119,Maury,35.4795,-86.9831,,,78,point,FALSE,America/Chicago,38451
+Baneberry-TN,1840013373,Baneberry,Baneberry,TN,Baneberry-TN,Tennessee,47089,Jefferson,36.0469,-83.2784,530,530,112,polygon,TRUE,America/New_York,37890
+Wartburg-TN,1840015313,Wartburg,Wartburg,TN,Wartburg-TN,Tennessee,47129,Morgan,36.1043,-84.5865,905,905,365,polygon,TRUE,America/New_York,37887
+Signal Mountain-TN,1840017859,Signal Mountain,Signal Mountain,TN,Signal Mountain-TN,Tennessee,47065,Hamilton,35.1448,-85.3457,8573,8573,395,polygon,TRUE,America/Chicago,37377
+Darden-TN,1840025796,Darden,Darden,TN,Darden-TN,Tennessee,47077,Henderson,35.6384,-88.2261,,,71.3,polygon,FALSE,America/Chicago,38351 38328
+Lutts-TN,1840036062,Lutts,Lutts,TN,Lutts-TN,Tennessee,47181,Wayne,35.1512,-87.9381,,,10.6,point,FALSE,America/Chicago,38471
+Lewisburg-TN,1840014544,Lewisburg,Lewisburg,TN,Lewisburg-TN,Tennessee,47117,Marshall,35.4494,-86.7889,10934,11600,334,polygon,TRUE,America/Chicago,37091
+Lone Oak-TN,1840025820,Lone Oak,Lone Oak,TN,Lone Oak-TN,Tennessee,47153,Sequatchie,35.2007,-85.3685,,,185,polygon,FALSE,America/Chicago,37377
+Prospect-TN,1840036097,Prospect,Prospect,TN,Prospect-TN,Tennessee,47055,Giles,35.0298,-87.0031,,,50.2,point,FALSE,America/Chicago,38477
+Hornsby-TN,1840016386,Hornsby,Hornsby,TN,Hornsby-TN,Tennessee,47069,Hardeman,35.2293,-88.8299,275,275,89,polygon,TRUE,America/Chicago,38008 38044
+Limestone-TN,1840036060,Limestone,Limestone,TN,Limestone-TN,Tennessee,47179,Washington,36.2282,-82.6304,,,151.1,point,FALSE,America/New_York,37681
+Fairmount-TN,1840013075,Fairmount,Fairmount,TN,Fairmount-TN,Tennessee,47065,Hamilton,35.1844,-85.3302,,,220.3,polygon,FALSE,America/Chicago,37377
+Minor Hill-TN,1840014574,Minor Hill,Minor Hill,TN,Minor Hill-TN,Tennessee,47055,Giles,35.0364,-87.169,519,519,116,polygon,TRUE,America/Chicago,38473
+Clifton-TN,1840014562,Clifton,Clifton,TN,Clifton-TN,Tennessee,47181,Wayne,35.3769,-87.9936,2658,2658,161,polygon,TRUE,America/Chicago,38425
+Oakland-TN,1840016407,Oakland,Oakland,TN,Oakland-TN,Tennessee,47047,Fayette,35.2256,-89.5377,8193,7690,289,polygon,TRUE,America/Chicago,38060 38028
+Colonial Heights-TN,1840013063,Colonial Heights,Colonial Heights,TN,Colonial Heights-TN,Tennessee,47163,Sullivan,36.4851,-82.507,,,329.7,polygon,FALSE,America/New_York,37663

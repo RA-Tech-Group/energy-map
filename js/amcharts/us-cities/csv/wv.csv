@@ -1,0 +1,549 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Rossmore-WV,1840038170,Rossmore,Rossmore,WV,Rossmore-WV,West Virginia,54045,Logan,37.805,-81.9923,,,83.7,polygon,FALSE,America/New_York,25601
+Mathias-WV,1840038270,Mathias,Mathias,WV,Mathias-WV,West Virginia,54031,Hardy,38.8779,-78.8661,,,19.5,point,FALSE,America/New_York,26812
+Hambleton-WV,1840005886,Hambleton,Hambleton,WV,Hambleton-WV,West Virginia,54093,Tucker,39.0813,-79.6455,225,225,717,polygon,TRUE,America/New_York,26269
+Thurmond-WV,1840006302,Thurmond,Thurmond,WV,Thurmond-WV,West Virginia,54019,Fayette,37.9607,-81.0795,5,5,20,polygon,TRUE,America/New_York,25936
+Newell-WV,1840005402,Newell,Newell,WV,Newell-WV,West Virginia,54029,Hancock,40.6179,-80.5998,,,1058.6,polygon,FALSE,America/New_York,26050
+Bolivar-WV,1840005760,Bolivar,Bolivar,WV,Bolivar-WV,West Virginia,54037,Jefferson,39.3242,-77.7517,1046,1046,932,polygon,TRUE,America/New_York,25425
+Shinnston-WV,1840005769,Shinnston,Shinnston,WV,Shinnston-WV,West Virginia,54033,Harrison,39.3923,-80.2989,2161,2161,499,polygon,TRUE,America/New_York,26431
+Wayne-WV,1840006264,Wayne,Wayne,WV,Wayne-WV,West Virginia,54099,Wayne,38.2254,-82.4415,1366,1366,718,polygon,TRUE,America/New_York,25570
+Bayard-WV,1840005862,Bayard,Bayard,WV,Bayard-WV,West Virginia,54023,Grant,39.2711,-79.3662,272,272,337,polygon,TRUE,America/New_York,26707
+Colcord-WV,1840038122,Colcord,Colcord,WV,Colcord-WV,West Virginia,54081,Raleigh,37.9443,-81.4371,,,76.3,point,FALSE,America/New_York,25060
+Pettry-WV,1840038194,Pettry,Pettry,WV,Pettry-WV,West Virginia,54055,Mercer,37.4362,-80.964,,,9.3,point,FALSE,America/New_York,24740
+Van-WV,1840025689,Van,Van,WV,Van-WV,West Virginia,54005,Boone,37.9713,-81.7138,,,123,polygon,FALSE,America/New_York,25206
+Masontown-WV,1840005655,Masontown,Masontown,WV,Masontown-WV,West Virginia,54077,Preston,39.5512,-79.8003,548,548,760,polygon,TRUE,America/New_York,26542
+Union-WV,1840006386,Union,Union,WV,Union-WV,West Virginia,54063,Monroe,37.5905,-80.5419,552,552,477,polygon,TRUE,America/New_York,24983
+Maybeury-WV,1840025734,Maybeury,Maybeury,WV,Maybeury-WV,West Virginia,54047,McDowell,37.3675,-81.3572,,,41,polygon,FALSE,America/New_York,24861
+Bolt-WV,1840025707,Bolt,Bolt,WV,Bolt-WV,West Virginia,54081,Raleigh,37.7624,-81.4189,,,77.7,polygon,FALSE,America/New_York,25817
+Nutter Fort-WV,1840005774,Nutter Fort,Nutter Fort,WV,Nutter Fort-WV,West Virginia,54033,Harrison,39.2604,-80.3265,1570,1570,681,polygon,TRUE,America/New_York,26301
+Dailey-WV,1840025631,Dailey,Dailey,WV,Dailey-WV,West Virginia,54083,Randolph,38.7968,-79.8967,,,70.4,polygon,FALSE,America/New_York,26259 26253
+Deep Water-WV,1840038236,Deep Water,Deep Water,WV,Deep Water-WV,West Virginia,54019,Fayette,38.1217,-81.2528,,,259.5,polygon,FALSE,America/New_York,25057
+Montrose-WV,1840005995,Montrose,Montrose,WV,Montrose-WV,West Virginia,54083,Randolph,39.0671,-79.8144,156,156,96,polygon,TRUE,America/New_York,26283
+Star City-WV,1840005650,Star City,Star City,WV,Star City-WV,West Virginia,54061,Monongalia,39.6587,-79.9868,2024,2024,1598,polygon,TRUE,America/New_York,26505
+Mineral Wells-WV,1840005783,Mineral Wells,Mineral Wells,WV,Mineral Wells-WV,West Virginia,54107,Wood,39.1806,-81.513,,,31.6,polygon,FALSE,America/New_York,26150
+Eleanor-WV,1840006179,Eleanor,Eleanor,WV,Eleanor-WV,West Virginia,54079,Putnam,38.5374,-81.9256,1603,1603,291,polygon,TRUE,America/New_York,25168 25070
+Clendenin-WV,1840006205,Clendenin,Clendenin,WV,Clendenin-WV,West Virginia,54039,Kanawha,38.486,-81.3502,1173,1173,313,polygon,TRUE,America/New_York,25045
+Pea Ridge-WV,1840038311,Pea Ridge,Pea Ridge,WV,Pea Ridge-WV,West Virginia,54011,Cabell,38.4154,-82.3188,,,760.8,polygon,FALSE,America/New_York,25705 25504
+Wellsburg-WV,1840005478,Wellsburg,Wellsburg,WV,Wellsburg-WV,West Virginia,54009,Brooke,40.2811,-80.6102,2657,2657,1057,polygon,TRUE,America/New_York,26070
+McMechen-WV,1840005556,McMechen,McMechen,WV,McMechen-WV,West Virginia,54051,Marshall,39.9854,-80.7335,1819,1819,1230,polygon,TRUE,America/New_York,26040
+Kimball-WV,1840006427,Kimball,Kimball,WV,Kimball-WV,West Virginia,54047,McDowell,37.4268,-81.5078,173,173,263,polygon,TRUE,America/New_York,24853
+Thomas-WV,1840005889,Thomas,Thomas,WV,Thomas-WV,West Virginia,54093,Tucker,39.1458,-79.4958,562,562,48,polygon,TRUE,America/New_York,26260 26292
+Laneville-WV,1840038262,Laneville,Laneville,WV,Laneville-WV,West Virginia,54093,Tucker,38.974,-79.4173,,,2.8,point,FALSE,America/New_York,26263
+Paw Paw-WV,1840005719,Paw Paw,Paw Paw,WV,Paw Paw-WV,West Virginia,54065,Morgan,39.5313,-78.4553,493,493,359,polygon,TRUE,America/New_York,25434
+Brandywine-WV,1840025643,Brandywine,Brandywine,WV,Brandywine-WV,West Virginia,54071,Pendleton,38.6219,-79.2413,,,65.7,polygon,FALSE,America/New_York,26802
+Junior-WV,1840005885,Junior,Junior,WV,Junior-WV,West Virginia,54001,Barbour,38.9783,-79.9505,495,495,609,polygon,TRUE,America/New_York,26275 26250
+Millstone-WV,1840038274,Millstone,Millstone,WV,Millstone-WV,West Virginia,54013,Calhoun,38.8015,-81.0962,,,17,point,FALSE,America/New_York,25261
+Cottageville-WV,1840038234,Cottageville,Cottageville,WV,Cottageville-WV,West Virginia,54035,Jackson,38.8656,-81.8235,,,127,point,FALSE,America/New_York,25239
+Fellowsville-WV,1840038131,Fellowsville,Fellowsville,WV,Fellowsville-WV,West Virginia,54077,Preston,39.3307,-79.8245,,,40.2,point,FALSE,America/New_York,26444
+Coalton-WV,1840038306,Coalton,Coalton,WV,Coalton-WV,West Virginia,54083,Randolph,38.8965,-79.9679,,,96.8,point,TRUE,America/New_York,26257
+Flemington-WV,1840005778,Flemington,Flemington,WV,Flemington-WV,West Virginia,54091,Taylor,39.2666,-80.1287,312,312,395,polygon,TRUE,America/New_York,26347
+South Charleston-WV,1840006200,South Charleston,South Charleston,WV,South Charleston-WV,West Virginia,54039,Kanawha,38.3482,-81.711,12859,12859,629,polygon,TRUE,America/New_York,25309 25303
+Matewan-WV,1840006362,Matewan,Matewan,WV,Matewan-WV,West Virginia,54059,Mingo,37.6262,-82.1696,454,454,317,polygon,TRUE,America/New_York,25688 25678
+Burlington-WV,1840025596,Burlington,Burlington,WV,Burlington-WV,West Virginia,54057,Mineral,39.337,-78.9223,,,77.7,polygon,FALSE,America/New_York,26710
+Barrackville-WV,1840005735,Barrackville,Barrackville,WV,Barrackville-WV,West Virginia,54049,Marion,39.5013,-80.1696,1311,1311,734,polygon,TRUE,America/New_York,26559 26554
+Edray-WV,1840038301,Edray,Edray,WV,Edray-WV,West Virginia,54075,Pocahontas,38.2746,-80.0915,,,23.2,point,FALSE,America/New_York,24954
+Parcoal-WV,1840038286,Parcoal,Parcoal,WV,Parcoal-WV,West Virginia,54101,Webster,38.4604,-80.3731,,,106.6,polygon,FALSE,America/New_York,26288
+Beech Bottom-WV,1840005481,Beech Bottom,Beech Bottom,WV,Beech Bottom-WV,West Virginia,54009,Brooke,40.2181,-80.6588,491,491,163,polygon,TRUE,America/New_York,26030 26070 26075
+Mannington-WV,1840005733,Mannington,Mannington,WV,Mannington-WV,West Virginia,54049,Marion,39.5274,-80.341,2059,2059,727,polygon,TRUE,America/New_York,26582
+Erbacon-WV,1840038130,Erbacon,Erbacon,WV,Erbacon-WV,West Virginia,54101,Webster,38.519,-80.589,,,13.2,point,FALSE,America/New_York,26203
+Monongah-WV,1840005736,Monongah,Monongah,WV,Monongah-WV,West Virginia,54049,Marion,39.4598,-80.2185,1106,1106,874,polygon,TRUE,America/New_York,26554
+Twilight-WV,1840038182,Twilight,Twilight,WV,Twilight-WV,West Virginia,54005,Boone,37.9252,-81.6177,,,47,polygon,FALSE,America/New_York,25204
+Onego-WV,1840038204,Onego,Onego,WV,Onego-WV,West Virginia,54071,Pendleton,38.8479,-79.422,,,22.6,point,FALSE,America/New_York,26884
+Apple Grove-WV,1840025640,Apple Grove,Apple Grove,WV,Apple Grove-WV,West Virginia,54053,Mason,38.6663,-82.1706,,,17.4,polygon,FALSE,America/New_York,25502
+Strange Creek-WV,1840038294,Strange Creek,Strange Creek,WV,Strange Creek-WV,West Virginia,54007,Braxton,38.5632,-80.8979,,,20.9,point,FALSE,America/New_York,25063
+Sylvester-WV,1840006307,Sylvester,Sylvester,WV,Sylvester-WV,West Virginia,54005,Boone,38.008,-81.5623,149,149,228,polygon,TRUE,America/New_York,25193 25181
+Bergoo-WV,1840025655,Bergoo,Bergoo,WV,Bergoo-WV,West Virginia,54101,Webster,38.4847,-80.2982,,,36.5,polygon,FALSE,America/New_York,26298
+Sissonville-WV,1840006195,Sissonville,Sissonville,WV,Sissonville-WV,West Virginia,54039,Kanawha,38.5042,-81.6398,,,134.4,polygon,FALSE,America/New_York,25320
+Buckhannon-WV,1840005997,Buckhannon,Buckhannon,WV,Buckhannon-WV,West Virginia,54097,Upshur,38.9927,-80.2279,8688,5612,739,polygon,TRUE,America/New_York,26201
+Ellamore-WV,1840038241,Ellamore,Ellamore,WV,Ellamore-WV,West Virginia,54097,Upshur,38.9243,-80.0904,,,50.6,point,FALSE,America/New_York,26201
+Clay-WV,1840006185,Clay,Clay,WV,Clay-WV,West Virginia,54015,Clay,38.4662,-81.0815,464,464,321,polygon,TRUE,America/New_York,25043
+Glen Rogers-WV,1840038249,Glen Rogers,Glen Rogers,WV,Glen Rogers-WV,West Virginia,54109,Wyoming,37.7154,-81.4179,,,66.9,point,FALSE,America/New_York,25848
+Spencer-WV,1840006110,Spencer,Spencer,WV,Spencer-WV,West Virginia,54087,Roane,38.8025,-81.3531,2774,2158,662,polygon,TRUE,America/New_York,25276
+Great Cacapon-WV,1840025594,Great Cacapon,Great Cacapon,WV,Great Cacapon-WV,West Virginia,54065,Morgan,39.6144,-78.2858,,,195.5,polygon,FALSE,America/New_York,25422
+Webb-WV,1840038185,Webb,Webb,WV,Webb-WV,West Virginia,54099,Wayne,37.9698,-82.4824,,,59.3,point,FALSE,America/New_York,25669
+Durbin-WV,1840006154,Durbin,Durbin,WV,Durbin-WV,West Virginia,54075,Pocahontas,38.5471,-79.8278,287,287,193,polygon,TRUE,America/New_York,26264
+Ivydale-WV,1840038257,Ivydale,Ivydale,WV,Ivydale-WV,West Virginia,54015,Clay,38.5357,-81.0348,,,65.9,point,FALSE,America/New_York,25113
+Kermit-WV,1840006361,Kermit,Kermit,WV,Kermit-WV,West Virginia,54059,Mingo,37.8425,-82.4084,371,371,365,polygon,TRUE,America/New_York,25674
+Bartow-WV,1840025650,Bartow,Bartow,WV,Bartow-WV,West Virginia,54075,Pocahontas,38.5422,-79.7859,,,42.4,polygon,FALSE,America/New_York,24920
+Culloden-WV,1840006210,Culloden,Culloden,WV,Culloden-WV,West Virginia,54011,Cabell,38.4159,-82.0722,,,727.9,polygon,FALSE,America/New_York,25510
+Justice-WV,1840025712,Justice,Justice,WV,Justice-WV,West Virginia,54059,Mingo,37.5992,-81.8381,,,304.2,polygon,FALSE,America/New_York,24851 25621
+Thornton-WV,1840038181,Thornton,Thornton,WV,Thornton-WV,West Virginia,54091,Taylor,39.3456,-79.942,,,48.8,point,FALSE,America/New_York,26440
+Daniels-WV,1840038126,Daniels,Daniels,WV,Daniels-WV,West Virginia,54081,Raleigh,37.724,-81.1267,,,571.7,polygon,FALSE,America/New_York,25832
+Point Pleasant-WV,1840006048,Point Pleasant,Point Pleasant,WV,Point Pleasant-WV,West Virginia,54053,Mason,38.853,-82.1303,10925,4237,682,polygon,TRUE,America/New_York,25550
+Reader-WV,1840025593,Reader,Reader,WV,Reader-WV,West Virginia,54103,Wetzel,39.5689,-80.7316,,,131.6,polygon,FALSE,America/New_York,26167
+Clifftop-WV,1840038230,Clifftop,Clifftop,WV,Clifftop-WV,West Virginia,54019,Fayette,38.0043,-80.944,,,20.5,point,FALSE,America/New_York,25831
+Core-WV,1840038123,Core,Core,WV,Core-WV,West Virginia,54061,Monongalia,39.6801,-80.1073,,,23,point,FALSE,America/New_York,26541
+Kopperston-WV,1840025721,Kopperston,Kopperston,WV,Kopperston-WV,West Virginia,54109,Wyoming,37.7502,-81.5764,,,43.6,polygon,FALSE,America/New_York,24870 24854
+Stirrat-WV,1840038293,Stirrat,Stirrat,WV,Stirrat-WV,West Virginia,54045,Logan,37.7265,-82.0023,,,96.4,point,FALSE,America/New_York,25644
+Slaty Fork-WV,1840038207,Slaty Fork,Slaty Fork,WV,Slaty Fork-WV,West Virginia,54075,Pocahontas,38.4165,-80.1267,,,1.1,point,FALSE,America/New_York,26291
+Kingwood-WV,1840005651,Kingwood,Kingwood,WV,Kingwood-WV,West Virginia,54077,Preston,39.4719,-79.6822,3220,2956,469,polygon,TRUE,America/New_York,26537
+Tanner-WV,1840038180,Tanner,Tanner,WV,Tanner-WV,West Virginia,54021,Gilmer,38.9815,-80.9496,,,19.9,point,FALSE,America/New_York,26137
+Orlando-WV,1840038193,Orlando,Orlando,WV,Orlando-WV,West Virginia,54007,Braxton,38.8712,-80.5937,,,14,point,FALSE,America/New_York,26412
+Mount Nebo-WV,1840038278,Mount Nebo,Mount Nebo,WV,Mount Nebo-WV,West Virginia,54067,Nicholas,38.2001,-80.8512,,,38.7,point,FALSE,America/New_York,26679
+Clarksburg-WV,1840005767,Clarksburg,Clarksburg,WV,Clarksburg-WV,West Virginia,54033,Harrison,39.2862,-80.323,42552,16035,636,polygon,TRUE,America/New_York,26301 26330 26302 26306
+Fort Ashby-WV,1840005720,Fort Ashby,Fort Ashby,WV,Fort Ashby-WV,West Virginia,54057,Mineral,39.4966,-78.7631,,,323.9,polygon,FALSE,America/New_York,26719
+Slanesville-WV,1840038189,Slanesville,Slanesville,WV,Slanesville-WV,West Virginia,54027,Hampshire,39.3732,-78.5228,,,37.6,point,FALSE,America/New_York,26704
+Bemis-WV,1840038217,Bemis,Bemis,WV,Bemis-WV,West Virginia,54083,Randolph,38.8121,-79.7389,,,40.1,point,FALSE,America/New_York,26268
+Murphytown-WV,1840038153,Murphytown,Murphytown,WV,Murphytown-WV,West Virginia,54107,Wood,39.234,-81.4435,,,77,point,FALSE,America/New_York,26142
+Zela-WV,1840038188,Zela,Zela,WV,Zela-WV,West Virginia,54067,Nicholas,38.2859,-80.9498,,,20.9,point,FALSE,America/New_York,26651
+Charlton Heights-WV,1840038119,Charlton Heights,Charlton Heights,WV,Charlton Heights-WV,West Virginia,54019,Fayette,38.1255,-81.2333,,,153.9,polygon,FALSE,America/New_York,25040
+Bartley-WV,1840025730,Bartley,Bartley,WV,Bartley-WV,West Virginia,54047,McDowell,37.3373,-81.7334,,,61.1,polygon,FALSE,America/New_York,24813
+Webster Springs-WV,1840038309,Webster Springs,Webster Springs,WV,Webster Springs-WV,West Virginia,54101,Webster,38.4793,-80.4134,,,632.8,point,TRUE,America/New_York,26288
+Camden on Gauley-WV,1840038305,Camden on Gauley,Camden on Gauley,WV,Camden on Gauley-WV,West Virginia,54101,Webster,38.3668,-80.5956,,,159,point,TRUE,America/New_York,26208
+Coal City-WV,1840038232,Coal City,Coal City,WV,Coal City-WV,West Virginia,54081,Raleigh,37.6776,-81.218,,,178.1,polygon,FALSE,America/New_York,25813 25823
+Bald Knob-WV,1840038111,Bald Knob,Bald Knob,WV,Bald Knob-WV,West Virginia,54005,Boone,37.8709,-81.6357,,,24.3,point,FALSE,America/New_York,25208
+Chapmanville-WV,1840006337,Chapmanville,Chapmanville,WV,Chapmanville-WV,West Virginia,54045,Logan,37.9727,-82.0216,1171,1171,688,polygon,TRUE,America/New_York,25508
+Wheeling-WV,1840005510,Wheeling,Wheeling,WV,Wheeling-WV,West Virginia,54069,Ohio,40.0753,-80.6951,78088,27375,766,polygon,TRUE,America/New_York,26003
+Craigsville-WV,1840006225,Craigsville,Craigsville,WV,Craigsville-WV,West Virginia,54067,Nicholas,38.3246,-80.645,,,193.3,polygon,FALSE,America/New_York,26205
+Herndon-WV,1840038251,Herndon,Herndon,WV,Herndon-WV,West Virginia,54109,Wyoming,37.5054,-81.3404,,,50,point,FALSE,America/New_York,24726
+Fenwick-WV,1840025668,Fenwick,Fenwick,WV,Fenwick-WV,West Virginia,54067,Nicholas,38.2289,-80.5807,,,93.1,polygon,FALSE,America/New_York,26202
+Hurricane-WV,1840006180,Hurricane,Hurricane,WV,Hurricane-WV,West Virginia,54079,Putnam,38.4294,-82.0168,6604,6604,681,polygon,TRUE,America/New_York,25526
+Martinsburg-WV,1840005742,Martinsburg,Martinsburg,WV,Martinsburg-WV,West Virginia,54003,Berkeley,39.458,-77.9779,17687,17687,1026,polygon,TRUE,America/New_York,25401 25403 25404 25402
+Wolf Summit-WV,1840025616,Wolf Summit,Wolf Summit,WV,Wolf Summit-WV,West Virginia,54033,Harrison,39.2822,-80.462,,,215.9,polygon,FALSE,America/New_York,26426 26422
+Ronceverte-WV,1840006286,Ronceverte,Ronceverte,WV,Ronceverte-WV,West Virginia,54025,Greenbrier,37.7503,-80.4715,1736,1736,393,polygon,TRUE,America/New_York,24901 24970
+Chauncey-WV,1840038227,Chauncey,Chauncey,WV,Chauncey-WV,West Virginia,54045,Logan,37.7652,-81.9834,,,165.6,polygon,FALSE,America/New_York,25647 25652 25638
+Bruno-WV,1840038223,Bruno,Bruno,WV,Bruno-WV,West Virginia,54045,Logan,37.688,-81.8737,,,230.7,polygon,FALSE,America/New_York,25611
+McWhorter-WV,1840038272,McWhorter,McWhorter,WV,McWhorter-WV,West Virginia,54033,Harrison,39.1273,-80.3829,,,40.8,point,FALSE,America/New_York,26385
+Lost Creek-WV,1840005772,Lost Creek,Lost Creek,WV,Lost Creek-WV,West Virginia,54033,Harrison,39.1627,-80.3484,474,474,188,polygon,TRUE,America/New_York,26385
+Glasgow-WV,1840006193,Glasgow,Glasgow,WV,Glasgow-WV,West Virginia,54039,Kanawha,38.2109,-81.4218,870,870,721,polygon,TRUE,America/New_York,25110 25086
+Williamson-WV,1840006359,Williamson,Williamson,WV,Williamson-WV,West Virginia,54059,Mingo,37.6742,-82.271,3138,2924,344,polygon,TRUE,America/New_York,25661
+Falling Waters-WV,1840025601,Falling Waters,Falling Waters,WV,Falling Waters-WV,West Virginia,54003,Berkeley,39.5637,-77.8874,,,175,polygon,FALSE,America/New_York,25419
+Delray-WV,1840038238,Delray,Delray,WV,Delray-WV,West Virginia,54027,Hampshire,39.1945,-78.6042,,,50.1,point,FALSE,America/New_York,26714
+Cedar Grove-WV,1840006203,Cedar Grove,Cedar Grove,WV,Cedar Grove-WV,West Virginia,54039,Kanawha,38.2223,-81.4376,938,938,505,polygon,TRUE,America/New_York,25039
+Glenville-WV,1840005998,Glenville,Glenville,WV,Glenville-WV,West Virginia,54021,Gilmer,38.9379,-80.8339,3371,1517,587,polygon,TRUE,America/New_York,26351
+Greenview-WV,1840025687,Greenview,Greenview,WV,Greenview-WV,West Virginia,54005,Boone,37.9963,-81.8202,,,63.1,polygon,FALSE,America/New_York,25053
+Schultz-WV,1840038173,Schultz,Schultz,WV,Schultz-WV,West Virginia,54073,Pleasants,39.3201,-81.2401,,,30.6,point,FALSE,America/New_York,26170
+Riverton-WV,1840038290,Riverton,Riverton,WV,Riverton-WV,West Virginia,54071,Pendleton,38.744,-79.4359,,,71.4,point,FALSE,America/New_York,26814
+Chesapeake-WV,1840006204,Chesapeake,Chesapeake,WV,Chesapeake-WV,West Virginia,54039,Kanawha,38.2233,-81.5364,1480,1480,1182,polygon,TRUE,America/New_York,25015 25315
+Gilbert Creek-WV,1840006357,Gilbert Creek,Gilbert Creek,WV,Gilbert Creek-WV,West Virginia,54059,Mingo,37.5697,-81.8906,,,33.1,polygon,FALSE,America/New_York,25608
+Oakvale-WV,1840006406,Oakvale,Oakvale,WV,Oakvale-WV,West Virginia,54055,Mercer,37.3323,-80.9704,119,119,109,polygon,TRUE,America/New_York,24740 24739
+Pageton-WV,1840025735,Pageton,Pageton,WV,Pageton-WV,West Virginia,54047,McDowell,37.3599,-81.4648,,,27,polygon,FALSE,America/New_York,24871
+Montcalm-WV,1840006400,Montcalm,Montcalm,WV,Montcalm-WV,West Virginia,54055,Mercer,37.3516,-81.2514,,,251.8,polygon,FALSE,America/New_York,24701 24737 24747
+Sophia-WV,1840006354,Sophia,Sophia,WV,Sophia-WV,West Virginia,54081,Raleigh,37.7117,-81.2524,1311,1311,724,polygon,TRUE,America/New_York,25921 25827
+Mill Creek-WV,1840005994,Mill Creek,Mill Creek,WV,Mill Creek-WV,West Virginia,54083,Randolph,38.7319,-79.9725,701,701,592,polygon,TRUE,America/New_York,26280
+Teays Valley-WV,1840038312,Teays Valley,Teays Valley,WV,Teays Valley-WV,West Virginia,54079,Putnam,38.4482,-81.9239,,,480.2,polygon,FALSE,America/New_York,25526 25560
+Romney-WV,1840005756,Romney,Romney,WV,Romney-WV,West Virginia,54027,Hampshire,39.3454,-78.7564,1759,1759,707,polygon,TRUE,America/New_York,26757
+Lizemores-WV,1840038192,Lizemores,Lizemores,WV,Lizemores-WV,West Virginia,54015,Clay,38.334,-81.1751,,,13.3,point,FALSE,America/New_York,25125
+Fairmont-WV,1840005732,Fairmont,Fairmont,WV,Fairmont-WV,West Virginia,54049,Marion,39.4768,-80.149,33265,18622,837,polygon,TRUE,America/New_York,26554 26555
+Logan-WV,1840006336,Logan,Logan,WV,Logan-WV,West Virginia,54045,Logan,37.8509,-81.9857,9667,1600,538,polygon,TRUE,America/New_York,25601
+Maben-WV,1840038265,Maben,Maben,WV,Maben-WV,West Virginia,54109,Wyoming,37.6387,-81.394,,,37.9,point,FALSE,America/New_York,25882
+Kanawha-WV,1840038143,Kanawha,Kanawha,WV,Kanawha-WV,West Virginia,54107,Wood,39.199,-81.4601,,,270.2,point,FALSE,America/New_York,26142
+Whitesville-WV,1840006308,Whitesville,Whitesville,WV,Whitesville-WV,West Virginia,54005,Boone,37.9825,-81.5367,466,466,585,polygon,TRUE,America/New_York,25209
+Green Bank-WV,1840025653,Green Bank,Green Bank,WV,Green Bank-WV,West Virginia,54075,Pocahontas,38.4267,-79.8344,,,30.7,polygon,FALSE,America/New_York,24915 24944
+Chattaroy-WV,1840006355,Chattaroy,Chattaroy,WV,Chattaroy-WV,West Virginia,54059,Mingo,37.7062,-82.2737,,,270.6,polygon,FALSE,America/New_York,25661 25667
+Eccles-WV,1840025708,Eccles,Eccles,WV,Eccles-WV,West Virginia,54081,Raleigh,37.7817,-81.2649,,,179.5,polygon,FALSE,America/New_York,25801 25836
+Dunbar-WV,1840006197,Dunbar,Dunbar,WV,Dunbar-WV,West Virginia,54039,Kanawha,38.3688,-81.7345,7543,7543,1039,polygon,TRUE,America/New_York,25064
+Green Spring-WV,1840025604,Green Spring,Green Spring,WV,Green Spring-WV,West Virginia,54027,Hampshire,39.5242,-78.6302,,,20.9,polygon,FALSE,America/New_York,26722
+Neibert-WV,1840038155,Neibert,Neibert,WV,Neibert-WV,West Virginia,54045,Logan,37.7861,-81.9341,,,240.4,polygon,FALSE,America/New_York,25632
+Montgomery-WV,1840038276,Montgomery,Montgomery,WV,Montgomery-WV,West Virginia,54039,Kanawha,38.1741,-81.3241,4514,1577,388,polygon,TRUE,America/New_York,25136
+Newburg-WV,1840005656,Newburg,Newburg,WV,Newburg-WV,West Virginia,54077,Preston,39.3889,-79.8536,313,313,153,polygon,TRUE,America/New_York,26410
+Hedgesville-WV,1840005741,Hedgesville,Hedgesville,WV,Hedgesville-WV,West Virginia,54003,Berkeley,39.5544,-77.9944,320,320,939,polygon,TRUE,America/New_York,25427
+Pickens-WV,1840025634,Pickens,Pickens,WV,Pickens-WV,West Virginia,54083,Randolph,38.6558,-80.216,,,26,polygon,FALSE,America/New_York,26230
+Inwood-WV,1840005740,Inwood,Inwood,WV,Inwood-WV,West Virginia,54003,Berkeley,39.3538,-78.0552,,,754.7,polygon,FALSE,America/New_York,25428 25420
+Smithfield-WV,1840005673,Smithfield,Smithfield,WV,Smithfield-WV,West Virginia,54103,Wetzel,39.501,-80.5555,157,157,207,polygon,TRUE,America/New_York,26437
+Tioga-WV,1840025670,Tioga,Tioga,WV,Tioga-WV,West Virginia,54067,Nicholas,38.422,-80.6548,,,81.1,polygon,FALSE,America/New_York,26691
+Abbott-WV,1840038211,Abbott,Abbott,WV,Abbott-WV,West Virginia,54097,Upshur,38.9218,-80.3215,,,29.9,point,FALSE,America/New_York,26201
+Falling Spring-WV,1840006284,Falling Spring,Falling Spring,WV,Falling Spring-WV,West Virginia,54025,Greenbrier,37.9926,-80.3576,208,208,155,polygon,TRUE,America/New_York,24966
+Brooks-WV,1840038222,Brooks,Brooks,WV,Brooks-WV,West Virginia,54089,Summers,37.7243,-80.8865,,,28.3,point,FALSE,America/New_York,25951
+Pentress-WV,1840025589,Pentress,Pentress,WV,Pentress-WV,West Virginia,54061,Monongalia,39.7101,-80.1685,,,161,polygon,FALSE,America/New_York,26541
+Mellin-WV,1840038273,Mellin,Mellin,WV,Mellin-WV,West Virginia,54085,Ritchie,39.1226,-81.1709,,,4.1,point,FALSE,America/New_York,26362
+Helen-WV,1840025711,Helen,Helen,WV,Helen-WV,West Virginia,54081,Raleigh,37.6374,-81.313,,,233.3,polygon,FALSE,America/New_York,25921 25853
+Fairview-WV,1840005729,Fairview,Fairview,WV,Fairview-WV,West Virginia,54049,Marion,39.5927,-80.2469,411,411,567,polygon,TRUE,America/New_York,26570
+Mullens-WV,1840006381,Mullens,Mullens,WV,Mullens-WV,West Virginia,54109,Wyoming,37.5812,-81.3855,1439,1439,302,polygon,TRUE,America/New_York,25882
+Gandeeville-WV,1840038135,Gandeeville,Gandeeville,WV,Gandeeville-WV,West Virginia,54087,Roane,38.7051,-81.4104,,,50.6,point,FALSE,America/New_York,25243
+Rand-WV,1840025660,Rand,Rand,WV,Rand-WV,West Virginia,54039,Kanawha,38.2817,-81.5654,,,460.2,polygon,FALSE,America/New_York,25306
+Grantsville-WV,1840006044,Grantsville,Grantsville,WV,Grantsville-WV,West Virginia,54013,Calhoun,38.9203,-81.0934,538,538,477,polygon,TRUE,America/New_York,26147
+Beckley-WV,1840006350,Beckley,Beckley,WV,Beckley-WV,West Virginia,54081,Raleigh,37.7878,-81.1841,61693,16972,689,polygon,TRUE,America/New_York,25801 25802 25919
+Augusta-WV,1840038110,Augusta,Augusta,WV,Augusta-WV,West Virginia,54027,Hampshire,39.2954,-78.6378,,,91.3,point,FALSE,America/New_York,26704
+Dorcas-WV,1840038127,Dorcas,Dorcas,WV,Dorcas-WV,West Virginia,54023,Grant,38.939,-79.1061,,,36.8,point,FALSE,America/New_York,26847
+Pocatalico-WV,1840038163,Pocatalico,Pocatalico,WV,Pocatalico-WV,West Virginia,54039,Kanawha,38.4904,-81.6473,,,262.4,point,FALSE,America/New_York,25320
+Omar-WV,1840038156,Omar,Omar,WV,Omar-WV,West Virginia,54045,Logan,37.7583,-81.9973,,,333.5,polygon,FALSE,America/New_York,25638
+Brookhaven-WV,1840005643,Brookhaven,Brookhaven,WV,Brookhaven-WV,West Virginia,54061,Monongalia,39.6062,-79.8812,,,707.8,polygon,FALSE,America/New_York,26508 26531
+Cairo-WV,1840005794,Cairo,Cairo,WV,Cairo-WV,West Virginia,54085,Ritchie,39.2066,-81.1544,267,267,218,polygon,TRUE,America/New_York,26337
+Bancroft-WV,1840006181,Bancroft,Bancroft,WV,Bancroft-WV,West Virginia,54079,Putnam,38.5107,-81.8418,598,598,1661,polygon,TRUE,America/New_York,25011
+Barnabus-WV,1840038112,Barnabus,Barnabus,WV,Barnabus-WV,West Virginia,54045,Logan,37.744,-82.0093,,,22.9,point,FALSE,America/New_York,25644
+Raysal-WV,1840038289,Raysal,Raysal,WV,Raysal-WV,West Virginia,54047,McDowell,37.3367,-81.7712,,,126.4,polygon,FALSE,America/New_York,24879
+Gary-WV,1840006419,Gary,Gary,WV,Gary-WV,West Virginia,54047,McDowell,37.3621,-81.5405,866,866,397,polygon,TRUE,America/New_York,24888 24836
+Robertsburg-WV,1840038302,Robertsburg,Robertsburg,WV,Robertsburg-WV,West Virginia,54079,Putnam,38.6554,-81.9512,,,67.1,point,FALSE,America/New_York,25123
+Glen White-WV,1840025710,Glen White,Glen White,WV,Glen White-WV,West Virginia,54081,Raleigh,37.73,-81.2797,,,304.1,polygon,FALSE,America/New_York,25849
+Robinette-WV,1840038205,Robinette,Robinette,WV,Robinette-WV,West Virginia,54045,Logan,37.7855,-81.7879,,,217.3,polygon,FALSE,America/New_York,25607
+Flatwoods-WV,1840006113,Flatwoods,Flatwoods,WV,Flatwoods-WV,West Virginia,54007,Braxton,38.7187,-80.654,277,277,163,polygon,TRUE,America/New_York,26621 26601
+Jefferson-WV,1840038310,Jefferson,Jefferson,WV,Jefferson-WV,West Virginia,54039,Kanawha,38.3706,-81.7717,,,237.7,polygon,FALSE,America/New_York,25177
+Gap Mills-WV,1840038198,Gap Mills,Gap Mills,WV,Gap Mills-WV,West Virginia,54063,Monroe,37.5623,-80.4081,,,21.4,point,FALSE,America/New_York,24941
+Petersburg-WV,1840005861,Petersburg,Petersburg,WV,Petersburg-WV,West Virginia,54023,Grant,38.9957,-79.1276,2654,2573,614,polygon,TRUE,America/New_York,26847
+Frankford-WV,1840038247,Frankford,Frankford,WV,Frankford-WV,West Virginia,54025,Greenbrier,37.9251,-80.3845,,,22.4,point,FALSE,America/New_York,24938
+Granville-WV,1840005646,Granville,Granville,WV,Granville-WV,West Virginia,54061,Monongalia,39.6471,-79.9974,2562,2562,762,polygon,TRUE,America/New_York,26534
+Coxs Mills-WV,1840038124,Coxs Mills,Coxs Mills,WV,Coxs Mills-WV,West Virginia,54021,Gilmer,39.0445,-80.8268,,,31.8,point,FALSE,America/New_York,26342
+Carolina-WV,1840025597,Carolina,Carolina,WV,Carolina-WV,West Virginia,54049,Marion,39.4795,-80.2728,,,397.9,polygon,FALSE,America/New_York,26563 26591
+Mitchell Heights-WV,1840038275,Mitchell Heights,Mitchell Heights,WV,Mitchell Heights-WV,West Virginia,54045,Logan,37.9088,-81.9867,302,302,347,polygon,TRUE,America/New_York,25601
+Elizabeth-WV,1840005929,Elizabeth,Elizabeth,WV,Elizabeth-WV,West Virginia,54105,Wirt,39.0618,-81.3975,831,831,678,polygon,TRUE,America/New_York,26143
+Eckman-WV,1840038240,Eckman,Eckman,WV,Eckman-WV,West Virginia,54047,McDowell,37.4046,-81.4643,,,9.7,point,FALSE,America/New_York,24868
+Saint Albans-WV,1840006201,Saint Albans,Saint Albans,WV,Saint Albans-WV,West Virginia,54039,Kanawha,38.3769,-81.8198,10553,10553,1127,polygon,TRUE,America/New_York,25177
+Lavalette-WV,1840025674,Lavalette,Lavalette,WV,Lavalette-WV,West Virginia,54099,Wayne,38.3224,-82.4479,,,269.7,polygon,FALSE,America/New_York,25535
+Ward-WV,1840038184,Ward,Ward,WV,Ward-WV,West Virginia,54039,Kanawha,38.2465,-81.3882,,,7.9,point,FALSE,America/New_York,25039
+East Dailey-WV,1840025632,East Dailey,East Dailey,WV,East Dailey-WV,West Virginia,54083,Randolph,38.7795,-79.8911,,,189.5,polygon,FALSE,America/New_York,26253
+Pineville-WV,1840006383,Pineville,Pineville,WV,Pineville-WV,West Virginia,54109,Wyoming,37.5846,-81.5354,619,619,311,polygon,TRUE,America/New_York,24874
+Kistler-WV,1840025703,Kistler,Kistler,WV,Kistler-WV,West Virginia,54045,Logan,37.7656,-81.8578,,,292,polygon,FALSE,America/New_York,25628
+Rockport-WV,1840038292,Rockport,Rockport,WV,Rockport-WV,West Virginia,54107,Wood,39.0742,-81.5532,,,22.8,point,FALSE,America/New_York,26169
+Galloway-WV,1840025624,Galloway,Galloway,WV,Galloway-WV,West Virginia,54001,Barbour,39.2339,-80.1277,,,63.7,polygon,FALSE,America/New_York,26347 26349
+Parsons-WV,1840005888,Parsons,Parsons,WV,Parsons-WV,West Virginia,54093,Tucker,39.0942,-79.6786,1423,1423,496,polygon,TRUE,America/New_York,26287
+Corinne-WV,1840025719,Corinne,Corinne,WV,Corinne-WV,West Virginia,54109,Wyoming,37.571,-81.3614,,,228.9,polygon,FALSE,America/New_York,25882 25810 25826
+Covel-WV,1840038235,Covel,Covel,WV,Covel-WV,West Virginia,54109,Wyoming,37.4906,-81.3194,,,129.4,polygon,FALSE,America/New_York,24719
+White Sulphur Springs-WV,1840006287,White Sulphur Springs,White Sulphur Springs,WV,White Sulphur Springs-WV,West Virginia,54025,Greenbrier,37.7962,-80.3016,2648,2420,478,polygon,TRUE,America/New_York,24986
+Buffalo-WV,1840006182,Buffalo,Buffalo,WV,Buffalo-WV,West Virginia,54079,Putnam,38.6117,-81.982,1250,1250,344,polygon,TRUE,America/New_York,25033
+Paden City-WV,1840005671,Paden City,Paden City,WV,Paden City-WV,West Virginia,54095,Tyler,39.6035,-80.9351,2532,2487,1135,polygon,TRUE,America/New_York,26159
+Evans-WV,1840038242,Evans,Evans,WV,Evans-WV,West Virginia,54035,Jackson,38.8204,-81.7796,,,379.7,point,FALSE,America/New_York,25241
+Pruntytown-WV,1840038164,Pruntytown,Pruntytown,WV,Pruntytown-WV,West Virginia,54091,Taylor,39.334,-80.0767,,,87.2,point,FALSE,America/New_York,26354
+Huttonsville-WV,1840005993,Huttonsville,Huttonsville,WV,Huttonsville-WV,West Virginia,54083,Randolph,38.7138,-79.9766,218,218,277,polygon,TRUE,America/New_York,26273
+Pine Grove-WV,1840005672,Pine Grove,Pine Grove,WV,Pine Grove-WV,West Virginia,54103,Wetzel,39.5641,-80.6824,510,510,559,polygon,TRUE,America/New_York,26419
+Brenton-WV,1840038221,Brenton,Brenton,WV,Brenton-WV,West Virginia,54109,Wyoming,37.6004,-81.635,,,138.5,polygon,FALSE,America/New_York,24818
+Bramwell-WV,1840006404,Bramwell,Bramwell,WV,Bramwell-WV,West Virginia,54055,Mercer,37.327,-81.313,352,352,245,polygon,TRUE,America/New_York,24715 24724
+Delbarton-WV,1840006360,Delbarton,Delbarton,WV,Delbarton-WV,West Virginia,54059,Mingo,37.7052,-82.186,527,527,102,polygon,TRUE,America/New_York,25670
+Sistersville-WV,1840005746,Sistersville,Sistersville,WV,Sistersville-WV,West Virginia,54095,Tyler,39.5598,-80.9987,1316,1316,967,polygon,TRUE,America/New_York,26175
+Huntington-WV,1840006211,Huntington,Huntington,WV,Huntington-WV,West Virginia,54011,Cabell,38.4109,-82.4344,198419,48113,1145,polygon,TRUE,America/New_York,25703 25702 25701 25705 25704 25706 25707 25708 25709 25710 25711 25712 25713 25714 25715 25716 25717 25718 25719 25720 25721 25722 25723 25724 25725 25726 25727 25728 25729 25755 25770 25771 25772 25773 25774 25775 25776 25777 25778 25779
+Hico-WV,1840025680,Hico,Hico,WV,Hico-WV,West Virginia,54019,Fayette,38.1166,-81.0112,,,27,polygon,FALSE,America/New_York,25854
+Pullman-WV,1840005795,Pullman,Pullman,WV,Pullman-WV,West Virginia,54085,Ritchie,39.188,-80.949,142,142,225,polygon,TRUE,America/New_York,26415 26421
+Accoville-WV,1840038107,Accoville,Accoville,WV,Accoville-WV,West Virginia,54045,Logan,37.7653,-81.827,,,157.1,polygon,FALSE,America/New_York,25606
+Bowden-WV,1840025630,Bowden,Bowden,WV,Bowden-WV,West Virginia,54083,Randolph,38.9092,-79.7089,,,25.7,polygon,FALSE,America/New_York,26241
+Mount Carbon-WV,1840038277,Mount Carbon,Mount Carbon,WV,Mount Carbon-WV,West Virginia,54019,Fayette,38.1443,-81.289,,,148.1,polygon,FALSE,America/New_York,25139
+Alum Bridge-WV,1840038212,Alum Bridge,Alum Bridge,WV,Alum Bridge-WV,West Virginia,54041,Lewis,39.0393,-80.6551,,,17.3,point,FALSE,America/New_York,26338
+Winfield-WV,1840006184,Winfield,Winfield,WV,Winfield-WV,West Virginia,54079,Putnam,38.5285,-81.8861,2357,2357,377,polygon,TRUE,America/New_York,25213
+Fairlea-WV,1840038243,Fairlea,Fairlea,WV,Fairlea-WV,West Virginia,54025,Greenbrier,37.7756,-80.4582,,,567.9,polygon,FALSE,America/New_York,24901 24970 24902
+Handley-WV,1840006194,Handley,Handley,WV,Handley-WV,West Virginia,54039,Kanawha,38.1863,-81.3673,336,336,136,polygon,TRUE,America/New_York,25102
+Gilbert-WV,1840006358,Gilbert,Gilbert,WV,Gilbert-WV,West Virginia,54059,Mingo,37.6142,-81.8689,412,412,160,polygon,TRUE,America/New_York,25621
+Rivesville-WV,1840005737,Rivesville,Rivesville,WV,Rivesville-WV,West Virginia,54049,Marion,39.5318,-80.1207,934,934,687,polygon,TRUE,America/New_York,26588
+Kearneysville-WV,1840038144,Kearneysville,Kearneysville,WV,Kearneysville-WV,West Virginia,54037,Jefferson,39.3882,-77.8856,,,86.3,point,FALSE,America/New_York,25430
+Proctor-WV,1840038288,Proctor,Proctor,WV,Proctor-WV,West Virginia,54103,Wetzel,39.7117,-80.8237,,,109.5,point,FALSE,America/New_York,26055
+Frost-WV,1840038248,Frost,Frost,WV,Frost-WV,West Virginia,54075,Pocahontas,38.2707,-79.8806,,,8.1,point,FALSE,America/New_York,24954
+Griffithsville-WV,1840038137,Griffithsville,Griffithsville,WV,Griffithsville-WV,West Virginia,54043,Lincoln,38.2387,-81.9893,,,148,point,FALSE,America/New_York,25521
+Belle-WV,1840006202,Belle,Belle,WV,Belle-WV,West Virginia,54039,Kanawha,38.2337,-81.5387,1192,1192,666,polygon,TRUE,America/New_York,25015
+Old Fields-WV,1840038285,Old Fields,Old Fields,WV,Old Fields-WV,West Virginia,54031,Hardy,39.1348,-78.9497,,,25,point,FALSE,America/New_York,26845
+Alexander-WV,1840038190,Alexander,Alexander,WV,Alexander-WV,West Virginia,54097,Upshur,38.7829,-80.2226,,,1,point,FALSE,America/New_York,26218
+Pike-WV,1840038160,Pike,Pike,WV,Pike-WV,West Virginia,54085,Ritchie,39.2834,-81.0815,,,68,point,FALSE,America/New_York,26346
+Westover-WV,1840005648,Westover,Westover,WV,Westover-WV,West Virginia,54061,Monongalia,39.6324,-79.9773,4243,4243,1090,polygon,TRUE,America/New_York,26501
+Alderson-WV,1840006288,Alderson,Alderson,WV,Alderson-WV,West Virginia,54025,Greenbrier,37.7277,-80.6436,2607,1173,509,polygon,TRUE,America/New_York,24910
+Crab Orchard-WV,1840006346,Crab Orchard,Crab Orchard,WV,Crab Orchard-WV,West Virginia,54081,Raleigh,37.741,-81.23,,,488.9,polygon,FALSE,America/New_York,25801 25827
+Malden-WV,1840038268,Malden,Malden,WV,Malden-WV,West Virginia,54039,Kanawha,38.3007,-81.5571,,,343.6,point,FALSE,America/New_York,25306
+Enterprise-WV,1840005764,Enterprise,Enterprise,WV,Enterprise-WV,West Virginia,54033,Harrison,39.4197,-80.2834,,,363.8,polygon,FALSE,America/New_York,26568 26431
+Beverly-WV,1840005992,Beverly,Beverly,WV,Beverly-WV,West Virginia,54083,Randolph,38.844,-79.8719,679,679,597,polygon,TRUE,America/New_York,26253
+Charleston-WV,1840006196,Charleston,Charleston,WV,Charleston-WV,West Virginia,54039,Kanawha,38.3484,-81.6323,146462,49138,602,polygon,TRUE,America/New_York,25305 25304 25303 25302 25301 25311 25312 25314 25317 25321 25322 25323 25324 25325 25326 25327 25328 25329 25330 25331 25332 25333 25334 25335 25336 25337 25338 25339 25350 25356 25357 25358 25360 25361 25362 25364 25365 25375 25387 25389 25392 25396
+Brohard-WV,1840038115,Brohard,Brohard,WV,Brohard-WV,West Virginia,54105,Wirt,39.0365,-81.1762,,,24.8,point,FALSE,America/New_York,26148
+Chelyan-WV,1840025659,Chelyan,Chelyan,WV,Chelyan-WV,West Virginia,54039,Kanawha,38.1958,-81.4928,,,948.5,polygon,FALSE,America/New_York,25035
+Lindside-WV,1840038201,Lindside,Lindside,WV,Lindside-WV,West Virginia,54063,Monroe,37.4537,-80.6698,,,94.2,point,FALSE,America/New_York,24951
+Meadow Creek-WV,1840038151,Meadow Creek,Meadow Creek,WV,Meadow Creek-WV,West Virginia,54089,Summers,37.8101,-80.9231,,,41.2,point,FALSE,America/New_York,25977
+Asbury-WV,1840038109,Asbury,Asbury,WV,Asbury-WV,West Virginia,54025,Greenbrier,37.8198,-80.5592,,,67.7,point,FALSE,America/New_York,24916
+Auburn-WV,1840005793,Auburn,Auburn,WV,Auburn-WV,West Virginia,54085,Ritchie,39.0962,-80.8562,92,92,106,polygon,TRUE,America/New_York,26325
+Spelter-WV,1840025615,Spelter,Spelter,WV,Spelter-WV,West Virginia,54033,Harrison,39.3431,-80.3163,,,379.9,polygon,FALSE,America/New_York,26438 26404
+Sarah Ann-WV,1840025705,Sarah Ann,Sarah Ann,WV,Sarah Ann-WV,West Virginia,54045,Logan,37.7086,-81.988,,,97.2,polygon,FALSE,America/New_York,25644 25638
+Branchland-WV,1840038114,Branchland,Branchland,WV,Branchland-WV,West Virginia,54043,Lincoln,38.2209,-82.2038,,,78,point,FALSE,America/New_York,25506
+Carpendale-WV,1840005724,Carpendale,Carpendale,WV,Carpendale-WV,West Virginia,54057,Mineral,39.6278,-78.7896,934,934,274,polygon,TRUE,America/New_York,26753
+Pax-WV,1840006301,Pax,Pax,WV,Pax-WV,West Virginia,54019,Fayette,37.9098,-81.2648,162,162,208,polygon,TRUE,America/New_York,25880 25904
+Farmington-WV,1840005730,Farmington,Farmington,WV,Farmington-WV,West Virginia,54049,Marion,39.5119,-80.2515,374,374,347,polygon,TRUE,America/New_York,26571
+Kimberly-WV,1840038146,Kimberly,Kimberly,WV,Kimberly-WV,West Virginia,54019,Fayette,38.1407,-81.2966,,,144,polygon,FALSE,America/New_York,25118 25139
+Danville-WV,1840006306,Danville,Danville,WV,Danville-WV,West Virginia,54005,Boone,38.0808,-81.8342,640,640,230,polygon,TRUE,America/New_York,25053
+MacArthur-WV,1840038266,MacArthur,MacArthur,WV,MacArthur-WV,West Virginia,54081,Raleigh,37.7553,-81.2078,,,344.2,polygon,FALSE,America/New_York,25801 25873
+Grafton-WV,1840005779,Grafton,Grafton,WV,Grafton-WV,West Virginia,54091,Taylor,39.3409,-80.0162,5881,5127,539,polygon,TRUE,America/New_York,26354
+Tunnelton-WV,1840005660,Tunnelton,Tunnelton,WV,Tunnelton-WV,West Virginia,54077,Preston,39.3929,-79.7466,297,297,342,polygon,TRUE,America/New_York,26444
+Oceana-WV,1840006382,Oceana,Oceana,WV,Oceana-WV,West Virginia,54109,Wyoming,37.6927,-81.6324,2429,1280,382,polygon,TRUE,America/New_York,24870
+Leopold-WV,1840038149,Leopold,Leopold,WV,Leopold-WV,West Virginia,54017,Doddridge,39.1254,-80.7407,,,2.7,point,FALSE,America/New_York,26411
+Lost City-WV,1840038202,Lost City,Lost City,WV,Lost City-WV,West Virginia,54031,Hardy,38.9298,-78.8342,,,86.6,point,FALSE,America/New_York,26812
+New Cumberland-WV,1840005404,New Cumberland,New Cumberland,WV,New Cumberland-WV,West Virginia,54029,Hancock,40.5072,-80.6115,1051,1051,332,polygon,TRUE,America/New_York,26047
+Valley Grove-WV,1840005511,Valley Grove,Valley Grove,WV,Valley Grove-WV,West Virginia,54069,Ohio,40.0901,-80.569,365,365,257,polygon,TRUE,America/New_York,26060 26059
+Ravenswood-WV,1840006007,Ravenswood,Ravenswood,WV,Ravenswood-WV,West Virginia,54035,Jackson,38.9561,-81.7619,4094,3825,812,polygon,TRUE,America/New_York,26164
+Ingleside-WV,1840038254,Ingleside,Ingleside,WV,Ingleside-WV,West Virginia,54055,Mercer,37.3148,-81.0523,,,16,point,FALSE,America/New_York,24740
+Annamoriah-WV,1840038108,Annamoriah,Annamoriah,WV,Annamoriah-WV,West Virginia,54013,Calhoun,38.9406,-81.2271,,,13.5,point,FALSE,America/New_York,26141
+Smithers-WV,1840006298,Smithers,Smithers,WV,Smithers-WV,West Virginia,54019,Fayette,38.1768,-81.3048,777,777,597,polygon,TRUE,America/New_York,25186
+Hilltop-WV,1840038140,Hilltop,Hilltop,WV,Hilltop-WV,West Virginia,54019,Fayette,37.9392,-81.1527,,,176,polygon,FALSE,America/New_York,25901 25855
+Barboursville-WV,1840006213,Barboursville,Barboursville,WV,Barboursville-WV,West Virginia,54011,Cabell,38.4061,-82.297,4262,4262,402,polygon,TRUE,America/New_York,25504
+Crum-WV,1840025673,Crum,Crum,WV,Crum-WV,West Virginia,54099,Wayne,37.9095,-82.447,,,162.6,polygon,FALSE,America/New_York,25669
+Falls View-WV,1840038244,Falls View,Falls View,WV,Falls View-WV,West Virginia,54019,Fayette,38.1297,-81.2539,,,218.6,polygon,FALSE,America/New_York,25040 25002
+Saint George-WV,1840038206,Saint George,Saint George,WV,Saint George-WV,West Virginia,54093,Tucker,39.1662,-79.6987,,,28.4,polygon,FALSE,America/New_York,26287
+Kingston-WV,1840038261,Kingston,Kingston,WV,Kingston-WV,West Virginia,54019,Fayette,37.9737,-81.3046,,,1.4,point,FALSE,America/New_York,25083
+Weston-WV,1840005930,Weston,Weston,WV,Weston-WV,West Virginia,54041,Lewis,39.0391,-80.4617,4994,4044,803,polygon,TRUE,America/New_York,26452
+Bruceton Mills-WV,1840005654,Bruceton Mills,Bruceton Mills,WV,Bruceton Mills-WV,West Virginia,54077,Preston,39.6594,-79.6406,87,87,605,polygon,TRUE,America/New_York,26525
+West Union-WV,1840005780,West Union,West Union,WV,West Union-WV,West Virginia,54017,Doddridge,39.2963,-80.7751,820,820,878,polygon,TRUE,America/New_York,26456
+Ferrellsburg-WV,1840038132,Ferrellsburg,Ferrellsburg,WV,Ferrellsburg-WV,West Virginia,54043,Lincoln,38.0251,-82.1054,,,31.5,point,FALSE,America/New_York,25524
+Rupert-WV,1840006291,Rupert,Rupert,WV,Rupert-WV,West Virginia,54025,Greenbrier,37.9649,-80.687,923,923,464,polygon,TRUE,America/New_York,25984
+Worthington-WV,1840005739,Worthington,Worthington,WV,Worthington-WV,West Virginia,54049,Marion,39.4568,-80.2636,159,159,105,polygon,TRUE,America/New_York,26591
+Whitmer-WV,1840025637,Whitmer,Whitmer,WV,Whitmer-WV,West Virginia,54083,Randolph,38.8148,-79.5451,,,83.6,polygon,FALSE,America/New_York,26296
+Four States-WV,1840038246,Four States,Four States,WV,Four States-WV,West Virginia,54049,Marion,39.4798,-80.3098,,,65.5,point,FALSE,America/New_York,26572
+Harrisville-WV,1840005791,Harrisville,Harrisville,WV,Harrisville-WV,West Virginia,54085,Ritchie,39.2104,-81.0485,1750,1750,426,polygon,TRUE,America/New_York,26362
+Henderson-WV,1840006047,Henderson,Henderson,WV,Henderson-WV,West Virginia,54053,Mason,38.8304,-82.136,266,266,245,polygon,TRUE,America/New_York,25106
+Fort Gay-WV,1840006261,Fort Gay,Fort Gay,WV,Fort Gay-WV,West Virginia,54099,Wayne,38.1203,-82.5952,671,671,309,polygon,TRUE,America/New_York,25514
+Swandale-WV,1840038295,Swandale,Swandale,WV,Swandale-WV,West Virginia,54015,Clay,38.4707,-80.9595,,,2.4,point,FALSE,America/New_York,25043
+Birch River-WV,1840025666,Birch River,Birch River,WV,Birch River-WV,West Virginia,54067,Nicholas,38.4961,-80.7498,,,89.1,polygon,FALSE,America/New_York,26610
+Cheat Lake-WV,1840005645,Cheat Lake,Cheat Lake,WV,Cheat Lake-WV,West Virginia,54061,Monongalia,39.6672,-79.8565,,,159.6,polygon,FALSE,America/New_York,26508
+Walton-WV,1840038299,Walton,Walton,WV,Walton-WV,West Virginia,54087,Roane,38.639,-81.4021,,,60.9,point,FALSE,America/New_York,25286
+Morgantown-WV,1840005647,Morgantown,Morgantown,WV,Morgantown-WV,West Virginia,54061,Monongalia,39.6379,-79.9468,73183,30855,1193,polygon,TRUE,America/New_York,26501 26505 26502 26504 26506 26507
+Marlinton-WV,1840006156,Marlinton,Marlinton,WV,Marlinton-WV,West Virginia,54075,Pocahontas,38.2245,-80.0905,1014,1014,166,polygon,TRUE,America/New_York,24954
+Capon Bridge-WV,1840005757,Capon Bridge,Capon Bridge,WV,Capon Bridge-WV,West Virginia,54027,Hampshire,39.2998,-78.4337,369,369,212,polygon,TRUE,America/New_York,26711
+Piney View-WV,1840038161,Piney View,Piney View,WV,Piney View-WV,West Virginia,54081,Raleigh,37.835,-81.1275,,,116.5,polygon,FALSE,America/New_York,25801 25906
+Boomer-WV,1840025677,Boomer,Boomer,WV,Boomer-WV,West Virginia,54019,Fayette,38.1516,-81.2825,,,628.8,polygon,FALSE,America/New_York,25031
+Sweet Springs-WV,1840038208,Sweet Springs,Sweet Springs,WV,Sweet Springs-WV,West Virginia,54063,Monroe,37.6285,-80.2414,,,9.5,point,FALSE,America/New_York,24941
+Clearview-WV,1840005515,Clearview,Clearview,WV,Clearview-WV,West Virginia,54069,Ohio,40.14,-80.6901,546,546,507,polygon,TRUE,America/New_York,26003
+Nallen-WV,1840038280,Nallen,Nallen,WV,Nallen-WV,West Virginia,54019,Fayette,38.1107,-80.877,,,54.5,point,FALSE,America/New_York,26680
+Arbovale-WV,1840038214,Arbovale,Arbovale,WV,Arbovale-WV,West Virginia,54075,Pocahontas,38.4353,-79.8116,,,37.4,polygon,FALSE,America/New_York,24915
+Ridgeview-WV,1840038166,Ridgeview,Ridgeview,WV,Ridgeview-WV,West Virginia,54005,Boone,38.1384,-81.7596,,,49.6,point,FALSE,America/New_York,25169
+Washington-WV,1840005785,Washington,Washington,WV,Washington-WV,West Virginia,54107,Wood,39.2422,-81.6679,,,20.7,polygon,FALSE,America/New_York,26181
+Folsom-WV,1840038133,Folsom,Folsom,WV,Folsom-WV,West Virginia,54103,Wetzel,39.4706,-80.5204,,,97.5,point,FALSE,America/New_York,26348
+Diana-WV,1840038239,Diana,Diana,WV,Diana-WV,West Virginia,54101,Webster,38.5737,-80.4565,,,65.8,point,FALSE,America/New_York,26217
+Lorentz-WV,1840038150,Lorentz,Lorentz,WV,Lorentz-WV,West Virginia,54097,Upshur,39.0109,-80.3023,,,52.1,point,FALSE,America/New_York,26201
+Amherstdale-WV,1840025700,Amherstdale,Amherstdale,WV,Amherstdale-WV,West Virginia,54045,Logan,37.78,-81.8182,,,70.9,polygon,FALSE,America/New_York,25606 25607
+Bradshaw-WV,1840006424,Bradshaw,Bradshaw,WV,Bradshaw-WV,West Virginia,54047,McDowell,37.3534,-81.8012,296,296,147,polygon,TRUE,America/New_York,24817
+Monaville-WV,1840025704,Monaville,Monaville,WV,Monaville-WV,West Virginia,54045,Logan,37.8136,-81.9915,,,305.1,polygon,FALSE,America/New_York,25601
+Ceredo-WV,1840006262,Ceredo,Ceredo,WV,Ceredo-WV,West Virginia,54099,Wayne,38.3951,-82.5542,1376,1376,347,polygon,TRUE,America/New_York,25704 25507
+Minden-WV,1840025682,Minden,Minden,WV,Minden-WV,West Virginia,54019,Fayette,37.9767,-81.1161,,,254.9,polygon,FALSE,America/New_York,25879
+Scarbro-WV,1840025685,Scarbro,Scarbro,WV,Scarbro-WV,West Virginia,54019,Fayette,37.9504,-81.1666,,,218.5,polygon,FALSE,America/New_York,25917
+Sand Fork-WV,1840005999,Sand Fork,Sand Fork,WV,Sand Fork-WV,West Virginia,54021,Gilmer,38.9154,-80.7476,155,155,184,polygon,TRUE,America/New_York,26430
+Stollings-WV,1840038179,Stollings,Stollings,WV,Stollings-WV,West Virginia,54045,Logan,37.8409,-81.9624,,,275.9,polygon,FALSE,America/New_York,25646 25601
+Red Jacket-WV,1840006356,Red Jacket,Red Jacket,WV,Red Jacket-WV,West Virginia,54059,Mingo,37.6488,-82.1316,,,193.3,polygon,FALSE,America/New_York,25692
+Gassaway-WV,1840006114,Gassaway,Gassaway,WV,Gassaway-WV,West Virginia,54007,Braxton,38.6702,-80.7717,902,902,301,polygon,TRUE,America/New_York,26624
+Parkersburg-WV,1840005786,Parkersburg,Parkersburg,WV,Parkersburg-WV,West Virginia,54107,Wood,39.2624,-81.5419,65331,30601,1003,polygon,TRUE,America/New_York,26104 26101 26102 26103 26106
+Quinnimont-WV,1840038165,Quinnimont,Quinnimont,WV,Quinnimont-WV,West Virginia,54019,Fayette,37.8546,-81.0445,,,11.8,point,FALSE,America/New_York,25864
+Blacksville-WV,1840005649,Blacksville,Blacksville,WV,Blacksville-WV,West Virginia,54061,Monongalia,39.7175,-80.2146,183,183,235,polygon,TRUE,America/New_York,26521
+Blennerhassett-WV,1840005781,Blennerhassett,Blennerhassett,WV,Blennerhassett-WV,West Virginia,54107,Wood,39.2562,-81.6316,,,370,polygon,FALSE,America/New_York,26101 26181
+Pennsboro-WV,1840005792,Pennsboro,Pennsboro,WV,Pennsboro-WV,West Virginia,54085,Ritchie,39.2874,-80.9754,1067,1067,152,polygon,TRUE,America/New_York,26415
+Williamstown-WV,1840005788,Williamstown,Williamstown,WV,Williamstown-WV,West Virginia,54107,Wood,39.4004,-81.4518,2941,2941,825,polygon,TRUE,America/New_York,26187
+Lowsville-WV,1840038264,Lowsville,Lowsville,WV,Lowsville-WV,West Virginia,54061,Monongalia,39.5629,-80.0531,,,63.3,point,FALSE,America/New_York,26501
+Keyser-WV,1840005723,Keyser,Keyser,WV,Keyser-WV,West Virginia,54057,Mineral,39.4394,-78.9823,6730,5200,1021,polygon,TRUE,America/New_York,26726
+Hendricks-WV,1840005887,Hendricks,Hendricks,WV,Hendricks-WV,West Virginia,54093,Tucker,39.0754,-79.6299,265,265,299,polygon,TRUE,America/New_York,26271
+Hinton-WV,1840006368,Hinton,Hinton,WV,Hinton-WV,West Virginia,54089,Summers,37.6651,-80.8828,2431,2469,426,polygon,TRUE,America/New_York,25951
+Rhodell-WV,1840006353,Rhodell,Rhodell,WV,Rhodell-WV,West Virginia,54081,Raleigh,37.6095,-81.3051,167,167,205,polygon,TRUE,America/New_York,25915
+Clintonville-WV,1840038231,Clintonville,Clintonville,WV,Clintonville-WV,West Virginia,54025,Greenbrier,37.894,-80.599,,,40.1,point,FALSE,America/New_York,24931
+Verdunville-WV,1840025706,Verdunville,Verdunville,WV,Verdunville-WV,West Virginia,54045,Logan,37.8532,-82.0603,,,176.1,polygon,FALSE,America/New_York,25649
+Frenchton-WV,1840038134,Frenchton,Frenchton,WV,Frenchton-WV,West Virginia,54097,Upshur,38.8729,-80.3565,,,47.7,point,FALSE,America/New_York,26218
+Summersville-WV,1840006227,Summersville,Summersville,WV,Summersville-WV,West Virginia,54067,Nicholas,38.2865,-80.841,3238,3434,295,polygon,TRUE,America/New_York,26651
+Aurora-WV,1840025590,Aurora,Aurora,WV,Aurora-WV,West Virginia,54077,Preston,39.3254,-79.5546,,,37,polygon,FALSE,America/New_York,26705
+Lewisburg-WV,1840006285,Lewisburg,Lewisburg,WV,Lewisburg-WV,West Virginia,54025,Greenbrier,37.8096,-80.4327,7124,3921,398,polygon,TRUE,America/New_York,24901
+Rippon-WV,1840038167,Rippon,Rippon,WV,Rippon-WV,West Virginia,54037,Jefferson,39.2184,-77.9053,,,50.6,point,FALSE,America/New_York,25446
+Lesage-WV,1840025662,Lesage,Lesage,WV,Lesage-WV,West Virginia,54011,Cabell,38.487,-82.293,,,72.1,polygon,FALSE,America/New_York,25702 25537
+Glen Jean-WV,1840025679,Glen Jean,Glen Jean,WV,Glen Jean-WV,West Virginia,54019,Fayette,37.9271,-81.153,,,457.8,polygon,FALSE,America/New_York,25846
+Hernshaw-WV,1840038139,Hernshaw,Hernshaw,WV,Hernshaw-WV,West Virginia,54039,Kanawha,38.2251,-81.6023,,,66.7,point,FALSE,America/New_York,25107
+Shady Spring-WV,1840006348,Shady Spring,Shady Spring,WV,Shady Spring-WV,West Virginia,54081,Raleigh,37.7032,-81.0912,,,244.6,polygon,FALSE,America/New_York,25832 25918 25989
+Waverly-WV,1840025618,Waverly,Waverly,WV,Waverly-WV,West Virginia,54107,Wood,39.3329,-81.3812,,,440.9,polygon,FALSE,America/New_York,26184
+Bridgeport-WV,1840005766,Bridgeport,Bridgeport,WV,Bridgeport-WV,West Virginia,54033,Harrison,39.3036,-80.2476,8364,8364,300,polygon,TRUE,America/New_York,26330
+Harts-WV,1840006270,Harts,Harts,WV,Harts-WV,West Virginia,54043,Lincoln,38.0343,-82.129,,,86.4,polygon,FALSE,America/New_York,25524
+Terra Alta-WV,1840005659,Terra Alta,Terra Alta,WV,Terra Alta-WV,West Virginia,54077,Preston,39.4442,-79.5435,1491,1491,485,polygon,TRUE,America/New_York,26764
+Big Creek-WV,1840025701,Big Creek,Big Creek,WV,Big Creek-WV,West Virginia,54045,Logan,38.0054,-82.0361,,,212.3,polygon,FALSE,America/New_York,25505
+Lubeck-WV,1840005784,Lubeck,Lubeck,WV,Lubeck-WV,West Virginia,54107,Wood,39.2276,-81.6265,,,296.7,polygon,FALSE,America/New_York,26101 26181
+Big Sandy-WV,1840038218,Big Sandy,Big Sandy,WV,Big Sandy-WV,West Virginia,54047,McDowell,37.4608,-81.705,,,35.8,polygon,FALSE,America/New_York,24816
+Beards Fork-WV,1840025676,Beards Fork,Beards Fork,WV,Beards Fork-WV,West Virginia,54019,Fayette,38.0645,-81.2279,,,77.6,polygon,FALSE,America/New_York,25173
+Hartford City-WV,1840006046,Hartford City,Hartford City,WV,Hartford City-WV,West Virginia,54053,Mason,38.9978,-81.9905,592,592,184,polygon,TRUE,America/New_York,25253 25247
+Middleway-WV,1840025609,Middleway,Middleway,WV,Middleway-WV,West Virginia,54037,Jefferson,39.3032,-77.981,,,206.4,polygon,FALSE,America/New_York,25430
+Beaver-WV,1840006344,Beaver,Beaver,WV,Beaver-WV,West Virginia,54081,Raleigh,37.7356,-81.15,,,264,polygon,FALSE,America/New_York,25832 25813
+Myrtle-WV,1840038279,Myrtle,Myrtle,WV,Myrtle-WV,West Virginia,54059,Mingo,37.7679,-82.1912,,,36,point,FALSE,America/New_York,25670
+Gauley Bridge-WV,1840006294,Gauley Bridge,Gauley Bridge,WV,Gauley Bridge-WV,West Virginia,54019,Fayette,38.1681,-81.2038,585,585,142,polygon,TRUE,America/New_York,25085
+Ranson-WV,1840038308,Ranson,Ranson,WV,Ranson-WV,West Virginia,54037,Jefferson,39.325,-77.8667,5166,5166,246,polygon,TRUE,America/New_York,25438 25430
+Anawalt-WV,1840006423,Anawalt,Anawalt,WV,Anawalt-WV,West Virginia,54047,McDowell,37.3364,-81.4407,202,202,135,polygon,TRUE,America/New_York,24808
+New Martinsville-WV,1840005670,New Martinsville,New Martinsville,WV,New Martinsville-WV,West Virginia,54103,Wetzel,39.6636,-80.8569,5925,5181,748,polygon,TRUE,America/New_York,26155
+Squire-WV,1840038178,Squire,Squire,WV,Squire-WV,West Virginia,54047,McDowell,37.2384,-81.6098,,,49.2,point,FALSE,America/New_York,24884
+Petroleum-WV,1840038287,Petroleum,Petroleum,WV,Petroleum-WV,West Virginia,54085,Ritchie,39.1909,-81.2684,,,29.4,point,FALSE,America/New_York,26161
+Valley Bend-WV,1840025635,Valley Bend,Valley Bend,WV,Valley Bend-WV,West Virginia,54083,Randolph,38.7694,-79.928,,,232.5,polygon,FALSE,America/New_York,26293
+Richwood-WV,1840006226,Richwood,Richwood,WV,Richwood-WV,West Virginia,54067,Nicholas,38.2221,-80.5363,1955,1955,468,polygon,TRUE,America/New_York,26261
+Lashmeet-WV,1840038147,Lashmeet,Lashmeet,WV,Lashmeet-WV,West Virginia,54055,Mercer,37.4228,-81.1967,,,265.4,polygon,FALSE,America/New_York,24733 24747
+Coketon-WV,1840038233,Coketon,Coketon,WV,Coketon-WV,West Virginia,54093,Tucker,39.1401,-79.512,,,7.6,point,FALSE,America/New_York,26292
+Hundred-WV,1840005669,Hundred,Hundred,WV,Hundred-WV,West Virginia,54103,Wetzel,39.6836,-80.4576,276,276,212,polygon,TRUE,America/New_York,26575
+War-WV,1840006421,War,War,WV,War-WV,West Virginia,54047,McDowell,37.304,-81.6801,751,751,325,polygon,TRUE,America/New_York,24892
+East Bank-WV,1840006192,East Bank,East Bank,WV,East Bank-WV,West Virginia,54039,Kanawha,38.2154,-81.4439,919,919,736,polygon,TRUE,America/New_York,25067
+Hodgesville-WV,1840038141,Hodgesville,Hodgesville,WV,Hodgesville-WV,West Virginia,54097,Upshur,39.0659,-80.1942,,,61.8,point,FALSE,America/New_York,26201
+Camp Creek-WV,1840038118,Camp Creek,Camp Creek,WV,Camp Creek-WV,West Virginia,54055,Mercer,37.4954,-81.1029,,,11.7,point,FALSE,America/New_York,25820
+Weirton-WV,1840005405,Weirton,Weirton,WV,Weirton-WV,West Virginia,54029,Hancock,40.406,-80.5671,68173,18989,406,polygon,TRUE,America/New_York,26062
+Littleton-WV,1840025592,Littleton,Littleton,WV,Littleton-WV,West Virginia,54103,Wetzel,39.7024,-80.5147,,,31.4,polygon,FALSE,America/New_York,26581
+Cucumber-WV,1840025733,Cucumber,Cucumber,WV,Cucumber-WV,West Virginia,54047,McDowell,37.2786,-81.6241,,,77.7,polygon,FALSE,America/New_York,24826
+Matoaka-WV,1840006405,Matoaka,Matoaka,WV,Matoaka-WV,West Virginia,54055,Mercer,37.4182,-81.2417,218,218,319,polygon,TRUE,America/New_York,24736
+Bud-WV,1840025718,Bud,Bud,WV,Bud-WV,West Virginia,54109,Wyoming,37.5329,-81.3821,,,201.7,polygon,FALSE,America/New_York,25882 24716 24726
+Benwood-WV,1840005553,Benwood,Benwood,WV,Benwood-WV,West Virginia,54051,Marshall,40.0139,-80.7328,1344,1344,399,polygon,TRUE,America/New_York,26031
+West Milford-WV,1840005775,West Milford,West Milford,WV,West Milford-WV,West Virginia,54033,Harrison,39.2044,-80.4034,616,616,447,polygon,TRUE,America/New_York,26451
+Princeton-WV,1840006402,Princeton,Princeton,WV,Princeton-WV,West Virginia,54055,Mercer,37.3688,-81.0961,5962,5962,763,polygon,TRUE,America/New_York,24740
+Bluefield-WV,1840006401,Bluefield,Bluefield,WV,Bluefield-WV,West Virginia,54055,Mercer,37.2602,-81.217,43012,10191,447,polygon,TRUE,America/New_York,24701
+Stanaford-WV,1840006349,Stanaford,Stanaford,WV,Stanaford-WV,West Virginia,54081,Raleigh,37.8156,-81.1492,,,380.1,polygon,FALSE,America/New_York,25801 25927
+Bethany-WV,1840005479,Bethany,Bethany,WV,Bethany-WV,West Virginia,54009,Brooke,40.2053,-80.5629,1002,1002,528,polygon,TRUE,America/New_York,26032
+Cowen-WV,1840006159,Cowen,Cowen,WV,Cowen-WV,West Virginia,54101,Webster,38.411,-80.5542,498,498,305,polygon,TRUE,America/New_York,26206
+Dunmore-WV,1840038197,Dunmore,Dunmore,WV,Dunmore-WV,West Virginia,54075,Pocahontas,38.3596,-79.8809,,,29.1,point,FALSE,America/New_York,24934
+Fayetteville-WV,1840006293,Fayetteville,Fayetteville,WV,Fayetteville-WV,West Virginia,54019,Fayette,38.0623,-81.1084,2852,2852,198,polygon,TRUE,America/New_York,25840
+West Hamlin-WV,1840006272,West Hamlin,West Hamlin,WV,West Hamlin-WV,West Virginia,54043,Lincoln,38.2802,-82.194,757,757,547,polygon,TRUE,America/New_York,25571 25506
+Berwind-WV,1840025731,Berwind,Berwind,WV,Berwind-WV,West Virginia,54047,McDowell,37.266,-81.6633,,,160.5,polygon,FALSE,America/New_York,24815
+Hacker Valley-WV,1840038138,Hacker Valley,Hacker Valley,WV,Hacker Valley-WV,West Virginia,54101,Webster,38.6526,-80.3837,,,31.8,point,FALSE,America/New_York,26222
+Powellton-WV,1840006292,Powellton,Powellton,WV,Powellton-WV,West Virginia,54019,Fayette,38.0941,-81.322,,,127.4,polygon,FALSE,America/New_York,25118 25161
+Scott Depot-WV,1840038174,Scott Depot,Scott Depot,WV,Scott Depot-WV,West Virginia,54079,Putnam,38.4418,-81.9168,,,1190.2,point,FALSE,America/New_York,25560
+Rachel-WV,1840025599,Rachel,Rachel,WV,Rachel-WV,West Virginia,54049,Marion,39.5207,-80.2997,,,242,polygon,FALSE,America/New_York,26587
+Salem-WV,1840005768,Salem,Salem,WV,Salem-WV,West Virginia,54033,Harrison,39.2849,-80.5645,1541,1541,444,polygon,TRUE,America/New_York,26426
+Roderfield-WV,1840025736,Roderfield,Roderfield,WV,Roderfield-WV,West Virginia,54047,McDowell,37.4501,-81.7029,,,128.8,polygon,FALSE,America/New_York,24844 24881
+Bethlehem-WV,1840005514,Bethlehem,Bethlehem,WV,Bethlehem-WV,West Virginia,54069,Ohio,40.0452,-80.6898,2398,2398,261,polygon,TRUE,America/New_York,26003
+Cleveland-WV,1840038120,Cleveland,Cleveland,WV,Cleveland-WV,West Virginia,54101,Webster,38.727,-80.3923,,,24.9,point,FALSE,America/New_York,26215
+Brandonville-WV,1840005653,Brandonville,Brandonville,WV,Brandonville-WV,West Virginia,54077,Preston,39.6671,-79.6277,106,106,106,polygon,TRUE,America/New_York,26525
+East Lynn-WV,1840038129,East Lynn,East Lynn,WV,East Lynn-WV,West Virginia,54099,Wayne,38.1679,-82.3779,,,46.3,point,FALSE,America/New_York,25512
+Shanghai-WV,1840038175,Shanghai,Shanghai,WV,Shanghai-WV,West Virginia,54003,Berkeley,39.4415,-78.1322,,,42.4,point,FALSE,America/New_York,25427
+Athens-WV,1840006403,Athens,Athens,WV,Athens-WV,West Virginia,54055,Mercer,37.423,-81.0148,940,940,920,polygon,TRUE,America/New_York,24740 24712
+Arista-WV,1840038215,Arista,Arista,WV,Arista-WV,West Virginia,54055,Mercer,37.4726,-81.2607,,,8.4,point,FALSE,America/New_York,24736
+Hamlin-WV,1840006271,Hamlin,Hamlin,WV,Hamlin-WV,West Virginia,54043,Lincoln,38.2805,-82.1087,1114,1114,720,polygon,TRUE,America/New_York,25523
+Shenandoah Junction-WV,1840025611,Shenandoah Junction,Shenandoah Junction,WV,Shenandoah Junction-WV,West Virginia,54037,Jefferson,39.3531,-77.8375,,,117.8,polygon,FALSE,America/New_York,25442
+Burnsville-WV,1840006115,Burnsville,Burnsville,WV,Burnsville-WV,West Virginia,54007,Braxton,38.8579,-80.6538,496,496,181,polygon,TRUE,America/New_York,26412 26335
+Cassville-WV,1840005644,Cassville,Cassville,WV,Cassville-WV,West Virginia,54061,Monongalia,39.675,-80.0678,,,87.3,polygon,FALSE,America/New_York,26541 26501 26527
+Fireco-WV,1840038245,Fireco,Fireco,WV,Fireco-WV,West Virginia,54081,Raleigh,37.6448,-81.1982,,,81.7,point,FALSE,America/New_York,25823
+Friendly-WV,1840005745,Friendly,Friendly,WV,Friendly-WV,West Virginia,54095,Tyler,39.5136,-81.0615,129,129,527,polygon,TRUE,America/New_York,26146
+Trout-WV,1840038209,Trout,Trout,WV,Trout-WV,West Virginia,54025,Greenbrier,38.0168,-80.4679,,,21.4,point,FALSE,America/New_York,24991
+Kenova-WV,1840006263,Kenova,Kenova,WV,Kenova-WV,West Virginia,54099,Wayne,38.4029,-82.5825,3055,3055,938,polygon,TRUE,America/New_York,25530
+Jeffrey-WV,1840038142,Jeffrey,Jeffrey,WV,Jeffrey-WV,West Virginia,54005,Boone,37.9715,-81.8215,,,157.4,point,FALSE,America/New_York,25114
+Oak Hill-WV,1840006297,Oak Hill,Oak Hill,WV,Oak Hill-WV,West Virginia,54019,Fayette,37.9889,-81.1467,8544,8544,582,polygon,TRUE,America/New_York,25840 25901
+Mount Hope-WV,1840006296,Mount Hope,Mount Hope,WV,Mount Hope-WV,West Virginia,54019,Fayette,37.9003,-81.1721,1350,1350,396,polygon,TRUE,America/New_York,25880 25917
+Pratt-WV,1840006206,Pratt,Pratt,WV,Pratt-WV,West Virginia,54039,Kanawha,38.2082,-81.3868,585,585,788,polygon,TRUE,America/New_York,25162
+Moorefield-WV,1840005904,Moorefield,Moorefield,WV,Moorefield-WV,West Virginia,54031,Hardy,39.0674,-78.9624,2655,2473,349,polygon,TRUE,America/New_York,26836
+Ansted-WV,1840006299,Ansted,Ansted,WV,Ansted-WV,West Virginia,54019,Fayette,38.1357,-81.1038,1374,1374,319,polygon,TRUE,America/New_York,25812
+Nestorville-WV,1840038281,Nestorville,Nestorville,WV,Nestorville-WV,West Virginia,54001,Barbour,39.1798,-79.9092,,,42.8,point,FALSE,America/New_York,26416
+Hepzibah-WV,1840025614,Hepzibah,Hepzibah,WV,Hepzibah-WV,West Virginia,54033,Harrison,39.3309,-80.3341,,,242,polygon,FALSE,America/New_York,26369
+Grant Town-WV,1840005731,Grant Town,Grant Town,WV,Grant Town-WV,West Virginia,54049,Marion,39.559,-80.1772,611,611,447,polygon,TRUE,America/New_York,26574 26588
+Shannondale-WV,1840025610,Shannondale,Shannondale,WV,Shannondale-WV,West Virginia,54037,Jefferson,39.2123,-77.8105,,,470.9,polygon,FALSE,America/New_York,25425
+Helvetia-WV,1840025633,Helvetia,Helvetia,WV,Helvetia-WV,West Virginia,54083,Randolph,38.7058,-80.1993,,,21.4,polygon,FALSE,America/New_York,26224
+Harpers Ferry-WV,1840005758,Harpers Ferry,Harpers Ferry,WV,Harpers Ferry-WV,West Virginia,54037,Jefferson,39.3251,-77.7409,291,291,209,polygon,TRUE,America/New_York,25425
+Glady-WV,1840038199,Glady,Glady,WV,Glady-WV,West Virginia,54083,Randolph,38.7984,-79.7195,,,13.3,point,FALSE,America/New_York,26268
+Elk Garden-WV,1840005721,Elk Garden,Elk Garden,WV,Elk Garden-WV,West Virginia,54057,Mineral,39.3862,-79.1555,224,224,335,polygon,TRUE,America/New_York,26717
+Glendale-WV,1840038307,Glendale,Glendale,WV,Glendale-WV,West Virginia,54051,Marshall,39.9466,-80.7564,1446,1446,656,polygon,TRUE,America/New_York,26038
+Prichard-WV,1840025675,Prichard,Prichard,WV,Prichard-WV,West Virginia,54099,Wayne,38.2362,-82.6028,,,114.1,polygon,FALSE,America/New_York,25555
+Glen Fork-WV,1840025720,Glen Fork,Glen Fork,WV,Glen Fork-WV,West Virginia,54109,Wyoming,37.6982,-81.5362,,,165.2,polygon,FALSE,America/New_York,25845
+Scherr-WV,1840038195,Scherr,Scherr,WV,Scherr-WV,West Virginia,54023,Grant,39.1932,-79.17,,,17.8,point,FALSE,America/New_York,26726
+McConnell-WV,1840038271,McConnell,McConnell,WV,McConnell-WV,West Virginia,54045,Logan,37.8282,-81.9652,,,314.4,polygon,FALSE,America/New_York,25646
+New Milton-WV,1840038283,New Milton,New Milton,WV,New Milton-WV,West Virginia,54017,Doddridge,39.2301,-80.6826,,,10,point,FALSE,America/New_York,26411
+Welch-WV,1840006422,Welch,Welch,WV,Welch-WV,West Virginia,54047,McDowell,37.4455,-81.5721,2338,1816,116,polygon,TRUE,America/New_York,24801
+Lenore-WV,1840038148,Lenore,Lenore,WV,Lenore-WV,West Virginia,54059,Mingo,37.799,-82.2868,,,140.5,point,FALSE,America/New_York,25661
+Prosperity-WV,1840006347,Prosperity,Prosperity,WV,Prosperity-WV,West Virginia,54081,Raleigh,37.8384,-81.1987,,,577.3,polygon,FALSE,America/New_York,25801 25880 25909
+Ridgeley-WV,1840005727,Ridgeley,Ridgeley,WV,Ridgeley-WV,West Virginia,54057,Mineral,39.6432,-78.7711,643,643,855,polygon,TRUE,America/New_York,26753
+Saint Marys-WV,1840005763,Saint Marys,Saint Marys,WV,Saint Marys-WV,West Virginia,54073,Pleasants,39.4023,-81.1951,4262,1837,692,polygon,TRUE,America/New_York,26170
+Elkins-WV,1840005991,Elkins,Elkins,WV,Elkins-WV,West Virginia,54083,Randolph,38.9237,-79.854,11206,7187,765,polygon,TRUE,America/New_York,26241
+Switzer-WV,1840006335,Switzer,Switzer,WV,Switzer-WV,West Virginia,54045,Logan,37.7879,-81.9865,,,230.1,polygon,FALSE,America/New_York,25647
+Idamay-WV,1840025598,Idamay,Idamay,WV,Idamay-WV,West Virginia,54049,Marion,39.493,-80.2572,,,361.9,polygon,FALSE,America/New_York,26576
+Jacksonburg-WV,1840025591,Jacksonburg,Jacksonburg,WV,Jacksonburg-WV,West Virginia,54103,Wetzel,39.5304,-80.6404,,,74.5,polygon,FALSE,America/New_York,26377
+Vivian-WV,1840038297,Vivian,Vivian,WV,Vivian-WV,West Virginia,54047,McDowell,37.4172,-81.4923,,,40.5,polygon,FALSE,America/New_York,24853
+Philippi-WV,1840005883,Philippi,Philippi,WV,Philippi-WV,West Virginia,54001,Barbour,39.1488,-80.0417,3215,3533,482,polygon,TRUE,America/New_York,26416
+Wharncliffe-WV,1840038186,Wharncliffe,Wharncliffe,WV,Wharncliffe-WV,West Virginia,54059,Mingo,37.5554,-81.9657,,,52.7,point,FALSE,America/New_York,25651
+Cuzzart-WV,1840038125,Cuzzart,Cuzzart,WV,Cuzzart-WV,West Virginia,54077,Preston,39.5937,-79.5648,,,17.9,point,FALSE,America/New_York,26525
+Matheny-WV,1840038269,Matheny,Matheny,WV,Matheny-WV,West Virginia,54109,Wyoming,37.664,-81.5985,,,138.3,polygon,FALSE,America/New_York,24849 24860
+Glen Ferris-WV,1840025678,Glen Ferris,Glen Ferris,WV,Glen Ferris-WV,West Virginia,54019,Fayette,38.1518,-81.2185,,,459.3,polygon,FALSE,America/New_York,25090
+Moundsville-WV,1840005557,Moundsville,Moundsville,WV,Moundsville-WV,West Virginia,54051,Marshall,39.9221,-80.7422,8741,8741,1161,polygon,TRUE,America/New_York,26041
+Coal Fork-WV,1840006189,Coal Fork,Coal Fork,WV,Coal Fork-WV,West Virginia,54039,Kanawha,38.3185,-81.5229,,,160.6,polygon,FALSE,America/New_York,25306
+Bolair-WV,1840038196,Bolair,Bolair,WV,Bolair-WV,West Virginia,54101,Webster,38.4376,-80.444,,,49.8,point,FALSE,America/New_York,26288
+Magnolia-WV,1840038267,Magnolia,Magnolia,WV,Magnolia-WV,West Virginia,54065,Morgan,39.5618,-78.427,,,1.3,point,FALSE,America/New_York,25422
+Berkeley Springs-WV,1840038304,Berkeley Springs,Berkeley Springs,WV,Berkeley Springs-WV,West Virginia,54065,Morgan,39.627,-78.2272,,,420.6,point,TRUE,America/New_York,25411
+White Hall-WV,1840005738,White Hall,White Hall,WV,White Hall-WV,West Virginia,54049,Marion,39.424,-80.1889,658,658,241,polygon,TRUE,America/New_York,26554
+Sardis-WV,1840038172,Sardis,Sardis,WV,Sardis-WV,West Virginia,54033,Harrison,39.3376,-80.4179,,,31.2,point,FALSE,America/New_York,26301
+Iaeger-WV,1840006426,Iaeger,Iaeger,WV,Iaeger-WV,West Virginia,54047,McDowell,37.4642,-81.8111,267,267,130,polygon,TRUE,America/New_York,24844
+Wardensville-WV,1840005905,Wardensville,Wardensville,WV,Wardensville-WV,West Virginia,54031,Hardy,39.0768,-78.5932,272,272,323,polygon,TRUE,America/New_York,26851
+Upper Tract-WV,1840038296,Upper Tract,Upper Tract,WV,Upper Tract-WV,West Virginia,54071,Pendleton,38.7873,-79.2825,,,39.3,point,FALSE,America/New_York,26866
+Belington-WV,1840005884,Belington,Belington,WV,Belington-WV,West Virginia,54001,Barbour,39.022,-79.9383,1910,1910,357,polygon,TRUE,America/New_York,26250
+Mallory-WV,1840006334,Mallory,Mallory,WV,Mallory-WV,West Virginia,54045,Logan,37.7274,-81.8206,,,138.8,polygon,FALSE,America/New_York,25617 25634
+Dellslow-WV,1840038237,Dellslow,Dellslow,WV,Dellslow-WV,West Virginia,54061,Monongalia,39.607,-79.892,,,518.9,point,FALSE,America/New_York,26508
+Rainelle-WV,1840006290,Rainelle,Rainelle,WV,Rainelle-WV,West Virginia,54025,Greenbrier,37.9678,-80.7717,1468,1468,508,polygon,TRUE,America/New_York,25962
+Reedy-WV,1840006111,Reedy,Reedy,WV,Reedy-WV,West Virginia,54087,Roane,38.8996,-81.4264,172,172,341,polygon,TRUE,America/New_York,25270
+Bradley-WV,1840006345,Bradley,Bradley,WV,Bradley-WV,West Virginia,54081,Raleigh,37.8675,-81.2046,,,264.6,polygon,FALSE,America/New_York,25880 25818
+Marmet-WV,1840006198,Marmet,Marmet,WV,Marmet-WV,West Virginia,54039,Kanawha,38.2458,-81.5712,1429,1429,433,polygon,TRUE,America/New_York,25315
+Shrewsbury-WV,1840025661,Shrewsbury,Shrewsbury,WV,Shrewsbury-WV,West Virginia,54039,Kanawha,38.2094,-81.4655,,,430,polygon,FALSE,America/New_York,25015
+Man-WV,1840006338,Man,Man,WV,Man-WV,West Virginia,54045,Logan,37.7522,-81.8923,683,683,240,polygon,TRUE,America/New_York,25635 25634 25632
+Kenna-WV,1840038145,Kenna,Kenna,WV,Kenna-WV,West Virginia,54035,Jackson,38.6765,-81.6601,,,25,point,FALSE,America/New_York,25248
+Prince-WV,1840025684,Prince,Prince,WV,Prince-WV,West Virginia,54019,Fayette,37.8593,-81.0722,,,40.6,polygon,FALSE,America/New_York,25907
+Gallipolis Ferry-WV,1840025641,Gallipolis Ferry,Gallipolis Ferry,WV,Gallipolis Ferry-WV,West Virginia,54053,Mason,38.7745,-82.204,,,477.9,polygon,FALSE,America/New_York,25515
+Mount Storm-WV,1840038152,Mount Storm,Mount Storm,WV,Mount Storm-WV,West Virginia,54023,Grant,39.2773,-79.2409,,,24.4,point,FALSE,America/New_York,26739
+Ireland-WV,1840038255,Ireland,Ireland,WV,Ireland-WV,West Virginia,54041,Lewis,38.8157,-80.4618,,,11.4,point,FALSE,America/New_York,26376
+Jerryville-WV,1840038259,Jerryville,Jerryville,WV,Jerryville-WV,West Virginia,54101,Webster,38.4257,-80.3112,,,4.6,point,FALSE,America/New_York,26288
+Alum Creek-WV,1840006188,Alum Creek,Alum Creek,WV,Alum Creek-WV,West Virginia,54039,Kanawha,38.2876,-81.833,,,123.1,polygon,FALSE,America/New_York,25003
+Caldwell-WV,1840038225,Caldwell,Caldwell,WV,Caldwell-WV,West Virginia,54025,Greenbrier,37.7807,-80.394,,,116.3,point,FALSE,America/New_York,24925
+Belmont-WV,1840005762,Belmont,Belmont,WV,Belmont-WV,West Virginia,54073,Pleasants,39.3786,-81.2635,890,890,841,polygon,TRUE,America/New_York,26134
+Comfort-WV,1840025686,Comfort,Comfort,WV,Comfort-WV,West Virginia,54005,Boone,38.1317,-81.6101,,,122,polygon,FALSE,America/New_York,25049
+Mason-WV,1840006050,Mason,Mason,WV,Mason-WV,West Virginia,54053,Mason,39.0183,-82.0314,933,933,616,polygon,TRUE,America/New_York,25260
+Northfork-WV,1840006428,Northfork,Northfork,WV,Northfork-WV,West Virginia,54047,McDowell,37.4196,-81.4274,372,372,149,polygon,TRUE,America/New_York,24868
+Piedmont-WV,1840005726,Piedmont,Piedmont,WV,Piedmont-WV,West Virginia,54057,Mineral,39.4778,-79.0466,835,835,845,polygon,TRUE,America/New_York,26750
+Nettie-WV,1840025669,Nettie,Nettie,WV,Nettie-WV,West Virginia,54067,Nicholas,38.2183,-80.6889,,,77.1,polygon,FALSE,America/New_York,26681
+Holden-WV,1840006333,Holden,Holden,WV,Holden-WV,West Virginia,54045,Logan,37.8238,-82.0788,,,212.1,polygon,FALSE,America/New_York,25625
+Frank-WV,1840025652,Frank,Frank,WV,Frank-WV,West Virginia,54075,Pocahontas,38.5462,-79.808,,,74.7,polygon,FALSE,America/New_York,26264 24920
+Bens Run-WV,1840038113,Bens Run,Bens Run,WV,Bens Run-WV,West Virginia,54095,Tyler,39.4659,-81.1084,,,16.3,point,FALSE,America/New_York,26146
+Davy-WV,1840006425,Davy,Davy,WV,Davy-WV,West Virginia,54047,McDowell,37.4759,-81.6474,372,372,112,polygon,TRUE,America/New_York,24828
+Stonewood-WV,1840005770,Stonewood,Stonewood,WV,Stonewood-WV,West Virginia,54033,Harrison,39.2501,-80.3054,1753,1753,795,polygon,TRUE,America/New_York,26301
+Valley Head-WV,1840025636,Valley Head,Valley Head,WV,Valley Head-WV,West Virginia,54083,Randolph,38.5472,-80.032,,,113.9,polygon,FALSE,America/New_York,26294
+Middlebourne-WV,1840005747,Middlebourne,Middlebourne,WV,Middlebourne-WV,West Virginia,54095,Tyler,39.4946,-80.907,787,787,842,polygon,TRUE,America/New_York,26149
+Baker-WV,1840038216,Baker,Baker,WV,Baker-WV,West Virginia,54031,Hardy,39.0418,-78.7447,,,21.7,point,FALSE,America/New_York,26801
+Ellenboro-WV,1840005790,Ellenboro,Ellenboro,WV,Ellenboro-WV,West Virginia,54085,Ritchie,39.2678,-81.0551,346,346,118,polygon,TRUE,America/New_York,26346
+Belva-WV,1840025665,Belva,Belva,WV,Belva-WV,West Virginia,54067,Nicholas,38.2327,-81.1894,,,76.3,polygon,FALSE,America/New_York,26656
+Ripley-WV,1840006008,Ripley,Ripley,WV,Ripley-WV,West Virginia,54035,Jackson,38.8201,-81.7091,4184,3245,394,polygon,TRUE,America/New_York,25271
+Chester-WV,1840005403,Chester,Chester,WV,Chester-WV,West Virginia,54029,Hancock,40.6129,-80.5627,2474,2474,956,polygon,TRUE,America/New_York,26034
+Albright-WV,1840005652,Albright,Albright,WV,Albright-WV,West Virginia,54077,Preston,39.4937,-79.6399,286,286,476,polygon,TRUE,America/New_York,26519
+Davis-WV,1840005890,Davis,Davis,WV,Davis-WV,West Virginia,54093,Tucker,39.1266,-79.4609,655,655,138,polygon,TRUE,America/New_York,26260
+Elkview-WV,1840006187,Elkview,Elkview,WV,Elkview-WV,West Virginia,54039,Kanawha,38.4327,-81.477,,,111.2,polygon,FALSE,America/New_York,25071
+Madison-WV,1840006305,Madison,Madison,WV,Madison-WV,West Virginia,54005,Boone,38.0632,-81.8046,4264,2865,157,polygon,TRUE,America/New_York,25130
+Rock Cave-WV,1840038291,Rock Cave,Rock Cave,WV,Rock Cave-WV,West Virginia,54097,Upshur,38.8368,-80.3426,,,63.1,point,FALSE,America/New_York,26234
+Hooverson Heights-WV,1840005476,Hooverson Heights,Hooverson Heights,WV,Hooverson Heights-WV,West Virginia,54009,Brooke,40.319,-80.5825,,,731.9,polygon,FALSE,America/New_York,26037
+Meadow Bridge-WV,1840006300,Meadow Bridge,Meadow Bridge,WV,Meadow Bridge-WV,West Virginia,54019,Fayette,37.8613,-80.8561,357,357,339,polygon,TRUE,America/New_York,25976
+Rowlesburg-WV,1840005658,Rowlesburg,Rowlesburg,WV,Rowlesburg-WV,West Virginia,54077,Preston,39.3482,-79.6764,579,579,221,polygon,TRUE,America/New_York,26425
+Smithville-WV,1840038177,Smithville,Smithville,WV,Smithville-WV,West Virginia,54085,Ritchie,39.074,-81.0943,,,37.8,point,FALSE,America/New_York,26178
+North Hills-WV,1840005789,North Hills,North Hills,WV,North Hills-WV,West Virginia,54107,Wood,39.3149,-81.5088,820,820,574,polygon,TRUE,America/New_York,26104
+Huntersville-WV,1840025654,Huntersville,Huntersville,WV,Huntersville-WV,West Virginia,54075,Pocahontas,38.1859,-80.0151,,,17.7,polygon,FALSE,America/New_York,24954
+Cameron-WV,1840005554,Cameron,Cameron,WV,Cameron-WV,West Virginia,54051,Marshall,39.828,-80.5693,891,891,400,polygon,TRUE,America/New_York,26033
+Pleasant Valley-WV,1840005734,Pleasant Valley,Pleasant Valley,WV,Pleasant Valley-WV,West Virginia,54049,Marion,39.4505,-80.1552,3172,3172,379,polygon,TRUE,America/New_York,26554 26578
+Wallace-WV,1840038183,Wallace,Wallace,WV,Wallace-WV,West Virginia,54033,Harrison,39.4072,-80.4911,,,51.1,polygon,FALSE,America/New_York,26448
+Mabscott-WV,1840006352,Mabscott,Mabscott,WV,Mabscott-WV,West Virginia,54081,Raleigh,37.7694,-81.2133,1350,1350,603,polygon,TRUE,America/New_York,25801 25871
+Waiteville-WV,1840038298,Waiteville,Waiteville,WV,Waiteville-WV,West Virginia,54063,Monroe,37.4737,-80.422,,,6.3,point,FALSE,America/New_York,24984
+Greenville-WV,1840038303,Greenville,Greenville,WV,Greenville-WV,West Virginia,54063,Monroe,37.5435,-80.6826,,,20.6,point,FALSE,America/New_York,24945
+Sandyville-WV,1840038171,Sandyville,Sandyville,WV,Sandyville-WV,West Virginia,54035,Jackson,38.9059,-81.6607,,,74.3,point,FALSE,America/New_York,25275
+Keystone-WV,1840006420,Keystone,Keystone,WV,Keystone-WV,West Virginia,54047,McDowell,37.4158,-81.4463,243,243,289,polygon,TRUE,America/New_York,24868
+Smithburg-WV,1840038176,Smithburg,Smithburg,WV,Smithburg-WV,West Virginia,54017,Doddridge,39.2893,-80.7343,,,52.3,point,FALSE,America/New_York,26436
+Peterstown-WV,1840006385,Peterstown,Peterstown,WV,Peterstown-WV,West Virginia,54063,Monroe,37.3991,-80.795,636,636,775,polygon,TRUE,America/New_York,24963
+Charles Town-WV,1840005759,Charles Town,Charles Town,WV,Charles Town-WV,West Virginia,54037,Jefferson,39.2746,-77.8632,23759,5945,392,polygon,TRUE,America/New_York,25414
+Wick-WV,1840038187,Wick,Wick,WV,Wick-WV,West Virginia,54095,Tyler,39.4131,-80.974,,,38.6,point,FALSE,America/New_York,26149
+Reedsville-WV,1840005657,Reedsville,Reedsville,WV,Reedsville-WV,West Virginia,54077,Preston,39.5102,-79.8006,596,596,354,polygon,TRUE,America/New_York,26547
+Racine-WV,1840025688,Racine,Racine,WV,Racine-WV,West Virginia,54005,Boone,38.1398,-81.6541,,,42.7,polygon,FALSE,America/New_York,25165 25024
+Poca-WV,1840006183,Poca,Poca,WV,Poca-WV,West Virginia,54079,Putnam,38.473,-81.8124,989,989,650,polygon,TRUE,America/New_York,25159
+Dunlow-WV,1840038128,Dunlow,Dunlow,WV,Dunlow-WV,West Virginia,54099,Wayne,38.0231,-82.4315,,,30,point,FALSE,America/New_York,25511
+Nitro-WV,1840006199,Nitro,Nitro,WV,Nitro-WV,West Virginia,54039,Kanawha,38.4119,-81.8194,6686,6686,492,polygon,TRUE,America/New_York,25143 25064
+Triadelphia-WV,1840005512,Triadelphia,Triadelphia,WV,Triadelphia-WV,West Virginia,54069,Ohio,40.0483,-80.6229,761,761,436,polygon,TRUE,America/New_York,26059
+Anthony-WV,1840038213,Anthony,Anthony,WV,Anthony-WV,West Virginia,54025,Greenbrier,37.896,-80.332,,,32.4,point,FALSE,America/New_York,24938
+New Creek-WV,1840038282,New Creek,New Creek,WV,New Creek-WV,West Virginia,54057,Mineral,39.3751,-79.0267,,,59.3,point,FALSE,America/New_York,26726
+Brush Fork-WV,1840038224,Brush Fork,Brush Fork,WV,Brush Fork-WV,West Virginia,54055,Mercer,37.2805,-81.245,,,330.3,polygon,FALSE,America/New_York,24701
+Windsor Heights-WV,1840005480,Windsor Heights,Windsor Heights,WV,Windsor Heights-WV,West Virginia,54009,Brooke,40.1914,-80.6647,394,394,1064,polygon,TRUE,America/New_York,26070 26075
+Sutton-WV,1840006116,Sutton,Sutton,WV,Sutton-WV,West Virginia,54007,Braxton,38.6664,-80.7117,1033,1033,513,polygon,TRUE,America/New_York,26601
+Hutchinson-WV,1840038253,Hutchinson,Hutchinson,WV,Hutchinson-WV,West Virginia,54045,Logan,37.8168,-81.9082,,,1.4,point,FALSE,America/New_York,25646
+Peach Creek-WV,1840038159,Peach Creek,Peach Creek,WV,Peach Creek-WV,West Virginia,54045,Logan,37.8745,-81.9848,,,453,point,FALSE,America/New_York,25639
+Rosedale-WV,1840038169,Rosedale,Rosedale,WV,Rosedale-WV,West Virginia,54007,Braxton,38.7393,-80.9429,,,49.3,point,FALSE,America/New_York,26636
+Franklin-WV,1840006087,Franklin,Franklin,WV,Franklin-WV,West Virginia,54071,Pendleton,38.6452,-79.3332,662,662,454,polygon,TRUE,America/New_York,26807
+Jenkinjones-WV,1840038258,Jenkinjones,Jenkinjones,WV,Jenkinjones-WV,West Virginia,54047,McDowell,37.2937,-81.4259,,,26.2,point,FALSE,America/New_York,24848
+Quinwood-WV,1840006289,Quinwood,Quinwood,WV,Quinwood-WV,West Virginia,54025,Greenbrier,38.0586,-80.706,286,286,319,polygon,TRUE,America/New_York,25981
+Osage-WV,1840038158,Osage,Osage,WV,Osage-WV,West Virginia,54061,Monongalia,39.6587,-80.0076,,,145.6,point,FALSE,America/New_York,26543
+Lester-WV,1840006351,Lester,Lester,WV,Lester-WV,West Virginia,54081,Raleigh,37.7349,-81.3015,322,322,248,polygon,TRUE,America/New_York,25865
+Dixie-WV,1840025667,Dixie,Dixie,WV,Dixie-WV,West Virginia,54067,Nicholas,38.251,-81.1943,,,117.1,polygon,FALSE,America/New_York,25059
+Century-WV,1840025623,Century,Century,WV,Century-WV,West Virginia,54001,Barbour,39.1003,-80.1882,,,89.6,polygon,FALSE,America/New_York,26201
+Big Chimney-WV,1840025658,Big Chimney,Big Chimney,WV,Big Chimney-WV,West Virginia,54039,Kanawha,38.4119,-81.5374,,,273.5,polygon,FALSE,America/New_York,25302
+Hometown-WV,1840038252,Hometown,Hometown,WV,Hometown-WV,West Virginia,54079,Putnam,38.5288,-81.8552,,,808.8,polygon,FALSE,America/New_York,25109
+Henlawson-WV,1840025702,Henlawson,Henlawson,WV,Henlawson-WV,West Virginia,54045,Logan,37.9,-81.9821,,,426.1,polygon,FALSE,America/New_York,25624
+Leon-WV,1840006049,Leon,Leon,WV,Leon-WV,West Virginia,54053,Mason,38.7471,-81.9555,156,156,188,polygon,TRUE,America/New_York,25123
+Itmann-WV,1840038256,Itmann,Itmann,WV,Itmann-WV,West Virginia,54109,Wyoming,37.5735,-81.4145,,,52.3,polygon,FALSE,America/New_York,24847
+Boaz-WV,1840005782,Boaz,Boaz,WV,Boaz-WV,West Virginia,54107,Wood,39.3674,-81.4853,,,37.8,polygon,FALSE,America/New_York,26187
+New Richmond-WV,1840038284,New Richmond,New Richmond,WV,New Richmond-WV,West Virginia,54109,Wyoming,37.5735,-81.487,,,118.9,polygon,FALSE,America/New_York,24867
+Crumpler-WV,1840025732,Crumpler,Crumpler,WV,Crumpler-WV,West Virginia,54047,McDowell,37.4262,-81.3313,,,36.5,polygon,FALSE,America/New_York,24868
+Brighton-WV,1840038191,Brighton,Brighton,WV,Brighton-WV,West Virginia,54053,Mason,38.7998,-82.0404,,,4.3,point,FALSE,America/New_York,25550
+Shepherdstown-WV,1840005761,Shepherdstown,Shepherdstown,WV,Shepherdstown-WV,West Virginia,54037,Jefferson,39.4318,-77.8048,5575,1991,2047,polygon,TRUE,America/New_York,25443
+Cross Lanes-WV,1840006190,Cross Lanes,Cross Lanes,WV,Cross Lanes-WV,West Virginia,54039,Kanawha,38.4351,-81.7706,,,781.6,polygon,FALSE,America/New_York,25313
+Salt Rock-WV,1840025663,Salt Rock,Salt Rock,WV,Salt Rock-WV,West Virginia,54011,Cabell,38.3243,-82.2172,,,122.2,polygon,FALSE,America/New_York,25559
+Leewood-WV,1840038263,Leewood,Leewood,WV,Leewood-WV,West Virginia,54039,Kanawha,38.0676,-81.4498,,,95.2,point,FALSE,America/New_York,25075
+Minnehaha Springs-WV,1840038203,Minnehaha Springs,Minnehaha Springs,WV,Minnehaha Springs-WV,West Virginia,54075,Pocahontas,38.1632,-79.9809,,,21.9,point,FALSE,America/New_York,24954
+Wiley Ford-WV,1840005722,Wiley Ford,Wiley Ford,WV,Wiley Ford-WV,West Virginia,54057,Mineral,39.6151,-78.7615,,,505.8,polygon,FALSE,America/New_York,26767 26753
+Hillsboro-WV,1840006155,Hillsboro,Hillsboro,WV,Hillsboro-WV,West Virginia,54075,Pocahontas,38.1353,-80.2136,247,247,265,polygon,TRUE,America/New_York,24946
+Springfield-WV,1840025605,Springfield,Springfield,WV,Springfield-WV,West Virginia,54027,Hampshire,39.445,-78.6977,,,123.2,polygon,FALSE,America/New_York,26763
+Circleville-WV,1840038228,Circleville,Circleville,WV,Circleville-WV,West Virginia,54071,Pendleton,38.6709,-79.4912,,,11.7,point,FALSE,America/New_York,26804
+Glenwood-WV,1840038136,Glenwood,Glenwood,WV,Glenwood-WV,West Virginia,54053,Mason,38.5918,-82.1865,,,61.1,point,FALSE,America/New_York,25520
+Pinch-WV,1840006191,Pinch,Pinch,WV,Pinch-WV,West Virginia,54039,Kanawha,38.4062,-81.481,,,653.8,polygon,FALSE,America/New_York,25071
+West Liberty-WV,1840005513,West Liberty,West Liberty,WV,West Liberty-WV,West Virginia,54069,Ohio,40.1647,-80.5972,1471,1471,520,polygon,TRUE,America/New_York,26003 26074
+Ghent-WV,1840025709,Ghent,Ghent,WV,Ghent-WV,West Virginia,54081,Raleigh,37.6221,-81.1057,,,172.7,polygon,FALSE,America/New_York,25843
+Vienna-WV,1840005787,Vienna,Vienna,WV,Vienna-WV,West Virginia,54107,Wood,39.3236,-81.5381,10459,10459,1065,polygon,TRUE,America/New_York,26105
+Milton-WV,1840006212,Milton,Milton,WV,Milton-WV,West Virginia,54011,Cabell,38.4353,-82.1376,2614,2614,660,polygon,TRUE,America/New_York,25541
+Jane Lew-WV,1840005931,Jane Lew,Jane Lew,WV,Jane Lew-WV,West Virginia,54041,Lewis,39.11,-80.4085,404,404,653,polygon,TRUE,America/New_York,26378
+Despard-WV,1840005765,Despard,Despard,WV,Despard-WV,West Virginia,54033,Harrison,39.2874,-80.3158,,,311.2,polygon,FALSE,America/New_York,26301
+Kincaid-WV,1840025681,Kincaid,Kincaid,WV,Kincaid-WV,West Virginia,54019,Fayette,38.0381,-81.2759,,,136.1,polygon,FALSE,America/New_York,25119
+Harman-WV,1840005990,Harman,Harman,WV,Harman-WV,West Virginia,54083,Randolph,38.9211,-79.5245,142,142,169,polygon,TRUE,America/New_York,26270
+Plymouth-WV,1840038162,Plymouth,Plymouth,WV,Plymouth-WV,West Virginia,54079,Putnam,38.5159,-81.8449,,,906.5,point,FALSE,America/New_York,25109
+Bluewell-WV,1840038220,Bluewell,Bluewell,WV,Bluewell-WV,West Virginia,54055,Mercer,37.3144,-81.2581,,,402.3,polygon,FALSE,America/New_York,24701
+Cass-WV,1840025651,Cass,Cass,WV,Cass-WV,West Virginia,54075,Pocahontas,38.3964,-79.9191,,,16.2,polygon,FALSE,America/New_York,24927
+Blakeley-WV,1840038219,Blakeley,Blakeley,WV,Blakeley-WV,West Virginia,54039,Kanawha,38.2962,-81.3037,,,6.6,point,FALSE,America/New_York,25132
+Page-WV,1840025683,Page,Page,WV,Page-WV,West Virginia,54019,Fayette,38.0506,-81.2718,,,183.3,polygon,FALSE,America/New_York,25152
+Anmoore-WV,1840005771,Anmoore,Anmoore,WV,Anmoore-WV,West Virginia,54033,Harrison,39.2611,-80.2862,751,751,274,polygon,TRUE,America/New_York,26323 26330
+Lumberport-WV,1840005773,Lumberport,Lumberport,WV,Lumberport-WV,West Virginia,54033,Harrison,39.3742,-80.3484,859,859,658,polygon,TRUE,America/New_York,26386
+New Haven-WV,1840006051,New Haven,New Haven,WV,New Haven-WV,West Virginia,54053,Mason,38.9876,-81.9655,1514,1514,531,polygon,TRUE,America/New_York,25265
+West Logan-WV,1840038300,West Logan,West Logan,WV,West Logan-WV,West Virginia,54045,Logan,37.8679,-81.9906,389,389,444,polygon,TRUE,America/New_York,25601
+Gypsy-WV,1840025613,Gypsy,Gypsy,WV,Gypsy-WV,West Virginia,54033,Harrison,39.3648,-80.307,,,259,polygon,FALSE,America/New_York,26431 26361
+Follansbee-WV,1840005477,Follansbee,Follansbee,WV,Follansbee-WV,West Virginia,54009,Brooke,40.3385,-80.5975,2838,2838,594,polygon,TRUE,America/New_York,26037

@@ -1,0 +1,597 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Aspen Park-CO,1840017538,Aspen Park,Aspen Park,CO,Aspen Park-CO,Colorado,8059,Jefferson,39.5423,-105.2968,,,109.7,polygon,FALSE,America/Denver,80433
+Milner-CO,1840027362,Milner,Milner,CO,Milner-CO,Colorado,8107,Routt,40.4847,-107.0195,,,199,point,FALSE,America/Denver,80487
+Alamosa-CO,1840018921,Alamosa,Alamosa,CO,Alamosa-CO,Colorado,8003,Alamosa,37.4755,-105.877,11015,9918,514,polygon,TRUE,America/Denver,81101 81102
+Platner-CO,1840027394,Platner,Platner,CO,Platner-CO,Colorado,8121,Washington,40.1553,-103.0674,,,9.7,point,FALSE,America/Denver,80743
+Red Cliff-CO,1840021425,Red Cliff,Red Cliff,CO,Red Cliff-CO,Colorado,8037,Eagle,39.5091,-106.3703,273,273,448,polygon,TRUE,America/Denver,81649
+New Raymer-CO,1840028517,New Raymer,New Raymer,CO,New Raymer-CO,Colorado,8123,Weld,40.6067,-103.8438,,,45.6,point,TRUE,America/Denver,80742
+Bailey-CO,1840027471,Bailey,Bailey,CO,Bailey-CO,Colorado,8093,Park,39.4055,-105.4733,,,59.3,point,FALSE,America/Denver,80421
+Sherrelwood-CO,1840028581,Sherrelwood,Sherrelwood,CO,Sherrelwood-CO,Colorado,8001,Adams,39.839,-105.0014,,,3045.9,polygon,FALSE,America/Denver,80221
+Nederland-CO,1840022424,Nederland,Nederland,CO,Nederland-CO,Colorado,8013,Boulder,39.9633,-105.5071,1534,1534,400,polygon,TRUE,America/Denver,80466
+Redvale-CO,1840026737,Redvale,Redvale,CO,Redvale-CO,Colorado,8085,Montrose,38.1761,-108.4126,,,21.9,polygon,FALSE,America/Denver,81431
+Lake City-CO,1840021528,Lake City,Lake City,CO,Lake City-CO,Colorado,8053,Hinsdale,38.0303,-107.3103,374,374,173,polygon,TRUE,America/Denver,81235
+Platteville-CO,1840021360,Platteville,Platteville,CO,Platteville-CO,Colorado,8123,Weld,40.224,-104.834,2722,2722,365,polygon,TRUE,America/Denver,80651
+Arboles-CO,1840017646,Arboles,Arboles,CO,Arboles-CO,Colorado,8007,Archuleta,37.0201,-107.4221,,,82.5,polygon,FALSE,America/Denver,81137 81147 81121
+Rifle-CO,1840020185,Rifle,Rifle,CO,Rifle-CO,Colorado,8045,Garfield,39.5361,-107.7719,11042,9665,537,polygon,TRUE,America/Denver,81650
+Dailey-CO,1840027378,Dailey,Dailey,CO,Dailey-CO,Colorado,8075,Logan,40.6567,-102.7238,,,36.3,point,FALSE,America/Denver,80731
+Raymer-CO,1840021361,Raymer,Raymer,CO,Raymer-CO,Colorado,8123,Weld,40.6078,-103.8443,105,105,56,polygon,TRUE,America/Denver,80742
+Poncha Springs-CO,1840021474,Poncha Springs,Poncha Springs,CO,Poncha Springs-CO,Colorado,8015,Chaffee,38.5131,-106.0962,771,771,109,polygon,TRUE,America/Denver,81201 81242
+Black Hawk-CO,1840018787,Black Hawk,Black Hawk,CO,Black Hawk-CO,Colorado,8047,Gilpin,39.8011,-105.4891,127,127,25,polygon,TRUE,America/Denver,80422
+Castle Pines-CO,1840022456,Castle Pines,Castle Pines,CO,Castle Pines-CO,Colorado,8035,Douglas,39.4625,-104.8706,10284,10284,415,polygon,TRUE,America/Denver,80108
+Penrose-CO,1840018854,Penrose,Penrose,CO,Penrose-CO,Colorado,8043,Fremont,38.4213,-105.0004,,,342.5,polygon,FALSE,America/Denver,81240
+Telluride-CO,1840022536,Telluride,Telluride,CO,Telluride-CO,Colorado,8113,San Miguel,37.9365,-107.8264,2444,2444,432,polygon,TRUE,America/Denver,81435
+Palisade-CO,1840022465,Palisade,Palisade,CO,Palisade-CO,Colorado,8077,Mesa,39.1079,-108.3582,2644,2644,924,polygon,TRUE,America/Denver,81526
+Fowler-CO,1840021522,Fowler,Fowler,CO,Fowler-CO,Colorado,8089,Otero,38.1296,-104.0255,1145,1145,844,polygon,TRUE,America/Denver,81039
+Wild Horse-CO,1840028500,Wild Horse,Wild Horse,CO,Wild Horse-CO,Colorado,8017,Cheyenne,38.8258,-103.0116,,,5,point,FALSE,America/Denver,80862
+Avondale-CO,1840017588,Avondale,Avondale,CO,Avondale-CO,Colorado,8101,Pueblo,38.2351,-104.3435,,,611,polygon,FALSE,America/Denver,81022
+Goodrich-CO,1840027389,Goodrich,Goodrich,CO,Goodrich-CO,Colorado,8087,Morgan,40.3511,-104.0616,,,11.5,point,FALSE,America/Denver,80653
+Parker-CO,1840022454,Parker,Parker,CO,Parker-CO,Colorado,8035,Douglas,39.5075,-104.7746,51163,51163,927,polygon,TRUE,America/Denver,80138 80134
+Sugar City-CO,1840022512,Sugar City,Sugar City,CO,Sugar City-CO,Colorado,8025,Crowley,38.2328,-103.6633,253,253,253,polygon,TRUE,America/Denver,81076
+Capulin-CO,1840024788,Capulin,Capulin,CO,Capulin-CO,Colorado,8021,Conejos,37.2819,-106.1051,,,42.8,polygon,FALSE,America/Denver,81140 81124
+Vail-CO,1840022434,Vail,Vail,CO,Vail-CO,Colorado,8037,Eagle,39.6386,-106.3608,6017,5483,453,polygon,TRUE,America/Denver,81657 81658
+Battlement Mesa-CO,1840017532,Battlement Mesa,Battlement Mesa,CO,Battlement Mesa-CO,Colorado,8045,Garfield,39.4505,-108.0068,,,344.6,polygon,FALSE,America/Denver,81635 81636
+Kline-CO,1840028440,Kline,Kline,CO,Kline-CO,Colorado,8067,La Plata,37.1442,-108.1195,,,96,point,FALSE,America/Denver,81326
+Trimble-CO,1840028445,Trimble,Trimble,CO,Trimble-CO,Colorado,8067,La Plata,37.3903,-107.8465,,,384.2,point,FALSE,America/Denver,81301
+Rockvale-CO,1840021494,Rockvale,Rockvale,CO,Rockvale-CO,Colorado,8043,Fremont,38.3647,-105.1648,506,506,101,polygon,TRUE,America/Denver,81244
+Frisco-CO,1840021430,Frisco,Frisco,CO,Frisco-CO,Colorado,8117,Summit,39.5793,-106.0918,3084,3084,706,polygon,TRUE,America/Denver,80443
+Hereford-CO,1840027357,Hereford,Hereford,CO,Hereford-CO,Colorado,8123,Weld,40.975,-104.3058,,,4.9,point,FALSE,America/Denver,80729
+Branson-CO,1840021544,Branson,Branson,CO,Branson-CO,Colorado,8071,Las Animas,37.0156,-103.8838,67,67,105,polygon,TRUE,America/Denver,81027
+Windsor-CO,1840022401,Windsor,Windsor,CO,Windsor-CO,Colorado,8123,Weld,40.4666,-104.9213,22776,22776,359,polygon,TRUE,America/Denver,80550 80551
+Rosita-CO,1840028477,Rosita,Rosita,CO,Rosita-CO,Colorado,8027,Custer,38.0972,-105.3361,,,15.2,point,FALSE,America/Denver,81252
+Woodmoor-CO,1840028584,Woodmoor,Woodmoor,CO,Woodmoor-CO,Colorado,8041,El Paso,39.1063,-104.8456,,,538.5,polygon,FALSE,America/Denver,80132
+Severance-CO,1840022400,Severance,Severance,CO,Severance-CO,Colorado,8123,Weld,40.5339,-104.8627,3392,4021,253,polygon,TRUE,America/Denver,80546 80524 80550 80615 80610
+Denver-CO,1840018789,Denver,Denver,CO,Denver-CO,Colorado,8031,Denver,39.7621,-104.8759,2741534,693060,1745,polygon,TRUE,America/Denver,80264 80218 80230 80231 80236 80237 80235 80238 80239 80123 80249 80247 80246 80290 80293 80294 80219 80210 80211 80212 80216 80221 80220 80223 80222 80224 80227 80209 80207 80206 80205 80204 80202 80014 80203 80201 80208 80217 80225 80243 80244 80248 80250 80251 80252 80256 80257 80259 80261 80262 80263 80265 80266 80271 80273 80274 80281 80291 80299
+Goldfield-CO,1840024552,Goldfield,Goldfield,CO,Goldfield-CO,Colorado,8119,Teller,38.7177,-105.1254,,,30.6,polygon,FALSE,America/Denver,80860
+Rico-CO,1840021541,Rico,Rico,CO,Rico-CO,Colorado,8033,Dolores,37.6885,-108.0315,266,266,135,polygon,TRUE,America/Denver,81332
+Arriba-CO,1840020223,Arriba,Arriba,CO,Arriba-CO,Colorado,8073,Lincoln,39.2841,-103.2739,201,201,176,polygon,TRUE,America/Denver,80804
+Burlington-CO,1840018806,Burlington,Burlington,CO,Burlington-CO,Colorado,8063,Kit Carson,39.3045,-102.2714,4173,4184,773,polygon,TRUE,America/Denver,80807
+Stratmoor-CO,1840028582,Stratmoor,Stratmoor,CO,Stratmoor-CO,Colorado,8041,El Paso,38.7727,-104.7786,,,1558.7,polygon,FALSE,America/Denver,80906 80911
+Somerset-CO,1840028455,Somerset,Somerset,CO,Somerset-CO,Colorado,8051,Gunnison,38.9264,-107.4703,,,49.6,point,FALSE,America/Denver,81434
+Hartman-CO,1840021520,Hartman,Hartman,CO,Hartman-CO,Colorado,8099,Prowers,38.1212,-102.2217,73,73,103,polygon,TRUE,America/Denver,81043 81047
+Dove Creek-CO,1840021540,Dove Creek,Dove Creek,CO,Dove Creek-CO,Colorado,8033,Dolores,37.7668,-108.9061,724,724,520,polygon,TRUE,America/Denver,81324
+Mogote-CO,1840028467,Mogote,Mogote,CO,Mogote-CO,Colorado,8021,Conejos,37.0595,-106.0922,,,10.4,point,FALSE,America/Denver,81120
+Blende-CO,1840024677,Blende,Blende,CO,Blende-CO,Colorado,8101,Pueblo,38.2469,-104.5692,,,293.7,polygon,FALSE,America/Denver,81006
+Buckingham-CO,1840027355,Buckingham,Buckingham,CO,Buckingham-CO,Colorado,8123,Weld,40.6214,-103.9777,,,6.6,point,FALSE,America/Denver,80742
+Pueblo West-CO,1840018860,Pueblo West,Pueblo West,CO,Pueblo West-CO,Colorado,8101,Pueblo,38.3551,-104.7266,,,27.5,polygon,FALSE,America/Denver,81007
+Hamilton-CO,1840027375,Hamilton,Hamilton,CO,Hamilton-CO,Colorado,8081,Moffat,40.3672,-107.6131,,,17.5,point,FALSE,America/Denver,81638
+Rock Creek Park-CO,1840028489,Rock Creek Park,Rock Creek Park,CO,Rock Creek Park-CO,Colorado,8041,El Paso,38.7011,-104.8347,,,62.9,polygon,FALSE,America/Denver,80926
+Hooper-CO,1840021548,Hooper,Hooper,CO,Hooper-CO,Colorado,8003,Alamosa,37.746,-105.8777,103,103,157,polygon,TRUE,America/Denver,81136
+Calhan-CO,1840022476,Calhan,Calhan,CO,Calhan-CO,Colorado,8041,El Paso,39.0344,-104.2992,795,795,352,polygon,TRUE,America/Denver,80808
+Rush-CO,1840028488,Rush,Rush,CO,Rush-CO,Colorado,8041,El Paso,38.84,-104.0922,,,12.3,point,FALSE,America/Denver,80833
+Vilas-CO,1840022553,Vilas,Vilas,CO,Vilas-CO,Colorado,8009,Baca,37.3737,-102.4474,108,108,326,polygon,TRUE,America/Denver,81087
+Lone Tree-CO,1840020222,Lone Tree,Lone Tree,CO,Lone Tree-CO,Colorado,8035,Douglas,39.5308,-104.871,13271,13271,528,polygon,TRUE,America/Denver,80124 80134
+Dupont-CO,1840027415,Dupont,Dupont,CO,Dupont-CO,Colorado,8001,Adams,39.838,-104.9119,,,3539.8,point,FALSE,America/Denver,80022
+Wetmore-CO,1840028475,Wetmore,Wetmore,CO,Wetmore-CO,Colorado,8027,Custer,38.2381,-105.0847,,,39.5,point,FALSE,America/Denver,81253
+Edgewater-CO,1840020196,Edgewater,Edgewater,CO,Edgewater-CO,Colorado,8059,Jefferson,39.7507,-105.0627,5323,5323,2945,polygon,TRUE,America/Denver,80214
+Ohio-CO,1840028463,Ohio,Ohio,CO,Ohio-CO,Colorado,8051,Gunnison,38.5667,-106.6117,,,8,point,FALSE,America/Denver,81237
+Manassa-CO,1840022566,Manassa,Manassa,CO,Manassa-CO,Colorado,8021,Conejos,37.1738,-105.9372,983,983,407,polygon,TRUE,America/Denver,81141
+Lyons-CO,1840022423,Lyons,Lyons,CO,Lyons-CO,Colorado,8013,Boulder,40.2232,-105.2694,2148,2148,665,polygon,TRUE,America/Denver,80540
+Iliff-CO,1840021380,Iliff,Iliff,CO,Iliff-CO,Colorado,8075,Logan,40.7585,-103.0662,258,258,394,polygon,TRUE,America/Denver,80736
+South Fork-CO,1840022544,South Fork,South Fork,CO,South Fork-CO,Colorado,8105,Rio Grande,37.6694,-106.6425,365,365,56,polygon,TRUE,America/Denver,81154
+Moffat-CO,1840022516,Moffat,Moffat,CO,Moffat-CO,Colorado,8109,Saguache,38.002,-105.9055,118,118,32,polygon,TRUE,America/Denver,81143
+Gold Hill-CO,1840017529,Gold Hill,Gold Hill,CO,Gold Hill-CO,Colorado,8013,Boulder,40.0597,-105.4189,,,99.1,polygon,FALSE,America/Denver,80455 80302
+Crisman-CO,1840028436,Crisman,Crisman,CO,Crisman-CO,Colorado,8013,Boulder,40.0416,-105.3674,,,44.4,polygon,FALSE,America/Denver,80302
+El Moro-CO,1840024759,El Moro,El Moro,CO,El Moro-CO,Colorado,8071,Las Animas,37.2349,-104.4492,,,48.4,polygon,FALSE,America/Denver,81082
+Limon-CO,1840021453,Limon,Limon,CO,Limon-CO,Colorado,8073,Lincoln,39.2653,-103.6852,1955,1955,247,polygon,TRUE,America/Denver,80828 80826
+Almont-CO,1840028461,Almont,Almont,CO,Almont-CO,Colorado,8051,Gunnison,38.6647,-106.8462,,,27,point,FALSE,America/Denver,81210
+Victor-CO,1840021467,Victor,Victor,CO,Victor-CO,Colorado,8119,Teller,38.709,-105.1419,403,403,575,polygon,TRUE,America/Denver,80860
+Collbran-CO,1840022466,Collbran,Collbran,CO,Collbran-CO,Colorado,8077,Mesa,39.2401,-107.9637,695,695,453,polygon,TRUE,America/Denver,81624
+Fort Morgan-CO,1840020175,Fort Morgan,Fort Morgan,CO,Fort Morgan-CO,Colorado,8087,Morgan,40.2561,-103.7907,13215,11348,995,polygon,TRUE,America/Denver,80701
+Seibert-CO,1840022451,Seibert,Seibert,CO,Seibert-CO,Colorado,8063,Kit Carson,39.298,-102.8695,219,219,246,polygon,TRUE,America/Denver,80834
+Elbert-CO,1840026646,Elbert,Elbert,CO,Elbert-CO,Colorado,8039,Elbert,39.2188,-104.5403,,,155.7,polygon,FALSE,America/Denver,80106
+Thornton-CO,1840021422,Thornton,Thornton,CO,Thornton-CO,Colorado,8001,Adams,39.9202,-104.9445,136703,136703,1478,polygon,TRUE,America/Denver,80260 80233 80241 80023 80229 80602 80614
+Livermore-CO,1840027380,Livermore,Livermore,CO,Livermore-CO,Colorado,8069,Larimer,40.7944,-105.2172,,,5.8,point,FALSE,America/Denver,80536
+Kirk-CO,1840024320,Kirk,Kirk,CO,Kirk-CO,Colorado,8125,Yuma,39.6127,-102.592,,,7.4,polygon,FALSE,America/Denver,80824
+Louisville-CO,1840020179,Louisville,Louisville,CO,Louisville-CO,Colorado,8013,Boulder,39.9708,-105.1441,20801,20801,1009,polygon,TRUE,America/Denver,80027
+Fountain-CO,1840020236,Fountain,Fountain,CO,Fountain-CO,Colorado,8041,El Paso,38.6863,-104.6744,28753,28753,453,polygon,TRUE,America/Denver,80817
+Mountain Village-CO,1840022532,Mountain Village,Mountain Village,CO,Mountain Village-CO,Colorado,8113,San Miguel,37.9323,-107.8578,1415,1415,161,polygon,TRUE,America/Denver,81435
+Mountain Meadows-CO,1840028526,Mountain Meadows,Mountain Meadows,CO,Mountain Meadows-CO,Colorado,8013,Boulder,40.027,-105.3832,,,94.5,polygon,FALSE,America/Denver,80302
+Buena Vista-CO,1840021472,Buena Vista,Buena Vista,CO,Buena Vista-CO,Colorado,8015,Chaffee,38.8318,-106.1389,4759,2778,310,polygon,TRUE,America/Denver,81211
+Segundo-CO,1840024763,Segundo,Segundo,CO,Segundo-CO,Colorado,8071,Las Animas,37.1225,-104.7396,,,17.7,polygon,FALSE,America/Denver,81082
+Mountain View-CO,1840022438,Mountain View,Mountain View,CO,Mountain View-CO,Colorado,8059,Jefferson,39.7748,-105.0567,528,528,2192,polygon,TRUE,America/Denver,80212
+Kit Carson-CO,1840021482,Kit Carson,Kit Carson,CO,Kit Carson-CO,Colorado,8017,Cheyenne,38.7627,-102.7955,230,230,152,polygon,TRUE,America/Denver,80825
+Vernon-CO,1840024322,Vernon,Vernon,CO,Vernon-CO,Colorado,8125,Yuma,39.9399,-102.3074,,,18.3,polygon,FALSE,America/Denver,80755
+Cedaredge-CO,1840022473,Cedaredge,Cedaredge,CO,Cedaredge-CO,Colorado,8029,Delta,38.8942,-107.9255,3498,2220,438,polygon,TRUE,America/Denver,81413
+Akron-CO,1840021415,Akron,Akron,CO,Akron-CO,Colorado,8121,Washington,40.1644,-103.2206,1735,1735,255,polygon,TRUE,America/Denver,80720
+Brighton-CO,1840018784,Brighton,Brighton,CO,Brighton-CO,Colorado,8001,Adams,39.9719,-104.7958,38314,38314,710,polygon,TRUE,America/Denver,80603 80601
+Mulford-CO,1840028592,Mulford,Mulford,CO,Mulford-CO,Colorado,8045,Garfield,39.4064,-107.166,,,123.9,polygon,FALSE,America/Denver,81623
+Laporte-CO,1840017498,Laporte,Laporte,CO,Laporte-CO,Colorado,8069,Larimer,40.6385,-105.1444,,,663.3,polygon,FALSE,America/Denver,80524 80535
+Sheridan Lake-CO,1840022507,Sheridan Lake,Sheridan Lake,CO,Sheridan Lake-CO,Colorado,8061,Kiowa,38.4667,-102.2941,86,86,104,polygon,TRUE,America/Denver,81071
+Loveland-CO,1840020152,Loveland,Loveland,CO,Loveland-CO,Colorado,8069,Larimer,40.4168,-105.0622,76897,76897,874,polygon,TRUE,America/Denver,80538 80537 80539
+Crowley-CO,1840021502,Crowley,Crowley,CO,Crowley-CO,Colorado,8025,Crowley,38.1935,-103.8598,173,173,296,polygon,TRUE,America/Denver,81033 81063 81034
+Dotsero-CO,1840024363,Dotsero,Dotsero,CO,Dotsero-CO,Colorado,8037,Eagle,39.6464,-107.0541,,,317.1,polygon,FALSE,America/Denver,81637
+Estes Park-CO,1840021382,Estes Park,Estes Park,CO,Estes Park-CO,Colorado,8069,Larimer,40.3701,-105.5214,7691,6362,366,polygon,TRUE,America/Denver,80517
+Phippsburg-CO,1840024240,Phippsburg,Phippsburg,CO,Phippsburg-CO,Colorado,8107,Routt,40.2301,-106.9509,,,223.4,polygon,FALSE,America/Denver,80469
+Genoa-CO,1840021451,Genoa,Genoa,CO,Genoa-CO,Colorado,8073,Lincoln,39.2783,-103.4986,147,147,158,polygon,TRUE,America/Denver,80818
+Westcliffe-CO,1840022525,Westcliffe,Westcliffe,CO,Westcliffe-CO,Colorado,8027,Custer,38.134,-105.4654,591,591,184,polygon,TRUE,America/Denver,81252
+Wellington-CO,1840022411,Wellington,Wellington,CO,Wellington-CO,Colorado,8069,Larimer,40.7,-105.0059,8428,8516,974,polygon,TRUE,America/Denver,80549
+Tiffany-CO,1840028447,Tiffany,Tiffany,CO,Tiffany-CO,Colorado,8067,La Plata,37.0328,-107.5381,,,12.1,point,FALSE,America/Denver,81137
+Fraser-CO,1840021406,Fraser,Fraser,CO,Fraser-CO,Colorado,8049,Grand,39.9303,-105.803,2642,1252,137,polygon,TRUE,America/Denver,80482 80442
+Wray-CO,1840021412,Wray,Wray,CO,Wray-CO,Colorado,8125,Yuma,40.0799,-102.2279,2367,2367,265,polygon,TRUE,America/Denver,80758
+Walsh-CO,1840022554,Walsh,Walsh,CO,Walsh-CO,Colorado,8009,Baca,37.3861,-102.2799,512,512,441,polygon,TRUE,America/Denver,81090
+Buckeye-CO,1840027382,Buckeye,Buckeye,CO,Buckeye-CO,Colorado,8069,Larimer,40.8272,-105.095,,,3.8,point,FALSE,America/Denver,80549
+Cathedral-CO,1840024707,Cathedral,Cathedral,CO,Cathedral-CO,Colorado,8053,Hinsdale,38.0836,-107.0306,,,0.1,polygon,FALSE,America/Denver,81235
+Tabernash-CO,1840018759,Tabernash,Tabernash,CO,Tabernash-CO,Colorado,8049,Grand,39.9789,-105.8444,,,116.5,polygon,FALSE,America/Denver,80478
+Chromo-CO,1840028468,Chromo,Chromo,CO,Chromo-CO,Colorado,8007,Archuleta,37.0364,-106.8434,,,2.7,point,FALSE,America/Denver,81128
+Genesee-CO,1840028577,Genesee,Genesee,CO,Genesee-CO,Colorado,8059,Jefferson,39.6873,-105.2719,,,346.3,polygon,FALSE,America/Denver,80401
+Eagle-CO,1840021424,Eagle,Eagle,CO,Eagle-CO,Colorado,8037,Eagle,39.6368,-106.8157,6289,6739,566,polygon,TRUE,America/Denver,81631
+Broadmoor-CO,1840028486,Broadmoor,Broadmoor,CO,Broadmoor-CO,Colorado,8041,El Paso,38.7955,-104.8414,,,816.9,point,FALSE,America/Denver,80906
+Tarryall-CO,1840027466,Tarryall,Tarryall,CO,Tarryall-CO,Colorado,8093,Park,39.1219,-105.4756,,,1.9,point,FALSE,America/Denver,80827
+Idalia-CO,1840024318,Idalia,Idalia,CO,Idalia-CO,Colorado,8125,Yuma,39.7029,-102.2938,,,130.7,polygon,FALSE,America/Denver,80735
+Lakewood-CO,1840020198,Lakewood,Lakewood,CO,Lakewood-CO,Colorado,8059,Jefferson,39.6977,-105.117,154393,154393,1390,polygon,TRUE,America/Denver,80465 80232 80235 80214 80215 80227 80226 80228
+Montrose-CO,1840020251,Montrose,Montrose,CO,Montrose-CO,Colorado,8085,Montrose,38.4689,-107.8591,22919,19311,417,polygon,TRUE,America/Denver,81403 81401 81402
+Gardner-CO,1840028478,Gardner,Gardner,CO,Gardner-CO,Colorado,8055,Huerfano,37.7833,-105.1656,,,22.5,point,FALSE,America/Denver,81040
+Ridgway-CO,1840021512,Ridgway,Ridgway,CO,Ridgway-CO,Colorado,8091,Ouray,38.1591,-107.7531,979,979,161,polygon,TRUE,America/Denver,81432
+Falcon-CO,1840028485,Falcon,Falcon,CO,Falcon-CO,Colorado,8041,El Paso,38.933,-104.6086,,,31.1,point,FALSE,America/Denver,80831
+Ponderosa Park-CO,1840028453,Ponderosa Park,Ponderosa Park,CO,Ponderosa Park-CO,Colorado,8039,Elbert,39.3987,-104.6356,,,236.7,polygon,FALSE,America/Denver,80107
+Lochbuie-CO,1840021373,Lochbuie,Lochbuie,CO,Lochbuie-CO,Colorado,8123,Weld,40.0117,-104.727,4984,5719,593,polygon,TRUE,America/Denver,80603
+Glen Haven-CO,1840027384,Glen Haven,Glen Haven,CO,Glen Haven-CO,Colorado,8069,Larimer,40.4539,-105.4492,,,35.8,point,FALSE,America/Denver,80517
+Gulnare-CO,1840028553,Gulnare,Gulnare,CO,Gulnare-CO,Colorado,8071,Las Animas,37.3172,-104.7519,,,1.7,point,FALSE,America/Denver,81020
+Prospect Heights-CO,1840028472,Prospect Heights,Prospect Heights,CO,Prospect Heights-CO,Colorado,8043,Fremont,38.4264,-105.2375,,,634.2,point,FALSE,America/Denver,81212
+Dinosaur-CO,1840021376,Dinosaur,Dinosaur,CO,Dinosaur-CO,Colorado,8081,Moffat,40.2406,-109.0086,315,315,154,polygon,TRUE,America/Denver,81610
+Lawson-CO,1840028537,Lawson,Lawson,CO,Lawson-CO,Colorado,8019,Clear Creek,39.7658,-105.6275,,,265.6,point,FALSE,America/Denver,80436
+Joes-CO,1840024319,Joes,Joes,CO,Joes-CO,Colorado,8125,Yuma,39.6559,-102.6786,,,20,polygon,FALSE,America/Denver,80822
+Lazear-CO,1840028456,Lazear,Lazear,CO,Lazear-CO,Colorado,8029,Delta,38.78,-107.7817,,,98.6,point,FALSE,America/Denver,81419
+Cuchara-CO,1840028533,Cuchara,Cuchara,CO,Cuchara-CO,Colorado,8055,Huerfano,37.3792,-105.1003,,,28.9,point,FALSE,America/Denver,81055
+Hidden Lake-CO,1840028525,Hidden Lake,Hidden Lake,CO,Hidden Lake-CO,Colorado,8013,Boulder,40.1055,-105.4777,,,8.9,polygon,FALSE,America/Denver,80481
+Dillon-CO,1840021429,Dillon,Dillon,CO,Dillon-CO,Colorado,8117,Summit,39.6209,-106.0385,961,961,236,polygon,TRUE,America/Denver,80435
+Manitou Springs-CO,1840020237,Manitou Springs,Manitou Springs,CO,Manitou Springs-CO,Colorado,8041,El Paso,38.8576,-104.9124,5317,5317,650,polygon,TRUE,America/Denver,80829
+Silverthorne-CO,1840022436,Silverthorne,Silverthorne,CO,Silverthorne-CO,Colorado,8117,Summit,39.6563,-106.0869,17792,4505,437,polygon,TRUE,America/Denver,80498
+Jaroso-CO,1840028482,Jaroso,Jaroso,CO,Jaroso-CO,Colorado,8023,Costilla,37.0028,-105.6242,,,20.4,point,FALSE,America/Denver,81138
+Hartsel-CO,1840027465,Hartsel,Hartsel,CO,Hartsel-CO,Colorado,8093,Park,39.0217,-105.7958,,,16,point,FALSE,America/Denver,80449
+Copper Mountain-CO,1840028519,Copper Mountain,Copper Mountain,CO,Copper Mountain-CO,Colorado,8117,Summit,39.4769,-106.2011,,,75.3,polygon,FALSE,America/Denver,80443
+Arlington-CO,1840028556,Arlington,Arlington,CO,Arlington-CO,Colorado,8061,Kiowa,38.3361,-103.3433,,,1.5,point,FALSE,America/Denver,81021
+Mancos-CO,1840022555,Mancos,Mancos,CO,Mancos-CO,Colorado,8083,Montezuma,37.3466,-108.2939,1460,1460,883,polygon,TRUE,America/Denver,81328
+Twin Lakes-CO,1840024479,Twin Lakes,Twin Lakes,CO,Twin Lakes-CO,Colorado,8065,Lake,39.1037,-106.319,,,4.6,polygon,FALSE,America/Denver,80461 81251
+Yuma-CO,1840021413,Yuma,Yuma,CO,Yuma-CO,Colorado,8125,Yuma,40.1239,-102.7164,3581,3582,443,polygon,TRUE,America/Denver,80759
+Briggsdale-CO,1840027347,Briggsdale,Briggsdale,CO,Briggsdale-CO,Colorado,8123,Weld,40.6347,-104.3269,,,115.9,point,FALSE,America/Denver,80611
+Two Buttes-CO,1840022552,Two Buttes,Two Buttes,CO,Two Buttes-CO,Colorado,8009,Baca,37.5607,-102.3966,41,41,63,polygon,TRUE,America/Denver,81084
+Vona-CO,1840022453,Vona,Vona,CO,Vona-CO,Colorado,8063,Kit Carson,39.3021,-102.7434,106,106,184,polygon,TRUE,America/Denver,80861
+Castle Pines Village-CO,1840028593,Castle Pines Village,Castle Pines Village,CO,Castle Pines Village-CO,Colorado,8035,Douglas,39.4421,-104.8972,,,488.4,polygon,FALSE,America/Denver,80108
+El Rancho-CO,1840028443,El Rancho,El Rancho,CO,El Rancho-CO,Colorado,8059,Jefferson,39.6986,-105.3336,,,115.7,point,FALSE,America/Denver,80439
+Nucla-CO,1840022505,Nucla,Nucla,CO,Nucla-CO,Colorado,8085,Montrose,38.2664,-108.5488,710,710,381,polygon,TRUE,America/Denver,81424
+Leadville-CO,1840020228,Leadville,Leadville,CO,Leadville-CO,Colorado,8065,Lake,39.2467,-106.2935,5215,2693,942,polygon,TRUE,America/Denver,80461
+Columbine Valley-CO,1840028444,Columbine Valley,Columbine Valley,CO,Columbine Valley-CO,Colorado,8005,Arapahoe,39.5993,-105.035,1406,1406,529,polygon,TRUE,America/Denver,80123
+Avon-CO,1840020194,Avon,Avon,CO,Avon-CO,Colorado,8037,Eagle,39.6448,-106.5138,6525,6525,313,polygon,TRUE,America/Denver,81620 81655
+Western Hills-CO,1840027413,Western Hills,Western Hills,CO,Western Hills-CO,Colorado,8001,Adams,39.8322,-104.9972,,,3012.7,point,FALSE,America/Denver,80221
+Yoder-CO,1840028487,Yoder,Yoder,CO,Yoder-CO,Colorado,8041,El Paso,38.8394,-104.2219,,,3.8,point,FALSE,America/Denver,80864
+Loma-CO,1840026665,Loma,Loma,CO,Loma-CO,Colorado,8077,Mesa,39.2075,-108.805,,,299,polygon,FALSE,America/Denver,81524
+Buffalo Creek-CO,1840027433,Buffalo Creek,Buffalo Creek,CO,Buffalo Creek-CO,Colorado,8059,Jefferson,39.3867,-105.2703,,,46.8,point,FALSE,America/Denver,80425
+Hot Sulphur Springs-CO,1840021409,Hot Sulphur Springs,Hot Sulphur Springs,CO,Hot Sulphur Springs-CO,Colorado,8049,Grand,40.0748,-106.1025,702,702,356,polygon,TRUE,America/Denver,80451
+Del Norte-CO,1840021542,Del Norte,Del Norte,CO,Del Norte-CO,Colorado,8105,Rio Grande,37.6784,-106.3539,1598,1598,612,polygon,TRUE,America/Denver,81132
+Oxford-CO,1840028539,Oxford,Oxford,CO,Oxford-CO,Colorado,8067,La Plata,37.1689,-107.7142,,,41.4,point,FALSE,America/Denver,81137
+Manzanola-CO,1840022526,Manzanola,Manzanola,CO,Manzanola-CO,Colorado,8089,Otero,38.1088,-103.8669,416,416,581,polygon,TRUE,America/Denver,81058
+Agate-CO,1840027460,Agate,Agate,CO,Agate-CO,Colorado,8039,Elbert,39.4617,-103.9422,,,23.5,point,FALSE,America/Denver,80101
+Aristocrat Ranchettes-CO,1840028560,Aristocrat Ranchettes,Aristocrat Ranchettes,CO,Aristocrat Ranchettes-CO,Colorado,8123,Weld,40.1096,-104.7549,,,647.1,polygon,FALSE,America/Denver,80621
+Haxtun-CO,1840021393,Haxtun,Haxtun,CO,Haxtun-CO,Colorado,8095,Phillips,40.6415,-102.6295,917,917,658,polygon,TRUE,America/Denver,80731
+Garo-CO,1840027467,Garo,Garo,CO,Garo-CO,Colorado,8093,Park,39.1078,-105.8903,,,2,point,FALSE,America/Denver,80440
+Stoneham-CO,1840027356,Stoneham,Stoneham,CO,Stoneham-CO,Colorado,8123,Weld,40.6055,-103.6666,,,22.1,point,FALSE,America/Denver,80754
+Parachute-CO,1840022430,Parachute,Parachute,CO,Parachute-CO,Colorado,8045,Garfield,39.45,-108.0549,1113,1113,267,polygon,TRUE,America/Denver,81635
+Walden-CO,1840022404,Walden,Walden,CO,Walden-CO,Colorado,8057,Jackson,40.7315,-106.2813,582,582,670,polygon,TRUE,America/Denver,80480
+Merino-CO,1840022405,Merino,Merino,CO,Merino-CO,Colorado,8075,Logan,40.4846,-103.3536,282,282,650,polygon,TRUE,America/Denver,80741
+Superior-CO,1840022425,Superior,Superior,CO,Superior-CO,Colorado,8013,Boulder,39.9348,-105.1584,13155,13155,1278,polygon,TRUE,America/Denver,80027
+Timnath-CO,1840022410,Timnath,Timnath,CO,Timnath-CO,Colorado,8069,Larimer,40.5312,-104.9619,2947,2947,235,polygon,TRUE,America/Denver,80547 80528 80524 80525
+Silverton-CO,1840022540,Silverton,Silverton,CO,Silverton-CO,Colorado,8111,San Juan,37.8111,-107.6646,630,630,287,polygon,TRUE,America/Denver,81433
+Snyder-CO,1840024302,Snyder,Snyder,CO,Snyder-CO,Colorado,8087,Morgan,40.3312,-103.5915,,,178.6,polygon,FALSE,America/Denver,80750
+Willard-CO,1840027379,Willard,Willard,CO,Willard-CO,Colorado,8075,Logan,40.5544,-103.4863,,,19.5,point,FALSE,America/Denver,80741
+Flagler-CO,1840021447,Flagler,Flagler,CO,Flagler-CO,Colorado,8063,Kit Carson,39.2955,-103.0767,554,554,167,polygon,TRUE,America/Denver,80815
+Julesburg-CO,1840021381,Julesburg,Julesburg,CO,Julesburg-CO,Colorado,8115,Sedgwick,40.9851,-102.2626,1241,1241,322,polygon,TRUE,America/Denver,80737
+Jefferson-CO,1840027469,Jefferson,Jefferson,CO,Jefferson-CO,Colorado,8093,Park,39.3772,-105.8006,,,4.9,point,FALSE,America/Denver,80456
+Jamestown-CO,1840021416,Jamestown,Jamestown,CO,Jamestown-CO,Colorado,8013,Boulder,40.1178,-105.3916,273,273,169,polygon,TRUE,America/Denver,80455
+Alma-CO,1840021454,Alma,Alma,CO,Alma-CO,Colorado,8093,Park,39.2852,-106.0654,289,289,309,polygon,TRUE,America/Denver,80420
+Evergreen-CO,1840017539,Evergreen,Evergreen,CO,Evergreen-CO,Colorado,8059,Jefferson,39.6349,-105.3355,,,533.4,polygon,FALSE,America/Denver,80439 80437
+Galeton-CO,1840027359,Galeton,Galeton,CO,Galeton-CO,Colorado,8123,Weld,40.5208,-104.5858,,,145,point,FALSE,America/Denver,80622
+Aspen-CO,1840018813,Aspen,Aspen,CO,Aspen-CO,Colorado,8097,Pitkin,39.1948,-106.837,7956,6871,683,polygon,TRUE,America/Denver,81611
+Elizabeth-CO,1840021449,Elizabeth,Elizabeth,CO,Elizabeth-CO,Colorado,8039,Elbert,39.361,-104.6062,1394,1394,430,polygon,TRUE,America/Denver,80107
+Marshdale-CO,1840027428,Marshdale,Marshdale,CO,Marshdale-CO,Colorado,8059,Jefferson,39.5925,-105.3122,,,234.1,point,FALSE,America/Denver,80439
+Cimarron-CO,1840028460,Cimarron,Cimarron,CO,Cimarron-CO,Colorado,8085,Montrose,38.4425,-107.5567,,,4.3,point,FALSE,America/Denver,81220
+Romeo-CO,1840021577,Romeo,Romeo,CO,Romeo-CO,Colorado,8021,Conejos,37.1718,-105.9854,396,396,655,polygon,TRUE,America/Denver,81148
+Ward-CO,1840022426,Ward,Ward,CO,Ward-CO,Colorado,8013,Boulder,40.0726,-105.5136,156,156,105,polygon,TRUE,America/Denver,80481
+Alpine-CO,1840024757,Alpine,Alpine,CO,Alpine-CO,Colorado,8105,Rio Grande,37.6878,-106.5861,,,44.8,polygon,FALSE,America/Denver,81154
+Granby-CO,1840021407,Granby,Granby,CO,Granby-CO,Colorado,8049,Grand,40.0657,-105.9195,1916,1916,56,polygon,TRUE,America/Denver,80478 80446
+The Pinery-CO,1840028583,The Pinery,The Pinery,CO,The Pinery-CO,Colorado,8035,Douglas,39.4461,-104.7592,,,1219.2,polygon,FALSE,America/Denver,80134
+Redmesa-CO,1840028536,Redmesa,Redmesa,CO,Redmesa-CO,Colorado,8067,La Plata,37.0944,-108.1704,,,24,point,FALSE,America/Denver,81326
+Pikeview-CO,1840028484,Pikeview,Pikeview,CO,Pikeview-CO,Colorado,8041,El Paso,38.9153,-104.8222,,,302.4,point,FALSE,America/Denver,80919
+Centennial-CO,1840018792,Centennial,Centennial,CO,Centennial-CO,Colorado,8005,Arapahoe,39.5927,-104.8674,109932,109932,1449,polygon,TRUE,America/Denver,80122 80121 80016 80015 80112 80111
+Log Lane Village-CO,1840021405,Log Lane Village,Log Lane Village,CO,Log Lane Village-CO,Colorado,8087,Morgan,40.2701,-103.8294,864,864,1218,polygon,TRUE,America/Denver,80705
+Ault-CO,1840020150,Ault,Ault,CO,Ault-CO,Colorado,8123,Weld,40.5835,-104.734,1683,1683,823,polygon,TRUE,America/Denver,80610
+Snowmass Village-CO,1840022467,Snowmass Village,Snowmass Village,CO,Snowmass Village-CO,Colorado,8097,Pitkin,39.2203,-106.9393,2900,2900,40,polygon,TRUE,America/Denver,81615 81611
+Evans-CO,1840020147,Evans,Evans,CO,Evans-CO,Colorado,8123,Weld,40.3661,-104.7389,21615,21615,822,polygon,TRUE,America/Denver,80645 80634 80620
+Garcia-CO,1840028550,Garcia,Garcia,CO,Garcia-CO,Colorado,8023,Costilla,37.0042,-105.5372,,,33.2,point,FALSE,America/Denver,81152
+Pitkin-CO,1840022470,Pitkin,Pitkin,CO,Pitkin-CO,Colorado,8051,Gunnison,38.6086,-106.5164,69,69,98,polygon,TRUE,America/Denver,81241
+Pine Grove-CO,1840027432,Pine Grove,Pine Grove,CO,Pine Grove-CO,Colorado,8059,Jefferson,39.41,-105.3239,,,55.8,point,FALSE,America/Denver,80470
+Eads-CO,1840021495,Eads,Eads,CO,Eads-CO,Colorado,8061,Kiowa,38.4813,-102.7798,588,588,483,polygon,TRUE,America/Denver,81036
+Beulah Valley-CO,1840028562,Beulah Valley,Beulah Valley,CO,Beulah Valley-CO,Colorado,8101,Pueblo,38.0664,-104.9785,,,26,polygon,FALSE,America/Denver,81023
+Franktown-CO,1840017552,Franktown,Franktown,CO,Franktown-CO,Colorado,8035,Douglas,39.3906,-104.7486,,,19.9,polygon,FALSE,America/Denver,80116
+Erie-CO,1840021362,Erie,Erie,CO,Erie-CO,Colorado,8013,Boulder,40.0384,-105.0409,22803,22803,478,polygon,TRUE,America/Denver,80516
+San Pablo-CO,1840028480,San Pablo,San Pablo,CO,San Pablo-CO,Colorado,8023,Costilla,37.1492,-105.397,,,5.4,point,FALSE,America/Denver,81126
+Sanford-CO,1840022567,Sanford,Sanford,CO,Sanford-CO,Colorado,8021,Conejos,37.2574,-105.9007,865,865,228,polygon,TRUE,America/Denver,81151
+Kersey-CO,1840021371,Kersey,Kersey,CO,Kersey-CO,Colorado,8123,Weld,40.3874,-104.566,1593,1593,509,polygon,TRUE,America/Denver,80631 80644
+Blanca-CO,1840021555,Blanca,Blanca,CO,Blanca-CO,Colorado,8023,Costilla,37.4393,-105.5135,394,394,85,polygon,TRUE,America/Denver,81123
+Hugo-CO,1840021452,Hugo,Hugo,CO,Hugo-CO,Colorado,8073,Lincoln,39.1359,-103.4733,745,745,306,polygon,TRUE,America/Denver,80821
+Firestone-CO,1840021363,Firestone,Firestone,CO,Firestone-CO,Colorado,8123,Weld,40.1505,-104.9479,27332,12917,419,polygon,TRUE,America/Denver,80520 80504
+Towaoc-CO,1840018927,Towaoc,Towaoc,CO,Towaoc-CO,Colorado,8083,Montezuma,37.2126,-108.7265,,,330.7,polygon,FALSE,America/Denver,81334
+Bedrock-CO,1840028454,Bedrock,Bedrock,CO,Bedrock-CO,Colorado,8085,Montrose,38.315,-108.8909,,,3,point,FALSE,America/Denver,81411
+Coaldale-CO,1840024643,Coaldale,Coaldale,CO,Coaldale-CO,Colorado,8043,Fremont,38.3563,-105.8155,,,17.9,polygon,FALSE,America/Denver,81222
+Proctor-CO,1840027377,Proctor,Proctor,CO,Proctor-CO,Colorado,8075,Logan,40.8069,-102.9516,,,1.2,point,FALSE,America/Denver,80736
+North Washington-CO,1840028566,North Washington,North Washington,CO,North Washington-CO,Colorado,8001,Adams,39.8085,-104.9792,,,79.5,polygon,FALSE,America/Denver,80216 80221 80229
+Orchard City-CO,1840022471,Orchard City,Orchard City,CO,Orchard City-CO,Colorado,8029,Delta,38.814,-107.9708,3065,3065,103,polygon,TRUE,America/Denver,81410 81418
+Wondervu-CO,1840027402,Wondervu,Wondervu,CO,Wondervu-CO,Colorado,8013,Boulder,39.9255,-105.395,,,77.5,point,FALSE,America/Denver,80403
+Howard-CO,1840024645,Howard,Howard,CO,Howard-CO,Colorado,8043,Fremont,38.4098,-105.8424,,,52.6,polygon,FALSE,America/Denver,81233
+Welby-CO,1840028449,Welby,Welby,CO,Welby-CO,Colorado,8001,Adams,39.8403,-104.9655,,,1491.3,polygon,FALSE,America/Denver,80229
+Delta-CO,1840018820,Delta,Delta,CO,Delta-CO,Colorado,8029,Delta,38.7561,-108.0772,7847,8914,257,polygon,TRUE,America/Denver,81416
+Dumont-CO,1840028538,Dumont,Dumont,CO,Dumont-CO,Colorado,8019,Clear Creek,39.7647,-105.6003,,,95.7,point,FALSE,America/Denver,80436
+Mesa-CO,1840027477,Mesa,Mesa,CO,Mesa-CO,Colorado,8077,Mesa,39.1664,-108.139,,,58.4,point,FALSE,America/Denver,81643
+Placerville-CO,1840028541,Placerville,Placerville,CO,Placerville-CO,Colorado,8113,San Miguel,38.0167,-108.0534,,,46.8,point,FALSE,America/Denver,81430
+Silver Plume-CO,1840022439,Silver Plume,Silver Plume,CO,Silver Plume-CO,Colorado,8019,Clear Creek,39.6954,-105.7266,178,178,265,polygon,TRUE,America/Denver,80476
+Eldorado Springs-CO,1840017528,Eldorado Springs,Eldorado Springs,CO,Eldorado Springs-CO,Colorado,8013,Boulder,39.9367,-105.2625,,,104.9,polygon,FALSE,America/Denver,80025 80303
+Paoli-CO,1840022413,Paoli,Paoli,CO,Paoli-CO,Colorado,8095,Phillips,40.6128,-102.4721,34,34,43,polygon,TRUE,America/Denver,80731 80746
+Vineland-CO,1840024678,Vineland,Vineland,CO,Vineland-CO,Colorado,8101,Pueblo,38.2447,-104.4599,,,121.6,polygon,FALSE,America/Denver,81006
+Meredith-CO,1840027419,Meredith,Meredith,CO,Meredith-CO,Colorado,8097,Pitkin,39.363,-106.73,,,26.7,point,FALSE,America/Denver,81621
+Ophir-CO,1840022534,Ophir,Ophir,CO,Ophir-CO,Colorado,8113,San Miguel,37.8568,-107.8288,171,171,375,polygon,TRUE,America/Denver,81426 81435
+Atwood-CO,1840017496,Atwood,Atwood,CO,Atwood-CO,Colorado,8075,Logan,40.5505,-103.2746,,,185.5,polygon,FALSE,America/Denver,80722
+Peetz-CO,1840022406,Peetz,Peetz,CO,Peetz-CO,Colorado,8075,Logan,40.962,-103.1142,239,239,482,polygon,TRUE,America/Denver,80747
+Guffey-CO,1840026647,Guffey,Guffey,CO,Guffey-CO,Colorado,8093,Park,38.7591,-105.5024,,,6.7,polygon,FALSE,America/Denver,80820
+Cortez-CO,1840018928,Cortez,Cortez,CO,Cortez-CO,Colorado,8083,Montezuma,37.3498,-108.5769,8898,9007,559,polygon,TRUE,America/Denver,81321
+Crested Butte-CO,1840021464,Crested Butte,Crested Butte,CO,Crested Butte-CO,Colorado,8051,Gunnison,38.8676,-106.9772,1604,1604,735,polygon,TRUE,America/Denver,81224
+Chama-CO,1840028534,Chama,Chama,CO,Chama-CO,Colorado,8023,Costilla,37.162,-105.3783,,,40.7,point,FALSE,America/Denver,81126
+Whitewater-CO,1840027478,Whitewater,Whitewater,CO,Whitewater-CO,Colorado,8077,Mesa,38.9911,-108.4534,,,44.4,point,FALSE,America/Denver,81527
+Wheat Ridge-CO,1840021431,Wheat Ridge,Wheat Ridge,CO,Wheat Ridge-CO,Colorado,8059,Jefferson,39.7728,-105.103,31372,31372,1293,polygon,TRUE,America/Denver,80033 80214 80034
+Craig-CO,1840018741,Craig,Craig,CO,Craig-CO,Colorado,8081,Moffat,40.517,-107.5558,9479,8952,673,polygon,TRUE,America/Denver,81625 81626
+Colorado Springs-CO,1840018825,Colorado Springs,Colorado Springs,CO,Colorado Springs-CO,Colorado,8041,El Paso,38.8673,-104.7605,624789,465101,919,polygon,TRUE,America/Denver,80951 80909 80904 80905 80906 80907 80903 80939 80938 80910 80917 80916 80915 80914 80919 80918 80927 80924 80925 80922 80923 80920 80921 80929 80901 80912 80931 80932 80933 80934 80935 80936 80937 80941 80942 80944 80946 80947 80949 80950 80960 80962 80970 80977 80995 80997
+Stanley Park-CO,1840027430,Stanley Park,Stanley Park,CO,Stanley Park-CO,Colorado,8059,Jefferson,39.6183,-105.2928,,,76.8,point,FALSE,America/Denver,80439
+Hillside-CO,1840028471,Hillside,Hillside,CO,Hillside-CO,Colorado,8043,Fremont,38.2653,-105.6117,,,4.3,point,FALSE,America/Denver,81232
+Crook-CO,1840021378,Crook,Crook,CO,Crook-CO,Colorado,8075,Logan,40.8588,-102.8014,109,109,314,polygon,TRUE,America/Denver,80726
+Berthoud-CO,1840020153,Berthoud,Berthoud,CO,Berthoud-CO,Colorado,8069,Larimer,40.3059,-105.0412,6368,6368,204,polygon,TRUE,America/Denver,80534 80513
+Trinidad-CO,1840021545,Trinidad,Trinidad,CO,Trinidad-CO,Colorado,8071,Las Animas,37.1748,-104.4907,8178,8103,337,polygon,TRUE,America/Denver,81082
+Mosca-CO,1840028515,Mosca,Mosca,CO,Mosca-CO,Colorado,8003,Alamosa,37.6483,-105.8739,,,20.5,point,FALSE,America/Denver,81146
+Anton-CO,1840027397,Anton,Anton,CO,Anton-CO,Colorado,8121,Washington,39.7417,-103.2172,,,3.8,point,FALSE,America/Denver,80801
+Kittredge-CO,1840017541,Kittredge,Kittredge,CO,Kittredge-CO,Colorado,8059,Jefferson,39.6593,-105.3045,,,605.1,polygon,FALSE,America/Denver,80439 80457
+North La Junta-CO,1840024706,North La Junta,North La Junta,CO,North La Junta-CO,Colorado,8089,Otero,37.9985,-103.5228,,,303.1,polygon,FALSE,America/Denver,81050
+Durango-CO,1840018929,Durango,Durango,CO,Durango-CO,Colorado,8067,La Plata,37.2744,-107.8702,19703,18503,517,polygon,TRUE,America/Denver,81303 81301 81302
+Westminster-CO,1840021423,Westminster,Westminster,CO,Westminster-CO,Colorado,8001,Adams,39.8837,-105.0627,113875,113875,1387,polygon,TRUE,America/Denver,80030 80031 80234 80005 80003 80020 80021 80035 80036
+Holly-CO,1840021521,Holly,Holly,CO,Holly-CO,Colorado,8099,Prowers,38.0554,-102.1247,757,757,403,polygon,TRUE,America/Denver,81047
+Crawford-CO,1840021465,Crawford,Crawford,CO,Crawford-CO,Colorado,8029,Delta,38.7053,-107.61,413,413,655,polygon,TRUE,America/Denver,81415
+Norwood-CO,1840022533,Norwood,Norwood,CO,Norwood-CO,Colorado,8113,San Miguel,38.1288,-108.2918,572,572,761,polygon,TRUE,America/Denver,81423
+Estrella-CO,1840028479,Estrella,Estrella,CO,Estrella-CO,Colorado,8003,Alamosa,37.3661,-105.9245,,,1.1,point,FALSE,America/Denver,81101
+Grand Junction-CO,1840020230,Grand Junction,Grand Junction,CO,Grand Junction-CO,Colorado,8077,Mesa,39.0881,-108.5675,135389,61881,613,polygon,TRUE,America/Denver,81505 81507 81506 81504 81501 81502
+Bark Ranch-CO,1840028524,Bark Ranch,Bark Ranch,CO,Bark Ranch-CO,Colorado,8013,Boulder,40.1156,-105.4417,,,76,polygon,FALSE,America/Denver,80481
+La Junta-CO,1840020270,La Junta,La Junta,CO,La Junta-CO,Colorado,8089,Otero,37.9797,-103.5473,8020,6930,887,polygon,TRUE,America/Denver,81050
+Brookvale-CO,1840027439,Brookvale,Brookvale,CO,Brookvale-CO,Colorado,8019,Clear Creek,39.6297,-105.4192,,,75.8,point,FALSE,America/Denver,80439
+Foxfield-CO,1840021442,Foxfield,Foxfield,CO,Foxfield-CO,Colorado,8005,Arapahoe,39.5884,-104.7858,792,792,239,polygon,TRUE,America/Denver,80016
+Lynn-CO,1840024762,Lynn,Lynn,CO,Lynn-CO,Colorado,8071,Las Animas,37.4219,-104.643,,,0.2,polygon,FALSE,America/Denver,81020
+Pierce-CO,1840022399,Pierce,Pierce,CO,Pierce-CO,Colorado,8123,Weld,40.6335,-104.7551,1060,1060,487,polygon,TRUE,America/Denver,80650
+Fort Garland-CO,1840017626,Fort Garland,Fort Garland,CO,Fort Garland-CO,Colorado,8023,Costilla,37.4279,-105.435,,,421.2,polygon,FALSE,America/Denver,81133
+Frederick-CO,1840021364,Frederick,Frederick,CO,Frederick-CO,Colorado,8123,Weld,40.1096,-104.9677,12154,12154,336,polygon,TRUE,America/Denver,80504 80530 80516
+Ludlow-CO,1840028495,Ludlow,Ludlow,CO,Ludlow-CO,Colorado,8071,Las Animas,37.3333,-104.5833,,,1.6,point,FALSE,America/Denver,81082
+Niwot-CO,1840018773,Niwot,Niwot,CO,Niwot-CO,Colorado,8013,Boulder,40.098,-105.1552,,,707.2,polygon,FALSE,America/Denver,80544 80503
+Allison-CO,1840028540,Allison,Allison,CO,Allison-CO,Colorado,8067,La Plata,37.0244,-107.4881,,,24.5,point,FALSE,America/Denver,81137
+Lafayette-CO,1840020180,Lafayette,Lafayette,CO,Lafayette-CO,Colorado,8013,Boulder,39.9946,-105.0996,91767,28261,1167,polygon,TRUE,America/Denver,80026
+Mead-CO,1840022396,Mead,Mead,CO,Mead-CO,Colorado,8123,Weld,40.2293,-104.9943,4553,4553,162,polygon,TRUE,America/Denver,80542 80504 80513
+Pandora-CO,1840028457,Pandora,Pandora,CO,Pandora-CO,Colorado,8113,San Miguel,37.9333,-107.7856,,,1.7,point,FALSE,America/Denver,81435
+Sedalia-CO,1840018807,Sedalia,Sedalia,CO,Sedalia-CO,Colorado,8035,Douglas,39.4397,-104.9698,,,211.4,polygon,FALSE,America/Denver,80135
+Fruitvale-CO,1840017557,Fruitvale,Fruitvale,CO,Fruitvale-CO,Colorado,8077,Mesa,39.0933,-108.4789,,,789.5,polygon,FALSE,America/Denver,81504
+Bond-CO,1840027421,Bond,Bond,CO,Bond-CO,Colorado,8037,Eagle,39.8744,-106.6873,,,24.4,point,FALSE,America/Denver,80423
+Wah Keeney Park-CO,1840027425,Wah Keeney Park,Wah Keeney Park,CO,Wah Keeney Park-CO,Colorado,8059,Jefferson,39.6603,-105.3405,,,739.8,point,FALSE,America/Denver,80439
+Mesita-CO,1840028549,Mesita,Mesita,CO,Mesita-CO,Colorado,8023,Costilla,37.0984,-105.602,,,5.7,point,FALSE,America/Denver,81152
+Lakeside-CO,1840028558,Lakeside,Lakeside,CO,Lakeside-CO,Colorado,8059,Jefferson,39.7802,-105.0579,8,8,16,polygon,TRUE,America/Denver,80212
+Lewis-CO,1840024769,Lewis,Lewis,CO,Lewis-CO,Colorado,8083,Montezuma,37.5017,-108.66,,,17.3,polygon,FALSE,America/Denver,81327
+Weston-CO,1840024765,Weston,Weston,CO,Weston-CO,Colorado,8071,Las Animas,37.146,-104.8684,,,29,polygon,FALSE,America/Denver,81091
+Garfield-CO,1840024586,Garfield,Garfield,CO,Garfield-CO,Colorado,8015,Chaffee,38.5493,-106.2895,,,12.2,polygon,FALSE,America/Denver,81227
+Herzman Mesa-CO,1840027429,Herzman Mesa,Herzman Mesa,CO,Herzman Mesa-CO,Colorado,8059,Jefferson,39.6105,-105.3103,,,172.3,point,FALSE,America/Denver,80439
+Winter Park-CO,1840022421,Winter Park,Winter Park,CO,Winter Park-CO,Colorado,8049,Grand,39.8778,-105.7827,1029,1029,24,polygon,TRUE,America/Denver,80482
+Minturn-CO,1840022433,Minturn,Minturn,CO,Minturn-CO,Colorado,8037,Eagle,39.5462,-106.3872,1033,1033,52,polygon,TRUE,America/Denver,81649 81645
+Powder Wash-CO,1840027369,Powder Wash,Powder Wash,CO,Powder Wash-CO,Colorado,8081,Moffat,40.9458,-108.3115,,,1.5,point,FALSE,America/Denver,81640
+Broomfield-CO,1840018781,Broomfield,Broomfield,CO,Broomfield-CO,Colorado,8014,Broomfield,39.9541,-105.0526,66529,66529,778,polygon,TRUE,America/Denver,80023 80020 80021 80516 80038
+Roggen-CO,1840027360,Roggen,Roggen,CO,Roggen-CO,Colorado,8123,Weld,40.1675,-104.3722,,,117.6,point,FALSE,America/Denver,80652
+Dolores-CO,1840021557,Dolores,Dolores,CO,Dolores-CO,Colorado,8083,Montezuma,37.474,-108.4998,997,997,528,polygon,TRUE,America/Denver,81323
+Norrie-CO,1840024484,Norrie,Norrie,CO,Norrie-CO,Colorado,8097,Pitkin,39.3279,-106.6561,,,1.8,polygon,FALSE,America/Denver,81642
+Gunnison-CO,1840020235,Gunnison,Gunnison,CO,Gunnison-CO,Colorado,8051,Gunnison,38.5455,-106.9226,6784,6261,581,polygon,TRUE,America/Denver,81231 81230
+Eastlake-CO,1840027411,Eastlake,Eastlake,CO,Eastlake-CO,Colorado,8001,Adams,39.9239,-104.9614,,,1328.4,point,FALSE,America/Denver,80241
+La Salle-CO,1840021372,La Salle,La Salle,CO,La Salle-CO,Colorado,8123,Weld,40.3484,-104.7059,2126,2126,901,polygon,TRUE,America/Denver,80645
+Henderson-CO,1840027412,Henderson,Henderson,CO,Henderson-CO,Colorado,8001,Adams,39.9205,-104.8658,,,72.1,point,FALSE,America/Denver,80640
+Perry Park-CO,1840028567,Perry Park,Perry Park,CO,Perry Park-CO,Colorado,8035,Douglas,39.2595,-104.9824,,,88.5,polygon,FALSE,America/Denver,80118
+Cornish-CO,1840027348,Cornish,Cornish,CO,Cornish-CO,Colorado,8123,Weld,40.523,-104.4133,,,2,point,FALSE,America/Denver,80611
+Federal Heights-CO,1840028425,Federal Heights,Federal Heights,CO,Federal Heights-CO,Colorado,8001,Adams,39.8651,-105.0154,12458,12458,2708,polygon,TRUE,America/Denver,80260
+Ramah-CO,1840021469,Ramah,Ramah,CO,Ramah-CO,Colorado,8041,El Paso,39.1222,-104.1673,127,127,199,polygon,TRUE,America/Denver,80832
+Allenspark-CO,1840017526,Allenspark,Allenspark,CO,Allenspark-CO,Colorado,8013,Boulder,40.2096,-105.5107,,,49.6,polygon,FALSE,America/Denver,80540 80510
+Bowie-CO,1840028542,Bowie,Bowie,CO,Bowie-CO,Colorado,8029,Delta,38.9214,-107.5401,,,8.1,point,FALSE,America/Denver,81428
+Adams City-CO,1840027416,Adams City,Adams City,CO,Adams City-CO,Colorado,8001,Adams,39.8267,-104.9289,,,676.4,point,FALSE,America/Denver,80022
+Fairplay-CO,1840021455,Fairplay,Fairplay,CO,Fairplay-CO,Colorado,8093,Park,39.2245,-105.9959,704,704,237,polygon,TRUE,America/Denver,80440
+Acres Green-CO,1840028559,Acres Green,Acres Green,CO,Acres Green-CO,Colorado,8035,Douglas,39.5558,-104.8957,,,2387.8,polygon,FALSE,America/Denver,80124
+Beulah-CO,1840028551,Beulah,Beulah,CO,Beulah-CO,Colorado,8101,Pueblo,38.075,-104.9867,,,125.3,point,FALSE,America/Denver,81023
+Marvel-CO,1840028529,Marvel,Marvel,CO,Marvel-CO,Colorado,8067,La Plata,37.1125,-108.1267,,,56.3,point,FALSE,America/Denver,81326
+Masonville-CO,1840027387,Masonville,Masonville,CO,Masonville-CO,Colorado,8069,Larimer,40.4875,-105.2108,,,62.7,point,FALSE,America/Denver,80538
+Greenwood Village-CO,1840020212,Greenwood Village,Greenwood Village,CO,Greenwood Village-CO,Colorado,8005,Arapahoe,39.6152,-104.913,15749,15749,736,polygon,TRUE,America/Denver,80121 80111
+Redlands-CO,1840018812,Redlands,Redlands,CO,Redlands-CO,Colorado,8077,Mesa,39.0877,-108.6575,,,581.6,polygon,FALSE,America/Denver,81507
+Masters-CO,1840027351,Masters,Masters,CO,Masters-CO,Colorado,8123,Weld,40.3094,-104.245,,,1.6,point,FALSE,America/Denver,80649
+Stonewall Gap-CO,1840028481,Stonewall Gap,Stonewall Gap,CO,Stonewall Gap-CO,Colorado,8071,Las Animas,37.1605,-105.0342,,,20.9,polygon,FALSE,America/Denver,81091
+Holly Hills-CO,1840028590,Holly Hills,Holly Hills,CO,Holly Hills-CO,Colorado,8005,Arapahoe,39.6679,-104.9217,,,2847.7,polygon,FALSE,America/Denver,80222
+Kiowa-CO,1840021450,Kiowa,Kiowa,CO,Kiowa-CO,Colorado,8039,Elbert,39.3431,-104.4555,742,742,323,polygon,TRUE,America/Denver,80117
+Eaton-CO,1840021359,Eaton,Eaton,CO,Eaton-CO,Colorado,8123,Weld,40.5251,-104.7133,5117,5086,831,polygon,TRUE,America/Denver,80615
+Lincoln Park-CO,1840018853,Lincoln Park,Lincoln Park,CO,Lincoln Park-CO,Colorado,8043,Fremont,38.4255,-105.213,,,594.6,polygon,FALSE,America/Denver,81212
+Gem Village-CO,1840028446,Gem Village,Gem Village,CO,Gem Village-CO,Colorado,8067,La Plata,37.2192,-107.6373,,,68,point,FALSE,America/Denver,81122
+Laird-CO,1840024321,Laird,Laird,CO,Laird-CO,Colorado,8125,Yuma,40.0819,-102.102,,,37.5,polygon,FALSE,America/Denver,80758
+Sargents-CO,1840028545,Sargents,Sargents,CO,Sargents-CO,Colorado,8109,Saguache,38.4042,-106.415,,,3.9,point,FALSE,America/Denver,81248
+Chacra-CO,1840024361,Chacra,Chacra,CO,Chacra-CO,Colorado,8045,Garfield,39.577,-107.4509,,,330.1,polygon,FALSE,America/Denver,81601
+Lazy Acres-CO,1840028520,Lazy Acres,Lazy Acres,CO,Lazy Acres-CO,Colorado,8013,Boulder,40.0837,-105.3313,,,70.8,polygon,FALSE,America/Denver,80302
+Gilcrest-CO,1840021366,Gilcrest,Gilcrest,CO,Gilcrest-CO,Colorado,8123,Weld,40.2842,-104.782,1085,1085,516,polygon,TRUE,America/Denver,80651 80623
+McCoy-CO,1840024365,McCoy,McCoy,CO,McCoy-CO,Colorado,8037,Eagle,39.9143,-106.7258,,,19.8,polygon,FALSE,America/Denver,80463
+Peyton-CO,1840024554,Peyton,Peyton,CO,Peyton-CO,Colorado,8041,El Paso,39.033,-104.4904,,,50.5,polygon,FALSE,America/Denver,80831
+Pritchett-CO,1840021556,Pritchett,Pritchett,CO,Pritchett-CO,Colorado,8009,Baca,37.37,-102.8587,133,133,220,polygon,TRUE,America/Denver,81064
+Fulford-CO,1840024364,Fulford,Fulford,CO,Fulford-CO,Colorado,8037,Eagle,39.5166,-106.6576,,,3,polygon,FALSE,America/Denver,81631
+Wiggins-CO,1840022420,Wiggins,Wiggins,CO,Wiggins-CO,Colorado,8087,Morgan,40.2275,-104.0732,886,886,257,polygon,TRUE,America/Denver,80654
+Grant-CO,1840027470,Grant,Grant,CO,Grant-CO,Colorado,8093,Park,39.4597,-105.6617,,,17,point,FALSE,America/Denver,80421
+Roxborough Park-CO,1840028568,Roxborough Park,Roxborough Park,CO,Roxborough Park-CO,Colorado,8035,Douglas,39.4492,-105.0746,,,235.5,polygon,FALSE,America/Denver,80125 80135
+Arvada-CO,1840018788,Arvada,Arvada,CO,Arvada-CO,Colorado,8059,Jefferson,39.8321,-105.1508,117453,117453,1182,polygon,TRUE,America/Denver,80005 80004 80007 80003 80002 80403 80001 80006
+Bayfield-CO,1840020309,Bayfield,Bayfield,CO,Bayfield-CO,Colorado,8067,La Plata,37.2353,-107.5948,2903,2628,703,polygon,TRUE,America/Denver,81122
+Larkspur-CO,1840021448,Larkspur,Larkspur,CO,Larkspur-CO,Colorado,8035,Douglas,39.2318,-104.8924,195,195,48,polygon,TRUE,America/Denver,80118
+Leyden-CO,1840027424,Leyden,Leyden,CO,Leyden-CO,Colorado,8059,Jefferson,39.8447,-105.1842,,,25.4,point,FALSE,America/Denver,80007
+Morrison-CO,1840022437,Morrison,Morrison,CO,Morrison-CO,Colorado,8059,Jefferson,39.6423,-105.1943,435,435,76,polygon,TRUE,America/Denver,80465
+Vollmar-CO,1840027352,Vollmar,Vollmar,CO,Vollmar-CO,Colorado,8123,Weld,40.135,-104.8389,,,13.4,point,FALSE,America/Denver,80621
+Aurora-CO,1840018794,Aurora,Aurora,CO,Aurora-CO,Colorado,8001,Adams,39.7085,-104.7274,361710,361710,909,polygon,TRUE,America/Denver,80247 80045 80137 80018 80019 80016 80017 80014 80015 80012 80013 80010 80011 80040 80041 80042 80044 80046 80047
+Crestone-CO,1840021509,Crestone,Crestone,CO,Crestone-CO,Colorado,8109,Saguache,37.9945,-105.6963,143,143,146,polygon,TRUE,America/Denver,81131
+Basalt-CO,1840020195,Basalt,Basalt,CO,Basalt-CO,Colorado,8037,Eagle,39.3663,-107.0412,8672,3921,757,polygon,TRUE,America/Denver,81621
+Woodland Park-CO,1840021468,Woodland Park,Woodland Park,CO,Woodland Park-CO,Colorado,8119,Teller,38.9988,-105.0595,10806,7390,431,polygon,TRUE,America/Denver,80863 80866
+Ken Caryl-CO,1840028580,Ken Caryl,Ken Caryl,CO,Ken Caryl-CO,Colorado,8059,Jefferson,39.5769,-105.1138,,,1489.9,polygon,FALSE,America/Denver,80128 80127
+San Antonio-CO,1840028466,San Antonio,San Antonio,CO,San Antonio-CO,Colorado,8021,Conejos,37.0208,-106.0281,,,5.6,point,FALSE,America/Denver,81120
+Rocky Ford-CO,1840020269,Rocky Ford,Rocky Ford,CO,Rocky Ford-CO,Colorado,8089,Otero,38.0499,-103.7227,4012,3816,887,polygon,TRUE,America/Denver,81067
+Rangely-CO,1840021417,Rangely,Rangely,CO,Rangely-CO,Colorado,8103,Rio Blanco,40.0864,-108.7774,2364,2364,219,polygon,TRUE,America/Denver,81648
+Campo-CO,1840022550,Campo,Campo,CO,Campo-CO,Colorado,8009,Baca,37.1047,-102.5786,103,103,275,polygon,TRUE,America/Denver,81029
+Stonewall-CO,1840028548,Stonewall,Stonewall,CO,Stonewall-CO,Colorado,8071,Las Animas,37.1522,-105.0172,,,6.8,point,FALSE,America/Denver,81091
+Starkville-CO,1840022546,Starkville,Starkville,CO,Starkville-CO,Colorado,8071,Las Animas,37.1166,-104.5231,53,53,280,polygon,TRUE,America/Denver,81082
+San Pedro-CO,1840028547,San Pedro,San Pedro,CO,San Pedro-CO,Colorado,8023,Costilla,37.1597,-105.4025,,,8.6,point,FALSE,America/Denver,81152
+Hawley-CO,1840028504,Hawley,Hawley,CO,Hawley-CO,Colorado,8089,Otero,37.9828,-103.7111,,,3.5,point,FALSE,America/Denver,81067
+Dacono-CO,1840018740,Dacono,Dacono,CO,Dacono-CO,Colorado,8123,Weld,40.0617,-104.95,5090,5090,242,polygon,TRUE,America/Denver,80603 80514
+Meeker-CO,1840022427,Meeker,Meeker,CO,Meeker-CO,Colorado,8103,Rio Blanco,40.0498,-107.8952,2352,2352,259,polygon,TRUE,America/Denver,81641
+Shaw Heights-CO,1840028586,Shaw Heights,Shaw Heights,CO,Shaw Heights-CO,Colorado,8001,Adams,39.8566,-105.039,,,2610.7,polygon,FALSE,America/Denver,80031
+Yellow Jacket-CO,1840028431,Yellow Jacket,Yellow Jacket,CO,Yellow Jacket-CO,Colorado,8083,Montezuma,37.5344,-108.7173,,,18.5,point,FALSE,America/Denver,81335
+Mineral Hot Springs-CO,1840028474,Mineral Hot Springs,Mineral Hot Springs,CO,Mineral Hot Springs-CO,Colorado,8109,Saguache,38.1689,-105.9258,,,1,point,FALSE,America/Denver,81143
+El Jebel-CO,1840017536,El Jebel,El Jebel,CO,El Jebel-CO,Colorado,8037,Eagle,39.4051,-107.0921,,,1018.3,polygon,FALSE,America/Denver,81623
+Cherry Creek-CO,1840028588,Cherry Creek,Cherry Creek,CO,Cherry Creek-CO,Colorado,8005,Arapahoe,39.6094,-104.8645,,,595.8,polygon,FALSE,America/Denver,80111
+Palmer Lake-CO,1840022475,Palmer Lake,Palmer Lake,CO,Palmer Lake-CO,Colorado,8041,El Paso,39.1156,-104.9051,2637,2637,329,polygon,TRUE,America/Denver,80133 80132
+Holyoke-CO,1840020164,Holyoke,Holyoke,CO,Holyoke-CO,Colorado,8095,Phillips,40.5826,-102.2985,2213,2213,361,polygon,TRUE,America/Denver,80734
+Idaho Springs-CO,1840018790,Idaho Springs,Idaho Springs,CO,Idaho Springs-CO,Colorado,8019,Clear Creek,39.7442,-105.4999,1746,1746,318,polygon,TRUE,America/Denver,80439 80452
+Brush-CO,1840018758,Brush,Brush,CO,Brush-CO,Colorado,8087,Morgan,40.2581,-103.6322,5756,5408,819,polygon,TRUE,America/Denver,80723
+Chipita Park-CO,1840028532,Chipita Park,Chipita Park,CO,Chipita Park-CO,Colorado,8041,El Paso,38.9244,-105.0066,,,197.4,point,FALSE,America/Denver,80809
+Lake George-CO,1840027468,Lake George,Lake George,CO,Lake George-CO,Colorado,8093,Park,38.9797,-105.3575,,,40.4,point,FALSE,America/Denver,80816
+Las Animas-CO,1840020268,Las Animas,Las Animas,CO,Las Animas-CO,Colorado,8011,Bent,38.0695,-103.2236,3692,2207,526,polygon,TRUE,America/Denver,81054
+Cahone-CO,1840028429,Cahone,Cahone,CO,Cahone-CO,Colorado,8033,Dolores,37.6589,-108.8079,,,4.8,point,FALSE,America/Denver,81320
+Pleasant View-CO,1840028430,Pleasant View,Pleasant View,CO,Pleasant View-CO,Colorado,8083,Montezuma,37.5894,-108.7651,,,18.2,point,FALSE,America/Denver,81331
+La Garita-CO,1840028465,La Garita,La Garita,CO,La Garita-CO,Colorado,8109,Saguache,37.8408,-106.2467,,,3.8,point,FALSE,America/Denver,81132
+Parshall-CO,1840024305,Parshall,Parshall,CO,Parshall-CO,Colorado,8049,Grand,40.0555,-106.1758,,,55.6,polygon,FALSE,America/Denver,80468
+Westcreek-CO,1840018808,Westcreek,Westcreek,CO,Westcreek-CO,Colorado,8035,Douglas,39.1498,-105.1626,,,18.8,polygon,FALSE,America/Denver,80135
+Johnson Village-CO,1840024587,Johnson Village,Johnson Village,CO,Johnson Village-CO,Colorado,8015,Chaffee,38.812,-106.1071,,,205.8,polygon,FALSE,America/Denver,81211
+Saguache-CO,1840021510,Saguache,Saguache,CO,Saguache-CO,Colorado,8109,Saguache,38.0861,-106.1408,488,488,472,polygon,TRUE,America/Denver,81149
+Blue Mountain-CO,1840027376,Blue Mountain,Blue Mountain,CO,Blue Mountain-CO,Colorado,8081,Moffat,40.2483,-108.8618,,,2,point,FALSE,America/Denver,81610
+Bow Mar-CO,1840021439,Bow Mar,Bow Mar,CO,Bow Mar-CO,Colorado,8005,Arapahoe,39.6252,-105.0513,965,965,544,polygon,TRUE,America/Denver,80123
+Lamar-CO,1840020267,Lamar,Lamar,CO,Lamar-CO,Colorado,8099,Prowers,38.0739,-102.6155,7525,7534,561,polygon,TRUE,America/Denver,81052
+Snowmass-CO,1840027480,Snowmass,Snowmass,CO,Snowmass-CO,Colorado,8097,Pitkin,39.3317,-106.9862,,,18.2,point,FALSE,America/Denver,81654
+Stonington-CO,1840028513,Stonington,Stonington,CO,Stonington-CO,Colorado,8009,Baca,37.2936,-102.1874,,,6.6,point,FALSE,America/Denver,81090
+Todd Creek-CO,1840028571,Todd Creek,Todd Creek,CO,Todd Creek-CO,Colorado,8001,Adams,39.9795,-104.8727,,,279.7,polygon,FALSE,America/Denver,80602
+Carr-CO,1840027346,Carr,Carr,CO,Carr-CO,Colorado,8123,Weld,40.8961,-104.875,,,2,point,FALSE,America/Denver,80612
+Valmont-CO,1840024350,Valmont,Valmont,CO,Valmont-CO,Colorado,8013,Boulder,40.0341,-105.206,,,33.6,polygon,FALSE,America/Denver,80301
+Littleton-CO,1840020213,Littleton,Littleton,CO,Littleton-CO,Colorado,8005,Arapahoe,39.5912,-105.0193,46333,46333,1404,polygon,TRUE,America/Denver,80128 80122 80123 80120 80160 80161 80162 80163 80165 80166
+Sterling-CO,1840021377,Sterling,Sterling,CO,Sterling-CO,Colorado,8075,Logan,40.6207,-103.1919,15228,13988,709,polygon,TRUE,America/Denver,80751
+Mack-CO,1840027476,Mack,Mack,CO,Mack-CO,Colorado,8077,Mesa,39.2239,-108.8651,,,171.1,point,FALSE,America/Denver,81525
+Grand View Estates-CO,1840028452,Grand View Estates,Grand View Estates,CO,Grand View Estates-CO,Colorado,8035,Douglas,39.544,-104.8189,,,371.1,polygon,FALSE,America/Denver,80134
+Hudson-CO,1840021368,Hudson,Hudson,CO,Hudson-CO,Colorado,8123,Weld,40.0893,-104.6269,1585,1585,127,polygon,TRUE,America/Denver,80642
+Center-CO,1840022517,Center,Center,CO,Center-CO,Colorado,8109,Saguache,37.7514,-106.1102,2234,2234,1044,polygon,TRUE,America/Denver,81125
+Montezuma-CO,1840022435,Montezuma,Montezuma,CO,Montezuma-CO,Colorado,8117,Summit,39.5818,-105.8681,68,68,331,polygon,TRUE,America/Denver,80435
+Ovid-CO,1840022407,Ovid,Ovid,CO,Ovid-CO,Colorado,8115,Sedgwick,40.9606,-102.3884,315,315,750,polygon,TRUE,America/Denver,80744
+Gerrard-CO,1840024758,Gerrard,Gerrard,CO,Gerrard-CO,Colorado,8105,Rio Grande,37.6783,-106.5753,,,4.3,polygon,FALSE,America/Denver,81154
+Cotopaxi-CO,1840024644,Cotopaxi,Cotopaxi,CO,Cotopaxi-CO,Colorado,8043,Fremont,38.3739,-105.6909,,,26,polygon,FALSE,America/Denver,81223
+Pagosa Springs-CO,1840022565,Pagosa Springs,Pagosa Springs,CO,Pagosa Springs-CO,Colorado,8007,Archuleta,37.2675,-107.03,5225,1838,145,polygon,TRUE,America/Denver,81147
+Byers-CO,1840017543,Byers,Byers,CO,Byers-CO,Colorado,8005,Arapahoe,39.7101,-104.219,,,206.9,polygon,FALSE,America/Denver,80103
+Stratton-CO,1840022452,Stratton,Stratton,CO,Stratton-CO,Colorado,8063,Kit Carson,39.3029,-102.6035,654,654,491,polygon,TRUE,America/Denver,80836
+Burns-CO,1840027420,Burns,Burns,CO,Burns-CO,Colorado,8037,Eagle,39.8739,-106.8856,,,9.7,point,FALSE,America/Denver,80426
+Divide-CO,1840024550,Divide,Divide,CO,Divide-CO,Colorado,8119,Teller,38.945,-105.1619,,,153.9,polygon,FALSE,America/Denver,80814
+Marshall-CO,1840027405,Marshall,Marshall,CO,Marshall-CO,Colorado,8013,Boulder,39.9555,-105.2297,,,95.1,point,FALSE,America/Denver,80303
+Creede-CO,1840021537,Creede,Creede,CO,Creede-CO,Colorado,8079,Mineral,37.8492,-106.9264,,,171.6,point,TRUE,America/Denver,81130
+Smeltertown-CO,1840028464,Smeltertown,Smeltertown,CO,Smeltertown-CO,Colorado,8015,Chaffee,38.5524,-106.0085,,,99.1,polygon,FALSE,America/Denver,81201
+Sugarloaf-CO,1840024349,Sugarloaf,Sugarloaf,CO,Sugarloaf-CO,Colorado,8013,Boulder,40.0189,-105.4078,,,41.7,polygon,FALSE,America/Denver,80302
+Nunn-CO,1840022398,Nunn,Nunn,CO,Nunn-CO,Colorado,8123,Weld,40.7123,-104.7894,451,451,55,polygon,TRUE,America/Denver,80648
+Wattenberg-CO,1840027353,Wattenberg,Wattenberg,CO,Wattenberg-CO,Colorado,8123,Weld,40.0278,-104.8366,,,340.3,point,FALSE,America/Denver,80621
+Bethune-CO,1840020221,Bethune,Bethune,CO,Bethune-CO,Colorado,8063,Kit Carson,39.3038,-102.4234,238,238,567,polygon,TRUE,America/Denver,80805
+Ignacio-CO,1840021558,Ignacio,Ignacio,CO,Ignacio-CO,Colorado,8067,La Plata,37.1178,-107.6375,725,725,673,polygon,TRUE,America/Denver,81137
+Gypsum-CO,1840021426,Gypsum,Gypsum,CO,Gypsum-CO,Colorado,8037,Eagle,39.6286,-106.9343,6416,6969,311,polygon,TRUE,America/Denver,81637
+Glenwood Springs-CO,1840020184,Glenwood Springs,Glenwood Springs,CO,Glenwood Springs-CO,Colorado,8045,Garfield,39.5459,-107.3348,12042,9997,678,polygon,TRUE,America/Denver,81601 81602
+Edwards-CO,1840017535,Edwards,Edwards,CO,Edwards-CO,Colorado,8037,Eagle,39.6215,-106.6183,,,741.6,polygon,FALSE,America/Denver,81632
+Otis-CO,1840022422,Otis,Otis,CO,Otis-CO,Colorado,8121,Washington,40.15,-102.9621,483,483,451,polygon,TRUE,America/Denver,80743
+Wigwam-CO,1840028490,Wigwam,Wigwam,CO,Wigwam-CO,Colorado,8041,El Paso,38.5394,-104.6355,,,14.9,point,FALSE,America/Denver,81008
+Crystola-CO,1840028469,Crystola,Crystola,CO,Crystola-CO,Colorado,8119,Teller,38.9558,-105.0272,,,39.8,point,FALSE,America/Denver,80819
+Egnar-CO,1840028427,Egnar,Egnar,CO,Egnar-CO,Colorado,8113,San Miguel,37.9164,-108.9401,,,1.5,point,FALSE,America/Denver,81325
+Georgetown-CO,1840021433,Georgetown,Georgetown,CO,Georgetown-CO,Colorado,8019,Clear Creek,39.7178,-105.6945,1060,1060,422,polygon,TRUE,America/Denver,80476 80444
+Hoyt-CO,1840027390,Hoyt,Hoyt,CO,Hoyt-CO,Colorado,8087,Morgan,40.0155,-104.075,,,2.5,point,FALSE,America/Denver,80654
+Cope-CO,1840027398,Cope,Cope,CO,Cope-CO,Colorado,8121,Washington,39.6639,-102.851,,,23.8,point,FALSE,America/Denver,80812
+Bonanza Mountain Estates-CO,1840028528,Bonanza Mountain Estates,Bonanza Mountain Estates,CO,Bonanza Mountain Estates-CO,Colorado,8013,Boulder,39.9768,-105.4798,,,169.5,polygon,FALSE,America/Denver,80466
+Bondad-CO,1840028530,Bondad,Bondad,CO,Bondad-CO,Colorado,8067,La Plata,37.0458,-107.8762,,,9.9,point,FALSE,America/Denver,81303
+Grand Lake-CO,1840021408,Grand Lake,Grand Lake,CO,Grand Lake-CO,Colorado,8049,Grand,40.2504,-105.8236,495,495,182,polygon,TRUE,America/Denver,80447
+Garden City-CO,1840021365,Garden City,Garden City,CO,Garden City-CO,Colorado,8123,Weld,40.3948,-104.6893,267,267,913,polygon,TRUE,America/Denver,80631
+Blue River-CO,1840021427,Blue River,Blue River,CO,Blue River-CO,Colorado,8117,Summit,39.4357,-106.0354,913,913,140,polygon,TRUE,America/Denver,80424
+Greenhorn-CO,1840028492,Greenhorn,Greenhorn,CO,Greenhorn-CO,Colorado,8101,Pueblo,37.907,-104.8533,,,2,point,FALSE,America/Denver,81069
+Strasburg-CO,1840018795,Strasburg,Strasburg,CO,Strasburg-CO,Colorado,8001,Adams,39.7181,-104.3195,,,442.8,polygon,FALSE,America/Denver,80136
+Hasty-CO,1840024704,Hasty,Hasty,CO,Hasty-CO,Colorado,8011,Bent,38.1063,-102.956,,,61.7,polygon,FALSE,America/Denver,81044
+Gunbarrel-CO,1840028424,Gunbarrel,Gunbarrel,CO,Gunbarrel-CO,Colorado,8013,Boulder,40.0634,-105.1712,,,972,polygon,FALSE,America/Denver,80503 80301
+Castle Pines North-CO,1840028587,Castle Pines North,Castle Pines North,CO,Castle Pines North-CO,Colorado,8035,Douglas,39.4717,-104.8948,,,1771.5,point,TRUE,America/Denver,80108
+Grover-CO,1840021367,Grover,Grover,CO,Grover-CO,Colorado,8123,Weld,40.8691,-104.2259,150,150,97,polygon,TRUE,America/Denver,80729
+Bristol-CO,1840028535,Bristol,Bristol,CO,Bristol-CO,Colorado,8099,Prowers,38.1222,-102.3116,,,60.5,point,FALSE,America/Denver,81047
+Glendale-CO,1840028450,Glendale,Glendale,CO,Glendale-CO,Colorado,8005,Arapahoe,39.7036,-104.9352,5197,5197,3481,polygon,TRUE,America/Denver,80246
+Bellvue-CO,1840027383,Bellvue,Bellvue,CO,Bellvue-CO,Colorado,8069,Larimer,40.6264,-105.1716,,,142.1,point,FALSE,America/Denver,80512
+No Name-CO,1840028585,No Name,No Name,CO,No Name-CO,Colorado,8045,Garfield,39.5597,-107.293,,,212.2,polygon,FALSE,America/Denver,81601
+La Veta-CO,1840021536,La Veta,La Veta,CO,La Veta-CO,Colorado,8055,Huerfano,37.5084,-105.0085,777,777,219,polygon,TRUE,America/Denver,81055
+Black Forest-CO,1840017562,Black Forest,Black Forest,CO,Black Forest-CO,Colorado,8041,El Paso,39.0608,-104.6753,,,75.7,polygon,FALSE,America/Denver,80908 80106
+Cheyenne Wells-CO,1840022481,Cheyenne Wells,Cheyenne Wells,CO,Cheyenne Wells-CO,Colorado,8017,Cheyenne,38.8192,-102.3521,842,842,303,polygon,TRUE,America/Denver,80810
+Cattle Creek-CO,1840024360,Cattle Creek,Cattle Creek,CO,Cattle Creek-CO,Colorado,8045,Garfield,39.4667,-107.2599,,,27.2,polygon,FALSE,America/Denver,81601
+Steamboat Springs-CO,1840021374,Steamboat Springs,Steamboat Springs,CO,Steamboat Springs-CO,Colorado,8107,Routt,40.4774,-106.8233,13529,12690,482,polygon,TRUE,America/Denver,80487 80488 80477
+San Acacio-CO,1840024768,San Acacio,San Acacio,CO,San Acacio-CO,Colorado,8023,Costilla,37.2086,-105.5667,,,33.6,polygon,FALSE,America/Denver,81151
+Cheraw-CO,1840022527,Cheraw,Cheraw,CO,Cheraw-CO,Colorado,8089,Otero,38.1079,-103.5111,247,247,602,polygon,TRUE,America/Denver,81030 81050
+Coal Creek-CO,1840022502,Coal Creek,Coal Creek,CO,Coal Creek-CO,Colorado,8043,Fremont,38.362,-105.1417,348,348,105,polygon,TRUE,America/Denver,81221
+Lucerne-CO,1840027349,Lucerne,Lucerne,CO,Lucerne-CO,Colorado,8123,Weld,40.4819,-104.6997,,,110.3,point,FALSE,America/Denver,80615
+Portland-CO,1840024696,Portland,Portland,CO,Portland-CO,Colorado,8091,Ouray,38.0892,-107.6952,,,60.1,polygon,FALSE,America/Denver,81432
+Cimarron Hills-CO,1840028574,Cimarron Hills,Cimarron Hills,CO,Cimarron Hills-CO,Colorado,8041,El Paso,38.8589,-104.6995,,,2441.3,polygon,FALSE,America/Denver,80915 80922
+Salt Creek-CO,1840018861,Salt Creek,Salt Creek,CO,Salt Creek-CO,Colorado,8101,Pueblo,38.2389,-104.5881,,,496.2,polygon,FALSE,America/Denver,81006
+Williamsburg-CO,1840022503,Williamsburg,Williamsburg,CO,Williamsburg-CO,Colorado,8043,Fremont,38.384,-105.1712,667,667,72,polygon,TRUE,America/Denver,81226 81212
+Saint Ann Highlands-CO,1840028527,Saint Ann Highlands,Saint Ann Highlands,CO,Saint Ann Highlands-CO,Colorado,8013,Boulder,39.9873,-105.4558,,,120.9,polygon,FALSE,America/Denver,80466
+Saint Marys-CO,1840028569,Saint Marys,Saint Marys,CO,Saint Marys-CO,Colorado,8019,Clear Creek,39.8163,-105.648,,,93.6,polygon,FALSE,America/Denver,80452
+Hayden-CO,1840021375,Hayden,Hayden,CO,Hayden-CO,Colorado,8107,Routt,40.4852,-107.2423,1874,1874,240,polygon,TRUE,America/Denver,81639
+Hesperus-CO,1840028439,Hesperus,Hesperus,CO,Hesperus-CO,Colorado,8067,La Plata,37.2861,-108.0395,,,58.5,point,FALSE,America/Denver,81328
+Bergen Park-CO,1840027426,Bergen Park,Bergen Park,CO,Bergen Park-CO,Colorado,8059,Jefferson,39.6914,-105.3617,,,309.7,point,FALSE,America/Denver,80439
+Gill-CO,1840027350,Gill,Gill,CO,Gill-CO,Colorado,8123,Weld,40.4541,-104.5422,,,279.5,point,FALSE,America/Denver,80624
+Gleneagle-CO,1840028578,Gleneagle,Gleneagle,CO,Gleneagle-CO,Colorado,8041,El Paso,39.0453,-104.8288,,,1079.3,polygon,FALSE,America/Denver,80921
+Timpas-CO,1840028505,Timpas,Timpas,CO,Timpas-CO,Colorado,8089,Otero,37.8181,-103.7741,,,8.3,point,FALSE,America/Denver,81059
+Eckley-CO,1840021414,Eckley,Eckley,CO,Eckley-CO,Colorado,8125,Yuma,40.1126,-102.4885,251,251,203,polygon,TRUE,America/Denver,80727
+Greenwood-CO,1840028476,Greenwood,Greenwood,CO,Greenwood-CO,Colorado,8027,Custer,38.205,-105.0969,,,17.5,point,FALSE,America/Denver,81253
+Kim-CO,1840021547,Kim,Kim,CO,Kim-CO,Colorado,8071,Las Animas,37.2471,-103.3533,66,66,67,polygon,TRUE,America/Denver,81049
+Canon City-CO,1840018855,Cañon City,Canon City,CO,Canon City-CO,Colorado,8043,Fremont,38.443,-105.2201,27600,16679,514,polygon,TRUE,America/Denver,81212 81215
+Pinecliffe-CO,1840027403,Pinecliffe,Pinecliffe,CO,Pinecliffe-CO,Colorado,8047,Gilpin,39.9319,-105.4283,,,27.8,point,FALSE,America/Denver,80471
+Drake-CO,1840027385,Drake,Drake,CO,Drake-CO,Colorado,8069,Larimer,40.4319,-105.3403,,,21.1,point,FALSE,America/Denver,80515
+Fenders-CO,1840027431,Fenders,Fenders,CO,Fenders-CO,Colorado,8059,Jefferson,39.5739,-105.2169,,,113.5,point,FALSE,America/Denver,80465
+Idledale-CO,1840024368,Idledale,Idledale,CO,Idledale-CO,Colorado,8059,Jefferson,39.6688,-105.2432,,,118.4,polygon,FALSE,America/Denver,80401 80453
+Simla-CO,1840022457,Simla,Simla,CO,Simla-CO,Colorado,8039,Elbert,39.141,-104.0818,624,624,424,polygon,TRUE,America/Denver,80835
+Woody Creek-CO,1840024486,Woody Creek,Woody Creek,CO,Woody Creek-CO,Colorado,8097,Pitkin,39.2709,-106.8884,,,239.1,polygon,FALSE,America/Denver,81656 81611
+Sedgwick-CO,1840022408,Sedgwick,Sedgwick,CO,Sedgwick-CO,Colorado,8115,Sedgwick,40.9352,-102.5257,149,149,172,polygon,TRUE,America/Denver,80749
+Hoehne-CO,1840024760,Hoehne,Hoehne,CO,Hoehne-CO,Colorado,8071,Las Animas,37.2815,-104.389,,,52,polygon,FALSE,America/Denver,81082 81046
+Hotchkiss-CO,1840021466,Hotchkiss,Hotchkiss,CO,Hotchkiss-CO,Colorado,8029,Delta,38.7991,-107.7136,916,916,387,polygon,TRUE,America/Denver,81419
+Castle Rock-CO,1840022455,Castle Rock,Castle Rock,CO,Castle Rock-CO,Colorado,8035,Douglas,39.3761,-104.8536,57666,57666,655,polygon,TRUE,America/Denver,80104 80108 80109
+Salida-CO,1840021473,Salida,Salida,CO,Salida-CO,Colorado,8015,Chaffee,38.5303,-105.9987,7102,5581,833,polygon,TRUE,America/Denver,81201
+Ouray-CO,1840020258,Ouray,Ouray,CO,Ouray-CO,Colorado,8091,Ouray,38.0274,-107.6736,1033,1033,452,polygon,TRUE,America/Denver,81427
+Brookside-CO,1840021493,Brookside,Brookside,CO,Brookside-CO,Colorado,8043,Fremont,38.4137,-105.1913,254,254,210,polygon,TRUE,America/Denver,81212
+Poudre Park-CO,1840027386,Poudre Park,Poudre Park,CO,Poudre Park-CO,Colorado,8069,Larimer,40.6861,-105.3047,,,87.3,point,FALSE,America/Denver,80512
+Maybell-CO,1840024241,Maybell,Maybell,CO,Maybell-CO,Colorado,8081,Moffat,40.5191,-108.0889,,,46.3,polygon,FALSE,America/Denver,81625 81640
+Colona-CO,1840024695,Colona,Colona,CO,Colona-CO,Colorado,8091,Ouray,38.3274,-107.7795,,,14.2,polygon,FALSE,America/Denver,81403
+Fort Carson-CO,1840028557,Fort Carson,Fort Carson,CO,Fort Carson-CO,Colorado,8041,El Paso,38.7403,-104.7836,,,404.9,polygon,FALSE,America/Denver,80902 80913
+Padroni-CO,1840018742,Padroni,Padroni,CO,Padroni-CO,Colorado,8075,Logan,40.7818,-103.1734,,,79.7,polygon,FALSE,America/Denver,80745
+Trinchera-CO,1840028555,Trinchera,Trinchera,CO,Trinchera-CO,Colorado,8071,Las Animas,37.0422,-104.0475,,,4.5,point,FALSE,America/Denver,81081
+Pueblo-CO,1840020255,Pueblo,Pueblo,CO,Pueblo-CO,Colorado,8101,Pueblo,38.2701,-104.613,141280,110291,794,polygon,TRUE,America/Denver,81004 81005 81003 81001 81008 81002 81009 81010 81011 81012
+Colorado City-CO,1840017587,Colorado City,Colorado City,CO,Colorado City-CO,Colorado,8101,Pueblo,37.9365,-104.8459,,,261,polygon,FALSE,America/Denver,81019 81069
+Sheridan-CO,1840021440,Sheridan,Sheridan,CO,Sheridan-CO,Colorado,8005,Arapahoe,39.6466,-105.0181,6041,6041,1048,polygon,TRUE,America/Denver,80110
+Brandon-CO,1840024659,Brandon,Brandon,CO,Brandon-CO,Colorado,8061,Kiowa,38.4464,-102.4412,,,20,polygon,FALSE,America/Denver,81071
+Breckenridge-CO,1840021428,Breckenridge,Breckenridge,CO,Breckenridge-CO,Colorado,8117,Summit,39.4997,-106.0433,7741,4896,315,polygon,TRUE,America/Denver,80424
+Bonanza-CO,1840021508,Bonanza,Bonanza,CO,Bonanza-CO,Colorado,8109,Saguache,38.2966,-106.1419,16,16,14,polygon,TRUE,America/Denver,81155
+Conifer-CO,1840027435,Conifer,Conifer,CO,Conifer-CO,Colorado,8059,Jefferson,39.5211,-105.3053,,,27.4,point,FALSE,America/Denver,80433
+Loghill Village-CO,1840028564,Loghill Village,Loghill Village,CO,Loghill Village-CO,Colorado,8091,Ouray,38.1962,-107.779,,,54.2,polygon,FALSE,America/Denver,81432
+Meridian-CO,1840028565,Meridian,Meridian,CO,Meridian-CO,Colorado,8035,Douglas,39.5388,-104.8475,,,0,polygon,FALSE,America/Denver,80134 80112
+Applewood-CO,1840028573,Applewood,Applewood,CO,Applewood-CO,Colorado,8059,Jefferson,39.7524,-105.1605,,,696,polygon,FALSE,America/Denver,80401
+Cedarwood-CO,1840028493,Cedarwood,Cedarwood,CO,Cedarwood-CO,Colorado,8101,Pueblo,37.9417,-104.6175,,,1.5,point,FALSE,America/Denver,81069
+Ordway-CO,1840022511,Ordway,Ordway,CO,Ordway-CO,Colorado,8025,Crowley,38.2209,-103.7566,1049,1049,525,polygon,TRUE,America/Denver,81063
+Peoria-CO,1840024383,Peoria,Peoria,CO,Peoria-CO,Colorado,8005,Arapahoe,39.6649,-104.1456,,,4.2,polygon,FALSE,America/Denver,80103
+Wiley-CO,1840022523,Wiley,Wiley,CO,Wiley-CO,Colorado,8099,Prowers,38.1552,-102.7192,386,386,488,polygon,TRUE,America/Denver,81092
+Louviers-CO,1840017551,Louviers,Louviers,CO,Louviers-CO,Colorado,8035,Douglas,39.4799,-105.0033,,,236.8,polygon,FALSE,America/Denver,80125 80135 80131
+Woodrow-CO,1840027395,Woodrow,Woodrow,CO,Woodrow-CO,Colorado,8121,Washington,39.9883,-103.5916,,,1.1,point,FALSE,America/Denver,80757
+Naturita-CO,1840022504,Naturita,Naturita,CO,Naturita-CO,Colorado,8085,Montrose,38.2186,-108.5683,530,530,297,polygon,TRUE,America/Denver,81422
+Silver Cliff-CO,1840022524,Silver Cliff,Silver Cliff,CO,Silver Cliff-CO,Colorado,8027,Custer,38.1204,-105.4104,607,607,15,polygon,TRUE,America/Denver,81252
+Monte Vista-CO,1840020299,Monte Vista,Monte Vista,CO,Monte Vista-CO,Colorado,8105,Rio Grande,37.5788,-106.1503,4308,4266,635,polygon,TRUE,America/Denver,81144
+Yampa-CO,1840022403,Yampa,Yampa,CO,Yampa-CO,Colorado,8107,Routt,40.153,-106.9084,447,447,716,polygon,TRUE,America/Denver,80483
+Fort Lupton-CO,1840020148,Fort Lupton,Fort Lupton,CO,Fort Lupton-CO,Colorado,8123,Weld,40.0829,-104.7982,9783,7971,398,polygon,TRUE,America/Denver,80621
+Fruita-CO,1840020229,Fruita,Fruita,CO,Fruita-CO,Colorado,8077,Mesa,39.154,-108.7285,12924,12924,654,polygon,TRUE,America/Denver,81521
+Orchard-CO,1840024301,Orchard,Orchard,CO,Orchard-CO,Colorado,8087,Morgan,40.332,-104.1179,,,91.2,polygon,FALSE,America/Denver,80649
+Aguilar-CO,1840021546,Aguilar,Aguilar,CO,Aguilar-CO,Colorado,8071,Las Animas,37.4036,-104.655,473,473,465,polygon,TRUE,America/Denver,81020
+Weldona-CO,1840024303,Weldona,Weldona,CO,Weldona-CO,Colorado,8087,Morgan,40.3484,-103.9694,,,181.1,polygon,FALSE,America/Denver,80653
+Cascade-CO,1840028483,Cascade,Cascade,CO,Cascade-CO,Colorado,8041,El Paso,38.8967,-104.9722,,,279.3,point,FALSE,America/Denver,80809
+Pine Brook Hill-CO,1840028521,Pine Brook Hill,Pine Brook Hill,CO,Pine Brook Hill-CO,Colorado,8013,Boulder,40.0472,-105.31,,,174.3,polygon,FALSE,America/Denver,80304
+Deer Trail-CO,1840021441,Deer Trail,Deer Trail,CO,Deer Trail-CO,Colorado,8005,Arapahoe,39.6152,-104.0431,681,681,245,polygon,TRUE,America/Denver,80105
+Berkley-CO,1840028561,Berkley,Berkley,CO,Berkley-CO,Colorado,8001,Adams,39.8045,-105.0282,,,197.6,polygon,FALSE,America/Denver,80003 80221
+Longmont-CO,1840020178,Longmont,Longmont,CO,Longmont-CO,Colorado,8013,Boulder,40.1691,-105.0995,97835,92858,1312,polygon,TRUE,America/Denver,80501 80503 80504 80502
+Towner-CO,1840024660,Towner,Towner,CO,Towner-CO,Colorado,8061,Kiowa,38.4705,-102.0804,,,32.4,polygon,FALSE,America/Denver,81071
+Singleton-CO,1840027463,Singleton,Singleton,CO,Singleton-CO,Colorado,8093,Park,39.443,-105.6019,,,37.3,point,FALSE,America/Denver,80421
+Sequndo-CO,1840028498,Sequndo,Sequndo,CO,Sequndo-CO,Colorado,8071,Las Animas,40.036,-105.3324,,,26.9,polygon,FALSE,America/Denver,80302
+La Junta Gardens-CO,1840024705,La Junta Gardens,La Junta Gardens,CO,La Junta Gardens-CO,Colorado,8089,Otero,38.0014,-103.5549,,,70.8,polygon,FALSE,America/Denver,81050
+Fort Collins-CO,1840020151,Fort Collins,Fort Collins,CO,Fort Collins-CO,Colorado,8069,Larimer,40.5487,-105.0656,301581,164207,1154,polygon,TRUE,America/Denver,80521 80528 80526 80524 80525 80522 80523 80527 80553
+Oak Creek-CO,1840022402,Oak Creek,Oak Creek,CO,Oak Creek-CO,Colorado,8107,Routt,40.2739,-106.9571,914,914,1025,polygon,TRUE,America/Denver,80467
+Silt-CO,1840022432,Silt,Silt,CO,Silt-CO,Colorado,8045,Garfield,39.5478,-107.6537,3124,3087,704,polygon,TRUE,America/Denver,81652
+Catherine-CO,1840024359,Catherine,Catherine,CO,Catherine-CO,Colorado,8045,Garfield,39.4017,-107.1331,,,84,polygon,FALSE,America/Denver,81623
+Commerce City-CO,1840018785,Commerce City,Commerce City,CO,Commerce City-CO,Colorado,8001,Adams,39.8638,-104.8434,54869,54869,606,polygon,TRUE,America/Denver,80640 80022
+Inverness-CO,1840028591,Inverness,Inverness,CO,Inverness-CO,Colorado,8005,Arapahoe,39.5792,-104.8623,,,69.6,polygon,FALSE,America/Denver,80112
+Molina-CO,1840027479,Molina,Molina,CO,Molina-CO,Colorado,8077,Mesa,39.1891,-108.0604,,,31.2,point,FALSE,America/Denver,81646
+Amherst-CO,1840024283,Amherst,Amherst,CO,Amherst-CO,Colorado,8095,Phillips,40.6831,-102.1727,,,19.2,polygon,FALSE,America/Denver,80721
+Redstone-CO,1840024485,Redstone,Redstone,CO,Redstone-CO,Colorado,8097,Pitkin,39.1838,-107.2408,,,90.8,polygon,FALSE,America/Denver,81623
+Dove Valley-CO,1840028589,Dove Valley,Dove Valley,CO,Dove Valley-CO,Colorado,8005,Arapahoe,39.5739,-104.8279,,,664.9,polygon,FALSE,America/Denver,80112
+Wolcott-CO,1840024366,Wolcott,Wolcott,CO,Wolcott-CO,Colorado,8037,Eagle,39.7035,-106.6799,,,9.8,polygon,FALSE,America/Denver,81655 81631 81632
+Altona-CO,1840028433,Altona,Altona,CO,Altona-CO,Colorado,8013,Boulder,40.1254,-105.2923,,,48,polygon,FALSE,America/Denver,80302
+Boone-CO,1840021500,Boone,Boone,CO,Boone-CO,Colorado,8101,Pueblo,38.2493,-104.2579,349,349,372,polygon,TRUE,America/Denver,81025
+Midland-CO,1840024553,Midland,Midland,CO,Midland-CO,Colorado,8119,Teller,38.8468,-105.1578,,,35.9,polygon,FALSE,America/Denver,80814
+Haswell-CO,1840021496,Haswell,Haswell,CO,Haswell-CO,Colorado,8061,Kiowa,38.4525,-103.1649,67,67,30,polygon,TRUE,America/Denver,81045
+Prospect Valley-CO,1840027354,Prospect Valley,Prospect Valley,CO,Prospect Valley-CO,Colorado,8123,Weld,40.0736,-104.415,,,10.4,point,FALSE,America/Denver,80643
+Derby-CO,1840028576,Derby,Derby,CO,Derby-CO,Colorado,8001,Adams,39.8401,-104.9172,,,2320.6,polygon,FALSE,America/Denver,80022 80024
+Valdez-CO,1840024764,Valdez,Valdez,CO,Valdez-CO,Colorado,8071,Las Animas,37.1239,-104.6794,,,2.1,polygon,FALSE,America/Denver,81082
+Toponas-CO,1840027363,Toponas,Toponas,CO,Toponas-CO,Colorado,8107,Routt,40.0603,-106.8081,,,2.7,point,FALSE,America/Denver,80479
+Keystone-CO,1840017537,Keystone,Keystone,CO,Keystone-CO,Colorado,8117,Summit,39.5901,-105.9383,,,35.1,polygon,FALSE,America/Denver,80435
+Sawpit-CO,1840022535,Sawpit,Sawpit,CO,Sawpit-CO,Colorado,8113,San Miguel,37.9947,-108.001,42,42,527,polygon,TRUE,America/Denver,81430
+Carbondale-CO,1840022431,Carbondale,Carbondale,CO,Carbondale-CO,Colorado,8045,Garfield,39.3946,-107.2145,7549,6777,1279,polygon,TRUE,America/Denver,81623
+Boulder-CO,1840018774,Boulder,Boulder,CO,Boulder-CO,Colorado,8013,Boulder,40.0274,-105.2514,127190,108090,1678,polygon,TRUE,America/Denver,80310 80304 80305 80302 80303 80301 80306 80307 80308 80309 80314
+Florissant-CO,1840024551,Florissant,Florissant,CO,Florissant-CO,Colorado,8119,Teller,38.9445,-105.2901,,,59.7,polygon,FALSE,America/Denver,80816
+Paragon Estates-CO,1840028442,Paragon Estates,Paragon Estates,CO,Paragon Estates-CO,Colorado,8013,Boulder,39.9802,-105.1811,,,214.9,polygon,FALSE,America/Denver,80303
+De Beque-CO,1840021461,De Beque,De Beque,CO,De Beque-CO,Colorado,8077,Mesa,39.2879,-108.1952,491,491,44,polygon,TRUE,America/Denver,81630
+Seven Hills-CO,1840028523,Seven Hills,Seven Hills,CO,Seven Hills-CO,Colorado,8013,Boulder,40.036,-105.3324,,,74.3,polygon,FALSE,America/Denver,80302
+Kremmling-CO,1840021410,Kremmling,Kremmling,CO,Kremmling-CO,Colorado,8049,Grand,40.0565,-106.3782,1492,1492,435,polygon,TRUE,America/Denver,80459
+Como-CO,1840027464,Como,Como,CO,Como-CO,Colorado,8093,Park,39.3161,-105.8928,,,15.5,point,FALSE,America/Denver,80432
+Conejos-CO,1840026862,Conejos,Conejos,CO,Conejos-CO,Colorado,8021,Conejos,37.0872,-106.0161,,,58.6,polygon,FALSE,America/Denver,81120 81129
+Olathe-CO,1840022506,Olathe,Olathe,CO,Olathe-CO,Colorado,8085,Montrose,38.6084,-107.983,1808,1808,481,polygon,TRUE,America/Denver,81425
+Rollinsville-CO,1840024362,Rollinsville,Rollinsville,CO,Rollinsville-CO,Colorado,8047,Gilpin,39.9232,-105.5136,,,79.9,polygon,FALSE,America/Denver,80422 80474
+Englewood-CO,1840020211,Englewood,Englewood,CO,Englewood-CO,Colorado,8005,Arapahoe,39.6469,-104.9942,34050,34050,2006,polygon,TRUE,America/Denver,80113 80110 80150 80151 80155
+Columbine-CO,1840027361,Columbine,Columbine,CO,Columbine-CO,Colorado,8107,Routt,40.8541,-106.9659,,,1.5,point,FALSE,America/Denver,80428
+Villa Grove-CO,1840028546,Villa Grove,Villa Grove,CO,Villa Grove-CO,Colorado,8109,Saguache,38.2486,-105.9492,,,15.5,point,FALSE,America/Denver,81155
+Cherry Hills Village-CO,1840018793,Cherry Hills Village,Cherry Hills Village,CO,Cherry Hills Village-CO,Colorado,8005,Arapahoe,39.6375,-104.9481,6585,6585,409,polygon,TRUE,America/Denver,80113 80111
+McClave-CO,1840028502,McClave,McClave,CO,McClave-CO,Colorado,8011,Bent,38.1375,-102.8505,,,8.4,point,FALSE,America/Denver,81057
+Irondale-CO,1840027414,Irondale,Irondale,CO,Irondale-CO,Colorado,8001,Adams,39.8494,-104.8972,,,147.3,point,FALSE,America/Denver,80022
+Antonito-CO,1840021576,Antonito,Antonito,CO,Antonito-CO,Colorado,8021,Conejos,37.0766,-106.0102,756,756,723,polygon,TRUE,America/Denver,81120
+Milliken-CO,1840022397,Milliken,Milliken,CO,Milliken-CO,Colorado,8123,Weld,40.3105,-104.8556,6678,6678,204,polygon,TRUE,America/Denver,80543 80651
+Green Mountain Falls-CO,1840021470,Green Mountain Falls,Green Mountain Falls,CO,Green Mountain Falls-CO,Colorado,8119,Teller,38.9343,-105.0237,667,667,241,polygon,TRUE,America/Denver,80819
+Golden-CO,1840020197,Golden,Golden,CO,Golden-CO,Colorado,8059,Jefferson,39.7406,-105.2122,20696,20696,802,polygon,TRUE,America/Denver,80401 80403 80419 80402
+Rio Blanco-CO,1840027406,Rio Blanco,Rio Blanco,CO,Rio Blanco-CO,Colorado,8103,Rio Blanco,39.7378,-107.9454,,,1.4,point,FALSE,America/Denver,81641
+Greeley-CO,1840020149,Greeley,Greeley,CO,Greeley-CO,Colorado,8123,Weld,40.415,-104.7697,131900,103990,839,polygon,TRUE,America/Denver,80631 80634 80632 80633 80638 80639
+Bennett-CO,1840020193,Bennett,Bennett,CO,Bennett-CO,Colorado,8001,Adams,39.7366,-104.4286,2488,2488,165,polygon,TRUE,America/Denver,80102
+La Jara-CO,1840021578,La Jara,La Jara,CO,La Jara-CO,Colorado,8021,Conejos,37.2735,-105.9598,798,798,779,polygon,TRUE,America/Denver,81140
+Paonia-CO,1840022472,Paonia,Paonia,CO,Paonia-CO,Colorado,8029,Delta,38.8698,-107.5914,1425,1425,640,polygon,TRUE,America/Denver,81428
+Keenesburg-CO,1840021370,Keenesburg,Keenesburg,CO,Keenesburg-CO,Colorado,8123,Weld,40.1081,-104.5078,1200,1200,207,polygon,TRUE,America/Denver,80643
+Heeney-CO,1840024367,Heeney,Heeney,CO,Heeney-CO,Colorado,8117,Summit,39.871,-106.3,,,44.2,polygon,FALSE,America/Denver,80498
+Florence-CO,1840020250,Florence,Florence,CO,Florence-CO,Colorado,8043,Fremont,38.3821,-105.1117,7431,3943,365,polygon,TRUE,America/Denver,81226 81290
+Parlin-CO,1840028462,Parlin,Parlin,CO,Parlin-CO,Colorado,8051,Gunnison,38.5028,-106.7284,,,7.3,point,FALSE,America/Denver,81239
+Granada-CO,1840021519,Granada,Granada,CO,Granada-CO,Colorado,8099,Prowers,38.063,-102.3118,483,483,264,polygon,TRUE,America/Denver,81041
+Boncarbo-CO,1840028497,Boncarbo,Boncarbo,CO,Boncarbo-CO,Colorado,8071,Las Animas,37.2167,-104.695,,,1.1,point,FALSE,America/Denver,81082
+Cowdrey-CO,1840027365,Cowdrey,Cowdrey,CO,Cowdrey-CO,Colorado,8057,Jackson,40.8597,-106.3131,,,19.2,point,FALSE,America/Denver,80434
+Rye-CO,1840021501,Rye,Rye,CO,Rye-CO,Colorado,8101,Pueblo,37.9213,-104.9323,157,157,637,polygon,TRUE,America/Denver,81069
+Walsenburg-CO,1840021535,Walsenburg,Walsenburg,CO,Walsenburg-CO,Colorado,8055,Huerfano,37.6307,-104.7818,2845,2966,383,polygon,TRUE,America/Denver,81089
+Central City-CO,1840018786,Central City,Central City,CO,Central City-CO,Colorado,8047,Gilpin,39.7964,-105.5151,733,733,115,polygon,TRUE,America/Denver,80427 80422
+San Luis-CO,1840022549,San Luis,San Luis,CO,San Luis-CO,Colorado,8023,Costilla,37.2024,-105.4225,645,645,445,polygon,TRUE,America/Denver,81152
+Tall Timber-CO,1840028522,Tall Timber,Tall Timber,CO,Tall Timber-CO,Colorado,8013,Boulder,40.0151,-105.3498,,,205.1,polygon,FALSE,America/Denver,80302
+Granite-CO,1840028441,Granite,Granite,CO,Granite-CO,Colorado,8015,Chaffee,39.0436,-106.2634,,,1.4,point,FALSE,America/Denver,81211
+Fleming-CO,1840021379,Fleming,Fleming,CO,Fleming-CO,Colorado,8075,Logan,40.6818,-102.8395,400,400,296,polygon,TRUE,America/Denver,80728
+Ellicott-CO,1840026689,Ellicott,Ellicott,CO,Ellicott-CO,Colorado,8041,El Paso,38.8256,-104.3829,,,50.6,polygon,FALSE,America/Denver,80808
+Springfield-CO,1840022551,Springfield,Springfield,CO,Springfield-CO,Colorado,8009,Baca,37.4049,-102.6189,1378,1378,472,polygon,TRUE,America/Denver,81073
+Stonegate-CO,1840028570,Stonegate,Stonegate,CO,Stonegate-CO,Colorado,8035,Douglas,39.5355,-104.8037,,,2570.7,polygon,FALSE,America/Denver,80134
+South Platte-CO,1840027434,South Platte,South Platte,CO,South Platte-CO,Colorado,8059,Jefferson,39.4075,-105.1714,,,2,point,FALSE,America/Denver,80425
+Jansen-CO,1840024761,Jansen,Jansen,CO,Jansen-CO,Colorado,8071,Las Animas,37.1581,-104.5501,,,43.9,polygon,FALSE,America/Denver,81082
+Swink-CO,1840022528,Swink,Swink,CO,Swink-CO,Colorado,8089,Otero,38.0142,-103.628,592,592,864,polygon,TRUE,America/Denver,81050 81077
+Mount Crested Butte-CO,1840022469,Mount Crested Butte,Mount Crested Butte,CO,Mount Crested Butte-CO,Colorado,8051,Gunnison,38.9085,-106.9587,833,833,144,polygon,TRUE,America/Denver,81225
+Sunshine-CO,1840028435,Sunshine,Sunshine,CO,Sunshine-CO,Colorado,8013,Boulder,40.0636,-105.3696,,,68,polygon,FALSE,America/Denver,80302
+Olney Springs-CO,1840022510,Olney Springs,Olney Springs,CO,Olney Springs-CO,Colorado,8025,Crowley,38.1663,-103.9445,332,332,532,polygon,TRUE,America/Denver,81062
+Lay-CO,1840027373,Lay,Lay,CO,Lay-CO,Colorado,8081,Moffat,40.5266,-107.882,,,5,point,FALSE,America/Denver,81625
+Vigil-CO,1840028496,Vigil,Vigil,CO,Vigil-CO,Colorado,8071,Las Animas,37.1611,-104.9417,,,18.5,point,FALSE,America/Denver,81091
+Arapahoe-CO,1840028516,Arapahoe,Arapahoe,CO,Arapahoe-CO,Colorado,8017,Cheyenne,38.85,-102.1821,,,111.3,point,FALSE,America/Denver,80802
+Johnstown-CO,1840021369,Johnstown,Johnstown,CO,Johnstown-CO,Colorado,8123,Weld,40.3491,-104.949,21313,15389,430,polygon,TRUE,America/Denver,80534
+Highlands Ranch-CO,1840028579,Highlands Ranch,Highlands Ranch,CO,Highlands Ranch-CO,Colorado,8035,Douglas,39.5419,-104.9708,,,1368.9,polygon,FALSE,America/Denver,80129 80126 80130
+Northglenn-CO,1840020192,Northglenn,Northglenn,CO,Northglenn-CO,Colorado,8001,Adams,39.9107,-104.9783,38982,38982,2046,polygon,TRUE,America/Denver,80260 80233 80234 80603
+Hillrose-CO,1840021404,Hillrose,Hillrose,CO,Hillrose-CO,Colorado,8087,Morgan,40.3248,-103.5223,250,250,497,polygon,TRUE,America/Denver,80733
+Maysville-CO,1840024588,Maysville,Maysville,CO,Maysville-CO,Colorado,8015,Chaffee,38.5305,-106.2157,,,37.1,polygon,FALSE,America/Denver,81201
+Indian Hills-CO,1840017540,Indian Hills,Indian Hills,CO,Indian Hills-CO,Colorado,8059,Jefferson,39.6294,-105.2508,,,124.4,polygon,FALSE,America/Denver,80465 80454
+Matheson-CO,1840027459,Matheson,Matheson,CO,Matheson-CO,Colorado,8039,Elbert,39.1717,-103.9755,,,30.9,point,FALSE,America/Denver,80830
+Orchard Mesa-CO,1840018811,Orchard Mesa,Orchard Mesa,CO,Orchard Mesa-CO,Colorado,8077,Mesa,39.0365,-108.517,,,1994.1,polygon,FALSE,America/Denver,81503
+Monument-CO,1840022474,Monument,Monument,CO,Monument-CO,Colorado,8041,El Paso,39.0736,-104.8468,6556,6556,374,polygon,TRUE,America/Denver,80132 80921
+Eldora-CO,1840017527,Eldora,Eldora,CO,Eldora-CO,Colorado,8013,Boulder,39.9536,-105.578,,,14.6,polygon,FALSE,America/Denver,80466
+Leyner-CO,1840028437,Leyner,Leyner,CO,Leyner-CO,Colorado,8013,Boulder,40.0511,-105.1073,,,10.4,polygon,FALSE,America/Denver,80026
+Cripple Creek-CO,1840018823,Cripple Creek,Cripple Creek,CO,Cripple Creek-CO,Colorado,8119,Teller,38.7462,-105.1841,1175,1175,295,polygon,TRUE,America/Denver,80813
+Marble-CO,1840022468,Marble,Marble,CO,Marble-CO,Colorado,8051,Gunnison,39.0717,-107.1903,136,136,133,polygon,TRUE,America/Denver,81623
+New Castle-CO,1840022429,New Castle,New Castle,CO,New Castle-CO,Colorado,8045,Garfield,39.5785,-107.5262,5732,4753,690,polygon,TRUE,America/Denver,81647
+Clifton-CO,1840017556,Clifton,Clifton,CO,Clifton-CO,Colorado,8077,Mesa,39.0763,-108.4606,,,1434.6,polygon,FALSE,America/Denver,81520 81504
+Doyleville-CO,1840028544,Doyleville,Doyleville,CO,Doyleville-CO,Colorado,8051,Gunnison,38.4517,-106.6095,,,3.1,point,FALSE,America/Denver,81230
+Gateway-CO,1840010880,Gateway,Gateway,CO,Gateway-CO,Colorado,8077,Mesa,38.6825,-108.9751,,,5.3,point,FALSE,America/Denver,81527
+Hygiene-CO,1840027400,Hygiene,Hygiene,CO,Hygiene-CO,Colorado,8013,Boulder,40.1886,-105.1808,,,38.9,point,FALSE,America/Denver,80503
+Crescent-CO,1840027404,Crescent,Crescent,CO,Crescent-CO,Colorado,8013,Boulder,39.9283,-105.3428,,,23.8,point,FALSE,America/Denver,80403
+Cardiff-CO,1840027408,Cardiff,Cardiff,CO,Cardiff-CO,Colorado,8045,Garfield,39.5061,-107.3109,,,521,point,FALSE,America/Denver,81601
+Empire-CO,1840021432,Empire,Empire,CO,Empire-CO,Colorado,8019,Clear Creek,39.7594,-105.6828,291,291,446,polygon,TRUE,America/Denver,80438
+Wallstreet-CO,1840027401,Wallstreet,Wallstreet,CO,Wallstreet-CO,Colorado,8013,Boulder,40.0389,-105.3908,,,22.2,point,FALSE,America/Denver,80302
+Red Feather Lakes-CO,1840018743,Red Feather Lakes,Red Feather Lakes,CO,Red Feather Lakes-CO,Colorado,8069,Larimer,40.8071,-105.5864,,,33,polygon,FALSE,America/Denver,80545
+Cokedale-CO,1840022545,Cokedale,Cokedale,CO,Cokedale-CO,Colorado,8071,Las Animas,37.1444,-104.6217,118,118,222,polygon,TRUE,America/Denver,81082
+Watkins-CO,1840028451,Watkins,Watkins,CO,Watkins-CO,Colorado,8001,Adams,39.6971,-104.5787,,,58.8,polygon,FALSE,America/Denver,80137

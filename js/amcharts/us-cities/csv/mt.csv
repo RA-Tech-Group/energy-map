@@ -1,0 +1,482 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Savage-MT,1840032680,Savage,Savage,MT,Savage-MT,Montana,30083,Richland,47.4536,-104.3414,,,336.7,polygon,FALSE,America/Denver,59262
+Corbin-MT,1840032713,Corbin,Corbin,MT,Corbin-MT,Montana,30043,Jefferson,46.3805,-112.0619,,,40.8,point,FALSE,America/Denver,59638
+Shelby-MT,1840021062,Shelby,Shelby,MT,Shelby-MT,Montana,30101,Toole,48.5034,-111.8614,2892,3216,214,polygon,TRUE,America/Denver,59474
+Darby-MT,1840021172,Darby,Darby,MT,Darby-MT,Montana,30081,Ravalli,46.0232,-114.1797,763,763,526,polygon,TRUE,America/Denver,59829
+Winnett-MT,1840022303,Winnett,Winnett,MT,Winnett-MT,Montana,30069,Petroleum,47.0043,-108.3466,185,185,70,polygon,TRUE,America/Denver,59087
+Post Creek-MT,1840032664,Post Creek,Post Creek,MT,Post Creek-MT,Montana,30047,Lake,47.3991,-114.0968,,,23.6,point,FALSE,America/Denver,59865
+Klein-MT,1840017378,Klein,Klein,MT,Klein-MT,Montana,30065,Musselshell,46.3983,-108.5525,,,16.4,polygon,FALSE,America/Denver,59072
+Alder-MT,1840017409,Alder,Alder,MT,Alder-MT,Montana,30057,Madison,45.3217,-112.1093,,,65.8,polygon,FALSE,America/Denver,59749 59710
+Big Sky-MT,1840017393,Big Sky,Big Sky,MT,Big Sky-MT,Montana,30031,Gallatin,45.2592,-111.3426,,,3.1,polygon,FALSE,America/Denver,59716 59730
+McAllister-MT,1840032641,McAllister,McAllister,MT,McAllister-MT,Montana,30057,Madison,45.4444,-111.7322,,,16.8,point,FALSE,America/Denver,59740
+Shirley-MT,1840032683,Shirley,Shirley,MT,Shirley-MT,Montana,30017,Custer,46.5914,-105.58,,,1.3,point,FALSE,America/Denver,59301
+Waterloo-MT,1840032767,Waterloo,Waterloo,MT,Waterloo-MT,Montana,30057,Madison,45.7219,-112.1922,,,9.4,point,FALSE,America/Denver,59759
+Three Forks-MT,1840021184,Three Forks,Three Forks,MT,Three Forks-MT,Montana,30031,Gallatin,45.89,-111.5524,1944,1944,523,polygon,TRUE,America/Denver,59752
+Antelope-MT,1840017309,Antelope,Antelope,MT,Antelope-MT,Montana,30091,Sheridan,48.6898,-104.4541,,,63.4,polygon,FALSE,America/Denver,59211
+Poplar-MT,1840019775,Poplar,Poplar,MT,Poplar-MT,Montana,30085,Roosevelt,48.1106,-105.1971,2891,854,1202,polygon,TRUE,America/Denver,59255
+Wolf Point-MT,1840021071,Wolf Point,Wolf Point,MT,Wolf Point-MT,Montana,30085,Roosevelt,48.0934,-105.6413,3790,2806,1264,polygon,TRUE,America/Denver,59201
+Stryker-MT,1840023747,Stryker,Stryker,MT,Stryker-MT,Montana,30053,Lincoln,48.6728,-114.7677,,,31.6,polygon,FALSE,America/Denver,59933
+Saco-MT,1840021049,Saco,Saco,MT,Saco-MT,Montana,30071,Phillips,48.4571,-107.3414,197,197,250,polygon,TRUE,America/Denver,59261
+Heart Butte-MT,1840017316,Heart Butte,Heart Butte,MT,Heart Butte-MT,Montana,30073,Pondera,48.2905,-112.8363,,,68,polygon,FALSE,America/Denver,59448
+Rockvale-MT,1840032674,Rockvale,Rockvale,MT,Rockvale-MT,Montana,30009,Carbon,45.5224,-108.8618,,,19.2,point,FALSE,America/Denver,59041
+Flatwillow-MT,1840032598,Flatwillow,Flatwillow,MT,Flatwillow-MT,Montana,30069,Petroleum,46.8319,-108.4001,,,4.5,point,FALSE,America/Denver,59087
+Kinsey-MT,1840032622,Kinsey,Kinsey,MT,Kinsey-MT,Montana,30017,Custer,46.5708,-105.6569,,,14.7,point,FALSE,America/Denver,59338
+Kevin-MT,1840021063,Kevin,Kevin,MT,Kevin-MT,Montana,30101,Toole,48.7457,-111.9655,138,138,147,polygon,TRUE,America/Denver,59454
+Hobson-MT,1840019850,Hobson,Hobson,MT,Hobson-MT,Montana,30045,Judith Basin,46.9996,-109.8732,218,218,394,polygon,TRUE,America/Denver,59452
+Gilman-MT,1840032775,Gilman,Gilman,MT,Gilman-MT,Montana,30049,Lewis and Clark,47.5091,-112.3653,,,10.8,point,FALSE,America/Denver,59410
+Geyser-MT,1840026099,Geyser,Geyser,MT,Geyser-MT,Montana,30045,Judith Basin,47.2633,-110.4927,,,80.6,polygon,FALSE,America/Denver,59447
+Fort Belknap Agency-MT,1840017305,Fort Belknap Agency,Fort Belknap Agency,MT,Fort Belknap Agency-MT,Montana,30005,Blaine,48.4278,-108.6829,,,377.2,polygon,FALSE,America/Denver,59526
+Jardine-MT,1840026103,Jardine,Jardine,MT,Jardine-MT,Montana,30067,Park,45.0565,-110.6186,,,6,polygon,FALSE,America/Denver,59030
+Hingham-MT,1840021054,Hingham,Hingham,MT,Hingham-MT,Montana,30041,Hill,48.5554,-110.4213,122,122,275,polygon,TRUE,America/Denver,59528
+Monarch-MT,1840032746,Monarch,Monarch,MT,Monarch-MT,Montana,30013,Cascade,47.0983,-110.8386,,,15.4,point,FALSE,America/Denver,59463
+Augusta-MT,1840017335,Augusta,Augusta,MT,Augusta-MT,Montana,30049,Lewis and Clark,47.4893,-112.3922,,,179.1,polygon,FALSE,America/Denver,59410
+Townsend-MT,1840021165,Townsend,Townsend,MT,Townsend-MT,Montana,30007,Broadwater,46.3192,-111.5197,1978,1978,505,polygon,TRUE,America/Denver,59644
+Pendroy-MT,1840032662,Pendroy,Pendroy,MT,Pendroy-MT,Montana,30099,Teton,48.0736,-112.2989,,,10.6,point,FALSE,America/Denver,59467
+Cushman-MT,1840032584,Cushman,Cushman,MT,Cushman-MT,Montana,30037,Golden Valley,46.2883,-109.0427,,,2.6,point,FALSE,America/Denver,59046
+Rapelje-MT,1840032667,Rapelje,Rapelje,MT,Rapelje-MT,Montana,30095,Stillwater,45.9719,-109.2552,,,34.2,point,FALSE,America/Denver,59067
+Birney-MT,1840017372,Birney,Birney,MT,Birney-MT,Montana,30087,Rosebud,45.4155,-106.4933,,,4.2,polygon,FALSE,America/Denver,59043 59012
+Hamilton-MT,1840019896,Hamilton,Hamilton,MT,Hamilton-MT,Montana,30081,Ravalli,46.2524,-114.1598,6646,4674,736,polygon,TRUE,America/Denver,59840
+Sedan-MT,1840023882,Sedan,Sedan,MT,Sedan-MT,Montana,30031,Gallatin,45.9653,-110.8888,,,0.7,polygon,FALSE,America/Denver,59086 59715
+Butte-MT,1840032850,Butte,Butte,MT,Butte-MT,Montana,30093,Silver Bow,45.902,-112.6571,30584,33853,18,polygon,TRUE,America/Denver,59748 59743 59727 59759 59750 59701 59703 59702 59707
+Lonepine-MT,1840017327,Lonepine,Lonepine,MT,Lonepine-MT,Montana,30089,Sanders,47.6946,-114.6408,,,20.2,polygon,FALSE,America/Denver,59848 59845
+Saltese-MT,1840032810,Saltese,Saltese,MT,Saltese-MT,Montana,30061,Mineral,47.4102,-115.5096,,,10.9,point,FALSE,America/Denver,59867
+Fallon-MT,1840017367,Fallon,Fallon,MT,Fallon-MT,Montana,30079,Prairie,46.8373,-105.127,,,164.8,polygon,FALSE,America/Denver,59326 59349
+Huntley-MT,1840017390,Huntley,Huntley,MT,Huntley-MT,Montana,30111,Yellowstone,45.8996,-108.3052,,,117.9,polygon,FALSE,America/Denver,59037
+Missoula-MT,1840019840,Missoula,Missoula,MT,Missoula-MT,Montana,30063,Missoula,46.8687,-114.0089,89017,72364,966,polygon,TRUE,America/Denver,59808 59803 59802 59801 59812
+Whitetail-MT,1840032770,Whitetail,Whitetail,MT,Whitetail-MT,Montana,30019,Daniels,48.895,-105.1633,,,23.2,point,FALSE,America/Denver,59276
+Fort Benton-MT,1840019783,Fort Benton,Fort Benton,MT,Fort Benton-MT,Montana,30015,Chouteau,47.8291,-110.6557,1456,1456,245,polygon,TRUE,America/Denver,59442
+Windham-MT,1840032707,Windham,Windham,MT,Windham-MT,Montana,30045,Judith Basin,47.0786,-110.1405,,,26.6,point,FALSE,America/Denver,59479
+Bear Dance-MT,1840023782,Bear Dance,Bear Dance,MT,Bear Dance-MT,Montana,30047,Lake,47.9019,-114.0273,,,29.1,polygon,FALSE,America/Denver,59860 59911
+Charlo-MT,1840017332,Charlo,Charlo,MT,Charlo-MT,Montana,30047,Lake,47.4427,-114.1716,,,312.3,polygon,FALSE,America/Denver,59824
+Hinsdale-MT,1840023737,Hinsdale,Hinsdale,MT,Hinsdale-MT,Montana,30105,Valley,48.4036,-107.0582,,,220.1,polygon,FALSE,America/Denver,59241
+Fromberg-MT,1840021215,Fromberg,Fromberg,MT,Fromberg-MT,Montana,30009,Carbon,45.3921,-108.9067,445,445,387,polygon,TRUE,America/Denver,59029
+Boyes-MT,1840032796,Boyes,Boyes,MT,Boyes-MT,Montana,30011,Carter,45.268,-105.0311,,,2.9,point,FALSE,America/Denver,59332
+Lohman-MT,1840032636,Lohman,Lohman,MT,Lohman-MT,Montana,30005,Blaine,48.5897,-109.4052,,,1.8,point,FALSE,America/Denver,59523
+Dean-MT,1840032717,Dean,Dean,MT,Dean-MT,Montana,30095,Stillwater,45.4047,-109.6905,,,1.7,point,FALSE,America/Denver,59028
+Stevensville-MT,1840022324,Stevensville,Stevensville,MT,Stevensville-MT,Montana,30081,Ravalli,46.5068,-114.0852,1963,1963,753,polygon,TRUE,America/Denver,59870
+Froid-MT,1840021073,Froid,Froid,MT,Froid-MT,Montana,30085,Roosevelt,48.3352,-104.4919,201,201,272,polygon,TRUE,America/Denver,59226
+Bainville-MT,1840019776,Bainville,Bainville,MT,Bainville-MT,Montana,30085,Roosevelt,48.1394,-104.2197,314,314,120,polygon,TRUE,America/Denver,59212
+Hardy-MT,1840032610,Hardy,Hardy,MT,Hardy-MT,Montana,30013,Cascade,47.1863,-111.8058,,,9.3,point,FALSE,America/Denver,59421
+Rexford-MT,1840021051,Rexford,Rexford,MT,Rexford-MT,Montana,30053,Lincoln,48.8997,-115.1716,151,151,689,polygon,TRUE,America/Denver,59930
+Fort Peck-MT,1840021046,Fort Peck,Fort Peck,MT,Fort Peck-MT,Montana,30105,Valley,48.007,-106.4553,247,247,106,polygon,TRUE,America/Denver,59223 59248
+Victor-MT,1840018484,Victor,Victor,MT,Victor-MT,Montana,30081,Ravalli,46.4161,-114.1493,,,347.9,polygon,FALSE,America/Denver,59875
+Muddy-MT,1840018530,Muddy,Muddy,MT,Muddy-MT,Montana,30003,Big Horn,45.5798,-106.7754,,,5.3,polygon,FALSE,America/Denver,59043
+Sangrey-MT,1840032853,Sangrey,Sangrey,MT,Sangrey-MT,Montana,30041,Hill,48.2816,-109.8166,,,30.9,polygon,FALSE,America/Denver,59521
+Cut Bank-MT,1840018354,Cut Bank,Cut Bank,MT,Cut Bank-MT,Montana,30035,Glacier,48.6345,-112.3304,3020,3012,1005,polygon,TRUE,America/Denver,59427
+Alberton-MT,1840021125,Alberton,Alberton,MT,Alberton-MT,Montana,30061,Mineral,47.0037,-114.4817,417,417,294,polygon,TRUE,America/Denver,59820
+Willow Creek-MT,1840018507,Willow Creek,Willow Creek,MT,Willow Creek-MT,Montana,30031,Gallatin,45.8179,-111.6402,,,143.6,polygon,FALSE,America/Denver,59752 59760
+Basin-MT,1840017386,Basin,Basin,MT,Basin-MT,Montana,30043,Jefferson,46.2834,-112.2871,,,167,polygon,FALSE,America/Denver,59631
+Lockwood-MT,1840018492,Lockwood,Lockwood,MT,Lockwood-MT,Montana,30111,Yellowstone,45.8201,-108.4071,,,68.2,polygon,FALSE,America/Denver,59101
+Sanders-MT,1840032678,Sanders,Sanders,MT,Sanders-MT,Montana,30103,Treasure,46.2914,-107.0967,,,2.6,point,FALSE,America/Denver,59076
+Columbus-MT,1840022332,Columbus,Columbus,MT,Columbus-MT,Montana,30095,Stillwater,45.636,-109.2488,2028,2028,570,polygon,TRUE,America/Denver,59019
+Bighorn-MT,1840032792,Bighorn,Bighorn,MT,Bighorn-MT,Montana,30103,Treasure,46.1617,-107.4487,,,1.2,point,FALSE,America/Denver,59010
+Radersburg-MT,1840018473,Radersburg,Radersburg,MT,Radersburg-MT,Montana,30007,Broadwater,46.1964,-111.6315,,,92.6,polygon,FALSE,America/Denver,59643 59641
+Beaver Creek-MT,1840032827,Beaver Creek,Beaver Creek,MT,Beaver Creek-MT,Montana,30041,Hill,48.5437,-109.8068,,,41,polygon,FALSE,America/Denver,59501
+De Borgia-MT,1840018449,De Borgia,De Borgia,MT,De Borgia-MT,Montana,30061,Mineral,47.3794,-115.3186,,,20.4,polygon,FALSE,America/Denver,59830
+Ravalli-MT,1840018395,Ravalli,Ravalli,MT,Ravalli-MT,Montana,30047,Lake,47.2799,-114.1658,,,15.6,polygon,FALSE,America/Denver,59863
+Hysham-MT,1840021178,Hysham,Hysham,MT,Hysham-MT,Montana,30103,Treasure,46.2909,-107.2305,301,301,531,polygon,TRUE,America/Denver,59038
+Red Rock-MT,1840032669,Red Rock,Red Rock,MT,Red Rock-MT,Montana,30001,Beaverhead,44.9005,-112.8189,,,1,point,FALSE,America/Denver,59725
+Chinook-MT,1840018358,Chinook,Chinook,MT,Chinook-MT,Montana,30005,Blaine,48.5901,-109.2318,1233,1233,911,polygon,TRUE,America/Denver,59523
+Dodson-MT,1840021048,Dodson,Dodson,MT,Dodson-MT,Montana,30071,Phillips,48.3953,-108.2472,124,124,288,polygon,TRUE,America/Denver,59524
+West Glendive-MT,1840032841,West Glendive,West Glendive,MT,West Glendive-MT,Montana,30021,Dawson,47.1056,-104.754,,,238.2,polygon,FALSE,America/Denver,59330
+Culbertson-MT,1840021072,Culbertson,Culbertson,MT,Culbertson-MT,Montana,30085,Roosevelt,48.1474,-104.5155,804,804,600,polygon,TRUE,America/Denver,59218
+Elliston-MT,1840017352,Elliston,Elliston,MT,Elliston-MT,Montana,30077,Powell,46.5587,-112.464,,,81.4,polygon,FALSE,America/Denver,59728
+Snider-MT,1840032763,Snider,Snider,MT,Snider-MT,Montana,30089,Sanders,47.6038,-115.2185,,,1.9,point,FALSE,America/Denver,59873
+Turtle Lake-MT,1840032840,Turtle Lake,Turtle Lake,MT,Turtle Lake-MT,Montana,30047,Lake,47.6696,-114.0818,,,330.3,polygon,FALSE,America/Denver,59860
+Box Elder-MT,1840032795,Box Elder,Box Elder,MT,Box Elder-MT,Montana,30041,Hill,48.323,-110.0177,,,69.7,polygon,FALSE,America/Denver,59521
+Utica-MT,1840032694,Utica,Utica,MT,Utica-MT,Montana,30045,Judith Basin,46.9683,-110.0924,,,4.4,point,FALSE,America/Denver,59452
+Denton-MT,1840021112,Denton,Denton,MT,Denton-MT,Montana,30027,Fergus,47.3222,-109.9481,247,247,133,polygon,TRUE,America/Denver,59430
+Gallatin Gateway-MT,1840023880,Gallatin Gateway,Gallatin Gateway,MT,Gallatin Gateway-MT,Montana,30031,Gallatin,45.5899,-111.1953,,,65.3,polygon,FALSE,America/Denver,59730 59718
+Martinsdale-MT,1840023858,Martinsdale,Martinsdale,MT,Martinsdale-MT,Montana,30059,Meagher,46.4548,-110.312,,,52.5,polygon,FALSE,America/Denver,59053
+East Missoula-MT,1840018434,East Missoula,East Missoula,MT,East Missoula-MT,Montana,30063,Missoula,46.8802,-113.9398,,,968.6,polygon,FALSE,America/Denver,59802
+Galata-MT,1840032603,Galata,Galata,MT,Galata-MT,Montana,30101,Toole,48.4755,-111.3522,,,2.2,point,FALSE,America/Denver,59444
+Wyola-MT,1840018533,Wyola,Wyola,MT,Wyola-MT,Montana,30003,Big Horn,45.1154,-107.3738,,,175,polygon,FALSE,America/Denver,59089
+Condon-MT,1840023812,Condon,Condon,MT,Condon-MT,Montana,30063,Missoula,47.5225,-113.6987,,,13.5,polygon,FALSE,America/Denver,59826
+Broadview-MT,1840021177,Broadview,Broadview,MT,Broadview-MT,Montana,30111,Yellowstone,46.0988,-108.8789,193,193,284,polygon,TRUE,America/Denver,59015
+Glasgow-MT,1840019754,Glasgow,Glasgow,MT,Glasgow-MT,Montana,30105,Valley,48.1989,-106.6321,3417,3364,925,polygon,TRUE,America/Denver,59230
+South Glastonbury-MT,1840032854,South Glastonbury,South Glastonbury,MT,South Glastonbury-MT,Montana,30067,Park,45.3119,-110.8076,,,29.2,polygon,FALSE,America/Denver,59027 59065
+Colstrip-MT,1840018466,Colstrip,Colstrip,MT,Colstrip-MT,Montana,30087,Rosebud,45.8943,-106.628,2311,2311,220,polygon,TRUE,America/Denver,59327 59323
+Raymond-MT,1840032668,Raymond,Raymond,MT,Raymond-MT,Montana,30091,Sheridan,48.8764,-104.5802,,,12.3,point,FALSE,America/Denver,59256
+Haugan-MT,1840032729,Haugan,Haugan,MT,Haugan-MT,Montana,30061,Mineral,47.3833,-115.3996,,,4.9,point,FALSE,America/Denver,59842
+Dell-MT,1840032718,Dell,Dell,MT,Dell-MT,Montana,30001,Beaverhead,44.723,-112.6972,,,10.3,point,FALSE,America/Denver,59724
+Harlowton-MT,1840019886,Harlowton,Harlowton,MT,Harlowton-MT,Montana,30107,Wheatland,46.4367,-109.835,984,984,607,polygon,TRUE,America/Denver,59036
+Jordan-MT,1840021101,Jordan,Jordan,MT,Jordan-MT,Montana,30033,Garfield,47.321,-106.9097,399,399,441,polygon,TRUE,America/Denver,59337
+Joliet-MT,1840021216,Joliet,Joliet,MT,Joliet-MT,Montana,30009,Carbon,45.4845,-108.9721,640,640,900,polygon,TRUE,America/Denver,59041
+Opportunity-MT,1840032749,Opportunity,Opportunity,MT,Opportunity-MT,Montana,30023,Deer Lodge,46.1071,-112.8281,,,144.4,point,FALSE,America/Denver,59711
+King Arthur Park-MT,1840032824,King Arthur Park,King Arthur Park,MT,King Arthur Park-MT,Montana,30031,Gallatin,45.667,-111.1254,,,1044.8,polygon,FALSE,America/Denver,59718
+Elkhorn-MT,1840023872,Elkhorn,Elkhorn,MT,Elkhorn-MT,Montana,30043,Jefferson,46.2843,-111.9488,,,5.2,polygon,FALSE,America/Denver,59632
+Hanover-MT,1840032609,Hanover,Hanover,MT,Hanover-MT,Montana,30027,Fergus,47.1214,-109.5546,,,1,point,FALSE,America/Denver,59457
+Intake-MT,1840032621,Intake,Intake,MT,Intake-MT,Montana,30021,Dawson,47.2939,-104.5219,,,1.6,point,FALSE,America/Denver,59330
+Richey-MT,1840021114,Richey,Richey,MT,Richey-MT,Montana,30021,Dawson,47.6439,-105.0696,187,187,280,polygon,TRUE,America/Denver,59259
+Rocky Boy's Agency-MT,1840018355,Rocky Boy's Agency,Rocky Boy's Agency,MT,Rocky Boy's Agency-MT,Montana,30041,Hill,48.2561,-109.7883,,,95.4,point,FALSE,America/Denver,59521
+Janney-MT,1840032733,Janney,Janney,MT,Janney-MT,Montana,30093,Silver Bow,45.9094,-112.4953,,,30.8,point,FALSE,America/Denver,59701
+Churchill-MT,1840026102,Churchill,Churchill,MT,Churchill-MT,Montana,30031,Gallatin,45.75,-111.3102,,,254,polygon,FALSE,America/Denver,59741
+Plevna-MT,1840021169,Plevna,Plevna,MT,Plevna-MT,Montana,30025,Fallon,46.4184,-104.5186,176,176,115,polygon,TRUE,America/Denver,59344
+Belgrade-MT,1840018508,Belgrade,Belgrade,MT,Belgrade-MT,Montana,30031,Gallatin,45.7822,-111.1757,15411,8254,933,polygon,TRUE,America/Denver,59714
+Dillon-MT,1840018539,Dillon,Dillon,MT,Dillon-MT,Montana,30001,Beaverhead,45.2177,-112.6348,4745,4257,926,polygon,TRUE,America/Denver,59725
+Nashua-MT,1840022266,Nashua,Nashua,MT,Nashua-MT,Montana,30105,Valley,48.1336,-106.3571,290,290,158,polygon,TRUE,America/Denver,59248
+Molt-MT,1840032649,Molt,Molt,MT,Molt-MT,Montana,30095,Stillwater,45.8613,-108.9279,,,10.5,point,FALSE,America/Denver,59057
+Evaro-MT,1840017348,Evaro,Evaro,MT,Evaro-MT,Montana,30063,Missoula,47.0737,-114.0205,,,5.7,polygon,FALSE,America/Denver,59821 59808
+West Riverside-MT,1840032768,West Riverside,West Riverside,MT,West Riverside-MT,Montana,30063,Missoula,46.8771,-113.8898,,,865.9,point,FALSE,America/Denver,59808
+Logan-MT,1840023881,Logan,Logan,MT,Logan-MT,Montana,30031,Gallatin,45.8843,-111.4236,,,135.6,polygon,FALSE,America/Denver,59741
+Blackfoot-MT,1840032793,Blackfoot,Blackfoot,MT,Blackfoot-MT,Montana,30035,Glacier,48.5753,-112.8767,,,1.8,point,FALSE,America/Denver,59417
+Raynesford-MT,1840032759,Raynesford,Raynesford,MT,Raynesford-MT,Montana,30045,Judith Basin,47.27,-110.7299,,,49.6,point,FALSE,America/Denver,59469
+Orchard Homes-MT,1840032750,Orchard Homes,Orchard Homes,MT,Orchard Homes-MT,Montana,30063,Missoula,46.8561,-114.0768,,,660.2,polygon,FALSE,America/Denver,59804
+Broadwater-MT,1840032774,Broadwater,Broadwater,MT,Broadwater-MT,Montana,30049,Lewis and Clark,46.6035,-112.0867,,,240,point,FALSE,America/Denver,59601
+Fortine-MT,1840017301,Fortine,Fortine,MT,Fortine-MT,Montana,30053,Lincoln,48.7723,-114.9008,,,58.6,polygon,FALSE,America/Denver,59918 59934
+Dixon-MT,1840018381,Dixon,Dixon,MT,Dixon-MT,Montana,30089,Sanders,47.3172,-114.3569,,,133.5,polygon,FALSE,America/Denver,59831
+Gildford-MT,1840017302,Gildford,Gildford,MT,Gildford-MT,Montana,30041,Hill,48.5823,-110.2736,,,126.7,polygon,FALSE,America/Denver,59525
+Hedgesville-MT,1840032612,Hedgesville,Hedgesville,MT,Hedgesville-MT,Montana,30107,Wheatland,46.4566,-109.5027,,,1.4,point,FALSE,America/Denver,59078
+Turah-MT,1840023815,Turah,Turah,MT,Turah-MT,Montana,30063,Missoula,46.84,-113.8252,,,143.8,polygon,FALSE,America/Denver,59825 59802
+West Yellowstone-MT,1840022329,West Yellowstone,West Yellowstone,MT,West Yellowstone-MT,Montana,30031,Gallatin,44.6628,-111.1058,1353,1353,666,polygon,TRUE,America/Denver,59758
+White Pine-MT,1840032769,White Pine,White Pine,MT,White Pine-MT,Montana,30089,Sanders,47.7435,-115.4824,,,16.5,point,FALSE,America/Denver,59874
+Niarada-MT,1840018382,Niarada,Niarada,MT,Niarada-MT,Montana,30029,Flathead,47.8309,-114.5578,,,2,polygon,FALSE,America/Denver,59845
+Montague-MT,1840032650,Montague,Montague,MT,Montague-MT,Montana,30015,Chouteau,47.6791,-110.4541,,,3.5,point,FALSE,America/Denver,59442
+Barber-MT,1840032578,Barber,Barber,MT,Barber-MT,Montana,30037,Golden Valley,46.3133,-109.3852,,,2.4,point,FALSE,America/Denver,59074
+Glentana-MT,1840032606,Glentana,Glentana,MT,Glentana-MT,Montana,30105,Valley,48.8481,-106.2495,,,9.5,point,FALSE,America/Denver,59240
+Lewistown Heights-MT,1840032835,Lewistown Heights,Lewistown Heights,MT,Lewistown Heights-MT,Montana,30027,Fergus,47.0784,-109.4736,,,212,polygon,FALSE,America/Denver,59457
+Avon-MT,1840017351,Avon,Avon,MT,Avon-MT,Montana,30077,Powell,46.6264,-112.582,,,6.4,polygon,FALSE,America/Denver,59713
+Grantsdale-MT,1840032725,Grantsdale,Grantsdale,MT,Grantsdale-MT,Montana,30081,Ravalli,46.2035,-114.1418,,,262.9,point,FALSE,America/Denver,59840
+Seeley Lake-MT,1840018435,Seeley Lake,Seeley Lake,MT,Seeley Lake-MT,Montana,30063,Missoula,47.1614,-113.4525,,,82.6,polygon,FALSE,America/Denver,59868
+Fairview-MT,1840021086,Fairview,Fairview,MT,Fairview-MT,Montana,30083,Richland,47.852,-104.051,922,922,444,polygon,TRUE,America/Denver,59221
+Loma-MT,1840017321,Loma,Loma,MT,Loma-MT,Montana,30015,Chouteau,47.9512,-110.4887,,,135.5,polygon,FALSE,America/Denver,59460
+West Havre-MT,1840032842,West Havre,West Havre,MT,West Havre-MT,Montana,30041,Hill,48.547,-109.7311,,,53.4,polygon,FALSE,America/Denver,59501
+Pryor-MT,1840018531,Pryor,Pryor,MT,Pryor-MT,Montana,30003,Big Horn,45.4125,-108.5291,,,233.3,polygon,FALSE,America/Denver,59066
+Eureka-MT,1840021052,Eureka,Eureka,MT,Eureka-MT,Montana,30053,Lincoln,48.876,-115.0475,1086,1086,405,polygon,TRUE,America/Denver,59917
+Saint Marie-MT,1840018348,Saint Marie,Saint Marie,MT,Saint Marie-MT,Montana,30105,Valley,48.4053,-106.4986,,,14.7,polygon,FALSE,America/Denver,59230 59231
+Ismay-MT,1840021159,Ismay,Ismay,MT,Ismay-MT,Montana,30017,Custer,46.5002,-104.7929,21,21,19,polygon,TRUE,America/Denver,59336
+Arlee-MT,1840017330,Arlee,Arlee,MT,Arlee-MT,Montana,30047,Lake,47.1679,-114.0838,,,254.9,polygon,FALSE,America/Denver,59821
+Wagner-MT,1840032701,Wagner,Wagner,MT,Wagner-MT,Montana,30071,Phillips,48.3706,-108.0776,,,11.4,point,FALSE,America/Denver,59538
+Ingomar-MT,1840032620,Ingomar,Ingomar,MT,Ingomar-MT,Montana,30087,Rosebud,46.5767,-107.3723,,,4.1,point,FALSE,America/Denver,59039
+Deer Lodge-MT,1840018437,Deer Lodge,Deer Lodge,MT,Deer Lodge-MT,Montana,30077,Powell,46.3977,-112.7329,3095,2994,796,polygon,TRUE,America/Denver,59722
+Canyon Creek-MT,1840032814,Canyon Creek,Canyon Creek,MT,Canyon Creek-MT,Montana,30049,Lewis and Clark,46.8055,-112.2645,,,3.6,point,FALSE,America/Denver,59633
+White Sulphur Springs-MT,1840021157,White Sulphur Springs,White Sulphur Springs,MT,White Sulphur Springs-MT,Montana,30059,Meagher,46.5452,-110.9039,908,908,352,polygon,TRUE,America/Denver,59645
+Bigfork-MT,1840017296,Bigfork,Bigfork,MT,Bigfork-MT,Montana,30029,Flathead,48.0852,-114.0551,,,244.7,polygon,FALSE,America/Denver,59911
+Superior-MT,1840022305,Superior,Superior,MT,Superior-MT,Montana,30061,Mineral,47.1935,-114.892,826,826,333,polygon,TRUE,America/Denver,59872
+Black Eagle-MT,1840017345,Black Eagle,Black Eagle,MT,Black Eagle-MT,Montana,30013,Cascade,47.527,-111.2669,,,569.3,polygon,FALSE,America/Denver,59414
+Highwood-MT,1840017322,Highwood,Highwood,MT,Highwood-MT,Montana,30015,Chouteau,47.5992,-110.7676,,,44.1,polygon,FALSE,America/Denver,59450
+Kalispell-MT,1840018350,Kalispell,Kalispell,MT,Kalispell-MT,Montana,30029,Flathead,48.2155,-114.3262,36304,22761,742,polygon,TRUE,America/Denver,59901 59904
+Saint Pierre-MT,1840032852,Saint Pierre,Saint Pierre,MT,Saint Pierre-MT,Montana,30041,Hill,48.2439,-109.8161,,,17.8,polygon,FALSE,America/Denver,59521
+Goldcreek-MT,1840032724,Goldcreek,Goldcreek,MT,Goldcreek-MT,Montana,30077,Powell,46.5866,-112.9287,,,2,point,FALSE,America/Denver,59733
+Laredo-MT,1840032630,Laredo,Laredo,MT,Laredo-MT,Montana,30041,Hill,48.4314,-109.8833,,,10.3,point,FALSE,America/Denver,59501
+Evergreen-MT,1840017297,Evergreen,Evergreen,MT,Evergreen-MT,Montana,30029,Flathead,48.2309,-114.27,,,1318.3,polygon,FALSE,America/Denver,59901
+Shepherd-MT,1840018494,Shepherd,Shepherd,MT,Shepherd-MT,Montana,30111,Yellowstone,45.9469,-108.3463,,,159.6,polygon,FALSE,America/Denver,59079
+Gibson Flats-MT,1840023804,Gibson Flats,Gibson Flats,MT,Gibson Flats-MT,Montana,30013,Cascade,47.465,-111.2429,,,23,polygon,FALSE,America/Denver,59405
+Babb-MT,1840023752,Babb,Babb,MT,Babb-MT,Montana,30035,Glacier,48.8777,-113.4408,,,3.5,polygon,FALSE,America/Denver,59411
+Holt-MT,1840032803,Holt,Holt,MT,Holt-MT,Montana,30029,Flathead,48.0822,-114.1098,,,56.1,point,FALSE,America/Denver,59911
+White Haven-MT,1840023750,White Haven,White Haven,MT,White Haven-MT,Montana,30053,Lincoln,48.3478,-115.516,,,357.6,polygon,FALSE,America/Denver,59923
+Hot Springs-MT,1840021084,Hot Springs,Hot Springs,MT,Hot Springs-MT,Montana,30089,Sanders,47.609,-114.6702,557,557,560,polygon,TRUE,America/Denver,59845
+Hogeland-MT,1840032616,Hogeland,Hogeland,MT,Hogeland-MT,Montana,30005,Blaine,48.8525,-108.6588,,,6.6,point,FALSE,America/Denver,59529
+Creston-MT,1840032715,Creston,Creston,MT,Creston-MT,Montana,30029,Flathead,48.1894,-114.1373,,,43.6,point,FALSE,America/Denver,59901
+Broadus-MT,1840021202,Broadus,Broadus,MT,Broadus-MT,Montana,30075,Powder River,45.4434,-105.4084,481,481,529,polygon,TRUE,America/Denver,59317
+Bynum-MT,1840023781,Bynum,Bynum,MT,Bynum-MT,Montana,30099,Teton,47.9681,-112.3165,,,37.7,polygon,FALSE,America/Denver,59419
+Lambert-MT,1840032628,Lambert,Lambert,MT,Lambert-MT,Montana,30083,Richland,47.6836,-104.6208,,,106.7,point,FALSE,America/Denver,59243
+Kila-MT,1840023738,Kila,Kila,MT,Kila-MT,Montana,30029,Flathead,48.1215,-114.4768,,,56.4,polygon,FALSE,America/Denver,59920
+Sand Coulee-MT,1840023805,Sand Coulee,Sand Coulee,MT,Sand Coulee-MT,Montana,30013,Cascade,47.4026,-111.172,,,109.4,polygon,FALSE,America/Denver,59472
+Buffalo-MT,1840032580,Buffalo,Buffalo,MT,Buffalo-MT,Montana,30027,Fergus,46.8211,-109.8285,,,9.1,point,FALSE,America/Denver,59418
+Trout Creek-MT,1840018386,Trout Creek,Trout Creek,MT,Trout Creek-MT,Montana,30089,Sanders,47.8331,-115.5836,,,163.8,polygon,FALSE,America/Denver,59874
+Maxville-MT,1840023861,Maxville,Maxville,MT,Maxville-MT,Montana,30039,Granite,46.4759,-113.2355,,,28.1,polygon,FALSE,America/Denver,59837
+Outlook-MT,1840022281,Outlook,Outlook,MT,Outlook-MT,Montana,30091,Sheridan,48.8888,-104.7849,52,52,16,polygon,TRUE,America/Denver,59252 59254
+Clinton-MT,1840017347,Clinton,Clinton,MT,Clinton-MT,Montana,30063,Missoula,46.7718,-113.717,,,177.2,polygon,FALSE,America/Denver,59825
+Piltzville-MT,1840023814,Piltzville,Piltzville,MT,Piltzville-MT,Montana,30063,Missoula,46.8575,-113.8586,,,253.9,polygon,FALSE,America/Denver,59802
+Judith Gap-MT,1840018477,Judith Gap,Judith Gap,MT,Judith Gap-MT,Montana,30107,Wheatland,46.6791,-109.7534,123,123,142,polygon,TRUE,America/Denver,59453
+Batavia-MT,1840032772,Batavia,Batavia,MT,Batavia-MT,Montana,30029,Flathead,48.1779,-114.4108,,,82.1,polygon,FALSE,America/Denver,59901
+Zortman-MT,1840023744,Zortman,Zortman,MT,Zortman-MT,Montana,30071,Phillips,47.9167,-108.5091,,,12.1,polygon,FALSE,America/Denver,59546
+Noxon-MT,1840018383,Noxon,Noxon,MT,Noxon-MT,Montana,30089,Sanders,47.9848,-115.7705,,,186,polygon,FALSE,America/Denver,59853
+Bridger-MT,1840021214,Bridger,Bridger,MT,Bridger-MT,Montana,30009,Carbon,45.2946,-108.9167,732,732,355,polygon,TRUE,America/Denver,59014
+Helmville-MT,1840032731,Helmville,Helmville,MT,Helmville-MT,Montana,30077,Powell,46.8666,-112.9612,,,9,point,FALSE,America/Denver,59843
+Tarkio-MT,1840032765,Tarkio,Tarkio,MT,Tarkio-MT,Montana,30061,Mineral,47.0213,-114.739,,,3.5,point,FALSE,America/Denver,59872
+Flaxville-MT,1840021056,Flaxville,Flaxville,MT,Flaxville-MT,Montana,30019,Daniels,48.8045,-105.1735,71,71,349,polygon,TRUE,America/Denver,59222
+Wibaux-MT,1840022311,Wibaux,Wibaux,MT,Wibaux-MT,Montana,30109,Wibaux,46.9865,-104.19,649,649,233,polygon,TRUE,America/Denver,59353
+Garrison-MT,1840017353,Garrison,Garrison,MT,Garrison-MT,Montana,30077,Powell,46.5258,-112.8205,,,17.5,polygon,FALSE,America/Denver,59731
+Proctor-MT,1840032756,Proctor,Proctor,MT,Proctor-MT,Montana,30047,Lake,47.8924,-114.3054,,,17,point,FALSE,America/Denver,59929
+Peerless-MT,1840032661,Peerless,Peerless,MT,Peerless-MT,Montana,30019,Daniels,48.7825,-105.8311,,,15.5,point,FALSE,America/Denver,59253
+Clancy-MT,1840017385,Clancy,Clancy,MT,Clancy-MT,Montana,30043,Jefferson,46.4493,-112.0029,,,154.3,polygon,FALSE,America/Denver,59632 59634
+Great Falls-MT,1840019839,Great Falls,Great Falls,MT,Great Falls-MT,Montana,30013,Cascade,47.5016,-111.2993,65960,59178,1012,polygon,TRUE,America/Denver,59401 59405 59404
+Cohagen-MT,1840032820,Cohagen,Cohagen,MT,Cohagen-MT,Montana,30033,Garfield,47.0544,-106.6175,,,5.2,point,FALSE,America/Denver,59322
+Wolf Creek-MT,1840032780,Wolf Creek,Wolf Creek,MT,Wolf Creek-MT,Montana,30049,Lewis and Clark,47.0061,-112.0692,,,8.9,point,FALSE,America/Denver,59648
+Silesia-MT,1840023906,Silesia,Silesia,MT,Silesia-MT,Montana,30009,Carbon,45.5556,-108.8378,,,23.7,polygon,FALSE,America/Denver,59041
+Lincoln-MT,1840018405,Lincoln,Lincoln,MT,Lincoln-MT,Montana,30049,Lewis and Clark,46.953,-112.6693,,,299,polygon,FALSE,America/Denver,59639
+Billings-MT,1840018496,Billings,Billings,MT,Billings-MT,Montana,30111,Yellowstone,45.7892,-108.5498,121550,110323,985,polygon,TRUE,America/Denver,59106 59105 59102 59101 59104 59107 59108 59115 59116 59117
+Old Agency-MT,1840018384,Old Agency,Old Agency,MT,Old Agency-MT,Montana,30089,Sanders,47.3228,-114.2987,,,184.4,polygon,FALSE,America/Denver,59831
+Medicine Lake-MT,1840022280,Medicine Lake,Medicine Lake,MT,Medicine Lake-MT,Montana,30091,Sheridan,48.5023,-104.5018,241,241,235,polygon,TRUE,America/Denver,59247
+Toston-MT,1840018474,Toston,Toston,MT,Toston-MT,Montana,30007,Broadwater,46.1658,-111.4459,,,99.6,polygon,FALSE,America/Denver,59643
+Whitewater-MT,1840023743,Whitewater,Whitewater,MT,Whitewater-MT,Montana,30071,Phillips,48.7634,-107.6302,,,84.9,polygon,FALSE,America/Denver,59544
+Craig-MT,1840023790,Craig,Craig,MT,Craig-MT,Montana,30049,Lewis and Clark,47.0742,-111.9652,,,42.5,polygon,FALSE,America/Denver,59648
+Ethridge-MT,1840032593,Ethridge,Ethridge,MT,Ethridge-MT,Montana,30101,Toole,48.5578,-112.1206,,,14.8,point,FALSE,America/Denver,59474
+Wilsall-MT,1840018510,Wilsall,Wilsall,MT,Wilsall-MT,Montana,30067,Park,45.9835,-110.6598,,,192.3,polygon,FALSE,America/Denver,59086
+Saint Regis-MT,1840018450,Saint Regis,Saint Regis,MT,Saint Regis-MT,Montana,30061,Mineral,47.3016,-115.1015,,,16.8,polygon,FALSE,America/Denver,59866
+Wise River-MT,1840032771,Wise River,Wise River,MT,Wise River-MT,Montana,30001,Beaverhead,45.7913,-112.9495,,,35.2,point,FALSE,America/Denver,59762
+Lima-MT,1840021198,Lima,Lima,MT,Lima-MT,Montana,30001,Beaverhead,44.6384,-112.5919,224,224,157,polygon,TRUE,America/Denver,59739
+Farmington-MT,1840032800,Farmington,Farmington,MT,Farmington-MT,Montana,30099,Teton,47.8869,-112.1689,,,18.6,point,FALSE,America/Denver,59422
+Vida-MT,1840032698,Vida,Vida,MT,Vida-MT,Montana,30055,McCone,47.832,-105.493,,,5.7,point,FALSE,America/Denver,59274
+Sun Prairie-MT,1840015880,Sun Prairie,Sun Prairie,MT,Sun Prairie-MT,Montana,30013,Cascade,47.5386,-111.4918,,,52,polygon,FALSE,America/Denver,59404
+Four Corners-MT,1840032809,Four Corners,Four Corners,MT,Four Corners-MT,Montana,30031,Gallatin,45.6704,-111.178,,,5.7,polygon,FALSE,America/Denver,59718 59771
+Simms-MT,1840018428,Simms,Simms,MT,Simms-MT,Montana,30013,Cascade,47.4931,-111.9474,,,84.9,polygon,FALSE,America/Denver,59477
+Kremlin-MT,1840017304,Kremlin,Kremlin,MT,Kremlin-MT,Montana,30041,Hill,48.5707,-110.0862,,,138.2,polygon,FALSE,America/Denver,59532
+Power-MT,1840018390,Power,Power,MT,Power-MT,Montana,30099,Teton,47.7203,-111.6944,,,133.2,polygon,FALSE,America/Denver,59468
+Ekalaka-MT,1840021188,Ekalaka,Ekalaka,MT,Ekalaka-MT,Montana,30011,Carter,45.8897,-104.5506,353,353,132,polygon,TRUE,America/Denver,59324
+East Glacier Park Village-MT,1840032844,East Glacier Park Village,East Glacier Park Village,MT,East Glacier Park Village-MT,Montana,30035,Glacier,48.4459,-113.2236,,,58.6,polygon,FALSE,America/Denver,59434
+Rollins-MT,1840018396,Rollins,Rollins,MT,Rollins-MT,Montana,30047,Lake,47.9106,-114.1949,,,56.1,polygon,FALSE,America/Denver,59931
+Carlton-MT,1840023811,Carlton,Carlton,MT,Carlton-MT,Montana,30063,Missoula,46.6797,-114.072,,,49.5,polygon,FALSE,America/Denver,59833
+Greycliff-MT,1840017392,Greycliff,Greycliff,MT,Greycliff-MT,Montana,30097,Sweet Grass,45.7588,-109.7798,,,58.1,polygon,FALSE,America/Denver,59033
+Twodot-MT,1840032693,Twodot,Twodot,MT,Twodot-MT,Montana,30107,Wheatland,46.4244,-110.073,,,26,point,FALSE,America/Denver,59085
+Dewey-MT,1840032719,Dewey,Dewey,MT,Dewey-MT,Montana,30001,Beaverhead,45.7771,-112.855,,,25.2,point,FALSE,America/Denver,59727
+Sheridan-MT,1840022335,Sheridan,Sheridan,MT,Sheridan-MT,Montana,30057,Madison,45.4588,-112.1946,677,677,258,polygon,TRUE,America/Denver,59749
+Big Arm-MT,1840017331,Big Arm,Big Arm,MT,Big Arm-MT,Montana,30047,Lake,47.7936,-114.2701,,,23,polygon,FALSE,America/Denver,59910
+Hardin-MT,1840019912,Hardin,Hardin,MT,Hardin-MT,Montana,30003,Big Horn,45.7423,-107.6082,3947,3829,498,polygon,TRUE,America/Denver,59034
+Finley Point-MT,1840032845,Finley Point,Finley Point,MT,Finley Point-MT,Montana,30047,Lake,47.7464,-114.0666,,,37.8,polygon,FALSE,America/Denver,59860
+Worden-MT,1840018495,Worden,Worden,MT,Worden-MT,Montana,30111,Yellowstone,45.9623,-108.1623,,,391.6,polygon,FALSE,America/Denver,59088 59006
+Kerr-MT,1840032833,Kerr,Kerr,MT,Kerr-MT,Montana,30047,Lake,47.6771,-114.1873,,,127.4,polygon,FALSE,America/Denver,59860
+Heath-MT,1840032730,Heath,Heath,MT,Heath-MT,Montana,30027,Fergus,46.9958,-109.2671,,,6.3,point,FALSE,America/Denver,59457
+Moiese-MT,1840032648,Moiese,Moiese,MT,Moiese-MT,Montana,30047,Lake,47.3705,-114.266,,,3,point,FALSE,America/Denver,59824
+Wye-MT,1840032843,Wye,Wye,MT,Wye-MT,Montana,30063,Missoula,46.9531,-114.1346,,,14.3,polygon,FALSE,America/Denver,59808
+Conrad-MT,1840018371,Conrad,Conrad,MT,Conrad-MT,Montana,30073,Pondera,48.1732,-111.9477,2557,2550,825,polygon,TRUE,America/Denver,59425
+Lindsay-MT,1840032633,Lindsay,Lindsay,MT,Lindsay-MT,Montana,30021,Dawson,47.2189,-105.1539,,,28.9,point,FALSE,America/Denver,59339
+Glendive-MT,1840019824,Glendive,Glendive,MT,Glendive-MT,Montana,30021,Dawson,47.1102,-104.707,7015,5332,592,polygon,TRUE,America/Denver,59330
+Boyd-MT,1840023902,Boyd,Boyd,MT,Boyd-MT,Montana,30009,Carbon,45.4556,-109.0667,,,27.3,polygon,FALSE,America/Denver,59070 59013
+Lakeside-MT,1840017300,Lakeside,Lakeside,MT,Lakeside-MT,Montana,30029,Flathead,48.0182,-114.2274,,,331.7,polygon,FALSE,America/Denver,59922
+Suffolk-MT,1840032823,Suffolk,Suffolk,MT,Suffolk-MT,Montana,30027,Fergus,47.4669,-109.3557,,,1,point,FALSE,America/Denver,59451
+Anaconda-MT,1840032708,Anaconda,Anaconda,MT,Anaconda-MT,Montana,30023,Deer Lodge,46.1285,-112.9423,,,1476.5,point,TRUE,America/Denver,59711
+Dutton-MT,1840021087,Dutton,Dutton,MT,Dutton-MT,Montana,30099,Teton,47.8476,-111.7144,308,308,376,polygon,TRUE,America/Denver,59433
+Forest Hill Village-MT,1840032826,Forest Hill Village,Forest Hill Village,MT,Forest Hill Village-MT,Montana,30029,Flathead,48.1207,-114.262,,,27.5,polygon,FALSE,America/Denver,59901
+Santa Rita-MT,1840023753,Santa Rita,Santa Rita,MT,Santa Rita-MT,Montana,30035,Glacier,48.6977,-112.3174,,,9.7,polygon,FALSE,America/Denver,59427
+Miles City-MT,1840019878,Miles City,Miles City,MT,Miles City-MT,Montana,30017,Custer,46.406,-105.8387,9874,8647,1004,polygon,TRUE,America/Denver,59301
+Lindisfarne-MT,1840032776,Lindisfarne,Lindisfarne,MT,Lindisfarne-MT,Montana,30047,Lake,47.8042,-114.2122,,,41.2,polygon,FALSE,America/Denver,59860 59910
+Norris-MT,1840032655,Norris,Norris,MT,Norris-MT,Montana,30057,Madison,45.568,-111.6908,,,15,point,FALSE,America/Denver,59745
+Springhill-MT,1840032825,Springhill,Springhill,MT,Springhill-MT,Montana,30031,Gallatin,45.8788,-111.0773,,,11.5,polygon,FALSE,America/Denver,59714
+Lolo-MT,1840017349,Lolo,Lolo,MT,Lolo-MT,Montana,30063,Missoula,46.7756,-114.1018,,,857.2,polygon,FALSE,America/Denver,59847
+Paradise-MT,1840018385,Paradise,Paradise,MT,Paradise-MT,Montana,30089,Sanders,47.3858,-114.799,,,270.5,polygon,FALSE,America/Denver,59859 59856
+Alzada-MT,1840023889,Alzada,Alzada,MT,Alzada-MT,Montana,30011,Carter,45.0206,-104.4129,,,22.7,polygon,FALSE,America/Denver,59311
+Red Lodge-MT,1840019946,Red Lodge,Red Lodge,MT,Red Lodge-MT,Montana,30009,Carbon,45.1933,-109.2501,2237,2237,318,polygon,TRUE,America/Denver,59068
+Ringling-MT,1840032672,Ringling,Ringling,MT,Ringling-MT,Montana,30059,Meagher,46.2716,-110.8072,,,15.2,point,FALSE,America/Denver,59642
+Choteau-MT,1840018391,Choteau,Choteau,MT,Choteau-MT,Montana,30099,Teton,47.8137,-112.1794,1686,1686,447,polygon,TRUE,America/Denver,59422
+Ovando-MT,1840018436,Ovando,Ovando,MT,Ovando-MT,Montana,30077,Powell,47.0207,-113.1717,,,41.9,polygon,FALSE,America/Denver,59854
+Coffee Creek-MT,1840032583,Coffee Creek,Coffee Creek,MT,Coffee Creek-MT,Montana,30027,Fergus,47.3477,-110.0816,,,5,point,FALSE,America/Denver,59424
+Lewistown-MT,1840019823,Lewistown,Lewistown,MT,Lewistown-MT,Montana,30027,Fergus,47.0517,-109.454,6058,5870,419,polygon,TRUE,America/Denver,59457
+Libby-MT,1840019757,Libby,Libby,MT,Libby-MT,Montana,30053,Lincoln,48.3874,-115.5559,4053,2678,552,polygon,TRUE,America/Denver,59923
+Lame Deer-MT,1840017373,Lame Deer,Lame Deer,MT,Lame Deer-MT,Montana,30087,Rosebud,45.6176,-106.6134,,,241.5,polygon,FALSE,America/Denver,59043
+Emigrant-MT,1840023885,Emigrant,Emigrant,MT,Emigrant-MT,Montana,30067,Park,45.3755,-110.7465,,,32.3,polygon,FALSE,America/Denver,59047 59027
+Luther-MT,1840032740,Luther,Luther,MT,Luther-MT,Montana,30009,Carbon,45.2844,-109.4288,,,5,point,FALSE,America/Denver,59068
+Ballantine-MT,1840017389,Ballantine,Ballantine,MT,Ballantine-MT,Montana,30111,Yellowstone,45.9512,-108.1428,,,329.9,polygon,FALSE,America/Denver,59006
+Pioneer Junction-MT,1840023746,Pioneer Junction,Pioneer Junction,MT,Pioneer Junction-MT,Montana,30053,Lincoln,48.3157,-115.5182,,,291.2,polygon,FALSE,America/Denver,59923
+Jefferson City-MT,1840017388,Jefferson City,Jefferson City,MT,Jefferson City-MT,Montana,30043,Jefferson,46.378,-112.0305,,,65.6,polygon,FALSE,America/Denver,59638
+Kiowa-MT,1840032623,Kiowa,Kiowa,MT,Kiowa-MT,Montana,30035,Glacier,48.5477,-113.2709,,,1.4,point,FALSE,America/Denver,59417
+Parker School-MT,1840032836,Parker School,Parker School,MT,Parker School-MT,Montana,30015,Chouteau,48.2468,-109.7342,,,16.3,polygon,FALSE,America/Denver,59521
+Frazer-MT,1840017294,Frazer,Frazer,MT,Frazer-MT,Montana,30105,Valley,48.0533,-106.0481,,,90.1,polygon,FALSE,America/Denver,59225
+Fife-MT,1840032596,Fife,Fife,MT,Fife-MT,Montana,30013,Cascade,47.4558,-111.023,,,2.2,point,FALSE,America/Denver,59405
+Moore-MT,1840022297,Moore,Moore,MT,Moore-MT,Montana,30027,Fergus,46.9749,-109.695,198,198,261,polygon,TRUE,America/Denver,59464
+Frenchtown-MT,1840017350,Frenchtown,Frenchtown,MT,Frenchtown-MT,Montana,30063,Missoula,47.0287,-114.2462,,,163,polygon,FALSE,America/Denver,59834
+Danvers-MT,1840032586,Danvers,Danvers,MT,Danvers-MT,Montana,30027,Fergus,47.2253,-109.7171,,,7.8,point,FALSE,America/Denver,59457
+Whitlash-MT,1840032705,Whitlash,Whitlash,MT,Whitlash-MT,Montana,30051,Liberty,48.9083,-111.253,,,4.8,point,FALSE,America/Denver,59545
+Marion-MT,1840023740,Marion,Marion,MT,Marion-MT,Montana,30029,Flathead,48.0858,-114.6711,,,56.8,polygon,FALSE,America/Denver,59925
+Jeffers-MT,1840032734,Jeffers,Jeffers,MT,Jeffers-MT,Montana,30057,Madison,45.3488,-111.7055,,,29.3,point,FALSE,America/Denver,59729
+Glen-MT,1840032605,Glen,Glen,MT,Glen-MT,Montana,30001,Beaverhead,45.4766,-112.6906,,,8.4,point,FALSE,America/Denver,59732
+Jackson-MT,1840032732,Jackson,Jackson,MT,Jackson-MT,Montana,30001,Beaverhead,45.368,-113.4089,,,14,point,FALSE,America/Denver,59736
+Grant-MT,1840032607,Grant,Grant,MT,Grant-MT,Montana,30001,Beaverhead,45.0085,-113.067,,,1.7,point,FALSE,America/Denver,59725
+Charlos Heights-MT,1840023866,Charlos Heights,Charlos Heights,MT,Charlos Heights-MT,Montana,30081,Ravalli,46.1337,-114.1812,,,46.1,polygon,FALSE,America/Denver,59840
+Havre-MT,1840019758,Havre,Havre,MT,Havre-MT,Montana,30041,Hill,48.5417,-109.6782,10212,9846,1095,polygon,TRUE,America/Denver,59501
+Saint Ignatius-MT,1840021092,Saint Ignatius,Saint Ignatius,MT,Saint Ignatius-MT,Montana,30047,Lake,47.3186,-114.0956,824,824,596,polygon,TRUE,America/Denver,59865
+Foster-MT,1840032599,Foster,Foster,MT,Foster-MT,Montana,30003,Big Horn,45.925,-107.5909,,,1.6,point,FALSE,America/Denver,59034
+Fort Shaw-MT,1840017346,Fort Shaw,Fort Shaw,MT,Fort Shaw-MT,Montana,30013,Cascade,47.4969,-111.8194,,,116.2,polygon,FALSE,America/Denver,59443 59483
+Herron-MT,1840032831,Herron,Herron,MT,Herron-MT,Montana,30041,Hill,48.5341,-109.7718,,,10.4,polygon,FALSE,America/Denver,59501
+Drummond-MT,1840021160,Drummond,Drummond,MT,Drummond-MT,Montana,30039,Granite,46.6665,-113.1471,348,348,244,polygon,TRUE,America/Denver,59832
+Wisdom-MT,1840018538,Wisdom,Wisdom,MT,Wisdom-MT,Montana,30001,Beaverhead,45.6116,-113.4467,,,26.4,polygon,FALSE,America/Denver,59761
+Westby-MT,1840022282,Westby,Westby,MT,Westby-MT,Montana,30091,Sheridan,48.8708,-104.0557,174,174,120,polygon,TRUE,America/Denver,59275
+Trego-MT,1840023749,Trego,Trego,MT,Trego-MT,Montana,30053,Lincoln,48.6578,-114.9302,,,30.5,polygon,FALSE,America/Denver,59934
+Hilger-MT,1840032613,Hilger,Hilger,MT,Hilger-MT,Montana,30027,Fergus,47.2539,-109.3599,,,19.1,point,FALSE,America/Denver,59451
+Terry-MT,1840022317,Terry,Terry,MT,Terry-MT,Montana,30079,Prairie,46.7923,-105.3125,609,609,300,polygon,TRUE,America/Denver,59349
+Garneill-MT,1840032802,Garneill,Garneill,MT,Garneill-MT,Montana,30027,Fergus,46.7525,-109.7527,,,1.6,point,FALSE,America/Denver,59453
+Roundup-MT,1840019885,Roundup,Roundup,MT,Roundup-MT,Montana,30065,Musselshell,46.4483,-108.54,1840,1840,531,polygon,TRUE,America/Denver,59072
+Hays-MT,1840017306,Hays,Hays,MT,Hays-MT,Montana,30005,Blaine,48.0104,-108.6606,,,111.6,polygon,FALSE,America/Denver,59524 59527
+Pinnacle-MT,1840032753,Pinnacle,Pinnacle,MT,Pinnacle-MT,Montana,30029,Flathead,48.3561,-113.6532,,,24.9,point,FALSE,America/Denver,59916
+Rudyard-MT,1840018356,Rudyard,Rudyard,MT,Rudyard-MT,Montana,30041,Hill,48.5599,-110.5501,,,309,polygon,FALSE,America/Denver,59540
+Browning-MT,1840021053,Browning,Browning,MT,Browning-MT,Montana,30035,Glacier,48.5564,-113.0151,1031,1031,1440,polygon,TRUE,America/Denver,59417
+Rosebud-MT,1840023860,Rosebud,Rosebud,MT,Rosebud-MT,Montana,30087,Rosebud,46.2712,-106.447,,,58.2,polygon,FALSE,America/Denver,59347
+Edgar-MT,1840023903,Edgar,Edgar,MT,Edgar-MT,Montana,30009,Carbon,45.4637,-108.8554,,,86.3,polygon,FALSE,America/Denver,59026
+Grass Range-MT,1840021113,Grass Range,Grass Range,MT,Grass Range-MT,Montana,30027,Fergus,47.026,-108.8031,108,108,298,polygon,TRUE,America/Denver,59032
+Hungry Horse-MT,1840017299,Hungry Horse,Hungry Horse,MT,Hungry Horse-MT,Montana,30029,Flathead,48.3842,-114.0651,,,351.7,polygon,FALSE,America/Denver,59919
+Belfry-MT,1840017418,Belfry,Belfry,MT,Belfry-MT,Montana,30009,Carbon,45.1375,-108.9985,,,76.5,polygon,FALSE,America/Denver,59008
+Chico Hot Springs-MT,1840032712,Chico Hot Springs,Chico Hot Springs,MT,Chico Hot Springs-MT,Montana,30067,Park,45.3377,-110.6922,,,1,point,FALSE,America/Denver,59047
+Big Sandy-MT,1840019784,Big Sandy,Big Sandy,MT,Big Sandy-MT,Montana,30015,Chouteau,48.1785,-110.1134,590,590,478,polygon,TRUE,America/Denver,59520
+Hathaway-MT,1840032611,Hathaway,Hathaway,MT,Hathaway-MT,Montana,30087,Rosebud,46.2761,-106.1967,,,1,point,FALSE,America/Denver,59333
+Dagmar-MT,1840032585,Dagmar,Dagmar,MT,Dagmar-MT,Montana,30091,Sheridan,48.5834,-104.1983,,,3.7,point,FALSE,America/Denver,59219
+Saint Xavier-MT,1840018532,Saint Xavier,Saint Xavier,MT,Saint Xavier-MT,Montana,30003,Big Horn,45.4572,-107.7252,,,6.2,polygon,FALSE,America/Denver,59075
+Winifred-MT,1840022298,Winifred,Winifred,MT,Winifred-MT,Montana,30027,Fergus,47.5621,-109.3773,206,206,151,polygon,TRUE,America/Denver,59489
+Sidney-MT,1840021085,Sidney,Sidney,MT,Sidney-MT,Montana,30083,Richland,47.7149,-104.1665,6877,6566,837,polygon,TRUE,America/Denver,59270
+Crow Agency-MT,1840017405,Crow Agency,Crow Agency,MT,Crow Agency-MT,Montana,30003,Big Horn,45.6026,-107.4591,,,532.2,polygon,FALSE,America/Denver,59022
+Anceney-MT,1840032784,Anceney,Anceney,MT,Anceney-MT,Montana,30031,Gallatin,45.6485,-111.3547,,,4.1,point,FALSE,America/Denver,59741
+Azure-MT,1840032851,Azure,Azure,MT,Azure-MT,Montana,30041,Hill,48.305,-109.8072,,,59.9,polygon,FALSE,America/Denver,59521
+Inverness-MT,1840017303,Inverness,Inverness,MT,Inverness-MT,Montana,30041,Hill,48.5599,-110.7103,,,36.6,polygon,FALSE,America/Denver,59530
+Gardiner-MT,1840017394,Gardiner,Gardiner,MT,Gardiner-MT,Montana,30067,Park,45.057,-110.7421,,,324.4,polygon,FALSE,America/Denver,59030
+Portage-MT,1840032805,Portage,Portage,MT,Portage-MT,Montana,30013,Cascade,47.6527,-111.1247,,,2.1,point,FALSE,America/Denver,59440
+Fishtail-MT,1840032597,Fishtail,Fishtail,MT,Fishtail-MT,Montana,30095,Stillwater,45.4536,-109.5043,,,29.6,point,FALSE,America/Denver,59028
+Whitefish-MT,1840021047,Whitefish,Whitefish,MT,Whitefish-MT,Montana,30029,Flathead,48.4333,-114.3594,7214,7279,427,polygon,TRUE,America/Denver,59937
+Bearcreek-MT,1840019947,Bearcreek,Bearcreek,MT,Bearcreek-MT,Montana,30009,Carbon,45.1606,-109.1571,84,84,283,polygon,TRUE,America/Denver,59007
+Joplin-MT,1840017308,Joplin,Joplin,MT,Joplin-MT,Montana,30051,Liberty,48.559,-110.773,,,157.9,polygon,FALSE,America/Denver,59531
+Ennis-MT,1840021201,Ennis,Ennis,MT,Ennis-MT,Montana,30057,Madison,45.3462,-111.7318,890,890,465,polygon,TRUE,America/Denver,59729
+Bozeman-MT,1840018509,Bozeman,Bozeman,MT,Bozeman-MT,Montana,30031,Gallatin,45.6828,-111.0545,52391,45250,879,polygon,TRUE,America/Denver,59718 59715 59717 59719
+McLeod-MT,1840032743,McLeod,McLeod,MT,McLeod-MT,Montana,30097,Sweet Grass,45.6627,-110.116,,,8.1,point,FALSE,America/Denver,59052
+Divide-MT,1840032720,Divide,Divide,MT,Divide-MT,Montana,30093,Silver Bow,45.751,-112.7473,,,13.5,point,FALSE,America/Denver,59727
+Winston-MT,1840018475,Winston,Winston,MT,Winston-MT,Montana,30007,Broadwater,46.4685,-111.6653,,,40.3,polygon,FALSE,America/Denver,59647
+Saint Mary-MT,1840032676,Saint Mary,Saint Mary,MT,Saint Mary-MT,Montana,30035,Glacier,48.7439,-113.4295,,,19.9,point,FALSE,America/Denver,59411
+Park City-MT,1840018514,Park City,Park City,MT,Park City-MT,Montana,30095,Stillwater,45.6292,-108.9214,,,503.9,polygon,FALSE,America/Denver,59063
+Harrison-MT,1840017410,Harrison,Harrison,MT,Harrison-MT,Montana,30057,Madison,45.7036,-111.7854,,,188,polygon,FALSE,America/Denver,59735
+Laurel-MT,1840019900,Laurel,Laurel,MT,Laurel-MT,Montana,30111,Yellowstone,45.6734,-108.7707,8690,6865,1231,polygon,TRUE,America/Denver,59044
+Brockway-MT,1840032798,Brockway,Brockway,MT,Brockway-MT,Montana,30055,McCone,47.2978,-105.7625,,,26.6,point,FALSE,America/Denver,59214
+Boneau-MT,1840032828,Boneau,Boneau,MT,Boneau-MT,Montana,30015,Chouteau,48.2926,-109.8632,,,160.7,polygon,FALSE,America/Denver,59521
+Miner-MT,1840032745,Miner,Miner,MT,Miner-MT,Montana,30067,Park,45.1991,-110.9086,,,7.5,point,FALSE,America/Denver,59027
+Floweree-MT,1840032801,Floweree,Floweree,MT,Floweree-MT,Montana,30015,Chouteau,47.7297,-111.0275,,,2.8,point,FALSE,America/Denver,59440
+Absarokee-MT,1840017395,Absarokee,Absarokee,MT,Absarokee-MT,Montana,30095,Stillwater,45.5242,-109.4473,,,591.8,polygon,FALSE,America/Denver,59001
+Circle-MT,1840022288,Circle,Circle,MT,Circle-MT,Montana,30055,McCone,47.4178,-105.5868,619,619,309,polygon,TRUE,America/Denver,59215
+Stockett-MT,1840023806,Stockett,Stockett,MT,Stockett-MT,Montana,30013,Cascade,47.3535,-111.1698,,,111.3,polygon,FALSE,America/Denver,59480
+Sunburst-MT,1840022279,Sunburst,Sunburst,MT,Sunburst-MT,Montana,30101,Toole,48.8777,-111.9062,338,338,73,polygon,TRUE,America/Denver,59482
+Polebridge-MT,1840032755,Polebridge,Polebridge,MT,Polebridge-MT,Montana,30029,Flathead,48.7652,-114.2851,,,5.3,point,FALSE,America/Denver,59928
+McCabe-MT,1840032642,McCabe,McCabe,MT,McCabe-MT,Montana,30085,Roosevelt,48.2436,-104.3777,,,2.8,point,FALSE,America/Denver,59218
+Lake Mary Ronan-MT,1840032735,Lake Mary Ronan,Lake Mary Ronan,MT,Lake Mary Ronan-MT,Montana,30047,Lake,47.9292,-114.389,,,42.4,polygon,FALSE,America/Denver,59929
+Happys Inn-MT,1840023745,Happys Inn,Happys Inn,MT,Happys Inn-MT,Montana,30053,Lincoln,48.0638,-115.1351,,,18.5,polygon,FALSE,America/Denver,59923
+Ryegate-MT,1840021166,Ryegate,Ryegate,MT,Ryegate-MT,Montana,30037,Golden Valley,46.2985,-109.2538,236,236,120,polygon,TRUE,America/Denver,59074
+Sun River-MT,1840018432,Sun River,Sun River,MT,Sun River-MT,Montana,30013,Cascade,47.5305,-111.724,,,76.8,polygon,FALSE,America/Denver,59483
+Geraldine-MT,1840021077,Geraldine,Geraldine,MT,Geraldine-MT,Montana,30015,Chouteau,47.6022,-110.2663,261,261,175,polygon,TRUE,America/Denver,59446
+Coram-MT,1840017295,Coram,Coram,MT,Coram-MT,Montana,30029,Flathead,48.4305,-114.0442,,,192.6,polygon,FALSE,America/Denver,59913
+Neihart-MT,1840022301,Neihart,Neihart,MT,Neihart-MT,Montana,30013,Cascade,46.9352,-110.736,50,50,9,polygon,TRUE,America/Denver,59465
+Saddle Butte-MT,1840032839,Saddle Butte,Saddle Butte,MT,Saddle Butte-MT,Montana,30041,Hill,48.5235,-109.6448,,,44.2,polygon,FALSE,America/Denver,59501
+Big Timber-MT,1840018506,Big Timber,Big Timber,MT,Big Timber-MT,Montana,30097,Sweet Grass,45.8347,-109.9488,1645,1645,688,polygon,TRUE,America/Denver,59011
+Cardwell-MT,1840017387,Cardwell,Cardwell,MT,Cardwell-MT,Montana,30043,Jefferson,45.8628,-111.9564,,,21,polygon,FALSE,America/Denver,59721
+Ashland-MT,1840017371,Ashland,Ashland,MT,Ashland-MT,Montana,30087,Rosebud,45.5977,-106.2975,,,87.6,polygon,FALSE,America/Denver,59003 59004
+Myers-MT,1840032653,Myers,Myers,MT,Myers-MT,Montana,30103,Treasure,46.2508,-107.3403,,,1,point,FALSE,America/Denver,59038
+Weeksville-MT,1840023777,Weeksville,Weeksville,MT,Weeksville-MT,Montana,30089,Sanders,47.531,-115.0077,,,9.2,polygon,FALSE,America/Denver,59859
+Kicking Horse-MT,1840032846,Kicking Horse,Kicking Horse,MT,Kicking Horse-MT,Montana,30047,Lake,47.4568,-114.0717,,,3.6,polygon,FALSE,America/Denver,59824
+Carter-MT,1840017320,Carter,Carter,MT,Carter-MT,Montana,30015,Chouteau,47.7812,-110.94,,,42.2,polygon,FALSE,America/Denver,59420
+Lustre-MT,1840032568,Lustre,Lustre,MT,Lustre-MT,Montana,30105,Valley,48.3934,-105.8822,,,1.2,point,FALSE,America/Denver,59225
+Oswego-MT,1840032659,Oswego,Oswego,MT,Oswego-MT,Montana,30105,Valley,48.0586,-105.8811,,,20.1,point,FALSE,America/Denver,59201
+Silver Gate-MT,1840023887,Silver Gate,Silver Gate,MT,Silver Gate-MT,Montana,30067,Park,45.0197,-109.983,,,1.2,polygon,FALSE,America/Denver,59030 59081
+Silver Star-MT,1840032761,Silver Star,Silver Star,MT,Silver Star-MT,Montana,30057,Madison,45.6902,-112.2831,,,31.8,point,FALSE,America/Denver,59751
+Unionville-MT,1840032779,Unionville,Unionville,MT,Unionville-MT,Montana,30049,Lewis and Clark,46.5413,-112.085,,,15.2,point,FALSE,America/Denver,59601
+Huson-MT,1840023813,Huson,Huson,MT,Huson-MT,Montana,30063,Missoula,47.0326,-114.3397,,,103.8,polygon,FALSE,America/Denver,59846
+Thompson Falls-MT,1840021083,Thompson Falls,Thompson Falls,MT,Thompson Falls-MT,Montana,30089,Sanders,47.5994,-115.3428,1356,1356,330,polygon,TRUE,America/Denver,59873
+Reed Point-MT,1840018515,Reed Point,Reed Point,MT,Reed Point-MT,Montana,30095,Stillwater,45.7071,-109.5471,,,37.8,polygon,FALSE,America/Denver,59069
+Sula-MT,1840023868,Sula,Sula,MT,Sula-MT,Montana,30081,Ravalli,45.8452,-113.9629,,,2.5,polygon,FALSE,America/Denver,59871
+Richland-MT,1840032671,Richland,Richland,MT,Richland-MT,Montana,30105,Valley,48.8209,-106.0511,,,17.5,point,FALSE,America/Denver,59260
+Square Butte-MT,1840032687,Square Butte,Square Butte,MT,Square Butte-MT,Montana,30015,Chouteau,47.515,-110.1983,,,7.7,point,FALSE,America/Denver,59446
+Heron-MT,1840017328,Heron,Heron,MT,Heron-MT,Montana,30089,Sanders,48.0637,-115.9801,,,13.4,polygon,FALSE,America/Denver,59844
+Scobey-MT,1840021055,Scobey,Scobey,MT,Scobey-MT,Montana,30019,Daniels,48.7904,-105.4206,1032,1032,541,polygon,TRUE,America/Denver,59263
+Lodge Grass-MT,1840021192,Lodge Grass,Lodge Grass,MT,Lodge Grass-MT,Montana,30003,Big Horn,45.3142,-107.3677,446,446,667,polygon,TRUE,America/Denver,59050
+Olney-MT,1840023741,Olney,Olney,MT,Olney-MT,Montana,30029,Flathead,48.5489,-114.572,,,60,polygon,FALSE,America/Denver,59927
+East Helena-MT,1840021111,East Helena,East Helena,MT,East Helena-MT,Montana,30049,Lewis and Clark,46.585,-111.9159,2074,2074,199,polygon,TRUE,America/Denver,59635
+Custer-MT,1840018493,Custer,Custer,MT,Custer-MT,Montana,30111,Yellowstone,46.1288,-107.5574,,,231.3,polygon,FALSE,America/Denver,59024
+Sylvanite-MT,1840023748,Sylvanite,Sylvanite,MT,Sylvanite-MT,Montana,30053,Lincoln,48.7062,-115.874,,,3.2,polygon,FALSE,America/Denver,59935
+Pompeys Pillar-MT,1840032663,Pompeys Pillar,Pompeys Pillar,MT,Pompeys Pillar-MT,Montana,30111,Yellowstone,45.9914,-107.9521,,,49.3,point,FALSE,America/Denver,59064
+Trident-MT,1840032692,Trident,Trident,MT,Trident-MT,Montana,30031,Gallatin,45.9474,-111.4766,,,2.1,point,FALSE,America/Denver,59752
+Marysville-MT,1840023791,Marysville,Marysville,MT,Marysville-MT,Montana,30049,Lewis and Clark,46.7503,-112.3027,,,30.3,polygon,FALSE,America/Denver,59633 59640
+Warm Springs-MT,1840032812,Warm Springs,Warm Springs,MT,Warm Springs-MT,Montana,30023,Deer Lodge,46.1813,-112.7848,,,313.1,point,FALSE,America/Denver,59711
+Crane-MT,1840023779,Crane,Crane,MT,Crane-MT,Montana,30083,Richland,47.5772,-104.2509,,,51.4,polygon,FALSE,America/Denver,59217
+Ramsay-MT,1840032757,Ramsay,Ramsay,MT,Ramsay-MT,Montana,30093,Silver Bow,46.0058,-112.6861,,,168.9,point,FALSE,America/Denver,59748
+Ronan-MT,1840019801,Ronan,Ronan,MT,Ronan-MT,Montana,30047,Lake,47.5287,-114.1005,2016,2016,646,polygon,TRUE,America/Denver,59864
+Belknap-MT,1840023775,Belknap,Belknap,MT,Belknap-MT,Montana,30089,Sanders,47.6472,-115.4222,,,36.4,polygon,FALSE,America/Denver,59873
+Shawmut-MT,1840023862,Shawmut,Shawmut,MT,Shawmut-MT,Montana,30107,Wheatland,46.3447,-109.5122,,,28.7,polygon,FALSE,America/Denver,59078
+Roberts-MT,1840023904,Roberts,Roberts,MT,Roberts-MT,Montana,30009,Carbon,45.3437,-109.1817,,,77.5,polygon,FALSE,America/Denver,59070
+Teigen-MT,1840032691,Teigen,Teigen,MT,Teigen-MT,Montana,30069,Petroleum,47.0366,-108.5968,,,2.5,point,FALSE,America/Denver,59087
+Harlem-MT,1840019759,Harlem,Harlem,MT,Harlem-MT,Montana,30005,Blaine,48.5318,-108.7847,823,823,759,polygon,TRUE,America/Denver,59526
+Waltham-MT,1840032702,Waltham,Waltham,MT,Waltham-MT,Montana,30015,Chouteau,47.5697,-110.8908,,,1,point,FALSE,America/Denver,59450
+Elmo-MT,1840017333,Elmo,Elmo,MT,Elmo-MT,Montana,30047,Lake,47.8287,-114.3488,,,322,polygon,FALSE,America/Denver,59915
+Philipsburg-MT,1840022320,Philipsburg,Philipsburg,MT,Philipsburg-MT,Montana,30039,Granite,46.3324,-113.296,920,920,417,polygon,TRUE,America/Denver,59858
+Hall-MT,1840032728,Hall,Hall,MT,Hall-MT,Montana,30039,Granite,46.5852,-113.1967,,,12.2,point,FALSE,America/Denver,59837
+Troy-MT,1840021050,Troy,Troy,MT,Troy-MT,Montana,30053,Lincoln,48.4623,-115.8917,890,890,490,polygon,TRUE,America/Denver,59935
+Perma-MT,1840032752,Perma,Perma,MT,Perma-MT,Montana,30089,Sanders,47.3638,-114.5848,,,5.2,point,FALSE,America/Denver,59859
+Garryowen-MT,1840032604,Garryowen,Garryowen,MT,Garryowen-MT,Montana,30003,Big Horn,45.5266,-107.4195,,,2.8,point,FALSE,America/Denver,59031
+Musselshell-MT,1840018476,Musselshell,Musselshell,MT,Musselshell-MT,Montana,30065,Musselshell,46.5064,-108.0862,,,39.6,polygon,FALSE,America/Denver,59059
+Rocky Point-MT,1840032838,Rocky Point,Rocky Point,MT,Rocky Point-MT,Montana,30047,Lake,47.7323,-114.1855,,,80.1,polygon,FALSE,America/Denver,59860
+Martin City-MT,1840017298,Martin City,Martin City,MT,Martin City-MT,Montana,30029,Flathead,48.3935,-114.0307,,,347.1,polygon,FALSE,America/Denver,59926
+Acton-MT,1840032781,Acton,Acton,MT,Acton-MT,Montana,30111,Yellowstone,45.9305,-108.6807,,,19.5,point,FALSE,America/Denver,59002
+Melrose-MT,1840032744,Melrose,Melrose,MT,Melrose-MT,Montana,30093,Silver Bow,45.6319,-112.6845,,,77.8,point,FALSE,America/Denver,59743
+Lodge Pole-MT,1840018357,Lodge Pole,Lodge Pole,MT,Lodge Pole-MT,Montana,30005,Blaine,48.0272,-108.5518,,,11.7,polygon,FALSE,America/Denver,59524
+Twin Bridges-MT,1840022336,Twin Bridges,Twin Bridges,MT,Twin Bridges-MT,Montana,30057,Madison,45.5429,-112.3341,395,395,150,polygon,TRUE,America/Denver,59754
+Biddle-MT,1840023900,Biddle,Biddle,MT,Biddle-MT,Montana,30075,Powder River,45.1052,-105.3119,,,2.4,polygon,FALSE,America/Denver,59314
+Vaughn-MT,1840018430,Vaughn,Vaughn,MT,Vaughn-MT,Montana,30013,Cascade,47.5524,-111.5608,,,302.8,polygon,FALSE,America/Denver,59404 59487 59403
+Brockton-MT,1840021070,Brockton,Brockton,MT,Brockton-MT,Montana,30085,Roosevelt,48.1498,-104.9142,243,243,563,polygon,TRUE,America/Denver,59213
+Columbia Falls-MT,1840018351,Columbia Falls,Columbia Falls,MT,Columbia Falls-MT,Montana,30029,Flathead,48.3698,-114.1914,6739,5241,988,polygon,TRUE,America/Denver,59912
+Brady-MT,1840023770,Brady,Brady,MT,Brady-MT,Montana,30073,Pondera,48.0279,-111.8441,,,107.4,polygon,FALSE,America/Denver,59416
+Moccasin-MT,1840032647,Moccasin,Moccasin,MT,Moccasin-MT,Montana,30045,Judith Basin,47.0533,-109.9105,,,31.8,point,FALSE,America/Denver,59462
+Opheim-MT,1840022267,Opheim,Opheim,MT,Opheim-MT,Montana,30105,Valley,48.8571,-106.4084,88,88,162,polygon,TRUE,America/Denver,59250
+Baker-MT,1840018482,Baker,Baker,MT,Baker-MT,Montana,30025,Fallon,46.3645,-104.2729,1990,1990,762,polygon,TRUE,America/Denver,59313
+Swan Lake-MT,1840023783,Swan Lake,Swan Lake,MT,Swan Lake-MT,Montana,30047,Lake,47.9361,-113.7997,,,40,polygon,FALSE,America/Denver,59911
+Cascade-MT,1840022302,Cascade,Cascade,MT,Cascade-MT,Montana,30013,Cascade,47.271,-111.7028,688,688,548,polygon,TRUE,America/Denver,59421
+Chester-MT,1840022278,Chester,Chester,MT,Chester-MT,Montana,30051,Liberty,48.5113,-110.9662,884,884,706,polygon,TRUE,America/Denver,59522
+Forsyth-MT,1840019879,Forsyth,Forsyth,MT,Forsyth-MT,Montana,30087,Rosebud,46.2669,-106.6748,1869,1869,626,polygon,TRUE,America/Denver,59327
+Virginia City-MT,1840022337,Virginia City,Virginia City,MT,Virginia City-MT,Montana,30057,Madison,45.2962,-111.9369,198,198,80,polygon,TRUE,America/Denver,59755
+Pony-MT,1840023899,Pony,Pony,MT,Pony-MT,Montana,30057,Madison,45.6628,-111.8826,,,58.7,polygon,FALSE,America/Denver,59747
+Camas-MT,1840023776,Camas,Camas,MT,Camas-MT,Montana,30089,Sanders,47.6179,-114.6561,,,40.8,polygon,FALSE,America/Denver,59845
+Essex-MT,1840032722,Essex,Essex,MT,Essex-MT,Montana,30029,Flathead,48.278,-113.6126,,,23.6,point,FALSE,America/Denver,59916
+Roy-MT,1840023803,Roy,Roy,MT,Roy-MT,Montana,30027,Fergus,47.3343,-108.96,,,12.1,polygon,FALSE,America/Denver,59471
+Woods Bay-MT,1840018397,Woods Bay,Woods Bay,MT,Woods Bay-MT,Montana,30047,Lake,48.0082,-114.0612,,,395.2,polygon,FALSE,America/Denver,59911
+Cameron-MT,1840032813,Cameron,Cameron,MT,Cameron-MT,Montana,30057,Madison,45.2033,-111.6786,,,1.9,point,FALSE,America/Denver,59720
+Redstone-MT,1840032670,Redstone,Redstone,MT,Redstone-MT,Montana,30091,Sheridan,48.8217,-104.9441,,,14.2,point,FALSE,America/Denver,59257
+Camp Three-MT,1840032829,Camp Three,Camp Three,MT,Camp Three-MT,Montana,30065,Musselshell,46.4534,-108.5741,,,69,polygon,FALSE,America/Denver,59072
+Fairfield-MT,1840021088,Fairfield,Fairfield,MT,Fairfield-MT,Montana,30099,Teton,47.6154,-111.9814,726,726,897,polygon,TRUE,America/Denver,59436
+Cooke City-MT,1840023883,Cooke City,Cooke City,MT,Cooke City-MT,Montana,30067,Park,45.0186,-109.9119,,,0.5,polygon,FALSE,America/Denver,59020
+Jette-MT,1840032832,Jette,Jette,MT,Jette-MT,Montana,30047,Lake,47.717,-114.1905,,,230.8,polygon,FALSE,America/Denver,59860
+Crackerville-MT,1840032714,Crackerville,Crackerville,MT,Crackerville-MT,Montana,30023,Deer Lodge,46.0646,-112.805,,,12.2,point,FALSE,America/Denver,59711
+Agawam-MT,1840032782,Agawam,Agawam,MT,Agawam-MT,Montana,30099,Teton,48,-112.1675,,,2.8,point,FALSE,America/Denver,59422
+Corvallis-MT,1840017381,Corvallis,Corvallis,MT,Corvallis-MT,Montana,30081,Ravalli,46.3139,-114.1123,,,732.8,polygon,FALSE,America/Denver,59828
+De Smet-MT,1840032716,De Smet,De Smet,MT,De Smet-MT,Montana,30063,Missoula,46.9333,-114.1032,,,436,point,FALSE,America/Denver,59808
+Boulder-MT,1840021176,Boulder,Boulder,MT,Boulder-MT,Montana,30043,Jefferson,46.2358,-112.1198,1230,1230,422,polygon,TRUE,America/Denver,59632
+Dayton-MT,1840018393,Dayton,Dayton,MT,Dayton-MT,Montana,30047,Lake,47.8644,-114.2765,,,87.6,polygon,FALSE,America/Denver,59914
+North Browning-MT,1840032847,North Browning,North Browning,MT,North Browning-MT,Montana,30035,Glacier,48.5684,-113.0171,,,356.8,polygon,FALSE,America/Denver,59417
+Starr School-MT,1840018353,Starr School,Starr School,MT,Starr School-MT,Montana,30035,Glacier,48.5976,-113.1433,,,169.4,polygon,FALSE,America/Denver,59417
+Pray-MT,1840023886,Pray,Pray,MT,Pray-MT,Montana,30067,Park,45.4151,-110.6533,,,10.6,polygon,FALSE,America/Denver,59047
+Fort Smith-MT,1840017407,Fort Smith,Fort Smith,MT,Fort Smith-MT,Montana,30003,Big Horn,45.3134,-107.9296,,,82.6,polygon,FALSE,America/Denver,59035
+Reserve-MT,1840018362,Reserve,Reserve,MT,Reserve-MT,Montana,30091,Sheridan,48.6025,-104.4676,,,13.4,polygon,FALSE,America/Denver,59258
+Homestead-MT,1840032617,Homestead,Homestead,MT,Homestead-MT,Montana,30091,Sheridan,48.4211,-104.5388,,,12.7,point,FALSE,America/Denver,59242
+Montana City-MT,1840018491,Montana City,Montana City,MT,Montana City-MT,Montana,30043,Jefferson,46.5257,-111.9401,,,22.7,polygon,FALSE,America/Denver,59634 59635
+Plentywood-MT,1840019767,Plentywood,Plentywood,MT,Plentywood-MT,Montana,30091,Sheridan,48.776,-104.5573,1904,1904,541,polygon,TRUE,America/Denver,59254
+Clyde Park-MT,1840022330,Clyde Park,Clyde Park,MT,Clyde Park-MT,Montana,30067,Park,45.8841,-110.6058,309,309,328,polygon,TRUE,America/Denver,59018
+Ulm-MT,1840018429,Ulm,Ulm,MT,Ulm-MT,Montana,30013,Cascade,47.4197,-111.5252,,,74.1,polygon,FALSE,America/Denver,59404 59485
+West Glacier-MT,1840023742,West Glacier,West Glacier,MT,West Glacier-MT,Montana,30029,Flathead,48.4916,-113.9961,,,31.2,polygon,FALSE,America/Denver,59936
+Austin-MT,1840032787,Austin,Austin,MT,Austin-MT,Montana,30049,Lewis and Clark,46.6391,-112.2453,,,7.2,point,FALSE,America/Denver,59602
+Capitol-MT,1840032815,Capitol,Capitol,MT,Capitol-MT,Montana,30011,Carter,45.4361,-104.0655,,,3.5,point,FALSE,America/Denver,57724
+Plains-MT,1840022285,Plains,Plains,MT,Plains-MT,Montana,30089,Sanders,47.4602,-114.8843,1071,1071,685,polygon,TRUE,America/Denver,59859
+Armington-MT,1840032577,Armington,Armington,MT,Armington-MT,Montana,30013,Cascade,47.3664,-110.9036,,,68.1,point,FALSE,America/Denver,59412
+Helena-MT,1840019820,Helena,Helena,MT,Helena-MT,Montana,30049,Lewis and Clark,46.5963,-112.0196,49812,31169,729,polygon,TRUE,America/Denver,59601 59602 59623 59624 59625 59626
+Yaak-MT,1840023751,Yaak,Yaak,MT,Yaak-MT,Montana,30053,Lincoln,48.8647,-115.6777,,,10.7,polygon,FALSE,America/Denver,59935
+Bonner-MT,1840032710,Bonner,Bonner,MT,Bonner-MT,Montana,30063,Missoula,46.8733,-113.8645,,,47.6,point,FALSE,America/Denver,59823
+Melstone-MT,1840022322,Melstone,Melstone,MT,Melstone-MT,Montana,30065,Musselshell,46.5987,-107.8684,107,107,60,polygon,TRUE,America/Denver,59054
+Florence-MT,1840017382,Florence,Florence,MT,Florence-MT,Montana,30081,Ravalli,46.6345,-114.0814,,,347.4,polygon,FALSE,America/Denver,59833
+Kings Point-MT,1840032834,Kings Point,Kings Point,MT,Kings Point-MT,Montana,30047,Lake,47.7634,-114.1498,,,8.4,polygon,FALSE,America/Denver,59860
+Belt-MT,1840018431,Belt,Belt,MT,Belt-MT,Montana,30013,Cascade,47.3874,-110.9278,588,588,647,polygon,TRUE,America/Denver,59412
+Lozeau-MT,1840032739,Lozeau,Lozeau,MT,Lozeau-MT,Montana,30061,Mineral,47.1166,-114.7801,,,23.6,point,FALSE,America/Denver,59872
+Springdale-MT,1840023888,Springdale,Springdale,MT,Springdale-MT,Montana,30067,Park,45.7381,-110.2236,,,21.6,polygon,FALSE,America/Denver,59047 59082
+Corwin Springs-MT,1840023884,Corwin Springs,Corwin Springs,MT,Corwin Springs-MT,Montana,30067,Park,45.1278,-110.7998,,,6.5,polygon,FALSE,America/Denver,59030
+Malta-MT,1840019756,Malta,Malta,MT,Malta-MT,Montana,30071,Phillips,48.3555,-107.8709,1950,1950,731,polygon,TRUE,America/Denver,59538
+Conner-MT,1840023867,Conner,Conner,MT,Conner-MT,Montana,30081,Ravalli,45.929,-114.1326,,,78.9,polygon,FALSE,America/Denver,59827 59829
+Dunkirk-MT,1840032590,Dunkirk,Dunkirk,MT,Dunkirk-MT,Montana,30101,Toole,48.478,-111.6642,,,15.5,point,FALSE,America/Denver,59474
+Roosville-MT,1840032760,Roosville,Roosville,MT,Roosville-MT,Montana,30053,Lincoln,48.9991,-115.0566,,,15.4,point,FALSE,America/Denver,59917
+Manhattan-MT,1840022328,Manhattan,Manhattan,MT,Manhattan-MT,Montana,30031,Gallatin,45.8622,-111.3343,1691,1691,373,polygon,TRUE,America/Denver,59741
+Nye-MT,1840032748,Nye,Nye,MT,Nye-MT,Montana,30095,Stillwater,45.4355,-109.8091,,,2.1,point,FALSE,America/Denver,59061
+Whitehall-MT,1840022326,Whitehall,Whitehall,MT,Whitehall-MT,Montana,30043,Jefferson,45.8709,-112.0975,1114,1114,609,polygon,TRUE,America/Denver,59759
+Busby-MT,1840017406,Busby,Busby,MT,Busby-MT,Montana,30003,Big Horn,45.5281,-106.9753,,,418.3,polygon,FALSE,America/Denver,59016
+Walkerville-MT,1840022331,Walkerville,Walkerville,MT,Walkerville-MT,Montana,30093,Silver Bow,46.0366,-112.5395,700,700,121,polygon,TRUE,America/Denver,59701 59703
+Somers-MT,1840018349,Somers,Somers,MT,Somers-MT,Montana,30029,Flathead,48.0824,-114.2343,,,434.3,polygon,FALSE,America/Denver,59932
+Pinesdale-MT,1840022323,Pinesdale,Pinesdale,MT,Pinesdale-MT,Montana,30081,Ravalli,46.3339,-114.2232,967,967,288,polygon,TRUE,America/Denver,59841
+Riverbend-MT,1840032837,Riverbend,Riverbend,MT,Riverbend-MT,Montana,30061,Mineral,47.1472,-114.8319,,,11.3,polygon,FALSE,America/Denver,59872
+South Browning-MT,1840032848,South Browning,South Browning,MT,South Browning-MT,Montana,30035,Glacier,48.5458,-113.0128,,,677,polygon,FALSE,America/Denver,59417
+Tracy-MT,1840032807,Tracy,Tracy,MT,Tracy-MT,Montana,30013,Cascade,47.413,-111.1541,,,161.7,point,FALSE,America/Denver,59472
+Madoc-MT,1840032640,Madoc,Madoc,MT,Madoc-MT,Montana,30019,Daniels,48.8109,-105.2858,,,5.9,point,FALSE,America/Denver,59222
+Polson-MT,1840019802,Polson,Polson,MT,Polson-MT,Montana,30047,Lake,47.6896,-114.143,5070,4777,441,polygon,TRUE,America/Denver,59860
+Stanford-MT,1840022306,Stanford,Stanford,MT,Stanford-MT,Montana,30045,Judith Basin,47.1521,-110.219,384,384,345,polygon,TRUE,America/Denver,59479
+Roscoe-MT,1840023905,Roscoe,Roscoe,MT,Roscoe-MT,Montana,30009,Carbon,45.3517,-109.4933,,,6.3,polygon,FALSE,America/Denver,59071
+Fox Lake-MT,1840032830,Fox Lake,Fox Lake,MT,Fox Lake-MT,Montana,30083,Richland,47.6858,-104.6331,,,88.4,polygon,FALSE,America/Denver,59243
+Park Grove-MT,1840032660,Park Grove,Park Grove,MT,Park Grove-MT,Montana,30105,Valley,48.0303,-106.4453,,,11.7,point,FALSE,America/Denver,59248
+East Glacier Park-MT,1840032721,East Glacier Park,East Glacier Park,MT,East Glacier Park-MT,Montana,30035,Glacier,48.4414,-113.2181,,,39.5,point,FALSE,America/Denver,59434
+Amsterdam-MT,1840026101,Amsterdam,Amsterdam,MT,Amsterdam-MT,Montana,30031,Gallatin,45.7462,-111.3301,,,53.5,polygon,FALSE,America/Denver,59741
+Kolin-MT,1840032626,Kolin,Kolin,MT,Kolin-MT,Montana,30045,Judith Basin,47.1066,-109.773,,,3.7,point,FALSE,America/Denver,59462
+Melville-MT,1840032643,Melville,Melville,MT,Melville-MT,Montana,30097,Sweet Grass,46.103,-109.9538,,,2.5,point,FALSE,America/Denver,59055
+Lavina-MT,1840021167,Lavina,Lavina,MT,Lavina-MT,Montana,30037,Golden Valley,46.295,-108.9388,173,173,66,polygon,TRUE,America/Denver,59046
+Comanche-MT,1840032822,Comanche,Comanche,MT,Comanche-MT,Montana,30111,Yellowstone,45.9977,-108.7735,,,7.5,point,FALSE,America/Denver,59015
+Limestone-MT,1840032738,Limestone,Limestone,MT,Limestone-MT,Montana,30095,Stillwater,45.4777,-109.9024,,,1.8,point,FALSE,America/Denver,59061
+Sweet Grass-MT,1840023759,Sweet Grass,Sweet Grass,MT,Sweet Grass-MT,Montana,30101,Toole,48.9929,-111.967,,,65.6,polygon,FALSE,America/Denver,59484
+Valier-MT,1840022284,Valier,Valier,MT,Valier-MT,Montana,30073,Pondera,48.3056,-112.2524,498,498,222,polygon,TRUE,America/Denver,59486
+Livingston-MT,1840019906,Livingston,Livingston,MT,Livingston-MT,Montana,30067,Park,45.6667,-110.5537,8586,7401,508,polygon,TRUE,America/Denver,59047
+Pablo-MT,1840018394,Pablo,Pablo,MT,Pablo-MT,Montana,30047,Lake,47.6035,-114.1059,,,415.9,polygon,FALSE,America/Denver,59860 59864 59855
+Turner-MT,1840023754,Turner,Turner,MT,Turner-MT,Montana,30005,Blaine,48.8469,-108.4006,,,79.5,polygon,FALSE,America/Denver,59542
+Dupuyer-MT,1840023771,Dupuyer,Dupuyer,MT,Dupuyer-MT,Montana,30073,Pondera,48.1869,-112.4771,,,29.5,polygon,FALSE,America/Denver,59432

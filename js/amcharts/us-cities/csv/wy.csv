@@ -1,0 +1,238 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Albany-WY,1840017461,Albany,Albany,WY,Albany-WY,Wyoming,56001,Albany,41.1868,-106.1255,,,3.9,polygon,FALSE,America/Denver,82070
+Wilson-WY,1840018612,Wilson,Wilson,WY,Wilson-WY,Wyoming,56039,Teton,43.486,-110.8937,,,22.4,polygon,FALSE,America/Denver,83014
+Natrona-WY,1840038376,Natrona,Natrona,WY,Natrona-WY,Wyoming,56025,Natrona,43.0297,-106.8092,,,1.7,point,FALSE,America/Denver,82646
+Greybull-WY,1840021241,Greybull,Greybull,WY,Greybull-WY,Wyoming,56003,Big Horn,44.4888,-108.0592,1872,1872,382,polygon,TRUE,America/Denver,82426
+Frontier-WY,1840038328,Frontier,Frontier,WY,Frontier-WY,Wyoming,56023,Lincoln,41.8141,-110.5371,,,21.5,point,FALSE,America/Denver,83121
+Worland-WY,1840021266,Worland,Worland,WY,Worland-WY,Wyoming,56043,Washakie,44.0026,-107.9543,5294,5316,450,polygon,TRUE,America/Denver,82401
+Brookhurst-WY,1840017446,Brookhurst,Brookhurst,WY,Brookhurst-WY,Wyoming,56025,Natrona,42.8618,-106.2272,,,3.7,polygon,FALSE,America/Denver,82636
+Reliance-WY,1840018692,Reliance,Reliance,WY,Reliance-WY,Wyoming,56037,Sweetwater,41.6682,-109.1977,,,221.5,polygon,FALSE,America/Denver,82943 82901
+Medicine Bow-WY,1840022370,Medicine Bow,Medicine Bow,WY,Medicine Bow-WY,Wyoming,56007,Carbon,41.8996,-106.2019,270,270,30,polygon,TRUE,America/Denver,82329
+Afton-WY,1840021291,Afton,Afton,WY,Afton-WY,Wyoming,56023,Lincoln,42.7295,-110.9317,1995,1995,183,polygon,TRUE,America/Denver,83110
+Daniel-WY,1840018659,Daniel,Daniel,WY,Daniel-WY,Wyoming,56035,Sublette,42.8658,-110.0767,,,28.6,polygon,FALSE,America/Denver,83115
+Dixon-WY,1840021310,Dixon,Dixon,WY,Dixon-WY,Wyoming,56007,Carbon,41.0345,-107.5355,95,95,279,polygon,TRUE,America/Denver,82323
+Fort Laramie-WY,1840021303,Fort Laramie,Fort Laramie,WY,Fort Laramie-WY,Wyoming,56015,Goshen,42.2134,-104.5178,222,222,321,polygon,TRUE,America/Denver,82212
+Ethete-WY,1840017435,Ethete,Ethete,WY,Ethete-WY,Wyoming,56013,Fremont,43.0008,-108.723,,,23.2,polygon,FALSE,America/Denver,82510 82520
+Powell-WY,1840019976,Powell,Powell,WY,Powell-WY,Wyoming,56029,Park,44.7962,-108.7682,6483,6407,583,polygon,TRUE,America/Denver,82435
+Arrowhead Springs-WY,1840038423,Arrowhead Springs,Arrowhead Springs,WY,Arrowhead Springs-WY,Wyoming,56037,Sweetwater,41.5081,-109.1551,,,20.8,polygon,FALSE,America/Denver,82901
+Homa Hills-WY,1840038431,Homa Hills,Homa Hills,WY,Homa Hills-WY,Wyoming,56025,Natrona,42.9857,-106.3719,,,38.3,polygon,FALSE,America/Denver,82601
+Encampment-WY,1840021313,Encampment,Encampment,WY,Encampment-WY,Wyoming,56007,Carbon,41.2088,-106.7948,442,442,106,polygon,TRUE,America/Denver,82325
+Pine Haven-WY,1840022347,Pine Haven,Pine Haven,WY,Pine Haven-WY,Wyoming,56011,Crook,44.3534,-104.8104,526,526,155,polygon,TRUE,America/Denver,82721
+South Superior-WY,1840038347,South Superior,South Superior,WY,South Superior-WY,Wyoming,56037,Sweetwater,41.7619,-108.9668,,,185.2,point,TRUE,America/Denver,82945
+Shell-WY,1840026119,Shell,Shell,WY,Shell-WY,Wyoming,56003,Big Horn,44.5346,-107.7843,,,44,polygon,FALSE,America/Denver,82441
+Arlington-WY,1840026207,Arlington,Arlington,WY,Arlington-WY,Wyoming,56007,Carbon,41.6052,-106.1999,,,1.6,polygon,FALSE,America/Denver,82083
+Lyman-WY,1840021340,Lyman,Lyman,WY,Lyman-WY,Wyoming,56041,Uinta,41.3275,-110.2975,2072,2072,514,polygon,TRUE,America/Denver,82937
+Kirby-WY,1840021268,Kirby,Kirby,WY,Kirby-WY,Wyoming,56017,Hot Springs,43.8031,-108.1811,91,91,235,polygon,TRUE,America/Denver,82443 82430
+Foxpark-WY,1840038401,Foxpark,Foxpark,WY,Foxpark-WY,Wyoming,56001,Albany,41.0794,-106.1525,,,31.4,point,FALSE,America/Denver,82070
+Fontenelle-WY,1840017454,Fontenelle,Fontenelle,WY,Fontenelle-WY,Wyoming,56023,Lincoln,41.9973,-110.0626,,,8.4,polygon,FALSE,America/Denver,83101
+Upton-WY,1840022351,Upton,Upton,WY,Upton-WY,Wyoming,56045,Weston,44.1025,-104.6376,1106,1106,144,polygon,TRUE,America/Denver,82730
+Meeteetse-WY,1840022341,Meeteetse,Meeteetse,WY,Meeteetse-WY,Wyoming,56029,Park,44.1545,-108.8608,327,327,144,polygon,TRUE,America/Denver,82433
+Parkman-WY,1840018596,Parkman,Parkman,WY,Parkman-WY,Wyoming,56033,Sheridan,44.9488,-107.3077,,,18.4,polygon,FALSE,America/Denver,82838
+Beulah-WY,1840023930,Beulah,Beulah,WY,Beulah-WY,Wyoming,56011,Crook,44.546,-104.0826,,,83.3,polygon,FALSE,America/Denver,82712
+Granger-WY,1840021317,Granger,Granger,WY,Granger-WY,Wyoming,56037,Sweetwater,41.597,-109.9627,137,137,20,polygon,TRUE,America/Denver,82934
+Burns-WY,1840021338,Burns,Burns,WY,Burns-WY,Wyoming,56021,Laramie,41.1909,-104.359,305,305,38,polygon,TRUE,America/Denver,82053
+Natwick-WY,1840038377,Natwick,Natwick,WY,Natwick-WY,Wyoming,56031,Platte,41.9608,-105.0566,,,7.3,point,FALSE,America/Denver,82201
+Bessemer Bend-WY,1840038424,Bessemer Bend,Bessemer Bend,WY,Bessemer Bend-WY,Wyoming,56025,Natrona,42.7576,-106.5237,,,49.4,polygon,FALSE,America/Denver,82604
+South Park-WY,1840038436,South Park,South Park,WY,South Park-WY,Wyoming,56039,Teton,43.4235,-110.7993,,,152.3,polygon,FALSE,America/Denver,83001
+Yoder-WY,1840022366,Yoder,Yoder,WY,Yoder-WY,Wyoming,56015,Goshen,41.917,-104.2955,159,159,288,polygon,TRUE,America/Denver,82244
+Bedford-WY,1840017451,Bedford,Bedford,WY,Bedford-WY,Wyoming,56023,Lincoln,42.8983,-110.9432,,,18.9,polygon,FALSE,America/Denver,83127 83112
+South Greeley-WY,1840038443,South Greeley,South Greeley,WY,South Greeley-WY,Wyoming,56021,Laramie,41.0933,-104.8067,,,2014.8,polygon,FALSE,America/Denver,82007
+Linch-WY,1840038333,Linch,Linch,WY,Linch-WY,Wyoming,56019,Johnson,43.6064,-106.1961,,,6.9,point,FALSE,America/Denver,82640
+Boysen-WY,1840038360,Boysen,Boysen,WY,Boysen-WY,Wyoming,56013,Fremont,43.4416,-108.1732,,,1.3,point,FALSE,America/Denver,82649
+Saratoga-WY,1840022371,Saratoga,Saratoga,WY,Saratoga-WY,Wyoming,56007,Carbon,41.4517,-106.8107,1686,1686,191,polygon,TRUE,America/Denver,82331
+Opal-WY,1840022362,Opal,Opal,WY,Opal-WY,Wyoming,56023,Lincoln,41.768,-110.324,105,105,102,polygon,TRUE,America/Denver,83124
+McKinnon-WY,1840017464,McKinnon,McKinnon,WY,McKinnon-WY,Wyoming,56037,Sweetwater,41.0314,-109.9384,,,5.5,polygon,FALSE,America/Denver,82938
+Hiland-WY,1840038412,Hiland,Hiland,WY,Hiland-WY,Wyoming,56025,Natrona,43.1152,-107.349,,,1.3,point,FALSE,America/Denver,82638
+Big Horn-WY,1840017428,Big Horn,Big Horn,WY,Big Horn-WY,Wyoming,56033,Sheridan,44.6791,-106.9971,,,195,polygon,FALSE,America/Denver,82801
+Alta-WY,1840017429,Alta,Alta,WY,Alta-WY,Wyoming,56039,Teton,43.7737,-111.0312,,,52.3,polygon,FALSE,America/Denver,83414
+Carlile-WY,1840038365,Carlile,Carlile,WY,Carlile-WY,Wyoming,56011,Crook,44.4869,-104.8014,,,1.1,point,FALSE,America/Denver,82721
+Lysite-WY,1840038414,Lysite,Lysite,WY,Lysite-WY,Wyoming,56013,Fremont,43.268,-107.6904,,,32.4,point,FALSE,America/Denver,82642
+Green River-WY,1840020100,Green River,Green River,WY,Green River-WY,Wyoming,56037,Sweetwater,41.5124,-109.4708,12458,12305,346,polygon,TRUE,America/Denver,82935
+Torrington-WY,1840021302,Torrington,Torrington,WY,Torrington-WY,Wyoming,56015,Goshen,42.0658,-104.1621,7389,6715,561,polygon,TRUE,America/Denver,82240
+Cowley-WY,1840021239,Cowley,Cowley,WY,Cowley-WY,Wyoming,56003,Big Horn,44.8835,-108.4694,745,745,339,polygon,TRUE,America/Denver,82420
+Burntfork-WY,1840038323,Burntfork,Burntfork,WY,Burntfork-WY,Wyoming,56037,Sweetwater,41.0291,-110.0043,,,4.5,point,FALSE,America/Denver,82938
+Bosler-WY,1840038321,Bosler,Bosler,WY,Bosler-WY,Wyoming,56001,Albany,41.5761,-105.6953,,,3.1,point,FALSE,America/Denver,82051
+Wolf-WY,1840024503,Wolf,Wolf,WY,Wolf-WY,Wyoming,56033,Sheridan,44.7716,-107.239,,,19.9,point,FALSE,America/Denver,82834
+Sinclair-WY,1840022372,Sinclair,Sinclair,WY,Sinclair-WY,Wyoming,56007,Carbon,41.7761,-107.1199,415,415,65,polygon,TRUE,America/Denver,82334
+Lance Creek-WY,1840017443,Lance Creek,Lance Creek,WY,Lance Creek-WY,Wyoming,56027,Niobrara,43.041,-104.6626,,,11.7,polygon,FALSE,America/Denver,82225 82224 82222
+Meadow Acres-WY,1840038433,Meadow Acres,Meadow Acres,WY,Meadow Acres-WY,Wyoming,56025,Natrona,42.8593,-106.0954,,,28.5,polygon,FALSE,America/Denver,82636
+Dubois-WY,1840021269,Dubois,Dubois,WY,Dubois-WY,Wyoming,56013,Fremont,43.5389,-109.6443,985,985,109,polygon,TRUE,America/Denver,82513
+Lingle-WY,1840021305,Lingle,Lingle,WY,Lingle-WY,Wyoming,56015,Goshen,42.1388,-104.3461,459,459,569,polygon,TRUE,America/Denver,82223
+North Rock Springs-WY,1840018691,North Rock Springs,North Rock Springs,WY,North Rock Springs-WY,Wyoming,56037,Sweetwater,41.6697,-109.2714,,,486.6,polygon,FALSE,America/Denver,82901
+Little America-WY,1840018690,Little America,Little America,WY,Little America-WY,Wyoming,56037,Sweetwater,41.547,-109.8642,,,28.3,polygon,FALSE,America/Denver,82929
+Osmond-WY,1840024048,Osmond,Osmond,WY,Osmond-WY,Wyoming,56023,Lincoln,42.6779,-110.9406,,,220.6,polygon,FALSE,America/Denver,83110
+Sundance-WY,1840022348,Sundance,Sundance,WY,Sundance-WY,Wyoming,56011,Crook,44.4048,-104.3624,1279,1279,161,polygon,TRUE,America/Denver,82729
+Clearview Acres-WY,1840038428,Clearview Acres,Clearview Acres,WY,Clearview Acres-WY,Wyoming,56037,Sweetwater,41.5842,-109.28,,,858.5,polygon,FALSE,America/Denver,82901
+Whiting-WY,1840038392,Whiting,Whiting,WY,Whiting-WY,Wyoming,56031,Platte,42.0089,-104.9711,,,41.5,polygon,FALSE,America/Denver,82201
+Sunrise-WY,1840038349,Sunrise,Sunrise,WY,Sunrise-WY,Wyoming,56031,Platte,42.3302,-104.7055,,,1.2,point,FALSE,America/Denver,82215
+Antelope Hills-WY,1840038422,Antelope Hills,Antelope Hills,WY,Antelope Hills-WY,Wyoming,56025,Natrona,43.0813,-106.3117,,,10.4,polygon,FALSE,America/Denver,82601
+Jackson-WY,1840021258,Jackson,Jackson,WY,Jackson-WY,Wyoming,56039,Teton,43.4723,-110.774,12540,10529,1396,polygon,TRUE,America/Denver,83001 83002
+Aladdin-WY,1840038356,Aladdin,Aladdin,WY,Aladdin-WY,Wyoming,56011,Crook,44.64,-104.1836,,,7.2,point,FALSE,America/Denver,82710
+Urie-WY,1840024145,Urie,Urie,WY,Urie-WY,Wyoming,56041,Uinta,41.3089,-110.3352,,,43.7,polygon,FALSE,America/Denver,82937
+Mills-WY,1840022359,Mills,Mills,WY,Mills-WY,Wyoming,56025,Natrona,42.846,-106.3808,3813,3813,707,polygon,TRUE,America/Denver,82604 82644
+Arvada-WY,1840017427,Arvada,Arvada,WY,Arvada-WY,Wyoming,56033,Sheridan,44.6622,-106.1419,,,51.1,polygon,FALSE,America/Denver,82831
+Laramie-WY,1840020096,Laramie,Laramie,WY,Laramie-WY,Wyoming,56001,Albany,41.3095,-105.6097,33587,32382,704,polygon,TRUE,America/Denver,82072 82070 82071
+Boulder Flats-WY,1840038425,Boulder Flats,Boulder Flats,WY,Boulder Flats-WY,Wyoming,56013,Fremont,42.9156,-108.7993,,,9.9,polygon,FALSE,America/Denver,82520
+Wright-WY,1840022344,Wright,Wright,WY,Wright-WY,Wyoming,56005,Campbell,43.7484,-105.4963,1834,1834,248,polygon,TRUE,America/Denver,82732
+Kemmerer-WY,1840018662,Kemmerer,Kemmerer,WY,Kemmerer-WY,Wyoming,56023,Lincoln,41.7761,-110.5555,3261,2771,137,polygon,TRUE,America/Denver,83101 83121 83116
+Deaver-WY,1840021240,Deaver,Deaver,WY,Deaver-WY,Wyoming,56003,Big Horn,44.889,-108.596,186,186,70,polygon,TRUE,America/Denver,82421
+Burlington-WY,1840021238,Burlington,Burlington,WY,Burlington-WY,Wyoming,56003,Big Horn,44.4471,-108.432,344,344,131,polygon,TRUE,America/Denver,82411
+Cheyenne-WY,1840018713,Cheyenne,Cheyenne,WY,Cheyenne-WY,Wyoming,56021,Laramie,41.1418,-104.7943,79217,64019,929,polygon,TRUE,America/Denver,82009 82001 82007 82002 82003 82006 82008 82010
+Crowheart-WY,1840017432,Crowheart,Crowheart,WY,Crowheart-WY,Wyoming,56013,Fremont,43.3398,-109.2298,,,7.5,polygon,FALSE,America/Denver,82512
+Robertson-WY,1840018714,Robertson,Robertson,WY,Robertson-WY,Wyoming,56041,Uinta,41.1816,-110.4274,,,10,polygon,FALSE,America/Denver,82944
+Evansville-WY,1840021290,Evansville,Evansville,WY,Evansville-WY,Wyoming,56025,Natrona,42.8681,-106.2525,2953,2953,331,polygon,TRUE,America/Denver,82636
+Riverside-WY,1840021312,Riverside,Riverside,WY,Riverside-WY,Wyoming,56007,Carbon,41.2154,-106.7813,55,55,78,polygon,TRUE,America/Denver,82325
+Vista West-WY,1840038444,Vista West,Vista West,WY,Vista West-WY,Wyoming,56025,Natrona,42.862,-106.4362,,,254.7,polygon,FALSE,America/Denver,82604
+Buffalo-WY,1840018615,Buffalo,Buffalo,WY,Buffalo-WY,Wyoming,56019,Johnson,44.3426,-106.7138,4373,4590,396,polygon,TRUE,America/Denver,82834
+Acme-WY,1840038313,Acme,Acme,WY,Acme-WY,Wyoming,56033,Sheridan,44.9105,-106.9851,,,1.5,point,FALSE,America/Denver,82801
+Alcova-WY,1840017445,Alcova,Alcova,WY,Alcova-WY,Wyoming,56025,Natrona,42.5543,-106.7263,,,30.7,polygon,FALSE,America/Denver,82620
+Hill View Heights-WY,1840038430,Hill View Heights,Hill View Heights,WY,Hill View Heights-WY,Wyoming,56045,Weston,43.8159,-104.1517,,,120.2,polygon,FALSE,America/Denver,82701
+Lost Springs-WY,1840021288,Lost Springs,Lost Springs,WY,Lost Springs-WY,Wyoming,56009,Converse,42.7654,-104.9252,4,4,17,polygon,TRUE,America/Denver,82229
+Purple Sage-WY,1840038435,Purple Sage,Purple Sage,WY,Purple Sage-WY,Wyoming,56037,Sweetwater,41.5514,-109.3202,,,418.3,polygon,FALSE,America/Denver,82901
+Merna-WY,1840038397,Merna,Merna,WY,Merna-WY,Wyoming,56035,Sublette,42.9463,-110.3407,,,1.1,point,FALSE,America/Denver,83115
+Casper Mountain-WY,1840038426,Casper Mountain,Casper Mountain,WY,Casper Mountain-WY,Wyoming,56025,Natrona,42.7449,-106.3211,,,2.8,polygon,FALSE,America/Denver,82601
+Alpine-WY,1840021292,Alpine,Alpine,WY,Alpine-WY,Wyoming,56023,Lincoln,43.1608,-111.0182,865,865,477,polygon,TRUE,America/Denver,83128
+La Barge-WY,1840021294,La Barge,La Barge,WY,La Barge-WY,Wyoming,56023,Lincoln,42.2605,-110.1971,558,558,221,polygon,TRUE,America/Denver,83123
+Casper-WY,1840038324,Casper,Casper,WY,Casper-WY,Wyoming,56025,Natrona,42.843,-106.3205,69224,59324,881,polygon,TRUE,America/Denver,82604 82601 82609 82602 82605
+Eden-WY,1840017463,Eden,Eden,WY,Eden-WY,Wyoming,56037,Sweetwater,42.0602,-109.4392,,,7.8,polygon,FALSE,America/Denver,82932
+Albin-WY,1840021339,Albin,Albin,WY,Albin-WY,Wyoming,56021,Laramie,41.417,-104.1016,201,201,529,polygon,TRUE,America/Denver,82050
+Huntley-WY,1840017460,Huntley,Huntley,WY,Huntley-WY,Wyoming,56015,Goshen,41.9316,-104.1437,,,38.2,polygon,FALSE,America/Denver,82240
+Milford-WY,1840038373,Milford,Milford,WY,Milford-WY,Wyoming,56013,Fremont,42.8763,-108.7843,,,45.6,point,FALSE,America/Denver,82520
+Point of Rocks-WY,1840038381,Point of Rocks,Point of Rocks,WY,Point of Rocks-WY,Wyoming,56037,Sweetwater,41.6831,-108.7755,,,65.7,polygon,FALSE,America/Denver,82942
+Bairoil-WY,1840020102,Bairoil,Bairoil,WY,Bairoil-WY,Wyoming,56037,Sweetwater,42.2372,-107.5611,104,104,28,polygon,TRUE,America/Denver,82322
+Clearmont-WY,1840022345,Clearmont,Clearmont,WY,Clearmont-WY,Wyoming,56033,Sheridan,44.6399,-106.3816,149,149,362,polygon,TRUE,America/Denver,82835
+Glenrock-WY,1840021287,Glenrock,Glenrock,WY,Glenrock-WY,Wyoming,56009,Converse,42.8564,-105.8629,2595,2595,439,polygon,TRUE,America/Denver,82637
+Thayne-WY,1840022365,Thayne,Thayne,WY,Thayne-WY,Wyoming,56023,Lincoln,42.9192,-110.9968,367,367,101,polygon,TRUE,America/Denver,83127
+Diamondville-WY,1840021293,Diamondville,Diamondville,WY,Diamondville-WY,Wyoming,56023,Lincoln,41.7771,-110.5357,743,743,245,polygon,TRUE,America/Denver,83116
+Jeffrey City-WY,1840017437,Jeffrey City,Jeffrey City,WY,Jeffrey City-WY,Wyoming,56013,Fremont,42.4808,-107.8256,,,19.9,polygon,FALSE,America/Denver,82520 82310
+Chugwater-WY,1840022367,Chugwater,Chugwater,WY,Chugwater-WY,Wyoming,56031,Platte,41.7557,-104.8229,212,212,26,polygon,TRUE,America/Denver,82210
+Westview Circle-WY,1840038438,Westview Circle,Westview Circle,WY,Westview Circle-WY,Wyoming,56031,Platte,42.0606,-105.0715,,,8.2,polygon,FALSE,America/Denver,82201
+Clark-WY,1840038367,Clark,Clark,WY,Clark-WY,Wyoming,56029,Park,44.8994,-109.151,,,5.2,point,FALSE,America/Denver,82435
+Glendo-WY,1840021306,Glendo,Glendo,WY,Glendo-WY,Wyoming,56031,Platte,42.5041,-105.0254,203,203,146,polygon,TRUE,America/Denver,82213
+Dayton-WY,1840021244,Dayton,Dayton,WY,Dayton-WY,Wyoming,56033,Sheridan,44.8733,-107.2625,822,822,593,polygon,TRUE,America/Denver,82836
+Atlantic City-WY,1840017434,Atlantic City,Atlantic City,WY,Atlantic City-WY,Wyoming,56013,Fremont,42.5012,-108.733,,,22.5,polygon,FALSE,America/Denver,82520
+Ryan Park-WY,1840024100,Ryan Park,Ryan Park,WY,Ryan Park-WY,Wyoming,56007,Carbon,41.3131,-106.4895,,,4.4,polygon,FALSE,America/Denver,82331
+Ralston-WY,1840018594,Ralston,Ralston,WY,Ralston-WY,Wyoming,56029,Park,44.7085,-108.8823,,,17.5,polygon,FALSE,America/Denver,82440 82435
+Hartrandt-WY,1840038429,Hartrandt,Hartrandt,WY,Hartrandt-WY,Wyoming,56025,Natrona,42.8836,-106.3492,,,167.4,polygon,FALSE,America/Denver,82601
+Centennial-WY,1840017462,Centennial,Centennial,WY,Centennial-WY,Wyoming,56001,Albany,41.3005,-106.1355,,,7,polygon,FALSE,America/Denver,82055
+Mountain View-WY,1840022388,Mountain View,Mountain View,WY,Mountain View-WY,Wyoming,56041,Uinta,41.2724,-110.3343,1287,1287,575,polygon,TRUE,America/Denver,82939
+Kaycee-WY,1840021260,Kaycee,Kaycee,WY,Kaycee-WY,Wyoming,56019,Johnson,43.7097,-106.6379,263,263,254,polygon,TRUE,America/Denver,82639
+Recluse-WY,1840038383,Recluse,Recluse,WY,Recluse-WY,Wyoming,56005,Campbell,44.7411,-105.7081,,,2.9,point,FALSE,America/Denver,82725
+La Grange-WY,1840021304,La Grange,La Grange,WY,La Grange-WY,Wyoming,56015,Goshen,41.6384,-104.163,451,451,428,polygon,TRUE,America/Denver,82221
+Story-WY,1840018597,Story,Story,WY,Story-WY,Wyoming,56033,Sheridan,44.5731,-106.9142,,,158.3,polygon,FALSE,America/Denver,82842
+Baggs-WY,1840020095,Baggs,Baggs,WY,Baggs-WY,Wyoming,56007,Carbon,41.0345,-107.6574,430,430,328,polygon,TRUE,America/Denver,82321
+Rafter J Ranch-WY,1840038440,Rafter J Ranch,Rafter J Ranch,WY,Rafter J Ranch-WY,Wyoming,56039,Teton,43.4317,-110.7922,,,497,polygon,FALSE,America/Denver,83001
+Ten Sleep-WY,1840022352,Ten Sleep,Ten Sleep,WY,Ten Sleep-WY,Wyoming,56043,Washakie,44.0349,-107.4483,250,250,533,polygon,TRUE,America/Denver,82442
+Rolling Hills-WY,1840021286,Rolling Hills,Rolling Hills,WY,Rolling Hills-WY,Wyoming,56009,Converse,42.9037,-105.8431,439,439,258,polygon,TRUE,America/Denver,82637
+Pavillion-WY,1840022354,Pavillion,Pavillion,WY,Pavillion-WY,Wyoming,56013,Fremont,43.244,-108.689,236,236,452,polygon,TRUE,America/Denver,82523
+Washam-WY,1840038437,Washam,Washam,WY,Washam-WY,Wyoming,56037,Sweetwater,41.0056,-109.6992,,,0,polygon,FALSE,America/Denver,82938
+Frannie-WY,1840021237,Frannie,Frannie,WY,Frannie-WY,Wyoming,56003,Big Horn,44.971,-108.6205,161,161,140,polygon,TRUE,America/Denver,82423
+Meriden-WY,1840038335,Meriden,Meriden,WY,Meriden-WY,Wyoming,56021,Laramie,41.5436,-104.3191,,,1.4,point,FALSE,America/Denver,82081
+Otto-WY,1840038339,Otto,Otto,WY,Otto-WY,Wyoming,56003,Big Horn,44.4033,-108.2743,,,19.3,point,FALSE,America/Denver,82434
+Basin-WY,1840019977,Basin,Basin,WY,Basin-WY,Wyoming,56003,Big Horn,44.3806,-108.0465,1300,1300,210,polygon,TRUE,America/Denver,82410
+Midwest-WY,1840022358,Midwest,Midwest,WY,Midwest-WY,Wyoming,56025,Natrona,43.4113,-106.2772,400,400,357,polygon,TRUE,America/Denver,82643
+Boulder-WY,1840017449,Boulder,Boulder,WY,Boulder-WY,Wyoming,56035,Sublette,42.7461,-109.7067,,,67.2,polygon,FALSE,America/Denver,82923
+Seminoe Dam-WY,1840038345,Seminoe Dam,Seminoe Dam,WY,Seminoe Dam-WY,Wyoming,56007,Carbon,42.1566,-106.9139,,,2.8,point,FALSE,America/Denver,82334
+James Town-WY,1840017466,James Town,James Town,WY,James Town-WY,Wyoming,56037,Sweetwater,41.5652,-109.5393,,,248.3,polygon,FALSE,America/Denver,82935
+Star Valley Ranch-WY,1840022364,Star Valley Ranch,Star Valley Ranch,WY,Star Valley Ranch-WY,Wyoming,56023,Lincoln,42.9799,-110.9625,1570,1570,224,polygon,TRUE,America/Denver,83127
+Cora-WY,1840017447,Cora,Cora,WY,Cora-WY,Wyoming,56035,Sublette,42.9578,-109.9917,,,12.4,polygon,FALSE,America/Denver,82941 82925
+Wapiti-WY,1840038403,Wapiti,Wapiti,WY,Wapiti-WY,Wyoming,56029,Park,44.4686,-109.4377,,,11.9,point,FALSE,America/Denver,82450
+Marbleton-WY,1840022360,Marbleton,Marbleton,WY,Marbleton-WY,Wyoming,56035,Sublette,42.5579,-110.1009,1069,1069,459,polygon,TRUE,America/Denver,83113
+Orpha-WY,1840038338,Orpha,Orpha,WY,Orpha-WY,Wyoming,56009,Converse,42.8547,-105.5036,,,11.2,point,FALSE,America/Denver,82633
+Red Buttes-WY,1840038341,Red Buttes,Red Buttes,WY,Red Buttes-WY,Wyoming,56001,Albany,41.1825,-105.5947,,,1.3,point,FALSE,America/Denver,82070
+Rock Springs-WY,1840020101,Rock Springs,Rock Springs,WY,Rock Springs-WY,Wyoming,56037,Sweetwater,41.595,-109.2237,27173,23755,474,polygon,TRUE,America/Denver,82901 82902
+Bonneville-WY,1840038320,Bonneville,Bonneville,WY,Bonneville-WY,Wyoming,56013,Fremont,43.2688,-108.0734,,,14.6,point,FALSE,America/Denver,82649
+Thayer Junction-WY,1840038390,Thayer Junction,Thayer Junction,WY,Thayer Junction-WY,Wyoming,56037,Sweetwater,41.6869,-108.9112,,,2.5,point,FALSE,America/Denver,82901
+Etna-WY,1840017452,Etna,Etna,WY,Etna-WY,Wyoming,56023,Lincoln,43.0334,-111.0129,,,73.2,polygon,FALSE,America/Denver,83118
+Slater-WY,1840018686,Slater,Slater,WY,Slater-WY,Wyoming,56031,Platte,41.8776,-104.7887,,,4.7,polygon,FALSE,America/Denver,82201
+Hulett-WY,1840021246,Hulett,Hulett,WY,Hulett-WY,Wyoming,56011,Crook,44.6829,-104.5982,409,409,183,polygon,TRUE,America/Denver,82720
+Lander-WY,1840020027,Lander,Lander,WY,Lander-WY,Wyoming,56013,Fremont,42.8313,-108.7599,7397,7665,315,polygon,TRUE,America/Denver,82520
+Hartville-WY,1840021308,Hartville,Hartville,WY,Hartville-WY,Wyoming,56031,Platte,42.3277,-104.7245,61,61,90,polygon,TRUE,America/Denver,82215
+South Torrington-WY,1840038348,South Torrington,South Torrington,WY,South Torrington-WY,Wyoming,56015,Goshen,42.0497,-104.1794,,,307.8,point,FALSE,America/Denver,82240
+East Thermopolis-WY,1840021267,East Thermopolis,East Thermopolis,WY,East Thermopolis-WY,Wyoming,56017,Hot Springs,43.6441,-108.1979,244,244,519,polygon,TRUE,America/Denver,82443
+Manville-WY,1840022356,Manville,Manville,WY,Manville-WY,Wyoming,56027,Niobrara,42.7795,-104.6173,93,93,132,polygon,TRUE,America/Denver,82227
+Bear River-WY,1840020123,Bear River,Bear River,WY,Bear River-WY,Wyoming,56041,Uinta,41.3859,-111.0271,517,517,103,polygon,TRUE,America/Denver,82930
+Fort Bridger-WY,1840017483,Fort Bridger,Fort Bridger,WY,Fort Bridger-WY,Wyoming,56041,Uinta,41.3183,-110.3894,,,39,polygon,FALSE,America/Denver,82933
+Rawlins-WY,1840020094,Rawlins,Rawlins,WY,Rawlins-WY,Wyoming,56007,Carbon,41.7849,-107.2265,9087,9075,424,polygon,TRUE,America/Denver,82301
+Rock River-WY,1840021315,Rock River,Rock River,WY,Rock River-WY,Wyoming,56001,Albany,41.7317,-105.9752,244,244,40,polygon,TRUE,America/Denver,82083
+Newcastle-WY,1840020012,Newcastle,Newcastle,WY,Newcastle-WY,Wyoming,56045,Weston,43.851,-104.2125,3280,3535,532,polygon,TRUE,America/Denver,82701
+Van Tassell-WY,1840022357,Van Tassell,Van Tassell,WY,Van Tassell-WY,Wyoming,56027,Niobrara,42.6643,-104.0913,15,15,3,polygon,TRUE,America/Denver,82242
+Hawk Springs-WY,1840017459,Hawk Springs,Hawk Springs,WY,Hawk Springs-WY,Wyoming,56015,Goshen,41.7852,-104.265,,,53.5,polygon,FALSE,America/Denver,82244 82217
+Red Butte-WY,1840018658,Red Butte,Red Butte,WY,Red Butte-WY,Wyoming,56025,Natrona,42.8051,-106.4338,,,354.3,polygon,FALSE,America/Denver,82604
+Douglas-WY,1840018655,Douglas,Douglas,WY,Douglas-WY,Wyoming,56009,Converse,42.7547,-105.3834,6600,6541,552,polygon,TRUE,America/Denver,82633
+Guernsey-WY,1840021307,Guernsey,Guernsey,WY,Guernsey-WY,Wyoming,56031,Platte,42.2658,-104.743,1171,1171,441,polygon,TRUE,America/Denver,82214
+Manderson-WY,1840022342,Manderson,Manderson,WY,Manderson-WY,Wyoming,56003,Big Horn,44.2699,-107.9641,118,118,53,polygon,TRUE,America/Denver,82432
+Burris-WY,1840038364,Burris,Burris,WY,Burris-WY,Wyoming,56013,Fremont,43.3641,-109.2749,,,2.5,point,FALSE,America/Denver,82512
+Osage-WY,1840018629,Osage,Osage,WY,Osage-WY,Wyoming,56045,Weston,43.9848,-104.4269,,,170.7,polygon,FALSE,America/Denver,82723
+Cokeville-WY,1840022363,Cokeville,Cokeville,WY,Cokeville-WY,Wyoming,56023,Lincoln,42.0712,-110.9598,547,547,179,polygon,TRUE,America/Denver,83114
+Wamsutter-WY,1840022374,Wamsutter,Wamsutter,WY,Wamsutter-WY,Wyoming,56037,Sweetwater,41.6679,-107.979,484,484,108,polygon,TRUE,America/Denver,82336
+Moorcroft-WY,1840022346,Moorcroft,Moorcroft,WY,Moorcroft-WY,Wyoming,56011,Crook,44.2646,-104.9476,1063,1063,324,polygon,TRUE,America/Denver,82721
+Egbert-WY,1840038400,Egbert,Egbert,WY,Egbert-WY,Wyoming,56021,Laramie,41.1697,-104.2569,,,17.6,point,FALSE,America/Denver,82053
+Byron-WY,1840022343,Byron,Byron,WY,Byron-WY,Wyoming,56003,Big Horn,44.7964,-108.5082,614,614,261,polygon,TRUE,America/Denver,82412 82431
+Auburn-WY,1840017450,Auburn,Auburn,WY,Auburn-WY,Wyoming,56023,Lincoln,42.7944,-111.0135,,,79.7,polygon,FALSE,America/Denver,83111
+Rozet-WY,1840038386,Rozet,Rozet,WY,Rozet-WY,Wyoming,56005,Campbell,44.278,-105.2061,,,42.1,point,FALSE,America/Denver,82727
+Orin-WY,1840026161,Orin,Orin,WY,Orin-WY,Wyoming,56009,Converse,42.6506,-105.1824,,,1.6,polygon,FALSE,America/Denver,82633
+Lonetree-WY,1840017482,Lonetree,Lonetree,WY,Lonetree-WY,Wyoming,56041,Uinta,41.0273,-110.1536,,,2.1,polygon,FALSE,America/Denver,82936
+Pine Bluffs-WY,1840022387,Pine Bluffs,Pine Bluffs,WY,Pine Bluffs-WY,Wyoming,56021,Laramie,41.1803,-104.0692,1152,1152,137,polygon,TRUE,America/Denver,82082
+Y-O Ranch-WY,1840038439,Y-O Ranch,Y-O Ranch,WY,Y-O Ranch-WY,Wyoming,56031,Platte,42.0351,-104.9229,,,16.9,polygon,FALSE,America/Denver,82201
+Cody-WY,1840018595,Cody,Cody,WY,Cody-WY,Wyoming,56029,Park,44.5212,-109.055,9648,9836,372,polygon,TRUE,America/Denver,82414
+Turnerville-WY,1840018661,Turnerville,Turnerville,WY,Turnerville-WY,Wyoming,56023,Lincoln,42.8622,-110.9007,,,18.6,polygon,FALSE,America/Denver,83112
+Sleepy Hollow-WY,1840038442,Sleepy Hollow,Sleepy Hollow,WY,Sleepy Hollow-WY,Wyoming,56005,Campbell,44.2327,-105.4309,,,141.9,polygon,FALSE,America/Denver,82718
+Gillette-WY,1840019978,Gillette,Gillette,WY,Gillette-WY,Wyoming,56005,Campbell,44.2793,-105.5013,36446,32398,600,polygon,TRUE,America/Denver,82718 82716 82717
+Veteran-WY,1840018685,Veteran,Veteran,WY,Veteran-WY,Wyoming,56015,Goshen,41.9627,-104.3863,,,33,polygon,FALSE,America/Denver,82243
+Hudson-WY,1840021270,Hudson,Hudson,WY,Hudson-WY,Wyoming,56013,Fremont,42.9028,-108.5819,454,454,411,polygon,TRUE,America/Denver,82515 82520
+Orchard Valley-WY,1840038410,Orchard Valley,Orchard Valley,WY,Orchard Valley-WY,Wyoming,56021,Laramie,41.0966,-104.8194,,,354.4,point,FALSE,America/Denver,82007
+Lovell-WY,1840021242,Lovell,Lovell,WY,Lovell-WY,Wyoming,56003,Big Horn,44.8357,-108.3919,2421,2421,848,polygon,TRUE,America/Denver,82431
+Elk Mountain-WY,1840021311,Elk Mountain,Elk Mountain,WY,Elk Mountain-WY,Wyoming,56007,Carbon,41.6884,-106.4134,196,196,273,polygon,TRUE,America/Denver,82324
+Bar Nunn-WY,1840020060,Bar Nunn,Bar Nunn,WY,Bar Nunn-WY,Wyoming,56025,Natrona,42.922,-106.3475,2785,2785,512,polygon,TRUE,America/Denver,82601
+Kinnear-WY,1840038330,Kinnear,Kinnear,WY,Kinnear-WY,Wyoming,56013,Fremont,43.1519,-108.6776,,,32.8,point,FALSE,America/Denver,82501
+Woods Landing-WY,1840038405,Woods Landing,Woods Landing,WY,Woods Landing-WY,Wyoming,56001,Albany,41.1105,-106.0133,,,6,point,FALSE,America/Denver,82063
+Moose Wilson Road-WY,1840038434,Moose Wilson Road,Moose Wilson Road,WY,Moose Wilson Road-WY,Wyoming,56039,Teton,43.5315,-110.834,,,427,polygon,FALSE,America/Denver,83014
+Parkerton-WY,1840038380,Parkerton,Parkerton,WY,Parkerton-WY,Wyoming,56009,Converse,42.8511,-105.9731,,,1,point,FALSE,America/Denver,82637
+McFadden-WY,1840038415,McFadden,McFadden,WY,McFadden-WY,Wyoming,56007,Carbon,41.6544,-106.1306,,,5.2,point,FALSE,America/Denver,82083
+Table Rock-WY,1840018693,Table Rock,Table Rock,WY,Table Rock-WY,Wyoming,56037,Sweetwater,41.622,-108.404,,,0,polygon,FALSE,America/Denver,82901
+Powder River-WY,1840018657,Powder River,Powder River,WY,Powder River-WY,Wyoming,56025,Natrona,43.049,-106.9932,,,13.4,polygon,FALSE,America/Denver,82604 82648
+Moose-WY,1840038336,Moose,Moose,WY,Moose-WY,Wyoming,56039,Teton,43.6558,-110.7183,,,27.6,point,FALSE,America/Denver,83012
+Esterbrook-WY,1840017444,Esterbrook,Esterbrook,WY,Esterbrook-WY,Wyoming,56009,Converse,42.4061,-105.3858,,,6.3,polygon,FALSE,America/Denver,82633
+Garland-WY,1840017425,Garland,Garland,WY,Garland-WY,Wyoming,56029,Park,44.7777,-108.6542,,,33.2,polygon,FALSE,America/Denver,82435
+Owl Creek-WY,1840018631,Owl Creek,Owl Creek,WY,Owl Creek-WY,Wyoming,56017,Hot Springs,43.7819,-108.5679,,,0,polygon,FALSE,America/Denver,82443
+Carpenter-WY,1840024139,Carpenter,Carpenter,WY,Carpenter-WY,Wyoming,56021,Laramie,41.0456,-104.3644,,,147.1,polygon,FALSE,America/Denver,82054
+Pinedale-WY,1840022361,Pinedale,Pinedale,WY,Pinedale-WY,Wyoming,56035,Sublette,42.868,-109.871,1895,1895,338,polygon,TRUE,America/Denver,82941
+Allendale-WY,1840038314,Allendale,Allendale,WY,Allendale-WY,Wyoming,56025,Natrona,42.8147,-106.3106,,,43.1,point,FALSE,America/Denver,82601
+Edgerton-WY,1840021289,Edgerton,Edgerton,WY,Edgerton-WY,Wyoming,56025,Natrona,43.4141,-106.2477,197,197,300,polygon,TRUE,America/Denver,82635
+Smoot-WY,1840018660,Smoot,Smoot,WY,Smoot-WY,Wyoming,56023,Lincoln,42.6191,-110.9196,,,76.9,polygon,FALSE,America/Denver,83126
+Fairview-WY,1840017453,Fairview,Fairview,WY,Fairview-WY,Wyoming,56023,Lincoln,42.6871,-110.9866,,,54.1,polygon,FALSE,America/Denver,83110 83119
+Chugcreek-WY,1840038427,Chugcreek,Chugcreek,WY,Chugcreek-WY,Wyoming,56031,Platte,42.0535,-104.9079,,,136.7,polygon,FALSE,America/Denver,82201
+Arapahoe-WY,1840017433,Arapahoe,Arapahoe,WY,Arapahoe-WY,Wyoming,56013,Fremont,42.9911,-108.4562,,,42.4,polygon,FALSE,America/Denver,82510 82501
+Banner-WY,1840038358,Banner,Banner,WY,Banner-WY,Wyoming,56033,Sheridan,44.6014,-106.8653,,,1.7,point,FALSE,America/Denver,82832
+Wheatland-WY,1840022368,Wheatland,Wheatland,WY,Wheatland-WY,Wyoming,56031,Platte,42.0516,-104.9595,3563,3606,339,polygon,TRUE,America/Denver,82201
+Evanston-WY,1840020122,Evanston,Evanston,WY,Evanston-WY,Wyoming,56041,Uinta,41.2602,-110.9646,11755,12090,453,polygon,TRUE,America/Denver,82930 82931
+Thermopolis-WY,1840022353,Thermopolis,Thermopolis,WY,Thermopolis-WY,Wyoming,56017,Hot Springs,43.6479,-108.2139,3218,2937,475,polygon,TRUE,America/Denver,82443
+Sheridan-WY,1840021243,Sheridan,Sheridan,WY,Sheridan-WY,Wyoming,56033,Sheridan,44.7949,-106.9611,19335,17954,632,polygon,TRUE,America/Denver,82801
+Farson-WY,1840017465,Farson,Farson,WY,Farson-WY,Wyoming,56037,Sweetwater,42.1528,-109.4283,,,40.7,polygon,FALSE,America/Denver,82932
+Leiter-WY,1840038371,Leiter,Leiter,WY,Leiter-WY,Wyoming,56033,Sheridan,44.718,-106.2692,,,6.2,point,FALSE,America/Denver,82837
+Hanna-WY,1840021314,Hanna,Hanna,WY,Hanna-WY,Wyoming,56007,Carbon,41.8698,-106.5596,812,812,153,polygon,TRUE,America/Denver,82327
+Riverton-WY,1840020026,Riverton,Riverton,WY,Riverton-WY,Wyoming,56013,Fremont,43.0416,-108.4125,12705,10997,424,polygon,TRUE,America/Denver,82501
+Fort Washakie-WY,1840017436,Fort Washakie,Fort Washakie,WY,Fort Washakie-WY,Wyoming,56013,Fremont,43.0069,-108.9205,,,180.7,polygon,FALSE,America/Denver,82514 82520
+Hillsdale-WY,1840024140,Hillsdale,Hillsdale,WY,Hillsdale-WY,Wyoming,56021,Laramie,41.208,-104.4744,,,52.8,polygon,FALSE,America/Denver,82060
+Paradise Valley-WY,1840038340,Paradise Valley,Paradise Valley,WY,Paradise Valley-WY,Wyoming,56025,Natrona,42.8175,-106.3984,,,1331.7,point,FALSE,America/Denver,82604
+Hoback-WY,1840017430,Hoback,Hoback,WY,Hoback-WY,Wyoming,56039,Teton,43.3082,-110.7443,,,1,polygon,FALSE,America/Denver,83001
+Grover-WY,1840017455,Grover,Grover,WY,Grover-WY,Wyoming,56023,Lincoln,42.7947,-110.9294,,,36.8,polygon,FALSE,America/Denver,83122
+Mammoth-WY,1840023927,Mammoth,Mammoth,WY,Mammoth-WY,Wyoming,56029,Park,44.9733,-110.6931,,,42.8,polygon,FALSE,America/Denver,82190
+Johnstown-WY,1840038432,Johnstown,Johnstown,WY,Johnstown-WY,Wyoming,56013,Fremont,43.1118,-108.6955,,,2.7,polygon,FALSE,America/Denver,82516 82501
+Devils Tower-WY,1840038409,Devils Tower,Devils Tower,WY,Devils Tower-WY,Wyoming,56011,Crook,44.5892,-104.6966,,,4.1,point,FALSE,America/Denver,82714
+Kelly-WY,1840026121,Kelly,Kelly,WY,Kelly-WY,Wyoming,56039,Teton,43.6233,-110.6265,,,41.5,polygon,FALSE,America/Denver,83011
+Emblem-WY,1840038411,Emblem,Emblem,WY,Emblem-WY,Wyoming,56003,Big Horn,44.5058,-108.3918,,,2.3,point,FALSE,America/Denver,82422
+Almy-WY,1840038315,Almy,Almy,WY,Almy-WY,Wyoming,56041,Uinta,41.3316,-111.0046,,,15.2,point,FALSE,America/Denver,82930
+Quealy-WY,1840038382,Quealy,Quealy,WY,Quealy-WY,Wyoming,56037,Sweetwater,41.5383,-109.2226,,,1.4,point,FALSE,America/Denver,82901
+Bondurant-WY,1840017448,Bondurant,Bondurant,WY,Bondurant-WY,Wyoming,56035,Sublette,43.1948,-110.4026,,,4.1,polygon,FALSE,America/Denver,82922
+Hyattville-WY,1840017426,Hyattville,Hyattville,WY,Hyattville-WY,Wyoming,56003,Big Horn,44.2498,-107.6148,,,48,polygon,FALSE,America/Denver,82428
+Carter-WY,1840017481,Carter,Carter,WY,Carter-WY,Wyoming,56041,Uinta,41.4405,-110.4303,,,3.2,polygon,FALSE,America/Denver,82937
+Lusk-WY,1840021285,Lusk,Lusk,WY,Lusk-WY,Wyoming,56027,Niobrara,42.7612,-104.4583,1599,1599,298,polygon,TRUE,America/Denver,82225
+Ranchettes-WY,1840038441,Ranchettes,Ranchettes,WY,Ranchettes-WY,Wyoming,56021,Laramie,41.2184,-104.7729,,,38.9,polygon,FALSE,America/Denver,82009
+Savery-WY,1840038344,Savery,Savery,WY,Savery-WY,Wyoming,56007,Carbon,41.025,-107.4498,,,2.1,point,FALSE,America/Denver,82332
+Shoshoni-WY,1840022355,Shoshoni,Shoshoni,WY,Shoshoni-WY,Wyoming,56013,Fremont,43.238,-108.1068,644,644,69,polygon,TRUE,America/Denver,82649
+Ranchester-WY,1840021245,Ranchester,Ranchester,WY,Ranchester-WY,Wyoming,56033,Sheridan,44.9079,-107.1661,944,944,586,polygon,TRUE,America/Denver,82839
+Lucerne-WY,1840017431,Lucerne,Lucerne,WY,Lucerne-WY,Wyoming,56017,Hot Springs,43.7136,-108.1872,,,19.7,polygon,FALSE,America/Denver,82443
+Big Piney-WY,1840020061,Big Piney,Big Piney,WY,Big Piney-WY,Wyoming,56035,Sublette,42.5403,-110.1213,521,521,449,polygon,TRUE,America/Denver,83113
+Teton Village-WY,1840018613,Teton Village,Teton Village,WY,Teton Village-WY,Wyoming,56039,Teton,43.5931,-110.8441,,,26.1,polygon,FALSE,America/Denver,83025

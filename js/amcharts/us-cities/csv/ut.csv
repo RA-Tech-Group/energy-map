@@ -1,0 +1,365 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Stansbury park-UT,1840037176,Stansbury park,Stansbury park,UT,Stansbury park-UT,Utah,49045,Tooele,40.6356,-112.3054,,,1835.3,polygon,FALSE,America/Denver,84074
+South Ogden-UT,1840021342,South Ogden,South Ogden,UT,South Ogden-UT,Utah,49057,Weber,41.1715,-111.9568,17094,17094,1792,polygon,TRUE,America/Denver,84405 84403
+Hildale-UT,1840020315,Hildale,Hildale,UT,Hildale-UT,Utah,49053,Washington,37.0171,-112.9786,2945,2945,203,polygon,TRUE,America/Denver,84784
+Central Valley-UT,1840022479,Central Valley,Central Valley,UT,Central Valley-UT,Utah,49041,Sevier,38.6991,-112.0966,561,561,103,polygon,TRUE,America/Denver,84754
+Columbia-UT,1840037152,Columbia,Columbia,UT,Columbia-UT,Utah,49007,Carbon,39.5169,-110.3827,,,38.5,point,FALSE,America/Denver,84520
+Minersville-UT,1840022508,Minersville,Minersville,UT,Minersville-UT,Utah,49001,Beaver,38.2333,-112.9603,887,887,157,polygon,TRUE,America/Denver,84752
+Fremont-UT,1840026747,Fremont,Fremont,UT,Fremont-UT,Utah,49055,Wayne,38.4555,-111.6149,,,57.9,polygon,FALSE,America/Denver,84747
+Harrisville-UT,1840020129,Harrisville,Harrisville,UT,Harrisville-UT,Utah,49057,Weber,41.2854,-111.986,6376,6376,811,polygon,TRUE,America/Denver,84404 84414
+North Salt Lake-UT,1840020144,North Salt Lake,North Salt Lake,UT,North Salt Lake-UT,Utah,49011,Davis,40.8439,-111.9188,20301,20301,926,polygon,TRUE,America/Denver,84054
+Spanish Fork-UT,1840021398,Spanish Fork,Spanish Fork,UT,Spanish Fork-UT,Utah,49049,Utah,40.11,-111.6407,38861,38861,961,polygon,TRUE,America/Denver,84660
+Oak City-UT,1840022460,Oak City,Oak City,UT,Oak City-UT,Utah,49027,Millard,39.3769,-112.3399,644,644,282,polygon,TRUE,America/Denver,84649
+Orem-UT,1840020171,Orem,Orem,UT,Orem-UT,Utah,49049,Utah,40.2988,-111.699,97499,97499,2065,polygon,TRUE,America/Denver,84097 84058 84057 84059
+Penrose-UT,1840037205,Penrose,Penrose,UT,Penrose-UT,Utah,49003,Box Elder,41.6508,-112.3016,,,31.5,point,FALSE,America/Denver,84337
+West Valley City-UT,1840021389,West Valley City,West Valley City,UT,West Valley City-UT,Utah,49035,Salt Lake,40.6889,-112.0115,136574,136574,1486,polygon,TRUE,America/Denver,84119 84120 84128 84118 84125 84126 84127 84130 84131 84170
+Goshen-UT,1840021403,Goshen,Goshen,UT,Goshen-UT,Utah,49049,Utah,39.951,-111.9008,949,949,445,polygon,TRUE,America/Denver,84633
+Caineville-UT,1840037151,Caineville,Caineville,UT,Caineville-UT,Utah,49055,Wayne,38.333,-111.0188,,,3.2,point,FALSE,America/Denver,84775
+Enoch-UT,1840020273,Enoch,Enoch,UT,Enoch-UT,Utah,49021,Iron,37.7665,-113.0431,6568,6568,351,polygon,TRUE,America/Denver,84721
+Spanish Valley-UT,1840037249,Spanish Valley,Spanish Valley,UT,Spanish Valley-UT,Utah,49037,San Juan,38.4743,-109.421,,,143.7,polygon,FALSE,America/Denver,84532
+Bothwell-UT,1840037150,Bothwell,Bothwell,UT,Bothwell-UT,Utah,49003,Box Elder,41.7171,-112.2588,,,41.5,point,FALSE,America/Denver,84337
+Paradise-UT,1840022376,Paradise,Paradise,UT,Paradise-UT,Utah,49005,Cache,41.5678,-111.833,950,950,264,polygon,TRUE,America/Denver,84328
+Teasdale-UT,1840026748,Teasdale,Teasdale,UT,Teasdale-UT,Utah,49055,Wayne,38.2852,-111.4725,,,53,polygon,FALSE,America/Denver,84773
+Tropic-UT,1840022531,Tropic,Tropic,UT,Tropic-UT,Utah,49017,Garfield,37.6293,-112.0914,509,509,24,polygon,TRUE,America/Denver,84776
+Bridgeland-UT,1840037182,Bridgeland,Bridgeland,UT,Bridgeland-UT,Utah,49013,Duchesne,40.163,-110.2343,,,9.8,point,FALSE,America/Denver,84021
+LaVerkin-UT,1840037162,LaVerkin,LaVerkin,UT,LaVerkin-UT,Utah,49053,Washington,37.2309,-113.2523,4246,4246,128,polygon,TRUE,America/Denver,84745
+Cedar Hills-UT,1840018754,Cedar Hills,Cedar Hills,UT,Cedar Hills-UT,Utah,49049,Utah,40.4135,-111.753,10374,10374,1476,polygon,TRUE,America/Denver,84062
+Clear Creek-UT,1840024370,Clear Creek,Clear Creek,UT,Clear Creek-UT,Utah,49007,Carbon,39.6434,-111.1548,,,5,polygon,FALSE,America/Denver,84526
+Magna-UT,1840017499,Magna,Magna,UT,Magna-UT,Utah,49035,Salt Lake,40.7094,-112.0828,,,1749.2,polygon,FALSE,America/Denver,84044
+Hooper-UT,1840020130,Hooper,Hooper,UT,Hooper-UT,Utah,49057,Weber,41.1598,-112.287,8466,8466,125,polygon,TRUE,America/Denver,84315
+Francis-UT,1840021346,Francis,Francis,UT,Francis-UT,Utah,49043,Summit,40.6105,-111.2744,1347,1347,198,polygon,TRUE,America/Denver,84036
+Sugarville-UT,1840037210,Sugarville,Sugarville,UT,Sugarville-UT,Utah,49027,Millard,39.4652,-112.6494,,,8.7,point,FALSE,America/Denver,84624
+Bluffdale-UT,1840018745,Bluffdale,Bluffdale,UT,Bluffdale-UT,Utah,49035,Salt Lake,40.4743,-111.9383,11809,11809,415,polygon,TRUE,America/Denver,84065
+Kanarraville-UT,1840021527,Kanarraville,Kanarraville,UT,Kanarraville-UT,Utah,49021,Iron,37.5378,-113.181,378,378,327,polygon,TRUE,America/Denver,84720 84742
+Bountiful-UT,1840018737,Bountiful,Bountiful,UT,Bountiful-UT,Utah,49011,Davis,40.8722,-111.8647,44078,44078,1288,polygon,TRUE,America/Denver,84010 84011
+Mexican Hat-UT,1840018874,Mexican Hat,Mexican Hat,UT,Mexican Hat-UT,Utah,49037,San Juan,37.1731,-109.8731,,,4.3,polygon,FALSE,America/Denver,84531
+Big Water-UT,1840020326,Big Water,Big Water,UT,Big Water-UT,Utah,49025,Kane,37.0729,-111.6608,480,480,30,polygon,TRUE,America/Denver,84741
+Greenwich-UT,1840037194,Greenwich,Greenwich,UT,Greenwich-UT,Utah,49031,Piute,38.4311,-111.923,,,27.8,point,FALSE,America/Denver,84732
+Emory-UT,1840037189,Emory,Emory,UT,Emory-UT,Utah,49043,Summit,41.0488,-111.3044,,,5.7,point,FALSE,America/Denver,84017
+Mount Pleasant-UT,1840020208,Mount Pleasant,Mount Pleasant,UT,Mount Pleasant-UT,Utah,49039,Sanpete,39.5406,-111.456,3308,3363,443,polygon,TRUE,America/Denver,84647
+Saratoga Springs-UT,1840021397,Saratoga Springs,Saratoga Springs,UT,Saratoga Springs-UT,Utah,49049,Utah,40.3421,-111.9134,26887,26887,480,polygon,TRUE,America/Denver,84045
+Richmond-UT,1840020109,Richmond,Richmond,UT,Richmond-UT,Utah,49005,Cache,41.9231,-111.8074,2600,2600,289,polygon,TRUE,America/Denver,84333
+Providence-UT,1840020115,Providence,Providence,UT,Providence-UT,Utah,49005,Cache,41.703,-111.8122,7270,7270,747,polygon,TRUE,America/Denver,84332
+Laketown-UT,1840021325,Laketown,Laketown,UT,Laketown-UT,Utah,49033,Rich,41.8275,-111.3243,259,259,39,polygon,TRUE,America/Denver,84038
+Manila-UT,1840022409,Manila,Manila,UT,Manila-UT,Utah,49009,Daggett,40.9922,-109.721,324,324,120,polygon,TRUE,America/Denver,84046
+Wales-UT,1840022444,Wales,Wales,UT,Wales-UT,Utah,49039,Sanpete,39.4851,-111.636,355,355,345,polygon,TRUE,America/Denver,84667
+Clawson-UT,1840022447,Clawson,Clawson,UT,Clawson-UT,Utah,49015,Emery,39.139,-111.0935,190,190,73,polygon,TRUE,America/Denver,84523 84516
+Vernon-UT,1840022395,Vernon,Vernon,UT,Vernon-UT,Utah,49045,Tooele,40.0956,-112.4458,294,294,14,polygon,TRUE,America/Denver,84080
+Hyrum-UT,1840018699,Hyrum,Hyrum,UT,Hyrum-UT,Utah,49005,Cache,41.6317,-111.8439,8027,8027,648,polygon,TRUE,America/Denver,84319
+West Bountiful-UT,1840021353,West Bountiful,West Bountiful,UT,West Bountiful-UT,Utah,49011,Davis,40.8983,-111.908,5574,5574,663,polygon,TRUE,America/Denver,84087
+New Harmony-UT,1840022558,New Harmony,New Harmony,UT,New Harmony-UT,Utah,49053,Washington,37.4803,-113.3097,220,220,140,polygon,TRUE,America/Denver,84757
+Cedar Fort-UT,1840022418,Cedar Fort,Cedar Fort,UT,Cedar Fort-UT,Utah,49049,Utah,40.3413,-112.109,389,389,7,polygon,TRUE,America/Denver,84013
+Wallsburg-UT,1840022415,Wallsburg,Wallsburg,UT,Wallsburg-UT,Utah,49051,Wasatch,40.3874,-111.4206,340,340,253,polygon,TRUE,America/Denver,84082
+La Sal-UT,1840017596,La Sal,La Sal,UT,La Sal-UT,Utah,49037,San Juan,38.3025,-109.2646,,,20.1,polygon,FALSE,America/Denver,84530 84532
+Hinckley-UT,1840021456,Hinckley,Hinckley,UT,Hinckley-UT,Utah,49027,Millard,39.3336,-112.6736,698,698,54,polygon,TRUE,America/Denver,84635
+Pine Valley-UT,1840026839,Pine Valley,Pine Valley,UT,Pine Valley-UT,Utah,49053,Washington,37.3904,-113.5061,,,57.7,polygon,FALSE,America/Denver,84781
+Snyderville-UT,1840024187,Snyderville,Snyderville,UT,Snyderville-UT,Utah,49043,Summit,40.7042,-111.5438,,,581.7,polygon,FALSE,America/Denver,84098
+Lund-UT,1840037165,Lund,Lund,UT,Lund-UT,Utah,49021,Iron,38.0075,-113.4316,,,6.4,point,FALSE,America/Denver,84721
+Centerville-UT,1840018734,Centerville,Centerville,UT,Centerville-UT,Utah,49011,Davis,40.9284,-111.8848,17286,17286,1117,polygon,TRUE,America/Denver,84014
+Marysvale-UT,1840022513,Marysvale,Marysvale,UT,Marysvale-UT,Utah,49031,Piute,38.4384,-112.2545,403,403,8,polygon,TRUE,America/Denver,84750
+Hurricane-UT,1840018936,Hurricane,Hurricane,UT,Hurricane-UT,Utah,49053,Washington,37.1497,-113.3526,19202,16159,121,polygon,TRUE,America/Denver,84737
+West Jordan-UT,1840021388,West Jordan,West Jordan,UT,West Jordan-UT,Utah,49035,Salt Lake,40.6024,-112.0008,113699,113699,1358,polygon,TRUE,America/Denver,84088 84081 84084
+North Ogden-UT,1840020134,North Ogden,North Ogden,UT,North Ogden-UT,Utah,49057,Weber,41.3124,-111.9586,18791,18791,991,polygon,TRUE,America/Denver,84414
+Ivins-UT,1840018937,Ivins,Ivins,UT,Ivins-UT,Utah,49053,Washington,37.1742,-113.6809,8132,8132,332,polygon,TRUE,America/Denver,84738
+Tooele-UT,1840021356,Tooele,Tooele,UT,Tooele-UT,Utah,49045,Tooele,40.5394,-112.3082,33178,33762,541,polygon,TRUE,America/Denver,84074
+Interlaken-UT,1840037255,Interlaken,Interlaken,UT,Interlaken-UT,Utah,49051,Wasatch,40.5417,-111.473,209,209,296.9,point,TRUE,America/Denver,84049
+Oasis-UT,1840024464,Oasis,Oasis,UT,Oasis-UT,Utah,49027,Millard,39.2923,-112.629,,,64.2,polygon,FALSE,America/Denver,84624
+Holladay-UT,1840020156,Holladay,Holladay,UT,Holladay-UT,Utah,49035,Salt Lake,40.6599,-111.8226,30831,30831,1402,polygon,TRUE,America/Denver,84117 84121 84124
+Toquerville-UT,1840022560,Toquerville,Toquerville,UT,Toquerville-UT,Utah,49053,Washington,37.2515,-113.2962,1547,1547,34,polygon,TRUE,America/Denver,84746 84774
+Riverton-UT,1840020157,Riverton,Riverton,UT,Riverton-UT,Utah,49035,Salt Lake,40.5176,-111.9635,42838,42838,1308,polygon,TRUE,America/Denver,84096 84065
+Emery-UT,1840021445,Emery,Emery,UT,Emery-UT,Utah,49015,Emery,38.9251,-111.2522,266,266,83,polygon,TRUE,America/Denver,84522
+Peoa-UT,1840024186,Peoa,Peoa,UT,Peoa-UT,Utah,49043,Summit,40.7257,-111.338,,,33.5,polygon,FALSE,America/Denver,84061
+Vernal-UT,1840021391,Vernal,Vernal,UT,Vernal-UT,Utah,49047,Uintah,40.4517,-109.5379,20356,10681,892,polygon,TRUE,America/Denver,84078 84008 84079
+Erda-UT,1840017495,Erda,Erda,UT,Erda-UT,Utah,49045,Tooele,40.6028,-112.3214,,,57.9,polygon,FALSE,America/Denver,84074
+Wendover-UT,1840021357,Wendover,Wendover,UT,Wendover-UT,Utah,49045,Tooele,40.724,-114.025,1407,1407,60,polygon,TRUE,America/Denver,84083
+Logan-UT,1840020108,Logan,Logan,UT,Logan-UT,Utah,49005,Cache,41.7403,-111.8418,99909,50676,1114,polygon,TRUE,America/Denver,84321 84341 84322
+Midvale-UT,1840020158,Midvale,Midvale,UT,Midvale-UT,Utah,49035,Salt Lake,40.6148,-111.8928,33035,33035,2157,polygon,TRUE,America/Denver,84047
+Pintura-UT,1840037229,Pintura,Pintura,UT,Pintura-UT,Utah,49053,Washington,37.3408,-113.2741,,,2.8,point,FALSE,America/Denver,84774
+Kenilworth-UT,1840024371,Kenilworth,Kenilworth,UT,Kenilworth-UT,Utah,49007,Carbon,39.6803,-110.8145,,,226.8,polygon,FALSE,America/Denver,84529
+Monroe-UT,1840020240,Monroe,Monroe,UT,Monroe-UT,Utah,49041,Sevier,38.6229,-112.1198,2321,2321,249,polygon,TRUE,America/Denver,84754
+Rush Valley-UT,1840021358,Rush Valley,Rush Valley,UT,Rush Valley-UT,Utah,49045,Tooele,40.3613,-112.4506,479,479,10,polygon,TRUE,America/Denver,84069
+Sigurd-UT,1840022480,Sigurd,Sigurd,UT,Sigurd-UT,Utah,49041,Sevier,38.8509,-111.9673,438,438,172,polygon,TRUE,America/Denver,84620 84657
+Lyman-UT,1840021507,Lyman,Lyman,UT,Lyman-UT,Utah,49055,Wayne,38.3966,-111.5894,251,251,53,polygon,TRUE,America/Denver,84749 84747
+Apple Valley-UT,1840021562,Apple Valley,Apple Valley,UT,Apple Valley-UT,Utah,49053,Washington,37.081,-113.1034,739,739,7,polygon,TRUE,America/Denver,84763 84737
+Scofield-UT,1840022440,Scofield,Scofield,UT,Scofield-UT,Utah,49007,Carbon,39.7198,-111.1623,23,23,9,polygon,TRUE,America/Denver,84526
+Bennion-UT,1840037149,Bennion,Bennion,UT,Bennion-UT,Utah,49035,Salt Lake,40.6386,-111.9388,,,1555.8,point,FALSE,America/Denver,84118
+Smithfield-UT,1840021321,Smithfield,Smithfield,UT,Smithfield-UT,Utah,49005,Cache,41.8345,-111.8268,11146,11146,839,polygon,TRUE,America/Denver,84335
+American Fork-UT,1840018756,American Fork,American Fork,UT,American Fork-UT,Utah,49049,Utah,40.3815,-111.7935,28770,28770,1183,polygon,TRUE,America/Denver,84003
+Benjamin-UT,1840017503,Benjamin,Benjamin,UT,Benjamin-UT,Utah,49049,Utah,40.0945,-111.7388,,,98.1,polygon,FALSE,America/Denver,84660 84651
+Spring Glen-UT,1840024372,Spring Glen,Spring Glen,UT,Spring Glen-UT,Utah,49007,Carbon,39.6561,-110.8461,,,428.1,polygon,FALSE,America/Denver,84526
+Kearns-UT,1840017500,Kearns,Kearns,UT,Kearns-UT,Utah,49035,Salt Lake,40.652,-112.0093,,,3237,polygon,FALSE,America/Denver,84118
+Westwater-UT,1840037213,Westwater,Westwater,UT,Westwater-UT,Utah,49019,Grand,39.0783,-109.1123,,,2.1,point,FALSE,America/Denver,84515
+Monticello-UT,1840020257,Monticello,Monticello,UT,Monticello-UT,Utah,49037,San Juan,37.8684,-109.3384,2213,2213,236,polygon,TRUE,America/Denver,84535
+Cove-UT,1840017474,Cove,Cove,UT,Cove-UT,Utah,49005,Cache,41.9683,-111.7793,,,56.6,polygon,FALSE,America/Denver,84320 84333
+Avon-UT,1840017475,Avon,Avon,UT,Avon-UT,Utah,49005,Cache,41.5355,-111.8125,,,73.6,polygon,FALSE,America/Denver,84328
+Bluebell-UT,1840024270,Bluebell,Bluebell,UT,Bluebell-UT,Utah,49013,Duchesne,40.3576,-110.2232,,,21.4,polygon,FALSE,America/Denver,84007
+Grantsville-UT,1840020146,Grantsville,Grantsville,UT,Grantsville-UT,Utah,49045,Tooele,40.6148,-112.4777,7848,10459,107,polygon,TRUE,America/Denver,84029
+Eureka-UT,1840020186,Eureka,Eureka,UT,Eureka-UT,Utah,49023,Juab,39.9588,-112.1149,682,682,177,polygon,TRUE,America/Denver,84628
+Green River-UT,1840020216,Green River,Green River,UT,Green River-UT,Utah,49015,Emery,38.9813,-110.0913,943,943,27,polygon,TRUE,America/Denver,84525
+Montezuma Creek-UT,1840018875,Montezuma Creek,Montezuma Creek,UT,Montezuma Creek-UT,Utah,49037,San Juan,37.2563,-109.303,,,34.9,polygon,FALSE,America/Denver,84534
+Fairfield-UT,1840021401,Fairfield,Fairfield,UT,Fairfield-UT,Utah,49049,Utah,40.2462,-112.0843,136,136,2,polygon,TRUE,America/Denver,84013
+Spring City-UT,1840021436,Spring City,Spring City,UT,Spring City-UT,Utah,49039,Sanpete,39.4799,-111.4918,1023,1023,279,polygon,TRUE,America/Denver,84662
+Newton-UT,1840022375,Newton,Newton,UT,Newton-UT,Utah,49005,Cache,41.8612,-111.9906,797,797,360,polygon,TRUE,America/Denver,84327
+Brian Head-UT,1840021526,Brian Head,Brian Head,UT,Brian Head-UT,Utah,49021,Iron,37.6977,-112.8416,89,89,9,polygon,TRUE,America/Denver,84719
+Thompson Springs-UT,1840024467,Thompson Springs,Thompson Springs,UT,Thompson Springs-UT,Utah,49019,Grand,38.9636,-109.7037,,,24.7,polygon,FALSE,America/Denver,84540
+Fruitland-UT,1840037192,Fruitland,Fruitland,UT,Fruitland-UT,Utah,49013,Duchesne,40.2127,-110.8396,,,7.7,point,FALSE,America/Denver,84027
+Sunnyside-UT,1840021434,Sunnyside,Sunnyside,UT,Sunnyside-UT,Utah,49007,Carbon,39.5514,-110.3879,,,280.6,point,FALSE,America/Denver,84539
+Talmage-UT,1840037173,Talmage,Talmage,UT,Talmage-UT,Utah,49013,Duchesne,40.34,-110.4274,,,18.2,point,FALSE,America/Denver,84073
+Willard-UT,1840021327,Willard,Willard,UT,Willard-UT,Utah,49003,Box Elder,41.4146,-112.0446,1812,1812,124,polygon,TRUE,America/Denver,84340
+Liberty-UT,1840037164,Liberty,Liberty,UT,Liberty-UT,Utah,49057,Weber,41.3426,-111.8649,,,40.8,polygon,FALSE,America/Denver,84310
+Hyde Park-UT,1840018698,Hyde Park,Hyde Park,UT,Hyde Park-UT,Utah,49005,Cache,41.8008,-111.8118,4513,4513,401,polygon,TRUE,America/Denver,84318 84335
+Joseph-UT,1840021480,Joseph,Joseph,UT,Joseph-UT,Utah,49041,Sevier,38.6247,-112.2199,346,346,147,polygon,TRUE,America/Denver,84739
+Hatch-UT,1840021524,Hatch,Hatch,UT,Hatch-UT,Utah,49017,Garfield,37.6494,-112.4345,140,140,29,polygon,TRUE,America/Denver,84735
+Halchita-UT,1840037245,Halchita,Halchita,UT,Halchita-UT,Utah,49037,San Juan,37.1314,-109.9131,,,110.8,polygon,FALSE,America/Denver,84531
+Scipio-UT,1840022461,Scipio,Scipio,UT,Scipio-UT,Utah,49027,Millard,39.2491,-112.1044,320,320,118,polygon,TRUE,America/Denver,84656
+Elk Ridge-UT,1840020166,Elk Ridge,Elk Ridge,UT,Elk Ridge-UT,Utah,49049,Utah,40.0099,-111.6775,3430,3430,469,polygon,TRUE,America/Denver,84651
+Junction-UT,1840021503,Junction,Junction,UT,Junction-UT,Utah,49031,Piute,38.2357,-112.2238,174,174,5,polygon,TRUE,America/Denver,84740
+Manti-UT,1840020206,Manti,Manti,UT,Manti-UT,Utah,49039,Sanpete,39.267,-111.6375,3411,3396,608,polygon,TRUE,America/Denver,84642
+Salt Lake City-UT,1840021383,Salt Lake City,Salt Lake City,UT,Salt Lake City-UT,Utah,49035,Salt Lake,40.7774,-111.9301,1061156,193744,672,polygon,TRUE,America/Denver,84116 84115 84113 84112 84111 84144 84128 84180 84108 84101 84102 84103 84104 84105 84106 84110 84114 84122 84132 84133 84134 84136 84138 84139 84143 84145 84147 84148 84150 84151 84152 84158 84189 84190 84199
+Alpine-UT,1840018755,Alpine,Alpine,UT,Alpine-UT,Utah,49049,Utah,40.4621,-111.7728,10361,10361,533,polygon,TRUE,America/Denver,84004
+Corinne-UT,1840018703,Corinne,Corinne,UT,Corinne-UT,Utah,49003,Box Elder,41.5497,-112.1227,703,703,71,polygon,TRUE,America/Denver,84307
+Glenwood-UT,1840021479,Glenwood,Glenwood,UT,Glenwood-UT,Utah,49041,Sevier,38.7625,-111.9881,473,473,338,polygon,TRUE,America/Denver,84701 84730
+Callao-UT,1840037184,Callao,Callao,UT,Callao-UT,Utah,49023,Juab,39.8977,-113.7086,,,4.6,point,FALSE,America/Denver,84083
+Fielding-UT,1840021332,Fielding,Fielding,UT,Fielding-UT,Utah,49003,Box Elder,41.8126,-112.117,459,459,417,polygon,TRUE,America/Denver,84311
+Fountain Green-UT,1840020204,Fountain Green,Fountain Green,UT,Fountain Green-UT,Utah,49039,Sanpete,39.6281,-111.6413,1104,1104,340,polygon,TRUE,America/Denver,84632
+Clinton-UT,1840018736,Clinton,Clinton,UT,Clinton-UT,Utah,49011,Davis,41.1395,-112.0656,21672,21672,1410,polygon,TRUE,America/Denver,84015
+Helper-UT,1840020200,Helper,Helper,UT,Helper-UT,Utah,49007,Carbon,39.6898,-110.8596,2095,2095,447,polygon,TRUE,America/Denver,84526
+Orangeville-UT,1840020218,Orangeville,Orangeville,UT,Orangeville-UT,Utah,49015,Emery,39.2309,-111.0592,1378,1378,370,polygon,TRUE,America/Denver,84537
+Layton-UT,1840020145,Layton,Layton,UT,Layton-UT,Utah,49011,Davis,41.0773,-111.9618,75655,75655,1326,polygon,TRUE,America/Denver,84041 84040
+Huntington-UT,1840020217,Huntington,Huntington,UT,Huntington-UT,Utah,49015,Emery,39.3301,-110.9628,1975,1975,337,polygon,TRUE,America/Denver,84528
+Howell-UT,1840021333,Howell,Howell,UT,Howell-UT,Utah,49003,Box Elder,41.7733,-112.445,250,250,2,polygon,TRUE,America/Denver,84316
+Summit Park-UT,1840018725,Summit Park,Summit Park,UT,Summit Park-UT,Utah,49043,Summit,40.7432,-111.5814,,,816.9,polygon,FALSE,America/Denver,84098
+Glendale-UT,1840021569,Glendale,Glendale,UT,Glendale-UT,Utah,49025,Kane,37.3342,-112.6035,373,373,20,polygon,TRUE,America/Denver,84729
+Fayette-UT,1840021437,Fayette,Fayette,UT,Fayette-UT,Utah,49039,Sanpete,39.2248,-111.8542,249,249,243,polygon,TRUE,America/Denver,84630
+Springville-UT,1840021399,Springville,Springville,UT,Springville-UT,Utah,49049,Utah,40.1638,-111.6206,33044,33044,889,polygon,TRUE,America/Denver,84660 84663
+Delta-UT,1840018809,Delta,Delta,UT,Delta-UT,Utah,49027,Millard,39.3539,-112.5726,3327,3509,305,polygon,TRUE,America/Denver,84624
+Wolf Creek-UT,1840037239,Wolf Creek,Wolf Creek,UT,Wolf Creek-UT,Utah,49057,Weber,41.3253,-111.8288,,,332.4,polygon,FALSE,America/Denver,84310
+Maeser-UT,1840017501,Maeser,Maeser,UT,Maeser-UT,Utah,49047,Uintah,40.4719,-109.5786,,,365.1,polygon,FALSE,America/Denver,84078
+Myton-UT,1840020163,Myton,Myton,UT,Myton-UT,Utah,49013,Duchesne,40.1933,-110.0625,624,624,239,polygon,TRUE,America/Denver,84052
+Rockville-UT,1840021563,Rockville,Rockville,UT,Rockville-UT,Utah,49053,Washington,37.1478,-113.0548,273,273,12,polygon,TRUE,America/Denver,84763
+Ophir-UT,1840022393,Ophir,Ophir,UT,Ophir-UT,Utah,49045,Tooele,40.3695,-112.2552,55,55,174,polygon,TRUE,America/Denver,84071
+Bryce Canyon City-UT,1840001674,Bryce Canyon City,Bryce Canyon City,UT,Bryce Canyon City-UT,Utah,49017,Garfield,37.6814,-112.1588,223,223,25,polygon,TRUE,America/Denver,84764
+Roosevelt-UT,1840020162,Roosevelt,Roosevelt,UT,Roosevelt-UT,Utah,49013,Duchesne,40.2932,-110.0037,6754,6905,460,polygon,TRUE,America/Denver,84066
+Summit-UT,1840026789,Summit,Summit,UT,Summit-UT,Utah,49021,Iron,37.8013,-112.935,,,118.4,polygon,FALSE,America/Denver,84772
+Sunset-UT,1840021351,Sunset,Sunset,UT,Sunset-UT,Utah,49011,Davis,41.1392,-112.0285,5234,5234,1383,polygon,TRUE,America/Denver,84015 84056
+Escalante-UT,1840020271,Escalante,Escalante,UT,Escalante-UT,Utah,49017,Garfield,37.7646,-111.6017,787,787,99,polygon,TRUE,America/Denver,84726
+Enterprise-UT,1840020314,Enterprise,Enterprise,UT,Enterprise-UT,Utah,49053,Washington,37.5716,-113.7431,1823,1823,80,polygon,TRUE,America/Denver,84725
+Charleston-UT,1840022414,Charleston,Charleston,UT,Charleston-UT,Utah,49051,Wasatch,40.4661,-111.46,471,471,64,polygon,TRUE,America/Denver,84032
+West Haven-UT,1840021344,West Haven,West Haven,UT,West Haven-UT,Utah,49057,Weber,41.2082,-112.0538,12329,12329,459,polygon,TRUE,America/Denver,84401 84402
+Sutherland-UT,1840024465,Sutherland,Sutherland,UT,Sutherland-UT,Utah,49027,Millard,39.3895,-112.64,,,57.6,polygon,FALSE,America/Denver,84624
+Uintah-UT,1840022389,Uintah,Uintah,UT,Uintah-UT,Utah,49057,Weber,41.1427,-111.9333,1333,1333,416,polygon,TRUE,America/Denver,84405
+Kamas-UT,1840018726,Kamas,Kamas,UT,Kamas-UT,Utah,49043,Summit,40.6499,-111.2723,3080,2109,221,polygon,TRUE,America/Denver,84036
+Farmington-UT,1840020142,Farmington,Farmington,UT,Farmington-UT,Utah,49011,Davis,40.9846,-111.9065,23140,23140,901,polygon,TRUE,America/Denver,84025
+Mendon-UT,1840020111,Mendon,Mendon,UT,Mendon-UT,Utah,49005,Cache,41.7101,-111.9778,1386,1386,381,polygon,TRUE,America/Denver,84325
+Ephraim-UT,1840020202,Ephraim,Ephraim,UT,Ephraim-UT,Utah,49039,Sanpete,39.3577,-111.5819,6664,7072,741,polygon,TRUE,America/Denver,84627
+Naples-UT,1840020160,Naples,Naples,UT,Naples-UT,Utah,49047,Uintah,40.4318,-109.4913,2130,2130,124,polygon,TRUE,America/Denver,84078
+Alton-UT,1840021568,Alton,Alton,UT,Alton-UT,Utah,49025,Kane,37.4303,-112.5062,119,119,20,polygon,TRUE,America/Denver,84710
+Price-UT,1840020201,Price,Price,UT,Price-UT,Utah,49007,Carbon,39.604,-110.8004,13627,8371,641,polygon,TRUE,America/Denver,84501
+White City-UT,1840037177,White City,White City,UT,White City-UT,Utah,49035,Salt Lake,40.5666,-111.8636,,,2330.3,polygon,FALSE,America/Denver,84094
+Sandy City-UT,1840037246,Sandy City,Sandy City,UT,Sandy City-UT,Utah,49035,Salt Lake,40.5916,-111.8841,,,1519.6,point,TRUE,America/Denver,84070
+Kanosh-UT,1840021458,Kanosh,Kanosh,UT,Kanosh-UT,Utah,49027,Millard,38.8024,-112.4378,466,466,211,polygon,TRUE,America/Denver,84637
+Ogden-UT,1840020135,Ogden,Ogden,UT,Ogden-UT,Utah,49057,Weber,41.2281,-111.9677,571457,86701,1230,polygon,TRUE,America/Denver,84404 84401 84403 84201 84244 84407 84408 84409 84415
+Abraham-UT,1840037147,Abraham,Abraham,UT,Abraham-UT,Utah,49027,Millard,39.3966,-112.718,,,9.8,point,FALSE,America/Denver,84635
+Trenton-UT,1840022379,Trenton,Trenton,UT,Trenton-UT,Utah,49005,Cache,41.9116,-111.9356,512,512,24,polygon,TRUE,America/Denver,84338
+Val Verda-UT,1840037236,Val Verda,Val Verda,UT,Val Verda-UT,Utah,49011,Davis,40.8555,-111.893,,,2557.3,point,FALSE,America/Denver,84010
+Saint George-UT,1840021559,Saint George,Saint George,UT,Saint George-UT,Utah,49053,Washington,37.0769,-113.5771,111090,82318,416,polygon,TRUE,America/Denver,84770 84790 84791
+Kingston-UT,1840021504,Kingston,Kingston,UT,Kingston-UT,Utah,49031,Piute,38.2067,-112.1793,158,158,11,polygon,TRUE,America/Denver,84723 84743
+Castle Dale-UT,1840018799,Castle Dale,Castle Dale,UT,Castle Dale-UT,Utah,49015,Emery,39.2218,-111.023,2712,1528,269,polygon,TRUE,America/Denver,84513
+Wellsville-UT,1840021322,Wellsville,Wellsville,UT,Wellsville-UT,Utah,49005,Cache,41.6223,-111.943,3678,3678,195,polygon,TRUE,America/Denver,84339
+Cottonwood-UT,1840037238,Cottonwood,Cottonwood,UT,Cottonwood-UT,Utah,49035,Salt Lake,40.6583,-111.8341,,,1148,point,FALSE,America/Denver,84117
+Lapoint-UT,1840037163,Lapoint,Lapoint,UT,Lapoint-UT,Utah,49047,Uintah,40.4038,-109.7935,,,291.1,point,FALSE,America/Denver,84039
+Clearfield-UT,1840018735,Clearfield,Clearfield,UT,Clearfield-UT,Utah,49011,Davis,41.103,-112.0237,30855,30855,1546,polygon,TRUE,America/Denver,84015 84016 84089
+Millcreek-UT,1840018744,Millcreek,Millcreek,UT,Millcreek-UT,Utah,49035,Salt Lake,40.6892,-111.829,,,3899.8,polygon,TRUE,America/Denver,84117 84124 84109 84106 84107 84141
+Parowan-UT,1840020274,Parowan,Parowan,UT,Parowan-UT,Utah,49021,Iron,37.8326,-112.8296,2730,2986,166,polygon,TRUE,America/Denver,84761
+Union-UT,1840037174,Union,Union,UT,Union-UT,Utah,49035,Salt Lake,40.6205,-111.8722,,,1724.6,point,FALSE,America/Denver,84047
+Sevier-UT,1840037232,Sevier,Sevier,UT,Sevier-UT,Utah,49041,Sevier,38.5864,-112.2583,,,21.9,point,FALSE,America/Denver,84766
+Hoytsville-UT,1840024184,Hoytsville,Hoytsville,UT,Hoytsville-UT,Utah,49043,Summit,40.8754,-111.3846,,,48.5,polygon,FALSE,America/Denver,84017
+Panguitch-UT,1840020272,Panguitch,Panguitch,UT,Panguitch-UT,Utah,49017,Garfield,37.8248,-112.4364,1665,1665,291,polygon,TRUE,America/Denver,84759
+Gunnison-UT,1840037159,Gunnison,Gunnison,UT,Gunnison-UT,Utah,49039,Sanpete,39.157,-111.8135,4207,3325,268,polygon,TRUE,America/Denver,84634
+Independence-UT,1840022417,Independence,Independence,UT,Independence-UT,Utah,49051,Wasatch,40.4108,-111.2958,204,204,2,polygon,TRUE,America/Denver,84032
+Cornish-UT,1840022378,Cornish,Cornish,UT,Cornish-UT,Utah,49005,Cache,41.9717,-111.9565,315,315,22,polygon,TRUE,America/Denver,84308
+Highland-UT,1840020167,Highland,Highland,UT,Highland-UT,Utah,49049,Utah,40.4274,-111.7956,18647,18647,835,polygon,TRUE,America/Denver,84003
+Redmond-UT,1840021478,Redmond,Redmond,UT,Redmond-UT,Utah,49041,Sevier,39.0058,-111.8671,740,740,297,polygon,TRUE,America/Denver,84654 84652
+Washington Terrace-UT,1840021343,Washington Terrace,Washington Terrace,UT,Washington Terrace-UT,Utah,49057,Weber,41.1683,-111.9783,9198,9198,1754,polygon,TRUE,America/Denver,84405
+Deweyville-UT,1840021328,Deweyville,Deweyville,UT,Deweyville-UT,Utah,49003,Box Elder,41.693,-112.0883,339,339,20,polygon,TRUE,America/Denver,84309
+Ibapah-UT,1840037197,Ibapah,Ibapah,UT,Ibapah-UT,Utah,49045,Tooele,40.0366,-113.9853,,,7.1,point,FALSE,America/Denver,84034
+Millville-UT,1840020112,Millville,Millville,UT,Millville-UT,Utah,49005,Cache,41.6856,-111.8217,1986,1986,323,polygon,TRUE,America/Denver,84321 84326 84332
+Kaysville-UT,1840018738,Kaysville,Kaysville,UT,Kaysville-UT,Utah,49011,Davis,41.029,-111.9455,31243,31243,1150,polygon,TRUE,America/Denver,84037
+Midway-UT,1840020165,Midway,Midway,UT,Midway-UT,Utah,49051,Wasatch,40.518,-111.4754,4898,4898,367,polygon,TRUE,America/Denver,84049
+Beryl Junction-UT,1840026787,Beryl Junction,Beryl Junction,UT,Beryl Junction-UT,Utah,49021,Iron,37.7009,-113.6535,,,78.4,polygon,FALSE,America/Denver,84714
+Eagle Mountain-UT,1840018757,Eagle Mountain,Eagle Mountain,UT,Eagle Mountain-UT,Utah,49049,Utah,40.3137,-112.0114,29202,29202,223,polygon,TRUE,America/Denver,84013 84005
+Cottonwood Heights-UT,1840018746,Cottonwood Heights,Cottonwood Heights,UT,Cottonwood Heights-UT,Utah,49035,Salt Lake,40.6137,-111.8144,34285,34285,1435,polygon,TRUE,America/Denver,84093 84121 84171
+Washington-UT,1840021561,Washington,Washington,UT,Washington-UT,Utah,49053,Washington,37.1325,-113.4894,25339,25339,302,polygon,TRUE,America/Denver,84780 84771
+Marion-UT,1840024185,Marion,Marion,UT,Marion-UT,Utah,49043,Summit,40.6813,-111.2828,,,89.7,polygon,FALSE,America/Denver,84036
+Leamington-UT,1840021459,Leamington,Leamington,UT,Leamington-UT,Utah,49027,Millard,39.5313,-112.2855,231,231,58,polygon,TRUE,America/Denver,84638
+Indianola-UT,1840037224,Indianola,Indianola,UT,Indianola-UT,Utah,49039,Sanpete,39.803,-111.4888,,,8.4,point,FALSE,America/Denver,84629
+Moab-UT,1840020227,Moab,Moab,UT,Moab-UT,Utah,49019,Grand,38.57,-109.5476,7149,5242,424,polygon,TRUE,America/Denver,84532
+Vineyard-UT,1840022419,Vineyard,Vineyard,UT,Vineyard-UT,Utah,49049,Utah,40.3058,-111.7545,3953,3953,352,polygon,TRUE,America/Denver,84058
+Henefer-UT,1840021347,Henefer,Henefer,UT,Henefer-UT,Utah,49043,Summit,41.0138,-111.4933,871,871,136,polygon,TRUE,America/Denver,84033
+Lake Shore-UT,1840017504,Lake Shore,Lake Shore,UT,Lake Shore-UT,Utah,49049,Utah,40.1322,-111.7483,,,82.1,polygon,FALSE,America/Denver,84660
+Nibley-UT,1840020113,Nibley,Nibley,UT,Nibley-UT,Utah,49005,Cache,41.6726,-111.8455,6747,6747,622,polygon,TRUE,America/Denver,84321
+River Heights-UT,1840020110,River Heights,River Heights,UT,River Heights-UT,Utah,49005,Cache,41.7219,-111.8195,1962,1962,1107,polygon,TRUE,America/Denver,84321
+Taylorsville-UT,1840021387,Taylorsville,Taylorsville,UT,Taylorsville-UT,Utah,49035,Salt Lake,40.657,-111.9493,60436,60436,2150,polygon,TRUE,America/Denver,84084 84123 84118 84129 84184
+Jensen-UT,1840026403,Jensen,Jensen,UT,Jensen-UT,Utah,49047,Uintah,40.3695,-109.3556,,,40.7,polygon,FALSE,America/Denver,84035
+Aurora-UT,1840018832,Aurora,Aurora,UT,Aurora-UT,Utah,49041,Sevier,38.9201,-111.934,1043,1043,387,polygon,TRUE,America/Denver,84620
+Lehi-UT,1840020168,Lehi,Lehi,UT,Lehi-UT,Utah,49049,Utah,40.414,-111.8729,61130,61130,862,polygon,TRUE,America/Denver,84043
+Cedar City-UT,1840018895,Cedar City,Cedar City,UT,Cedar City-UT,Utah,49021,Iron,37.6834,-113.0957,35921,31223,336,polygon,TRUE,America/Denver,84720 84721
+Leeds-UT,1840021564,Leeds,Leeds,UT,Leeds-UT,Utah,49053,Washington,37.2373,-113.3471,852,852,52,polygon,TRUE,America/Denver,84746 84737
+Dammeron Valley-UT,1840037254,Dammeron Valley,Dammeron Valley,UT,Dammeron Valley-UT,Utah,49053,Washington,37.3042,-113.6658,,,289.1,polygon,FALSE,America/Denver,84783
+Brigham City-UT,1840018702,Brigham City,Brigham City,UT,Brigham City-UT,Utah,49003,Box Elder,41.5034,-112.0454,18975,18975,299,polygon,TRUE,America/Denver,84302
+Paragonah-UT,1840022537,Paragonah,Paragonah,UT,Paragonah-UT,Utah,49021,Iron,37.8853,-112.7707,520,520,298,polygon,TRUE,America/Denver,84760
+Bear River City-UT,1840018701,Bear River City,Bear River City,UT,Bear River City-UT,Utah,49003,Box Elder,41.6124,-112.125,869,869,186,polygon,TRUE,America/Denver,84301
+Sterling-UT,1840022443,Sterling,Sterling,UT,Sterling-UT,Utah,49039,Sanpete,39.1934,-111.6904,302,302,362,polygon,TRUE,America/Denver,84665
+Dutch John-UT,1840024242,Dutch John,Dutch John,UT,Dutch John-UT,Utah,49009,Daggett,40.9299,-109.386,151,151,24,polygon,TRUE,America/Denver,84023
+Central-UT,1840026838,Central,Central,UT,Central-UT,Utah,49053,Washington,37.4149,-113.6263,,,66,polygon,FALSE,America/Denver,84722
+Circleville-UT,1840022514,Circleville,Circleville,UT,Circleville-UT,Utah,49031,Piute,38.1684,-112.2716,501,501,17,polygon,TRUE,America/Denver,84723
+Whiterocks-UT,1840018749,Whiterocks,Whiterocks,UT,Whiterocks-UT,Utah,49047,Uintah,40.4721,-109.9412,,,181.4,polygon,FALSE,America/Denver,84085
+Mount Carmel-UT,1840037168,Mount Carmel,Mount Carmel,UT,Mount Carmel-UT,Utah,49025,Kane,37.2472,-112.6644,,,58.2,point,FALSE,America/Denver,84758
+Meadow-UT,1840022459,Meadow,Meadow,UT,Meadow-UT,Utah,49027,Millard,38.8863,-112.4073,315,315,240,polygon,TRUE,America/Denver,84631 84637 84644
+Beaver-UT,1840018857,Beaver,Beaver,UT,Beaver-UT,Utah,49001,Beaver,38.2759,-112.6383,2822,3048,176,polygon,TRUE,America/Denver,84713
+Pleasant View-UT,1840020137,Pleasant View,Pleasant View,UT,Pleasant View-UT,Utah,49057,Weber,41.3249,-112.001,9716,9716,538,polygon,TRUE,America/Denver,84404 84414
+Loa-UT,1840021506,Loa,Loa,UT,Loa-UT,Utah,49055,Wayne,38.4038,-111.6451,585,585,237,polygon,TRUE,America/Denver,84747
+Santa Clara-UT,1840021560,Santa Clara,Santa Clara,UT,Santa Clara-UT,Utah,49053,Washington,37.1312,-113.6561,7065,7065,449,polygon,TRUE,America/Denver,84765
+Ouray-UT,1840037170,Ouray,Ouray,UT,Ouray-UT,Utah,49047,Uintah,40.0891,-109.6774,,,6.8,point,FALSE,America/Denver,84063
+Angle-UT,1840037217,Angle,Angle,UT,Angle-UT,Utah,49031,Piute,38.2492,-111.9766,,,7.3,point,FALSE,America/Denver,84712
+Riverside-UT,1840018700,Riverside,Riverside,UT,Riverside-UT,Utah,49003,Box Elder,41.8106,-112.1402,,,255.4,polygon,FALSE,America/Denver,84311 84312 84334
+Axtell-UT,1840037178,Axtell,Axtell,UT,Axtell-UT,Utah,49039,Sanpete,39.0552,-111.8219,,,38.2,point,FALSE,America/Denver,84621
+White Mesa-UT,1840037252,White Mesa,White Mesa,UT,White Mesa-UT,Utah,49037,San Juan,37.4596,-109.46,,,53.5,polygon,FALSE,America/Denver,84511
+Fort Duchesne-UT,1840017502,Fort Duchesne,Fort Duchesne,UT,Fort Duchesne-UT,Utah,49047,Uintah,40.2811,-109.877,,,55,polygon,FALSE,America/Denver,84026
+Portage-UT,1840021331,Portage,Portage,UT,Portage-UT,Utah,49003,Box Elder,41.9757,-112.2405,257,257,38,polygon,TRUE,America/Denver,84331
+Benson-UT,1840017476,Benson,Benson,UT,Benson-UT,Utah,49005,Cache,41.7488,-111.9169,,,53.1,polygon,FALSE,America/Denver,84321 84335 84339
+Ballard-UT,1840020161,Ballard,Ballard,UT,Ballard-UT,Utah,49047,Uintah,40.2949,-109.9493,1071,1071,29,polygon,TRUE,America/Denver,84066
+Santaquin-UT,1840021396,Santaquin,Santaquin,UT,Santaquin-UT,Utah,49049,Utah,39.9713,-111.7936,12041,11062,422,polygon,TRUE,America/Denver,84655
+Levan-UT,1840021419,Levan,Levan,UT,Levan-UT,Utah,49023,Juab,39.5561,-111.8607,898,898,429,polygon,TRUE,America/Denver,84639
+Hamiltons Fort-UT,1840037240,Hamiltons Fort,Hamiltons Fort,UT,Hamiltons Fort-UT,Utah,49021,Iron,37.6194,-113.1508,,,41.5,point,FALSE,America/Denver,84720
+Fillmore-UT,1840020224,Fillmore,Fillmore,UT,Fillmore-UT,Utah,49027,Millard,38.9641,-112.3389,2491,2491,140,polygon,TRUE,America/Denver,84631
+Tselakai Dezza-UT,1840037251,Tselakai Dezza,Tselakai Dezza,UT,Tselakai Dezza-UT,Utah,49037,San Juan,37.21,-109.609,,,0.7,polygon,FALSE,America/Denver,84512
+Salem-UT,1840021395,Salem,Salem,UT,Salem-UT,Utah,49049,Utah,40.054,-111.6722,7831,7831,299,polygon,TRUE,America/Denver,84660 84653
+Park City-UT,1840020140,Park City,Park City,UT,Park City-UT,Utah,49043,Summit,40.6459,-111.5038,14660,8299,179,polygon,TRUE,America/Denver,84060 84068
+Cleveland-UT,1840022448,Cleveland,Cleveland,UT,Cleveland-UT,Utah,49015,Emery,39.3494,-110.8555,442,442,200,polygon,TRUE,America/Denver,84518
+Palmyra-UT,1840018753,Palmyra,Palmyra,UT,Palmyra-UT,Utah,49049,Utah,40.1469,-111.6974,,,83.3,polygon,FALSE,America/Denver,84660
+Oakley-UT,1840020139,Oakley,Oakley,UT,Oakley-UT,Utah,49043,Summit,40.7259,-111.277,1624,1624,91,polygon,TRUE,America/Denver,84055
+Wanship-UT,1840024188,Wanship,Wanship,UT,Wanship-UT,Utah,49043,Summit,40.8168,-111.4151,,,128.1,polygon,FALSE,America/Denver,84017
+Castle Valley-UT,1840022463,Castle Valley,Castle Valley,UT,Castle Valley-UT,Utah,49019,Grand,38.6325,-109.3966,348,348,14,polygon,TRUE,America/Denver,84532
+Garden-UT,1840017478,Garden,Garden,UT,Garden-UT,Utah,49033,Rich,41.8866,-111.4327,,,11.4,polygon,FALSE,America/Denver,84038 84028
+Halls Crossing-UT,1840017595,Halls Crossing,Halls Crossing,UT,Halls Crossing-UT,Utah,49037,San Juan,37.4578,-110.6829,,,0.2,polygon,FALSE,America/Denver,84533
+Huntsville-UT,1840021345,Huntsville,Huntsville,UT,Huntsville-UT,Utah,49057,Weber,41.26,-111.7744,632,632,312,polygon,TRUE,America/Denver,84317
+Rocky Ridge-UT,1840021418,Rocky Ridge,Rocky Ridge,UT,Rocky Ridge-UT,Utah,49023,Juab,39.9197,-111.8258,806,806,181,polygon,TRUE,America/Denver,84645
+Woodruff-UT,1840022380,Woodruff,Woodruff,UT,Woodruff-UT,Utah,49033,Rich,41.5214,-111.1631,188,188,161,polygon,TRUE,America/Denver,84086
+Blanding-UT,1840018877,Blanding,Blanding,UT,Blanding-UT,Utah,49037,San Juan,37.6213,-109.5073,3902,4036,118,polygon,TRUE,America/Denver,84511
+Fairview-UT,1840020203,Fairview,Fairview,UT,Fairview-UT,Utah,49039,Sanpete,39.6302,-111.4368,1288,1288,407,polygon,TRUE,America/Denver,84629
+Bluff-UT,1840017594,Bluff,Bluff,UT,Bluff-UT,Utah,49037,San Juan,37.2913,-109.57,,,71.9,polygon,FALSE,America/Denver,84512
+Garden City-UT,1840021324,Garden City,Garden City,UT,Garden City-UT,Utah,49033,Rich,41.9371,-111.4122,587,587,25,polygon,TRUE,America/Denver,84028
+Samak-UT,1840018722,Samak,Samak,UT,Samak-UT,Utah,49043,Summit,40.6318,-111.2244,,,15.4,polygon,FALSE,America/Denver,84036
+Mapleton-UT,1840020170,Mapleton,Mapleton,UT,Mapleton-UT,Utah,49049,Utah,40.1191,-111.573,9512,9512,288,polygon,TRUE,America/Denver,84664
+Centerfield-UT,1840022442,Centerfield,Centerfield,UT,Centerfield-UT,Utah,49039,Sanpete,39.1275,-111.8189,1416,1416,299,polygon,TRUE,America/Denver,84622
+Mountain Home-UT,1840037169,Mountain Home,Mountain Home,UT,Mountain Home-UT,Utah,49013,Duchesne,40.3991,-110.3885,,,21.4,point,FALSE,America/Denver,84051
+Grover-UT,1840037195,Grover,Grover,UT,Grover-UT,Utah,49055,Wayne,38.228,-111.3499,,,2.5,point,FALSE,America/Denver,84773
+Boulder Town-UT,1840037181,Boulder Town,Boulder Town,UT,Boulder Town-UT,Utah,49017,Garfield,37.9228,-111.4318,225,225,4,polygon,TRUE,America/Denver,84716
+Upalco-UT,1840037175,Upalco,Upalco,UT,Upalco-UT,Utah,49013,Duchesne,40.278,-110.2182,,,14.6,point,FALSE,America/Denver,84007
+Navajo Mountain-UT,1840037247,Navajo Mountain,Navajo Mountain,UT,Navajo Mountain-UT,Utah,49037,San Juan,37.047,-110.79,,,5.9,polygon,FALSE,America/Denver,86044
+Henrieville-UT,1840021525,Henrieville,Henrieville,UT,Henrieville-UT,Utah,49017,Garfield,37.5638,-112.002,220,220,63,polygon,TRUE,America/Denver,84736
+Garrison-UT,1840037154,Garrison,Garrison,UT,Garrison-UT,Utah,49027,Millard,38.9344,-114.033,,,9.1,point,FALSE,America/Denver,84728
+Hanksville-UT,1840021505,Hanksville,Hanksville,UT,Hanksville-UT,Utah,49055,Wayne,38.3724,-110.7138,214,214,49,polygon,TRUE,America/Denver,84734
+Clarkston-UT,1840022377,Clarkston,Clarkston,UT,Clarkston-UT,Utah,49005,Cache,41.9204,-112.0503,711,711,295,polygon,TRUE,America/Denver,84305
+Heber City-UT,1840037244,Heber City,Heber City,UT,Heber City-UT,Utah,49051,Wasatch,40.5069,-111.4132,,,1573.5,point,TRUE,America/Denver,84032
+Dugway-UT,1840018739,Dugway,Dugway,UT,Dugway-UT,Utah,49045,Tooele,40.2307,-112.7541,,,184.7,polygon,FALSE,America/Denver,84022
+Marriott-Slaterville-UT,1840020133,Marriott-Slaterville,Marriott-Slaterville,UT,Marriott-Slaterville-UT,Utah,49057,Weber,41.2625,-112.0369,1751,1751,93,polygon,TRUE,America/Denver,84404
+Randolph-UT,1840020116,Randolph,Randolph,UT,Randolph-UT,Utah,49033,Rich,41.6641,-111.1849,466,466,173,polygon,TRUE,America/Denver,84064
+Woodland-UT,1840018724,Woodland,Woodland,UT,Woodland-UT,Utah,49043,Summit,40.5838,-111.2356,,,50.9,polygon,FALSE,America/Denver,84036
+Provo-UT,1840020174,Provo,Provo,UT,Provo-UT,Utah,49049,Utah,40.2458,-111.6457,501690,116868,1083,polygon,TRUE,America/Denver,84604 84606 84601 84602 84603 84605
+Daniel-UT,1840021394,Daniel,Daniel,UT,Daniel-UT,Utah,49051,Wasatch,40.4668,-111.4097,1061,1061,124,polygon,TRUE,America/Denver,84032
+Hideout-UT,1840022416,Hideout,Hideout,UT,Hideout-UT,Utah,49051,Wasatch,40.643,-111.4007,875,875,101,polygon,TRUE,America/Denver,84032 84036
+Saint John-UT,1840037172,Saint John,Saint John,UT,Saint John-UT,Utah,49045,Tooele,40.3552,-112.453,,,61.4,point,FALSE,America/Denver,84069
+Milford-UT,1840020252,Milford,Milford,UT,Milford-UT,Utah,49001,Beaver,38.3945,-113.0123,1357,1357,244,polygon,TRUE,America/Denver,84751
+Burrville-UT,1840037220,Burrville,Burrville,UT,Burrville-UT,Utah,49041,Sevier,38.5708,-111.8635,,,20.7,point,FALSE,America/Denver,84744
+Torrey-UT,1840022515,Torrey,Torrey,UT,Torrey-UT,Utah,49055,Wayne,38.302,-111.4208,241,241,174,polygon,TRUE,America/Denver,84775
+Randlett-UT,1840018748,Randlett,Randlett,UT,Randlett-UT,Utah,49047,Uintah,40.2267,-109.8308,,,11.3,polygon,FALSE,America/Denver,84026
+Newcastle-UT,1840026788,Newcastle,Newcastle,UT,Newcastle-UT,Utah,49021,Iron,37.6629,-113.5643,,,77.8,polygon,FALSE,America/Denver,84756
+Mona-UT,1840020187,Mona,Mona,UT,Mona-UT,Utah,49023,Juab,39.8123,-111.85,1662,1662,259,polygon,TRUE,America/Denver,84645 84648
+Honeyville-UT,1840020118,Honeyville,Honeyville,UT,Honeyville-UT,Utah,49003,Box Elder,41.6361,-112.0857,1501,1501,49,polygon,TRUE,America/Denver,84302 84314
+Alta-UT,1840021390,Alta,Alta,UT,Alta-UT,Utah,49035,Salt Lake,40.5817,-111.6227,387,387,32,polygon,TRUE,America/Denver,84092
+Veyo-UT,1840026840,Veyo,Veyo,UT,Veyo-UT,Utah,49053,Washington,37.3375,-113.693,,,157.7,polygon,FALSE,America/Denver,84782
+Nephi-UT,1840020188,Nephi,Nephi,UT,Nephi-UT,Utah,49023,Juab,39.7072,-111.8322,5634,5784,489,polygon,TRUE,America/Denver,84648
+Copperton-UT,1840024252,Copperton,Copperton,UT,Copperton-UT,Utah,49035,Salt Lake,40.5581,-112.0932,,,739.1,polygon,FALSE,America/Denver,84096 84006
+Goshute-UT,1840037193,Goshute,Goshute,UT,Goshute-UT,Utah,49023,Juab,39.8761,-114,,,10.4,point,FALSE,America/Denver,84034
+Elmo-UT,1840021444,Elmo,Elmo,UT,Elmo-UT,Utah,49015,Emery,39.3876,-110.8156,408,408,223,polygon,TRUE,America/Denver,84521
+Grouse Creek-UT,1840037158,Grouse Creek,Grouse Creek,UT,Grouse Creek-UT,Utah,49003,Box Elder,41.7094,-113.8833,,,5.5,point,FALSE,America/Denver,84313
+Mountain Green-UT,1840024172,Mountain Green,Mountain Green,UT,Mountain Green-UT,Utah,49029,Morgan,41.1475,-111.7901,,,85.8,polygon,FALSE,America/Denver,84050
+Echo-UT,1840024183,Echo,Echo,UT,Echo-UT,Utah,49043,Summit,40.9803,-111.4393,,,21.7,polygon,FALSE,America/Denver,84024
+North Logan-UT,1840020114,North Logan,North Logan,UT,North Logan-UT,Utah,49005,Cache,41.7759,-111.8066,10590,10590,575,polygon,TRUE,America/Denver,84341
+South Salt Lake-UT,1840021386,South Salt Lake,South Salt Lake,UT,South Salt Lake-UT,Utah,49035,Salt Lake,40.7056,-111.8987,24630,24630,1372,polygon,TRUE,America/Denver,84119 84115 84165
+Perry-UT,1840020119,Perry,Perry,UT,Perry-UT,Utah,49003,Box Elder,41.4648,-112.0401,4846,4846,233,polygon,TRUE,America/Denver,84302
+Amalga-UT,1840021323,Amalga,Amalga,UT,Amalga-UT,Utah,49005,Cache,41.8565,-111.8974,516,516,57,polygon,TRUE,America/Denver,84335
+Bonanza-UT,1840024260,Bonanza,Bonanza,UT,Bonanza-UT,Utah,49047,Uintah,40.0304,-109.1883,,,0.1,polygon,FALSE,America/Denver,84035
+Standrod-UT,1840037209,Standrod,Standrod,UT,Standrod-UT,Utah,49003,Box Elder,41.9938,-113.4192,,,2.7,point,FALSE,America/Denver,83342
+Woodland Hills-UT,1840021400,Woodland Hills,Woodland Hills,UT,Woodland Hills-UT,Utah,49049,Utah,40.0132,-111.6558,1527,1527,232,polygon,TRUE,America/Denver,84651 84653
+Plain City-UT,1840020136,Plain City,Plain City,UT,Plain City-UT,Utah,49057,Weber,41.3069,-112.0878,6493,6493,211,polygon,TRUE,America/Denver,84404
+Holden-UT,1840021457,Holden,Holden,UT,Holden-UT,Utah,49027,Millard,39.1002,-112.2705,377,377,271,polygon,TRUE,America/Denver,84636
+Draper-UT,1840018747,Draper,Draper,UT,Draper-UT,Utah,49035,Salt Lake,40.4956,-111.8607,47328,47328,607,polygon,TRUE,America/Denver,84020
+Coalville-UT,1840018723,Coalville,Coalville,UT,Coalville-UT,Utah,49043,Summit,40.9152,-111.3942,1457,1457,169,polygon,TRUE,America/Denver,84017
+Annabella-UT,1840021476,Annabella,Annabella,UT,Annabella-UT,Utah,49041,Sevier,38.706,-112.0585,809,809,444,polygon,TRUE,America/Denver,84701 84711
+Syracuse-UT,1840021352,Syracuse,Syracuse,UT,Syracuse-UT,Utah,49011,Davis,41.0871,-112.0698,28407,28407,1147,polygon,TRUE,America/Denver,84075
+Fruita-UT,1840037221,Fruita,Fruita,UT,Fruita-UT,Utah,49055,Wayne,38.2855,-111.2468,,,7.7,point,FALSE,America/Denver,84775
+Eden-UT,1840024158,Eden,Eden,UT,Eden-UT,Utah,49057,Weber,41.3023,-111.8085,,,93.4,polygon,FALSE,America/Denver,84310
+Adamsville-UT,1840037148,Adamsville,Adamsville,UT,Adamsville-UT,Utah,49001,Beaver,38.2583,-112.7938,,,5.1,point,FALSE,America/Denver,84731
+Moroni-UT,1840020207,Moroni,Moroni,UT,Moroni-UT,Utah,49039,Sanpete,39.527,-111.5831,1482,1482,537,polygon,TRUE,America/Denver,84646
+Manderfield-UT,1840037166,Manderfield,Manderfield,UT,Manderfield-UT,Utah,49001,Beaver,38.3594,-112.6388,,,11.1,point,FALSE,America/Denver,84713
+Tremonton-UT,1840021326,Tremonton,Tremonton,UT,Tremonton-UT,Utah,49003,Box Elder,41.7188,-112.189,10896,8426,414,polygon,TRUE,America/Denver,84337
+Genola-UT,1840021402,Genola,Genola,UT,Genola-UT,Utah,49049,Utah,40.0117,-111.8464,1484,1484,41,polygon,TRUE,America/Denver,84655
+West Point-UT,1840021354,West Point,West Point,UT,West Point-UT,Utah,49011,Davis,41.1221,-112.0995,10548,10548,572,polygon,TRUE,America/Denver,84015
+Cannonville-UT,1840022530,Cannonville,Cannonville,UT,Cannonville-UT,Utah,49017,Garfield,37.5688,-112.0531,169,169,25,polygon,TRUE,America/Denver,84718
+Spring Lake-UT,1840018752,Spring Lake,Spring Lake,UT,Spring Lake-UT,Utah,49049,Utah,40.0054,-111.7474,,,329.7,polygon,FALSE,America/Denver,84651
+Roy-UT,1840020132,Roy,Roy,UT,Roy-UT,Utah,49057,Weber,41.1716,-112.0479,38201,38201,1881,polygon,TRUE,America/Denver,84067
+Farr West-UT,1840020128,Farr West,Farr West,UT,Farr West-UT,Utah,49057,Weber,41.3015,-112.0318,6755,6755,440,polygon,TRUE,America/Denver,84404
+Antimony-UT,1840021523,Antimony,Antimony,UT,Antimony-UT,Utah,49017,Garfield,38.103,-111.9823,119,119,4,polygon,TRUE,America/Denver,84712
+Salina-UT,1840021475,Salina,Salina,UT,Salina-UT,Utah,49041,Sevier,38.9365,-111.8666,2551,2551,159,polygon,TRUE,America/Denver,84654
+Greenville-UT,1840037157,Greenville,Greenville,UT,Greenville-UT,Utah,49001,Beaver,38.2544,-112.7124,,,6.4,point,FALSE,America/Denver,84731
+Bryce Canyon-UT,1840037219,Bryce Canyon,Bryce Canyon,UT,Bryce Canyon-UT,Utah,49017,Garfield,37.6283,-112.1677,,,1.5,point,FALSE,America/Denver,84764
+Fruit Heights-UT,1840020143,Fruit Heights,Fruit Heights,UT,Fruit Heights-UT,Utah,49011,Davis,41.0277,-111.9081,6161,6161,1038,polygon,TRUE,America/Denver,84037
+Orderville-UT,1840022564,Orderville,Orderville,UT,Orderville-UT,Utah,49025,Kane,37.254,-112.6574,573,573,25,polygon,TRUE,America/Denver,84758 84755
+Richfield-UT,1840020239,Richfield,Richfield,UT,Richfield-UT,Utah,49041,Sevier,38.7628,-112.0927,7507,7723,531,polygon,TRUE,America/Denver,84701
+Pleasant Grove-UT,1840020173,Pleasant Grove,Pleasant Grove,UT,Pleasant Grove-UT,Utah,49049,Utah,40.3714,-111.7411,38756,38756,1639,polygon,TRUE,America/Denver,84062
+Timber Lakes-UT,1840037250,Timber Lakes,Timber Lakes,UT,Timber Lakes-UT,Utah,49051,Wasatch,40.4733,-111.2533,,,26.8,polygon,FALSE,America/Denver,84032
+Ferron-UT,1840020215,Ferron,Ferron,UT,Ferron-UT,Utah,49015,Emery,39.0914,-111.1336,1534,1534,254,polygon,TRUE,America/Denver,84523
+Woods Cross-UT,1840021355,Woods Cross,Woods Cross,UT,Woods Cross-UT,Utah,49011,Davis,40.8731,-111.917,11351,11351,1145,polygon,TRUE,America/Denver,84087
+Mantua-UT,1840022381,Mantua,Mantua,UT,Mantua-UT,Utah,49003,Box Elder,41.5006,-111.9344,786,786,61,polygon,TRUE,America/Denver,84324
+Tabiona-UT,1840022412,Tabiona,Tabiona,UT,Tabiona-UT,Utah,49013,Duchesne,40.3544,-110.7096,169,169,637,polygon,TRUE,America/Denver,84072
+Koosharem-UT,1840021481,Koosharem,Koosharem,UT,Koosharem-UT,Utah,49041,Sevier,38.5135,-111.8822,331,331,142,polygon,TRUE,America/Denver,84744
+South Willard-UT,1840037248,South Willard,South Willard,UT,South Willard-UT,Utah,49003,Box Elder,41.3583,-112.0408,,,580.3,polygon,FALSE,America/Denver,84340
+West Mountain-UT,1840037253,West Mountain,West Mountain,UT,West Mountain-UT,Utah,49049,Utah,40.0654,-111.7868,,,59.3,polygon,FALSE,America/Denver,84660 84651
+Porterville-UT,1840037230,Porterville,Porterville,UT,Porterville-UT,Utah,49029,Morgan,40.9813,-111.6783,,,62.6,point,FALSE,America/Denver,84050
+Bicknell-UT,1840020256,Bicknell,Bicknell,UT,Bicknell-UT,Utah,49055,Wayne,38.3407,-111.5441,327,327,220,polygon,TRUE,America/Denver,84715
+Lewiston-UT,1840020107,Lewiston,Lewiston,UT,Lewiston-UT,Utah,49005,Cache,41.9615,-111.8796,1806,1806,27,polygon,TRUE,America/Denver,84320
+Lindon-UT,1840020169,Lindon,Lindon,UT,Lindon-UT,Utah,49049,Utah,40.3414,-111.7188,10939,10939,504,polygon,TRUE,America/Denver,84042
+Stockton-UT,1840022394,Stockton,Stockton,UT,Stockton-UT,Utah,49045,Tooele,40.4496,-112.3672,647,647,148,polygon,TRUE,America/Denver,84071
+Herriman-UT,1840020155,Herriman,Herriman,UT,Herriman-UT,Utah,49035,Salt Lake,40.489,-112.0153,35385,35385,656,polygon,TRUE,America/Denver,84096
+Murray-UT,1840020159,Murray,Murray,UT,Murray-UT,Utah,49035,Salt Lake,40.6498,-111.8875,49230,49230,1542,polygon,TRUE,America/Denver,84123 84121 84107 84157
+Thatcher-UT,1840024109,Thatcher,Thatcher,UT,Thatcher-UT,Utah,49003,Box Elder,41.6815,-112.3201,,,78.2,polygon,FALSE,America/Denver,84337
+Flowell-UT,1840037241,Flowell,Flowell,UT,Flowell-UT,Utah,49027,Millard,38.9791,-112.4286,,,12.7,point,FALSE,America/Denver,84631
+Carbonville-UT,1840024369,Carbonville,Carbonville,UT,Carbonville-UT,Utah,49007,Carbon,39.6272,-110.8337,,,593.3,polygon,FALSE,America/Denver,84526 84501
+Lynndyl-UT,1840022458,Lynndyl,Lynndyl,UT,Lynndyl-UT,Utah,49027,Millard,39.5085,-112.3933,113,113,13,polygon,TRUE,America/Denver,84640
+Springdale-UT,1840022559,Springdale,Springdale,UT,Springdale-UT,Utah,49053,Washington,37.1816,-113.0048,570,570,47,polygon,TRUE,America/Denver,84767
+Deseret-UT,1840024463,Deseret,Deseret,UT,Deseret-UT,Utah,49027,Millard,39.2876,-112.6511,,,147.7,polygon,FALSE,America/Denver,84624
+Gunlock-UT,1840037196,Gunlock,Gunlock,UT,Gunlock-UT,Utah,49053,Washington,37.2861,-113.7633,,,49.8,point,FALSE,America/Denver,84733
+Virgin-UT,1840022561,Virgin,Virgin,UT,Virgin-UT,Utah,49053,Washington,37.2082,-113.2086,608,608,13,polygon,TRUE,America/Denver,84745 84779
+Altamont-UT,1840021392,Altamont,Altamont,UT,Altamont-UT,Utah,49013,Duchesne,40.3586,-110.2886,255,255,523,polygon,TRUE,America/Denver,84001
+Granite-UT,1840037156,Granite,Granite,UT,Granite-UT,Utah,49035,Salt Lake,40.5714,-111.7954,,,1028.6,polygon,FALSE,America/Denver,84092
+Aneth-UT,1840017593,Aneth,Aneth,UT,Aneth-UT,Utah,49037,San Juan,37.205,-109.1623,,,21.8,polygon,FALSE,America/Denver,84534
+Garland-UT,1840020117,Garland,Garland,UT,Garland-UT,Utah,49003,Box Elder,41.7363,-112.1629,2492,2492,536,polygon,TRUE,America/Denver,84312
+South Jordan-UT,1840021385,South Jordan,South Jordan,UT,South Jordan-UT,Utah,49035,Salt Lake,40.5571,-111.9783,69034,69034,1199,polygon,TRUE,America/Denver,84095
+Elsinore-UT,1840021477,Elsinore,Elsinore,UT,Elsinore-UT,Utah,49041,Sevier,38.6834,-112.1488,866,866,249,polygon,TRUE,America/Denver,84724
+Milburn-UT,1840037227,Milburn,Milburn,UT,Milburn-UT,Utah,49039,Sanpete,39.7041,-111.4249,,,1.1,point,FALSE,America/Denver,84629
+Hanna-UT,1840037160,Hanna,Hanna,UT,Hanna-UT,Utah,49013,Duchesne,40.4041,-110.7652,,,4.5,point,FALSE,America/Denver,84031
+Wellington-UT,1840021435,Wellington,Wellington,UT,Wellington-UT,Utah,49007,Carbon,39.5358,-110.7344,1609,1609,121,polygon,TRUE,America/Denver,84542 84501
+Payson-UT,1840020172,Payson,Payson,UT,Payson-UT,Utah,49049,Utah,40.0352,-111.7409,19810,19810,630,polygon,TRUE,America/Denver,84651
+Plymouth-UT,1840021330,Plymouth,Plymouth,UT,Plymouth-UT,Utah,49003,Box Elder,41.8752,-112.1431,431,431,272,polygon,TRUE,America/Denver,84330
+Duchesne-UT,1840018751,Duchesne,Duchesne,UT,Duchesne-UT,Utah,49013,Duchesne,40.1753,-110.394,1755,1755,241,polygon,TRUE,America/Denver,84021
+Morgan-UT,1840020138,Morgan,Morgan,UT,Morgan-UT,Utah,49029,Morgan,41.0414,-111.6802,3962,4154,541,polygon,TRUE,America/Denver,84050
+Neola-UT,1840018750,Neola,Neola,UT,Neola-UT,Utah,49013,Duchesne,40.4343,-110.0309,,,100.8,polygon,FALSE,America/Denver,84053
+Riverdale-UT,1840020131,Riverdale,Riverdale,UT,Riverdale-UT,Utah,49057,Weber,41.1734,-112.0024,8710,8710,718,polygon,TRUE,America/Denver,84405
+Kanab-UT,1840018947,Kanab,Kanab,UT,Kanab-UT,Utah,49025,Kane,37.0262,-112.5219,3371,4526,121,polygon,TRUE,America/Denver,84741
+Mayfield-UT,1840022441,Mayfield,Mayfield,UT,Mayfield-UT,Utah,49039,Sanpete,39.1192,-111.7077,531,531,229,polygon,TRUE,America/Denver,84643
+Elwood-UT,1840021329,Elwood,Elwood,UT,Elwood-UT,Utah,49003,Box Elder,41.6759,-112.1376,1077,1077,51,polygon,TRUE,America/Denver,84337
+South Weber-UT,1840021350,South Weber,South Weber,UT,South Weber-UT,Utah,49011,Davis,41.1334,-111.9393,7196,7196,599,polygon,TRUE,America/Denver,84405
+Snowville-UT,1840022382,Snowville,Snowville,UT,Snowville-UT,Utah,49003,Box Elder,41.9728,-112.7164,172,172,42,polygon,TRUE,America/Denver,84336

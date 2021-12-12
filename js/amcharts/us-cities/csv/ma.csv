@@ -1,0 +1,302 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Pepperell-MA,1840004520,Pepperell,Pepperell,MA,Pepperell-MA,Massachusetts,25017,Middlesex,42.6695,-71.5905,,,462.6,polygon,FALSE,America/New_York,1463
+Raynham Center-MA,1840004735,Raynham Center,Raynham Center,MA,Raynham Center-MA,Massachusetts,25005,Bristol,41.9327,-71.0431,,,331.2,polygon,FALSE,America/New_York,02767 02768
+Baldwinville-MA,1840003142,Baldwinville,Baldwinville,MA,Baldwinville-MA,Massachusetts,25027,Worcester,42.6049,-72.0771,,,764.4,polygon,FALSE,America/New_York,1436
+Woods Hole-MA,1840003247,Woods Hole,Woods Hole,MA,Woods Hole-MA,Massachusetts,25001,Barnstable,41.5303,-70.6614,,,345.7,polygon,FALSE,America/New_York,02543 02540
+Upton-MA,1840004535,Upton,Upton,MA,Upton-MA,Massachusetts,25027,Worcester,42.1764,-71.6141,,,769.4,polygon,FALSE,America/New_York,1568
+North Sudbury-MA,1840031172,North Sudbury,North Sudbury,MA,North Sudbury-MA,Massachusetts,25017,Middlesex,42.4093,-71.4045,,,215.8,point,FALSE,America/New_York,1776
+Arlington-MA,1840003125,Arlington,Arlington,MA,Arlington-MA,Massachusetts,25017,Middlesex,42.4186,-71.1638,,,3623.7,polygon,FALSE,America/New_York,02476 02474 02475
+Tyngsboro-MA,1840031176,Tyngsboro,Tyngsboro,MA,Tyngsboro-MA,Massachusetts,25017,Middlesex,42.6768,-71.4245,,,252,point,FALSE,America/New_York,1879
+Devens-MA,1840026192,Devens,Devens,MA,Devens-MA,Massachusetts,25027,Worcester,42.5438,-71.6147,,,292.1,polygon,FALSE,America/New_York,01434 01432
+White Horse Beach-MA,1840031236,White Horse Beach,White Horse Beach,MA,White Horse Beach-MA,Massachusetts,25023,Plymouth,41.9309,-70.5578,,,919.8,point,FALSE,America/New_York,2360
+Walpole-MA,1840004677,Walpole,Walpole,MA,Walpole-MA,Massachusetts,25021,Norfolk,42.1371,-71.2439,,,1146.7,polygon,FALSE,America/New_York,2081
+Barre-MA,1840003143,Barre,Barre,MA,Barre-MA,Massachusetts,25027,Worcester,42.423,-72.1064,,,432,polygon,FALSE,America/New_York,1005
+North Amherst-MA,1840004580,North Amherst,North Amherst,MA,North Amherst-MA,Massachusetts,25015,Hampshire,42.4073,-72.5227,,,787,polygon,FALSE,America/New_York,01002 01003 01059
+Sturbridge-MA,1840004534,Sturbridge,Sturbridge,MA,Sturbridge-MA,Massachusetts,25027,Worcester,42.1001,-72.0635,,,164.7,polygon,FALSE,America/New_York,1566
+Minot-MA,1840031214,Minot,Minot,MA,Minot-MA,Massachusetts,25023,Plymouth,42.2404,-70.762,,,868.3,point,FALSE,America/New_York,2066
+Boxford-MA,1840002452,Boxford,Boxford,MA,Boxford-MA,Massachusetts,25009,Essex,42.6695,-70.9831,,,184.7,polygon,FALSE,America/New_York,1921
+Brookfield-MA,1840026193,Brookfield,Brookfield,MA,Brookfield-MA,Massachusetts,25027,Worcester,42.215,-72.1027,,,418.5,polygon,FALSE,America/New_York,1506
+Shelburne Falls-MA,1840004517,Shelburne Falls,Shelburne Falls,MA,Shelburne Falls-MA,Massachusetts,25011,Franklin,42.6063,-72.7434,,,1064.1,polygon,FALSE,America/New_York,1370
+West Springfield-MA,1840031158,West Springfield,West Springfield,MA,West Springfield-MA,Massachusetts,25013,Hampden,42.107,-72.6204,,,1351.2,point,TRUE,America/New_York,1089
+Milford-MA,1840003157,Milford,Milford,MA,Milford-MA,Massachusetts,25027,Worcester,42.1477,-71.5167,,,1532.4,polygon,FALSE,America/New_York,1757
+Sandwich-MA,1840004764,Sandwich,Sandwich,MA,Sandwich-MA,Massachusetts,25001,Barnstable,41.7573,-70.4998,,,373.6,polygon,FALSE,America/New_York,2563
+South Westport-MA,1840031203,South Westport,South Westport,MA,South Westport-MA,Massachusetts,25005,Bristol,41.5709,-71.0578,,,67.8,point,FALSE,America/New_York,2790
+North Lakeville-MA,1840031242,North Lakeville,North Lakeville,MA,North Lakeville-MA,Massachusetts,25023,Plymouth,41.8619,-70.9411,,,152.6,polygon,FALSE,America/New_York,2347
+White Island Shores-MA,1840003203,White Island Shores,White Island Shores,MA,White Island Shores-MA,Massachusetts,25023,Plymouth,41.7934,-70.6389,,,404.1,polygon,FALSE,America/New_York,2538
+Hull-MA,1840003205,Hull,Hull,MA,Hull-MA,Massachusetts,25023,Plymouth,42.2863,-70.8831,,,1154.9,polygon,FALSE,America/New_York,2045
+Falmouth-MA,1840003240,Falmouth,Falmouth,MA,Falmouth-MA,Massachusetts,25001,Barnstable,41.5516,-70.6089,,,1006.8,polygon,FALSE,America/New_York,02540 02541
+Marlborough-MA,1840000427,Marlborough,Marlborough,MA,Marlborough-MA,Massachusetts,25017,Middlesex,42.3494,-71.5468,39697,39697,734,polygon,TRUE,America/New_York,1752
+Ocean Grove-MA,1840004734,Ocean Grove,Ocean Grove,MA,Ocean Grove-MA,Massachusetts,25005,Bristol,41.7281,-71.2098,,,2063.8,polygon,FALSE,America/New_York,2777
+Belchertown-MA,1840003167,Belchertown,Belchertown,MA,Belchertown-MA,Massachusetts,25015,Hampshire,42.2741,-72.4051,,,601.3,polygon,FALSE,America/New_York,1007
+Seconsett Island-MA,1840031251,Seconsett Island,Seconsett Island,MA,Seconsett Island-MA,Massachusetts,25001,Barnstable,41.5662,-70.5123,,,215,polygon,FALSE,America/New_York,2649
+Athol-MA,1840003141,Athol,Athol,MA,Athol-MA,Massachusetts,25027,Worcester,42.5936,-72.2302,,,1498.5,polygon,FALSE,America/New_York,1331
+Brookline-MA,1840003188,Brookline,Brookline,MA,Brookline-MA,Massachusetts,25021,Norfolk,42.3243,-71.1408,,,6509.1,polygon,FALSE,America/New_York,02467 02446 02445 02447
+Quincy-MA,1840000461,Quincy,Quincy,MA,Quincy-MA,Massachusetts,25021,Norfolk,42.2516,-71.0183,93688,93688,2183,polygon,TRUE,America/New_York,02169 02171 02170 02269
+Westborough-MA,1840003151,Westborough,Westborough,MA,Westborough-MA,Massachusetts,25027,Worcester,42.2672,-71.6168,,,1802.8,polygon,FALSE,America/New_York,1581
+West Hanover-MA,1840031207,West Hanover,West Hanover,MA,West Hanover-MA,Massachusetts,25023,Plymouth,42.1195,-70.8828,,,594.2,point,FALSE,America/New_York,2339
+North Eastham-MA,1840004758,North Eastham,North Eastham,MA,North Eastham-MA,Massachusetts,25001,Barnstable,41.8538,-69.9968,,,335.5,polygon,FALSE,America/New_York,02651 02642
+Yarmouth Port-MA,1840003248,Yarmouth Port,Yarmouth Port,MA,Yarmouth Port-MA,Massachusetts,25001,Barnstable,41.7099,-70.2257,,,182.7,polygon,FALSE,America/New_York,2675
+Shirley-MA,1840004523,Shirley,Shirley,MA,Shirley-MA,Massachusetts,25017,Middlesex,42.5397,-71.6588,,,733.4,polygon,FALSE,America/New_York,1464
+Monomoscoy Island-MA,1840031247,Monomoscoy Island,Monomoscoy Island,MA,Monomoscoy Island-MA,Massachusetts,25001,Barnstable,41.5712,-70.5026,,,277.6,polygon,FALSE,America/New_York,2649
+Glenridge-MA,1840031186,Glenridge,Glenridge,MA,Glenridge-MA,Massachusetts,25021,Norfolk,42.2459,-71.3214,,,356.8,point,FALSE,America/New_York,2030
+Chicopee-MA,1840000462,Chicopee,Chicopee,MA,Chicopee-MA,Massachusetts,25013,Hampden,42.1764,-72.5719,55991,55991,946,polygon,TRUE,America/New_York,01020 01022 01013 01014 01021
+North Chelmsford-MA,1840031171,North Chelmsford,North Chelmsford,MA,North Chelmsford-MA,Massachusetts,25017,Middlesex,42.639,-71.3828,,,1704.1,point,FALSE,America/New_York,1863
+Liberty Plain-MA,1840031205,Liberty Plain,Liberty Plain,MA,Liberty Plain-MA,Massachusetts,25023,Plymouth,42.189,-70.8828,,,698.3,point,FALSE,America/New_York,2043
+Holland-MA,1840003196,Holland,Holland,MA,Holland-MA,Massachusetts,25013,Hampden,42.0546,-72.1531,,,431.2,polygon,FALSE,America/New_York,1521
+Marshfield Hills-MA,1840003208,Marshfield Hills,Marshfield Hills,MA,Marshfield Hills-MA,Massachusetts,25023,Plymouth,42.1487,-70.7315,,,330.4,polygon,FALSE,America/New_York,02050 02051
+Beechwood-MA,1840031210,Beechwood,Beechwood,MA,Beechwood-MA,Massachusetts,25021,Norfolk,42.2098,-70.8189,,,370.1,point,FALSE,America/New_York,2025
+Petersham-MA,1840026194,Petersham,Petersham,MA,Petersham-MA,Massachusetts,25027,Worcester,42.4911,-72.1873,,,114.6,polygon,FALSE,America/New_York,1366
+Lexington-MA,1840003138,Lexington,Lexington,MA,Lexington-MA,Massachusetts,25017,Middlesex,42.4456,-71.2307,,,1477.7,polygon,FALSE,America/New_York,02421 02420
+Swampscott-MA,1840004466,Swampscott,Swampscott,MA,Swampscott-MA,Massachusetts,25009,Essex,42.4758,-70.9067,,,4341.5,polygon,FALSE,America/New_York,1907
+Dedham-MA,1840003189,Dedham,Dedham,MA,Dedham-MA,Massachusetts,25021,Norfolk,42.2467,-71.1778,,,1675.5,polygon,FALSE,America/New_York,02026 02027
+Bellingham-MA,1840003187,Bellingham,Bellingham,MA,Bellingham-MA,Massachusetts,25021,Norfolk,42.094,-71.476,,,242.4,polygon,FALSE,America/New_York,2019
+Northfield-MA,1840004515,Northfield,Northfield,MA,Northfield-MA,Massachusetts,25011,Franklin,42.7068,-72.4357,,,322.4,polygon,FALSE,America/New_York,1360
+Buzzards Bay-MA,1840003232,Buzzards Bay,Buzzards Bay,MA,Buzzards Bay-MA,Massachusetts,25001,Barnstable,41.755,-70.6129,,,694.4,polygon,FALSE,America/New_York,2532
+Webster-MA,1840003150,Webster,Webster,MA,Webster-MA,Massachusetts,25027,Worcester,42.0447,-71.8748,,,2383.9,polygon,FALSE,America/New_York,1570
+Waltham-MA,1840000428,Waltham,Waltham,MA,Waltham-MA,Massachusetts,25017,Middlesex,42.3889,-71.2423,63002,63002,1910,polygon,TRUE,America/New_York,02452 02453 02451 02454 02455
+Medford-MA,1840000431,Medford,Medford,MA,Medford-MA,Massachusetts,25017,Middlesex,42.4234,-71.1087,57213,57213,2726,polygon,TRUE,America/New_York,02155 02153 02156
+Gloucester-MA,1840000412,Gloucester,Gloucester,MA,Gloucester-MA,Massachusetts,25009,Essex,42.626,-70.6896,29798,29798,439,polygon,TRUE,America/New_York,01930 01931
+Provincetown-MA,1840004762,Provincetown,Provincetown,MA,Provincetown-MA,Massachusetts,25001,Barnstable,42.0528,-70.1869,,,250.1,polygon,FALSE,America/New_York,2657
+Boston-MA,1840000455,Boston,Boston,MA,Boston-MA,Massachusetts,25025,Suffolk,42.3189,-71.0838,4556916,673184,5373,polygon,TRUE,America/New_York,02120 02121 02122 02124 02125 02126 02127 02128 02129 02210 02215 02467 02119 02118 02111 02110 02113 02115 02114 02116 02199 02134 02136 02135 02132 02131 02130 02203 02163 02152 02108 02109 02112 02117 02123 02133 02137 02196 02201 02204 02205 02206 02211 02212 02217 02222 02241 02266 02283 02284 02293 02297 02298
+West Yarmouth-MA,1840003246,West Yarmouth,West Yarmouth,MA,West Yarmouth-MA,Massachusetts,25001,Barnstable,41.6496,-70.2487,,,685.2,polygon,FALSE,America/New_York,2673
+Southville-MA,1840031168,Southville,Southville,MA,Southville-MA,Massachusetts,25027,Worcester,42.2668,-71.5365,,,685.8,point,FALSE,America/New_York,1772
+Duxbury-MA,1840003200,Duxbury,Duxbury,MA,Duxbury-MA,Massachusetts,25023,Plymouth,42.0434,-70.6757,,,415.5,polygon,FALSE,America/New_York,02332 02331
+Topsfield-MA,1840004467,Topsfield,Topsfield,MA,Topsfield-MA,Massachusetts,25009,Essex,42.6393,-70.9551,,,486.3,polygon,FALSE,America/New_York,1983
+Stoneham-MA,1840004524,Stoneham,Stoneham,MA,Stoneham-MA,Massachusetts,25017,Middlesex,42.4741,-71.0972,,,2516.7,polygon,FALSE,America/New_York,2180
+Danvers-MA,1840002453,Danvers,Danvers,MA,Danvers-MA,Massachusetts,25009,Essex,42.574,-70.9495,,,913.9,polygon,FALSE,America/New_York,01937 01923
+Holbrook-MA,1840003193,Holbrook,Holbrook,MA,Holbrook-MA,Massachusetts,25021,Norfolk,42.147,-71.0057,,,1062.6,polygon,FALSE,America/New_York,2343
+Groton-MA,1840003132,Groton,Groton,MA,Groton-MA,Massachusetts,25017,Middlesex,42.6084,-71.5707,,,303.2,polygon,FALSE,America/New_York,01450 01470 01471
+Belmont-MA,1840003127,Belmont,Belmont,MA,Belmont-MA,Massachusetts,25017,Middlesex,42.396,-71.1796,,,1287.9,polygon,FALSE,America/New_York,02478 02479
+Andover-MA,1840002451,Andover,Andover,MA,Andover-MA,Massachusetts,25009,Essex,42.6554,-71.1418,,,1914.1,polygon,FALSE,America/New_York,01810 01812 01899 05501 05544
+Turners Falls-MA,1840004519,Turners Falls,Turners Falls,MA,Turners Falls-MA,Massachusetts,25011,Franklin,42.5975,-72.5573,,,2265.7,polygon,FALSE,America/New_York,1376
+Popponesset Island-MA,1840031249,Popponesset Island,Popponesset Island,MA,Popponesset Island-MA,Massachusetts,25001,Barnstable,41.5853,-70.4587,,,176.8,polygon,FALSE,America/New_York,2649
+Haverhill-MA,1840002450,Haverhill,Haverhill,MA,Haverhill-MA,Massachusetts,25009,Essex,42.7838,-71.0871,62873,62873,736,polygon,TRUE,America/New_York,01832 01830 01835 01831
+Hayden Row-MA,1840031167,Hayden Row,Hayden Row,MA,Hayden Row-MA,Massachusetts,25017,Middlesex,42.2043,-71.5106,,,370.2,point,FALSE,America/New_York,1748
+Rockport-MA,1840004462,Rockport,Rockport,MA,Rockport-MA,Massachusetts,25009,Essex,42.645,-70.616,,,1646,polygon,FALSE,America/New_York,1966
+North Falmouth-MA,1840004759,North Falmouth,North Falmouth,MA,North Falmouth-MA,Massachusetts,25001,Barnstable,41.6395,-70.626,,,323,polygon,FALSE,America/New_York,2556
+West Wareham-MA,1840003202,West Wareham,West Wareham,MA,West Wareham-MA,Massachusetts,25023,Plymouth,41.79,-70.755,,,304.3,polygon,FALSE,America/New_York,2576
+Milton-MA,1840004672,Milton,Milton,MA,Milton-MA,Massachusetts,25021,Norfolk,42.2412,-71.0844,,,1100.4,polygon,FALSE,America/New_York,02186 02187
+West Dennis-MA,1840003244,West Dennis,West Dennis,MA,West Dennis-MA,Massachusetts,25001,Barnstable,41.6666,-70.1656,,,463.9,polygon,FALSE,America/New_York,02670 02660
+Warren-MA,1840003149,Warren,Warren,MA,Warren-MA,Massachusetts,25027,Worcester,42.2154,-72.1887,,,680.9,polygon,FALSE,America/New_York,1083
+Newton-MA,1840000433,Newton,Newton,MA,Newton-MA,Massachusetts,25017,Middlesex,42.3317,-71.2085,89045,89045,1927,polygon,TRUE,America/New_York,02464 02466 02461 02462 02468 02465 02467 02460 02459 02458 02456 02495
+East Walpole-MA,1840031199,East Walpole,East Walpole,MA,East Walpole-MA,Massachusetts,25021,Norfolk,42.162,-71.2106,,,1076,point,FALSE,America/New_York,2032
+Winchester-MA,1840003135,Winchester,Winchester,MA,Winchester-MA,Massachusetts,25017,Middlesex,42.4518,-71.1463,,,1514.4,polygon,FALSE,America/New_York,1890
+Longmeadow-MA,1840003197,Longmeadow,Longmeadow,MA,Longmeadow-MA,Massachusetts,25013,Hampden,42.0475,-72.5719,,,1289.3,polygon,FALSE,America/New_York,01106 01116
+Standish-MA,1840031218,Standish,Standish,MA,Standish-MA,Massachusetts,25023,Plymouth,42.107,-70.755,,,468.5,point,FALSE,America/New_York,2050
+Ocean Bluff-MA,1840031225,Ocean Bluff,Ocean Bluff,MA,Ocean Bluff-MA,Massachusetts,25023,Plymouth,42.0973,-70.6536,,,1462.4,point,FALSE,America/New_York,2050
+Bridgewater-MA,1840003199,Bridgewater,Bridgewater,MA,Bridgewater-MA,Massachusetts,25023,Plymouth,41.9888,-70.9717,,,1316.8,polygon,FALSE,America/New_York,02324 02325
+Highland Lake-MA,1840031188,Highland Lake,Highland Lake,MA,Highland Lake-MA,Massachusetts,25021,Norfolk,42.1265,-71.3098,,,314.1,point,FALSE,America/New_York,2056
+Onset-MA,1840004681,Onset,Onset,MA,Onset-MA,Massachusetts,25023,Plymouth,41.7481,-70.6669,,,1478.7,polygon,FALSE,America/New_York,02538 02558
+Pine Rest-MA,1840031174,Pine Rest,Pine Rest,MA,Pine Rest-MA,Massachusetts,25017,Middlesex,42.389,-71.437,,,628.9,point,FALSE,America/New_York,1776
+Williamstown-MA,1840003118,Williamstown,Williamstown,MA,Williamstown-MA,Massachusetts,25003,Berkshire,42.7087,-73.2012,,,2644.7,polygon,FALSE,America/New_York,1267
+West Brookfield-MA,1840003152,West Brookfield,West Brookfield,MA,West Brookfield-MA,Massachusetts,25027,Worcester,42.2388,-72.1455,,,490.9,polygon,FALSE,America/New_York,1585
+Burlington-MA,1840003128,Burlington,Burlington,MA,Burlington-MA,Massachusetts,25017,Middlesex,42.5022,-71.2027,,,1167,polygon,FALSE,America/New_York,01803 01805
+Ayer-MA,1840003126,Ayer,Ayer,MA,Ayer-MA,Massachusetts,25017,Middlesex,42.5613,-71.5848,,,1607.5,polygon,FALSE,America/New_York,1432
+Orange-MA,1840004516,Orange,Orange,MA,Orange-MA,Massachusetts,25011,Franklin,42.5972,-72.3032,,,1321.8,polygon,FALSE,America/New_York,1364
+Somerset-MA,1840004737,Somerset,Somerset,MA,Somerset-MA,Massachusetts,25005,Bristol,41.7404,-71.1612,,,1127.8,polygon,FALSE,America/New_York,02726 02725
+Reading-MA,1840004522,Reading,Reading,MA,Reading-MA,Massachusetts,25017,Middlesex,42.5351,-71.1056,,,1763,polygon,FALSE,America/New_York,1867
+Townsend-MA,1840004525,Townsend,Townsend,MA,Townsend-MA,Massachusetts,25017,Middlesex,42.6717,-71.7041,,,410.9,polygon,FALSE,America/New_York,1469
+Seabrook-MA,1840031250,Seabrook,Seabrook,MA,Seabrook-MA,Massachusetts,25001,Barnstable,41.5831,-70.4991,,,176.6,polygon,FALSE,America/New_York,2649
+Great Barrington-MA,1840004507,Great Barrington,Great Barrington,MA,Great Barrington-MA,Massachusetts,25003,Berkshire,42.1935,-73.3621,,,924.1,polygon,FALSE,America/New_York,1230
+South Yarmouth-MA,1840004766,South Yarmouth,South Yarmouth,MA,South Yarmouth-MA,Massachusetts,25001,Barnstable,41.6692,-70.2005,,,579.5,polygon,FALSE,America/New_York,02673 02664
+Bondsville-MA,1840031159,Bondsville,Bondsville,MA,Bondsville-MA,Massachusetts,25013,Hampden,42.2126,-72.3454,,,495.1,point,FALSE,America/New_York,1009
+Lee-MA,1840003120,Lee,Lee,MA,Lee-MA,Massachusetts,25003,Berkshire,42.3069,-73.2504,,,829.1,polygon,FALSE,America/New_York,1238
+Pittsfield-MA,1840003116,Pittsfield,Pittsfield,MA,Pittsfield-MA,Massachusetts,25003,Berkshire,42.4517,-73.2605,56628,42846,408,polygon,TRUE,America/New_York,01201 01202 01203
+South Dartmouth-MA,1840031239,South Dartmouth,South Dartmouth,MA,South Dartmouth-MA,Massachusetts,25005,Bristol,41.5918,-70.9411,,,1106.2,point,FALSE,America/New_York,2748
+West Boxford-MA,1840031201,West Boxford,West Boxford,MA,West Boxford-MA,Massachusetts,25009,Essex,42.707,-71.0639,,,208.4,point,FALSE,America/New_York,1921
+Everett-MA,1840000425,Everett,Everett,MA,Everett-MA,Massachusetts,25017,Middlesex,42.4064,-71.0544,46340,46340,5223,polygon,TRUE,America/New_York,2149
+Sagamore-MA,1840004763,Sagamore,Sagamore,MA,Sagamore-MA,Massachusetts,25001,Barnstable,41.7842,-70.5332,,,317.6,polygon,FALSE,America/New_York,02561 02562
+South Deerfield-MA,1840004518,South Deerfield,South Deerfield,MA,South Deerfield-MA,Massachusetts,25011,Franklin,42.4795,-72.5947,,,362.9,polygon,FALSE,America/New_York,1373
+Easthampton-MA,1840031156,Easthampton,Easthampton,MA,Easthampton-MA,Massachusetts,25015,Hampshire,42.2668,-72.669,,,1337.3,point,TRUE,America/New_York,1027
+Green Harbor-MA,1840031221,Green Harbor,Green Harbor,MA,Green Harbor-MA,Massachusetts,25023,Plymouth,42.0779,-70.6495,,,633.1,point,FALSE,America/New_York,2050
+Salem-MA,1840000410,Salem,Salem,MA,Salem-MA,Massachusetts,25009,Essex,42.513,-70.9021,43132,43132,2011,polygon,TRUE,America/New_York,01970 01971
+Hyannis-MA,1840031240,Hyannis,Hyannis,MA,Hyannis-MA,Massachusetts,25001,Barnstable,41.6529,-70.2828,,,1221.7,point,FALSE,America/New_York,2601
+Brewster-MA,1840003231,Brewster,Brewster,MA,Brewster-MA,Massachusetts,25001,Barnstable,41.7618,-70.081,,,216.1,polygon,FALSE,America/New_York,2631
+Cochituate-MA,1840003129,Cochituate,Cochituate,MA,Cochituate-MA,Massachusetts,25017,Middlesex,42.329,-71.3576,,,926.4,polygon,FALSE,America/New_York,1778
+Ware-MA,1840004582,Ware,Ware,MA,Ware-MA,Massachusetts,25015,Hampshire,42.2549,-72.246,,,2290.2,polygon,FALSE,America/New_York,1082
+Brockton-MA,1840000467,Brockton,Brockton,MA,Brockton-MA,Massachusetts,25023,Plymouth,42.0821,-71.0242,95630,95630,1731,polygon,TRUE,America/New_York,02301 02302 02303 02304 02305
+Vineyard Haven-MA,1840004895,Vineyard Haven,Vineyard Haven,MA,Vineyard Haven-MA,Massachusetts,25007,Dukes,41.4565,-70.6069,,,778.9,polygon,FALSE,America/New_York,2568
+Pigeon Cove-MA,1840031226,Pigeon Cove,Pigeon Cove,MA,Pigeon Cove-MA,Massachusetts,25009,Essex,42.6737,-70.6328,,,383.4,point,FALSE,America/New_York,1966
+Granby-MA,1840003168,Granby,Granby,MA,Granby-MA,Massachusetts,25015,Hampshire,42.2633,-72.5243,,,189.7,polygon,FALSE,America/New_York,1033
+Barnstable-MA,1840031233,Barnstable,Barnstable,MA,Barnstable-MA,Massachusetts,25001,Barnstable,41.7001,-70.2995,,,213.4,point,TRUE,America/New_York,2630
+Manchester-by-the-Sea-MA,1840031219,Manchester-by-the-Sea,Manchester-by-the-Sea,MA,Manchester-by-the-Sea-MA,Massachusetts,25009,Essex,42.5779,-70.7689,,,1767.2,point,FALSE,America/New_York,1944
+Bliss Corner-MA,1840003221,Bliss Corner,Bliss Corner,MA,Bliss Corner-MA,Massachusetts,25005,Bristol,41.6054,-70.9421,,,2482.4,polygon,FALSE,America/New_York,2748
+Harwich Port-MA,1840003242,Harwich Port,Harwich Port,MA,Harwich Port-MA,Massachusetts,25001,Barnstable,41.6723,-70.0641,,,241.8,polygon,FALSE,America/New_York,02645 02646
+Russell-MA,1840026211,Russell,Russell,MA,Russell-MA,Massachusetts,25013,Hampden,42.1965,-72.8642,,,130.6,polygon,FALSE,America/New_York,1071
+Accord-MA,1840031204,Accord,Accord,MA,Accord-MA,Massachusetts,25023,Plymouth,42.1745,-70.8837,,,71.3,point,FALSE,America/New_York,2061
+North Adams-MA,1840000423,North Adams,North Adams,MA,North Adams-MA,Massachusetts,25003,Berkshire,42.6844,-73.1166,17603,13064,247,polygon,TRUE,America/New_York,1247
+South Acton-MA,1840031175,South Acton,South Acton,MA,South Acton-MA,Massachusetts,25017,Middlesex,42.4584,-71.4537,,,514.6,point,FALSE,America/New_York,1720
+Watertown-MA,1840031198,Watertown,Watertown,MA,Watertown-MA,Massachusetts,25017,Middlesex,42.37,-71.1775,35025,35025,3386,polygon,TRUE,America/New_York,02472 02471 02477
+Lynnfield-MA,1840002456,Lynnfield,Lynnfield,MA,Lynnfield-MA,Massachusetts,25009,Essex,42.5356,-71.0382,,,599.8,polygon,FALSE,America/New_York,1940
+Cheshire-MA,1840026190,Cheshire,Cheshire,MA,Cheshire-MA,Massachusetts,25003,Berkshire,42.5612,-73.1624,,,519.6,polygon,FALSE,America/New_York,1225
+Chester-MA,1840026210,Chester,Chester,MA,Chester-MA,Massachusetts,25013,Hampden,42.2828,-72.981,,,415.3,polygon,FALSE,America/New_York,1011
+Littleton Common-MA,1840003139,Littleton Common,Littleton Common,MA,Littleton Common-MA,Massachusetts,25017,Middlesex,42.5352,-71.4727,,,481,polygon,FALSE,America/New_York,1460
+Dennis Port-MA,1840003235,Dennis Port,Dennis Port,MA,Dennis Port-MA,Massachusetts,25001,Barnstable,41.6677,-70.1358,,,764.5,polygon,FALSE,America/New_York,2639
+West Acton-MA,1840031177,West Acton,West Acton,MA,West Acton-MA,Massachusetts,25017,Middlesex,42.4751,-71.4745,,,704.3,point,FALSE,America/New_York,1720
+Westfield-MA,1840000463,Westfield,Westfield,MA,Westfield-MA,Massachusetts,25013,Hampden,42.1382,-72.7561,41552,41552,346,polygon,TRUE,America/New_York,01086 01085
+North Cohasset-MA,1840031208,North Cohasset,North Cohasset,MA,North Cohasset-MA,Massachusetts,25021,Norfolk,42.2584,-70.8425,,,1159.9,point,FALSE,America/New_York,2025
+Spencer-MA,1840004533,Spencer,Spencer,MA,Spencer-MA,Massachusetts,25027,Worcester,42.2451,-71.9924,,,1658.6,polygon,FALSE,America/New_York,1562
+North Marshfield-MA,1840031216,North Marshfield,North Marshfield,MA,North Marshfield-MA,Massachusetts,25023,Plymouth,42.1432,-70.7703,,,65.1,point,FALSE,America/New_York,2050
+South Walpole-MA,1840031191,South Walpole,South Walpole,MA,South Walpole-MA,Massachusetts,25021,Norfolk,42.1043,-71.2612,,,441.4,point,FALSE,America/New_York,2071
+South Dennis-MA,1840004765,South Dennis,South Dennis,MA,South Dennis-MA,Massachusetts,25001,Barnstable,41.7051,-70.1537,,,243.8,polygon,FALSE,America/New_York,2660
+Cambridge-MA,1840000429,Cambridge,Cambridge,MA,Cambridge-MA,Massachusetts,25017,Middlesex,42.3758,-71.1184,110651,110651,6686,polygon,TRUE,America/New_York,02142 02140 02141 02139 02138 02238
+Clinton-MA,1840003144,Clinton,Clinton,MA,Clinton-MA,Massachusetts,25027,Worcester,42.4182,-71.6855,,,2464.6,polygon,FALSE,America/New_York,1510
+Housatonic-MA,1840003119,Housatonic,Housatonic,MA,Housatonic-MA,Massachusetts,25003,Berkshire,42.2487,-73.3626,,,593,polygon,FALSE,America/New_York,01230 01236
+Cotuit-MA,1840031230,Cotuit,Cotuit,MA,Cotuit-MA,Massachusetts,25001,Barnstable,41.6168,-70.437,,,284,point,FALSE,America/New_York,2635
+North Brookfield-MA,1840004528,North Brookfield,North Brookfield,MA,North Brookfield-MA,Massachusetts,25027,Worcester,42.2711,-72.0842,,,962.4,polygon,FALSE,America/New_York,1535
+Somerville-MA,1840003123,Somerville,Somerville,MA,Somerville-MA,Massachusetts,25017,Middlesex,42.3908,-71.1013,81322,81322,7617,polygon,TRUE,America/New_York,02144 02145 02143
+New Seabury-MA,1840004757,New Seabury,New Seabury,MA,New Seabury-MA,Massachusetts,25001,Barnstable,41.5689,-70.4811,,,129.7,polygon,FALSE,America/New_York,2649
+Northampton-MA,1840000451,Northampton,Northampton,MA,Northampton-MA,Massachusetts,25015,Hampshire,42.3266,-72.6745,28483,28483,321,polygon,TRUE,America/New_York,01060 01062 01063 01053 01061
+Hatfield-MA,1840003169,Hatfield,Hatfield,MA,Hatfield-MA,Massachusetts,25015,Hampshire,42.372,-72.6068,,,191.8,polygon,FALSE,America/New_York,1038
+South Ashburnham-MA,1840004531,South Ashburnham,South Ashburnham,MA,South Ashburnham-MA,Massachusetts,25027,Worcester,42.6138,-71.9384,,,340.3,polygon,FALSE,America/New_York,1430
+Methuen-MA,1840031195,Methuen,Methuen,MA,Methuen-MA,Massachusetts,25009,Essex,42.734,-71.1889,49917,49917,866,polygon,TRUE,America/New_York,1844
+Holyoke-MA,1840000465,Holyoke,Holyoke,MA,Holyoke-MA,Massachusetts,25013,Hampden,42.2126,-72.6411,40280,40280,730,polygon,TRUE,America/New_York,01040 01041
+Silver Lake-MA,1840031193,Silver Lake,Silver Lake,MA,Silver Lake-MA,Massachusetts,25017,Middlesex,42.5695,-71.1912,,,1535.4,point,FALSE,America/New_York,1876
+North Pembroke-MA,1840004678,North Pembroke,North Pembroke,MA,North Pembroke-MA,Massachusetts,25023,Plymouth,42.0989,-70.7821,,,241.9,polygon,FALSE,America/New_York,02359 02358
+Brookville-MA,1840031202,Brookville,Brookville,MA,Brookville-MA,Massachusetts,25021,Norfolk,42.1251,-71.0092,,,752.9,point,FALSE,America/New_York,2343
+Framingham-MA,1840003131,Framingham,Framingham,MA,Framingham-MA,Massachusetts,25017,Middlesex,42.3085,-71.4367,,,3650.3,polygon,FALSE,America/New_York,01701 01702 01703 01704 01705
+Hanover Center-MA,1840031217,Hanover Center,Hanover Center,MA,Hanover Center-MA,Massachusetts,25023,Plymouth,42.1168,-70.8412,,,207.6,point,FALSE,America/New_York,2339
+Huntington-MA,1840026203,Huntington,Huntington,MA,Huntington-MA,Massachusetts,25015,Hampshire,42.2408,-72.8822,,,335.1,polygon,FALSE,America/New_York,1050
+Wellesley-MA,1840003192,Wellesley,Wellesley,MA,Wellesley-MA,Massachusetts,25021,Norfolk,42.3043,-71.2855,,,1754.3,polygon,FALSE,America/New_York,02482 02481 02457
+Orleans-MA,1840004760,Orleans,Orleans,MA,Orleans-MA,Massachusetts,25001,Barnstable,41.7899,-70.0009,,,245.7,polygon,FALSE,America/New_York,2653
+Essex-MA,1840002454,Essex,Essex,MA,Essex-MA,Massachusetts,25009,Essex,42.6333,-70.7743,,,242.5,polygon,FALSE,America/New_York,1929
+Lenox-MA,1840003121,Lenox,Lenox,MA,Lenox-MA,Massachusetts,25003,Berkshire,42.3588,-73.2855,,,354.4,polygon,FALSE,America/New_York,1240
+Forestdale-MA,1840003241,Forestdale,Forestdale,MA,Forestdale-MA,Massachusetts,25001,Barnstable,41.6846,-70.5081,,,207.8,polygon,FALSE,America/New_York,2644
+Sharon-MA,1840004676,Sharon,Sharon,MA,Sharon-MA,Massachusetts,25021,Norfolk,42.1174,-71.1835,,,1489.3,polygon,FALSE,America/New_York,2067
+South Amherst-MA,1840004581,South Amherst,South Amherst,MA,South Amherst-MA,Massachusetts,25015,Hampshire,42.339,-72.5194,,,171.7,polygon,FALSE,America/New_York,1002
+Pine Lake-MA,1840031173,Pine Lake,Pine Lake,MA,Pine Lake-MA,Massachusetts,25017,Middlesex,42.3959,-71.4537,,,985.9,point,FALSE,America/New_York,1776
+Foxborough-MA,1840031241,Foxborough,Foxborough,MA,Foxborough-MA,Massachusetts,25021,Norfolk,42.0644,-71.2482,,,1424,polygon,FALSE,America/New_York,2035
+Wamesit-MA,1840031184,Wamesit,Wamesit,MA,Wamesit-MA,Massachusetts,25017,Middlesex,42.6251,-71.2634,,,175.4,point,FALSE,America/New_York,1876
+Shawsheen Village-MA,1840031197,Shawsheen Village,Shawsheen Village,MA,Shawsheen Village-MA,Massachusetts,25009,Essex,42.6723,-71.1439,,,1207,point,FALSE,America/New_York,1810
+Newburyport-MA,1840000413,Newburyport,Newburyport,MA,Newburyport-MA,Massachusetts,25009,Essex,42.8124,-70.8879,17987,17987,831,polygon,TRUE,America/New_York,1950
+North Attleboro-MA,1840031190,North Attleboro,North Attleboro,MA,North Attleboro-MA,Massachusetts,25005,Bristol,41.9834,-71.3328,,,3131.7,point,FALSE,America/New_York,2760
+Chatham-MA,1840003233,Chatham,Chatham,MA,Chatham-MA,Massachusetts,25001,Barnstable,41.6764,-69.9632,,,236.8,polygon,FALSE,America/New_York,2633
+Ipswich-MA,1840002455,Ipswich,Ipswich,MA,Ipswich-MA,Massachusetts,25009,Essex,42.6792,-70.8307,,,2066.1,polygon,FALSE,America/New_York,1938
+East Harwich-MA,1840003238,East Harwich,East Harwich,MA,East Harwich-MA,Massachusetts,25001,Barnstable,41.7081,-70.0339,,,223.8,polygon,FALSE,America/New_York,02645 02661
+Agawam-MA,1840031157,Agawam,Agawam,MA,Agawam-MA,Massachusetts,25013,Hampden,42.0695,-72.6148,,,1212.8,point,TRUE,America/New_York,1001
+Marshfield Center-MA,1840031224,Marshfield Center,Marshfield Center,MA,Marshfield Center-MA,Massachusetts,25023,Plymouth,42.1168,-70.7162,,,225.8,point,FALSE,America/New_York,2050
+Rexhame-MA,1840031227,Rexhame,Rexhame,MA,Rexhame-MA,Massachusetts,25023,Plymouth,42.114,-70.6745,,,1143.3,point,FALSE,America/New_York,2050
+Marstons Mills-MA,1840031231,Marstons Mills,Marstons Mills,MA,Marstons Mills-MA,Massachusetts,25001,Barnstable,41.6562,-70.4161,,,440.4,point,FALSE,America/New_York,2648
+Fitchburg-MA,1840000435,Fitchburg,Fitchburg,MA,Fitchburg-MA,Massachusetts,25027,Worcester,42.5912,-71.8156,40414,40414,560,polygon,TRUE,America/New_York,1420
+North Scituate-MA,1840004680,North Scituate,North Scituate,MA,North Scituate-MA,Massachusetts,25023,Plymouth,42.2121,-70.7652,,,554.5,polygon,FALSE,America/New_York,02066 02040 02055 02060
+Deerfield-MA,1840026191,Deerfield,Deerfield,MA,Deerfield-MA,Massachusetts,25011,Franklin,42.5463,-72.6024,,,509.6,polygon,FALSE,America/New_York,1342
+Lawrence-MA,1840000408,Lawrence,Lawrence,MA,Lawrence-MA,Massachusetts,25009,Essex,42.7003,-71.1626,80209,80209,4471,polygon,TRUE,America/New_York,01843 01840 01841 01842
+Fayville-MA,1840031166,Fayville,Fayville,MA,Fayville-MA,Massachusetts,25027,Worcester,42.2945,-71.5056,,,399,point,FALSE,America/New_York,1745
+Nahant-MA,1840004461,Nahant,Nahant,MA,Nahant-MA,Massachusetts,25009,Essex,42.4293,-70.927,,,1496.9,polygon,FALSE,America/New_York,1908
+Revere-MA,1840000457,Revere,Revere,MA,Revere-MA,Massachusetts,25025,Suffolk,42.4188,-71.004,53157,53157,3608,polygon,TRUE,America/New_York,2151
+Abington-MA,1840003198,Abington,Abington,MA,Abington-MA,Massachusetts,25023,Plymouth,42.1181,-70.959,,,1322.6,polygon,FALSE,America/New_York,2351
+East Brookfield-MA,1840003146,East Brookfield,East Brookfield,MA,East Brookfield-MA,Massachusetts,25027,Worcester,42.2304,-72.0474,,,702,polygon,FALSE,America/New_York,1515
+Lunenburg-MA,1840003156,Lunenburg,Lunenburg,MA,Lunenburg-MA,Massachusetts,25027,Worcester,42.5934,-71.7269,,,268.9,polygon,FALSE,America/New_York,1462
+Rowley-MA,1840004463,Rowley,Rowley,MA,Rowley-MA,Massachusetts,25009,Essex,42.7186,-70.8749,,,434.6,polygon,FALSE,America/New_York,1969
+Hanson-MA,1840003201,Hanson,Hanson,MA,Hanson-MA,Massachusetts,25023,Plymouth,42.0649,-70.8521,,,400.3,polygon,FALSE,America/New_York,2341
+Saugus-MA,1840004465,Saugus,Saugus,MA,Saugus-MA,Massachusetts,25009,Essex,42.468,-71.0145,,,2074.1,polygon,FALSE,America/New_York,1906
+Dover-MA,1840003190,Dover,Dover,MA,Dover-MA,Massachusetts,25021,Norfolk,42.2475,-71.2741,,,299,polygon,FALSE,America/New_York,2030
+Bourne-MA,1840003230,Bourne,Bourne,MA,Bourne-MA,Massachusetts,25001,Barnstable,41.7323,-70.6154,,,399,polygon,FALSE,America/New_York,2532
+Needham-MA,1840004673,Needham,Needham,MA,Needham-MA,Massachusetts,25021,Norfolk,42.2814,-71.241,,,1983.3,polygon,FALSE,America/New_York,02492 02494
+North Truro-MA,1840031238,North Truro,North Truro,MA,North Truro-MA,Massachusetts,25001,Barnstable,42.0334,-70.0953,,,147.2,point,FALSE,America/New_York,2652
+Greenbush-MA,1840031213,Greenbush,Greenbush,MA,Greenbush-MA,Massachusetts,25023,Plymouth,42.1793,-70.7495,,,406.3,point,FALSE,America/New_York,2066
+New Bedford-MA,1840003219,New Bedford,New Bedford,MA,New Bedford-MA,Massachusetts,25005,Bristol,41.6697,-70.9428,149390,95032,1834,polygon,TRUE,America/New_York,02740 02744 02745 02746 02741 02742
+Adams-MA,1840003117,Adams,Adams,MA,Adams-MA,Massachusetts,25003,Berkshire,42.6277,-73.1187,,,1308,polygon,FALSE,America/New_York,1220
+East Falmouth-MA,1840003237,East Falmouth,East Falmouth,MA,East Falmouth-MA,Massachusetts,25001,Barnstable,41.5707,-70.5556,,,699.9,polygon,FALSE,America/New_York,2536
+Wilbraham-MA,1840003195,Wilbraham,Wilbraham,MA,Wilbraham-MA,Massachusetts,25013,Hampden,42.1341,-72.4345,,,230.8,polygon,FALSE,America/New_York,1095
+North Plymouth-MA,1840004679,North Plymouth,North Plymouth,MA,North Plymouth-MA,Massachusetts,25023,Plymouth,41.9729,-70.6882,,,1160.7,polygon,FALSE,America/New_York,2360
+West Falmouth-MA,1840003245,West Falmouth,West Falmouth,MA,West Falmouth-MA,Massachusetts,25001,Barnstable,41.6012,-70.6364,,,254.5,polygon,FALSE,America/New_York,02540 02574
+North Wilmington-MA,1840031192,North Wilmington,North Wilmington,MA,North Wilmington-MA,Massachusetts,25017,Middlesex,42.5695,-71.1564,,,854.7,point,FALSE,America/New_York,1887
+Franklin-MA,1840031178,Franklin,Franklin,MA,Franklin-MA,Massachusetts,25021,Norfolk,42.0834,-71.3967,,,2117.4,point,TRUE,America/New_York,2038
+Edgartown-MA,1840031237,Edgartown,Edgartown,MA,Edgartown-MA,Massachusetts,25007,Dukes,41.3904,-70.519,,,195.8,polygon,FALSE,America/New_York,2539
+Beverly-MA,1840000411,Beverly,Beverly,MA,Beverly-MA,Massachusetts,25009,Essex,42.5681,-70.8627,41365,41365,1058,polygon,TRUE,America/New_York,01915 01965
+Rutland-MA,1840004530,Rutland,Rutland,MA,Rutland-MA,Massachusetts,25027,Worcester,42.3645,-71.9563,,,764.3,polygon,FALSE,America/New_York,1543
+Scituate-MA,1840004683,Scituate,Scituate,MA,Scituate-MA,Massachusetts,25023,Plymouth,42.1867,-70.7355,,,1209.2,polygon,FALSE,America/New_York,2066
+Woburn-MA,1840003124,Woburn,Woburn,MA,Woburn-MA,Massachusetts,25017,Middlesex,42.4868,-71.1543,39452,39452,1205,polygon,TRUE,America/New_York,01801 01813 01815 01888
+Chelsea-MA,1840000456,Chelsea,Chelsea,MA,Chelsea-MA,Massachusetts,25025,Suffolk,42.3959,-71.0325,39699,39699,6928,polygon,TRUE,America/New_York,2150
+Siasconset-MA,1840024166,Siasconset,Siasconset,MA,Siasconset-MA,Massachusetts,25019,Nantucket,41.2636,-69.9718,,,96.1,polygon,FALSE,America/New_York,2564
+North Bellingham-MA,1840031179,North Bellingham,North Bellingham,MA,North Bellingham-MA,Massachusetts,25021,Norfolk,42.1209,-71.4556,,,519.8,point,FALSE,America/New_York,2019
+East Dennis-MA,1840003236,East Dennis,East Dennis,MA,East Dennis-MA,Massachusetts,25001,Barnstable,41.7392,-70.1576,,,119.8,polygon,FALSE,America/New_York,02638 02641 02660
+Woodville-MA,1840031170,Woodville,Woodville,MA,Woodville-MA,Massachusetts,25017,Middlesex,42.2376,-71.562,,,186.4,point,FALSE,America/New_York,1748
+East Sandwich-MA,1840003239,East Sandwich,East Sandwich,MA,East Sandwich-MA,Massachusetts,25001,Barnstable,41.7365,-70.4341,,,156.8,polygon,FALSE,America/New_York,2537
+Hingham-MA,1840003204,Hingham,Hingham,MA,Hingham-MA,Massachusetts,25023,Plymouth,42.2366,-70.8879,,,699.8,polygon,FALSE,America/New_York,02043 02044
+North Hanover-MA,1840031215,North Hanover,North Hanover,MA,North Hanover-MA,Massachusetts,25023,Plymouth,42.1459,-70.8675,,,704.7,point,FALSE,America/New_York,2339
+Humarock-MA,1840031222,Humarock,Humarock,MA,Humarock-MA,Massachusetts,25023,Plymouth,42.1362,-70.69,,,364,point,FALSE,America/New_York,2047
+Worcester-MA,1840000434,Worcester,Worcester,MA,Worcester-MA,Massachusetts,25027,Worcester,42.2705,-71.8079,495856,184508,1906,polygon,TRUE,America/New_York,01604 01610 01608 01609 01602 01603 01605 01606 01607 01601 01613 01614 01615 01653 01655
+Egypt-MA,1840031212,Egypt,Egypt,MA,Egypt-MA,Massachusetts,25023,Plymouth,42.2126,-70.7584,,,480.2,point,FALSE,America/New_York,2066
+Pocasset-MA,1840004761,Pocasset,Pocasset,MA,Pocasset-MA,Massachusetts,25001,Barnstable,41.6877,-70.6202,,,347.5,polygon,FALSE,America/New_York,2559
+Assinippi-MA,1840031209,Assinippi,Assinippi,MA,Assinippi-MA,Massachusetts,25023,Plymouth,42.1584,-70.8509,,,458.1,point,FALSE,America/New_York,2061
+Caryville-MA,1840031155,Caryville,Caryville,MA,Caryville-MA,Massachusetts,25021,Norfolk,42.1334,-71.4478,,,270,point,FALSE,America/New_York,2019
+West Chatham-MA,1840003243,West Chatham,West Chatham,MA,West Chatham-MA,Massachusetts,25001,Barnstable,41.6804,-69.9918,,,236.4,polygon,FALSE,America/New_York,02633 02669
+Melrose-MA,1840000432,Melrose,Melrose,MA,Melrose-MA,Massachusetts,25017,Middlesex,42.4556,-71.059,27928,27928,2304,polygon,TRUE,America/New_York,2176
+Centerville-MA,1840031234,Centerville,Centerville,MA,Centerville-MA,Massachusetts,25001,Barnstable,41.6487,-70.3481,,,436.5,point,FALSE,America/New_York,2632
+Forge Village-MA,1840031160,Forge Village,Forge Village,MA,Forge Village-MA,Massachusetts,25017,Middlesex,42.5801,-71.487,,,675.9,point,FALSE,America/New_York,1886
+Nutting Lake-MA,1840031182,Nutting Lake,Nutting Lake,MA,Nutting Lake-MA,Massachusetts,25017,Middlesex,42.5379,-71.2689,,,1903.5,point,FALSE,America/New_York,1821
+Hopedale-MA,1840003155,Hopedale,Hopedale,MA,Hopedale-MA,Massachusetts,25027,Worcester,42.1279,-71.541,,,745.3,polygon,FALSE,America/New_York,1747
+Popponesset-MA,1840031248,Popponesset,Popponesset,MA,Popponesset-MA,Massachusetts,25001,Barnstable,41.573,-70.4644,,,227.1,polygon,FALSE,America/New_York,2649
+Nabnasset-MA,1840031163,Nabnasset,Nabnasset,MA,Nabnasset-MA,Massachusetts,25017,Middlesex,42.6126,-71.4203,,,1311.6,point,FALSE,America/New_York,1886
+Maynard-MA,1840003140,Maynard,Maynard,MA,Maynard-MA,Massachusetts,25017,Middlesex,42.4264,-71.4561,,,1044.8,polygon,FALSE,America/New_York,1754
+Islington-MA,1840031200,Islington,Islington,MA,Islington-MA,Massachusetts,25021,Norfolk,42.2237,-71.1898,,,1556.4,point,FALSE,America/New_York,2090
+West Medway-MA,1840031180,West Medway,West Medway,MA,West Medway-MA,Massachusetts,25021,Norfolk,42.1418,-71.4245,,,767.1,point,FALSE,America/New_York,2053
+Monument Beach-MA,1840004756,Monument Beach,Monument Beach,MA,Monument Beach-MA,Massachusetts,25001,Barnstable,41.7191,-70.6061,,,774.6,polygon,FALSE,America/New_York,02532 02553 02559
+Hopkinton-MA,1840003136,Hopkinton,Hopkinton,MA,Hopkinton-MA,Massachusetts,25017,Middlesex,42.2236,-71.5228,,,1055,polygon,FALSE,America/New_York,1748
+Hudson-MA,1840003137,Hudson,Hudson,MA,Hudson-MA,Massachusetts,25017,Middlesex,42.3918,-71.5645,,,1642,polygon,FALSE,America/New_York,1749
+Kingston-MA,1840003206,Kingston,Kingston,MA,Kingston-MA,Massachusetts,25023,Plymouth,41.9965,-70.731,,,406.3,polygon,FALSE,America/New_York,2364
+Shore Acres-MA,1840031228,Shore Acres,Shore Acres,MA,Shore Acres-MA,Massachusetts,25023,Plymouth,42.2145,-70.7384,,,953.4,point,FALSE,America/New_York,2066
+Peabody-MA,1840000414,Peabody,Peabody,MA,Peabody-MA,Massachusetts,25009,Essex,42.5335,-70.9724,52491,52491,1250,polygon,TRUE,America/New_York,01960 01961
+Rockville-MA,1840031189,Rockville,Rockville,MA,Rockville-MA,Massachusetts,25021,Norfolk,42.1407,-71.3592,,,274.7,point,FALSE,America/New_York,2054
+Millers Falls-MA,1840003122,Millers Falls,Millers Falls,MA,Millers Falls-MA,Massachusetts,25011,Franklin,42.5792,-72.4925,,,856.7,polygon,FALSE,America/New_York,01349 01344
+Northborough-MA,1840004527,Northborough,Northborough,MA,Northborough-MA,Massachusetts,25027,Worcester,42.3111,-71.645,,,1158.2,polygon,FALSE,America/New_York,1532
+Springfield-MA,1840000466,Springfield,Springfield,MA,Springfield-MA,Massachusetts,25013,Hampden,42.1155,-72.5395,625300,154074,1866,polygon,TRUE,America/New_York,01151 01118 01119 01199 01129 01128 01107 01105 01104 01103 01109 01108 01101 01102 01111 01115 01138 01139 01144 01152
+Norwood-MA,1840004674,Norwood,Norwood,MA,Norwood-MA,Massachusetts,25021,Norfolk,42.1861,-71.1949,,,2659.7,polygon,FALSE,America/New_York,2062
+Lowell-MA,1840000426,Lowell,Lowell,MA,Lowell-MA,Massachusetts,25017,Middlesex,42.6389,-71.3217,110558,110558,3142,polygon,TRUE,America/New_York,01851 01850 01852 01854 01853
+Winchendon-MA,1840003154,Winchendon,Winchendon,MA,Winchendon-MA,Massachusetts,25027,Worcester,42.681,-72.0436,,,1710.4,polygon,FALSE,America/New_York,1475
+Leominster-MA,1840000437,Leominster,Leominster,MA,Leominster-MA,Massachusetts,25027,Worcester,42.5209,-71.7717,119538,41663,558,polygon,TRUE,America/New_York,1453
+Marshfield-MA,1840003207,Marshfield,Marshfield,MA,Marshfield-MA,Massachusetts,25023,Plymouth,42.0939,-70.7049,,,370.5,polygon,FALSE,America/New_York,02050 02041 02059 02065
+Harding-MA,1840031187,Harding,Harding,MA,Harding-MA,Massachusetts,25021,Norfolk,42.2037,-71.3239,,,313.7,point,FALSE,America/New_York,2052
+Brant Rock-MA,1840031220,Brant Rock,Brant Rock,MA,Brant Rock-MA,Massachusetts,25023,Plymouth,42.0862,-70.6411,,,1159.5,point,FALSE,America/New_York,2050
+Gardner-MA,1840000436,Gardner,Gardner,MA,Gardner-MA,Massachusetts,25027,Worcester,42.5845,-71.9868,20430,20430,357,polygon,TRUE,America/New_York,01440 01441
+Smith Mills-MA,1840004736,Smith Mills,Smith Mills,MA,Smith Mills-MA,Massachusetts,25005,Bristol,41.6432,-70.992,,,361.9,polygon,FALSE,America/New_York,2747
+Fiskdale-MA,1840003148,Fiskdale,Fiskdale,MA,Fiskdale-MA,Massachusetts,25027,Worcester,42.1227,-72.1087,,,127.6,polygon,FALSE,America/New_York,01518 01566
+South Chelmsford-MA,1840031164,South Chelmsford,South Chelmsford,MA,South Chelmsford-MA,Massachusetts,25017,Middlesex,42.5709,-71.3759,,,376.7,point,FALSE,America/New_York,1824
+Ballardvale-MA,1840031194,Ballardvale,Ballardvale,MA,Ballardvale-MA,Massachusetts,25009,Essex,42.6251,-71.1606,,,941.9,point,FALSE,America/New_York,1810
+Oxford-MA,1840004529,Oxford,Oxford,MA,Oxford-MA,Massachusetts,25027,Worcester,42.1162,-71.8705,,,738.5,polygon,FALSE,America/New_York,1540
+Weweantic-MA,1840031245,Weweantic,Weweantic,MA,Weweantic-MA,Massachusetts,25023,Plymouth,41.7398,-70.7351,,,369.9,polygon,FALSE,America/New_York,2571
+North Westport-MA,1840031244,North Westport,North Westport,MA,North Westport-MA,Massachusetts,25005,Bristol,41.654,-71.0927,,,148.7,polygon,FALSE,America/New_York,2790
+South Lancaster-MA,1840004532,South Lancaster,South Lancaster,MA,South Lancaster-MA,Massachusetts,25027,Worcester,42.4373,-71.692,,,720.5,polygon,FALSE,America/New_York,01523 01561
+Malden-MA,1840000430,Malden,Malden,MA,Malden-MA,Massachusetts,25017,Middlesex,42.4305,-71.0576,60840,60840,4657,polygon,TRUE,America/New_York,2148
+Whitinsville-MA,1840003153,Whitinsville,Whitinsville,MA,Whitinsville-MA,Massachusetts,25027,Worcester,42.1145,-71.6688,,,1024.3,polygon,FALSE,America/New_York,1588
+Lynn-MA,1840000409,Lynn,Lynn,MA,Lynn-MA,Massachusetts,25009,Essex,42.4778,-70.9662,92697,92697,3332,polygon,TRUE,America/New_York,01905 01904 01902 01901 01903 01910
+East Douglas-MA,1840003147,East Douglas,East Douglas,MA,East Douglas-MA,Massachusetts,25027,Worcester,42.0779,-71.7121,,,557.5,polygon,FALSE,America/New_York,1516
+North Tewksbury-MA,1840031196,North Tewksbury,North Tewksbury,MA,North Tewksbury-MA,Massachusetts,25017,Middlesex,42.6345,-71.2459,,,168.1,point,FALSE,America/New_York,1876
+Attleboro-MA,1840000496,Attleboro,Attleboro,MA,Attleboro-MA,Massachusetts,25005,Bristol,41.9311,-71.295,44434,44434,639,polygon,TRUE,America/New_York,2703
+North Abington-MA,1840031206,North Abington,North Abington,MA,North Abington-MA,Massachusetts,25023,Plymouth,42.1293,-70.9495,,,1644.3,point,FALSE,America/New_York,2351
+Wareham Center-MA,1840031229,Wareham Center,Wareham Center,MA,Wareham Center-MA,Massachusetts,25023,Plymouth,41.751,-70.7198,,,80.6,polygon,FALSE,America/New_York,2571
+Still River-MA,1840031165,Still River,Still River,MA,Still River-MA,Massachusetts,25027,Worcester,42.4918,-71.6176,,,63.6,point,FALSE,America/New_York,1467
+Wilmington-MA,1840003134,Wilmington,Wilmington,MA,Wilmington-MA,Massachusetts,25017,Middlesex,42.5609,-71.1654,,,611,polygon,FALSE,America/New_York,1887
+Medfield-MA,1840003194,Medfield,Medfield,MA,Medfield-MA,Massachusetts,25021,Norfolk,42.187,-71.3032,,,1310.3,polygon,FALSE,America/New_York,2052
+Wakefield-MA,1840004526,Wakefield,Wakefield,MA,Wakefield-MA,Massachusetts,25017,Middlesex,42.5035,-71.0657,,,2921.6,polygon,FALSE,America/New_York,1880
+Plymouth-MA,1840004682,Plymouth,Plymouth,MA,Plymouth-MA,Massachusetts,25023,Plymouth,41.9539,-70.6693,,,1529.4,polygon,FALSE,America/New_York,02360 02361 02362
+Amherst Center-MA,1840003166,Amherst Center,Amherst Center,MA,Amherst Center-MA,Massachusetts,25015,Hampshire,42.3757,-72.5188,,,2086.4,polygon,FALSE,America/New_York,01002 01003 01004
+River Pines-MA,1840031183,River Pines,River Pines,MA,River Pines-MA,Massachusetts,25017,Middlesex,42.564,-71.2884,,,1847.4,point,FALSE,America/New_York,1821
+Mashpee Neck-MA,1840031246,Mashpee Neck,Mashpee Neck,MA,Mashpee Neck-MA,Massachusetts,25001,Barnstable,41.6118,-70.4667,,,441.9,polygon,FALSE,America/New_York,2649
+Black Rock-MA,1840031211,Black Rock,Black Rock,MA,Black Rock-MA,Massachusetts,25021,Norfolk,42.2437,-70.8287,,,307.1,point,FALSE,America/New_York,2025
+Osterville-MA,1840031232,Osterville,Osterville,MA,Osterville-MA,Massachusetts,25001,Barnstable,41.6284,-70.387,,,421.4,point,FALSE,America/New_York,2655
+Madaket-MA,1840024165,Madaket,Madaket,MA,Madaket-MA,Massachusetts,25019,Nantucket,41.2826,-70.1855,,,46.9,polygon,FALSE,America/New_York,2554
+Blandford-MA,1840026209,Blandford,Blandford,MA,Blandford-MA,Massachusetts,25013,Hampden,42.178,-72.9241,,,117.1,polygon,FALSE,America/New_York,1008
+West Barnstable-MA,1840031235,West Barnstable,West Barnstable,MA,West Barnstable-MA,Massachusetts,25001,Barnstable,41.7057,-70.3745,,,73.2,point,FALSE,America/New_York,2668
+North Seekonk-MA,1840031243,North Seekonk,North Seekonk,MA,North Seekonk-MA,Massachusetts,25005,Bristol,41.8882,-71.3297,,,742.1,polygon,FALSE,America/New_York,2771
+Fall River-MA,1840000497,Fall River,Fall River,MA,Fall River-MA,Massachusetts,25005,Bristol,41.7136,-71.1014,88930,88930,1036,polygon,TRUE,America/New_York,02724 02723 02720 02721 02790 02747 02722
+Taunton-MA,1840003220,Taunton,Taunton,MA,Taunton-MA,Massachusetts,25005,Bristol,41.9036,-71.0943,56843,56843,469,polygon,TRUE,America/New_York,02780 02767 02718
+Randolph-MA,1840004675,Randolph,Randolph,MA,Randolph-MA,Massachusetts,25021,Norfolk,42.1779,-71.0539,,,2110,polygon,FALSE,America/New_York,2368
+Gleasondale-MA,1840031161,Gleasondale,Gleasondale,MA,Gleasondale-MA,Massachusetts,25017,Middlesex,42.4062,-71.5267,,,77.1,point,FALSE,America/New_York,1775
+Marblehead-MA,1840002457,Marblehead,Marblehead,MA,Marblehead-MA,Massachusetts,25009,Essex,42.4991,-70.8637,,,3593.7,polygon,FALSE,America/New_York,1945
+Teaticket-MA,1840004767,Teaticket,Teaticket,MA,Teaticket-MA,Massachusetts,25001,Barnstable,41.5624,-70.5858,,,371.9,polygon,FALSE,America/New_York,2536
+West Upton-MA,1840031169,West Upton,West Upton,MA,West Upton-MA,Massachusetts,25027,Worcester,42.1695,-71.6203,,,913.8,point,FALSE,America/New_York,1568
+Graniteville-MA,1840031162,Graniteville,Graniteville,MA,Graniteville-MA,Massachusetts,25017,Middlesex,42.5959,-71.462,,,628.8,point,FALSE,America/New_York,1886
+South Duxbury-MA,1840004684,South Duxbury,South Duxbury,MA,South Duxbury-MA,Massachusetts,25023,Plymouth,42.0203,-70.6913,,,331.9,polygon,FALSE,America/New_York,2332
+Kent Park-MA,1840031223,Kent Park,Kent Park,MA,Kent Park-MA,Massachusetts,25023,Plymouth,42.1084,-70.6898,,,287.3,point,FALSE,America/New_York,2050
+Cordaville-MA,1840003145,Cordaville,Cordaville,MA,Cordaville-MA,Massachusetts,25027,Worcester,42.2727,-71.5221,,,720.3,polygon,FALSE,America/New_York,1772
+Nantucket-MA,1840004913,Nantucket,Nantucket,MA,Nantucket-MA,Massachusetts,25019,Nantucket,41.2723,-70.0947,,,190.8,polygon,FALSE,America/New_York,2554
+Salisbury-MA,1840004464,Salisbury,Salisbury,MA,Salisbury-MA,Massachusetts,25009,Essex,42.8334,-70.8416,,,600,polygon,FALSE,America/New_York,1952
+Pinehurst-MA,1840004521,Pinehurst,Pinehurst,MA,Pinehurst-MA,Massachusetts,25017,Middlesex,42.5334,-71.234,,,1613.4,polygon,FALSE,America/New_York,01821 01866
+Dennis-MA,1840003234,Dennis,Dennis,MA,Dennis-MA,Massachusetts,25001,Barnstable,41.733,-70.1988,,,246.9,polygon,FALSE,America/New_York,2638
+East Pepperell-MA,1840003130,East Pepperell,East Pepperell,MA,East Pepperell-MA,Massachusetts,25017,Middlesex,42.6654,-71.5635,,,570.5,polygon,FALSE,America/New_York,1463
+West Concord-MA,1840003133,West Concord,West Concord,MA,West Concord-MA,Massachusetts,25017,Middlesex,42.4518,-71.4035,,,2431.7,polygon,FALSE,America/New_York,1742
+Clicquot-MA,1840031185,Clicquot,Clicquot,MA,Clicquot-MA,Massachusetts,25021,Norfolk,42.1715,-71.3523,,,863.6,point,FALSE,America/New_York,2054
+North Billerica-MA,1840031181,North Billerica,North Billerica,MA,North Billerica-MA,Massachusetts,25017,Middlesex,42.5834,-71.2845,,,1521.9,point,FALSE,America/New_York,1862

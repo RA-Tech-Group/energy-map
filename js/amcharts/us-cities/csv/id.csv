@@ -1,0 +1,350 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Porthill-ID,1840027044,Porthill,Porthill,ID,Porthill-ID,Idaho,16021,Boundary,48.9983,-116.498,,,15.2,point,FALSE,America/Los_Angeles,83805
+Nampa-ID,1840020041,Nampa,Nampa,ID,Nampa-ID,Idaho,16027,Canyon,43.5833,-116.5641,169761,91382,1136,polygon,TRUE,America/Boise,83651 83687 83686
+Clover-ID,1840027172,Clover,Clover,ID,Clover-ID,Idaho,16083,Twin Falls,42.5141,-114.6875,,,26.4,point,FALSE,America/Boise,83316
+Saint Maries-ID,1840021126,Saint Maries,Saint Maries,ID,Saint Maries-ID,Idaho,16009,Benewah,47.3146,-116.5714,2636,2428,850,polygon,TRUE,America/Los_Angeles,83861
+Kellogg-ID,1840018392,Kellogg,Kellogg,ID,Kellogg-ID,Idaho,16079,Shoshone,47.5374,-116.143,3033,2081,203,polygon,TRUE,America/Los_Angeles,83837
+Berenice-ID,1840027116,Berenice,Berenice,ID,Berenice-ID,Idaho,16023,Butte,43.8277,-112.9742,,,3.9,point,FALSE,America/Boise,83244
+Atlanta-ID,1840027118,Atlanta,Atlanta,ID,Atlanta-ID,Idaho,16039,Elmore,43.8016,-115.1267,,,26.1,point,FALSE,America/Boise,83601
+Nordman-ID,1840027053,Nordman,Nordman,ID,Nordman-ID,Idaho,16017,Bonner,48.6338,-116.9458,,,2.2,point,FALSE,America/Los_Angeles,83848
+Pocatello-ID,1840013376,Pocatello,Pocatello,ID,Pocatello-ID,Idaho,16005,Bannock,42.8716,-112.466,70445,54746,650,polygon,TRUE,America/Boise,83204 83201 83209 83205 83206
+Lemhi-ID,1840027087,Lemhi,Lemhi,ID,Lemhi-ID,Idaho,16059,Lemhi,44.8516,-113.6198,,,4.4,point,FALSE,America/Boise,83465
+Chilly-ID,1840027100,Chilly,Chilly,ID,Chilly-ID,Idaho,16037,Custer,44.0777,-113.8789,,,2.2,point,FALSE,America/Boise,83251
+Post Falls-ID,1840019811,Post Falls,Post Falls,ID,Post Falls-ID,Idaho,16055,Kootenai,47.7202,-116.9396,31865,31865,857,polygon,TRUE,America/Los_Angeles,83854 83877
+Parker-ID,1840019996,Parker,Parker,ID,Parker-ID,Idaho,16043,Fremont,43.9582,-111.7584,302,302,330,polygon,TRUE,America/Boise,83445 83438
+Sugar City-ID,1840021277,Sugar City,Sugar City,ID,Sugar City-ID,Idaho,16065,Madison,43.8757,-111.7518,1361,1361,307,polygon,TRUE,America/Boise,83440 83448
+Murtaugh-ID,1840020083,Murtaugh,Murtaugh,ID,Murtaugh-ID,Idaho,16083,Twin Falls,42.492,-114.1615,141,141,470,polygon,TRUE,America/Boise,83344
+Challis-ID,1840018599,Challis,Challis,ID,Challis-ID,Idaho,16037,Custer,44.5053,-114.2278,1041,1041,218,polygon,TRUE,America/Boise,83226
+Lakeview-ID,1840027051,Lakeview,Lakeview,ID,Lakeview-ID,Idaho,16017,Bonner,47.9702,-116.4466,,,12.2,point,FALSE,America/Los_Angeles,83803
+Notus-ID,1840020042,Notus,Notus,ID,Notus-ID,Idaho,16027,Canyon,43.7267,-116.8002,619,619,634,polygon,TRUE,America/Boise,83656 83607
+Winchester-ID,1840021179,Winchester,Winchester,ID,Winchester-ID,Idaho,16061,Lewis,46.2408,-116.624,347,347,749,polygon,TRUE,America/Los_Angeles,83555
+Malad City-ID,1840020093,Malad City,Malad City,ID,Malad City-ID,Idaho,16071,Oneida,42.1903,-112.2499,2072,2072,482,polygon,TRUE,America/Boise,83252
+Riggins-ID,1840019894,Riggins,Riggins,ID,Riggins-ID,Idaho,16049,Idaho,45.4192,-116.3191,406,406,365,polygon,TRUE,America/Boise,83549
+Avery-ID,1840027054,Avery,Avery,ID,Avery-ID,Idaho,16079,Shoshone,47.2505,-115.8052,,,13,point,FALSE,America/Los_Angeles,83802
+Hailey-ID,1840020028,Hailey,Hailey,ID,Hailey-ID,Idaho,16013,Blaine,43.5132,-114.301,10791,8218,891,polygon,TRUE,America/Boise,83333
+Boise-ID,1840027142,Boise,Boise,ID,Boise-ID,Idaho,16001,Ada,43.5991,-116.2306,379410,223154,1070,polygon,TRUE,America/Boise,83703 83702 83709 83706 83705 83704 83716 83712 83713 83701 83708 83715 83717 83720 83722 83724 83725 83728 83729 83735 83756 83799
+Rockland-ID,1840020069,Rockland,Rockland,ID,Rockland-ID,Idaho,16077,Power,42.5733,-112.8745,288,288,373,polygon,TRUE,America/Boise,83271
+Greer-ID,1840027066,Greer,Greer,ID,Greer-ID,Idaho,16035,Clearwater,46.3899,-116.1751,,,10.1,point,FALSE,America/Los_Angeles,83544
+Freedom-ID,1840026171,Freedom,Freedom,ID,Freedom-ID,Idaho,16029,Caribou,42.9854,-111.0296,,,29.3,polygon,FALSE,America/Denver,83120
+Thama-ID,1840027052,Thama,Thama,ID,Thama-ID,Idaho,16017,Bonner,48.1532,-116.8477,,,15.8,point,FALSE,America/Los_Angeles,83856
+Craigmont-ID,1840018498,Craigmont,Craigmont,ID,Craigmont-ID,Idaho,16061,Lewis,46.2418,-116.472,499,499,253,polygon,TRUE,America/Los_Angeles,83523
+Irwin-ID,1840018646,Irwin,Irwin,ID,Irwin-ID,Idaho,16019,Bonneville,43.3962,-111.2714,228,228,35,polygon,TRUE,America/Boise,83428
+Ucon-ID,1840021281,Ucon,Ucon,ID,Ucon-ID,Idaho,16019,Bonneville,43.5936,-111.9592,1136,1136,558,polygon,TRUE,America/Boise,83454 83401
+Spencer-ID,1840021259,Spencer,Spencer,ID,Spencer-ID,Idaho,16033,Clark,44.3784,-112.1903,32,32,11,polygon,TRUE,America/Boise,83446
+Rockford Bay-ID,1840023789,Rockford Bay,Rockford Bay,ID,Rockford Bay-ID,Idaho,16055,Kootenai,47.5086,-116.8866,,,99.3,polygon,FALSE,America/Los_Angeles,83814
+Blanchard-ID,1840023760,Blanchard,Blanchard,ID,Blanchard-ID,Idaho,16017,Bonner,48.0152,-116.9928,,,71,polygon,FALSE,America/Los_Angeles,83804
+Greenleaf-ID,1840020038,Greenleaf,Greenleaf,ID,Greenleaf-ID,Idaho,16027,Canyon,43.6746,-116.8211,874,874,400,polygon,TRUE,America/Boise,83626
+Wardner-ID,1840021091,Wardner,Wardner,ID,Wardner-ID,Idaho,16079,Shoshone,47.5192,-116.1353,175,175,78,polygon,TRUE,America/Los_Angeles,83837
+Victor-ID,1840021273,Victor,Victor,ID,Victor-ID,Idaho,16081,Teton,43.6018,-111.1111,2055,2055,292,polygon,TRUE,America/Boise,83455
+Copeland-ID,1840027042,Copeland,Copeland,ID,Copeland-ID,Idaho,16021,Boundary,48.9022,-116.3888,,,11.1,point,FALSE,America/Los_Angeles,83805
+Thornton-ID,1840027135,Thornton,Thornton,ID,Thornton-ID,Idaho,16065,Madison,43.7582,-111.8452,,,230.9,point,FALSE,America/Boise,83440
+Ellis-ID,1840027081,Ellis,Ellis,ID,Ellis-ID,Idaho,16037,Custer,44.6919,-114.0484,,,3.7,point,FALSE,America/Boise,83235
+Basin-ID,1840027182,Basin,Basin,ID,Basin-ID,Idaho,16031,Cassia,42.2455,-113.7845,,,4.9,point,FALSE,America/Boise,83346
+Crouch-ID,1840018621,Crouch,Crouch,ID,Crouch-ID,Idaho,16015,Boise,44.1171,-115.973,163,163,151,polygon,TRUE,America/Boise,83622
+Felt-ID,1840027132,Felt,Felt,ID,Felt-ID,Idaho,16081,Teton,43.873,-111.1847,,,14.4,point,FALSE,America/Boise,83424
+Deary-ID,1840018463,Deary,Deary,ID,Deary-ID,Idaho,16057,Latah,46.8002,-116.5571,511,511,302,polygon,TRUE,America/Los_Angeles,83823
+State Line Village-ID,1840029705,State Line Village,State Line Village,ID,State Line Village-ID,Idaho,16055,Kootenai,47.7043,-117.0374,,,86.8,point,TRUE,America/Los_Angeles,83854
+Edmonds-ID,1840027133,Edmonds,Edmonds,ID,Edmonds-ID,Idaho,16065,Madison,43.913,-111.8808,,,20.6,point,FALSE,America/Boise,83440
+Hill City-ID,1840027138,Hill City,Hill City,ID,Hill City-ID,Idaho,16025,Camas,43.3005,-115.0512,,,1.9,point,FALSE,America/Boise,83337
+Swan Valley-ID,1840021280,Swan Valley,Swan Valley,ID,Swan Valley-ID,Idaho,16019,Bonneville,43.4445,-111.3288,221,221,7,polygon,TRUE,America/Boise,83449 83428
+Priest River-ID,1840019772,Priest River,Priest River,ID,Priest River-ID,Idaho,16017,Bonner,48.1783,-116.8844,1773,1773,190,polygon,TRUE,America/Los_Angeles,83856
+Menan-ID,1840020023,Menan,Menan,ID,Menan-ID,Idaho,16051,Jefferson,43.7217,-111.9925,781,781,289,polygon,TRUE,America/Boise,83434
+Albion-ID,1840018682,Albion,Albion,ID,Albion-ID,Idaho,16031,Cassia,42.4095,-113.58,269,269,220,polygon,TRUE,America/Boise,83311
+Kootenai-ID,1840019773,Kootenai,Kootenai,ID,Kootenai-ID,Idaho,16017,Bonner,48.3121,-116.5169,806,806,529,polygon,TRUE,America/Los_Angeles,83864 83840
+Clark Fork-ID,1840018363,Clark Fork,Clark Fork,ID,Clark Fork-ID,Idaho,16017,Bonner,48.1472,-116.1769,549,549,230,polygon,TRUE,America/Los_Angeles,83811
+Rose Lake-ID,1840029707,Rose Lake,Rose Lake,ID,Rose Lake-ID,Idaho,16055,Kootenai,47.5388,-116.4718,,,29.3,point,FALSE,America/Los_Angeles,83810
+Lund-ID,1840027163,Lund,Lund,ID,Lund-ID,Idaho,16029,Caribou,42.6427,-111.8886,,,9.5,point,FALSE,America/Boise,83217
+Sharon-ID,1840027190,Sharon,Sharon,ID,Sharon-ID,Idaho,16007,Bear Lake,42.3505,-111.4791,,,2.9,point,FALSE,America/Boise,83254
+Samaria-ID,1840027195,Samaria,Samaria,ID,Samaria-ID,Idaho,16071,Oneida,42.1177,-112.3369,,,36.7,point,FALSE,America/Boise,83252
+Smelterville-ID,1840021089,Smelterville,Smelterville,ID,Smelterville-ID,Idaho,16079,Shoshone,47.5425,-116.1776,598,598,745,polygon,TRUE,America/Los_Angeles,83868
+Gannett-ID,1840027130,Gannett,Gannett,ID,Gannett-ID,Idaho,16013,Blaine,43.3599,-114.1759,,,118.4,point,FALSE,America/Boise,83313
+Eagle-ID,1840018642,Eagle,Eagle,ID,Eagle-ID,Idaho,16001,Ada,43.7231,-116.3856,24785,24785,324,polygon,TRUE,America/Boise,83616
+Raymond-ID,1840027189,Raymond,Raymond,ID,Raymond-ID,Idaho,16007,Bear Lake,42.2747,-111.0588,,,12.7,point,FALSE,America/Boise,83238
+Rexburg-ID,1840020037,Rexburg,Rexburg,ID,Rexburg-ID,Idaho,16065,Madison,43.8221,-111.7926,29738,28222,1124,polygon,TRUE,America/Boise,83460 83440
+Clayton-ID,1840018600,Clayton,Clayton,ID,Clayton-ID,Idaho,16037,Custer,44.2591,-114.4001,7,7,227,polygon,TRUE,America/Boise,83227
+Almo-ID,1840027175,Almo,Almo,ID,Almo-ID,Idaho,16031,Cassia,42.1002,-113.6336,,,6.5,point,FALSE,America/Boise,83312
+Tetonia-ID,1840021272,Tetonia,Tetonia,ID,Tetonia-ID,Idaho,16081,Teton,43.8146,-111.1586,280,280,190,polygon,TRUE,America/Boise,83452
+Hamer-ID,1840020018,Hamer,Hamer,ID,Hamer-ID,Idaho,16051,Jefferson,43.9217,-112.2032,91,91,173,polygon,TRUE,America/Boise,83425
+Kendrick-ID,1840018462,Kendrick,Kendrick,ID,Kendrick-ID,Idaho,16057,Latah,46.6149,-116.6535,299,299,298,polygon,TRUE,America/Los_Angeles,83537
+Rigby-ID,1840020020,Rigby,Rigby,ID,Rigby-ID,Idaho,16051,Jefferson,43.6735,-111.9129,8987,4062,657,polygon,TRUE,America/Boise,83442
+Marsing-ID,1840020050,Marsing,Marsing,ID,Marsing-ID,Idaho,16073,Owyhee,43.5464,-116.8096,1282,1282,690,polygon,TRUE,America/Boise,83639
+Sweet-ID,1840027113,Sweet,Sweet,ID,Sweet-ID,Idaho,16045,Gem,43.9729,-116.3246,,,38.9,point,FALSE,America/Boise,83670
+Acequia-ID,1840018665,Acequia,Acequia,ID,Acequia-ID,Idaho,16067,Minidoka,42.6676,-113.5967,127,127,117,polygon,TRUE,America/Boise,83350
+Butte City-ID,1840018628,Butte City,Butte City,ID,Butte City-ID,Idaho,16023,Butte,43.607,-113.2409,65,65,153,polygon,TRUE,America/Boise,83213
+Grangeville-ID,1840019893,Grangeville,Grangeville,ID,Grangeville-ID,Idaho,16049,Idaho,45.926,-116.1218,3147,3139,833,polygon,TRUE,America/Los_Angeles,83530 83531
+Leslie-ID,1840027099,Leslie,Leslie,ID,Leslie-ID,Idaho,16037,Custer,43.8657,-113.4675,,,11,point,FALSE,America/Boise,83255
+Smiths Ferry-ID,1840023912,Smiths Ferry,Smiths Ferry,ID,Smiths Ferry-ID,Idaho,16085,Valley,44.2989,-116.0782,,,17.1,polygon,FALSE,America/Boise,83611
+Myrtle-ID,1840027079,Myrtle,Myrtle,ID,Myrtle-ID,Idaho,16069,Nez Perce,46.4968,-116.726,,,36.8,point,FALSE,America/Los_Angeles,83535
+Pinehurst-ID,1840019800,Pinehurst,Pinehurst,ID,Pinehurst-ID,Idaho,16079,Shoshone,47.5362,-116.2325,1577,1577,581,polygon,TRUE,America/Los_Angeles,83850
+Helmer-ID,1840027065,Helmer,Helmer,ID,Helmer-ID,Idaho,16057,Latah,46.8007,-116.4702,,,14,point,FALSE,America/Los_Angeles,83823
+Chatcolet-ID,1840027060,Chatcolet,Chatcolet,ID,Chatcolet-ID,Idaho,16009,Benewah,47.3721,-116.7635,,,10.7,point,FALSE,America/Los_Angeles,83851
+Tyhee-ID,1840025457,Tyhee,Tyhee,ID,Tyhee-ID,Idaho,16005,Bannock,42.9551,-112.4562,,,192.6,polygon,FALSE,America/Boise,83202
+Buist-ID,1840027193,Buist,Buist,ID,Buist-ID,Idaho,16071,Oneida,42.3271,-112.6055,,,1.7,point,FALSE,America/Boise,83243
+Weippe-ID,1840021158,Weippe,Weippe,ID,Weippe-ID,Idaho,16035,Clearwater,46.3789,-115.9394,431,431,399,polygon,TRUE,America/Los_Angeles,83553
+Lewiston Orchards-ID,1840027078,Lewiston Orchards,Lewiston Orchards,ID,Lewiston Orchards-ID,Idaho,16069,Nez Perce,46.3804,-116.9754,,,1179.3,point,FALSE,America/Los_Angeles,83501
+Huston-ID,1840027137,Huston,Huston,ID,Huston-ID,Idaho,16027,Canyon,43.6102,-116.7832,,,80.1,point,FALSE,America/Boise,83607
+McCall-ID,1840019964,McCall,McCall,ID,McCall-ID,Idaho,16085,Valley,44.9076,-116.1125,3278,3278,139,polygon,TRUE,America/Boise,83638 83635
+Barber-ID,1840027141,Barber,Barber,ID,Barber-ID,Idaho,16001,Ada,43.5652,-116.1132,,,37,point,FALSE,America/Boise,83712
+Whitney-ID,1840027203,Whitney,Whitney,ID,Whitney-ID,Idaho,16041,Franklin,42.0658,-111.8377,,,27.6,point,FALSE,America/Boise,83263
+Grace-ID,1840020073,Grace,Grace,ID,Grace-ID,Idaho,16029,Caribou,42.5754,-111.7306,910,910,356,polygon,TRUE,America/Boise,83241
+Horseshoe Bend-ID,1840020005,Horseshoe Bend,Horseshoe Bend,ID,Horseshoe Bend-ID,Idaho,16015,Boise,43.9165,-116.2004,692,692,247,polygon,TRUE,America/Boise,83629
+Robin-ID,1840027161,Robin,Robin,ID,Robin-ID,Idaho,16005,Bannock,42.5771,-112.2466,,,8,point,FALSE,America/Boise,83214
+Lost River-ID,1840019984,Lost River,Lost River,ID,Lost River-ID,Idaho,16037,Custer,43.7385,-113.5469,,,2,polygon,TRUE,America/Boise,83255
+Lake Fork-ID,1840027098,Lake Fork,Lake Fork,ID,Lake Fork-ID,Idaho,16085,Valley,44.8327,-116.0848,,,14.2,point,FALSE,America/Boise,83638
+Holbrook-ID,1840027192,Holbrook,Holbrook,ID,Holbrook-ID,Idaho,16071,Oneida,42.1619,-112.6539,,,36.2,point,FALSE,America/Boise,83243
+Montpelier-ID,1840020091,Montpelier,Montpelier,ID,Montpelier-ID,Idaho,16007,Bear Lake,42.326,-111.2988,2506,2506,415,polygon,TRUE,America/Boise,83254
+Bancroft-ID,1840018671,Bancroft,Bancroft,ID,Bancroft-ID,Idaho,16029,Caribou,42.72,-111.8827,367,367,218,polygon,TRUE,America/Boise,83217
+Council-ID,1840018584,Council,Council,ID,Council-ID,Idaho,16003,Adams,44.7329,-116.4375,818,818,316,polygon,TRUE,America/Boise,83612
+Hayden Lake-ID,1840019809,Hayden Lake,Hayden Lake,ID,Hayden Lake-ID,Idaho,16055,Kootenai,47.7637,-116.7565,614,614,403,polygon,TRUE,America/Los_Angeles,83835
+Stanley-ID,1840021249,Stanley,Stanley,ID,Stanley-ID,Idaho,16037,Custer,44.2151,-114.9368,69,69,43,polygon,TRUE,America/Boise,83278
+Fruitland-ID,1840020013,Fruitland,Fruitland,ID,Fruitland-ID,Idaho,16075,Payette,44.0204,-116.9223,5136,5136,889,polygon,TRUE,America/Boise,83619
+Sublett-ID,1840027181,Sublett,Sublett,ID,Sublett-ID,Idaho,16031,Cassia,42.3121,-113.1369,,,14,point,FALSE,America/Boise,83342
+Rathdrum-ID,1840019812,Rathdrum,Rathdrum,ID,Rathdrum-ID,Idaho,16055,Kootenai,47.7992,-116.8911,7587,7921,586,polygon,TRUE,America/Los_Angeles,83858
+Juliaetta-ID,1840018461,Juliaetta,Juliaetta,ID,Juliaetta-ID,Idaho,16057,Latah,46.5741,-116.7095,582,582,314,polygon,TRUE,America/Los_Angeles,83535
+White Bird-ID,1840021171,White Bird,White Bird,ID,White Bird-ID,Idaho,16049,Idaho,45.7632,-116.3001,91,91,516,polygon,TRUE,America/Los_Angeles,83554
+Hot Springs-ID,1840027149,Hot Springs,Hot Springs,ID,Hot Springs-ID,Idaho,16073,Owyhee,42.7918,-115.7179,,,2.8,point,FALSE,America/Boise,83604
+De Smet-ID,1840023828,De Smet,De Smet,ID,De Smet-ID,Idaho,16009,Benewah,47.1411,-116.9113,,,93.4,polygon,FALSE,America/Los_Angeles,83824
+Homedale-ID,1840020049,Homedale,Homedale,ID,Homedale-ID,Idaho,16073,Owyhee,43.6153,-116.9375,2679,2584,680,polygon,TRUE,America/Boise,83628
+Stone-ID,1840027196,Stone,Stone,ID,Stone-ID,Idaho,16071,Oneida,42.0163,-112.6953,,,7.8,point,FALSE,America/Boise,83252
+New Meadows-ID,1840019963,New Meadows,New Meadows,ID,New Meadows-ID,Idaho,16003,Adams,44.9703,-116.2856,477,477,343,polygon,TRUE,America/Boise,83654
+Spirit Lake-ID,1840021098,Spirit Lake,Spirit Lake,ID,Spirit Lake-ID,Idaho,16055,Kootenai,47.9659,-116.87,2167,2167,329,polygon,TRUE,America/Los_Angeles,83869
+Moyie Springs-ID,1840019755,Moyie Springs,Moyie Springs,ID,Moyie Springs-ID,Idaho,16021,Boundary,48.7249,-116.1953,742,742,188,polygon,TRUE,America/Los_Angeles,83845
+Lucile-ID,1840027072,Lucile,Lucile,ID,Lucile-ID,Idaho,16049,Idaho,45.5352,-116.3104,,,38.6,point,FALSE,America/Boise,83542
+Hollister-ID,1840020082,Hollister,Hollister,ID,Hollister-ID,Idaho,16083,Twin Falls,42.3529,-114.5838,277,277,99,polygon,TRUE,America/Boise,83301
+Paul-ID,1840020068,Paul,Paul,ID,Paul-ID,Idaho,16067,Minidoka,42.6055,-113.7846,1202,1202,727,polygon,TRUE,America/Boise,83347
+Harpster-ID,1840027074,Harpster,Harpster,ID,Harpster-ID,Idaho,16049,Idaho,45.9866,-115.9635,,,86.6,point,FALSE,America/Los_Angeles,83552
+Ammon-ID,1840018643,Ammon,Ammon,ID,Ammon-ID,Idaho,16019,Bonneville,43.4748,-111.9559,15252,15252,788,polygon,TRUE,America/Boise,83401 83406 83403
+Middleton-ID,1840020040,Middleton,Middleton,ID,Middleton-ID,Idaho,16027,Canyon,43.7124,-116.6143,7168,7168,490,polygon,TRUE,America/Boise,83644 83652
+Careywood-ID,1840027047,Careywood,Careywood,ID,Careywood-ID,Idaho,16017,Bonner,48.0346,-116.6433,,,11.1,point,FALSE,America/Los_Angeles,83809
+Fernan Lake Village-ID,1840019805,Fernan Lake Village,Fernan Lake Village,ID,Fernan Lake Village-ID,Idaho,16055,Kootenai,47.6726,-116.7473,174,174,906,polygon,TRUE,America/Los_Angeles,83814
+Bliss-ID,1840018664,Bliss,Bliss,ID,Bliss-ID,Idaho,16047,Gooding,42.9241,-114.9476,297,297,154,polygon,TRUE,America/Boise,83314
+Elk River-ID,1840019875,Elk River,Elk River,ID,Elk River-ID,Idaho,16035,Clearwater,46.783,-116.1811,119,119,309,polygon,TRUE,America/Los_Angeles,83827
+Bowmont-ID,1840027136,Bowmont,Bowmont,ID,Bowmont-ID,Idaho,16027,Canyon,43.456,-116.541,,,229.5,point,FALSE,America/Boise,83686
+Byrne-ID,1840027134,Byrne,Byrne,ID,Byrne-ID,Idaho,16065,Madison,43.6919,-111.7466,,,2.5,point,FALSE,America/Boise,83440
+Hammett-ID,1840027117,Hammett,Hammett,ID,Hammett-ID,Idaho,16039,Elmore,42.9457,-115.4662,,,144.4,point,FALSE,America/Boise,83627
+Mesa-ID,1840027096,Mesa,Mesa,ID,Mesa-ID,Idaho,16003,Adams,44.6288,-116.4507,,,11.9,point,FALSE,America/Boise,83643
+Placerville-ID,1840020006,Placerville,Placerville,ID,Placerville-ID,Idaho,16015,Boise,43.943,-115.9456,54,54,20,polygon,TRUE,America/Boise,83631 83666
+Lincoln-ID,1840024022,Lincoln,Lincoln,ID,Lincoln-ID,Idaho,16019,Bonneville,43.5178,-111.9687,,,1143.9,polygon,FALSE,America/Boise,83401
+Lapwai-ID,1840019899,Lapwai,Lapwai,ID,Lapwai-ID,Idaho,16069,Nez Perce,46.4041,-116.8044,1148,1148,556,polygon,TRUE,America/Los_Angeles,83540
+Payette-ID,1840020015,Payette,Payette,ID,Payette-ID,Idaho,16075,Payette,44.079,-116.9256,7414,7414,717,polygon,TRUE,America/Boise,83661
+Plummer-ID,1840019851,Plummer,Plummer,ID,Plummer-ID,Idaho,16009,Benewah,47.3297,-116.885,1017,1017,313,polygon,TRUE,America/Los_Angeles,83851
+Lava Hot Springs-ID,1840020072,Lava Hot Springs,Lava Hot Springs,ID,Lava Hot Springs-ID,Idaho,16005,Bannock,42.6199,-112.0098,412,412,235,polygon,TRUE,America/Boise,83246
+Gifford-ID,1840027076,Gifford,Gifford,ID,Gifford-ID,Idaho,16069,Nez Perce,46.4432,-116.5565,,,10.2,point,FALSE,America/Los_Angeles,83524
+Oldtown-ID,1840019770,Oldtown,Oldtown,ID,Oldtown-ID,Idaho,16017,Bonner,48.184,-117.0204,182,182,85,polygon,TRUE,America/Los_Angeles,83822
+Bovill-ID,1840018460,Bovill,Bovill,ID,Bovill-ID,Idaho,16057,Latah,46.8587,-116.3933,247,247,505,polygon,TRUE,America/Los_Angeles,83823 83806
+Letha-ID,1840027109,Letha,Letha,ID,Letha-ID,Idaho,16045,Gem,43.8943,-116.6476,,,171.3,point,FALSE,America/Boise,83636
+Stites-ID,1840021170,Stites,Stites,ID,Stites-ID,Idaho,16049,Idaho,46.0922,-115.9764,228,228,934,polygon,TRUE,America/Los_Angeles,83552
+Kimberly-ID,1840020084,Kimberly,Kimberly,ID,Kimberly-ID,Idaho,16083,Twin Falls,42.5333,-114.37,3736,3736,895,polygon,TRUE,America/Boise,83341
+Downey-ID,1840018670,Downey,Downey,ID,Downey-ID,Idaho,16005,Bannock,42.4289,-112.1234,615,615,240,polygon,TRUE,America/Boise,83234
+Parma-ID,1840020043,Parma,Parma,ID,Parma-ID,Idaho,16027,Canyon,43.7864,-116.9429,2083,2083,730,polygon,TRUE,America/Boise,83660
+Osgood-ID,1840027152,Osgood,Osgood,ID,Osgood-ID,Idaho,16019,Bonneville,43.5702,-112.103,,,3,point,FALSE,America/Boise,83402
+Naples-ID,1840027041,Naples,Naples,ID,Naples-ID,Idaho,16021,Boundary,48.571,-116.3924,,,136.2,point,FALSE,America/Los_Angeles,83847
+Coolin-ID,1840027050,Coolin,Coolin,ID,Coolin-ID,Idaho,16017,Bonner,48.4796,-116.8494,,,79.8,point,FALSE,America/Los_Angeles,83821
+Moreland-ID,1840024024,Moreland,Moreland,ID,Moreland-ID,Idaho,16011,Bingham,43.2195,-112.4378,,,371.6,polygon,FALSE,America/Boise,83221 83256
+Murphy-ID,1840024021,Murphy,Murphy,ID,Murphy-ID,Idaho,16073,Owyhee,43.2121,-116.5485,,,52.1,polygon,FALSE,America/Boise,83650
+Virginia-ID,1840027162,Virginia,Virginia,ID,Virginia-ID,Idaho,16005,Bannock,42.4941,-112.1655,,,51.5,point,FALSE,America/Boise,83234
+Inkom-ID,1840018669,Inkom,Inkom,ID,Inkom-ID,Idaho,16005,Bannock,42.7973,-112.2461,877,877,458,polygon,TRUE,America/Boise,83245
+Santa-ID,1840027061,Santa,Santa,ID,Santa-ID,Idaho,16009,Benewah,47.1502,-116.4491,,,118.7,point,FALSE,America/Los_Angeles,83866
+Cambridge-ID,1840018601,Cambridge,Cambridge,ID,Cambridge-ID,Idaho,16087,Washington,44.5718,-116.6781,316,316,257,polygon,TRUE,America/Boise,83610
+Leadore-ID,1840019945,Leadore,Leadore,ID,Leadore-ID,Idaho,16059,Lemhi,44.6797,-113.3584,100,100,122,polygon,TRUE,America/Boise,83464
+Pierce-ID,1840019877,Pierce,Pierce,ID,Pierce-ID,Idaho,16035,Clearwater,46.4931,-115.7994,485,485,227,polygon,TRUE,America/Los_Angeles,83546
+Featherville-ID,1840027119,Featherville,Featherville,ID,Featherville-ID,Idaho,16039,Elmore,43.6099,-115.2581,,,6.8,point,FALSE,America/Boise,83647
+Fruitvale-ID,1840027095,Fruitvale,Fruitvale,ID,Fruitvale-ID,Idaho,16003,Adams,44.8152,-116.4401,,,48.7,point,FALSE,America/Boise,83612
+Bridge-ID,1840027177,Bridge,Bridge,ID,Bridge-ID,Idaho,16031,Cassia,42.1294,-113.3425,,,2.2,point,FALSE,America/Boise,83342
+Midvale-ID,1840019986,Midvale,Midvale,ID,Midvale-ID,Idaho,16087,Washington,44.4618,-116.7432,162,162,24,polygon,TRUE,America/Boise,83645
+Groveland-ID,1840024023,Groveland,Groveland,ID,Groveland-ID,Idaho,16011,Bingham,43.2235,-112.3755,,,581.6,polygon,FALSE,America/Boise,83221
+Sweetwater-ID,1840023869,Sweetwater,Sweetwater,ID,Sweetwater-ID,Idaho,16069,Nez Perce,46.3677,-116.7975,,,110.3,polygon,FALSE,America/Los_Angeles,83540
+Algoma-ID,1840027045,Algoma,Algoma,ID,Algoma-ID,Idaho,16017,Bonner,48.1969,-116.5721,,,166.2,point,FALSE,America/Los_Angeles,83860
+Weston-ID,1840021316,Weston,Weston,ID,Weston-ID,Idaho,16041,Franklin,42.0373,-111.9783,461,461,90,polygon,TRUE,America/Boise,83286
+Glenwood-ID,1840027069,Glenwood,Glenwood,ID,Glenwood-ID,Idaho,16049,Idaho,46.2441,-115.8329,,,1.6,point,FALSE,America/Los_Angeles,83536
+Cottonwood-ID,1840018483,Cottonwood,Cottonwood,ID,Cottonwood-ID,Idaho,16049,Idaho,46.051,-116.3498,917,917,421,polygon,TRUE,America/Los_Angeles,83522
+Rupert-ID,1840020066,Rupert,Rupert,ID,Rupert-ID,Idaho,16067,Minidoka,42.619,-113.6739,6642,5813,1085,polygon,TRUE,America/Boise,83350
+Emida-ID,1840027062,Emida,Emida,ID,Emida-ID,Idaho,16009,Benewah,47.1157,-116.5979,,,62.6,point,FALSE,America/Los_Angeles,83861
+Shoshone-ID,1840021295,Shoshone,Shoshone,ID,Shoshone-ID,Idaho,16063,Lincoln,42.9369,-114.4054,1503,1503,507,polygon,TRUE,America/Boise,83352
+Paris-ID,1840020092,Paris,Paris,ID,Paris-ID,Idaho,16007,Bear Lake,42.2273,-111.4031,504,504,55,polygon,TRUE,America/Boise,83261
+Carey-ID,1840018634,Carey,Carey,ID,Carey-ID,Idaho,16013,Blaine,43.3105,-113.9448,603,603,70,polygon,TRUE,America/Boise,83320
+Idaho City-ID,1840018620,Idaho City,Idaho City,ID,Idaho City-ID,Idaho,16015,Boise,43.8279,-115.8309,442,442,254,polygon,TRUE,America/Boise,83631
+Reubens-ID,1840019901,Reubens,Reubens,ID,Reubens-ID,Idaho,16061,Lewis,46.3219,-116.5415,64,64,84,polygon,TRUE,America/Los_Angeles,83548
+Mink Creek-ID,1840027202,Mink Creek,Mink Creek,ID,Mink Creek-ID,Idaho,16041,Franklin,42.2283,-111.7158,,,24.5,point,FALSE,America/Boise,83263
+Gibbonsville-ID,1840027085,Gibbonsville,Gibbonsville,ID,Gibbonsville-ID,Idaho,16059,Lemhi,45.5555,-113.9231,,,4.1,point,FALSE,America/Boise,83463
+Athol-ID,1840018401,Athol,Athol,ID,Athol-ID,Idaho,16055,Kootenai,47.9446,-116.7079,741,741,365,polygon,TRUE,America/Los_Angeles,83801
+Lewisville-ID,1840020019,Lewisville,Lewisville,ID,Lewisville-ID,Idaho,16051,Jefferson,43.6952,-112.0135,481,481,297,polygon,TRUE,America/Boise,83431
+North Fork-ID,1840027088,North Fork,North Fork,ID,North Fork-ID,Idaho,16059,Lemhi,45.406,-113.994,,,1.4,point,FALSE,America/Boise,83466
+Crystal-ID,1840027158,Crystal,Crystal,ID,Crystal-ID,Idaho,16077,Power,42.6538,-112.4964,,,4.1,point,FALSE,America/Boise,83212
+Kuna-ID,1840020047,Kuna,Kuna,ID,Kuna-ID,Idaho,16001,Ada,43.4849,-116.3993,17930,17902,380,polygon,TRUE,America/Boise,83634 83642
+Soda Springs-ID,1840021297,Soda Springs,Soda Springs,ID,Soda Springs-ID,Idaho,16029,Caribou,42.6589,-111.5876,2723,2982,253,polygon,TRUE,America/Boise,83276
+Conkling Park-ID,1840023788,Conkling Park,Conkling Park,ID,Conkling Park-ID,Idaho,16055,Kootenai,47.3997,-116.7704,,,26.6,polygon,FALSE,America/Los_Angeles,83876
+Moore-ID,1840020011,Moore,Moore,ID,Moore-ID,Idaho,16023,Butte,43.7344,-113.3673,164,164,220,polygon,TRUE,America/Boise,83255
+Kamiah-ID,1840018497,Kamiah,Kamiah,ID,Kamiah-ID,Idaho,16061,Lewis,46.2269,-116.0286,1292,1292,461,polygon,TRUE,America/Los_Angeles,83536
+Prairie-ID,1840027122,Prairie,Prairie,ID,Prairie-ID,Idaho,16039,Elmore,43.5049,-115.574,,,14.6,point,FALSE,America/Boise,83647
+Marion-ID,1840027176,Marion,Marion,ID,Marion-ID,Idaho,16031,Cassia,42.2866,-113.9111,,,10.2,point,FALSE,America/Boise,83346
+Palisades-ID,1840027153,Palisades,Palisades,ID,Palisades-ID,Idaho,16019,Bonneville,43.3519,-111.2177,,,18.8,point,FALSE,America/Boise,83428
+Darlington-ID,1840027115,Darlington,Darlington,ID,Darlington-ID,Idaho,16023,Butte,43.8135,-113.4147,,,11.9,point,FALSE,America/Boise,83255
+Jerome-ID,1840018680,Jerome,Jerome,ID,Jerome-ID,Idaho,16053,Jerome,42.7185,-114.5156,11319,11317,791,polygon,TRUE,America/Boise,83338
+Grant-ID,1840027124,Grant,Grant,ID,Grant-ID,Idaho,16051,Jefferson,43.6407,-112.0133,,,48.2,point,FALSE,America/Boise,83442
+Bennington-ID,1840024095,Bennington,Bennington,ID,Bennington-ID,Idaho,16007,Bear Lake,42.3824,-111.322,,,108.6,polygon,FALSE,America/Boise,83254
+Terreton-ID,1840027125,Terreton,Terreton,ID,Terreton-ID,Idaho,16051,Jefferson,43.8416,-112.4364,,,28.7,point,FALSE,America/Boise,83450
+Arbon-ID,1840027159,Arbon,Arbon,ID,Arbon-ID,Idaho,16077,Power,42.4557,-112.5683,,,1.4,point,FALSE,America/Boise,83212
+New Plymouth-ID,1840020014,New Plymouth,New Plymouth,ID,New Plymouth-ID,Idaho,16075,Payette,43.9706,-116.8188,1515,1515,843,polygon,TRUE,America/Boise,83655
+Basalt-ID,1840018649,Basalt,Basalt,ID,Basalt-ID,Idaho,16011,Bingham,43.3142,-112.1649,386,386,504,polygon,TRUE,America/Boise,83236 83218
+Drummond-ID,1840018609,Drummond,Drummond,ID,Drummond-ID,Idaho,16043,Fremont,43.9996,-111.3435,15,15,56,polygon,TRUE,America/Boise,83420
+Tensed-ID,1840021127,Tensed,Tensed,ID,Tensed-ID,Idaho,16009,Benewah,47.1593,-116.9237,121,121,242,polygon,TRUE,America/Los_Angeles,83870
+Peck-ID,1840019898,Peck,Peck,ID,Peck-ID,Idaho,16069,Nez Perce,46.4744,-116.4258,198,198,284,polygon,TRUE,America/Los_Angeles,83545
+Rockford-ID,1840024026,Rockford,Rockford,ID,Rockford-ID,Idaho,16011,Bingham,43.1892,-112.5306,,,205.5,polygon,FALSE,America/Boise,83221
+Niter-ID,1840027165,Niter,Niter,ID,Niter-ID,Idaho,16029,Caribou,42.5035,-111.7308,,,5,point,FALSE,America/Boise,83241
+Picabo-ID,1840027129,Picabo,Picabo,ID,Picabo-ID,Idaho,16013,Blaine,43.3057,-114.0678,,,13.2,point,FALSE,America/Boise,83348
+Hansen-ID,1840020081,Hansen,Hansen,ID,Hansen-ID,Idaho,16083,Twin Falls,42.5314,-114.3012,1245,1245,1262,polygon,TRUE,America/Boise,83334
+Potlatch-ID,1840019870,Potlatch,Potlatch,ID,Potlatch-ID,Idaho,16057,Latah,46.9232,-116.897,813,813,725,polygon,TRUE,America/Los_Angeles,83855
+Donnelly-ID,1840018586,Donnelly,Donnelly,ID,Donnelly-ID,Idaho,16085,Valley,44.7306,-116.0806,152,152,128,polygon,TRUE,America/Boise,83615
+Iona-ID,1840018645,Iona,Iona,ID,Iona-ID,Idaho,16019,Bonneville,43.5252,-111.931,2213,2213,778,polygon,TRUE,America/Boise,83427 83401
+Ponderay-ID,1840019771,Ponderay,Ponderay,ID,Ponderay-ID,Idaho,16017,Bonner,48.3113,-116.5395,1155,1155,153,polygon,TRUE,America/Los_Angeles,83864 83852
+Aberdeen-ID,1840018647,Aberdeen,Aberdeen,ID,Aberdeen-ID,Idaho,16011,Bingham,42.9441,-112.8384,1923,1923,722,polygon,TRUE,America/Boise,83210
+McCammon-ID,1840020070,McCammon,McCammon,ID,McCammon-ID,Idaho,16005,Bannock,42.6498,-112.1896,803,803,138,polygon,TRUE,America/Boise,83250
+Clementsville-ID,1840027131,Clementsville,Clementsville,ID,Clementsville-ID,Idaho,16081,Teton,43.8766,-111.37,,,55.1,point,FALSE,America/Boise,83452
+Gooding-ID,1840020063,Gooding,Gooding,ID,Gooding-ID,Idaho,16047,Gooding,42.9373,-114.7133,3651,3495,913,polygon,TRUE,America/Boise,83330
+Burley-ID,1840018683,Burley,Burley,ID,Burley-ID,Idaho,16031,Cassia,42.5371,-113.7933,16160,10464,660,polygon,TRUE,America/Boise,83318
+Firth-ID,1840020051,Firth,Firth,ID,Firth-ID,Idaho,16011,Bingham,43.3057,-112.1838,466,466,333,polygon,TRUE,America/Boise,83236
+Meadows-ID,1840027093,Meadows,Meadows,ID,Meadows-ID,Idaho,16003,Adams,44.961,-116.2437,,,82.3,point,FALSE,America/Boise,83654
+Eastport-ID,1840027043,Eastport,Eastport,ID,Eastport-ID,Idaho,16021,Boundary,48.9994,-116.1813,,,8.7,point,FALSE,America/Los_Angeles,83826
+Orofino-ID,1840019876,Orofino,Orofino,ID,Orofino-ID,Idaho,16035,Clearwater,46.4867,-116.2587,3506,3038,490,polygon,TRUE,America/Los_Angeles,83544
+Wendell-ID,1840021296,Wendell,Wendell,ID,Wendell-ID,Idaho,16047,Gooding,42.7746,-114.7026,2686,2711,765,polygon,TRUE,America/Boise,83355
+Salmon-ID,1840021213,Salmon,Salmon,ID,Salmon-ID,Idaho,16059,Lemhi,45.1744,-113.8945,3027,3055,484,polygon,TRUE,America/Boise,83467
+Melba-ID,1840020039,Melba,Melba,ID,Melba-ID,Idaho,16027,Canyon,43.3725,-116.5322,527,527,518,polygon,TRUE,America/Boise,83641
+Twin Falls-ID,1840021301,Twin Falls,Twin Falls,ID,Twin Falls-ID,Idaho,16083,Twin Falls,42.5631,-114.4637,53412,48260,1017,polygon,TRUE,America/Boise,83301 83303
+Warm River-ID,1840021257,Warm River,Warm River,ID,Warm River-ID,Idaho,16043,Fremont,44.1183,-111.32,3,3,1,polygon,TRUE,America/Boise,83420
+Gem-ID,1840027057,Gem,Gem,ID,Gem-ID,Idaho,16079,Shoshone,47.5083,-115.8679,,,3.2,point,FALSE,America/Los_Angeles,83873
+Princeton-ID,1840023849,Princeton,Princeton,ID,Princeton-ID,Idaho,16057,Latah,46.9152,-116.8315,,,86.3,polygon,FALSE,America/Los_Angeles,83857
+Ovid-ID,1840027187,Ovid,Ovid,ID,Ovid-ID,Idaho,16007,Bear Lake,42.2888,-111.3983,,,37.3,point,FALSE,America/Boise,83254
+Huetter-ID,1840019810,Huetter,Huetter,ID,Huetter-ID,Idaho,16055,Kootenai,47.7036,-116.85,105,105,1329,polygon,TRUE,America/Los_Angeles,83814 83854
+Glenns Ferry-ID,1840020016,Glenns Ferry,Glenns Ferry,ID,Glenns Ferry-ID,Idaho,16039,Elmore,42.9505,-115.3068,1235,1235,248,polygon,TRUE,America/Boise,83623
+Ola-ID,1840027110,Ola,Ola,ID,Ola-ID,Idaho,16045,Gem,44.1782,-116.2926,,,14.3,point,FALSE,America/Boise,83657
+Wilder-ID,1840021278,Wilder,Wilder,ID,Wilder-ID,Idaho,16027,Canyon,43.678,-116.907,1673,1673,889,polygon,TRUE,America/Boise,83676
+Harrison-ID,1840019806,Harrison,Harrison,ID,Harrison-ID,Idaho,16055,Kootenai,47.4675,-116.8036,219,219,24,polygon,TRUE,America/Los_Angeles,83833
+Cleveland-ID,1840027201,Cleveland,Cleveland,ID,Cleveland-ID,Idaho,16041,Franklin,42.3399,-111.7133,,,1.8,point,FALSE,America/Boise,83283
+Gwenford-ID,1840027191,Gwenford,Gwenford,ID,Gwenford-ID,Idaho,16071,Oneida,42.1363,-112.33,,,5.4,point,FALSE,America/Boise,83252
+Elk City-ID,1840023865,Elk City,Elk City,ID,Elk City-ID,Idaho,16049,Idaho,45.8266,-115.4377,,,37,polygon,FALSE,America/Los_Angeles,83525
+Elba-ID,1840027178,Elba,Elba,ID,Elba-ID,Idaho,16031,Cassia,42.2482,-113.5614,,,17.2,point,FALSE,America/Boise,83342
+Nezperce-ID,1840019902,Nezperce,Nezperce,ID,Nezperce-ID,Idaho,16061,Lewis,46.2337,-116.2403,474,474,455,polygon,TRUE,America/Los_Angeles,83543
+Fenn-ID,1840027071,Fenn,Fenn,ID,Fenn-ID,Idaho,16049,Idaho,45.9632,-116.2563,,,6.2,point,FALSE,America/Los_Angeles,83530
+Oakley-ID,1840020089,Oakley,Oakley,ID,Oakley-ID,Idaho,16031,Cassia,42.2421,-113.8824,788,788,66,polygon,TRUE,America/Boise,83346
+Three Creek-ID,1840027148,Three Creek,Three Creek,ID,Three Creek-ID,Idaho,16073,Owyhee,42.0713,-115.1595,,,1.1,point,FALSE,America/Boise,83302
+Hope-ID,1840019769,Hope,Hope,ID,Hope-ID,Idaho,16017,Bonner,48.2493,-116.3049,90,90,75,polygon,TRUE,America/Los_Angeles,83836
+Georgetown-ID,1840029706,Georgetown,Georgetown,ID,Georgetown-ID,Idaho,16007,Bear Lake,42.4784,-111.3656,489,489,252,polygon,TRUE,America/Boise,83239
+Rogerson-ID,1840027171,Rogerson,Rogerson,ID,Rogerson-ID,Idaho,16083,Twin Falls,42.218,-114.5942,,,54.8,point,FALSE,America/Boise,83302
+Woodruff-ID,1840027197,Woodruff,Woodruff,ID,Woodruff-ID,Idaho,16071,Oneida,42.036,-112.2147,,,22.1,point,FALSE,America/Boise,83252
+Fairview-ID,1840027200,Fairview,Fairview,ID,Fairview-ID,Idaho,16041,Franklin,42.0133,-111.8766,,,12.8,point,FALSE,America/Boise,83263
+Garden City-ID,1840020045,Garden City,Garden City,ID,Garden City-ID,Idaho,16001,Ada,43.6527,-116.2746,11602,11602,1108,polygon,TRUE,America/Boise,83714
+Oxford-ID,1840020098,Oxford,Oxford,ID,Oxford-ID,Idaho,16041,Franklin,42.26,-112.0181,48,48,73,polygon,TRUE,America/Boise,83228
+Buhl-ID,1840018679,Buhl,Buhl,ID,Buhl-ID,Idaho,16083,Twin Falls,42.5984,-114.7596,4315,4298,893,polygon,TRUE,America/Boise,83316
+East Hope-ID,1840019768,East Hope,East Hope,ID,East Hope-ID,Idaho,16017,Bonner,48.241,-116.2921,219,219,212,polygon,TRUE,America/Los_Angeles,83836
+Sandpoint-ID,1840021064,Sandpoint,Sandpoint,ID,Sandpoint-ID,Idaho,16017,Bonner,48.2811,-116.5599,11751,7984,773,polygon,TRUE,America/Los_Angeles,83864
+Mountain Home-ID,1840020017,Mountain Home,Mountain Home,ID,Mountain Home-ID,Idaho,16039,Elmore,43.1328,-115.6965,16105,13840,877,polygon,TRUE,America/Boise,83647
+Banks-ID,1840023990,Banks,Banks,ID,Banks-ID,Idaho,16015,Boise,44.0778,-116.1278,,,2.2,polygon,FALSE,America/Boise,83602
+Carmen-ID,1840027090,Carmen,Carmen,ID,Carmen-ID,Idaho,16059,Lemhi,45.2424,-113.8934,,,36.7,point,FALSE,America/Boise,83462
+Mackay-ID,1840019985,Mackay,Mackay,ID,Mackay-ID,Idaho,16037,Custer,43.9117,-113.6118,477,477,215,polygon,TRUE,America/Boise,83251
+Spalding-ID,1840027080,Spalding,Spalding,ID,Spalding-ID,Idaho,16069,Nez Perce,46.4468,-116.8174,,,8.7,point,FALSE,America/Los_Angeles,83540
+Hauser-ID,1840019807,Hauser,Hauser,ID,Hauser-ID,Idaho,16055,Kootenai,47.767,-117.0132,703,703,274,polygon,TRUE,America/Los_Angeles,83854
+Lenore-ID,1840027077,Lenore,Lenore,ID,Lenore-ID,Idaho,16069,Nez Perce,46.5085,-116.551,,,16.8,point,FALSE,America/Los_Angeles,83541
+Pine-ID,1840027123,Pine,Pine,ID,Pine-ID,Idaho,16039,Elmore,43.4841,-115.312,,,15.3,point,FALSE,America/Boise,83647
+Hayden-ID,1840019808,Hayden,Hayden,ID,Hayden-ID,Idaho,16055,Kootenai,47.7685,-116.801,14344,14344,577,polygon,TRUE,America/Los_Angeles,83835
+Lorenzo-ID,1840027127,Lorenzo,Lorenzo,ID,Lorenzo-ID,Idaho,16051,Jefferson,43.7282,-111.8714,,,77.3,point,FALSE,America/Boise,83442
+Bloomington-ID,1840018687,Bloomington,Bloomington,ID,Bloomington-ID,Idaho,16007,Bear Lake,42.191,-111.4042,209,209,84,polygon,TRUE,America/Boise,83261 83223 83272
+Sterling-ID,1840027155,Sterling,Sterling,ID,Sterling-ID,Idaho,16011,Bingham,43.038,-112.7317,,,33.9,point,FALSE,America/Boise,83210
+Filer-ID,1840020080,Filer,Filer,ID,Filer-ID,Idaho,16083,Twin Falls,42.5677,-114.6111,2864,2723,1004,polygon,TRUE,America/Boise,83328
+Bellevue-ID,1840018633,Bellevue,Bellevue,ID,Bellevue-ID,Idaho,16013,Blaine,43.4684,-114.2551,2315,2315,605,polygon,TRUE,America/Boise,83313
+Atomic City-ID,1840018648,Atomic City,Atomic City,ID,Atomic City-ID,Idaho,16011,Bingham,43.4439,-112.8135,26,26,95,polygon,TRUE,America/Boise,83221 83215
+Fort Hall-ID,1840029704,Fort Hall,Fort Hall,ID,Fort Hall-ID,Idaho,16011,Bingham,43.0145,-112.4573,,,238.9,polygon,FALSE,America/Boise,83202 83203 83221
+Cocolalla-ID,1840027048,Cocolalla,Cocolalla,ID,Cocolalla-ID,Idaho,16017,Bonner,48.108,-116.6174,,,36.3,point,FALSE,America/Los_Angeles,83813
+Heyburn-ID,1840020065,Heyburn,Heyburn,ID,Heyburn-ID,Idaho,16067,Minidoka,42.5598,-113.7618,3275,3275,469,polygon,TRUE,America/Boise,83336
+Garden Valley-ID,1840023991,Garden Valley,Garden Valley,ID,Garden Valley-ID,Idaho,16015,Boise,44.0831,-115.9613,,,33.4,polygon,FALSE,America/Boise,83622
+Declo-ID,1840018684,Declo,Declo,ID,Declo-ID,Idaho,16031,Cassia,42.5197,-113.6288,355,355,482,polygon,TRUE,America/Boise,83323
+Roberts-ID,1840020022,Roberts,Roberts,ID,Roberts-ID,Idaho,16051,Jefferson,43.721,-112.1283,579,579,738,polygon,TRUE,America/Boise,83444
+Saint Joe-ID,1840027064,Saint Joe,Saint Joe,ID,Saint Joe-ID,Idaho,16009,Benewah,47.311,-116.3529,,,13.5,point,FALSE,America/Los_Angeles,83861
+Dubois-ID,1840018614,Dubois,Dubois,ID,Dubois-ID,Idaho,16033,Clark,44.1722,-112.2296,593,593,82,polygon,TRUE,America/Boise,83423
+Lowman-ID,1840023992,Lowman,Lowman,ID,Lowman-ID,Idaho,16015,Boise,44.0786,-115.6205,,,9.4,polygon,FALSE,America/Boise,83637
+Dalton Gardens-ID,1840018403,Dalton Gardens,Dalton Gardens,ID,Dalton Gardens-ID,Idaho,16055,Kootenai,47.7327,-116.7698,2404,2404,399,polygon,TRUE,America/Los_Angeles,83815
+Newdale-ID,1840019995,Newdale,Newdale,ID,Newdale-ID,Idaho,16043,Fremont,43.8865,-111.6045,316,316,596,polygon,TRUE,America/Boise,83436
+American Falls-ID,1840018666,American Falls,American Falls,ID,American Falls-ID,Idaho,16077,Power,42.7826,-112.8543,4341,4311,987,polygon,TRUE,America/Boise,83211
+Hagerman-ID,1840020064,Hagerman,Hagerman,ID,Hagerman-ID,Idaho,16047,Gooding,42.8161,-114.8973,880,880,582,polygon,TRUE,America/Boise,83332
+Warren-ID,1840027070,Warren,Warren,ID,Warren-ID,Idaho,16049,Idaho,45.2641,-115.6765,,,1.2,point,FALSE,America/Boise,83671
+Banida-ID,1840027204,Banida,Banida,ID,Banida-ID,Idaho,16041,Franklin,42.231,-111.9425,,,83.4,point,FALSE,America/Boise,83263
+Enaville-ID,1840027056,Enaville,Enaville,ID,Enaville-ID,Idaho,16079,Shoshone,47.5624,-116.2502,,,20,point,FALSE,America/Los_Angeles,83839
+Caldwell-ID,1840018641,Caldwell,Caldwell,ID,Caldwell-ID,Idaho,16027,Canyon,43.6458,-116.6595,53149,53149,926,polygon,TRUE,America/Boise,83607 83605
+Swanlake-ID,1840027160,Swanlake,Swanlake,ID,Swanlake-ID,Idaho,16005,Bannock,42.313,-112.0038,,,20.3,point,FALSE,America/Boise,83281
+Onaway-ID,1840019869,Onaway,Onaway,ID,Onaway-ID,Idaho,16057,Latah,46.9282,-116.8895,191,191,483,polygon,TRUE,America/Los_Angeles,83855
+Riverside-ID,1840024025,Riverside,Riverside,ID,Riverside-ID,Idaho,16011,Bingham,43.1965,-112.4356,,,167.3,polygon,FALSE,America/Boise,83221
+Burke-ID,1840027055,Burke,Burke,ID,Burke-ID,Idaho,16079,Shoshone,47.5202,-115.8202,,,3.7,point,FALSE,America/Los_Angeles,83873
+Blackfoot-ID,1840018650,Blackfoot,Blackfoot,ID,Blackfoot-ID,Idaho,16011,Bingham,43.1939,-112.3457,15340,11890,787,polygon,TRUE,America/Boise,83221
+Moscow-ID,1840019868,Moscow,Moscow,ID,Moscow-ID,Idaho,16057,Latah,46.7306,-116.9989,25758,25322,1421,polygon,TRUE,America/Los_Angeles,83843 83844
+Troy-ID,1840021148,Troy,Troy,ID,Troy-ID,Idaho,16057,Latah,46.7376,-116.7724,887,887,436,polygon,TRUE,America/Los_Angeles,83871
+Teton-ID,1840021256,Teton,Teton,ID,Teton-ID,Idaho,16043,Fremont,43.8872,-111.6726,714,714,403,polygon,TRUE,America/Boise,83448 83451
+Tuttle-ID,1840027156,Tuttle,Tuttle,ID,Tuttle-ID,Idaho,16047,Gooding,42.8582,-114.8401,,,20.9,point,FALSE,America/Boise,83314
+King Hill-ID,1840027120,King Hill,King Hill,ID,King Hill-ID,Idaho,16039,Elmore,43.0041,-115.204,,,77.2,point,FALSE,America/Boise,83633
+Eden-ID,1840020085,Eden,Eden,ID,Eden-ID,Idaho,16053,Jerome,42.6053,-114.2091,401,401,485,polygon,TRUE,America/Boise,83325
+Yellow Pine-ID,1840025319,Yellow Pine,Yellow Pine,ID,Yellow Pine-ID,Idaho,16085,Valley,44.9623,-115.488,,,24.5,polygon,FALSE,America/Boise,83677
+Baker-ID,1840027083,Baker,Baker,ID,Baker-ID,Idaho,16059,Lemhi,45.0946,-113.7345,,,3.6,point,FALSE,America/Boise,83467
+Cascade-ID,1840018585,Cascade,Cascade,ID,Cascade-ID,Idaho,16085,Valley,44.5082,-116.0423,967,967,89,polygon,TRUE,America/Boise,83611
+Chester-ID,1840027103,Chester,Chester,ID,Chester-ID,Idaho,16043,Fremont,43.9994,-111.57,,,27.2,point,FALSE,America/Boise,83421
+Star-ID,1840021279,Star,Star,ID,Star-ID,Idaho,16001,Ada,43.7019,-116.4939,8313,8375,511,polygon,TRUE,America/Boise,83669
+Kilgore-ID,1840027107,Kilgore,Kilgore,ID,Kilgore-ID,Idaho,16033,Clark,44.4021,-111.8939,,,1.4,point,FALSE,America/Boise,83423
+Parkline-ID,1840025254,Parkline,Parkline,ID,Parkline-ID,Idaho,16009,Benewah,47.3384,-116.6938,,,115.5,polygon,FALSE,America/Los_Angeles,83861
+Castleford-ID,1840018678,Castleford,Castleford,ID,Castleford-ID,Idaho,16083,Twin Falls,42.5206,-114.8719,237,237,982,polygon,TRUE,America/Boise,83321
+Camas-ID,1840027128,Camas,Camas,ID,Camas-ID,Idaho,16051,Jefferson,44.0074,-112.2211,,,4.7,point,FALSE,America/Boise,83425
+Sun Valley-ID,1840021271,Sun Valley,Sun Valley,ID,Sun Valley-ID,Idaho,16013,Blaine,43.6839,-114.3336,1436,1436,58,polygon,TRUE,America/Boise,83354 83353 83340
+Genesee-ID,1840019867,Genesee,Genesee,ID,Genesee-ID,Idaho,16057,Latah,46.5516,-116.9291,958,958,563,polygon,TRUE,America/Los_Angeles,83832
+Fernwood-ID,1840027063,Fernwood,Fernwood,ID,Fernwood-ID,Idaho,16009,Benewah,47.1121,-116.3927,,,132.6,point,FALSE,America/Los_Angeles,83830
+Kooskia-ID,1840019895,Kooskia,Kooskia,ID,Kooskia-ID,Idaho,16049,Idaho,46.1412,-115.976,651,651,384,polygon,TRUE,America/Los_Angeles,83539
+Shelley-ID,1840021282,Shelley,Shelley,ID,Shelley-ID,Idaho,16011,Bingham,43.3794,-112.1261,4629,4342,923,polygon,TRUE,America/Boise,83274
+Wallace-ID,1840021090,Wallace,Wallace,ID,Wallace-ID,Idaho,16079,Shoshone,47.4732,-115.9219,759,759,348,polygon,TRUE,America/Los_Angeles,83873
+Osburn-ID,1840019799,Osburn,Osburn,ID,Osburn-ID,Idaho,16079,Shoshone,47.5054,-116.0002,2443,1507,443,polygon,TRUE,America/Los_Angeles,83849
+Fairfield-ID,1840020044,Fairfield,Fairfield,ID,Fairfield-ID,Idaho,16025,Camas,43.349,-114.8005,389,389,170,polygon,TRUE,America/Boise,83327
+Pollock-ID,1840027073,Pollock,Pollock,ID,Pollock-ID,Idaho,16049,Idaho,45.3124,-116.359,,,17.2,point,FALSE,America/Boise,83549
+Hazelton-ID,1840020086,Hazelton,Hazelton,ID,Hazelton-ID,Idaho,16053,Jerome,42.5952,-114.1363,793,793,838,polygon,TRUE,America/Boise,83335
+Island Park-ID,1840018608,Island Park,Island Park,ID,Island Park-ID,Idaho,16043,Fremont,44.5251,-111.3581,272,272,15,polygon,TRUE,America/Boise,83433 83429
+Richfield-ID,1840020062,Richfield,Richfield,ID,Richfield-ID,Idaho,16063,Lincoln,43.0522,-114.1562,479,479,280,polygon,TRUE,America/Boise,83349
+Ketchum-ID,1840020029,Ketchum,Ketchum,ID,Ketchum-ID,Idaho,16013,Blaine,43.6867,-114.373,4011,2753,329,polygon,TRUE,America/Boise,83340
+Saint Anthony-ID,1840021255,Saint Anthony,Saint Anthony,ID,Saint Anthony-ID,Idaho,16043,Fremont,43.9649,-111.6844,3662,3504,881,polygon,TRUE,America/Boise,83445
+Arimo-ID,1840018668,Arimo,Arimo,ID,Arimo-ID,Idaho,16005,Bannock,42.5599,-112.1726,363,363,342,polygon,TRUE,America/Boise,83214
+Colburn-ID,1840027049,Colburn,Colburn,ID,Colburn-ID,Idaho,16017,Bonner,48.3971,-116.5352,,,23.4,point,FALSE,America/Los_Angeles,83864
+Dayton-ID,1840018689,Dayton,Dayton,ID,Dayton-ID,Idaho,16041,Franklin,42.1122,-111.9783,486,486,28,polygon,TRUE,America/Boise,83286 83232
+Dietrich-ID,1840018663,Dietrich,Dietrich,ID,Dietrich-ID,Idaho,16063,Lincoln,42.9127,-114.2665,334,334,376,polygon,TRUE,America/Boise,83324
+Arco-ID,1840018627,Arco,Arco,ID,Arco-ID,Idaho,16023,Butte,43.6314,-113.3015,849,849,309,polygon,TRUE,America/Boise,83213
+Mullan-ID,1840019798,Mullan,Mullan,ID,Mullan-ID,Idaho,16079,Shoshone,47.469,-115.7965,674,674,311,polygon,TRUE,America/Los_Angeles,83846
+Bruneau-ID,1840027144,Bruneau,Bruneau,ID,Bruneau-ID,Idaho,16073,Owyhee,42.8805,-115.7973,,,23.1,point,FALSE,America/Boise,83604
+Driggs-ID,1840018635,Driggs,Driggs,ID,Driggs-ID,Idaho,16081,Teton,43.7293,-111.1031,1736,1736,223,polygon,TRUE,America/Boise,83422
+Coeur d'Alene-ID,1840018402,Coeur d'Alene,Coeur d'Alene,ID,Coeur d'Alene-ID,Idaho,16055,Kootenai,47.7041,-116.7928,112088,50285,1245,polygon,TRUE,America/Los_Angeles,83815 83814 83816
+Nounan-ID,1840027186,Nounan,Nounan,ID,Nounan-ID,Idaho,16007,Bear Lake,42.4777,-111.451,,,8,point,FALSE,America/Boise,83254
+Ririe-ID,1840020021,Ririe,Ririe,ID,Ririe-ID,Idaho,16051,Jefferson,43.6326,-111.7716,643,643,487,polygon,TRUE,America/Boise,83442 83443
+Indian Valley-ID,1840027092,Indian Valley,Indian Valley,ID,Indian Valley-ID,Idaho,16003,Adams,44.5571,-116.434,,,13.6,point,FALSE,America/Boise,83632
+Franklin-ID,1840020097,Franklin,Franklin,ID,Franklin-ID,Idaho,16041,Franklin,42.0125,-111.8039,810,810,248,polygon,TRUE,America/Boise,83237
+Bayview-ID,1840027059,Bayview,Bayview,ID,Bayview-ID,Idaho,16055,Kootenai,47.9802,-116.5602,,,363.7,point,FALSE,America/Los_Angeles,83803
+Ashton-ID,1840018607,Ashton,Ashton,ID,Ashton-ID,Idaho,16043,Fremont,44.0734,-111.4486,1055,1055,618,polygon,TRUE,America/Boise,83420
+Lewiston-ID,1840019897,Lewiston,Lewiston,ID,Lewiston-ID,Idaho,16069,Nez Perce,46.3936,-116.9935,53520,32872,736,polygon,TRUE,America/Los_Angeles,83501
+Dixie-ID,1840029708,Dixie,Dixie,ID,Dixie-ID,Idaho,16049,Idaho,45.5541,-115.4612,,,5.5,point,FALSE,America/Los_Angeles,83525
+Preston-ID,1840020099,Preston,Preston,ID,Preston-ID,Idaho,16041,Franklin,42.0987,-111.8788,4447,5354,311,polygon,TRUE,America/Boise,83263
+Thatcher-ID,1840027205,Thatcher,Thatcher,ID,Thatcher-ID,Idaho,16041,Franklin,42.4088,-111.7269,,,13.3,point,FALSE,America/Boise,83283
+Grand View-ID,1840020048,Grand View,Grand View,ID,Grand View-ID,Idaho,16073,Owyhee,42.9843,-116.092,441,441,297,polygon,TRUE,America/Boise,83624
+Worley-ID,1840021100,Worley,Worley,ID,Worley-ID,Idaho,16055,Kootenai,47.4006,-116.9194,260,260,536,polygon,TRUE,America/Los_Angeles,83876
+Springdale-ID,1840027179,Springdale,Springdale,ID,Springdale-ID,Idaho,16031,Cassia,42.5155,-113.6908,,,82.3,point,FALSE,America/Boise,83318
+Chubbuck-ID,1840018667,Chubbuck,Chubbuck,ID,Chubbuck-ID,Idaho,16005,Bannock,42.9226,-112.4699,14644,14644,1330,polygon,TRUE,America/Boise,83202
+Malta-ID,1840020088,Malta,Malta,ID,Malta-ID,Idaho,16031,Cassia,42.3074,-113.3693,196,196,53,polygon,TRUE,America/Boise,83342
+Idaho Falls-ID,1840018644,Idaho Falls,Idaho Falls,ID,Idaho Falls-ID,Idaho,16019,Bonneville,43.4878,-112.0359,96166,60211,1029,polygon,TRUE,America/Boise,83401 83402 83404 83415
+Ferdinand-ID,1840019892,Ferdinand,Ferdinand,ID,Ferdinand-ID,Idaho,16049,Idaho,46.1524,-116.3898,161,161,424,polygon,TRUE,America/Los_Angeles,83526
+Springfield-ID,1840027154,Springfield,Springfield,ID,Springfield-ID,Idaho,16011,Bingham,43.0816,-112.6819,,,29.4,point,FALSE,America/Boise,83277
+Elmira-ID,1840027046,Elmira,Elmira,ID,Elmira-ID,Idaho,16017,Bonner,48.4797,-116.4624,,,22.4,point,FALSE,America/Los_Angeles,83864
+Saint Charles-ID,1840021309,Saint Charles,Saint Charles,ID,Saint Charles-ID,Idaho,16007,Bear Lake,42.1123,-111.3902,141,141,84,polygon,TRUE,America/Boise,83272
+May-ID,1840027082,May,May,ID,May-ID,Idaho,16059,Lemhi,44.6044,-113.912,,,14.6,point,FALSE,America/Boise,83253
+Fish Haven-ID,1840027184,Fish Haven,Fish Haven,ID,Fish Haven-ID,Idaho,16007,Bear Lake,42.0369,-111.3963,,,62.8,point,FALSE,America/Boise,83287
+Bonners Ferry-ID,1840018352,Bonners Ferry,Bonners Ferry,ID,Bonners Ferry-ID,Idaho,16021,Boundary,48.6924,-116.3183,2635,2564,405,polygon,TRUE,America/Los_Angeles,83805
+Meridian-ID,1840020046,Meridian,Meridian,ID,Meridian-ID,Idaho,16001,Ada,43.6182,-116.398,95623,95623,1351,polygon,TRUE,America/Boise,83646 83642 83680
+Monteview-ID,1840027126,Monteview,Monteview,ID,Monteview-ID,Idaho,16051,Jefferson,43.9719,-112.5364,,,5.3,point,FALSE,America/Boise,83435
+Mud Lake-ID,1840020024,Mud Lake,Mud Lake,ID,Mud Lake-ID,Idaho,16051,Jefferson,43.843,-112.4799,386,386,1044,polygon,TRUE,America/Boise,83450
+Culdesac-ID,1840018485,Culdesac,Culdesac,ID,Culdesac-ID,Idaho,16069,Nez Perce,46.3752,-116.6697,376,376,637,polygon,TRUE,America/Los_Angeles,83524
+Emmett-ID,1840020000,Emmett,Emmett,ID,Emmett-ID,Idaho,16045,Gem,43.8686,-116.4889,9416,6717,922,polygon,TRUE,America/Boise,83617
+Dover-ID,1840018364,Dover,Dover,ID,Dover-ID,Idaho,16017,Bonner,48.2608,-116.61,713,713,85,polygon,TRUE,America/Los_Angeles,83864 83825
+Weiser-ID,1840021250,Weiser,Weiser,ID,Weiser-ID,Idaho,16087,Washington,44.2566,-116.9696,5546,5397,617,polygon,TRUE,America/Boise,83672
+Grouse-ID,1840027102,Grouse,Grouse,ID,Grouse-ID,Idaho,16037,Custer,43.6882,-113.6125,,,2,point,FALSE,America/Boise,83255
+Minidoka-ID,1840020067,Minidoka,Minidoka,ID,Minidoka-ID,Idaho,16067,Minidoka,42.7538,-113.4902,112,112,411,polygon,TRUE,America/Boise,83350 83343
+Clifton-ID,1840018688,Clifton,Clifton,ID,Clifton-ID,Idaho,16041,Franklin,42.1873,-112.0051,300,300,51,polygon,TRUE,America/Boise,83228
+Oreana-ID,1840027145,Oreana,Oreana,ID,Oreana-ID,Idaho,16073,Owyhee,43.0535,-116.3951,,,2.9,point,FALSE,America/Boise,83650
+Turner-ID,1840027164,Turner,Turner,ID,Turner-ID,Idaho,16029,Caribou,42.5766,-111.8188,,,15.8,point,FALSE,America/Boise,83241

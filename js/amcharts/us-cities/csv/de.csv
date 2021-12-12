@@ -1,0 +1,95 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Highland Acres-DE,1840028616,Highland Acres,Highland Acres,DE,Highland Acres-DE,Delaware,10001,Kent,39.1164,-75.5217,,,1021.7,polygon,FALSE,America/New_York,19901
+Wyoming-DE,1840005822,Wyoming,Wyoming,DE,Wyoming-DE,Delaware,10001,Kent,39.1143,-75.5632,1486,1486,541,polygon,TRUE,America/New_York,19934
+Newark-DE,1840005578,Newark,Newark,DE,Newark-DE,Delaware,10003,New Castle,39.6777,-75.7573,33398,33398,1403,polygon,TRUE,America/New_York,19713 19711 19717 19716 19712 19714 19715 19718 19725 19726
+Talleyville-DE,1840027453,Talleyville,Talleyville,DE,Talleyville-DE,Delaware,10003,New Castle,39.809,-75.5488,,,509.1,point,FALSE,America/New_York,19810
+Rising Sun-DE,1840027482,Rising Sun,Rising Sun,DE,Rising Sun-DE,Delaware,10001,Kent,39.1004,-75.5155,,,374.5,point,FALSE,America/New_York,19934
+Fenwick Island-DE,1840006063,Fenwick Island,Fenwick Island,DE,Fenwick Island-DE,Delaware,10005,Sussex,38.4604,-75.0542,426,426,499,polygon,TRUE,America/New_York,19944
+Roseville Park-DE,1840027451,Roseville Park,Roseville Park,DE,Roseville Park-DE,Delaware,10003,New Castle,39.6996,-75.713,,,2808,point,FALSE,America/New_York,19711
+Blades-DE,1840006074,Blades,Blades,DE,Blades-DE,Delaware,10005,Sussex,38.6353,-75.6026,1380,1380,959,polygon,TRUE,America/New_York,19973
+Milford-DE,1840006069,Milford,Milford,DE,Milford-DE,Delaware,10005,Sussex,38.9095,-75.4232,20683,10979,442,polygon,TRUE,America/New_York,19963
+Stanton-DE,1840027452,Stanton,Stanton,DE,Stanton-DE,Delaware,10003,New Castle,39.7157,-75.6408,,,456.7,point,FALSE,America/New_York,19804
+Holly Oak-DE,1840027445,Holly Oak,Holly Oak,DE,Holly Oak-DE,Delaware,10003,New Castle,39.7884,-75.4788,,,2227.8,point,FALSE,America/New_York,19809
+Christiana-DE,1840027441,Christiana,Christiana,DE,Christiana-DE,Delaware,10003,New Castle,39.6651,-75.6599,,,813.5,point,FALSE,America/New_York,19702
+Bridgeville-DE,1840006075,Bridgeville,Bridgeville,DE,Bridgeville-DE,Delaware,10005,Sussex,38.7248,-75.6027,3758,2302,191,polygon,TRUE,America/New_York,19933
+Greenwood-DE,1840006066,Greenwood,Greenwood,DE,Greenwood-DE,Delaware,10005,Sussex,38.8069,-75.5907,1085,1085,579,polygon,TRUE,America/New_York,19950
+Saint Georges-DE,1840028612,Saint Georges,Saint Georges,DE,Saint Georges-DE,Delaware,10003,New Castle,39.5576,-75.6533,,,329.7,polygon,FALSE,America/New_York,19733 19720 19701 19709
+Edgemoor-DE,1840028608,Edgemoor,Edgemoor,DE,Edgemoor-DE,Delaware,10003,New Castle,39.7549,-75.5063,,,520.9,polygon,FALSE,America/New_York,19809 19802
+Bethany Beach-DE,1840006072,Bethany Beach,Bethany Beach,DE,Bethany Beach-DE,Delaware,10005,Sussex,38.5391,-75.066,1194,1194,400,polygon,TRUE,America/New_York,19930
+Ogletown-DE,1840028611,Ogletown,Ogletown,DE,Ogletown-DE,Delaware,10003,New Castle,39.6782,-75.6974,,,1411.6,point,FALSE,America/New_York,19713
+Middletown-DE,1840005581,Middletown,Middletown,DE,Middletown-DE,Delaware,10003,New Castle,39.4451,-75.7165,32540,20876,684,polygon,TRUE,America/New_York,19709
+Cheswold-DE,1840005814,Cheswold,Cheswold,DE,Cheswold-DE,Delaware,10001,Kent,39.2224,-75.5911,1425,1425,427,polygon,TRUE,America/New_York,19936 19904
+Newport-DE,1840005582,Newport,Newport,DE,Newport-DE,Delaware,10003,New Castle,39.7136,-75.6052,1050,1050,924,polygon,TRUE,America/New_York,19804
+Harrington-DE,1840005811,Harrington,Harrington,DE,Harrington-DE,Delaware,10001,Kent,38.9243,-75.5705,4594,3679,517,polygon,TRUE,America/New_York,19952
+Dewey Beach-DE,1840006061,Dewey Beach,Dewey Beach,DE,Dewey Beach-DE,Delaware,10005,Sussex,38.6958,-75.0749,379,379,442,polygon,TRUE,America/New_York,19971
+Brookside-DE,1840005569,Brookside,Brookside,DE,Brookside-DE,Delaware,10003,New Castle,39.6666,-75.7153,,,2217.7,polygon,FALSE,America/New_York,19713
+Marshallton-DE,1840027446,Marshallton,Marshallton,DE,Marshallton-DE,Delaware,10003,New Castle,39.7257,-75.6541,,,1598,point,FALSE,America/New_York,19808
+Camden-DE,1840005813,Camden,Camden,DE,Camden-DE,Delaware,10001,Kent,39.099,-75.557,3489,3489,364,polygon,TRUE,America/New_York,19934 19904
+Claymont-DE,1840005570,Claymont,Claymont,DE,Claymont-DE,Delaware,10003,New Castle,39.8032,-75.4606,,,1512.8,polygon,FALSE,America/New_York,19703
+Milton-DE,1840006081,Milton,Milton,DE,Milton-DE,Delaware,10005,Sussex,38.775,-75.3104,2856,2879,616,polygon,TRUE,America/New_York,19968
+Dagsboro-DE,1840006076,Dagsboro,Dagsboro,DE,Dagsboro-DE,Delaware,10005,Sussex,38.5466,-75.2466,878,878,248,polygon,TRUE,America/New_York,19939
+Westover Hills-DE,1840027454,Westover Hills,Westover Hills,DE,Westover Hills-DE,Delaware,10003,New Castle,39.7634,-75.5908,,,618.1,point,FALSE,America/New_York,19807
+Slaughter Beach-DE,1840006084,Slaughter Beach,Slaughter Beach,DE,Slaughter Beach-DE,Delaware,10005,Sussex,38.9143,-75.3085,233,233,66,polygon,TRUE,America/New_York,19963
+Frankford-DE,1840006064,Frankford,Frankford,DE,Frankford-DE,Delaware,10005,Sussex,38.5215,-75.2342,951,951,503,polygon,TRUE,America/New_York,19945
+Riverview-DE,1840028613,Riverview,Riverview,DE,Riverview-DE,Delaware,10001,Kent,39.0293,-75.5202,,,665,polygon,FALSE,America/New_York,19946 19943
+Centerville-DE,1840027440,Centerville,Centerville,DE,Centerville-DE,Delaware,10003,New Castle,39.8215,-75.6166,,,71.8,point,FALSE,America/New_York,19807
+Millsboro-DE,1840006079,Millsboro,Millsboro,DE,Millsboro-DE,Delaware,10005,Sussex,38.5865,-75.3018,10403,4293,446,polygon,TRUE,America/New_York,19966
+Holloway Terrace-DE,1840027444,Holloway Terrace,Holloway Terrace,DE,Holloway Terrace-DE,Delaware,10003,New Castle,39.7018,-75.5463,,,2215.6,point,FALSE,America/New_York,19720
+Townsend-DE,1840005584,Townsend,Townsend,DE,Townsend-DE,Delaware,10003,New Castle,39.3968,-75.6945,2313,2313,851,polygon,TRUE,America/New_York,19734
+Minquadale-DE,1840027447,Minquadale,Minquadale,DE,Minquadale-DE,Delaware,10003,New Castle,39.7071,-75.5666,,,2314.2,point,FALSE,America/New_York,19720
+Woodside-DE,1840005821,Woodside,Woodside,DE,Woodside-DE,Delaware,10001,Kent,39.0711,-75.5667,196,196,462,polygon,TRUE,America/New_York,19943 19904 19980
+Kenton-DE,1840005816,Kenton,Kenton,DE,Kenton-DE,Delaware,10001,Kent,39.2272,-75.6645,265,265,543,polygon,TRUE,America/New_York,19938 19955
+Rockland-DE,1840027450,Rockland,Rockland,DE,Rockland-DE,Delaware,10003,New Castle,39.7962,-75.5721,,,182.5,point,FALSE,America/New_York,19803
+Hartly-DE,1840005808,Hartly,Hartly,DE,Hartly-DE,Delaware,10001,Kent,39.1687,-75.7125,71,71,464,polygon,TRUE,America/New_York,19953
+Montchanin-DE,1840027448,Montchanin,Montchanin,DE,Montchanin-DE,Delaware,10003,New Castle,39.7898,-75.5891,,,104.6,point,FALSE,America/New_York,19807
+Seaford-DE,1840006071,Seaford,Seaford,DE,Seaford-DE,Delaware,10005,Sussex,38.6539,-75.6118,7736,7736,570,polygon,TRUE,America/New_York,19973
+Kent Acres-DE,1840028609,Kent Acres,Kent Acres,DE,Kent Acres-DE,Delaware,10001,Kent,39.1329,-75.5159,,,1008,polygon,FALSE,America/New_York,19901
+Pleasantville-DE,1840027449,Pleasantville,Pleasantville,DE,Pleasantville-DE,Delaware,10003,New Castle,39.664,-75.626,,,3334.5,point,FALSE,America/New_York,19720
+Delmar-DE,1840006077,Delmar,Delmar,DE,Delmar-DE,Delaware,10005,Sussex,38.4651,-75.5553,1765,1765,381,polygon,TRUE,America/New_York,19940
+Leipsic-DE,1840005817,Leipsic,Leipsic,DE,Leipsic-DE,Delaware,10001,Kent,39.243,-75.5155,196,196,259,polygon,TRUE,America/New_York,19977 19901
+Magnolia-DE,1840005819,Magnolia,Magnolia,DE,Magnolia-DE,Delaware,10001,Kent,39.0718,-75.4757,235,235,762,polygon,TRUE,America/New_York,19962
+Greenville-DE,1840005572,Greenville,Greenville,DE,Greenville-DE,Delaware,10003,New Castle,39.7783,-75.6049,,,547,polygon,FALSE,America/New_York,19807
+Pike Creek Valley-DE,1840028614,Pike Creek Valley,Pike Creek Valley,DE,Pike Creek Valley-DE,Delaware,10003,New Castle,39.7296,-75.6993,,,1080.3,polygon,FALSE,America/New_York,19808 19711
+Bethel-DE,1840006073,Bethel,Bethel,DE,Bethel-DE,Delaware,10005,Sussex,38.5706,-75.6194,192,192,185,polygon,TRUE,America/New_York,19931
+Hockessin-DE,1840005573,Hockessin,Hockessin,DE,Hockessin-DE,Delaware,10003,New Castle,39.7837,-75.6815,,,763.9,polygon,FALSE,America/New_York,19707 19736
+Lewes-DE,1840006068,Lewes,Lewes,DE,Lewes-DE,Delaware,10005,Sussex,38.7784,-75.1455,27008,3074,312,polygon,TRUE,America/New_York,19958
+Selbyville-DE,1840006083,Selbyville,Selbyville,DE,Selbyville-DE,Delaware,10005,Sussex,38.4627,-75.2085,2421,2421,258,polygon,TRUE,America/New_York,19975
+Collins Park-DE,1840027442,Collins Park,Collins Park,DE,Collins Park-DE,Delaware,10003,New Castle,39.6862,-75.5563,,,2624.1,point,FALSE,America/New_York,19720
+Delaware City-DE,1840005576,Delaware City,Delaware City,DE,Delaware City-DE,Delaware,10003,New Castle,39.5776,-75.5985,1742,1742,546,polygon,TRUE,America/New_York,19706
+Bowers Beach-DE,1840028607,Bowers Beach,Bowers Beach,DE,Bowers Beach-DE,Delaware,10001,Kent,39.0598,-75.4013,,,271.4,point,TRUE,America/New_York,19946
+Little Creek-DE,1840005818,Little Creek,Little Creek,DE,Little Creek-DE,Delaware,10001,Kent,39.1664,-75.448,234,234,650,polygon,TRUE,America/New_York,19901 19961
+Fairfax-DE,1840027443,Fairfax,Fairfax,DE,Fairfax-DE,Delaware,10003,New Castle,39.7865,-75.5433,,,1254.9,point,FALSE,America/New_York,19803
+Wilmington Manor-DE,1840005575,Wilmington Manor,Wilmington Manor,DE,Wilmington Manor-DE,Delaware,10003,New Castle,39.6859,-75.5853,,,2170.8,polygon,FALSE,America/New_York,19720
+Lebanon-DE,1840027481,Lebanon,Lebanon,DE,Lebanon-DE,Delaware,10001,Kent,39.1115,-75.5005,,,493.1,point,FALSE,America/New_York,19901
+Laurel-DE,1840006078,Laurel,Laurel,DE,Laurel-DE,Delaware,10005,Sussex,38.5697,-75.5687,4160,4160,556,polygon,TRUE,America/New_York,19956
+Rehoboth Beach-DE,1840006070,Rehoboth Beach,Rehoboth Beach,DE,Rehoboth Beach-DE,Delaware,10005,Sussex,38.7168,-75.0843,1488,1488,488,polygon,TRUE,America/New_York,19971
+Ardentown-DE,1840005587,Ardentown,Ardentown,DE,Ardentown-DE,Delaware,10003,New Castle,39.8078,-75.4804,273,273,446,polygon,TRUE,America/New_York,19810 19703
+Farmington-DE,1840005805,Farmington,Farmington,DE,Farmington-DE,Delaware,10001,Kent,38.87,-75.5793,118,118,559,polygon,TRUE,America/New_York,19950
+Felton-DE,1840005806,Felton,Felton,DE,Felton-DE,Delaware,10001,Kent,39.0125,-75.5761,1408,1408,665,polygon,TRUE,America/New_York,19943
+Ardencroft-DE,1840005586,Ardencroft,Ardencroft,DE,Ardencroft-DE,Delaware,10003,New Castle,39.8054,-75.486,237,237,905,polygon,TRUE,America/New_York,19810
+Viola-DE,1840003807,Viola,Viola,DE,Viola-DE,Delaware,10001,Kent,39.043,-75.5716,171,171,357,polygon,TRUE,America/New_York,19979
+Glasgow-DE,1840005571,Glasgow,Glasgow,DE,Glasgow-DE,Delaware,10003,New Castle,39.6015,-75.7474,,,39.7,polygon,FALSE,America/New_York,19701 19702
+Odessa-DE,1840005583,Odessa,Odessa,DE,Odessa-DE,Delaware,10003,New Castle,39.4562,-75.6605,372,372,282,polygon,TRUE,America/New_York,19709 19730
+Elsmere-DE,1840005574,Elsmere,Elsmere,DE,Elsmere-DE,Delaware,10003,New Castle,39.7385,-75.5946,6106,6106,2342,polygon,TRUE,America/New_York,19804 19805
+Georgetown-DE,1840006065,Georgetown,Georgetown,DE,Georgetown-DE,Delaware,10005,Sussex,38.6899,-75.3872,10136,7206,541,polygon,TRUE,America/New_York,19947
+Arden-DE,1840005585,Arden,Arden,DE,Arden-DE,Delaware,10003,New Castle,39.8113,-75.4886,450,450,670,polygon,TRUE,America/New_York,19810
+Bear-DE,1840005568,Bear,Bear,DE,Bear-DE,Delaware,10003,New Castle,39.6188,-75.6804,,,791.5,polygon,FALSE,America/New_York,19701 19702
+Milford Crossroads-DE,1840028610,Milford Crossroads,Milford Crossroads,DE,Milford Crossroads-DE,Delaware,10003,New Castle,39.7157,-75.7408,,,1053.5,point,FALSE,America/New_York,19711
+Clayton-DE,1840005815,Clayton,Clayton,DE,Clayton-DE,Delaware,10001,Kent,39.2846,-75.6363,3157,3157,664,polygon,TRUE,America/New_York,19977 19938
+Rodney Village-DE,1840005804,Rodney Village,Rodney Village,DE,Rodney Village-DE,Delaware,10001,Kent,39.1284,-75.5395,,,1226.7,polygon,FALSE,America/New_York,19904
+Millville-DE,1840006080,Millville,Millville,DE,Millville-DE,Delaware,10005,Sussex,38.5351,-75.1291,602,602,93,polygon,TRUE,America/New_York,19945 19967
+Frederica-DE,1840005807,Frederica,Frederica,DE,Frederica-DE,Delaware,10001,Kent,39.008,-75.466,828,828,166,polygon,TRUE,America/New_York,19946
+Pike Creek-DE,1840028618,Pike Creek,Pike Creek,DE,Pike Creek-DE,Delaware,10003,New Castle,39.7485,-75.6953,,,1807.7,polygon,FALSE,America/New_York,19808 19707 19711
+Wilmington-DE,1840005579,Wilmington,Wilmington,DE,Wilmington-DE,Delaware,10003,New Castle,39.7349,-75.5286,71442,71442,2529,polygon,TRUE,America/New_York,19809 19802 19801 19806 19805 19850 19880 19884 19885 19886 19890 19891 19892 19893 19894 19895 19896 19897 19898 19899
+South Bethany-DE,1840006085,South Bethany,South Bethany,DE,South Bethany-DE,Delaware,10005,Sussex,38.5161,-75.0591,508,508,380,polygon,TRUE,America/New_York,19930
+Bellefonte-DE,1840005580,Bellefonte,Bellefonte,DE,Bellefonte-DE,Delaware,10003,New Castle,39.7669,-75.4982,1178,1178,2566,polygon,TRUE,America/New_York,19809
+Henlopen Acres-DE,1840006067,Henlopen Acres,Henlopen Acres,DE,Henlopen Acres-DE,Delaware,10005,Sussex,38.7256,-75.0849,138,138,208,polygon,TRUE,America/New_York,19971
+Ocean View-DE,1840006082,Ocean View,Ocean View,DE,Ocean View-DE,Delaware,10005,Sussex,38.5357,-75.0991,13612,2076,303,polygon,TRUE,America/New_York,19970
+Dover-DE,1840005810,Dover,Dover,DE,Dover-DE,Delaware,10001,Kent,39.16,-75.5204,116114,37786,629,polygon,TRUE,America/New_York,19902 19901 19904 19903 19905 19906
+New Castle-DE,1840005577,New Castle,New Castle,DE,New Castle-DE,Delaware,10003,New Castle,39.6689,-75.5684,5357,5357,608,polygon,TRUE,America/New_York,19720 19721
+Houston-DE,1840005809,Houston,Houston,DE,Houston-DE,Delaware,10001,Kent,38.9177,-75.5041,393,393,453,polygon,TRUE,America/New_York,19954
+Ellendale-DE,1840006062,Ellendale,Ellendale,DE,Ellendale-DE,Delaware,10005,Sussex,38.8103,-75.425,423,423,369,polygon,TRUE,America/New_York,19941
+Yorklyn-DE,1840027455,Yorklyn,Yorklyn,DE,Yorklyn-DE,Delaware,10003,New Castle,39.8082,-75.6755,,,174.6,point,FALSE,America/New_York,19736
+Smyrna-DE,1840005820,Smyrna,Smyrna,DE,Smyrna-DE,Delaware,10001,Kent,39.2922,-75.6079,11371,11371,739,polygon,TRUE,America/New_York,19977
+Long Neck-DE,1840028617,Long Neck,Long Neck,DE,Long Neck-DE,Delaware,10005,Sussex,38.6212,-75.152,,,448.6,polygon,FALSE,America/New_York,19966
+North Star-DE,1840028615,North Star,North Star,DE,North Star-DE,Delaware,10003,New Castle,39.755,-75.7331,,,422.2,polygon,FALSE,America/New_York,19711

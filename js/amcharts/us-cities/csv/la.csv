@@ -1,0 +1,756 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Castor-LA,1840018097,Castor,Castor,LA,Castor-LA,Louisiana,22013,Bienville,32.2549,-93.166,249,249,80,polygon,TRUE,America/Chicago,71016
+Holly Beach-LA,1840030933,Holly Beach,Holly Beach,LA,Holly Beach-LA,Louisiana,22023,Cameron,29.7708,-93.4593,,,14.6,point,FALSE,America/Chicago,70631
+Colfax-LA,1840017069,Colfax,Colfax,LA,Colfax-LA,Louisiana,22043,Grant,31.5208,-92.7001,1518,1518,393,polygon,TRUE,America/Chicago,71417
+Beekman-LA,1840030994,Beekman,Beekman,LA,Beekman-LA,Louisiana,22067,Morehouse,32.9237,-91.8843,,,34.3,point,FALSE,America/Chicago,71220
+Rodessa-LA,1840018059,Rodessa,Rodessa,LA,Rodessa-LA,Louisiana,22017,Caddo,32.9735,-93.9968,262,262,82,polygon,TRUE,America/Chicago,71069
+Rosepine-LA,1840018184,Rosepine,Rosepine,LA,Rosepine-LA,Louisiana,22115,Vernon,30.9208,-93.2857,1641,1641,261,polygon,TRUE,America/Chicago,70659 70634
+Big Bend-LA,1840031028,Big Bend,Big Bend,LA,Big Bend-LA,Louisiana,22009,Avoyelles,31.0738,-91.7921,,,3.6,point,FALSE,America/Chicago,71355
+Buras-LA,1840027026,Buras,Buras,LA,Buras-LA,Louisiana,22075,Plaquemines,29.3528,-89.5248,,,102.4,polygon,FALSE,America/Chicago,70041
+Kaplan-LA,1840015050,Kaplan,Kaplan,LA,Kaplan-LA,Louisiana,22113,Vermilion,30.006,-92.2839,4846,4619,769,polygon,TRUE,America/Chicago,70548
+Powhatan-LA,1840018142,Powhatan,Powhatan,LA,Powhatan-LA,Louisiana,22069,Natchitoches,31.8738,-93.2033,132,132,94,polygon,TRUE,America/Chicago,71457 71066
+Keatchie-LA,1840031061,Keatchie,Keatchie,LA,Keatchie-LA,Louisiana,22031,De Soto,32.1885,-93.9055,,,73.7,point,TRUE,America/Chicago,71046
+Kraemer-LA,1840025136,Kraemer,Kraemer,LA,Kraemer-LA,Louisiana,22057,Lafourche,29.8606,-90.6337,,,51.1,polygon,FALSE,America/Chicago,70301
+Leander-LA,1840031064,Leander,Leander,LA,Leander-LA,Louisiana,22115,Vernon,31.1485,-92.8465,,,45.5,point,FALSE,America/Chicago,71438
+Siracusaville-LA,1840027024,Siracusaville,Siracusaville,LA,Siracusaville-LA,Louisiana,22101,St. Mary,29.6886,-91.1522,,,495.3,polygon,FALSE,America/Chicago,70380
+Jennings-LA,1840015040,Jennings,Jennings,LA,Jennings-LA,Louisiana,22053,Jefferson Davis,30.2233,-92.6582,9617,10118,375,polygon,TRUE,America/Chicago,70546
+Lucky-LA,1840018099,Lucky,Lucky,LA,Lucky-LA,Louisiana,22013,Bienville,32.2443,-93.0158,263,263,12,polygon,TRUE,America/Chicago,71008 71016
+Standard-LA,1840030866,Standard,Standard,LA,Standard-LA,Louisiana,22059,La Salle Parish,31.9177,-92.2201,,,37,point,FALSE,America/Chicago,71465
+Lakeshore-LA,1840031019,Lakeshore,Lakeshore,LA,Lakeshore-LA,Louisiana,22073,Ouachita,32.535,-92.0328,,,646.3,polygon,FALSE,America/Chicago,71203
+Atlanta-LA,1840018134,Atlanta,Atlanta,LA,Atlanta-LA,Louisiana,22127,Winn,31.8064,-92.7383,152,152,54,polygon,TRUE,America/Chicago,71404
+Easton-LA,1840030918,Easton,Easton,LA,Easton-LA,Louisiana,22039,Evangeline,30.7513,-92.4287,,,26.6,point,FALSE,America/Chicago,70586
+Robeline-LA,1840018144,Robeline,Robeline,LA,Robeline-LA,Louisiana,22069,Natchitoches,31.6898,-93.3039,170,170,55,polygon,TRUE,America/Chicago,71469
+Intracoastal City-LA,1840031060,Intracoastal City,Intracoastal City,LA,Intracoastal City-LA,Louisiana,22113,Vermilion,29.7844,-92.1562,,,8.4,point,FALSE,America/Chicago,70510
+Breaux Bridge-LA,1840013960,Breaux Bridge,Breaux Bridge,LA,Breaux Bridge-LA,Louisiana,22099,St. Martin,30.2829,-91.9044,19072,8407,420,polygon,TRUE,America/Chicago,70517
+Litroe-LA,1840030890,Litroe,Litroe,LA,Litroe-LA,Louisiana,22111,Union,32.9935,-92.1962,,,9.1,point,FALSE,America/Chicago,71260
+Ledoux-LA,1840031126,Ledoux,Ledoux,LA,Ledoux-LA,Louisiana,22097,St. Landry,30.6191,-92.1901,,,36.3,point,FALSE,America/Chicago,70570
+Calvin-LA,1840018135,Calvin,Calvin,LA,Calvin-LA,Louisiana,22127,Winn,31.9617,-92.7758,222,222,37,polygon,TRUE,America/Chicago,71483 71410
+Gloster-LA,1840025917,Gloster,Gloster,LA,Gloster-LA,Louisiana,22031,De Soto,32.1921,-93.8112,,,33.8,polygon,FALSE,America/Chicago,71030
+Braithwaite-LA,1840030826,Braithwaite,Braithwaite,LA,Braithwaite-LA,Louisiana,22075,Plaquemines,29.8663,-89.9437,,,10.8,point,FALSE,America/Chicago,70040
+Port Barre-LA,1840017176,Port Barre,Port Barre,LA,Port Barre-LA,Louisiana,22097,St. Landry,30.5565,-91.9565,2650,2119,759,polygon,TRUE,America/Chicago,70577
+Henry-LA,1840030932,Henry,Henry,LA,Henry-LA,Louisiana,22113,Vermilion,29.8833,-92.0785,,,29.5,point,FALSE,America/Chicago,70533
+Saint Landry-LA,1840030862,Saint Landry,Saint Landry,LA,Saint Landry-LA,Louisiana,22039,Evangeline,30.8444,-92.2579,,,149.9,point,FALSE,America/Chicago,71367
+Choudrant-LA,1840018084,Choudrant,Choudrant,LA,Choudrant-LA,Louisiana,22061,Lincoln,32.5509,-92.5118,973,973,97,polygon,TRUE,America/Chicago,71227
+Shongaloo-LA,1840018066,Shongaloo,Shongaloo,LA,Shongaloo-LA,Louisiana,22119,Webster,32.9416,-93.2956,174,174,8,polygon,TRUE,America/Chicago,71072
+Triumph-LA,1840025138,Triumph,Triumph,LA,Triumph-LA,Louisiana,22075,Plaquemines,29.3443,-89.4683,,,47.8,polygon,FALSE,America/Chicago,70041
+Grand Isle-LA,1840017205,Grand Isle,Grand Isle,LA,Grand Isle-LA,Louisiana,22051,Jefferson,29.2134,-90.0306,1416,1416,85,polygon,TRUE,America/Chicago,70358
+Tunica-LA,1840031093,Tunica,Tunica,LA,Tunica-LA,Louisiana,22125,West Feliciana,30.9293,-91.5551,,,20.3,point,FALSE,America/Chicago,70782
+Bentley-LA,1840030998,Bentley,Bentley,LA,Bentley-LA,Louisiana,22043,Grant,31.5157,-92.4882,,,54.9,point,FALSE,America/Chicago,71407
+Maurice-LA,1840018255,Maurice,Maurice,LA,Maurice-LA,Louisiana,22113,Vermilion,30.1041,-92.1211,1283,1283,178,polygon,TRUE,America/Chicago,70555
+Sieper-LA,1840031085,Sieper,Sieper,LA,Sieper-LA,Louisiana,22079,Rapides,31.211,-92.8082,,,21.4,point,FALSE,America/Chicago,71472
+Center Point-LA,1840025976,Center Point,Center Point,LA,Center Point-LA,Louisiana,22009,Avoyelles,31.2524,-92.2099,,,42.3,polygon,FALSE,America/Chicago,71323
+Gueydan-LA,1840017212,Gueydan,Gueydan,LA,Gueydan-LA,Louisiana,22113,Vermilion,30.0291,-92.5071,1404,1404,593,polygon,TRUE,America/Chicago,70542
+Lakeview-LA,1840025883,Lakeview,Lakeview,LA,Lakeview-LA,Louisiana,22017,Caddo,32.5238,-93.8299,,,494,polygon,FALSE,America/Chicago,71107
+South Mansfield-LA,1840018121,South Mansfield,South Mansfield,LA,South Mansfield-LA,Louisiana,22031,De Soto,32.0181,-93.7237,347,347,197,polygon,TRUE,America/Chicago,71052
+Grand Cane-LA,1840018119,Grand Cane,Grand Cane,LA,Grand Cane-LA,Louisiana,22031,De Soto,32.0836,-93.8088,244,244,83,polygon,TRUE,America/Chicago,71032
+Lafourche-LA,1840031063,Lafourche,Lafourche,LA,Lafourche-LA,Louisiana,22057,Lafourche,29.7672,-90.7659,,,68.6,point,FALSE,America/Chicago,70301
+Pleasant Hill-LA,1840018161,Pleasant Hill,Pleasant Hill,LA,Pleasant Hill-LA,Louisiana,22085,Sabine,31.8154,-93.5164,712,712,170,polygon,TRUE,America/Chicago,71065
+Galbraith-LA,1840030926,Galbraith,Galbraith,LA,Galbraith-LA,Louisiana,22069,Natchitoches,31.4913,-92.8124,,,4.7,point,FALSE,America/Chicago,71447
+Chase-LA,1840030910,Chase,Chase,LA,Chase-LA,Louisiana,22041,Franklin,32.0971,-91.699,,,31.6,point,FALSE,America/Chicago,71295
+Batchelor-LA,1840031024,Batchelor,Batchelor,LA,Batchelor-LA,Louisiana,22077,Pointe Coupee,30.8405,-91.6615,,,162.6,point,FALSE,America/Chicago,70715
+Transylvania-LA,1840030983,Transylvania,Transylvania,LA,Transylvania-LA,Louisiana,22035,East Carroll,32.6785,-91.1826,,,18.5,point,FALSE,America/Chicago,71286
+Gray-LA,1840014030,Gray,Gray,LA,Gray-LA,Louisiana,22109,Terrebonne,29.6776,-90.7833,,,312.3,polygon,FALSE,America/Chicago,70359 70360 70364
+Opelousas-LA,1840015014,Opelousas,Opelousas,LA,Opelousas-LA,Louisiana,22097,St. Landry,30.5279,-92.0851,25390,16541,805,polygon,TRUE,America/Chicago,70570 70571
+Arcadia-LA,1840015805,Arcadia,Arcadia,LA,Arcadia-LA,Louisiana,22013,Bienville,32.5506,-92.9218,2850,2875,304,polygon,TRUE,America/Chicago,71001
+Denham Springs-LA,1840015027,Denham Springs,Denham Springs,LA,Denham Springs-LA,Louisiana,22063,Livingston,30.4743,-90.9594,10335,10335,547,polygon,TRUE,America/Chicago,70726 70727
+Simsboro-LA,1840018085,Simsboro,Simsboro,LA,Simsboro-LA,Louisiana,22061,Lincoln,32.5323,-92.7839,846,846,93,polygon,TRUE,America/Chicago,71275
+Ludington-LA,1840030949,Ludington,Ludington,LA,Ludington-LA,Louisiana,22011,Beauregard,30.8741,-93.2852,,,462,point,FALSE,America/Chicago,70634
+Grand Coteau-LA,1840017173,Grand Coteau,Grand Coteau,LA,Grand Coteau-LA,Louisiana,22097,St. Landry,30.4202,-92.0438,939,939,149,polygon,TRUE,America/Chicago,70541 70512 70584
+Manchac-LA,1840014880,Manchac,Manchac,LA,Manchac-LA,Louisiana,22105,Tangipahoa,30.2916,-90.402,,,12.9,point,FALSE,America/Chicago,70554
+Sterlington-LA,1840016971,Sterlington,Sterlington,LA,Sterlington-LA,Louisiana,22073,Ouachita,32.6888,-92.0603,2530,2530,346,polygon,TRUE,America/Chicago,71280
+Lone Star-LA,1840031129,Lone Star,Lone Star,LA,Lone Star-LA,Louisiana,22089,St. Charles,29.9277,-90.3406,,,804.1,point,FALSE,America/Chicago,70070
+Liberty Hill-LA,1840031068,Liberty Hill,Liberty Hill,LA,Liberty Hill-LA,Louisiana,22013,Bienville,32.3377,-92.8921,,,2.1,point,FALSE,America/Chicago,71008
+Creston-LA,1840031036,Creston,Creston,LA,Creston-LA,Louisiana,22069,Natchitoches,31.976,-93.0499,,,4.7,point,FALSE,America/Chicago,71070
+Egan-LA,1840026026,Egan,Egan,LA,Egan-LA,Louisiana,22001,Acadia,30.246,-92.5135,,,160.2,polygon,FALSE,America/Chicago,70531
+Mayna-LA,1840030952,Mayna,Mayna,LA,Mayna-LA,Louisiana,22025,Catahoula,31.4263,-91.8615,,,2.5,point,FALSE,America/Chicago,71343
+Bourg-LA,1840025140,Bourg,Bourg,LA,Bourg-LA,Louisiana,22109,Terrebonne,29.557,-90.6064,,,408.4,polygon,FALSE,America/Chicago,70343
+Merryville-LA,1840017169,Merryville,Merryville,LA,Merryville-LA,Louisiana,22011,Beauregard,30.7571,-93.5245,1130,1130,44,polygon,TRUE,America/Chicago,70653
+Metairie-LA,1840013994,Metairie,Metairie,LA,Metairie-LA,Louisiana,22051,Jefferson,29.9976,-90.1781,,,2498.1,polygon,FALSE,America/Chicago,70002 70003 70001 70006 70005 70004 70009 70010 70011 70033 70055 70060
+Saint Maurice-LA,1840025927,Saint Maurice,Saint Maurice,LA,Saint Maurice-LA,Louisiana,22127,Winn,31.7614,-92.9388,,,25.7,polygon,FALSE,America/Chicago,71457 71454
+Minorca-LA,1840025947,Minorca,Minorca,LA,Minorca-LA,Louisiana,22029,Concordia,31.5725,-91.4884,,,378.7,polygon,FALSE,America/Chicago,71373
+Oak Ridge-LA,1840018076,Oak Ridge,Oak Ridge,LA,Oak Ridge-LA,Louisiana,22067,Morehouse,32.6244,-91.7731,133,133,51,polygon,TRUE,America/Chicago,71264
+Reeves-LA,1840018220,Reeves,Reeves,LA,Reeves-LA,Louisiana,22003,Allen,30.5216,-93.0428,229,229,36,polygon,TRUE,America/Chicago,70658
+Colquitt-LA,1840031035,Colquitt,Colquitt,LA,Colquitt-LA,Louisiana,22027,Claiborne,32.9499,-92.9738,,,1.5,point,FALSE,America/Chicago,71038
+Naborton-LA,1840030957,Naborton,Naborton,LA,Naborton-LA,Louisiana,22031,De Soto,32.0418,-93.5832,,,20.3,point,FALSE,America/Chicago,71052
+Scarsdale-LA,1840030863,Scarsdale,Scarsdale,LA,Scarsdale-LA,Louisiana,22075,Plaquemines,29.8452,-89.9778,,,4.5,point,FALSE,America/Chicago,70040
+Husser-LA,1840030887,Husser,Husser,LA,Husser-LA,Louisiana,22105,Tangipahoa,30.6794,-90.3373,,,23.7,point,FALSE,America/Chicago,70442
+Anacoco-LA,1840018185,Anacoco,Anacoco,LA,Anacoco-LA,Louisiana,22115,Vernon,31.2545,-93.344,841,841,105,polygon,TRUE,America/Chicago,71403
+Dupont-LA,1840031039,Dupont,Dupont,LA,Dupont-LA,Louisiana,22009,Avoyelles,30.9294,-91.9479,,,25.4,point,FALSE,America/Chicago,71362
+South Vacherie-LA,1840031153,South Vacherie,South Vacherie,LA,South Vacherie-LA,Louisiana,22093,St. James,29.9406,-90.6891,,,82.3,polygon,FALSE,America/Chicago,70090
+Clay-LA,1840031034,Clay,Clay,LA,Clay-LA,Louisiana,22049,Jackson,32.4329,-92.6771,,,17.6,point,FALSE,America/Chicago,71270
+Oakdale-LA,1840015012,Oakdale,Oakdale,LA,Oakdale-LA,Louisiana,22003,Allen,30.8157,-92.6542,7801,7704,572,polygon,TRUE,America/Chicago,71463
+Gibson-LA,1840030927,Gibson,Gibson,LA,Gibson-LA,Louisiana,22109,Terrebonne,29.6869,-90.9907,,,199.8,point,FALSE,America/Chicago,70356
+Spencer-LA,1840030980,Spencer,Spencer,LA,Spencer-LA,Louisiana,22111,Union,32.7401,-92.1318,,,18.3,point,FALSE,America/Chicago,71280
+White Castle-LA,1840017193,White Castle,White Castle,LA,White Castle-LA,Louisiana,22047,Iberville,30.1611,-91.1495,1799,1799,947,polygon,TRUE,America/Chicago,70788
+Clare-LA,1840030883,Clare,Clare,LA,Clare-LA,Louisiana,22085,Sabine,31.3255,-93.6046,,,103.9,point,FALSE,America/Chicago,71429
+Haynesville-LA,1840015772,Haynesville,Haynesville,LA,Haynesville-LA,Louisiana,22027,Claiborne,32.9667,-93.1376,2148,2148,171,polygon,TRUE,America/Chicago,71038
+Blanchard-LA,1840015767,Blanchard,Blanchard,LA,Blanchard-LA,Louisiana,22017,Caddo,32.6091,-93.8841,3144,3144,303,polygon,TRUE,America/Chicago,71107 71009
+Westwego-LA,1840015937,Westwego,Westwego,LA,Westwego-LA,Louisiana,22051,Jefferson,29.9058,-90.1434,8533,8533,1060,polygon,TRUE,America/Chicago,70094 70096
+Gilark-LA,1840031006,Gilark,Gilark,LA,Gilark-LA,Louisiana,22119,Webster,32.6388,-93.3096,,,83.2,point,FALSE,America/Chicago,71055
+Bayou Cane-LA,1840014031,Bayou Cane,Bayou Cane,LA,Bayou Cane-LA,Louisiana,22109,Terrebonne,29.6243,-90.751,,,1263.9,polygon,FALSE,America/Chicago,70360 70364
+Grayson-LA,1840018125,Grayson,Grayson,LA,Grayson-LA,Louisiana,22021,Caldwell,32.0492,-92.1116,529,529,160,polygon,TRUE,America/Chicago,71418 71435
+Gullett-LA,1840031054,Gullett,Gullett,LA,Gullett-LA,Louisiana,22105,Tangipahoa,30.7146,-90.5065,,,258.8,point,FALSE,America/Chicago,70422
+Walters-LA,1840030894,Walters,Walters,LA,Walters-LA,Louisiana,22025,Catahoula,31.5474,-91.996,,,3.2,point,FALSE,America/Chicago,71343
+Baldwin-LA,1840015941,Baldwin,Baldwin,LA,Baldwin-LA,Louisiana,22101,St. Mary,29.8388,-91.5522,2312,2312,277,polygon,TRUE,America/Chicago,70514 70538
+Fort Jesup-LA,1840025941,Fort Jesup,Fort Jesup,LA,Fort Jesup-LA,Louisiana,22085,Sabine,31.6118,-93.4077,,,33.7,polygon,FALSE,America/Chicago,71449 71469
+Lutcher-LA,1840017208,Lutcher,Lutcher,LA,Lutcher-LA,Louisiana,22093,St. James,30.0646,-90.7124,3362,3362,385,polygon,TRUE,America/Chicago,70071
+Harvey-LA,1840013985,Harvey,Harvey,LA,Harvey-LA,Louisiana,22051,Jefferson,29.8871,-90.0664,,,1271.7,polygon,FALSE,America/Chicago,70058 70059
+Robert-LA,1840030860,Robert,Robert,LA,Robert-LA,Louisiana,22105,Tangipahoa,30.5063,-90.3409,,,111.3,point,FALSE,America/Chicago,70455
+Collinston-LA,1840018074,Collinston,Collinston,LA,Collinston-LA,Louisiana,22067,Morehouse,32.6893,-91.8718,264,264,90,polygon,TRUE,America/Chicago,71229
+Richmond-LA,1840018103,Richmond,Richmond,LA,Richmond-LA,Louisiana,22065,Madison,32.3884,-91.1804,558,558,129,polygon,TRUE,America/Chicago,71282
+Long Bridge-LA,1840030948,Long Bridge,Long Bridge,LA,Long Bridge-LA,Louisiana,22009,Avoyelles,31.0141,-92.0185,,,28.9,point,FALSE,America/Chicago,71327
+Bryceland-LA,1840018096,Bryceland,Bryceland,LA,Bryceland-LA,Louisiana,22013,Bienville,32.4485,-92.9924,104,104,17,polygon,TRUE,America/Chicago,71008 71028
+Vidalia-LA,1840017076,Vidalia,Vidalia,LA,Vidalia-LA,Louisiana,22029,Concordia,31.5668,-91.4405,4054,4054,603,polygon,TRUE,America/Chicago,71373
+Clarks-LA,1840018124,Clarks,Clarks,LA,Clarks-LA,Louisiana,22021,Caldwell,32.0288,-92.1408,1012,1012,407,polygon,TRUE,America/Chicago,71435 71415
+Lena-LA,1840031066,Lena,Lena,LA,Lena-LA,Louisiana,22079,Rapides,31.4607,-92.7707,,,26.6,point,FALSE,America/Chicago,71447
+Bayou Goula-LA,1840026016,Bayou Goula,Bayou Goula,LA,Bayou Goula-LA,Louisiana,22047,Iberville,30.2105,-91.1765,,,217.8,polygon,FALSE,America/Chicago,70788
+Vernon-LA,1840030893,Vernon,Vernon,LA,Vernon-LA,Louisiana,22049,Jackson,32.3888,-92.5715,,,6.3,point,FALSE,America/Chicago,71270
+Lafitte-LA,1840013992,Lafitte,Lafitte,LA,Lafitte-LA,Louisiana,22051,Jefferson,29.6957,-90.0995,,,94.8,polygon,FALSE,America/Chicago,70067
+Brownsville-LA,1840025900,Brownsville,Brownsville,LA,Brownsville-LA,Louisiana,22073,Ouachita,32.4884,-92.1618,,,386.9,polygon,FALSE,America/Chicago,71292
+Sicily Island-LA,1840018154,Sicily Island,Sicily Island,LA,Sicily Island-LA,Louisiana,22025,Catahoula,31.8492,-91.6599,495,495,332,polygon,TRUE,America/Chicago,71368
+Junction City-LA,1840018068,Junction City,Junction City,LA,Junction City-LA,Louisiana,22111,Union,33.0073,-92.7224,563,563,176,polygon,TRUE,America/Chicago,71749 71256
+Cheneyville-LA,1840017100,Cheneyville,Cheneyville,LA,Cheneyville-LA,Louisiana,22079,Rapides,31.011,-92.29,607,607,230,polygon,TRUE,America/Chicago,71325
+Bernice-LA,1840015773,Bernice,Bernice,LA,Bernice-LA,Louisiana,22111,Union,32.8276,-92.6584,1654,1654,197,polygon,TRUE,America/Chicago,71222
+Ossun-LA,1840025124,Ossun,Ossun,LA,Ossun-LA,Louisiana,22055,Lafayette,30.2834,-92.107,,,200.1,polygon,FALSE,America/Chicago,70520 70583 70507
+Glencoe-LA,1840025133,Glencoe,Glencoe,LA,Glencoe-LA,Louisiana,22101,St. Mary,29.8113,-91.6705,,,44.9,polygon,FALSE,America/Chicago,70538
+Oretta-LA,1840025998,Oretta,Oretta,LA,Oretta-LA,Louisiana,22011,Beauregard,30.529,-93.4391,,,87,polygon,FALSE,America/Chicago,70660
+Sheltons-LA,1840030976,Sheltons,Sheltons,LA,Sheltons-LA,Louisiana,22067,Morehouse,32.8293,-91.9074,,,73.9,point,FALSE,America/Chicago,71220
+Eva-LA,1840030835,Eva,Eva,LA,Eva-LA,Louisiana,22029,Concordia,31.4291,-91.7876,,,32.8,point,FALSE,America/Chicago,71354
+Old Jefferson-LA,1840031108,Old Jefferson,Old Jefferson,LA,Old Jefferson-LA,Louisiana,22033,East Baton Rouge,30.3776,-91.006,,,803.5,polygon,FALSE,America/Chicago,70817
+Zachary-LA,1840015908,Zachary,Zachary,LA,Zachary-LA,Louisiana,22033,East Baton Rouge,30.6654,-91.1607,16760,16760,270,polygon,TRUE,America/Chicago,70791
+Forbing-LA,1840031047,Forbing,Forbing,LA,Forbing-LA,Louisiana,22017,Caddo,32.3927,-93.7274,,,55.6,point,FALSE,America/Chicago,71106
+Hagewood-LA,1840030873,Hagewood,Hagewood,LA,Hagewood-LA,Louisiana,22069,Natchitoches,31.7152,-93.2152,,,32.9,point,FALSE,America/Chicago,71457
+Hayes-LA,1840026021,Hayes,Hayes,LA,Hayes-LA,Louisiana,22019,Calcasieu,30.1112,-92.9236,,,233.5,polygon,FALSE,America/Chicago,70630 70646
+Wyatt-LA,1840030872,Wyatt,Wyatt,LA,Wyatt-LA,Louisiana,22049,Jackson,32.1554,-92.7032,,,31.2,point,FALSE,America/Chicago,71251
+Warnerton-LA,1840031111,Warnerton,Warnerton,LA,Warnerton-LA,Louisiana,22117,Washington,30.9902,-90.1831,,,11.2,point,FALSE,America/Chicago,70438
+Crowley-LA,1840015041,Crowley,Crowley,LA,Crowley-LA,Louisiana,22001,Acadia,30.2174,-92.3752,14678,13060,861,polygon,TRUE,America/Chicago,70526 70527
+Ragley-LA,1840031079,Ragley,Ragley,LA,Ragley-LA,Louisiana,22011,Beauregard,30.5127,-93.2324,,,2.9,point,FALSE,America/Chicago,70657
+Mound-LA,1840018102,Mound,Mound,LA,Mound-LA,Louisiana,22065,Madison,32.333,-91.0241,17,17,12,polygon,TRUE,America/Chicago,71282
+Jordan Hill-LA,1840025925,Jordan Hill,Jordan Hill,LA,Jordan Hill-LA,Louisiana,22127,Winn,31.8591,-92.5156,,,16,polygon,FALSE,America/Chicago,71483
+Sulphur-LA,1840015927,Sulphur,Sulphur,LA,Sulphur-LA,Louisiana,22019,Calcasieu,30.2304,-93.3556,20272,20272,774,polygon,TRUE,America/Chicago,70663 70664
+Haile-LA,1840030988,Haile,Haile,LA,Haile-LA,Louisiana,22111,Union,32.831,-92.1462,,,41.7,point,FALSE,America/Chicago,71260
+Monterey-LA,1840025948,Monterey,Monterey,LA,Monterey-LA,Louisiana,22029,Concordia,31.4436,-91.7191,,,68,polygon,FALSE,America/Chicago,71354
+Vinton-LA,1840017195,Vinton,Vinton,LA,Vinton-LA,Louisiana,22019,Calcasieu,30.1957,-93.5818,2875,3356,254,polygon,TRUE,America/Chicago,70668
+Edgefield-LA,1840018127,Edgefield,Edgefield,LA,Edgefield-LA,Louisiana,22081,Red River,32.0501,-93.336,205,205,318,polygon,TRUE,America/Chicago,71019
+Fifth Ward-LA,1840025977,Fifth Ward,Fifth Ward,LA,Fifth Ward-LA,Louisiana,22009,Avoyelles,31.1207,-92.1584,,,58.3,polygon,FALSE,America/Chicago,71351
+Tullos-LA,1840017058,Tullos,Tullos,LA,Tullos-LA,Louisiana,22059,La Salle Parish,31.8188,-92.3292,389,389,94,polygon,TRUE,America/Chicago,71479
+Bunkie-LA,1840013880,Bunkie,Bunkie,LA,Bunkie-LA,Louisiana,22009,Avoyelles,30.954,-92.1884,3985,4064,519,polygon,TRUE,America/Chicago,71322
+Bush-LA,1840031113,Bush,Bush,LA,Bush-LA,Louisiana,22103,St. Tammany,30.6088,-89.9001,,,110.8,point,FALSE,America/Chicago,70431
+Bienville-LA,1840018095,Bienville,Bienville,LA,Bienville-LA,Louisiana,22013,Bienville,32.3618,-92.9788,210,210,7,polygon,TRUE,America/Chicago,71008
+Retreat-LA,1840031081,Retreat,Retreat,LA,Retreat-LA,Louisiana,22125,West Feliciana,30.9721,-91.4851,,,9.2,point,FALSE,America/Chicago,70775
+Alsen-LA,1840030899,Alsen,Alsen,LA,Alsen-LA,Louisiana,22033,East Baton Rouge,30.5713,-91.2043,,,400,point,FALSE,America/Chicago,70807
+Jena-LA,1840017057,Jena,Jena,LA,Jena-LA,Louisiana,22059,La Salle Parish,31.6914,-92.1298,4034,3435,241,polygon,TRUE,America/Chicago,71342
+Wilmer-LA,1840031099,Wilmer,Wilmer,LA,Wilmer-LA,Louisiana,22105,Tangipahoa,30.8141,-90.3626,,,5.9,point,FALSE,America/Chicago,70444
+New Era-LA,1840030962,New Era,New Era,LA,New Era-LA,Louisiana,22029,Concordia,31.3671,-91.8273,,,1.2,point,FALSE,America/Chicago,71354
+Mount Hermon-LA,1840031072,Mount Hermon,Mount Hermon,LA,Mount Hermon-LA,Louisiana,22117,Washington,30.9602,-90.2959,,,16.7,point,FALSE,America/Chicago,70450
+Oxford-LA,1840031074,Oxford,Oxford,LA,Oxford-LA,Louisiana,22031,De Soto,31.9235,-93.628,,,8.6,point,FALSE,America/Chicago,71052
+Bonita-LA,1840018073,Bonita,Bonita,LA,Bonita-LA,Louisiana,22067,Morehouse,32.9206,-91.6751,262,262,74,polygon,TRUE,America/Chicago,71223
+Calhoun-LA,1840025105,Calhoun,Calhoun,LA,Calhoun-LA,Louisiana,22073,Ouachita,32.5153,-92.3539,,,141.8,polygon,FALSE,America/Chicago,71225
+Laurel Grove-LA,1840030943,Laurel Grove,Laurel Grove,LA,Laurel Grove-LA,Louisiana,22057,Lafourche,29.8238,-90.879,,,25.6,point,FALSE,America/Chicago,70301
+Lacombe-LA,1840013942,Lacombe,Lacombe,LA,Lacombe-LA,Louisiana,22103,St. Tammany,30.3141,-89.931,,,230.9,polygon,FALSE,America/Chicago,70445
+Pioneer-LA,1840018080,Pioneer,Pioneer,LA,Pioneer-LA,Louisiana,22123,West Carroll,32.7381,-91.4381,148,148,52,polygon,TRUE,America/Chicago,71266
+Starks-LA,1840026022,Starks,Starks,LA,Starks-LA,Louisiana,22019,Calcasieu,30.3105,-93.6667,,,140.4,polygon,FALSE,America/Chicago,70661
+Effie-LA,1840030919,Effie,Effie,LA,Effie-LA,Louisiana,22009,Avoyelles,31.216,-92.1557,,,40,point,FALSE,America/Chicago,71331
+Golden Meadow-LA,1840017217,Golden Meadow,Golden Meadow,LA,Golden Meadow-LA,Louisiana,22057,Lafourche,29.3876,-90.2739,2038,2038,321,polygon,TRUE,America/Chicago,70357
+Killona-LA,1840013979,Killona,Killona,LA,Killona-LA,Louisiana,22089,St. Charles,29.9983,-90.4853,,,61.6,polygon,FALSE,America/Chicago,70057
+Noble-LA,1840018160,Noble,Noble,LA,Noble-LA,Louisiana,22085,Sabine,31.6899,-93.6832,249,249,93,polygon,TRUE,America/Chicago,71462
+Bayou Sorrel-LA,1840030904,Bayou Sorrel,Bayou Sorrel,LA,Bayou Sorrel-LA,Louisiana,22047,Iberville,30.1619,-91.3357,,,136.3,point,FALSE,America/Chicago,70764
+Phoenix-LA,1840030968,Phoenix,Phoenix,LA,Phoenix-LA,Louisiana,22075,Plaquemines,29.646,-89.9398,,,297.3,point,FALSE,America/Chicago,70040
+Roy-LA,1840030972,Roy,Roy,LA,Roy-LA,Louisiana,22013,Bienville,32.224,-93.1521,,,30.4,point,FALSE,America/Chicago,71016
+Welsh-LA,1840017198,Welsh,Welsh,LA,Welsh-LA,Louisiana,22053,Jefferson Davis,30.2355,-92.8135,2635,3232,197,polygon,TRUE,America/Chicago,70591
+Jarreau-LA,1840030935,Jarreau,Jarreau,LA,Jarreau-LA,Louisiana,22077,Pointe Coupee,30.6207,-91.4509,,,79.3,point,FALSE,America/Chicago,70749
+Belle Rose-LA,1840014008,Belle Rose,Belle Rose,LA,Belle Rose-LA,Louisiana,22007,Assumption,30.0421,-91.0498,,,124.9,polygon,FALSE,America/Chicago,70341
+Kentwood-LA,1840017154,Kentwood,Kentwood,LA,Kentwood-LA,Louisiana,22105,Tangipahoa,30.9339,-90.5152,2377,2377,129,polygon,TRUE,America/Chicago,70444
+Gardner-LA,1840031005,Gardner,Gardner,LA,Gardner-LA,Louisiana,22079,Rapides,31.2696,-92.6929,,,35.4,point,FALSE,America/Chicago,71409
+Bordelonville-LA,1840025975,Bordelonville,Bordelonville,LA,Bordelonville-LA,Louisiana,22009,Avoyelles,31.1011,-91.9005,,,45.6,polygon,FALSE,America/Chicago,71355 71320
+Pierre Part-LA,1840014012,Pierre Part,Pierre Part,LA,Pierre Part-LA,Louisiana,22007,Assumption,29.9555,-91.2074,,,487.7,polygon,FALSE,America/Chicago,70339
+Youngsville-LA,1840015931,Youngsville,Youngsville,LA,Youngsville-LA,Louisiana,22055,Lafayette,30.096,-91.9961,12709,12709,419,polygon,TRUE,America/Chicago,70592
+Houma-LA,1840015063,Houma,Houma,LA,Houma-LA,Louisiana,22109,Terrebonne,29.5799,-90.7058,146174,34024,910,polygon,TRUE,America/Chicago,70363 70360 70361
+Summerville-LA,1840031089,Summerville,Summerville,LA,Summerville-LA,Louisiana,22059,La Salle Parish,31.7554,-92.1624,,,31.7,point,FALSE,America/Chicago,71465
+Cedar Grove-LA,1840030828,Cedar Grove,Cedar Grove,LA,Cedar Grove-LA,Louisiana,22075,Plaquemines,29.7949,-90.0223,,,357.6,point,FALSE,America/Chicago,70037
+Buhler-LA,1840030909,Buhler,Buhler,LA,Buhler-LA,Louisiana,22019,Calcasieu,30.333,-93.3621,,,64,point,FALSE,America/Chicago,70663
+Marthaville-LA,1840030950,Marthaville,Marthaville,LA,Marthaville-LA,Louisiana,22069,Natchitoches,31.7388,-93.3966,,,106.7,point,FALSE,America/Chicago,71450
+Loranger-LA,1840031070,Loranger,Loranger,LA,Loranger-LA,Louisiana,22105,Tangipahoa,30.6357,-90.3981,,,55.6,point,FALSE,America/Chicago,70446
+Zwolle-LA,1840017064,Zwolle,Zwolle,LA,Zwolle-LA,Louisiana,22085,Sabine,31.6398,-93.6412,1950,1950,165,polygon,TRUE,America/Chicago,71486
+Riverton-LA,1840030971,Riverton,Riverton,LA,Riverton-LA,Louisiana,22021,Caldwell,32.1607,-92.0962,,,8.5,point,FALSE,America/Chicago,71418
+Ponchatoula-LA,1840015004,Ponchatoula,Ponchatoula,LA,Ponchatoula-LA,Louisiana,22105,Tangipahoa,30.4404,-90.4428,7209,7209,585,polygon,TRUE,America/Chicago,70454
+Point Blue-LA,1840030969,Point Blue,Point Blue,LA,Point Blue-LA,Louisiana,22039,Evangeline,30.6271,-92.3024,,,53.2,point,FALSE,America/Chicago,70586
+Calcasieu-LA,1840031031,Calcasieu,Calcasieu,LA,Calcasieu-LA,Louisiana,22079,Rapides,31.0896,-92.7115,,,32.5,point,FALSE,America/Chicago,71433
+Epps-LA,1840018077,Epps,Epps,LA,Epps-LA,Louisiana,22123,West Carroll,32.6038,-91.4814,829,829,331,polygon,TRUE,America/Chicago,71237
+Juanita-LA,1840030939,Juanita,Juanita,LA,Juanita-LA,Louisiana,22011,Beauregard,30.6185,-93.4252,,,17.6,point,FALSE,America/Chicago,70660
+Ventress-LA,1840025990,Ventress,Ventress,LA,Ventress-LA,Louisiana,22077,Pointe Coupee,30.6824,-91.4248,,,118.2,polygon,FALSE,America/Chicago,70783
+Summerfield-LA,1840031013,Summerfield,Summerfield,LA,Summerfield-LA,Louisiana,22027,Claiborne,32.9126,-92.8293,,,5.2,point,FALSE,America/Chicago,71079
+Martin-LA,1840018129,Martin,Martin,LA,Martin-LA,Louisiana,22081,Red River,32.0983,-93.2193,560,560,18,polygon,TRUE,America/Chicago,71019
+Kelly-LA,1840030849,Kelly,Kelly,LA,Kelly-LA,Louisiana,22021,Caldwell,31.9807,-92.1768,,,27.8,point,FALSE,America/Chicago,71441
+Haaswood-LA,1840031122,Haaswood,Haaswood,LA,Haaswood-LA,Louisiana,22103,St. Tammany,30.3288,-89.7445,,,339.2,point,FALSE,America/Chicago,70452
+Wheeling-LA,1840031016,Wheeling,Wheeling,LA,Wheeling-LA,Louisiana,22127,Winn,31.7463,-92.8393,,,8.7,point,FALSE,America/Chicago,71454
+Frogmore-LA,1840030839,Frogmore,Frogmore,LA,Frogmore-LA,Louisiana,22029,Concordia,31.6032,-91.6704,,,7.4,point,FALSE,America/Chicago,71334
+Edgerly-LA,1840031041,Edgerly,Edgerly,LA,Edgerly-LA,Louisiana,22019,Calcasieu,30.2327,-93.506,,,49.1,point,FALSE,America/Chicago,70668
+Keithville-LA,1840030848,Keithville,Keithville,LA,Keithville-LA,Louisiana,22017,Caddo,32.3332,-93.8363,,,57.1,point,FALSE,America/Chicago,71047
+Grand Point-LA,1840025127,Grand Point,Grand Point,LA,Grand Point-LA,Louisiana,22093,St. James,30.0451,-90.7488,,,141.9,polygon,FALSE,America/Chicago,70763
+Poydras-LA,1840014004,Poydras,Poydras,LA,Poydras-LA,Louisiana,22087,St. Bernard,29.8625,-89.8877,,,648,polygon,FALSE,America/Chicago,70085
+Alsatia-LA,1840030877,Alsatia,Alsatia,LA,Alsatia-LA,Louisiana,22035,East Carroll,32.6129,-91.1823,,,2.3,point,FALSE,America/Chicago,71286
+Felixville-LA,1840030923,Felixville,Felixville,LA,Felixville-LA,Louisiana,22037,East Feliciana,30.9424,-90.8768,,,6.7,point,FALSE,America/Chicago,70722
+Goldonna-LA,1840018140,Goldonna,Goldonna,LA,Goldonna-LA,Louisiana,22069,Natchitoches,32.0193,-92.9162,425,425,14,polygon,TRUE,America/Chicago,71031
+Monroe-LA,1840014881,Monroe,Monroe,LA,Monroe-LA,Louisiana,22073,Ouachita,32.5184,-92.0775,117673,49297,649,polygon,TRUE,America/Chicago,71209 71203 71202 71201 71207 71210 71211 71212 71213 71217
+Carencro-LA,1840015043,Carencro,Carencro,LA,Carencro-LA,Louisiana,22055,Lafayette,30.3115,-92.0385,8752,8752,443,polygon,TRUE,America/Chicago,70520 70507
+Wilson-LA,1840018215,Wilson,Wilson,LA,Wilson-LA,Louisiana,22037,East Feliciana,30.9236,-91.109,574,574,81,polygon,TRUE,America/Chicago,70789
+Sugartown-LA,1840026000,Sugartown,Sugartown,LA,Sugartown-LA,Louisiana,22011,Beauregard,30.8401,-93.0124,,,17.2,polygon,FALSE,America/Chicago,70634 70662
+Jay-LA,1840030875,Jay,Jay,LA,Jay-LA,Louisiana,22057,Lafourche,29.5952,-90.4684,,,63.2,point,FALSE,America/Chicago,70374
+Gonzales-LA,1840013965,Gonzales,Gonzales,LA,Gonzales-LA,Louisiana,22005,Ascension,30.213,-90.9234,10832,10832,459,polygon,TRUE,America/Chicago,70737 70707 70718
+Ruston-LA,1840014878,Ruston,Ruston,LA,Ruston-LA,Louisiana,22061,Lincoln,32.5329,-92.6364,28371,22370,412,polygon,TRUE,America/Chicago,71272 71270 71273
+Montgomery-LA,1840017068,Montgomery,Montgomery,LA,Montgomery-LA,Louisiana,22043,Grant,31.6677,-92.8877,723,723,135,polygon,TRUE,America/Chicago,71454
+Covington-LA,1840015019,Covington,Covington,LA,Covington-LA,Louisiana,22103,St. Tammany,30.4808,-90.1125,10310,10310,495,polygon,TRUE,America/Chicago,70433 70434
+Evangeline-LA,1840030921,Evangeline,Evangeline,LA,Evangeline-LA,Louisiana,22001,Acadia,30.2624,-92.5707,,,3,point,FALSE,America/Chicago,70537
+Marrero-LA,1840013993,Marrero,Marrero,LA,Marrero-LA,Louisiana,22051,Jefferson,29.8854,-90.1138,,,969.5,polygon,FALSE,America/Chicago,70072 70073
+Jonesville-LA,1840017052,Jonesville,Jonesville,LA,Jonesville-LA,Louisiana,22025,Catahoula,31.6238,-91.83,2128,2128,428,polygon,TRUE,America/Chicago,71343
+Swartz-LA,1840013812,Swartz,Swartz,LA,Swartz-LA,Louisiana,22073,Ouachita,32.5809,-91.9869,,,463.5,polygon,FALSE,America/Chicago,71203 71281
+Hall Summit-LA,1840018128,Hall Summit,Hall Summit,LA,Hall Summit-LA,Louisiana,22081,Red River,32.1768,-93.3055,281,281,64,polygon,TRUE,America/Chicago,71034
+Marco-LA,1840030853,Marco,Marco,LA,Marco-LA,Louisiana,22069,Natchitoches,31.5093,-92.7649,,,2.7,point,FALSE,America/Chicago,71447
+Romeville-LA,1840025129,Romeville,Romeville,LA,Romeville-LA,Louisiana,22093,St. James,30.0676,-90.8341,,,142.3,polygon,FALSE,America/Chicago,70723
+Mount Lebanon-LA,1840016984,Mount Lebanon,Mount Lebanon,LA,Mount Lebanon-LA,Louisiana,22013,Bienville,32.5053,-93.0499,77,77,7,polygon,TRUE,America/Chicago,71028
+Serena-LA,1840030992,Serena,Serena,LA,Serena-LA,Louisiana,22025,Catahoula,31.4405,-91.864,,,2.7,point,FALSE,America/Chicago,71343
+Clayton-LA,1840017074,Clayton,Clayton,LA,Clayton-LA,Louisiana,22029,Concordia,31.7226,-91.5373,679,679,165,polygon,TRUE,America/Chicago,71326 71334
+Cypress-LA,1840031001,Cypress,Cypress,LA,Cypress-LA,Louisiana,22069,Natchitoches,31.6054,-93.0388,,,4,point,FALSE,America/Chicago,71457
+Delhi-LA,1840016977,Delhi,Delhi,LA,Delhi-LA,Louisiana,22083,Richland,32.4529,-91.49,2731,2879,377,polygon,TRUE,America/Chicago,71232
+Monticello-LA,1840031106,Monticello,Monticello,LA,Monticello-LA,Louisiana,22033,East Baton Rouge,30.4881,-91.0448,,,1474.9,polygon,FALSE,America/Chicago,70814
+Chackbay-LA,1840014024,Chackbay,Chackbay,LA,Chackbay-LA,Louisiana,22057,Lafourche,29.8817,-90.7742,,,57.6,polygon,FALSE,America/Chicago,70301
+Cullen-LA,1840016936,Cullen,Cullen,LA,Cullen-LA,Louisiana,22119,Webster,32.9699,-93.4464,1115,1115,373,polygon,TRUE,America/Chicago,71021 71075
+Hamburg-LA,1840031056,Hamburg,Hamburg,LA,Hamburg-LA,Louisiana,22009,Avoyelles,31.0307,-91.9315,,,15.1,point,FALSE,America/Chicago,71339
+Jonesboro-LA,1840017001,Jonesboro,Jonesboro,LA,Jonesboro-LA,Louisiana,22049,Jackson,32.2348,-92.7098,5449,4571,364,polygon,TRUE,America/Chicago,71251
+Longville-LA,1840025997,Longville,Longville,LA,Longville-LA,Louisiana,22011,Beauregard,30.6089,-93.2283,,,75.7,polygon,FALSE,America/Chicago,70652
+Forest Hill-LA,1840018179,Forest Hill,Forest Hill,LA,Forest Hill-LA,Louisiana,22079,Rapides,31.0478,-92.5241,803,803,95,polygon,TRUE,America/Chicago,71430
+Rogers-LA,1840031082,Rogers,Rogers,LA,Rogers-LA,Louisiana,22059,La Salle Parish,31.5324,-92.2251,,,2,point,FALSE,America/Chicago,71342
+Dry Prong-LA,1840018165,Dry Prong,Dry Prong,LA,Dry Prong-LA,Louisiana,22043,Grant,31.5806,-92.5305,440,440,122,polygon,TRUE,America/Chicago,71423
+Raceland-LA,1840014027,Raceland,Raceland,LA,Raceland-LA,Louisiana,22057,Lafourche,29.7282,-90.6362,,,246.9,polygon,FALSE,America/Chicago,70394
+Turkey Creek-LA,1840018206,Turkey Creek,Turkey Creek,LA,Turkey Creek-LA,Louisiana,22039,Evangeline,30.8732,-92.417,443,443,69,polygon,TRUE,America/Chicago,70586 70585
+Grand Ecore-LA,1840030843,Grand Ecore,Grand Ecore,LA,Grand Ecore-LA,Louisiana,22069,Natchitoches,31.8157,-93.0849,,,14.7,point,FALSE,America/Chicago,71457
+Natalbany-LA,1840013907,Natalbany,Natalbany,LA,Natalbany-LA,Louisiana,22105,Tangipahoa,30.5486,-90.4848,,,270.1,polygon,FALSE,America/Chicago,70466 70451 70401
+Greenwood-LA,1840016931,Greenwood,Greenwood,LA,Greenwood-LA,Louisiana,22017,Caddo,32.436,-93.9636,3157,3157,135,polygon,TRUE,America/Chicago,71033
+Haughton-LA,1840015770,Haughton,Haughton,LA,Haughton-LA,Louisiana,22015,Bossier,32.5271,-93.5042,3325,3325,223,polygon,TRUE,America/Chicago,71037
+Woodworth-LA,1840017102,Woodworth,Woodworth,LA,Woodworth-LA,Louisiana,22079,Rapides,31.1653,-92.51,1109,1109,50,polygon,TRUE,America/Chicago,71485
+Loreauville-LA,1840018258,Loreauville,Loreauville,LA,Loreauville-LA,Louisiana,22045,Iberia,30.0601,-91.7378,893,893,773,polygon,TRUE,America/Chicago,70552
+Supreme-LA,1840014009,Supreme,Supreme,LA,Supreme-LA,Louisiana,22007,Assumption,29.8604,-90.9955,,,120.1,polygon,FALSE,America/Chicago,70390
+Olla-LA,1840017060,Olla,Olla,LA,Olla-LA,Louisiana,22059,La Salle Parish,31.8981,-92.2404,1393,1393,136,polygon,TRUE,America/Chicago,71465
+Belle Terre-LA,1840031027,Belle Terre,Belle Terre,LA,Belle Terre-LA,Louisiana,22007,Assumption,30.0696,-91.0159,,,2.3,point,FALSE,America/Chicago,70341
+Montpelier-LA,1840018211,Montpelier,Montpelier,LA,Montpelier-LA,Louisiana,22091,St. Helena,30.6823,-90.6545,249,249,51,polygon,TRUE,America/Chicago,70422
+Baskin-LA,1840018117,Baskin,Baskin,LA,Baskin-LA,Louisiana,22041,Franklin,32.2591,-91.7473,246,246,71,polygon,TRUE,America/Chicago,71219
+Bancroft-LA,1840030824,Bancroft,Bancroft,LA,Bancroft-LA,Louisiana,22011,Beauregard,30.5652,-93.6855,,,2.4,point,FALSE,America/Chicago,70653
+Lake Providence-LA,1840016945,Lake Providence,Lake Providence,LA,Lake Providence-LA,Louisiana,22035,East Carroll,32.8133,-91.1825,4697,3693,396,polygon,TRUE,America/Chicago,71286 71254
+Stanley-LA,1840018122,Stanley,Stanley,LA,Stanley-LA,Louisiana,22031,De Soto,31.9608,-93.8995,106,106,18,polygon,TRUE,America/Chicago,71032 71052 71049
+North Hodge-LA,1840018114,North Hodge,North Hodge,LA,North Hodge-LA,Louisiana,22049,Jackson,32.2845,-92.7171,378,378,214,polygon,TRUE,America/Chicago,71268 71247
+Flournoy-LA,1840031045,Flournoy,Flournoy,LA,Flournoy-LA,Louisiana,22017,Caddo,32.4493,-93.9002,,,13.4,point,FALSE,America/Chicago,71119
+Maringouin-LA,1840017192,Maringouin,Maringouin,LA,Maringouin-LA,Louisiana,22047,Iberville,30.4908,-91.5187,1046,1046,548,polygon,TRUE,America/Chicago,70757
+Gretna-LA,1840013996,Gretna,Gretna,LA,Gretna-LA,Louisiana,22051,Jefferson,29.91,-90.0516,17897,17897,1725,polygon,TRUE,America/Chicago,70056 70053 70054
+Zona-LA,1840030897,Zona,Zona,LA,Zona-LA,Louisiana,22117,Washington,30.7482,-90.0812,,,12.6,point,FALSE,America/Chicago,70438
+Elton-LA,1840017197,Elton,Elton,LA,Elton-LA,Louisiana,22053,Jefferson Davis,30.4812,-92.6976,1130,1130,265,polygon,TRUE,America/Chicago,70532
+Flatwoods-LA,1840030924,Flatwoods,Flatwoods,LA,Flatwoods-LA,Louisiana,22079,Rapides,31.4027,-92.8682,,,42.3,point,FALSE,America/Chicago,71427
+Washington-LA,1840017175,Washington,Washington,LA,Washington-LA,Louisiana,22097,St. Landry,30.615,-92.0594,953,953,444,polygon,TRUE,America/Chicago,70589
+Hodge-LA,1840018113,Hodge,Hodge,LA,Hodge-LA,Louisiana,22049,Jackson,32.2719,-92.7303,449,449,179,polygon,TRUE,America/Chicago,71247
+Mansura-LA,1840017119,Mansura,Mansura,LA,Mansura-LA,Louisiana,22009,Avoyelles,31.0665,-92.0524,1422,1422,203,polygon,TRUE,America/Chicago,71350
+Ferriday-LA,1840017075,Ferriday,Ferriday,LA,Ferriday-LA,Louisiana,22029,Concordia,31.6343,-91.5562,5625,3330,789,polygon,TRUE,America/Chicago,71334
+Jefferson-LA,1840013986,Jefferson,Jefferson,LA,Jefferson-LA,Louisiana,22051,Jefferson,29.961,-90.1553,,,2171.4,polygon,FALSE,America/Chicago,70121
+River Ridge-LA,1840013995,River Ridge,River Ridge,LA,River Ridge-LA,Louisiana,22051,Jefferson,29.9593,-90.2202,,,1420.5,polygon,FALSE,America/Chicago,70123
+Jamestown-LA,1840018098,Jamestown,Jamestown,LA,Jamestown-LA,Louisiana,22013,Bienville,32.3397,-93.2064,134,134,29,polygon,TRUE,America/Chicago,71045
+Leonville-LA,1840017171,Leonville,Leonville,LA,Leonville-LA,Louisiana,22097,St. Landry,30.4661,-91.9811,1105,1105,156,polygon,TRUE,America/Chicago,70512 70570 70551
+Evergreen-LA,1840017121,Evergreen,Evergreen,LA,Evergreen-LA,Louisiana,22009,Avoyelles,30.9527,-92.1052,301,301,113,polygon,TRUE,America/Chicago,71333
+Arabi-LA,1840014000,Arabi,Arabi,LA,Arabi-LA,Louisiana,22087,St. Bernard,29.9554,-89.9984,,,1089.4,polygon,FALSE,America/Chicago,70032
+Funston-LA,1840030840,Funston,Funston,LA,Funston-LA,Louisiana,22031,De Soto,32.0499,-93.9691,,,10.2,point,FALSE,America/Chicago,71049
+Bosco-LA,1840031030,Bosco,Bosco,LA,Bosco-LA,Louisiana,22073,Ouachita,32.2902,-92.089,,,1.6,point,FALSE,America/Chicago,71202
+Weldon-LA,1840030895,Weldon,Weldon,LA,Weldon-LA,Louisiana,22027,Claiborne,32.8596,-92.7254,,,6.7,point,FALSE,America/Chicago,71222
+Bolivar-LA,1840030907,Bolivar,Bolivar,LA,Bolivar-LA,Louisiana,22105,Tangipahoa,30.8691,-90.3948,,,46,point,FALSE,America/Chicago,70444
+Erwinville-LA,1840026009,Erwinville,Erwinville,LA,Erwinville-LA,Louisiana,22121,West Baton Rouge,30.5428,-91.3913,,,403.8,polygon,FALSE,America/Chicago,70767
+McNary-LA,1840018180,McNary,McNary,LA,McNary-LA,Louisiana,22079,Rapides,30.9895,-92.5794,214,214,44,polygon,TRUE,America/Chicago,71433
+Welcome-LA,1840025132,Welcome,Welcome,LA,Welcome-LA,Louisiana,22093,St. James,30.0474,-90.8823,,,40.2,polygon,FALSE,America/Chicago,70086
+Mira-LA,1840030954,Mira,Mira,LA,Mira-LA,Louisiana,22017,Caddo,32.9421,-93.8891,,,12.8,point,FALSE,America/Chicago,71044
+Oberlin-LA,1840017168,Oberlin,Oberlin,LA,Oberlin-LA,Louisiana,22003,Allen,30.607,-92.7724,1749,1749,154,polygon,TRUE,America/Chicago,70655 70648
+Melder-LA,1840031011,Melder,Melder,LA,Melder-LA,Louisiana,22079,Rapides,31.1052,-92.6365,,,21.5,point,FALSE,America/Chicago,71424
+Lake Arthur-LA,1840017196,Lake Arthur,Lake Arthur,LA,Lake Arthur-LA,Louisiana,22053,Jefferson Davis,30.0795,-92.6773,2793,2746,571,polygon,TRUE,America/Chicago,70549
+Avondale-LA,1840013987,Avondale,Avondale,LA,Avondale-LA,Louisiana,22051,Jefferson,29.9072,-90.1933,,,1302.5,polygon,FALSE,America/Chicago,70094
+Chatham-LA,1840017002,Chatham,Chatham,LA,Chatham-LA,Louisiana,22049,Jackson,32.3094,-92.4522,543,543,212,polygon,TRUE,America/Chicago,71226
+Arnaudville-LA,1840015905,Arnaudville,Arnaudville,LA,Arnaudville-LA,Louisiana,22097,St. Landry,30.4021,-91.932,1069,1069,594,polygon,TRUE,America/Chicago,70512
+Boothville-LA,1840027025,Boothville,Boothville,LA,Boothville-LA,Louisiana,22075,Plaquemines,29.333,-89.4052,,,228.1,polygon,FALSE,America/Chicago,70041 70038
+Pineville-LA,1840014963,Pineville,Pineville,LA,Pineville-LA,Louisiana,22079,Rapides,31.3414,-92.4096,14480,14480,444,polygon,TRUE,America/Chicago,71360 71348 71359 71361
+Percle-LA,1840030892,Percle,Percle,LA,Percle-LA,Louisiana,22007,Assumption,29.8685,-91.0118,,,27.6,point,FALSE,America/Chicago,70390
+Chauvin-LA,1840014032,Chauvin,Chauvin,LA,Chauvin-LA,Louisiana,22109,Terrebonne,29.4455,-90.594,,,645.1,polygon,FALSE,America/Chicago,70344
+Extension-LA,1840030922,Extension,Extension,LA,Extension-LA,Louisiana,22041,Franklin,31.9707,-91.806,,,5.7,point,FALSE,America/Chicago,71243
+Estelle-LA,1840013111,Estelle,Estelle,LA,Estelle-LA,Louisiana,22051,Jefferson,29.8438,-90.1006,,,1808.4,polygon,FALSE,America/Chicago,70072
+Des Allemands-LA,1840013109,Des Allemands,Des Allemands,LA,Des Allemands-LA,Louisiana,22089,St. Charles,29.8162,-90.4746,,,351.2,polygon,FALSE,America/Chicago,70030
+Reddell-LA,1840025992,Reddell,Reddell,LA,Reddell-LA,Louisiana,22039,Evangeline,30.6687,-92.4268,,,270.6,polygon,FALSE,America/Chicago,70580 70554
+Saint Francisville-LA,1840018200,Saint Francisville,Saint Francisville,LA,Saint Francisville-LA,Louisiana,22125,West Feliciana,30.7851,-91.3787,1675,1675,355,polygon,TRUE,America/Chicago,70775
+Fenton-LA,1840018239,Fenton,Fenton,LA,Fenton-LA,Louisiana,22053,Jefferson Davis,30.3638,-92.9164,371,371,346,polygon,TRUE,America/Chicago,70591 70640
+Centerville-LA,1840031116,Centerville,Centerville,LA,Centerville-LA,Louisiana,22101,St. Mary,29.7597,-91.4284,,,168.4,point,FALSE,America/Chicago,70538
+Clinton-LA,1840017160,Clinton,Clinton,LA,Clinton-LA,Louisiana,22037,East Feliciana,30.8614,-91.015,1581,1581,222,polygon,TRUE,America/Chicago,70722
+Evans-LA,1840030836,Evans,Evans,LA,Evans-LA,Louisiana,22115,Vernon,30.9891,-93.5021,,,38.2,point,FALSE,America/Chicago,70639
+Point-LA,1840030858,Point,Point,LA,Point-LA,Louisiana,22111,Union,32.661,-92.2776,,,15,point,FALSE,America/Chicago,71234
+Pitkin-LA,1840025974,Pitkin,Pitkin,LA,Pitkin-LA,Louisiana,22115,Vernon,30.9344,-92.9267,,,110.8,polygon,FALSE,America/Chicago,70656
+Tendal-LA,1840031090,Tendal,Tendal,LA,Tendal-LA,Louisiana,22065,Madison,32.4324,-91.3668,,,18.9,point,FALSE,America/Chicago,71282
+Frierson-LA,1840025916,Frierson,Frierson,LA,Frierson-LA,Louisiana,22031,De Soto,32.2486,-93.6895,,,99.4,polygon,FALSE,America/Chicago,71027
+Pine Grove-LA,1840031132,Pine Grove,Pine Grove,LA,Pine Grove-LA,Louisiana,22091,St. Helena,30.7099,-90.754,,,53.1,point,FALSE,America/Chicago,70453
+Mimosa Park-LA,1840031130,Mimosa Park,Mimosa Park,LA,Mimosa Park-LA,Louisiana,22089,St. Charles,29.9063,-90.3562,,,2116.6,point,FALSE,America/Chicago,70070
+Paradis-LA,1840013984,Paradis,Paradis,LA,Paradis-LA,Louisiana,22089,St. Charles,29.868,-90.4398,,,702.4,polygon,FALSE,America/Chicago,70030 70080
+Hico-LA,1840030847,Hico,Hico,LA,Hico-LA,Louisiana,22061,Lincoln,32.7449,-92.7138,,,12.1,point,FALSE,America/Chicago,71235
+Carville-LA,1840031033,Carville,Carville,LA,Carville-LA,Louisiana,22047,Iberville,30.2174,-91.0962,,,52.9,point,FALSE,America/Chicago,70721
+Darnell-LA,1840031037,Darnell,Darnell,LA,Darnell-LA,Louisiana,22123,West Carroll,32.6776,-91.4532,,,9.1,point,FALSE,America/Chicago,71266
+Verret-LA,1840031141,Verret,Verret,LA,Verret-LA,Louisiana,22087,St. Bernard,29.8619,-89.7798,,,53.4,point,FALSE,America/Chicago,70085
+Norco-LA,1840013983,Norco,Norco,LA,Norco-LA,Louisiana,22089,St. Charles,29.9986,-90.4036,,,732.1,polygon,FALSE,America/Chicago,70079 70047
+Derry-LA,1840031003,Derry,Derry,LA,Derry-LA,Louisiana,22069,Natchitoches,31.5341,-92.9477,,,6.7,point,FALSE,America/Chicago,71416
+Ellsworth-LA,1840030833,Ellsworth,Ellsworth,LA,Ellsworth-LA,Louisiana,22109,Terrebonne,29.6733,-90.8151,,,41,point,FALSE,America/Chicago,70395
+Start-LA,1840025902,Start,Start,LA,Start-LA,Louisiana,22083,Richland,32.4902,-91.865,,,295.2,polygon,FALSE,America/Chicago,71264 71269 71279
+Pine Prairie-LA,1840018205,Pine Prairie,Pine Prairie,LA,Pine Prairie-LA,Louisiana,22039,Evangeline,30.7818,-92.4223,1465,1465,350,polygon,TRUE,America/Chicago,70576 70586
+Innis-LA,1840031058,Innis,Innis,LA,Innis-LA,Louisiana,22077,Pointe Coupee,30.878,-91.6807,,,78.7,point,FALSE,America/Chicago,70753
+Gilbert-LA,1840018118,Gilbert,Gilbert,LA,Gilbert-LA,Louisiana,22041,Franklin,32.0507,-91.6567,565,565,208,polygon,TRUE,America/Chicago,71336
+Geismar-LA,1840031050,Geismar,Geismar,LA,Geismar-LA,Louisiana,22005,Ascension,30.2044,-91.0226,,,5.7,point,FALSE,America/Chicago,70734
+Diamond-LA,1840030915,Diamond,Diamond,LA,Diamond-LA,Louisiana,22075,Plaquemines,29.5355,-89.762,,,177.3,point,FALSE,America/Chicago,70083
+Lebeau-LA,1840031125,Lebeau,Lebeau,LA,Lebeau-LA,Louisiana,22097,St. Landry,30.7313,-91.9771,,,65.3,point,FALSE,America/Chicago,71345
+Morse-LA,1840018242,Morse,Morse,LA,Morse-LA,Louisiana,22001,Acadia,30.1221,-92.4984,806,806,222,polygon,TRUE,America/Chicago,70559
+New Roads-LA,1840015001,New Roads,New Roads,LA,New Roads-LA,Louisiana,22077,Pointe Coupee,30.6959,-91.4537,7687,4673,393,polygon,TRUE,America/Chicago,70760
+Springville-LA,1840031087,Springville,Springville,LA,Springville-LA,Louisiana,22063,Livingston,30.4355,-90.6831,,,7.2,point,FALSE,America/Chicago,70754
+Shenandoah-LA,1840031152,Shenandoah,Shenandoah,LA,Shenandoah-LA,Louisiana,22033,East Baton Rouge,30.4019,-91.002,,,2042.8,polygon,FALSE,America/Chicago,70817
+Lettsworth-LA,1840031067,Lettsworth,Lettsworth,LA,Lettsworth-LA,Louisiana,22077,Pointe Coupee,30.9335,-91.7048,,,3.6,point,FALSE,America/Chicago,70753
+Many-LA,1840017063,Many,Many,LA,Many-LA,Louisiana,22085,Sabine,31.5663,-93.4777,2796,2790,309,polygon,TRUE,America/Chicago,71449
+Delta-LA,1840018101,Delta,Delta,LA,Delta-LA,Louisiana,22065,Madison,32.322,-90.9414,257,257,22,polygon,TRUE,America/Chicago,71282 71233
+Varnado-LA,1840018203,Varnado,Varnado,LA,Varnado-LA,Louisiana,22117,Washington,30.8953,-89.8319,326,326,148,polygon,TRUE,America/Chicago,70426
+Whiteville-LA,1840031142,Whiteville,Whiteville,LA,Whiteville-LA,Louisiana,22097,St. Landry,30.7883,-92.1476,,,10.6,point,FALSE,America/Chicago,71322
+Meaux-LA,1840031071,Meaux,Meaux,LA,Meaux-LA,Louisiana,22113,Vermilion,30.0208,-92.1826,,,95.3,point,FALSE,America/Chicago,70510
+Dunbarton-LA,1840031102,Dunbarton,Dunbarton,LA,Dunbarton-LA,Louisiana,22029,Concordia,31.7268,-91.6587,,,2.2,point,FALSE,America/Chicago,71334
+Catahoula-LA,1840026015,Catahoula,Catahoula,LA,Catahoula-LA,Louisiana,22099,St. Martin,30.2126,-91.7126,,,177,polygon,FALSE,America/Chicago,70582
+Shreveport-LA,1840015768,Shreveport,Shreveport,LA,Shreveport-LA,Louisiana,22017,Caddo,32.4659,-93.7959,291749,194920,702,polygon,TRUE,America/Chicago,71129 71101 71103 71104 71105 71106 71107 71108 71109 71119 71118 71102 71120 71130 71133 71134 71135 71136 71137 71138 71148 71149 71151 71152 71153 71154 71156 71161 71162 71163 71164 71165 71166
+New Sarpy-LA,1840013982,New Sarpy,New Sarpy,LA,New Sarpy-LA,Louisiana,22089,St. Charles,29.981,-90.3829,,,1160.3,polygon,FALSE,America/Chicago,70047 70078
+Slidell-LA,1840015911,Slidell,Slidell,LA,Slidell-LA,Louisiana,22103,St. Tammany,30.2881,-89.7828,94320,28013,728,polygon,TRUE,America/Chicago,70460 70458 70459 70469
+Westdale-LA,1840030896,Westdale,Westdale,LA,Westdale-LA,Louisiana,22081,Red River,32.1649,-93.4799,,,4.7,point,FALSE,America/Chicago,71115
+Searcy-LA,1840030973,Searcy,Searcy,LA,Searcy-LA,Louisiana,22059,La Salle Parish,31.7052,-92.2282,,,15.5,point,FALSE,America/Chicago,71371
+Delcambre-LA,1840017210,Delcambre,Delcambre,LA,Delcambre-LA,Louisiana,22045,Iberia,29.9515,-91.9916,1888,1888,623,polygon,TRUE,America/Chicago,70528
+Enterprise-LA,1840030884,Enterprise,Enterprise,LA,Enterprise-LA,Louisiana,22025,Catahoula,31.9032,-91.8832,,,7.5,point,FALSE,America/Chicago,71425
+Concession-LA,1840030830,Concession,Concession,LA,Concession-LA,Louisiana,22075,Plaquemines,29.831,-90.004,,,1100,point,FALSE,America/Chicago,70037
+Ansley-LA,1840030902,Ansley,Ansley,LA,Ansley-LA,Louisiana,22049,Jackson,32.3957,-92.6929,,,6.6,point,FALSE,America/Chicago,71270
+Hutton-LA,1840031009,Hutton,Hutton,LA,Hutton-LA,Louisiana,22115,Vernon,31.3305,-93.0324,,,8.9,point,FALSE,America/Chicago,71446
+Maxie-LA,1840030951,Maxie,Maxie,LA,Maxie-LA,Louisiana,22001,Acadia,30.3252,-92.4079,,,41.1,point,FALSE,America/Chicago,70526
+Winnfield-LA,1840015837,Winnfield,Winnfield,LA,Winnfield-LA,Louisiana,22127,Winn,31.924,-92.6425,4993,4495,476,polygon,TRUE,America/Chicago,71483
+Grosse Tete-LA,1840018237,Grosse Tete,Grosse Tete,LA,Grosse Tete-LA,Louisiana,22047,Iberville,30.4157,-91.4376,625,625,206,polygon,TRUE,America/Chicago,70740
+Red Chute-LA,1840013789,Red Chute,Red Chute,LA,Red Chute-LA,Louisiana,22015,Bossier,32.5732,-93.6059,,,603.3,polygon,FALSE,America/Chicago,71037
+New Orleans-LA,1840001839,New Orleans,New Orleans,LA,New Orleans-LA,Louisiana,22071,Orleans,30.0687,-89.9288,1024421,391495,892,polygon,TRUE,America/Chicago,70139 70130 70131 70114 70115 70116 70117 70112 70113 70118 70119 70129 70128 70125 70124 70127 70126 70122 70163 70141 70142 70143 70145 70146 70148 70150 70151 70152 70153 70154 70156 70157 70158 70159 70160 70161 70162 70164 70165 70166 70167 70170 70172 70174 70175 70176 70177 70178 70179 70181 70182 70183 70184 70185 70186 70187 70189 70190 70195
+Eastwood-LA,1840013100,Eastwood,Eastwood,LA,Eastwood-LA,Louisiana,22015,Bossier,32.5606,-93.5625,,,343.8,polygon,FALSE,America/Chicago,71037 71067
+Saint Gabriel-LA,1840015926,Saint Gabriel,Saint Gabriel,LA,Saint Gabriel-LA,Louisiana,22047,Iberville,30.2536,-91.1013,7205,7205,93,polygon,TRUE,America/Chicago,70721 70776 70780
+Plain Dealing-LA,1840016934,Plain Dealing,Plain Dealing,LA,Plain Dealing-LA,Louisiana,22015,Bossier,32.9074,-93.6992,966,966,236,polygon,TRUE,America/Chicago,71064
+Wallace Ridge-LA,1840025934,Wallace Ridge,Wallace Ridge,LA,Wallace Ridge-LA,Louisiana,22025,Catahoula,31.6849,-91.8321,,,11.3,polygon,FALSE,America/Chicago,71343
+Crown Point-LA,1840030914,Crown Point,Crown Point,LA,Crown Point-LA,Louisiana,22051,Jefferson,29.7722,-90.0854,,,381.3,point,FALSE,America/Chicago,70072
+Toro-LA,1840030982,Toro,Toro,LA,Toro-LA,Louisiana,22085,Sabine,31.2805,-93.5441,,,3.5,point,FALSE,America/Chicago,71429
+Gibsland-LA,1840016985,Gibsland,Gibsland,LA,Gibsland-LA,Louisiana,22013,Bienville,32.5395,-93.0541,947,947,138,polygon,TRUE,America/Chicago,71028
+Westminster-LA,1840031110,Westminster,Westminster,LA,Westminster-LA,Louisiana,22033,East Baton Rouge,30.408,-91.0906,,,1309,polygon,FALSE,America/Chicago,70809
+Waggaman-LA,1840013991,Waggaman,Waggaman,LA,Waggaman-LA,Louisiana,22051,Jefferson,29.9373,-90.2354,,,1176.6,polygon,FALSE,America/Chicago,70094
+Eden Isle-LA,1840031150,Eden Isle,Eden Isle,LA,Eden Isle-LA,Louisiana,22103,St. Tammany,30.2279,-89.7987,,,1769.1,polygon,FALSE,America/Chicago,70458
+Edgard-LA,1840013107,Edgard,Edgard,LA,Edgard-LA,Louisiana,22095,St. John the Baptist,30.0362,-90.546,,,36.6,polygon,FALSE,America/Chicago,70049
+Danville-LA,1840031002,Danville,Danville,LA,Danville-LA,Louisiana,22013,Bienville,32.229,-92.8479,,,12.5,point,FALSE,America/Chicago,71008
+Krotz Springs-LA,1840017170,Krotz Springs,Krotz Springs,LA,Krotz Springs-LA,Louisiana,22097,St. Landry,30.5323,-91.7518,1204,1204,269,polygon,TRUE,America/Chicago,70750
+Yscloskey-LA,1840031144,Yscloskey,Yscloskey,LA,Yscloskey-LA,Louisiana,22087,St. Bernard,29.8419,-89.6884,,,29.4,point,FALSE,America/Chicago,70085
+Brusly-LA,1840015916,Brusly,Brusly,LA,Brusly-LA,Louisiana,22121,West Baton Rouge,30.3943,-91.2517,2794,2794,487,polygon,TRUE,America/Chicago,70719
+Pointe a la Hache-LA,1840031146,Pointe à la Hache,Pointe a la Hache,LA,Pointe a la Hache-LA,Louisiana,22075,Plaquemines,29.5737,-89.7808,,,53.1,polygon,FALSE,America/Chicago,70082
+Patterson-LA,1840015057,Patterson,Patterson,LA,Patterson-LA,Louisiana,22101,St. Mary,29.6909,-91.3096,6061,6061,927,polygon,TRUE,America/Chicago,70392
+Natchitoches-LA,1840014925,Natchitoches,Natchitoches,LA,Natchitoches-LA,Louisiana,22069,Natchitoches,31.7317,-93.0978,19759,18319,311,polygon,TRUE,America/Chicago,71457 71469 71458 71497
+Waterproof-LA,1840017027,Waterproof,Waterproof,LA,Waterproof-LA,Louisiana,22107,Tensas,31.8072,-91.3861,591,591,327,polygon,TRUE,America/Chicago,71375
+Slaughter-LA,1840018213,Slaughter,Slaughter,LA,Slaughter-LA,Louisiana,22037,East Feliciana,30.7219,-91.1393,961,961,67,polygon,TRUE,America/Chicago,70777
+Mer Rouge-LA,1840018075,Mer Rouge,Mer Rouge,LA,Mer Rouge-LA,Louisiana,22067,Morehouse,32.7767,-91.7949,584,584,192,polygon,TRUE,America/Chicago,71261
+Addis-LA,1840015915,Addis,Addis,LA,Addis-LA,Louisiana,22121,West Baton Rouge,30.3652,-91.2659,4873,4873,447,polygon,TRUE,America/Chicago,70710
+Saint James-LA,1840025130,Saint James,Saint James,LA,Saint James-LA,Louisiana,22093,St. James,30.0185,-90.8513,,,109.5,polygon,FALSE,America/Chicago,70086
+Jones-LA,1840030938,Jones,Jones,LA,Jones-LA,Louisiana,22067,Morehouse,32.9676,-91.6482,,,2.2,point,FALSE,America/Chicago,71223
+Perryville-LA,1840030967,Perryville,Perryville,LA,Perryville-LA,Louisiana,22067,Morehouse,32.7079,-92.0054,,,5.6,point,FALSE,America/Chicago,71280
+Gorum-LA,1840031007,Gorum,Gorum,LA,Gorum-LA,Louisiana,22069,Natchitoches,31.433,-92.9435,,,20.6,point,FALSE,America/Chicago,71447
+Knight-LA,1840030940,Knight,Knight,LA,Knight-LA,Louisiana,22115,Vernon,30.9155,-93.4485,,,7.9,point,FALSE,America/Chicago,70634
+Benton-LA,1840015769,Benton,Benton,LA,Benton-LA,Louisiana,22015,Bossier,32.6906,-93.74,5680,2060,368,polygon,TRUE,America/Chicago,71006
+Manifest-LA,1840030852,Manifest,Manifest,LA,Manifest-LA,Louisiana,22025,Catahoula,31.7102,-91.9621,,,12.3,point,FALSE,America/Chicago,71343
+Dodson-LA,1840018136,Dodson,Dodson,LA,Dodson-LA,Louisiana,22127,Winn,32.0808,-92.6587,314,314,53,polygon,TRUE,America/Chicago,71422
+Vienna Bend-LA,1840031021,Vienna Bend,Vienna Bend,LA,Vienna Bend-LA,Louisiana,22069,Natchitoches,31.7372,-93.0343,,,272.6,polygon,FALSE,America/Chicago,71457
+Banks Springs-LA,1840025921,Banks Springs,Banks Springs,LA,Banks Springs-LA,Louisiana,22021,Caldwell,32.0764,-92.085,,,363.6,polygon,FALSE,America/Chicago,71418
+Lafayette-LA,1840015044,Lafayette,Lafayette,LA,Lafayette-LA,Louisiana,22055,Lafayette,30.2097,-92.0314,267376,127626,915,polygon,TRUE,America/Chicago,70508 70507 70506 70503 70501 70502 70504 70505 70509 70593 70596 70598
+Natchez-LA,1840018141,Natchez,Natchez,LA,Natchez-LA,Louisiana,22069,Natchitoches,31.6743,-93.0456,594,594,222,polygon,TRUE,America/Chicago,71456 71457
+Burr Ferry-LA,1840030989,Burr Ferry,Burr Ferry,LA,Burr Ferry-LA,Louisiana,22115,Vernon,31.0663,-93.496,,,12.8,point,FALSE,America/Chicago,71446
+Lindsay-LA,1840030947,Lindsay,Lindsay,LA,Lindsay-LA,Louisiana,22037,East Feliciana,30.7177,-91.2179,,,4.5,point,FALSE,America/Chicago,70748
+Brownsfield-LA,1840031149,Brownsfield,Brownsfield,LA,Brownsfield-LA,Louisiana,22033,East Baton Rouge,30.5467,-91.1225,,,779.1,polygon,FALSE,America/Chicago,70811
+Kingston-LA,1840030889,Kingston,Kingston,LA,Kingston-LA,Louisiana,22031,De Soto,32.1843,-93.711,,,3.8,point,FALSE,America/Chicago,71027
+Cankton-LA,1840018221,Cankton,Cankton,LA,Cankton-LA,Louisiana,22097,St. Landry,30.3455,-92.113,492,492,93,polygon,TRUE,America/Chicago,70584
+Bayou Corne-LA,1840030903,Bayou Corne,Bayou Corne,LA,Bayou Corne-LA,Louisiana,22007,Assumption,30.0159,-91.1528,,,95.5,polygon,FALSE,America/Chicago,70341
+English Turn-LA,1840031105,English Turn,English Turn,LA,English Turn-LA,Louisiana,22075,Plaquemines,29.8755,-89.9651,,,83.7,point,FALSE,America/Chicago,70040
+Newellton-LA,1840017028,Newellton,Newellton,LA,Newellton-LA,Louisiana,22107,Tensas,32.0724,-91.2389,1040,1040,528,polygon,TRUE,America/Chicago,71357
+Sunset-LA,1840017174,Sunset,Sunset,LA,Sunset-LA,Louisiana,22097,St. Landry,30.4083,-92.064,3593,2974,369,polygon,TRUE,America/Chicago,70584
+Crescent-LA,1840026017,Crescent,Crescent,LA,Crescent-LA,Louisiana,22047,Iberville,30.2405,-91.2864,,,349.6,polygon,FALSE,America/Chicago,70764
+West Monroe-LA,1840015795,West Monroe,West Monroe,LA,West Monroe-LA,Louisiana,22073,Ouachita,32.5121,-92.1513,12922,12922,624,polygon,TRUE,America/Chicago,71291 71292 71294
+Sikes-LA,1840018137,Sikes,Sikes,LA,Sikes-LA,Louisiana,22127,Winn,32.079,-92.4863,111,111,27,polygon,TRUE,America/Chicago,71473
+Sibley-LA,1840018061,Sibley,Sibley,LA,Sibley-LA,Louisiana,22119,Webster,32.5423,-93.2947,1176,1176,117,polygon,TRUE,America/Chicago,71073
+Iberville-LA,1840031057,Iberville,Iberville,LA,Iberville-LA,Louisiana,22047,Iberville,30.296,-91.1168,,,146,point,FALSE,America/Chicago,70776
+Harahan-LA,1840013997,Harahan,Harahan,LA,Harahan-LA,Louisiana,22051,Jefferson,29.9374,-90.2031,9360,9360,1796,polygon,TRUE,America/Chicago,70123
+Lecompte-LA,1840017099,Lecompte,Lecompte,LA,Lecompte-LA,Louisiana,22079,Rapides,31.0881,-92.3999,1186,1186,430,polygon,TRUE,America/Chicago,71346
+Hammond-LA,1840013908,Hammond,Hammond,LA,Hammond-LA,Louisiana,22105,Tangipahoa,30.5059,-90.4561,69616,20609,567,polygon,TRUE,America/Chicago,70402 70403 70401 70404
+Bayou Chicot-LA,1840031025,Bayou Chicot,Bayou Chicot,LA,Bayou Chicot-LA,Louisiana,22039,Evangeline,30.8171,-92.351,,,28.4,point,FALSE,America/Chicago,70586
+Union-LA,1840025131,Union,Union,LA,Union-LA,Louisiana,22093,St. James,30.0917,-90.8844,,,277.1,polygon,FALSE,America/Chicago,70723
+Springhill-LA,1840015771,Springhill,Springhill,LA,Springhill-LA,Louisiana,22119,Webster,33.0019,-93.4613,5759,5048,313,polygon,TRUE,America/Chicago,71075
+Erath-LA,1840017211,Erath,Erath,LA,Erath-LA,Louisiana,22113,Vermilion,29.9587,-92.0371,2109,2109,463,polygon,TRUE,America/Chicago,70533
+Anandale-LA,1840030900,Anandale,Anandale,LA,Anandale-LA,Louisiana,22079,Rapides,31.2552,-92.454,,,878.7,point,FALSE,America/Chicago,71302
+Schriever-LA,1840014033,Schriever,Schriever,LA,Schriever-LA,Louisiana,22109,Terrebonne,29.7334,-90.831,,,134.2,polygon,FALSE,America/Chicago,70301 70395
+Shell Beach-LA,1840031137,Shell Beach,Shell Beach,LA,Shell Beach-LA,Louisiana,22087,St. Bernard,29.8533,-89.6795,,,30.4,point,FALSE,America/Chicago,70085
+Alden Bridge-LA,1840030818,Alden Bridge,Alden Bridge,LA,Alden Bridge-LA,Louisiana,22015,Bossier,32.7751,-93.7202,,,8.9,point,FALSE,America/Chicago,71006
+Independence-LA,1840017153,Independence,Independence,LA,Independence-LA,Louisiana,22105,Tangipahoa,30.6361,-90.5056,1888,1888,302,polygon,TRUE,America/Chicago,70443
+Henderson-LA,1840015925,Henderson,Henderson,LA,Henderson-LA,Louisiana,22099,St. Martin,30.3163,-91.7995,1750,1750,366,polygon,TRUE,America/Chicago,70517
+Ridgecrest-LA,1840018169,Ridgecrest,Ridgecrest,LA,Ridgecrest-LA,Louisiana,22029,Concordia,31.6018,-91.5305,656,656,589,polygon,TRUE,America/Chicago,71334
+Terrytown-LA,1840013990,Terrytown,Terrytown,LA,Terrytown-LA,Louisiana,22051,Jefferson,29.9016,-90.028,,,2343,polygon,FALSE,America/Chicago,70056
+North Highlands-LA,1840030964,North Highlands,North Highlands,LA,North Highlands-LA,Louisiana,22017,Caddo,32.5693,-93.7899,,,726.9,point,FALSE,America/Chicago,71107
+Dunn-LA,1840030917,Dunn,Dunn,LA,Dunn-LA,Louisiana,22083,Richland,32.4643,-91.5785,,,35.7,point,FALSE,America/Chicago,71232
+Gramercy-LA,1840017209,Gramercy,Gramercy,LA,Gramercy-LA,Louisiana,22093,St. James,30.061,-90.6929,14584,3449,656,polygon,TRUE,America/Chicago,70052
+Pearl River-LA,1840017182,Pearl River,Pearl River,LA,Pearl River-LA,Louisiana,22103,St. Tammany,30.3687,-89.7495,2552,2552,267,polygon,TRUE,America/Chicago,70452
+Fred-LA,1840030925,Fred,Fred,LA,Fred-LA,Louisiana,22033,East Baton Rouge,30.6488,-91.1054,,,108.3,point,FALSE,America/Chicago,70791
+Lillie-LA,1840018071,Lillie,Lillie,LA,Lillie-LA,Louisiana,22111,Union,32.9221,-92.6614,115,115,23,polygon,TRUE,America/Chicago,71256
+Arlington-LA,1840031022,Arlington,Arlington,LA,Arlington-LA,Louisiana,22033,East Baton Rouge,30.3882,-91.1718,,,3289.1,point,FALSE,America/Chicago,70820
+Grambling-LA,1840013807,Grambling,Grambling,LA,Grambling-LA,Louisiana,22061,Lincoln,32.5276,-92.7124,5217,5217,343,polygon,TRUE,America/Chicago,71245 71270
+Fisher-LA,1840018158,Fisher,Fisher,LA,Fisher-LA,Louisiana,22085,Sabine,31.4934,-93.4597,223,223,139,polygon,TRUE,America/Chicago,71426
+Gillis-LA,1840026020,Gillis,Gillis,LA,Gillis-LA,Louisiana,22019,Calcasieu,30.3769,-93.1999,,,182.6,polygon,FALSE,America/Chicago,70611
+Saint Rose-LA,1840013973,Saint Rose,Saint Rose,LA,Saint Rose-LA,Louisiana,22089,St. Charles,29.9649,-90.3088,,,1647.3,polygon,FALSE,America/Chicago,70087
+Homer-LA,1840016937,Homer,Homer,LA,Homer-LA,Louisiana,22027,Claiborne,32.793,-93.0582,2777,2964,245,polygon,TRUE,America/Chicago,71040
+Happy Jack-LA,1840031103,Happy Jack,Happy Jack,LA,Happy Jack-LA,Louisiana,22075,Plaquemines,29.5219,-89.7337,,,141.8,point,FALSE,America/Chicago,70083
+Dubach-LA,1840016967,Dubach,Dubach,LA,Dubach-LA,Louisiana,22061,Lincoln,32.702,-92.6575,966,966,205,polygon,TRUE,America/Chicago,71235
+Oakville-LA,1840030965,Oakville,Oakville,LA,Oakville-LA,Louisiana,22075,Plaquemines,29.783,-90.0265,,,87.4,point,FALSE,America/Chicago,70037
+Stella-LA,1840030867,Stella,Stella,LA,Stella-LA,Louisiana,22075,Plaquemines,29.8194,-89.9959,,,14.6,point,FALSE,America/Chicago,70040
+Antrim-LA,1840030821,Antrim,Antrim,LA,Antrim-LA,Louisiana,22015,Bossier,32.8774,-93.7052,,,4.6,point,FALSE,America/Chicago,71064
+Abita Springs-LA,1840015910,Abita Springs,Abita Springs,LA,Abita Springs-LA,Louisiana,22103,St. Tammany,30.4765,-90.0293,2529,2529,217,polygon,TRUE,America/Chicago,70420
+Saint Benedict-LA,1840031134,Saint Benedict,Saint Benedict,LA,Saint Benedict-LA,Louisiana,22103,St. Tammany,30.5269,-90.1126,,,173.6,point,FALSE,America/Chicago,70435
+Oak Grove-LA,1840016944,Oak Grove,Oak Grove,LA,Oak Grove-LA,Louisiana,22123,West Carroll,32.8619,-91.3911,1634,1634,367,polygon,TRUE,America/Chicago,71263
+Midway-LA,1840013852,Midway,Midway,LA,Midway-LA,Louisiana,22059,La Salle Parish,31.6788,-92.1493,,,172.3,polygon,FALSE,America/Chicago,71342
+Gilliam-LA,1840018056,Gilliam,Gilliam,LA,Gilliam-LA,Louisiana,22017,Caddo,32.829,-93.8433,158,158,30,polygon,TRUE,America/Chicago,71029
+Paulina-LA,1840025128,Paulina,Paulina,LA,Paulina-LA,Louisiana,22093,St. James,30.0351,-90.7226,,,242,polygon,FALSE,America/Chicago,70763
+Westlake-LA,1840015928,Westlake,Westlake,LA,Westlake-LA,Louisiana,22019,Calcasieu,30.2604,-93.2635,4659,4659,493,polygon,TRUE,America/Chicago,70669
+Charenton-LA,1840014018,Charenton,Charenton,LA,Charenton-LA,Louisiana,22101,St. Mary,29.8685,-91.5388,,,538.5,polygon,FALSE,America/Chicago,70544 70514 70523
+Folsom-LA,1840018223,Folsom,Folsom,LA,Folsom-LA,Louisiana,22103,St. Tammany,30.6304,-90.1946,810,810,190,polygon,TRUE,America/Chicago,70437
+Livonia-LA,1840017145,Livonia,Livonia,LA,Livonia-LA,Louisiana,22077,Pointe Coupee,30.5623,-91.5502,3714,1405,286,polygon,TRUE,America/Chicago,70755
+Marion-LA,1840016938,Marion,Marion,LA,Marion-LA,Louisiana,22111,Union,32.8997,-92.2405,754,754,90,polygon,TRUE,America/Chicago,71260
+Darlington-LA,1840031118,Darlington,Darlington,LA,Darlington-LA,Louisiana,22091,St. Helena,30.878,-90.7815,,,18,point,FALSE,America/Chicago,70441
+Allen-LA,1840030819,Allen,Allen,LA,Allen-LA,Louisiana,22069,Natchitoches,31.8354,-93.2885,,,6.2,point,FALSE,America/Chicago,71469
+Bellwood-LA,1840030997,Bellwood,Bellwood,LA,Bellwood-LA,Louisiana,22069,Natchitoches,31.5274,-93.2054,,,3.8,point,FALSE,America/Chicago,71468
+Caspiana-LA,1840030882,Caspiana,Caspiana,LA,Caspiana-LA,Louisiana,22017,Caddo,32.289,-93.5563,,,10.1,point,FALSE,America/Chicago,71115
+Palmetto-LA,1840018222,Palmetto,Palmetto,LA,Palmetto-LA,Louisiana,22097,St. Landry,30.7177,-91.9082,162,162,70,polygon,TRUE,America/Chicago,71358
+Jackson-LA,1840017159,Jackson,Jackson,LA,Jackson-LA,Louisiana,22037,East Feliciana,30.8346,-91.208,3786,3786,327,polygon,TRUE,America/Chicago,70748
+Grant-LA,1840030930,Grant,Grant,LA,Grant-LA,Louisiana,22003,Allen,30.7885,-92.9485,,,28.9,point,FALSE,America/Chicago,70644
+Donner-LA,1840030916,Donner,Donner,LA,Donner-LA,Louisiana,22109,Terrebonne,29.6958,-90.9443,,,61.1,point,FALSE,America/Chicago,70352
+Franklinton-LA,1840017147,Franklinton,Franklinton,LA,Franklinton-LA,Louisiana,22117,Washington,30.8479,-90.1459,3436,3781,334,polygon,TRUE,America/Chicago,70438
+Mermentau-LA,1840018241,Mermentau,Mermentau,LA,Mermentau-LA,Louisiana,22001,Acadia,30.1874,-92.584,651,651,118,polygon,TRUE,America/Chicago,70556 70559
+Point Place-LA,1840031020,Point Place,Point Place,LA,Point Place-LA,Louisiana,22069,Natchitoches,31.6881,-93.0245,,,248.5,polygon,FALSE,America/Chicago,71457
+Davant-LA,1840030874,Davant,Davant,LA,Davant-LA,Louisiana,22075,Plaquemines,29.6085,-89.8484,,,20.6,point,FALSE,America/Chicago,70040
+Talisheek-LA,1840031138,Talisheek,Talisheek,LA,Talisheek-LA,Louisiana,22103,St. Tammany,30.5327,-89.8767,,,80.5,point,FALSE,America/Chicago,70464
+Tickfaw-LA,1840018210,Tickfaw,Tickfaw,LA,Tickfaw-LA,Louisiana,22105,Tangipahoa,30.577,-90.4871,757,757,182,polygon,TRUE,America/Chicago,70466
+Woodside-LA,1840031143,Woodside,Woodside,LA,Woodside-LA,Louisiana,22097,St. Landry,30.8432,-91.8201,,,1.9,point,FALSE,America/Chicago,71353
+Saint Clair-LA,1840030861,Saint Clair,Saint Clair,LA,Saint Clair-LA,Louisiana,22075,Plaquemines,29.8699,-89.969,,,49.8,point,FALSE,America/Chicago,70040
+Iowa-LA,1840017194,Iowa,Iowa,LA,Iowa-LA,Louisiana,22019,Calcasieu,30.2393,-93.0128,3572,3291,396,polygon,TRUE,America/Chicago,70647
+Rayne-LA,1840015042,Rayne,Rayne,LA,Rayne-LA,Louisiana,22001,Acadia,30.2403,-92.2668,9599,8134,827,polygon,TRUE,America/Chicago,70578
+Lisbon-LA,1840018069,Lisbon,Lisbon,LA,Lisbon-LA,Louisiana,22027,Claiborne,32.7893,-92.8672,171,171,5,polygon,TRUE,America/Chicago,71040 71048
+Terry-LA,1840030981,Terry,Terry,LA,Terry-LA,Louisiana,22123,West Carroll,32.9296,-91.3487,,,24,point,FALSE,America/Chicago,71263
+Gurley-LA,1840031055,Gurley,Gurley,LA,Gurley-LA,Louisiana,22037,East Feliciana,30.8693,-91.134,,,26.6,point,FALSE,America/Chicago,70730
+Minden-LA,1840014864,Minden,Minden,LA,Minden-LA,Louisiana,22119,Webster,32.6187,-93.2762,12822,12577,324,polygon,TRUE,America/Chicago,71055 71058
+Bayou Vista-LA,1840014017,Bayou Vista,Bayou Vista,LA,Bayou Vista-LA,Louisiana,22101,St. Mary,29.6912,-91.2672,,,1749.9,polygon,FALSE,America/Chicago,70380
+Kenner-LA,1840015047,Kenner,Kenner,LA,Kenner-LA,Louisiana,22051,Jefferson,30.0109,-90.2549,67089,67089,1742,polygon,TRUE,America/Chicago,70065 70062 70063 70064 70097
+Central-LA,1840023139,Central,Central,LA,Central-LA,Louisiana,22033,East Baton Rouge,30.5593,-91.0369,28529,28529,176,polygon,TRUE,America/Chicago,70770 70791 70714 70739 70819 70818
+Acme-LA,1840030876,Acme,Acme,LA,Acme-LA,Louisiana,22029,Concordia,31.2857,-91.8204,,,2,point,FALSE,America/Chicago,71354
+Belle Chasse-LA,1840014028,Belle Chasse,Belle Chasse,LA,Belle Chasse-LA,Louisiana,22075,Plaquemines,29.8472,-90.0069,,,887,polygon,FALSE,America/Chicago,70037 70093
+Saint Martinville-LA,1840015924,Saint Martinville,Saint Martinville,LA,Saint Martinville-LA,Louisiana,22099,St. Martin,30.1264,-91.8319,7197,6095,762,polygon,TRUE,America/Chicago,70582
+Stonewall-LA,1840017014,Stonewall,Stonewall,LA,Stonewall-LA,Louisiana,22031,De Soto,32.2716,-93.8099,2188,2188,99,polygon,TRUE,America/Chicago,71078
+Archibald-LA,1840030822,Archibald,Archibald,LA,Archibald-LA,Louisiana,22083,Richland,32.349,-91.7773,,,35.4,point,FALSE,America/Chicago,71269
+Couchwood-LA,1840030913,Couchwood,Couchwood,LA,Couchwood-LA,Louisiana,22119,Webster,32.7588,-93.391,,,3.3,point,FALSE,America/Chicago,71018
+Kisatchie-LA,1840031062,Kisatchie,Kisatchie,LA,Kisatchie-LA,Louisiana,22069,Natchitoches,31.4157,-93.1743,,,4.4,point,FALSE,America/Chicago,71468
+Lawtell-LA,1840026001,Lawtell,Lawtell,LA,Lawtell-LA,Louisiana,22097,St. Landry,30.5127,-92.1832,,,198.2,polygon,FALSE,America/Chicago,70570 70550
+Presquille-LA,1840025141,Presquille,Presquille,LA,Presquille-LA,Louisiana,22109,Terrebonne,29.5586,-90.6385,,,427.9,polygon,FALSE,America/Chicago,70343 70363
+Meeker-LA,1840030953,Meeker,Meeker,LA,Meeker-LA,Louisiana,22079,Rapides,31.0566,-92.3807,,,4.1,point,FALSE,America/Chicago,71346
+Cecilia-LA,1840013959,Cecilia,Cecilia,LA,Cecilia-LA,Louisiana,22099,St. Martin,30.3368,-91.8476,,,338.3,polygon,FALSE,America/Chicago,70512 70517 70521
+Hathaway-LA,1840030845,Hathaway,Hathaway,LA,Hathaway-LA,Louisiana,22053,Jefferson Davis,30.3496,-92.6715,,,22.5,point,FALSE,America/Chicago,70546
+Sorrento-LA,1840018244,Sorrento,Sorrento,LA,Sorrento-LA,Louisiana,22005,Ascension,30.1828,-90.8674,1615,1615,171,polygon,TRUE,America/Chicago,70778
+Port Vincent-LA,1840018230,Port Vincent,Port Vincent,LA,Port Vincent-LA,Louisiana,22063,Livingston,30.3384,-90.8423,768,768,174,polygon,TRUE,America/Chicago,70726
+DeQuincy-LA,1840015038,DeQuincy,DeQuincy,LA,DeQuincy-LA,Louisiana,22019,Calcasieu,30.449,-93.4455,4887,3152,382,polygon,TRUE,America/Chicago,70633
+Basile-LA,1840015895,Basile,Basile,LA,Basile-LA,Louisiana,22039,Evangeline,30.4855,-92.601,1812,1812,602,polygon,TRUE,America/Chicago,70515
+Logansport-LA,1840017013,Logansport,Logansport,LA,Logansport-LA,Louisiana,22031,De Soto,31.9755,-93.9934,1565,1565,184,polygon,TRUE,America/Chicago,71049
+Luling-LA,1840013980,Luling,Luling,LA,Luling-LA,Louisiana,22089,St. Charles,29.9008,-90.3524,,,698.9,polygon,FALSE,America/Chicago,70070
+Avery Island-LA,1840031023,Avery Island,Avery Island,LA,Avery Island-LA,Louisiana,22045,Iberia,29.9035,-91.9104,,,16.4,point,FALSE,America/Chicago,70513
+Marksville-LA,1840015878,Marksville,Marksville,LA,Marksville-LA,Louisiana,22009,Avoyelles,31.1245,-92.0652,7273,5518,441,polygon,TRUE,America/Chicago,71351 71350
+Lake End-LA,1840030850,Lake End,Lake End,LA,Lake End-LA,Louisiana,22081,Red River,31.9216,-93.3049,,,4.5,point,FALSE,America/Chicago,71019
+Montz-LA,1840013981,Montz,Montz,LA,Montz-LA,Louisiana,22089,St. Charles,30.0168,-90.4634,,,3.3,polygon,FALSE,America/Chicago,70068
+Modeste-LA,1840030956,Modeste,Modeste,LA,Modeste-LA,Louisiana,22005,Ascension,30.171,-91.0148,,,27.4,point,FALSE,America/Chicago,70346
+Madisonville-LA,1840017181,Madisonville,Madisonville,LA,Madisonville-LA,Louisiana,22103,St. Tammany,30.4006,-90.1656,835,835,129,polygon,TRUE,America/Chicago,70447
+Rayville-LA,1840018088,Rayville,Rayville,LA,Rayville-LA,Louisiana,22083,Richland,32.4707,-91.7576,4196,3634,607,polygon,TRUE,America/Chicago,71269
+Brownlee-LA,1840030827,Brownlee,Brownlee,LA,Brownlee-LA,Louisiana,22015,Bossier,32.5757,-93.7266,,,335.1,point,FALSE,America/Chicago,71111
+Eunice-LA,1840013927,Eunice,Eunice,LA,Eunice-LA,Louisiana,22097,St. Landry,30.4904,-92.4191,11803,10279,772,polygon,TRUE,America/Chicago,70535
+Nebo-LA,1840030960,Nebo,Nebo,LA,Nebo-LA,Louisiana,22059,La Salle Parish,31.5888,-92.1418,,,8.1,point,FALSE,America/Chicago,71342
+Fairbanks-LA,1840030837,Fairbanks,Fairbanks,LA,Fairbanks-LA,Louisiana,22073,Ouachita,32.6443,-92.0365,,,103.6,point,FALSE,America/Chicago,71203
+Bogalusa-LA,1840013905,Bogalusa,Bogalusa,LA,Bogalusa-LA,Louisiana,22117,Washington,30.7812,-89.8633,11894,11913,483,polygon,TRUE,America/Chicago,70427 70429
+Dry Creek-LA,1840031038,Dry Creek,Dry Creek,LA,Dry Creek-LA,Louisiana,22011,Beauregard,30.6691,-93.0454,,,8.5,point,FALSE,America/Chicago,70637
+Fordoche-LA,1840017146,Fordoche,Fordoche,LA,Fordoche-LA,Louisiana,22077,Pointe Coupee,30.594,-91.6179,902,902,143,polygon,TRUE,America/Chicago,70732
+Forest-LA,1840018078,Forest,Forest,LA,Forest-LA,Louisiana,22123,West Carroll,32.7924,-91.4125,336,336,77,polygon,TRUE,America/Chicago,71263 71242
+Temple-LA,1840031015,Temple,Temple,LA,Temple-LA,Louisiana,22115,Vernon,31.2782,-92.9554,,,8.3,point,FALSE,America/Chicago,71446
+Goosport-LA,1840030842,Goosport,Goosport,LA,Goosport-LA,Louisiana,22019,Calcasieu,30.2569,-93.1804,,,706.2,point,FALSE,America/Chicago,70615
+Clarence-LA,1840018139,Clarence,Clarence,LA,Clarence-LA,Louisiana,22069,Natchitoches,31.8198,-93.029,489,489,120,polygon,TRUE,America/Chicago,71457 71414
+Cottonport-LA,1840017120,Cottonport,Cottonport,LA,Cottonport-LA,Louisiana,22009,Avoyelles,30.9892,-92.0509,3536,1954,376,polygon,TRUE,America/Chicago,71327
+Labadieville-LA,1840014010,Labadieville,Labadieville,LA,Labadieville-LA,Louisiana,22007,Assumption,29.8247,-90.9525,,,726.7,polygon,FALSE,America/Chicago,70301 70372
+Liddieville-LA,1840030946,Liddieville,Liddieville,LA,Liddieville-LA,Louisiana,22041,Franklin,32.1357,-91.8457,,,45,point,FALSE,America/Chicago,71295
+Lee Bayou-LA,1840030945,Lee Bayou,Lee Bayou,LA,Lee Bayou-LA,Louisiana,22025,Catahoula,31.7632,-91.5604,,,4.7,point,FALSE,America/Chicago,71326
+Heflin-LA,1840018065,Heflin,Heflin,LA,Heflin-LA,Louisiana,22119,Webster,32.4565,-93.2683,230,230,46,polygon,TRUE,America/Chicago,71039
+Cotton Valley-LA,1840016935,Cotton Valley,Cotton Valley,LA,Cotton Valley-LA,Louisiana,22119,Webster,32.8135,-93.4228,965,965,141,polygon,TRUE,America/Chicago,71018
+Thibodaux-LA,1840015946,Thibodaux,Thibodaux,LA,Thibodaux-LA,Louisiana,22057,Lafourche,29.7942,-90.8164,14610,14610,935,polygon,TRUE,America/Chicago,70301 70302 70310
+Hessmer-LA,1840018189,Hessmer,Hessmer,LA,Hessmer-LA,Louisiana,22009,Avoyelles,31.0534,-92.1214,781,781,364,polygon,TRUE,America/Chicago,71341 71350
+Claiborne-LA,1840013811,Claiborne,Claiborne,LA,Claiborne-LA,Louisiana,22073,Ouachita,32.5379,-92.198,,,356.9,polygon,FALSE,America/Chicago,71291
+Benson-LA,1840030905,Benson,Benson,LA,Benson-LA,Louisiana,22031,De Soto,31.8663,-93.6938,,,16.3,point,FALSE,America/Chicago,71419
+Flora-LA,1840031004,Flora,Flora,LA,Flora-LA,Louisiana,22069,Natchitoches,31.6124,-93.0977,,,12.7,point,FALSE,America/Chicago,71469
+Princeton-LA,1840030859,Princeton,Princeton,LA,Princeton-LA,Louisiana,22015,Bossier,32.5893,-93.5152,,,29.2,point,FALSE,America/Chicago,71067
+Vick-LA,1840030984,Vick,Vick,LA,Vick-LA,Louisiana,22009,Avoyelles,31.2302,-92.1057,,,6,point,FALSE,America/Chicago,71331
+Amite-LA,1840031145,Amite,Amite,LA,Amite-LA,Louisiana,22105,Tangipahoa,30.7266,-90.509,,,494.3,point,TRUE,America/Chicago,70422
+Boyce-LA,1840015869,Boyce,Boyce,LA,Boyce-LA,Louisiana,22079,Rapides,31.3905,-92.6699,1008,1008,846,polygon,TRUE,America/Chicago,71409
+Fluker-LA,1840031046,Fluker,Fluker,LA,Fluker-LA,Louisiana,22105,Tangipahoa,30.8216,-90.5109,,,34,point,FALSE,America/Chicago,70436
+Ethel-LA,1840030834,Ethel,Ethel,LA,Ethel-LA,Louisiana,22037,East Feliciana,30.7913,-91.1307,,,29.3,point,FALSE,America/Chicago,70748
+Dubberly-LA,1840018064,Dubberly,Dubberly,LA,Dubberly-LA,Louisiana,22119,Webster,32.5413,-93.2373,261,261,25,polygon,TRUE,America/Chicago,71024
+Duson-LA,1840017201,Duson,Duson,LA,Duson-LA,Louisiana,22055,Lafayette,30.2361,-92.1922,1754,1754,217,polygon,TRUE,America/Chicago,70529
+Ringgold-LA,1840018094,Ringgold,Ringgold,LA,Ringgold-LA,Louisiana,22013,Bienville,32.3261,-93.2837,1441,1441,240,polygon,TRUE,America/Chicago,71068
+Napoleonville-LA,1840018259,Napoleonville,Napoleonville,LA,Napoleonville-LA,Louisiana,22007,Assumption,29.9384,-91.0263,633,633,1450,polygon,TRUE,America/Chicago,70390
+Church Point-LA,1840017200,Church Point,Church Point,LA,Church Point-LA,Louisiana,22001,Acadia,30.4037,-92.2145,4523,4495,599,polygon,TRUE,America/Chicago,70525
+Dixie Inn-LA,1840018062,Dixie Inn,Dixie Inn,LA,Dixie Inn-LA,Louisiana,22119,Webster,32.597,-93.3313,261,261,213,polygon,TRUE,America/Chicago,71055
+Downsville-LA,1840018070,Downsville,Downsville,LA,Downsville-LA,Louisiana,22111,Union,32.6264,-92.4129,138,138,71,polygon,TRUE,America/Chicago,71234
+Bolinger-LA,1840030906,Bolinger,Bolinger,LA,Bolinger-LA,Louisiana,22015,Bossier,32.9443,-93.6977,,,10.6,point,FALSE,America/Chicago,71064
+French Settlement-LA,1840018228,French Settlement,French Settlement,LA,French Settlement-LA,Louisiana,22063,Livingston,30.3159,-90.8033,1192,1192,168,polygon,TRUE,America/Chicago,70733
+Saint Joseph-LA,1840018126,Saint Joseph,Saint Joseph,LA,Saint Joseph-LA,Louisiana,22107,Tensas,31.9202,-91.2401,1029,1029,446,polygon,TRUE,America/Chicago,71366
+Choctaw-LA,1840031100,Choctaw,Choctaw,LA,Choctaw-LA,Louisiana,22057,Lafourche,29.8457,-90.7233,,,183.1,polygon,FALSE,America/Chicago,70301
+Killian-LA,1840018229,Killian,Killian,LA,Killian-LA,Louisiana,22063,Livingston,30.353,-90.5795,1326,1326,47,polygon,TRUE,America/Chicago,70462
+Angie-LA,1840018202,Angie,Angie,LA,Angie-LA,Louisiana,22117,Washington,30.9633,-89.8177,242,242,61,polygon,TRUE,America/Chicago,70426 70467
+Hopedale-LA,1840031123,Hopedale,Hopedale,LA,Hopedale-LA,Louisiana,22087,St. Bernard,29.8205,-89.6567,,,2.3,point,FALSE,America/Chicago,70085
+Eros-LA,1840017003,Eros,Eros,LA,Eros-LA,Louisiana,22049,Jackson,32.3926,-92.4239,148,148,57,polygon,TRUE,America/Chicago,71238
+Venice-LA,1840025139,Venice,Venice,LA,Venice-LA,Louisiana,22075,Plaquemines,29.2875,-89.3637,,,127.2,polygon,FALSE,America/Chicago,70091
+Elba-LA,1840031119,Elba,Elba,LA,Elba-LA,Louisiana,22097,St. Landry,30.7555,-91.764,,,3,point,FALSE,America/Chicago,71353
+Reserve-LA,1840013969,Reserve,Reserve,LA,Reserve-LA,Louisiana,22095,St. John the Baptist,30.0741,-90.5557,,,1018.3,polygon,FALSE,America/Chicago,70068 70084
+Theriot-LA,1840031091,Theriot,Theriot,LA,Theriot-LA,Louisiana,22109,Terrebonne,29.4613,-90.7515,,,66.2,point,FALSE,America/Chicago,70397
+Prairieville-LA,1840026029,Prairieville,Prairieville,LA,Prairieville-LA,Louisiana,22005,Ascension,30.3151,-90.9571,,,398.3,polygon,FALSE,America/Chicago,70769 70728
+Wardville-LA,1840030995,Wardville,Wardville,LA,Wardville-LA,Louisiana,22067,Morehouse,32.8749,-91.9051,,,33.6,point,FALSE,America/Chicago,71220
+Athens-LA,1840018067,Athens,Athens,LA,Athens-LA,Louisiana,22027,Claiborne,32.6513,-93.0254,231,231,39,polygon,TRUE,America/Chicago,71003
+Carlyss-LA,1840013961,Carlyss,Carlyss,LA,Carlyss-LA,Louisiana,22019,Calcasieu,30.1779,-93.3704,,,273.6,polygon,FALSE,America/Chicago,70665
+Plaucheville-LA,1840018191,Plaucheville,Plaucheville,LA,Plaucheville-LA,Louisiana,22009,Avoyelles,30.9647,-91.9837,239,239,60,polygon,TRUE,America/Chicago,71362
+Otis-LA,1840031012,Otis,Otis,LA,Otis-LA,Louisiana,22079,Rapides,31.2155,-92.7279,,,60.6,point,FALSE,America/Chicago,71466
+Southdown-LA,1840030979,Southdown,Southdown,LA,Southdown-LA,Louisiana,22109,Terrebonne,29.5869,-90.739,,,743.1,point,FALSE,America/Chicago,70360
+Moss Bluff-LA,1840013962,Moss Bluff,Moss Bluff,LA,Moss Bluff-LA,Louisiana,22019,Calcasieu,30.3039,-93.2051,,,271.3,polygon,FALSE,America/Chicago,70611
+North Vacherie-LA,1840031151,North Vacherie,North Vacherie,LA,North Vacherie-LA,Louisiana,22093,St. James,30.0047,-90.711,,,0,polygon,FALSE,America/Chicago,70090
+Bains-LA,1840030823,Bains,Bains,LA,Bains-LA,Louisiana,22125,West Feliciana,30.8307,-91.3868,,,46.3,point,FALSE,America/Chicago,70775
+Plaquemine-LA,1840015037,Plaquemine,Plaquemine,LA,Plaquemine-LA,Louisiana,22047,Iberville,30.2834,-91.2429,6780,6780,896,polygon,TRUE,America/Chicago,70764 70765
+Iota-LA,1840017199,Iota,Iota,LA,Iota-LA,Louisiana,22001,Acadia,30.326,-92.4956,1473,1473,447,polygon,TRUE,America/Chicago,70543
+Georgetown-LA,1840018166,Georgetown,Georgetown,LA,Georgetown-LA,Louisiana,22043,Grant,31.7597,-92.3821,326,326,96,polygon,TRUE,America/Chicago,71432
+Sorrel-LA,1840026035,Sorrel,Sorrel,LA,Sorrel-LA,Louisiana,22101,St. Mary,29.8879,-91.6226,,,196.3,polygon,FALSE,America/Chicago,70544
+Jefferson Island-LA,1840030936,Jefferson Island,Jefferson Island,LA,Jefferson Island-LA,Louisiana,22045,Iberia,29.9727,-91.9757,,,5.7,point,FALSE,America/Chicago,70560
+Mangham-LA,1840016976,Mangham,Mangham,LA,Mangham-LA,Louisiana,22083,Richland,32.309,-91.7795,645,645,232,polygon,TRUE,America/Chicago,71259
+Ville Platte-LA,1840015896,Ville Platte,Ville Platte,LA,Ville Platte-LA,Louisiana,22039,Evangeline,30.6901,-92.2745,9126,7270,698,polygon,TRUE,America/Chicago,70586
+Toca-LA,1840031139,Toca,Toca,LA,Toca-LA,Louisiana,22087,St. Bernard,29.8666,-89.8365,,,34.7,point,FALSE,America/Chicago,70085
+Barataria-LA,1840013988,Barataria,Barataria,LA,Barataria-LA,Louisiana,22051,Jefferson,29.7092,-90.1217,,,246.2,polygon,FALSE,America/Chicago,70036
+Grand Lake-LA,1840031053,Grand Lake,Grand Lake,LA,Grand Lake-LA,Louisiana,22023,Cameron,30.0308,-93.2721,,,10.7,point,FALSE,America/Chicago,70607
+Garden City-LA,1840031121,Garden City,Garden City,LA,Garden City-LA,Louisiana,22101,St. Mary,29.7655,-91.4657,,,74.5,point,FALSE,America/Chicago,70538
+Wisner-LA,1840017010,Wisner,Wisner,LA,Wisner-LA,Louisiana,22041,Franklin,31.9804,-91.6551,926,926,449,polygon,TRUE,America/Chicago,71378
+Amelia-LA,1840014016,Amelia,Amelia,LA,Amelia-LA,Louisiana,22101,St. Mary,29.6646,-91.1072,,,387.5,polygon,FALSE,America/Chicago,70380 70340
+Provencal-LA,1840018143,Provencal,Provencal,LA,Provencal-LA,Louisiana,22069,Natchitoches,31.6547,-93.1999,610,610,95,polygon,TRUE,America/Chicago,71468 71469
+Goudeau-LA,1840031051,Goudeau,Goudeau,LA,Goudeau-LA,Louisiana,22009,Avoyelles,30.8719,-92.0143,,,22.6,point,FALSE,America/Chicago,71333
+DeRidder-LA,1840015013,DeRidder,DeRidder,LA,DeRidder-LA,Louisiana,22011,Beauregard,30.8467,-93.2931,13934,11048,462,polygon,TRUE,America/Chicago,70634
+Hicks-LA,1840030846,Hicks,Hicks,LA,Hicks-LA,Louisiana,22115,Vernon,31.1849,-93.016,,,16.8,point,FALSE,America/Chicago,71446
+Violet-LA,1840014002,Violet,Violet,LA,Violet-LA,Louisiana,22087,St. Bernard,29.8962,-89.892,,,219.2,polygon,FALSE,America/Chicago,70092
+Wakefield-LA,1840031095,Wakefield,Wakefield,LA,Wakefield-LA,Louisiana,22125,West Feliciana,30.8893,-91.3501,,,73,point,FALSE,America/Chicago,70775
+Lockport-LA,1840017216,Lockport,Lockport,LA,Lockport-LA,Louisiana,22057,Lafourche,29.6418,-90.5376,2504,2504,1516,polygon,TRUE,America/Chicago,70374
+Ashland-LA,1840018138,Ashland,Ashland,LA,Ashland-LA,Louisiana,22069,Natchitoches,32.1164,-93.1171,264,264,3,polygon,TRUE,America/Chicago,71070 71002
+New Llano-LA,1840017111,New Llano,New Llano,LA,New Llano-LA,Louisiana,22115,Vernon,31.0975,-93.2768,2447,2447,359,polygon,TRUE,America/Chicago,71446 71461
+Mitchell-LA,1840030856,Mitchell,Mitchell,LA,Mitchell-LA,Louisiana,22085,Sabine,31.791,-93.628,,,11.2,point,FALSE,America/Chicago,71419
+Bastrop-LA,1840013793,Bastrop,Bastrop,LA,Bastrop-LA,Louisiana,22067,Morehouse,32.7749,-91.9058,13010,10578,459,polygon,TRUE,America/Chicago,71220 71221
+Carmel-LA,1840031032,Carmel,Carmel,LA,Carmel-LA,Louisiana,22031,De Soto,32.0874,-93.6207,,,20.3,point,FALSE,America/Chicago,71052
+Pelican-LA,1840030857,Pelican,Pelican,LA,Pelican-LA,Louisiana,22031,De Soto,31.8824,-93.586,,,50.7,point,FALSE,America/Chicago,71063
+Coteau Holmes-LA,1840031117,Coteau Holmes,Coteau Holmes,LA,Coteau Holmes-LA,Louisiana,22099,St. Martin,30.1299,-91.7262,,,12.2,point,FALSE,America/Chicago,70582
+Evelyn-LA,1840031043,Evelyn,Evelyn,LA,Evelyn-LA,Louisiana,22031,De Soto,31.9879,-93.4432,,,7.1,point,FALSE,America/Chicago,71052
+Caplis-LA,1840030880,Caplis,Caplis,LA,Caplis-LA,Louisiana,22015,Bossier,32.3971,-93.6096,,,15.3,point,FALSE,America/Chicago,71112
+Alton-LA,1840031112,Alton,Alton,LA,Alton-LA,Louisiana,22103,St. Tammany,30.3307,-89.762,,,396.2,point,FALSE,America/Chicago,70452
+Perkins-LA,1840030966,Perkins,Perkins,LA,Perkins-LA,Louisiana,22019,Calcasieu,30.3933,-93.4118,,,16.4,point,FALSE,America/Chicago,70633
+Hornbeck-LA,1840017110,Hornbeck,Hornbeck,LA,Hornbeck-LA,Louisiana,22115,Vernon,31.3265,-93.396,463,463,155,polygon,TRUE,America/Chicago,71439
+Vacherie-LA,1840031140,Vacherie,Vacherie,LA,Vacherie-LA,Louisiana,22093,St. James,30.011,-90.7195,,,463.4,point,FALSE,America/Chicago,70090
+Roanoke-LA,1840026024,Roanoke,Roanoke,LA,Roanoke-LA,Louisiana,22053,Jefferson Davis,30.2355,-92.7481,,,366.4,polygon,FALSE,America/Chicago,70581
+Albany-LA,1840018227,Albany,Albany,LA,Albany-LA,Louisiana,22063,Livingston,30.5026,-90.5848,1114,1114,383,polygon,TRUE,America/Chicago,70711
+Meraux-LA,1840014003,Meraux,Meraux,LA,Meraux-LA,Louisiana,22087,St. Bernard,29.9284,-89.918,,,387,polygon,FALSE,America/Chicago,70075 70092
+Convent-LA,1840025126,Convent,Convent,LA,Convent-LA,Louisiana,22093,St. James,30.0132,-90.8232,,,177.7,polygon,FALSE,America/Chicago,70723
+Mansfield-LA,1840015821,Mansfield,Mansfield,LA,Mansfield-LA,Louisiana,22031,De Soto,32.0355,-93.7004,5954,4913,519,polygon,TRUE,America/Chicago,71052
+Spearsville-LA,1840018072,Spearsville,Spearsville,LA,Spearsville-LA,Louisiana,22111,Union,32.9339,-92.6022,134,134,25,polygon,TRUE,America/Chicago,71277
+Winnsboro-LA,1840015814,Winnsboro,Winnsboro,LA,Winnsboro-LA,Louisiana,22041,Franklin,32.1651,-91.721,5166,4732,457,polygon,TRUE,America/Chicago,71295
+Chalmette-LA,1840014001,Chalmette,Chalmette,LA,Chalmette-LA,Louisiana,22087,St. Bernard,29.9438,-89.9657,,,940.6,polygon,FALSE,America/Chicago,70043 70044
+Willow Glen-LA,1840031017,Willow Glen,Willow Glen,LA,Willow Glen-LA,Louisiana,22079,Rapides,31.2466,-92.4324,,,323.4,point,FALSE,America/Chicago,71302
+Branch-LA,1840026025,Branch,Branch,LA,Branch-LA,Louisiana,22001,Acadia,30.348,-92.2771,,,113.1,polygon,FALSE,America/Chicago,70516
+Deville-LA,1840013103,Deville,Deville,LA,Deville-LA,Louisiana,22079,Rapides,31.3398,-92.1389,,,73.9,polygon,FALSE,America/Chicago,71328
+Shelburn-LA,1840030975,Shelburn,Shelburn,LA,Shelburn-LA,Louisiana,22035,East Carroll,32.8843,-91.2257,,,15.7,point,FALSE,America/Chicago,71254
+Cut Off-LA,1840013113,Cut Off,Cut Off,LA,Cut Off-LA,Louisiana,22057,Lafourche,29.5164,-90.3291,,,201.5,polygon,FALSE,America/Chicago,70345
+Vivian-LA,1840016932,Vivian,Vivian,LA,Vivian-LA,Louisiana,22017,Caddo,32.8713,-93.9863,2910,3585,251,polygon,TRUE,America/Chicago,71082
+Seymourville-LA,1840030974,Seymourville,Seymourville,LA,Seymourville-LA,Louisiana,22047,Iberville,30.2774,-91.2237,,,892.3,point,FALSE,America/Chicago,70764
+Chestnut-LA,1840031000,Chestnut,Chestnut,LA,Chestnut-LA,Louisiana,22069,Natchitoches,32.0568,-93.0163,,,2.1,point,FALSE,America/Chicago,71070
+Richwood-LA,1840018087,Richwood,Richwood,LA,Richwood-LA,Louisiana,22073,Ouachita,32.4486,-92.0774,3446,3446,528,polygon,TRUE,America/Chicago,71202
+Lamourie-LA,1840031018,Lamourie,Lamourie,LA,Lamourie-LA,Louisiana,22079,Rapides,31.1319,-92.4118,,,14.3,point,FALSE,America/Chicago,71346
+Simmesport-LA,1840018188,Simmesport,Simmesport,LA,Simmesport-LA,Louisiana,22009,Avoyelles,30.9805,-91.8143,2120,2120,374,polygon,TRUE,America/Chicago,71369
+Coushatta-LA,1840017029,Coushatta,Coushatta,LA,Coushatta-LA,Louisiana,22081,Red River,32.0256,-93.3406,1841,1841,212,polygon,TRUE,America/Chicago,71019
+Verda-LA,1840031094,Verda,Verda,LA,Verda-LA,Louisiana,22043,Grant,31.6999,-92.7729,,,34.5,point,FALSE,America/Chicago,71404
+Sondheimer-LA,1840030865,Sondheimer,Sondheimer,LA,Sondheimer-LA,Louisiana,22035,East Carroll,32.5501,-91.1759,,,15.7,point,FALSE,America/Chicago,71276
+Harmon-LA,1840030931,Harmon,Harmon,LA,Harmon-LA,Louisiana,22081,Red River,32.066,-93.4305,,,2.2,point,FALSE,America/Chicago,71019
+Alto-LA,1840030820,Alto,Alto,LA,Alto-LA,Louisiana,22083,Richland,32.3576,-91.8599,,,6.1,point,FALSE,America/Chicago,71269
+Woodmere-LA,1840031148,Woodmere,Woodmere,LA,Woodmere-LA,Louisiana,22051,Jefferson,29.8493,-90.0751,,,3074.7,polygon,FALSE,America/Chicago,70058
+Mamou-LA,1840017148,Mamou,Mamou,LA,Mamou-LA,Louisiana,22039,Evangeline,30.6349,-92.4179,3828,3187,876,polygon,TRUE,America/Chicago,70554
+Grand Chenier-LA,1840031052,Grand Chenier,Grand Chenier,LA,Grand Chenier-LA,Louisiana,22023,Cameron,29.7669,-92.9751,,,38.9,point,FALSE,America/Chicago,70643
+Fullerton-LA,1840031049,Fullerton,Fullerton,LA,Fullerton-LA,Louisiana,22115,Vernon,30.9932,-92.9821,,,7.1,point,FALSE,America/Chicago,70656
+Sicard-LA,1840030864,Sicard,Sicard,LA,Sicard-LA,Louisiana,22073,Ouachita,32.5265,-92.0415,,,683.4,point,FALSE,America/Chicago,71203
+Tannehill-LA,1840031014,Tannehill,Tannehill,LA,Tannehill-LA,Louisiana,22127,Winn,31.9979,-92.6551,,,16.6,point,FALSE,America/Chicago,71483
+Moreauville-LA,1840018190,Moreauville,Moreauville,LA,Moreauville-LA,Louisiana,22009,Avoyelles,31.0342,-91.9818,906,906,115,polygon,TRUE,America/Chicago,71355
+Smoke Bend-LA,1840031086,Smoke Bend,Smoke Bend,LA,Smoke Bend-LA,Louisiana,22005,Ascension,30.1085,-91.0204,,,170.5,point,FALSE,America/Chicago,70346
+Prien-LA,1840013963,Prien,Prien,LA,Prien-LA,Louisiana,22019,Calcasieu,30.1596,-93.2608,,,505.1,polygon,FALSE,America/Chicago,70605
+Brusly Landing-LA,1840030908,Brusly Landing,Brusly Landing,LA,Brusly Landing-LA,Louisiana,22121,West Baton Rouge,30.3877,-91.2373,,,664.6,point,FALSE,America/Chicago,70719
+Alexandria-LA,1840013873,Alexandria,Alexandria,LA,Alexandria-LA,Louisiana,22079,Rapides,31.2923,-92.47,82995,47832,650,polygon,TRUE,America/Chicago,71302 71303 71301 71306 71307 71309 71315
+Hosston-LA,1840018057,Hosston,Hosston,LA,Hosston-LA,Louisiana,22017,Caddo,32.8849,-93.882,305,305,44,polygon,TRUE,America/Chicago,71043
+Saint Joe-LA,1840031136,Saint Joe,Saint Joe,LA,Saint Joe-LA,Louisiana,22103,St. Tammany,30.3446,-89.7562,,,163.4,point,FALSE,America/Chicago,70452
+Broussard-LA,1840013964,Broussard,Broussard,LA,Broussard-LA,Louisiana,22055,Lafayette,30.1394,-91.9539,11507,11507,259,polygon,TRUE,America/Chicago,70518
+Glenmora-LA,1840017101,Glenmora,Glenmora,LA,Glenmora-LA,Louisiana,22079,Rapides,30.9733,-92.5824,1354,1354,302,polygon,TRUE,America/Chicago,71433
+Belmont-LA,1840025940,Belmont,Belmont,LA,Belmont-LA,Louisiana,22085,Sabine,31.7182,-93.5082,,,17.5,polygon,FALSE,America/Chicago,71486 71406 71450
+Echo-LA,1840030831,Echo,Echo,LA,Echo-LA,Louisiana,22079,Rapides,31.1102,-92.2418,,,40.7,point,FALSE,America/Chicago,71302
+Garyville-LA,1840013966,Garyville,Garyville,LA,Garyville-LA,Louisiana,22095,St. John the Baptist,30.0688,-90.6285,,,795.2,polygon,FALSE,America/Chicago,70076 70084 70051
+McManus-LA,1840030854,McManus,McManus,LA,McManus-LA,Louisiana,22037,East Feliciana,30.8343,-91.1362,,,19,point,FALSE,America/Chicago,70748
+Tioga-LA,1840031092,Tioga,Tioga,LA,Tioga-LA,Louisiana,22079,Rapides,31.3871,-92.4257,,,215.3,point,FALSE,America/Chicago,71405
+Boutte-LA,1840013977,Boutte,Boutte,LA,Boutte-LA,Louisiana,22089,St. Charles,29.8825,-90.3936,,,801.3,polygon,FALSE,America/Chicago,70039 70080
+Elmwood-LA,1840031147,Elmwood,Elmwood,LA,Elmwood-LA,Louisiana,22051,Jefferson,29.9554,-90.1879,,,386.8,polygon,FALSE,America/Chicago,70121 70123
+Rock Hill-LA,1840025946,Rock Hill,Rock Hill,LA,Rock Hill-LA,Louisiana,22043,Grant,31.4427,-92.5695,,,33.4,polygon,FALSE,America/Chicago,71417
+Perry-LA,1840031076,Perry,Perry,LA,Perry-LA,Louisiana,22113,Vermilion,29.9485,-92.1571,,,120.3,point,FALSE,America/Chicago,70575
+Florien-LA,1840018159,Florien,Florien,LA,Florien-LA,Louisiana,22085,Sabine,31.448,-93.4583,618,618,106,polygon,TRUE,America/Chicago,71429
+Sligo-LA,1840030978,Sligo,Sligo,LA,Sligo-LA,Louisiana,22015,Bossier,32.451,-93.5816,,,43.1,point,FALSE,America/Chicago,71037
+Sun-LA,1840018224,Sun,Sun,LA,Sun-LA,Louisiana,22103,St. Tammany,30.65,-89.9058,490,490,44,polygon,TRUE,America/Chicago,70463 70427
+Greensburg-LA,1840017157,Greensburg,Greensburg,LA,Greensburg-LA,Louisiana,22091,St. Helena,30.83,-90.6698,681,681,104,polygon,TRUE,America/Chicago,70441
+Woodlawn-LA,1840030871,Woodlawn,Woodlawn,LA,Woodlawn-LA,Louisiana,22053,Jefferson Davis,30.293,-92.9585,,,65,point,FALSE,America/Chicago,70647
+Kinder-LA,1840017166,Kinder,Kinder,LA,Kinder-LA,Louisiana,22003,Allen,30.4835,-92.8508,2436,2436,170,polygon,TRUE,America/Chicago,70648
+Kilbourne-LA,1840018079,Kilbourne,Kilbourne,LA,Kilbourne-LA,Louisiana,22123,West Carroll,32.9971,-91.3139,396,396,110,polygon,TRUE,America/Chicago,71263 71253
+Belcher-LA,1840018055,Belcher,Belcher,LA,Belcher-LA,Louisiana,22017,Caddo,32.7521,-93.8371,254,254,62,polygon,TRUE,America/Chicago,71004
+Lemannville-LA,1840026028,Lemannville,Lemannville,LA,Lemannville-LA,Louisiana,22005,Ascension,30.1028,-90.9239,,,136.1,polygon,FALSE,America/Chicago,70346 70086
+East Point-LA,1840031040,East Point,East Point,LA,East Point-LA,Louisiana,22081,Red River,32.1654,-93.4313,,,11.6,point,FALSE,America/Chicago,71019
+Vienna-LA,1840016968,Vienna,Vienna,LA,Vienna-LA,Louisiana,22061,Lincoln,32.6093,-92.6481,387,387,43,polygon,TRUE,America/Chicago,71235 71270
+Jean Lafitte-LA,1840017204,Jean Lafitte,Jean Lafitte,LA,Jean Lafitte-LA,Louisiana,22051,Jefferson,29.7496,-90.1036,2804,1977,130,polygon,TRUE,America/Chicago,70067
+Larto-LA,1840030942,Larto,Larto,LA,Larto-LA,Louisiana,22025,Catahoula,31.3727,-91.9046,,,52.9,point,FALSE,America/Chicago,71343
+Campti-LA,1840015838,Campti,Campti,LA,Campti-LA,Louisiana,22069,Natchitoches,31.898,-93.1158,1046,1046,387,polygon,TRUE,America/Chicago,71411
+Roseland-LA,1840018208,Roseland,Roseland,LA,Roseland-LA,Louisiana,22105,Tangipahoa,30.7646,-90.5114,1220,1220,226,polygon,TRUE,America/Chicago,70456
+Slagle-LA,1840030977,Slagle,Slagle,LA,Slagle-LA,Louisiana,22115,Vernon,31.2024,-93.1274,,,34.1,point,FALSE,America/Chicago,71446
+Sarepta-LA,1840018060,Sarepta,Sarepta,LA,Sarepta-LA,Louisiana,22119,Webster,32.8963,-93.4514,856,856,206,polygon,TRUE,America/Chicago,71071
+Libuse-LA,1840030851,Libuse,Libuse,LA,Libuse-LA,Louisiana,22079,Rapides,31.3541,-92.3335,,,175.9,point,FALSE,America/Chicago,71360
+Laurel Hill-LA,1840030944,Laurel Hill,Laurel Hill,LA,Laurel Hill-LA,Louisiana,22125,West Feliciana,30.9535,-91.3404,,,12.6,point,FALSE,America/Chicago,70775
+Burnside-LA,1840030879,Burnside,Burnside,LA,Burnside-LA,Louisiana,22005,Ascension,30.1388,-90.924,,,16.9,point,FALSE,America/Chicago,70725
+Cade-LA,1840025122,Cade,Cade,LA,Cade-LA,Louisiana,22099,St. Martin,30.0926,-91.8996,,,88,polygon,FALSE,America/Chicago,70518 70519 70582
+Antonia-LA,1840030996,Antonia,Antonia,LA,Antonia-LA,Louisiana,22043,Grant,31.5643,-92.4093,,,35.7,point,FALSE,America/Chicago,71467
+Tangipahoa-LA,1840018209,Tangipahoa,Tangipahoa,LA,Tangipahoa-LA,Louisiana,22105,Tangipahoa,30.8758,-90.5138,821,821,315,polygon,TRUE,America/Chicago,70465
+Galliano-LA,1840014023,Galliano,Galliano,LA,Galliano-LA,Louisiana,22057,Lafourche,29.4471,-90.3096,,,447.8,polygon,FALSE,America/Chicago,70354 70345
+Spokane-LA,1840025949,Spokane,Spokane,LA,Spokane-LA,Louisiana,22029,Concordia,31.7131,-91.4453,,,13.2,polygon,FALSE,America/Chicago,71334
+Baker-LA,1840013939,Baker,Baker,LA,Baker-LA,Louisiana,22033,East Baton Rouge,30.5833,-91.1578,13628,13628,634,polygon,TRUE,America/Chicago,70714 70704
+Farmerville-LA,1840016939,Farmerville,Farmerville,LA,Farmerville-LA,Louisiana,22111,Union,32.7752,-92.4013,3876,3853,257,polygon,TRUE,America/Chicago,71241
+Timberlane-LA,1840031154,Timberlane,Timberlane,LA,Timberlane-LA,Louisiana,22051,Jefferson,29.8781,-90.0302,,,3134,polygon,FALSE,America/Chicago,70056
+Saint Bernard-LA,1840031135,Saint Bernard,Saint Bernard,LA,Saint Bernard-LA,Louisiana,22087,St. Bernard,29.8672,-89.8587,,,108,point,FALSE,America/Chicago,70085
+Ellendale-LA,1840030920,Ellendale,Ellendale,LA,Ellendale-LA,Louisiana,22109,Terrebonne,29.6322,-90.8093,,,1.5,point,FALSE,America/Chicago,70395
+Vidrine-LA,1840030868,Vidrine,Vidrine,LA,Vidrine-LA,Louisiana,22039,Evangeline,30.6927,-92.3982,,,65.9,point,FALSE,America/Chicago,70586
+Merrydale-LA,1840013940,Merrydale,Merrydale,LA,Merrydale-LA,Louisiana,22033,East Baton Rouge,30.4998,-91.1081,,,2619.1,polygon,FALSE,America/Chicago,70812
+Mandeville-LA,1840015909,Mandeville,Mandeville,LA,Mandeville-LA,Louisiana,22103,St. Tammany,30.375,-90.0906,95576,12424,690,polygon,TRUE,America/Chicago,70448 70471 70470
+Red Oak-LA,1840030970,Red Oak,Red Oak,LA,Red Oak-LA,Louisiana,22033,East Baton Rouge,30.4657,-91.0676,,,1221.3,point,FALSE,America/Chicago,70815
+Caernarvon-LA,1840031115,Caernarvon,Caernarvon,LA,Caernarvon-LA,Louisiana,22087,St. Bernard,29.8638,-89.9065,,,51.8,point,FALSE,America/Chicago,70085
+Cameron-LA,1840014014,Cameron,Cameron,LA,Cameron-LA,Louisiana,22023,Cameron,29.787,-93.2926,,,3.5,polygon,FALSE,America/Chicago,70631
+Le Moyen-LA,1840031124,Le Moyen,Le Moyen,LA,Le Moyen-LA,Louisiana,22097,St. Landry,30.7855,-92.0404,,,9.4,point,FALSE,America/Chicago,70589
+Saline-LA,1840018100,Saline,Saline,LA,Saline-LA,Louisiana,22013,Bienville,32.1631,-92.9768,267,267,86,polygon,TRUE,America/Chicago,71070
+Donaldsonville-LA,1840015045,Donaldsonville,Donaldsonville,LA,Donaldsonville-LA,Louisiana,22005,Ascension,30.0954,-90.9925,16103,8218,838,polygon,TRUE,America/Chicago,70346
+Wallace-LA,1840013967,Wallace,Wallace,LA,Wallace-LA,Louisiana,22095,St. John the Baptist,30.0303,-90.6569,,,244.4,polygon,FALSE,America/Chicago,70090 70049
+Bertrandville-LA,1840030825,Bertrandville,Bertrandville,LA,Bertrandville-LA,Louisiana,22075,Plaquemines,29.7749,-90.017,,,16.1,point,FALSE,America/Chicago,70040
+Lacassine-LA,1840026023,Lacassine,Lacassine,LA,Lacassine-LA,Louisiana,22053,Jefferson Davis,30.2331,-92.9208,,,189,polygon,FALSE,America/Chicago,70650 70647
+Fryeburg-LA,1840031048,Fryeburg,Fryeburg,LA,Fryeburg-LA,Louisiana,22013,Bienville,32.4129,-93.2343,,,35.1,point,FALSE,America/Chicago,71045
+Larose-LA,1840014025,Larose,Larose,LA,Larose-LA,Louisiana,22057,Lafourche,29.5669,-90.3751,,,1020.2,polygon,FALSE,America/Chicago,70373
+Pollock-LA,1840017070,Pollock,Pollock,LA,Pollock-LA,Louisiana,22043,Grant,31.4985,-92.4432,484,484,23,polygon,TRUE,America/Chicago,71407 71467
+Ada-LA,1840030898,Ada,Ada,LA,Ada-LA,Louisiana,22013,Bienville,32.546,-93.1404,,,58.1,point,FALSE,America/Chicago,71028
+Creola-LA,1840018164,Creola,Creola,LA,Creola-LA,Louisiana,22043,Grant,31.43,-92.4829,217,217,204,polygon,TRUE,America/Chicago,71423
+Bridge City-LA,1840013989,Bridge City,Bridge City,LA,Bridge City-LA,Louisiana,22051,Jefferson,29.9321,-90.1594,,,986.6,polygon,FALSE,America/Chicago,70094
+Creole-LA,1840030993,Creole,Creole,LA,Creole-LA,Louisiana,22023,Cameron,29.7961,-93.1113,,,2.8,point,FALSE,America/Chicago,70643
+Acy-LA,1840030817,Acy,Acy,LA,Acy-LA,Louisiana,22005,Ascension,30.2188,-90.8204,,,124.9,point,FALSE,America/Chicago,70774
+Estherwood-LA,1840018240,Estherwood,Estherwood,LA,Estherwood-LA,Louisiana,22001,Acadia,30.1816,-92.4633,977,977,202,polygon,TRUE,America/Chicago,70534
+Ball-LA,1840015868,Ball,Ball,LA,Ball-LA,Louisiana,22079,Rapides,31.4188,-92.4084,4009,4009,194,polygon,TRUE,America/Chicago,71405
+Destrehan-LA,1840013110,Destrehan,Destrehan,LA,Destrehan-LA,Louisiana,22089,St. Charles,29.9625,-90.3676,,,308.5,polygon,FALSE,America/Chicago,70047
+Ama-LA,1840013975,Ama,Ama,LA,Ama-LA,Louisiana,22089,St. Charles,29.944,-90.2967,,,224.3,polygon,FALSE,America/Chicago,70031
+Baton Rouge-LA,1840013941,Baton Rouge,Baton Rouge,LA,Baton Rouge-LA,Louisiana,22033,East Baton Rouge,30.4422,-91.1314,589675,227715,1023,polygon,TRUE,America/Chicago,70836 70808 70809 70802 70803 70801 70806 70807 70805 70820 70819 70811 70815 70814 70816 70804 70813 70821 70822 70823 70825 70826 70827 70831 70833 70835 70837 70873 70874 70879 70884 70891 70892 70893 70894 70895 70896 70898
+Urania-LA,1840017059,Urania,Urania,LA,Urania-LA,Louisiana,22059,La Salle Parish,31.8639,-92.2913,1319,1319,371,polygon,TRUE,America/Chicago,71480
+Lydia-LA,1840014007,Lydia,Lydia,LA,Lydia-LA,Louisiana,22045,Iberia,29.9263,-91.7813,,,76.7,polygon,FALSE,America/Chicago,70560 70569
+Melville-LA,1840017172,Melville,Melville,LA,Melville-LA,Louisiana,22097,St. Landry,30.6917,-91.7485,1053,1053,323,polygon,TRUE,America/Chicago,71353
+Columbia-LA,1840017022,Columbia,Columbia,LA,Columbia-LA,Louisiana,22021,Caldwell,32.1026,-92.077,384,384,195,polygon,TRUE,America/Chicago,71418
+Paincourtville-LA,1840014011,Paincourtville,Paincourtville,LA,Paincourtville-LA,Louisiana,22007,Assumption,29.9887,-91.0554,,,246.4,polygon,FALSE,America/Chicago,70390 70391
+Ida-LA,1840018058,Ida,Ida,LA,Ida-LA,Louisiana,22017,Caddo,33.0001,-93.8949,212,212,58,polygon,TRUE,America/Chicago,71044
+Warden-LA,1840031096,Warden,Warden,LA,Warden-LA,Louisiana,22083,Richland,32.5376,-91.4971,,,20.1,point,FALSE,America/Chicago,71232
+Port Sulphur-LA,1840014029,Port Sulphur,Port Sulphur,LA,Port Sulphur-LA,Louisiana,22075,Plaquemines,29.5043,-89.7202,,,119.3,polygon,FALSE,America/Chicago,70083
+Singer-LA,1840025999,Singer,Singer,LA,Singer-LA,Louisiana,22011,Beauregard,30.6512,-93.4117,,,29.8,polygon,FALSE,America/Chicago,70660
+Abbeville-LA,1840014005,Abbeville,Abbeville,LA,Abbeville-LA,Louisiana,22113,Vermilion,29.9751,-92.1265,20139,12452,788,polygon,TRUE,America/Chicago,70510 70511
+Norwood-LA,1840018214,Norwood,Norwood,LA,Norwood-LA,Louisiana,22037,East Feliciana,30.9682,-91.1125,312,312,29,polygon,TRUE,America/Chicago,70761
+Indian Village-LA,1840030934,Indian Village,Indian Village,LA,Indian Village-LA,Louisiana,22003,Allen,30.4491,-92.9718,,,21.2,point,FALSE,America/Chicago,70648
+Woodardville-LA,1840030986,Woodardville,Woodardville,LA,Woodardville-LA,Louisiana,22013,Bienville,32.2599,-93.2802,,,2.7,point,FALSE,America/Chicago,71068
+Little Creek-LA,1840031069,Little Creek,Little Creek,LA,Little Creek-LA,Louisiana,22059,La Salle Parish,31.7196,-92.2943,,,11.1,point,FALSE,America/Chicago,71371
+Rosedale-LA,1840018238,Rosedale,Rosedale,LA,Rosedale-LA,Louisiana,22047,Iberville,30.4429,-91.4601,774,774,38,polygon,TRUE,America/Chicago,70772
+Taft-LA,1840013978,Taft,Taft,LA,Taft-LA,Louisiana,22089,St. Charles,29.9854,-90.4533,,,0,polygon,FALSE,America/Chicago,70057
+Nairn-LA,1840030958,Nairn,Nairn,LA,Nairn-LA,Louisiana,22075,Plaquemines,29.428,-89.6109,,,78.3,point,FALSE,America/Chicago,70041
+Walker-LA,1840017185,Walker,Walker,LA,Walker-LA,Louisiana,22063,Livingston,30.4848,-90.8653,6404,6404,376,polygon,TRUE,America/Chicago,70785
+Weston-LA,1840030870,Weston,Weston,LA,Weston-LA,Louisiana,22049,Jackson,32.244,-92.6135,,,75.2,point,FALSE,America/Chicago,71251
+Tallulah-LA,1840015808,Tallulah,Tallulah,LA,Tallulah-LA,Louisiana,22065,Madison,32.4067,-91.1916,8790,7020,973,polygon,TRUE,America/Chicago,71282 71284
+Morgan City-LA,1840015056,Morgan City,Morgan City,LA,Morgan City-LA,Louisiana,22101,St. Mary,29.7041,-91.1919,30061,11646,751,polygon,TRUE,America/Chicago,70380 70381
+Harrisonburg-LA,1840018153,Harrisonburg,Harrisonburg,LA,Harrisonburg-LA,Louisiana,22025,Catahoula,31.7681,-91.825,331,331,131,polygon,TRUE,America/Chicago,71340
+Jigger-LA,1840030937,Jigger,Jigger,LA,Jigger-LA,Louisiana,22041,Franklin,32.0349,-91.7468,,,17,point,FALSE,America/Chicago,71295
+Doyline-LA,1840018063,Doyline,Doyline,LA,Doyline-LA,Louisiana,22119,Webster,32.525,-93.4118,790,790,91,polygon,TRUE,America/Chicago,71023
+Laplace-LA,1840013968,Laplace,Laplace,LA,Laplace-LA,Louisiana,22095,St. John the Baptist,30.0731,-90.4758,,,856.9,polygon,FALSE,America/Chicago,70068
+Inniswold-LA,1840031059,Inniswold,Inniswold,LA,Inniswold-LA,Louisiana,22033,East Baton Rouge,30.3982,-91.071,,,947.6,polygon,FALSE,America/Chicago,70809
+Scotlandville-LA,1840031083,Scotlandville,Scotlandville,LA,Scotlandville-LA,Louisiana,22033,East Baton Rouge,30.5205,-91.1787,,,1413.4,point,FALSE,America/Chicago,70807
+Port Allen-LA,1840015026,Port Allen,Port Allen,LA,Port Allen-LA,Louisiana,22121,West Baton Rouge,30.4456,-91.2098,5102,5102,694,polygon,TRUE,America/Chicago,70767
+Montegut-LA,1840014034,Montegut,Montegut,LA,Montegut-LA,Louisiana,22109,Terrebonne,29.4656,-90.5617,,,814.5,polygon,FALSE,America/Chicago,70377
+Hackberry-LA,1840014013,Hackberry,Hackberry,LA,Hackberry-LA,Louisiana,22023,Cameron,29.9717,-93.3947,,,118.4,polygon,FALSE,America/Chicago,70645
+Dulac-LA,1840013116,Dulac,Dulac,LA,Dulac-LA,Louisiana,22109,Terrebonne,29.3864,-90.7081,,,42.1,polygon,FALSE,America/Chicago,70353
+Jeanerette-LA,1840015054,Jeanerette,Jeanerette,LA,Jeanerette-LA,Louisiana,22045,Iberia,29.9157,-91.6758,6580,5447,911,polygon,TRUE,America/Chicago,70544
+Leesville-LA,1840014974,Leesville,Leesville,LA,Leesville-LA,Louisiana,22115,Vernon,31.1394,-93.2743,9131,6286,433,polygon,TRUE,America/Chicago,71446 71496
+Jonesburg-LA,1840030888,Jonesburg,Jonesburg,LA,Jonesburg-LA,Louisiana,22083,Richland,32.5251,-91.7568,,,3.1,point,FALSE,America/Chicago,71269
+Lake Charles-LA,1840015039,Lake Charles,Lake Charles,LA,Lake Charles-LA,Louisiana,22019,Calcasieu,30.203,-93.215,153097,76848,704,polygon,TRUE,America/Chicago,70605 70607 70601 70615 70602 70606 70609 70612 70616 70629
+Port Hudson-LA,1840031078,Port Hudson,Port Hudson,LA,Port Hudson-LA,Louisiana,22033,East Baton Rouge,30.6782,-91.2696,,,34.4,point,FALSE,America/Chicago,70791
+Mittie-LA,1840030955,Mittie,Mittie,LA,Mittie-LA,Louisiana,22003,Allen,30.7069,-92.9068,,,10.7,point,FALSE,America/Chicago,70637
+Hudson-LA,1840030886,Hudson,Hudson,LA,Hudson-LA,Louisiana,22127,Winn,32.0371,-92.5851,,,29.8,point,FALSE,America/Chicago,71422
+Kurthwood-LA,1840031010,Kurthwood,Kurthwood,LA,Kurthwood-LA,Louisiana,22115,Vernon,31.3374,-93.1657,,,5.6,point,FALSE,America/Chicago,71446
+Parks-LA,1840018236,Parks,Parks,LA,Parks-LA,Louisiana,22099,St. Martin,30.2172,-91.8271,689,689,315,polygon,TRUE,America/Chicago,70582
+Bawcomville-LA,1840025899,Bawcomville,Bawcomville,LA,Bawcomville-LA,Louisiana,22073,Ouachita,32.4703,-92.1736,,,657,polygon,FALSE,America/Chicago,71292
+Parhams-LA,1840031075,Parhams,Parhams,LA,Parhams-LA,Louisiana,22025,Catahoula,31.4677,-91.7865,,,6.4,point,FALSE,America/Chicago,71343
+Bayou Gauche-LA,1840013976,Bayou Gauche,Bayou Gauche,LA,Bayou Gauche-LA,Louisiana,22089,St. Charles,29.8081,-90.421,,,55.1,polygon,FALSE,America/Chicago,70030
+East Hodge-LA,1840018112,East Hodge,East Hodge,LA,East Hodge-LA,Louisiana,22049,Jackson,32.2776,-92.7141,276,276,455,polygon,TRUE,America/Chicago,71247
+Springfield-LA,1840018226,Springfield,Springfield,LA,Springfield-LA,Louisiana,22063,Livingston,30.4255,-90.5444,527,527,144,polygon,TRUE,America/Chicago,70462
+New Iberia-LA,1840015053,New Iberia,New Iberia,LA,New Iberia-LA,Louisiana,22045,Iberia,30.0049,-91.8203,30386,30386,1053,polygon,TRUE,America/Chicago,70560 70563 70562
+Negreet-LA,1840030961,Negreet,Negreet,LA,Negreet-LA,Louisiana,22085,Sabine,31.4693,-93.5749,,,16.9,point,FALSE,America/Chicago,71449
+Whitehall-LA,1840031097,Whitehall,Whitehall,LA,Whitehall-LA,Louisiana,22063,Livingston,30.2885,-90.7004,,,123.8,point,FALSE,America/Chicago,70449
+Elm Grove-LA,1840031042,Elm Grove,Elm Grove,LA,Elm Grove-LA,Louisiana,22015,Bossier,32.3482,-93.5527,,,1.5,point,FALSE,America/Chicago,71051
+Converse-LA,1840018157,Converse,Converse,LA,Converse-LA,Louisiana,22085,Sabine,31.7795,-93.7001,435,435,77,polygon,TRUE,America/Chicago,71419
+Andrew-LA,1840030901,Andrew,Andrew,LA,Andrew-LA,Louisiana,22113,Vermilion,30.0849,-92.2429,,,9.1,point,FALSE,America/Chicago,70548
+Lockport Heights-LA,1840025137,Lockport Heights,Lockport Heights,LA,Lockport Heights-LA,Louisiana,22057,Lafourche,29.6564,-90.5486,,,521.1,polygon,FALSE,America/Chicago,70374 70394
+Watson-LA,1840026010,Watson,Watson,LA,Watson-LA,Louisiana,22063,Livingston,30.575,-90.9508,,,469.7,polygon,FALSE,America/Chicago,70706 70786
+Oak Hills Place-LA,1840031107,Oak Hills Place,Oak Hills Place,LA,Oak Hills Place-LA,Louisiana,22033,East Baton Rouge,30.369,-91.0887,,,1412.8,polygon,FALSE,America/Chicago,70810
+Franklin-LA,1840014019,Franklin,Franklin,LA,Franklin-LA,Louisiana,22101,St. Mary,29.7851,-91.5098,13706,7182,279,polygon,TRUE,America/Chicago,70538
+Hahnville-LA,1840013974,Hahnville,Hahnville,LA,Hahnville-LA,Louisiana,22089,St. Charles,29.9641,-90.4141,,,644.5,polygon,FALSE,America/Chicago,70057
+Berwick-LA,1840015942,Berwick,Berwick,LA,Berwick-LA,Louisiana,22101,St. Mary,29.7013,-91.2377,4689,4689,306,polygon,TRUE,America/Chicago,70342
+Gardere-LA,1840013938,Gardere,Gardere,LA,Gardere-LA,Louisiana,22033,East Baton Rouge,30.3582,-91.1345,,,1804.2,polygon,FALSE,America/Chicago,70820 70810
+Quitman-LA,1840018115,Quitman,Quitman,LA,Quitman-LA,Louisiana,22049,Jackson,32.3507,-92.7236,173,173,71,polygon,TRUE,America/Chicago,71268
+Milton-LA,1840025123,Milton,Milton,LA,Milton-LA,Louisiana,22055,Lafayette,30.1138,-92.0704,,,322.5,polygon,FALSE,America/Chicago,70592 70508 70558
+Hanna-LA,1840030844,Hanna,Hanna,LA,Hanna-LA,Louisiana,22081,Red River,31.9613,-93.3477,,,3.7,point,FALSE,America/Chicago,71019
+Fields-LA,1840031044,Fields,Fields,LA,Fields-LA,Louisiana,22011,Beauregard,30.5263,-93.5749,,,1.4,point,FALSE,America/Chicago,70653
+Joyce-LA,1840025926,Joyce,Joyce,LA,Joyce-LA,Louisiana,22127,Winn,31.9347,-92.585,,,223,polygon,FALSE,America/Chicago,71483
+Oil City-LA,1840016933,Oil City,Oil City,LA,Oil City-LA,Louisiana,22017,Caddo,32.7453,-93.9758,986,986,213,polygon,TRUE,America/Chicago,71061
+Glynn-LA,1840030928,Glynn,Glynn,LA,Glynn-LA,Louisiana,22077,Pointe Coupee,30.6266,-91.3554,,,53.9,point,FALSE,America/Chicago,70773
+Mathews-LA,1840014026,Mathews,Mathews,LA,Mathews-LA,Louisiana,22057,Lafourche,29.6822,-90.5559,,,324.4,polygon,FALSE,America/Chicago,70394
+Bossier City-LA,1840013790,Bossier City,Bossier City,LA,Bossier City-LA,Louisiana,22015,Bossier,32.5227,-93.6665,68485,68485,616,polygon,TRUE,America/Chicago,71112 71111 71110 71113 71171 71172
+Kolin-LA,1840030941,Kolin,Kolin,LA,Kolin-LA,Louisiana,22079,Rapides,31.2832,-92.3226,,,77.8,point,FALSE,America/Chicago,71360
+Lewisburg-LA,1840031127,Lewisburg,Lewisburg,LA,Lewisburg-LA,Louisiana,22103,St. Tammany,30.3696,-90.1031,,,247.1,point,FALSE,America/Chicago,70448
+Simpson-LA,1840018186,Simpson,Simpson,LA,Simpson-LA,Louisiana,22115,Vernon,31.2583,-93.0194,615,615,38,polygon,TRUE,America/Chicago,71474
+Elizabeth-LA,1840017167,Elizabeth,Elizabeth,LA,Elizabeth-LA,Louisiana,22003,Allen,30.867,-92.7987,553,553,129,polygon,TRUE,America/Chicago,70638
+Prospect-LA,1840030991,Prospect,Prospect,LA,Prospect-LA,Louisiana,22043,Grant,31.4488,-92.4969,,,67,polygon,FALSE,America/Chicago,71423
+Morrow-LA,1840031131,Morrow,Morrow,LA,Morrow-LA,Louisiana,22097,St. Landry,30.8299,-92.0801,,,55.6,point,FALSE,America/Chicago,71356
+Butte La Rose-LA,1840031114,Butte La Rose,Butte La Rose,LA,Butte La Rose-LA,Louisiana,22099,St. Martin,30.2777,-91.6868,,,23.2,point,FALSE,America/Chicago,70517
+Longstreet-LA,1840018120,Longstreet,Longstreet,LA,Longstreet-LA,Louisiana,22031,De Soto,32.0976,-93.9505,158,158,29,polygon,TRUE,America/Chicago,71046 71049 71050
+Edna-LA,1840030832,Edna,Edna,LA,Edna-LA,Louisiana,22053,Jefferson Davis,30.421,-92.8865,,,6.1,point,FALSE,America/Chicago,70648
+Clifton-LA,1840030829,Clifton,Clifton,LA,Clifton-LA,Louisiana,22117,Washington,30.9255,-90.1798,,,28.2,point,FALSE,America/Chicago,70438
+Mooringsport-LA,1840016930,Mooringsport,Mooringsport,LA,Mooringsport-LA,Louisiana,22017,Caddo,32.6832,-93.9607,778,778,258,polygon,TRUE,America/Chicago,71060
+Village Saint George-LA,1840031109,Village Saint George,Village Saint George,LA,Village Saint George-LA,Louisiana,22033,East Baton Rouge,30.3598,-91.0672,,,1638.2,polygon,FALSE,America/Chicago,70810
+Forked Island-LA,1840030838,Forked Island,Forked Island,LA,Forked Island-LA,Louisiana,22113,Vermilion,29.8313,-92.3001,,,11.5,point,FALSE,America/Chicago,70510
+Livingston-LA,1840017184,Livingston,Livingston,LA,Livingston-LA,Louisiana,22063,Livingston,30.4953,-90.7467,1937,1937,231,polygon,TRUE,America/Chicago,70754
+Scott-LA,1840015932,Scott,Scott,LA,Scott-LA,Louisiana,22055,Lafayette,30.2394,-92.0949,8733,8733,298,polygon,TRUE,America/Chicago,70583 70507 70506
+Bell City-LA,1840031026,Bell City,Bell City,LA,Bell City-LA,Louisiana,22019,Calcasieu,30.1133,-92.9627,,,120.2,point,FALSE,America/Chicago,70630
+Morganza-LA,1840018201,Morganza,Morganza,LA,Morganza-LA,Louisiana,22077,Pointe Coupee,30.7383,-91.592,591,591,193,polygon,TRUE,America/Chicago,70759 70715
+Chambers-LA,1840030999,Chambers,Chambers,LA,Chambers-LA,Louisiana,22079,Rapides,31.1785,-92.4137,,,87.5,point,FALSE,America/Chicago,71302
+Empire-LA,1840013114,Empire,Empire,LA,Empire-LA,Louisiana,22075,Plaquemines,29.4133,-89.6052,,,47.6,polygon,FALSE,America/Chicago,70041 70050
+Oakland-LA,1840030891,Oakland,Oakland,LA,Oakland-LA,Louisiana,22015,Bossier,32.4682,-93.5096,,,143.8,point,FALSE,America/Chicago,71037
+Hineston-LA,1840031008,Hineston,Hineston,LA,Hineston-LA,Louisiana,22079,Rapides,31.1435,-92.7588,,,18,point,FALSE,America/Chicago,71438
+Chataignier-LA,1840018204,Chataignier,Chataignier,LA,Chataignier-LA,Louisiana,22039,Evangeline,30.5696,-92.3168,362,362,222,polygon,TRUE,America/Chicago,70524 70586
+Dalcour-LA,1840031101,Dalcour,Dalcour,LA,Dalcour-LA,Louisiana,22075,Plaquemines,29.8074,-89.9987,,,18.4,point,FALSE,America/Chicago,70040

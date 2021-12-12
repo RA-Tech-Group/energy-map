@@ -1,0 +1,492 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Ware Shoals-SC,1840016674,Ware Shoals,Ware Shoals,SC,Ware Shoals-SC,South Carolina,45047,Greenwood,34.3923,-82.2421,2183,2183,215,polygon,TRUE,America/New_York,29692
+Pacolet Mills-SC,1840035777,Pacolet Mills,Pacolet Mills,SC,Pacolet Mills-SC,South Carolina,45083,Spartanburg,34.9226,-81.7426,,,252.5,point,FALSE,America/New_York,29373
+Awendaw-SC,1840016011,Awendaw,Awendaw,SC,Awendaw-SC,South Carolina,45019,Charleston,32.9824,-79.646,1384,1384,56,polygon,TRUE,America/New_York,29429
+Lodge-SC,1840016900,Lodge,Lodge,SC,Lodge-SC,South Carolina,45029,Colleton,33.0678,-80.9536,119,119,14,polygon,TRUE,America/New_York,29082
+Antreville-SC,1840013617,Antreville,Antreville,SC,Antreville-SC,South Carolina,45001,Abbeville,34.2971,-82.5541,,,18.1,polygon,FALSE,America/New_York,29620 29655
+Ninety Six-SC,1840016675,Ninety Six,Ninety Six,SC,Ninety Six-SC,South Carolina,45047,Greenwood,34.1696,-82.024,2057,2057,441,polygon,TRUE,America/New_York,29666
+Clover-SC,1840016478,Clover,Clover,SC,Clover-SC,South Carolina,45091,York,35.1124,-81.2201,7607,5950,513,polygon,TRUE,America/New_York,29710 29703
+Columbia-SC,1840014730,Columbia,Columbia,SC,Columbia-SC,South Carolina,45079,Richland,34.0366,-80.9043,571249,134309,388,polygon,TRUE,America/New_York,29205 29202 29203 29201 29207 29208 29209 29212 29225 29210 29229 29147 29206 29204 29211 29214 29215 29216 29217 29218 29219 29220 29221 29222 29224 29226 29227 29228 29230 29240 29250 29260 29290 29292
+Fairfax-SC,1840016904,Fairfax,Fairfax,SC,Fairfax-SC,South Carolina,45005,Allendale,32.9593,-81.2363,1745,1745,203,polygon,TRUE,America/New_York,29827
+Lake City-SC,1840014715,Lake City,Lake City,SC,Lake City-SC,South Carolina,45041,Florence,33.8676,-79.7533,8604,6761,488,polygon,TRUE,America/New_York,29560
+Belvedere-SC,1840013720,Belvedere,Belvedere,SC,Belvedere-SC,South Carolina,45003,Aiken,33.5369,-81.9424,,,717.8,polygon,FALSE,America/New_York,29841
+Modoc-SC,1840013693,Modoc,Modoc,SC,Modoc-SC,South Carolina,45065,McCormick,33.7191,-82.2174,,,16.1,polygon,FALSE,America/New_York,29838
+Gramling-SC,1840026963,Gramling,Gramling,SC,Gramling-SC,South Carolina,45083,Spartanburg,35.0782,-82.1333,,,32.9,polygon,FALSE,America/New_York,29349 29322
+Sangaree-SC,1840035792,Sangaree,Sangaree,SC,Sangaree-SC,South Carolina,45015,Berkeley,33.0328,-80.1252,,,1546.1,polygon,FALSE,America/New_York,29483
+Williamston-SC,1840016576,Williamston,Williamston,SC,Williamston-SC,South Carolina,45007,Anderson,34.6196,-82.4793,4190,4190,435,polygon,TRUE,America/New_York,29697
+Shell Point-SC,1840035794,Shell Point,Shell Point,SC,Shell Point-SC,South Carolina,45013,Beaufort,32.3744,-80.7524,,,461.6,polygon,FALSE,America/New_York,29906
+Waterloo-SC,1840016595,Waterloo,Waterloo,SC,Waterloo-SC,South Carolina,45059,Laurens,34.3545,-82.0597,148,148,40,polygon,TRUE,America/New_York,29384
+Central Pacolet-SC,1840016462,Central Pacolet,Central Pacolet,SC,Central Pacolet-SC,South Carolina,45083,Spartanburg,34.9096,-81.7526,227,227,350,polygon,TRUE,America/New_York,29372
+Scranton-SC,1840017961,Scranton,Scranton,SC,Scranton-SC,South Carolina,45041,Florence,33.9174,-79.7441,860,860,419,polygon,TRUE,America/New_York,29591
+Wando-SC,1840035755,Wando,Wando,SC,Wando-SC,South Carolina,45015,Berkeley,32.9335,-79.8317,,,121.8,point,FALSE,America/New_York,29492
+Elgin-SC,1840016617,Elgin,Elgin,SC,Elgin-SC,South Carolina,45055,Kershaw,34.1703,-80.793,1540,1540,561,polygon,TRUE,America/New_York,29045
+Whitmire-SC,1840016633,Whitmire,Whitmire,SC,Whitmire-SC,South Carolina,45071,Newberry,34.5041,-81.6144,1475,1475,460,polygon,TRUE,America/New_York,29178
+Yemassee-SC,1840016929,Yemassee,Yemassee,SC,Yemassee-SC,South Carolina,45049,Hampton,32.6928,-80.8547,972,972,83,polygon,TRUE,America/New_York,29945
+Richburg-SC,1840017924,Richburg,Richburg,SC,Richburg-SC,South Carolina,45023,Chester,34.7166,-81.0197,263,263,115,polygon,TRUE,America/New_York,29729
+Red Bank-SC,1840013658,Red Bank,Red Bank,SC,Red Bank-SC,South Carolina,45063,Lexington,33.9296,-81.2321,,,203.4,polygon,FALSE,America/New_York,29073
+Richtex-SC,1840035829,Richtex,Richtex,SC,Richtex-SC,South Carolina,45039,Fairfield,34.1835,-81.1818,,,2.9,point,FALSE,America/New_York,29180
+Jonesville-SC,1840016542,Jonesville,Jonesville,SC,Jonesville-SC,South Carolina,45087,Union,34.8348,-81.6811,860,860,327,polygon,TRUE,America/New_York,29353
+Chesterfield-SC,1840016583,Chesterfield,Chesterfield,SC,Chesterfield-SC,South Carolina,45025,Chesterfield,34.733,-80.078,1452,1452,138,polygon,TRUE,America/New_York,29709
+Parker-SC,1840035848,Parker,Parker,SC,Parker-SC,South Carolina,45045,Greenville,34.8514,-82.4512,,,339.6,polygon,FALSE,America/New_York,29617 29611
+Longs-SC,1840035808,Longs,Longs,SC,Longs-SC,South Carolina,45051,Horry,33.9385,-78.7331,,,38.3,point,FALSE,America/New_York,29568
+North Hartsville-SC,1840013609,North Hartsville,North Hartsville,SC,North Hartsville-SC,South Carolina,45031,Darlington,34.401,-80.0709,,,345.2,polygon,FALSE,America/New_York,29550
+Kline-SC,1840016868,Kline,Kline,SC,Kline-SC,South Carolina,45011,Barnwell,33.1252,-81.3426,189,189,23,polygon,TRUE,America/New_York,29812
+Manning-SC,1840015655,Manning,Manning,SC,Manning-SC,South Carolina,45027,Clarendon,33.6929,-80.2178,4918,4042,565,polygon,TRUE,America/New_York,29102
+Cottageville-SC,1840016901,Cottageville,Cottageville,SC,Cottageville-SC,South Carolina,45029,Colleton,32.9362,-80.4803,747,747,84,polygon,TRUE,America/New_York,29435
+Barnwell-SC,1840013763,Barnwell,Barnwell,SC,Barnwell-SC,South Carolina,45011,Barnwell,33.2419,-81.3659,3775,4542,223,polygon,TRUE,America/New_York,29812
+Ulmer-SC,1840016906,Ulmer,Ulmer,SC,Ulmer-SC,South Carolina,45005,Allendale,33.0987,-81.208,76,76,10,polygon,TRUE,America/New_York,29849
+Windsor-SC,1840016796,Windsor,Windsor,SC,Windsor-SC,South Carolina,45003,Aiken,33.4812,-81.5129,122,122,71,polygon,TRUE,America/New_York,29856
+Hardeeville-SC,1840013808,Hardeeville,Hardeeville,SC,Hardeeville-SC,South Carolina,45053,Jasper,32.2949,-81.0324,5731,5721,39,polygon,TRUE,America/New_York,29927 29936
+Ravenwood-SC,1840035780,Ravenwood,Ravenwood,SC,Ravenwood-SC,South Carolina,45079,Richland,34.034,-80.9673,,,870.6,point,FALSE,America/New_York,29206
+Arcadia-SC,1840026955,Arcadia,Arcadia,SC,Arcadia-SC,South Carolina,45083,Spartanburg,34.9609,-81.9929,,,139.7,polygon,FALSE,America/New_York,29320 29301 29336
+Verdery-SC,1840035789,Verdery,Verdery,SC,Verdery-SC,South Carolina,45047,Greenwood,34.1093,-82.2493,,,22.2,point,FALSE,America/New_York,29819
+Ruffin-SC,1840035784,Ruffin,Ruffin,SC,Ruffin-SC,South Carolina,45029,Colleton,33.0046,-80.8157,,,56.3,point,FALSE,America/New_York,29475
+Dentsville-SC,1840013089,Dentsville,Dentsville,SC,Dentsville-SC,South Carolina,45079,Richland,34.0754,-80.9546,,,104.1,polygon,FALSE,America/New_York,29223
+Stuckey-SC,1840016793,Stuckey,Stuckey,SC,Stuckey-SC,South Carolina,45089,Williamsburg,33.7321,-79.5132,231,231,95,polygon,TRUE,America/New_York,29554
+Eureka Mill-SC,1840035844,Eureka Mill,Eureka Mill,SC,Eureka Mill-SC,South Carolina,45023,Chester,34.7178,-81.1931,,,481,polygon,FALSE,America/New_York,29706
+Norway-SC,1840016828,Norway,Norway,SC,Norway-SC,South Carolina,45075,Orangeburg,33.4503,-81.1265,324,324,157,polygon,TRUE,America/New_York,29113
+Liberty Hill-SC,1840035805,Liberty Hill,Liberty Hill,SC,Liberty Hill-SC,South Carolina,45055,Kershaw,34.4782,-80.8017,,,1.7,point,FALSE,America/New_York,29074
+Wade Hampton-SC,1840035800,Wade Hampton,Wade Hampton,SC,Wade Hampton-SC,South Carolina,45045,Greenville,34.8821,-82.3336,,,1106.5,polygon,FALSE,America/New_York,29615 29609 29687
+Cherry Grove Beach-SC,1840035751,Cherry Grove Beach,Cherry Grove Beach,SC,Cherry Grove Beach-SC,South Carolina,45051,Horry,33.8274,-78.6428,,,402.8,point,FALSE,America/New_York,29582
+Lamar-SC,1840016631,Lamar,Lamar,SC,Lamar-SC,South Carolina,45031,Darlington,34.1695,-80.0649,959,959,302,polygon,TRUE,America/New_York,29069
+Donalds-SC,1840016667,Donalds,Donalds,SC,Donalds-SC,South Carolina,45001,Abbeville,34.3766,-82.3467,341,341,158,polygon,TRUE,America/New_York,29638
+Gray Court-SC,1840016594,Gray Court,Gray Court,SC,Gray Court-SC,South Carolina,45059,Laurens,34.6078,-82.114,798,798,164,polygon,TRUE,America/New_York,29645
+Turbeville-SC,1840016788,Turbeville,Turbeville,SC,Turbeville-SC,South Carolina,45027,Clarendon,33.8896,-80.0161,803,803,231,polygon,TRUE,America/New_York,29162
+Vance-SC,1840016824,Vance,Vance,SC,Vance-SC,South Carolina,45075,Orangeburg,33.4364,-80.4201,164,164,125,polygon,TRUE,America/New_York,29163
+New Ellenton-SC,1840016797,New Ellenton,New Ellenton,SC,New Ellenton-SC,South Carolina,45003,Aiken,33.4192,-81.6814,2146,2146,174,polygon,TRUE,America/New_York,29803 29809
+Loris-SC,1840015591,Loris,Loris,SC,Loris-SC,South Carolina,45051,Horry,34.0575,-78.8877,2651,2651,225,polygon,TRUE,America/New_York,29569
+Hopkins-SC,1840026977,Hopkins,Hopkins,SC,Hopkins-SC,South Carolina,45079,Richland,33.8983,-80.86,,,24,polygon,FALSE,America/New_York,29061
+Greer-SC,1840013502,Greer,Greer,SC,Greer-SC,South Carolina,45045,Greenville,34.9352,-82.2336,29000,29000,544,polygon,TRUE,America/New_York,29651 29650 29652
+Coward-SC,1840016705,Coward,Coward,SC,Coward-SC,South Carolina,45041,Florence,33.9721,-79.749,759,759,82,polygon,TRUE,America/New_York,29530
+Irwin-SC,1840013531,Irwin,Irwin,SC,Irwin-SC,South Carolina,45057,Lancaster,34.6942,-80.8197,,,291.4,polygon,FALSE,America/New_York,29720
+Seven Oaks-SC,1840035850,Seven Oaks,Seven Oaks,SC,Seven Oaks-SC,South Carolina,45063,Lexington,34.0474,-81.1435,,,998.6,polygon,FALSE,America/New_York,29212 29210
+Cane Savannah-SC,1840013666,Cane Savannah,Cane Savannah,SC,Cane Savannah-SC,South Carolina,45085,Sumter,33.8923,-80.4395,,,60.3,polygon,FALSE,America/New_York,29154
+Dillon-SC,1840014676,Dillon,Dillon,SC,Dillon-SC,South Carolina,45033,Dillon,34.4223,-79.3721,9511,6604,438,polygon,TRUE,America/New_York,29536
+Promised Land-SC,1840013625,Promised Land,Promised Land,SC,Promised Land-SC,South Carolina,45047,Greenwood,34.1276,-82.2307,,,175.7,polygon,FALSE,America/New_York,29646 29819
+Rodman-SC,1840035783,Rodman,Rodman,SC,Rodman-SC,South Carolina,45023,Chester,34.7688,-81.0881,,,20.1,point,FALSE,America/New_York,29706
+Bonneau Beach-SC,1840025042,Bonneau Beach,Bonneau Beach,SC,Bonneau Beach-SC,South Carolina,45015,Berkeley,33.3229,-79.9899,,,281.9,polygon,FALSE,America/New_York,29431
+Bethune-SC,1840015553,Bethune,Bethune,SC,Bethune-SC,South Carolina,45055,Kershaw,34.4142,-80.3487,347,347,121,polygon,TRUE,America/New_York,29009
+Russellville-SC,1840026993,Russellville,Russellville,SC,Russellville-SC,South Carolina,45015,Berkeley,33.397,-79.9637,,,76.1,polygon,FALSE,America/New_York,29479 29476
+Pendleton-SC,1840016578,Pendleton,Pendleton,SC,Pendleton-SC,South Carolina,45007,Anderson,34.6491,-82.7813,3184,3184,305,polygon,TRUE,America/New_York,29670
+Tigerville-SC,1840026953,Tigerville,Tigerville,SC,Tigerville-SC,South Carolina,45045,Greenville,35.0669,-82.3695,,,1139.1,polygon,FALSE,America/New_York,29690 29687 29688
+Mount Pleasant-SC,1840017286,Mount Pleasant,Mount Pleasant,SC,Mount Pleasant-SC,South Carolina,45019,Charleston,32.8532,-79.8269,84170,84170,720,polygon,TRUE,America/New_York,29466 29464 29465
+McConnells-SC,1840016477,McConnells,McConnells,SC,McConnells-SC,South Carolina,45091,York,34.8695,-81.2266,295,295,33,polygon,TRUE,America/New_York,29726
+Rowesville-SC,1840018007,Rowesville,Rowesville,SC,Rowesville-SC,South Carolina,45075,Orangeburg,33.3722,-80.8362,293,293,136,polygon,TRUE,America/New_York,29133
+Mountville-SC,1840013585,Mountville,Mountville,SC,Mountville-SC,South Carolina,45059,Laurens,34.3664,-81.9759,,,50.4,polygon,FALSE,America/New_York,29370
+Clearwater-SC,1840013721,Clearwater,Clearwater,SC,Clearwater-SC,South Carolina,45003,Aiken,33.5038,-81.91,,,614.1,polygon,FALSE,America/New_York,29841 29842 29822
+Six Mile-SC,1840017888,Six Mile,Six Mile,SC,Six Mile-SC,South Carolina,45077,Pickens,34.8082,-82.8154,686,686,129,polygon,TRUE,America/New_York,29682
+Luray-SC,1840016923,Luray,Luray,SC,Luray-SC,South Carolina,45049,Hampton,32.8142,-81.2403,121,121,45,polygon,TRUE,America/New_York,29932
+Ehrhardt-SC,1840016873,Ehrhardt,Ehrhardt,SC,Ehrhardt-SC,South Carolina,45009,Bamberg,33.0985,-81.0138,499,499,61,polygon,TRUE,America/New_York,29081
+Mount Holly-SC,1840035775,Mount Holly,Mount Holly,SC,Mount Holly-SC,South Carolina,45015,Berkeley,33.0343,-80.0345,,,3.3,point,FALSE,America/New_York,29445
+Valley Falls-SC,1840013512,Valley Falls,Valley Falls,SC,Valley Falls-SC,South Carolina,45083,Spartanburg,35.0073,-81.9692,,,724.3,polygon,FALSE,America/New_York,29303 29316
+Kingstree-SC,1840016790,Kingstree,Kingstree,SC,Kingstree-SC,South Carolina,45089,Williamsburg,33.6665,-79.8292,5899,3221,391,polygon,TRUE,America/New_York,29556
+Johnsonville-SC,1840014714,Johnsonville,Johnsonville,SC,Johnsonville-SC,South Carolina,45041,Florence,33.8147,-79.4443,1504,1504,282,polygon,TRUE,America/New_York,29555
+Mount Croghan-SC,1840016581,Mount Croghan,Mount Croghan,SC,Mount Croghan-SC,South Carolina,45025,Chesterfield,34.7697,-80.2264,194,194,98,polygon,TRUE,America/New_York,29727
+Lane-SC,1840016791,Lane,Lane,SC,Lane-SC,South Carolina,45089,Williamsburg,33.5251,-79.8797,470,470,45,polygon,TRUE,America/New_York,29564
+Ridgeway-SC,1840017933,Ridgeway,Ridgeway,SC,Ridgeway-SC,South Carolina,45039,Fairfield,34.3066,-80.9601,303,303,241,polygon,TRUE,America/New_York,29130
+Denmark-SC,1840014837,Denmark,Denmark,SC,Denmark-SC,South Carolina,45009,Bamberg,33.3152,-81.1366,3226,3019,303,polygon,TRUE,America/New_York,29042
+Gloverville-SC,1840013719,Gloverville,Gloverville,SC,Gloverville-SC,South Carolina,45003,Aiken,33.5274,-81.8145,,,457.1,polygon,FALSE,America/New_York,29828 29851
+Blackstock-SC,1840035813,Blackstock,Blackstock,SC,Blackstock-SC,South Carolina,45023,Chester,34.5585,-81.1523,,,15.5,point,FALSE,America/New_York,29014
+Goose Creek-SC,1840013761,Goose Creek,Goose Creek,SC,Goose Creek-SC,South Carolina,45015,Berkeley,32.992,-80.0063,42039,42039,403,polygon,TRUE,America/New_York,29445
+Ballentine-SC,1840035758,Ballentine,Ballentine,SC,Ballentine-SC,South Carolina,45079,Richland,34.1243,-81.2373,,,387.1,point,FALSE,America/New_York,29063
+Edgefield-SC,1840016779,Edgefield,Edgefield,SC,Edgefield-SC,South Carolina,45037,Edgefield,33.7871,-81.9292,4563,4752,437,polygon,TRUE,America/New_York,29824
+Landrum-SC,1840014616,Landrum,Landrum,SC,Landrum-SC,South Carolina,45083,Spartanburg,35.1746,-82.185,4516,2531,363,polygon,TRUE,America/New_York,29356
+Bath-SC,1840035759,Bath,Bath,SC,Bath-SC,South Carolina,45003,Aiken,33.5046,-81.869,,,702.1,point,FALSE,America/New_York,29816
+Centerville-SC,1840035725,Centerville,Centerville,SC,Centerville-SC,South Carolina,45019,Charleston,32.7341,-79.9687,,,802.6,point,FALSE,America/New_York,29412
+Sharon-SC,1840017884,Sharon,Sharon,SC,Sharon-SC,South Carolina,45091,York,34.952,-81.3436,569,569,167,polygon,TRUE,America/New_York,29742
+Inman-SC,1840014615,Inman,Inman,SC,Inman-SC,South Carolina,45083,Spartanburg,35.0474,-82.0917,2292,2292,613,polygon,TRUE,America/New_York,29349
+Ladson-SC,1840014254,Ladson,Ladson,SC,Ladson-SC,South Carolina,45015,Berkeley,33.0093,-80.1078,,,37.1,polygon,FALSE,America/New_York,29456
+Utica-SC,1840013532,Utica,Utica,SC,Utica-SC,South Carolina,45073,Oconee,34.6778,-82.925,,,1051.9,polygon,FALSE,America/New_York,29678
+Woodfield-SC,1840035853,Woodfield,Woodfield,SC,Woodfield-SC,South Carolina,45079,Richland,34.0587,-80.9309,,,1792.5,polygon,FALSE,America/New_York,29223
+Lakewood-SC,1840035840,Lakewood,Lakewood,SC,Lakewood-SC,South Carolina,45085,Sumter,33.8429,-80.3492,,,178.7,polygon,FALSE,America/New_York,29150
+Blythewood-SC,1840015598,Blythewood,Blythewood,SC,Blythewood-SC,South Carolina,45079,Richland,34.2121,-80.992,3099,3099,112,polygon,TRUE,America/New_York,29016
+Jordan-SC,1840035737,Jordan,Jordan,SC,Jordan-SC,South Carolina,45027,Clarendon,33.606,-80.209,,,82.2,point,FALSE,America/New_York,29102
+Summerville-SC,1840016886,Summerville,Summerville,SC,Summerville-SC,South Carolina,45035,Dorchester,33.0038,-80.1794,49323,49323,1032,polygon,TRUE,America/New_York,29485 29483 29484
+Lugoff-SC,1840013597,Lugoff,Lugoff,SC,Lugoff-SC,South Carolina,45055,Kershaw,34.2216,-80.6849,,,295,polygon,FALSE,America/New_York,29078
+Campobello-SC,1840015481,Campobello,Campobello,SC,Campobello-SC,South Carolina,45083,Spartanburg,35.1279,-82.1485,533,533,71,polygon,TRUE,America/New_York,29322
+Pocalla Springs-SC,1840035779,Pocalla Springs,Pocalla Springs,SC,Pocalla Springs-SC,South Carolina,45085,Sumter,33.8718,-80.3542,,,122.6,point,FALSE,America/New_York,29150
+Laurens-SC,1840014668,Laurens,Laurens,SC,Laurens-SC,South Carolina,45059,Laurens,34.5014,-82.0232,10269,9080,336,polygon,TRUE,America/New_York,29360
+Newry-SC,1840024987,Newry,Newry,SC,Newry-SC,South Carolina,45073,Oconee,34.724,-82.9141,,,133,polygon,FALSE,America/New_York,29672 29665
+Horrel Hill-SC,1840035803,Horrel Hill,Horrel Hill,SC,Horrel Hill-SC,South Carolina,45079,Richland,33.9518,-80.8426,,,123.2,point,FALSE,America/New_York,29061
+Lexington-SC,1840016724,Lexington,Lexington,SC,Lexington-SC,South Carolina,45063,Lexington,33.9881,-81.22,20988,20988,900,polygon,TRUE,America/New_York,29072 29071
+Plum Branch-SC,1840016753,Plum Branch,Plum Branch,SC,Plum Branch-SC,South Carolina,45065,McCormick,33.8481,-82.2587,78,78,83,polygon,TRUE,America/New_York,29845
+Martin-SC,1840035752,Martin,Martin,SC,Martin-SC,South Carolina,45005,Allendale,33.069,-81.4765,,,2.2,point,FALSE,America/New_York,29836
+Hartsville-SC,1840013610,Hartsville,Hartsville,SC,Hartsville-SC,South Carolina,45031,Darlington,34.3679,-80.0829,15133,7768,525,polygon,TRUE,America/New_York,29550 29551
+Neeses-SC,1840016826,Neeses,Neeses,SC,Neeses-SC,South Carolina,45075,Orangeburg,33.5365,-81.1243,353,353,77,polygon,TRUE,America/New_York,29107
+Pamplico-SC,1840016708,Pamplico,Pamplico,SC,Pamplico-SC,South Carolina,45041,Florence,33.9957,-79.5698,1243,1243,296,polygon,TRUE,America/New_York,29583
+Cades-SC,1840035814,Cades,Cades,SC,Cades-SC,South Carolina,45089,Williamsburg,33.7866,-79.7826,,,30.2,point,FALSE,America/New_York,29518
+India Hook-SC,1840013517,India Hook,India Hook,SC,India Hook-SC,South Carolina,45091,York,35.0141,-81.0378,,,353.9,polygon,FALSE,America/New_York,29732
+Elko-SC,1840016869,Elko,Elko,SC,Elko-SC,South Carolina,45011,Barnwell,33.3808,-81.3805,185,185,68,polygon,TRUE,America/New_York,29826 29853
+Wilkinson Heights-SC,1840035796,Wilkinson Heights,Wilkinson Heights,SC,Wilkinson Heights-SC,South Carolina,45075,Orangeburg,33.4919,-80.8286,,,410.3,polygon,FALSE,America/New_York,29115
+West Pelzer-SC,1840016575,West Pelzer,West Pelzer,SC,West Pelzer-SC,South Carolina,45007,Anderson,34.6449,-82.4737,926,926,715,polygon,TRUE,America/New_York,29669
+Arial-SC,1840013525,Arial,Arial,SC,Arial-SC,South Carolina,45077,Pickens,34.8462,-82.6404,,,441.3,polygon,FALSE,America/New_York,29640
+Edisto-SC,1840035843,Edisto,Edisto,SC,Edisto-SC,South Carolina,45075,Orangeburg,33.4776,-80.8998,,,517.4,polygon,FALSE,America/New_York,29115
+Lyman-SC,1840016461,Lyman,Lyman,SC,Lyman-SC,South Carolina,45083,Spartanburg,34.966,-82.123,3476,3476,211,polygon,TRUE,America/New_York,29365 29385
+Fort Lawn-SC,1840016570,Fort Lawn,Fort Lawn,SC,Fort Lawn-SC,South Carolina,45023,Chester,34.7003,-80.8991,864,864,239,polygon,TRUE,America/New_York,29714
+Lesslie-SC,1840013519,Lesslie,Lesslie,SC,Lesslie-SC,South Carolina,45091,York,34.8856,-80.9541,,,282.8,polygon,FALSE,America/New_York,29730 29704
+Sandy Springs-SC,1840035786,Sandy Springs,Sandy Springs,SC,Sandy Springs-SC,South Carolina,45007,Anderson,34.5954,-82.7499,,,38.3,point,FALSE,America/New_York,29670
+Pickens-SC,1840014627,Pickens,Pickens,SC,Pickens-SC,South Carolina,45077,Pickens,34.8858,-82.7103,3190,3190,435,polygon,TRUE,America/New_York,29671
+Nixons Crossroads-SC,1840035825,Nixons Crossroads,Nixons Crossroads,SC,Nixons Crossroads-SC,South Carolina,45051,Horry,33.8577,-78.6603,,,605.5,point,FALSE,America/New_York,29566
+Bluffton-SC,1840015799,Bluffton,Bluffton,SC,Bluffton-SC,South Carolina,45013,Beaufort,32.2129,-80.9316,18897,18897,142,polygon,TRUE,America/New_York,29910
+Walhalla-SC,1840015507,Walhalla,Walhalla,SC,Walhalla-SC,South Carolina,45073,Oconee,34.7705,-83.0615,4318,4318,429,polygon,TRUE,America/New_York,29696 29691
+Pineridge-SC,1840035828,Pineridge,Pineridge,SC,Pineridge-SC,South Carolina,45063,Lexington,33.9084,-81.0975,2265,2265,184,polygon,TRUE,America/New_York,29172
+Irmo-SC,1840016723,Irmo,Irmo,SC,Irmo-SC,South Carolina,45063,Lexington,34.1016,-81.1949,12177,12177,706,polygon,TRUE,America/New_York,29212 29063
+Wedgefield-SC,1840013670,Wedgefield,Wedgefield,SC,Wedgefield-SC,South Carolina,45085,Sumter,33.8829,-80.5157,,,21.9,polygon,FALSE,America/New_York,29168
+Monticello-SC,1840035772,Monticello,Monticello,SC,Monticello-SC,South Carolina,45039,Fairfield,34.3526,-81.2984,,,35.4,point,FALSE,America/New_York,29065
+Gayle Mill-SC,1840035845,Gayle Mill,Gayle Mill,SC,Gayle Mill-SC,South Carolina,45023,Chester,34.7022,-81.2392,,,840.3,polygon,FALSE,America/New_York,29706
+Marietta-SC,1840035739,Marietta,Marietta,SC,Marietta-SC,South Carolina,45045,Greenville,35.021,-82.5015,,,302.8,point,FALSE,America/New_York,29661
+Nichols-SC,1840016713,Nichols,Nichols,SC,Nichols-SC,South Carolina,45067,Marion,34.2352,-79.1492,358,358,98,polygon,TRUE,America/New_York,29581
+Edgemoor-SC,1840035818,Edgemoor,Edgemoor,SC,Edgemoor-SC,South Carolina,45023,Chester,34.8057,-81.0115,,,110.3,point,FALSE,America/New_York,29712
+Bethera-SC,1840035812,Bethera,Bethera,SC,Bethera-SC,South Carolina,45015,Berkeley,33.2016,-79.7881,,,52.1,point,FALSE,America/New_York,29434
+Bamberg-SC,1840015730,Bamberg,Bamberg,SC,Bamberg-SC,South Carolina,45009,Bamberg,33.2995,-81.0323,3235,3342,360,polygon,TRUE,America/New_York,29003
+Meriwether-SC,1840035770,Meriwether,Meriwether,SC,Meriwether-SC,South Carolina,45065,McCormick,33.6529,-82.1596,,,106,point,FALSE,America/New_York,29821
+Wateree-SC,1840035790,Wateree,Wateree,SC,Wateree-SC,South Carolina,45079,Richland,33.8071,-80.6373,,,2.4,point,FALSE,America/New_York,29044
+Eureka-SC,1840035820,Eureka,Eureka,SC,Eureka-SC,South Carolina,45003,Aiken,33.694,-81.7671,,,51.1,point,FALSE,America/New_York,29847
+Parksville-SC,1840016752,Parksville,Parksville,SC,Parksville-SC,South Carolina,45065,McCormick,33.7866,-82.2173,111,111,58,polygon,TRUE,America/New_York,29844 29845
+Cokesbury-SC,1840013087,Cokesbury,Cokesbury,SC,Cokesbury-SC,South Carolina,45047,Greenwood,34.29,-82.2088,,,120.1,polygon,FALSE,America/New_York,29653
+Little Mountain-SC,1840016632,Little Mountain,Little Mountain,SC,Little Mountain-SC,South Carolina,45071,Newberry,34.1969,-81.4126,296,296,80,polygon,TRUE,America/New_York,29075
+Mayesville-SC,1840016738,Mayesville,Mayesville,SC,Mayesville-SC,South Carolina,45085,Sumter,33.9849,-80.2044,729,729,274,polygon,TRUE,America/New_York,29104
+Sans Souci-SC,1840013497,Sans Souci,Sans Souci,SC,Sans Souci-SC,South Carolina,45045,Greenville,34.8901,-82.4241,,,1762.4,polygon,FALSE,America/New_York,29617 29609
+Briarcliffe Acres-SC,1840015594,Briarcliffe Acres,Briarcliffe Acres,SC,Briarcliffe Acres-SC,South Carolina,45051,Horry,33.7899,-78.749,551,551,324,polygon,TRUE,America/New_York,29572
+Mullins-SC,1840014719,Mullins,Mullins,SC,Mullins-SC,South Carolina,45067,Marion,34.2042,-79.2535,5347,4524,569,polygon,TRUE,America/New_York,29574
+White Oak-SC,1840035791,White Oak,White Oak,SC,White Oak-SC,South Carolina,45039,Fairfield,34.4743,-81.1165,,,7.7,point,FALSE,America/New_York,29180
+Effingham-SC,1840035764,Effingham,Effingham,SC,Effingham-SC,South Carolina,45041,Florence,34.0579,-79.7531,,,81,point,FALSE,America/New_York,29541
+Boyden Arbor-SC,1840035723,Boyden Arbor,Boyden Arbor,SC,Boyden Arbor-SC,South Carolina,45079,Richland,34.024,-80.9456,,,1259.5,point,FALSE,America/New_York,29206
+Garnett-SC,1840035767,Garnett,Garnett,SC,Garnett-SC,South Carolina,45049,Hampton,32.6063,-81.2454,,,58.9,point,FALSE,America/New_York,29922
+Grays Hill-SC,1840035731,Grays Hill,Grays Hill,SC,Grays Hill-SC,South Carolina,45013,Beaufort,32.4935,-80.7423,,,440.6,point,FALSE,America/New_York,29906
+Calhoun Falls-SC,1840015571,Calhoun Falls,Calhoun Falls,SC,Calhoun Falls-SC,South Carolina,45001,Abbeville,34.0933,-82.5963,1953,1953,222,polygon,TRUE,America/New_York,29628
+Gaffney-SC,1840013515,Gaffney,Gaffney,SC,Gaffney-SC,South Carolina,45021,Cherokee,35.0742,-81.6558,21692,12920,597,polygon,TRUE,America/New_York,29341 29340 29342
+Socastee-SC,1840013647,Socastee,Socastee,SC,Socastee-SC,South Carolina,45051,Horry,33.6871,-79.0086,,,1052.2,polygon,FALSE,America/New_York,29588
+Liberty-SC,1840015501,Liberty,Liberty,SC,Liberty-SC,South Carolina,45077,Pickens,34.7904,-82.6962,3252,3252,282,polygon,TRUE,America/New_York,29657
+Jefferson-SC,1840016579,Jefferson,Jefferson,SC,Jefferson-SC,South Carolina,45025,Chesterfield,34.6512,-80.3866,742,742,158,polygon,TRUE,America/New_York,29718
+Coronaca-SC,1840013088,Coronaca,Coronaca,SC,Coronaca-SC,South Carolina,45047,Greenwood,34.2595,-82.0969,,,76.4,polygon,FALSE,America/New_York,29649
+Jamestown-SC,1840016862,Jamestown,Jamestown,SC,Jamestown-SC,South Carolina,45015,Berkeley,33.2859,-79.6945,82,82,52,polygon,TRUE,America/New_York,29453
+Fort Mill-SC,1840016479,Fort Mill,Fort Mill,SC,Fort Mill-SC,South Carolina,45091,York,35.0072,-80.9381,15029,15029,322,polygon,TRUE,America/New_York,29715 29716
+Gilbert-SC,1840016727,Gilbert,Gilbert,SC,Gilbert-SC,South Carolina,45063,Lexington,33.9245,-81.3928,614,614,87,polygon,TRUE,America/New_York,29054
+Scotia-SC,1840018052,Scotia,Scotia,SC,Scotia-SC,South Carolina,45049,Hampton,32.6805,-81.2433,206,206,25,polygon,TRUE,America/New_York,29939
+Coosawhatchie-SC,1840035727,Coosawhatchie,Coosawhatchie,SC,Coosawhatchie-SC,South Carolina,45053,Jasper,32.5888,-80.9273,,,51.8,point,FALSE,America/New_York,29912
+Welcome-SC,1840013499,Welcome,Welcome,SC,Welcome-SC,South Carolina,45045,Greenville,34.8204,-82.46,,,1212.4,polygon,FALSE,America/New_York,29611
+Boiling Springs-SC,1840013509,Boiling Springs,Boiling Springs,SC,Boiling Springs-SC,South Carolina,45083,Spartanburg,35.045,-81.9779,,,423.1,polygon,FALSE,America/New_York,29316
+Hilton Head Island-SC,1840016974,Hilton Head Island,Hilton Head Island,SC,Hilton Head Island-SC,South Carolina,45013,Beaufort,32.1896,-80.7499,75328,40500,378,polygon,TRUE,America/New_York,29928 29926 29925 29938
+Pelion-SC,1840016730,Pelion,Pelion,SC,Pelion-SC,South Carolina,45063,Lexington,33.7749,-81.2502,706,706,74,polygon,TRUE,America/New_York,29123
+Stateburg-SC,1840013669,Stateburg,Stateburg,SC,Stateburg-SC,South Carolina,45085,Sumter,33.9753,-80.5264,,,14.7,polygon,FALSE,America/New_York,29040 29154
+Camden-SC,1840013598,Camden,Camden,SC,Camden-SC,South Carolina,45055,Kershaw,34.2564,-80.6085,14117,7126,257,polygon,TRUE,America/New_York,29020
+Ward-SC,1840016737,Ward,Ward,SC,Ward-SC,South Carolina,45081,Saluda,33.8573,-81.7313,93,93,46,polygon,TRUE,America/New_York,29166
+Varnville-SC,1840016928,Varnville,Varnville,SC,Varnville-SC,South Carolina,45049,Hampton,32.8521,-81.0802,2047,2047,206,polygon,TRUE,America/New_York,29944
+Pineville-SC,1840035743,Pineville,Pineville,SC,Pineville-SC,South Carolina,45015,Berkeley,33.4282,-80.0292,,,36.8,point,FALSE,America/New_York,29468
+Chappells-SC,1840035815,Chappells,Chappells,SC,Chappells-SC,South Carolina,45071,Newberry,34.1799,-81.8668,,,23.5,point,FALSE,America/New_York,29037
+Miley-SC,1840035740,Miley,Miley,SC,Miley-SC,South Carolina,45049,Hampton,32.9479,-81.0318,,,1.3,point,FALSE,America/New_York,29924
+Greeleyville-SC,1840016792,Greeleyville,Greeleyville,SC,Greeleyville-SC,South Carolina,45089,Williamsburg,33.5801,-79.9901,404,404,127,polygon,TRUE,America/New_York,29056
+Buffalo-SC,1840013563,Buffalo,Buffalo,SC,Buffalo-SC,South Carolina,45087,Union,34.7245,-81.6843,,,113.8,polygon,FALSE,America/New_York,29321
+Atlantic Beach-SC,1840015592,Atlantic Beach,Atlantic Beach,SC,Atlantic Beach-SC,South Carolina,45051,Horry,33.8035,-78.7177,402,402,960,polygon,TRUE,America/New_York,29582
+Clinton-SC,1840014667,Clinton,Clinton,SC,Clinton-SC,South Carolina,45059,Laurens,34.478,-81.864,11127,8453,330,polygon,TRUE,America/New_York,29325
+Batesburg-Leesville-SC,1840003900,Batesburg-Leesville,Batesburg-Leesville,SC,Batesburg-Leesville-SC,South Carolina,45063,Lexington,33.9117,-81.5308,5350,5448,269,polygon,TRUE,America/New_York,29070 29006
+Seabrook Island-SC,1840018343,Seabrook Island,Seabrook Island,SC,Seabrook Island-SC,South Carolina,45019,Charleston,32.5825,-80.1736,1866,1866,120,polygon,TRUE,America/New_York,29455
+Ridgeville-SC,1840018041,Ridgeville,Ridgeville,SC,Ridgeville-SC,South Carolina,45035,Dorchester,33.09,-80.3071,1780,1780,382,polygon,TRUE,America/New_York,29472
+Dorchester-SC,1840035817,Dorchester,Dorchester,SC,Dorchester-SC,South Carolina,45035,Dorchester,33.1399,-80.3943,,,119.8,point,FALSE,America/New_York,29437
+Arcadia Lakes-SC,1840015597,Arcadia Lakes,Arcadia Lakes,SC,Arcadia Lakes-SC,South Carolina,45079,Richland,34.0536,-80.9615,865,865,608,polygon,TRUE,America/New_York,29223 29206
+Hickory Grove-SC,1840015490,Hickory Grove,Hickory Grove,SC,Hickory Grove-SC,South Carolina,45091,York,34.9786,-81.418,502,502,116,polygon,TRUE,America/New_York,29717
+Lowndesville-SC,1840016666,Lowndesville,Lowndesville,SC,Lowndesville-SC,South Carolina,45001,Abbeville,34.21,-82.6476,123,123,61,polygon,TRUE,America/New_York,29659
+Pawleys Island-SC,1840016814,Pawleys Island,Pawleys Island,SC,Pawleys Island-SC,South Carolina,45043,Georgetown,33.427,-79.1245,107,107,58,polygon,TRUE,America/New_York,29585
+Heath Springs-SC,1840015505,Heath Springs,Heath Springs,SC,Heath Springs-SC,South Carolina,45057,Lancaster,34.5932,-80.675,944,944,224,polygon,TRUE,America/New_York,29058
+Homewood-SC,1840035802,Homewood,Homewood,SC,Homewood-SC,South Carolina,45051,Horry,33.8841,-79.0484,,,104.1,point,FALSE,America/New_York,29526
+Walterboro-SC,1840015757,Walterboro,Walterboro,SC,Walterboro-SC,South Carolina,45029,Colleton,32.9007,-80.6751,9316,5293,314,polygon,TRUE,America/New_York,29488
+Glendale-SC,1840026962,Glendale,Glendale,SC,Glendale-SC,South Carolina,45083,Spartanburg,34.9451,-81.8364,,,451.9,polygon,FALSE,America/New_York,29346
+Morgana-SC,1840035774,Morgana,Morgana,SC,Morgana-SC,South Carolina,45037,Edgefield,33.6071,-82.0543,,,13.3,point,FALSE,America/New_York,29821
+Starr-SC,1840016574,Starr,Starr,SC,Starr-SC,South Carolina,45007,Anderson,34.3777,-82.6955,186,186,40,polygon,TRUE,America/New_York,29684
+Snelling-SC,1840018026,Snelling,Snelling,SC,Snelling-SC,South Carolina,45011,Barnwell,33.2416,-81.4622,256,256,24,polygon,TRUE,America/New_York,29812
+Jackson-SC,1840016794,Jackson,Jackson,SC,Jackson-SC,South Carolina,45003,Aiken,33.3285,-81.7927,1781,1781,193,polygon,TRUE,America/New_York,29831
+Hollywood-SC,1840017281,Hollywood,Hollywood,SC,Hollywood-SC,South Carolina,45019,Charleston,32.7523,-80.2106,5084,5084,84,polygon,TRUE,America/New_York,29470 29449
+North-SC,1840016827,North,North,SC,North-SC,South Carolina,45075,Orangeburg,33.6164,-81.103,732,732,325,polygon,TRUE,America/New_York,29112
+Five Forks-SC,1840013491,Five Forks,Five Forks,SC,Five Forks-SC,South Carolina,45045,Greenville,34.8069,-82.2271,,,551.2,polygon,FALSE,America/New_York,29681
+Reevesville-SC,1840018040,Reevesville,Reevesville,SC,Reevesville-SC,South Carolina,45035,Dorchester,33.2021,-80.6456,206,206,49,polygon,TRUE,America/New_York,29471
+Frogmore-SC,1840035766,Frogmore,Frogmore,SC,Frogmore-SC,South Carolina,45013,Beaufort,32.3969,-80.5762,,,26.9,point,FALSE,America/New_York,29920
+Tradesville-SC,1840035749,Tradesville,Tradesville,SC,Tradesville-SC,South Carolina,45057,Lancaster,34.7688,-80.547,,,58,point,FALSE,America/New_York,29720
+Startex-SC,1840013511,Startex,Startex,SC,Startex-SC,South Carolina,45083,Spartanburg,34.9308,-82.0942,,,483.4,polygon,FALSE,America/New_York,29377 29385
+Eastover-SC,1840016716,Eastover,Eastover,SC,Eastover-SC,South Carolina,45079,Richland,33.8779,-80.6949,809,809,257,polygon,TRUE,America/New_York,29044
+Great Falls-SC,1840016571,Great Falls,Great Falls,SC,Great Falls-SC,South Carolina,45023,Chester,34.5753,-80.9048,1928,1928,175,polygon,TRUE,America/New_York,29055
+Harleyville-SC,1840016885,Harleyville,Harleyville,SC,Harleyville-SC,South Carolina,45035,Dorchester,33.2126,-80.4478,690,690,231,polygon,TRUE,America/New_York,29448
+Ridge Spring-SC,1840017970,Ridge Spring,Ridge Spring,SC,Ridge Spring-SC,South Carolina,45081,Saluda,33.8453,-81.6617,752,752,159,polygon,TRUE,America/New_York,29129
+Cummings-SC,1840035729,Cummings,Cummings,SC,Cummings-SC,South Carolina,45049,Hampton,32.7871,-80.9904,,,25.8,point,FALSE,America/New_York,29944
+Orangeburg-SC,1840014812,Orangeburg,Orangeburg,SC,Orangeburg-SC,South Carolina,45075,Orangeburg,33.4928,-80.8671,31666,13196,565,polygon,TRUE,America/New_York,29118 29117 29115 29116
+Surfside Beach-SC,1840016712,Surfside Beach,Surfside Beach,SC,Surfside Beach-SC,South Carolina,45051,Horry,33.6092,-78.9772,4391,4391,877,polygon,TRUE,America/New_York,29575
+Rockville-SC,1840018342,Rockville,Rockville,SC,Rockville-SC,South Carolina,45019,Charleston,32.6024,-80.1935,137,137,124,polygon,TRUE,America/New_York,29487
+Patrick-SC,1840016585,Patrick,Patrick,SC,Patrick-SC,South Carolina,45025,Chesterfield,34.5752,-80.0446,347,347,139,polygon,TRUE,America/New_York,29584
+Summit-SC,1840016728,Summit,Summit,SC,Summit-SC,South Carolina,45063,Lexington,33.9246,-81.4226,438,438,113,polygon,TRUE,America/New_York,29070
+Murphys Estates-SC,1840035841,Murphys Estates,Murphys Estates,SC,Murphys Estates-SC,South Carolina,45037,Edgefield,33.6002,-81.9437,,,326.3,polygon,FALSE,America/New_York,29860
+Charleston-SC,1840015163,Charleston,Charleston,SC,Charleston-SC,South Carolina,45019,Charleston,32.8137,-79.9643,613847,134385,475,polygon,TRUE,America/New_York,29414 29424 29455 29407 29401 29403 29409 29492 29412 29402 29413 29415 29416 29417 29422 29425 29457
+Burnettown-SC,1840015666,Burnettown,Burnettown,SC,Burnettown-SC,South Carolina,45003,Aiken,33.5186,-81.8634,2800,2800,196,polygon,TRUE,America/New_York,29829 29851 29834 29816 29841
+Aiken-SC,1840013722,Aiken,Aiken,SC,Aiken-SC,South Carolina,45003,Aiken,33.5303,-81.7271,30937,30937,573,polygon,TRUE,America/New_York,29803 29801 29802 29804 29808
+Salters-SC,1840035837,Salters,Salters,SC,Salters-SC,South Carolina,45089,Williamsburg,33.5985,-79.8515,,,69,point,FALSE,America/New_York,29590
+Gifford-SC,1840016926,Gifford,Gifford,SC,Gifford-SC,South Carolina,45049,Hampton,32.86,-81.2385,271,271,108,polygon,TRUE,America/New_York,29923
+Toddville-SC,1840035788,Toddville,Toddville,SC,Toddville-SC,South Carolina,45051,Horry,33.7588,-79.0761,,,28.4,point,FALSE,America/New_York,29527
+Hendersonville-SC,1840035734,Hendersonville,Hendersonville,SC,Hendersonville-SC,South Carolina,45029,Colleton,32.7907,-80.7254,,,16.5,point,FALSE,America/New_York,29945
+Shiloh-SC,1840013668,Shiloh,Shiloh,SC,Shiloh-SC,South Carolina,45085,Sumter,33.9461,-80.0208,,,6.5,polygon,FALSE,America/New_York,29080
+Burton-SC,1840013816,Burton,Burton,SC,Burton-SC,South Carolina,45013,Beaufort,32.4241,-80.7453,,,226.7,polygon,FALSE,America/New_York,29902 29906
+Floydale-SC,1840035821,Floydale,Floydale,SC,Floydale-SC,South Carolina,45033,Dillon,34.3238,-79.3362,,,136.8,point,FALSE,America/New_York,29536
+Gresham-SC,1840035732,Gresham,Gresham,SC,Gresham-SC,South Carolina,45067,Marion,33.9302,-79.4112,,,21.1,point,FALSE,America/New_York,29546
+New Zion-SC,1840035741,New Zion,New Zion,SC,New Zion-SC,South Carolina,45027,Clarendon,33.8443,-80.0292,,,22.5,point,FALSE,America/New_York,29111
+Sumter-SC,1840015612,Sumter,Sumter,SC,Sumter-SC,South Carolina,45085,Sumter,33.9393,-80.3929,73468,40723,487,polygon,TRUE,America/New_York,29154 29152 29153 29150 29151
+Westminster-SC,1840015508,Westminster,Westminster,SC,Westminster-SC,South Carolina,45073,Oconee,34.6657,-83.0911,2503,2503,280,polygon,TRUE,America/New_York,29693
+Dalzell-SC,1840013090,Dalzell,Dalzell,SC,Dalzell-SC,South Carolina,45085,Sumter,34.0189,-80.4299,,,373.4,polygon,FALSE,America/New_York,29040
+Williams-SC,1840016903,Williams,Williams,SC,Williams-SC,South Carolina,45029,Colleton,33.0341,-80.8429,116,116,52,polygon,TRUE,America/New_York,29493
+Johns Island-SC,1840035736,Johns Island,Johns Island,SC,Johns Island-SC,South Carolina,45019,Charleston,32.7924,-80.1081,,,46.2,point,FALSE,America/New_York,29455
+Belton-SC,1840013582,Belton,Belton,SC,Belton-SC,South Carolina,45007,Anderson,34.5235,-82.4938,5774,4386,457,polygon,TRUE,America/New_York,29627
+Hodges-SC,1840016672,Hodges,Hodges,SC,Hodges-SC,South Carolina,45047,Greenwood,34.2876,-82.2479,154,154,76,polygon,TRUE,America/New_York,29653 29695
+Allendale-SC,1840015758,Allendale,Allendale,SC,Allendale-SC,South Carolina,45005,Allendale,33.008,-81.3092,2893,3046,355,polygon,TRUE,America/New_York,29810
+Newberry-SC,1840014694,Newberry,Newberry,SC,Newberry-SC,South Carolina,45071,Newberry,34.2822,-81.6012,12156,10372,465,polygon,TRUE,America/New_York,29108
+Pinopolis-SC,1840025043,Pinopolis,Pinopolis,SC,Pinopolis-SC,South Carolina,45015,Berkeley,33.2285,-80.0387,,,304.6,polygon,FALSE,America/New_York,29461 29469
+Pomaria-SC,1840016635,Pomaria,Pomaria,SC,Pomaria-SC,South Carolina,45071,Newberry,34.2681,-81.4196,181,181,67,polygon,TRUE,America/New_York,29126
+Winnsboro Mills-SC,1840013605,Winnsboro Mills,Winnsboro Mills,SC,Winnsboro Mills-SC,South Carolina,45039,Fairfield,34.3561,-81.0709,,,848.9,polygon,FALSE,America/New_York,29180
+Quinby-SC,1840017960,Quinby,Quinby,SC,Quinby-SC,South Carolina,45041,Florence,34.2282,-79.7358,942,942,278,polygon,TRUE,America/New_York,29506
+East Gaffney-SC,1840013080,East Gaffney,East Gaffney,SC,East Gaffney-SC,South Carolina,45021,Cherokee,35.0846,-81.6219,,,598.2,polygon,FALSE,America/New_York,29340
+McColl-SC,1840016586,McColl,McColl,SC,McColl-SC,South Carolina,45069,Marlboro,34.6665,-79.5447,2040,2040,750,polygon,TRUE,America/New_York,29570
+Golden Grove-SC,1840013493,Golden Grove,Golden Grove,SC,Golden Grove-SC,South Carolina,45045,Greenville,34.7324,-82.4408,,,167.4,polygon,FALSE,America/New_York,29673
+Pageland-SC,1840016584,Pageland,Pageland,SC,Pageland-SC,South Carolina,45025,Chesterfield,34.7719,-80.3899,4016,2704,239,polygon,TRUE,America/New_York,29728
+Trenton-SC,1840016780,Trenton,Trenton,SC,Trenton-SC,South Carolina,45037,Edgefield,33.7401,-81.8404,192,192,58,polygon,TRUE,America/New_York,29847
+Monetta-SC,1840016736,Monetta,Monetta,SC,Monetta-SC,South Carolina,45003,Aiken,33.8497,-81.6097,234,234,122,polygon,TRUE,America/New_York,29105
+Saint George-SC,1840018042,Saint George,Saint George,SC,Saint George-SC,South Carolina,45035,Dorchester,33.186,-80.5794,2165,2165,293,polygon,TRUE,America/New_York,29477
+Myrtle Beach-SC,1840014717,Myrtle Beach,Myrtle Beach,SC,Myrtle Beach-SC,South Carolina,45051,Horry,33.7095,-78.8844,256079,32240,529,polygon,TRUE,America/New_York,29572 29577 29578 29587
+West Union-SC,1840016499,West Union,West Union,SC,West Union-SC,South Carolina,45073,Oconee,34.7589,-83.0431,315,315,153,polygon,TRUE,America/New_York,29696 29691
+Kiawah Island-SC,1840017282,Kiawah Island,Kiawah Island,SC,Kiawah Island-SC,South Carolina,45019,Charleston,32.6159,-80.0607,1771,1771,62,polygon,TRUE,America/New_York,29455
+Townville-SC,1840035834,Townville,Townville,SC,Townville-SC,South Carolina,45007,Anderson,34.5637,-82.8985,,,78.1,point,FALSE,America/New_York,29689
+Wagener-SC,1840016795,Wagener,Wagener,SC,Wagener-SC,South Carolina,45003,Aiken,33.6521,-81.3636,829,829,272,polygon,TRUE,America/New_York,29164
+Lando-SC,1840035804,Lando,Lando,SC,Lando-SC,South Carolina,45023,Chester,34.7763,-81.0101,,,34.1,point,FALSE,America/New_York,29724
+Norris-SC,1840016495,Norris,Norris,SC,Norris-SC,South Carolina,45077,Pickens,34.7661,-82.7525,822,822,168,polygon,TRUE,America/New_York,29630 29667 29657
+Union-SC,1840015533,Union,Union,SC,Union-SC,South Carolina,45087,Union,34.7235,-81.6248,9562,8000,387,polygon,TRUE,America/New_York,29379
+Poston-SC,1840035745,Poston,Poston,SC,Poston-SC,South Carolina,45041,Florence,33.8738,-79.4262,,,62.1,point,FALSE,America/New_York,29555
+Jacksonboro-SC,1840026998,Jacksonboro,Jacksonboro,SC,Jacksonboro-SC,South Carolina,45029,Colleton,32.7718,-80.477,,,31.8,polygon,FALSE,America/New_York,29474 29452
+Ashton-SC,1840035757,Ashton,Ashton,SC,Ashton-SC,South Carolina,45029,Colleton,33.016,-80.9707,,,14.6,point,FALSE,America/New_York,29082
+Powdersville-SC,1840013581,Powdersville,Powdersville,SC,Powdersville-SC,South Carolina,45007,Anderson,34.7827,-82.4959,,,158.5,polygon,FALSE,America/New_York,29673 29611 29642
+Sullivans Island-SC,1840035787,Sullivans Island,Sullivans Island,SC,Sullivans Island-SC,South Carolina,45019,Charleston,32.7684,-79.8354,1936,1936,299,polygon,TRUE,America/New_York,29482
+Lake Secession-SC,1840035839,Lake Secession,Lake Secession,SC,Lake Secession-SC,South Carolina,45001,Abbeville,34.2821,-82.5908,,,105.7,polygon,FALSE,America/New_York,29620 29655
+Sellers-SC,1840017962,Sellers,Sellers,SC,Sellers-SC,South Carolina,45067,Marion,34.2823,-79.4723,213,213,118,polygon,TRUE,America/New_York,29592
+Mont Clare-SC,1840035810,Mont Clare,Mont Clare,SC,Mont Clare-SC,South Carolina,45031,Darlington,34.3968,-79.8212,,,16.4,point,FALSE,America/New_York,29540
+York-SC,1840015489,York,York,SC,York-SC,South Carolina,45091,York,34.9968,-81.2348,8260,8058,378,polygon,TRUE,America/New_York,29745
+North Myrtle Beach-SC,1840014718,North Myrtle Beach,North Myrtle Beach,SC,North Myrtle Beach-SC,South Carolina,45051,Horry,33.8225,-78.7086,16032,16032,307,polygon,TRUE,America/New_York,29582 29568 29566 29597 29598
+Cayce-SC,1840014734,Cayce,Cayce,SC,Cayce-SC,South Carolina,45063,Lexington,33.9458,-81.0432,14233,14233,327,polygon,TRUE,America/New_York,29201 29209 29172 29033
+Cowpens-SC,1840016463,Cowpens,Cowpens,SC,Cowpens-SC,South Carolina,45083,Spartanburg,35.0188,-81.8043,2302,2302,376,polygon,TRUE,America/New_York,29330
+McBee-SC,1840016580,McBee,McBee,SC,McBee-SC,South Carolina,45025,Chesterfield,34.467,-80.2571,855,855,251,polygon,TRUE,America/New_York,29101
+Homeland Park-SC,1840013578,Homeland Park,Homeland Park,SC,Homeland Park-SC,South Carolina,45007,Anderson,34.4644,-82.6593,,,741.7,polygon,FALSE,America/New_York,29626 29624
+Newport-SC,1840013520,Newport,Newport,SC,Newport-SC,South Carolina,45091,York,34.9832,-81.0991,,,178.4,polygon,FALSE,America/New_York,29732
+Clemson-SC,1840014626,Clemson,Clemson,SC,Clemson-SC,South Carolina,45077,Pickens,34.6841,-82.8124,16058,16058,833,polygon,TRUE,America/New_York,29631 29632 29633
+Oak Grove-SC,1840013718,Oak Grove,Oak Grove,SC,Oak Grove-SC,South Carolina,45017,Calhoun,33.7782,-80.9668,,,70.6,point,FALSE,America/New_York,29160
+Lockhart-SC,1840016543,Lockhart,Lockhart,SC,Lockhart-SC,South Carolina,45087,Union,34.7922,-81.4614,472,472,596,polygon,TRUE,America/New_York,29364
+Holly Hill-SC,1840016818,Holly Hill,Holly Hill,SC,Holly Hill-SC,South Carolina,45075,Orangeburg,33.3245,-80.413,1220,1220,360,polygon,TRUE,America/New_York,29059
+Summerton-SC,1840016787,Summerton,Summerton,SC,Summerton-SC,South Carolina,45027,Clarendon,33.6013,-80.3527,966,966,275,polygon,TRUE,America/New_York,29148
+Moore-SC,1840035773,Moore,Moore,SC,Moore-SC,South Carolina,45083,Spartanburg,34.8335,-81.992,,,73.6,point,FALSE,America/New_York,29369
+Pauline-SC,1840035826,Pauline,Pauline,SC,Pauline-SC,South Carolina,45083,Spartanburg,34.8332,-81.8723,,,53.8,point,FALSE,America/New_York,29374
+Laurel Bay-SC,1840013817,Laurel Bay,Laurel Bay,SC,Laurel Bay-SC,South Carolina,45013,Beaufort,32.4602,-80.7864,,,419.3,polygon,FALSE,America/New_York,29906
+Moncks Corner-SC,1840016863,Moncks Corner,Moncks Corner,SC,Moncks Corner-SC,South Carolina,45015,Berkeley,33.1716,-80.0121,10315,10315,525,polygon,TRUE,America/New_York,29461
+Fair Play-SC,1840024986,Fair Play,Fair Play,SC,Fair Play-SC,South Carolina,45073,Oconee,34.5077,-82.9863,,,117.3,polygon,FALSE,America/New_York,29643
+Marion-SC,1840015595,Marion,Marion,SC,Marion-SC,South Carolina,45067,Marion,34.1787,-79.3965,7218,6711,586,polygon,TRUE,America/New_York,29571
+Darlington-SC,1840014693,Darlington,Darlington,SC,Darlington-SC,South Carolina,45031,Darlington,34.3015,-79.8672,6117,6117,519,polygon,TRUE,America/New_York,29532
+Folly Beach-SC,1840014255,Folly Beach,Folly Beach,SC,Folly Beach-SC,South Carolina,45019,Charleston,32.6692,-79.95,2782,2782,85,polygon,TRUE,America/New_York,29439 29412
+Graves-SC,1840035730,Graves,Graves,SC,Graves-SC,South Carolina,45043,Georgetown,33.3935,-79.3689,,,54.3,point,FALSE,America/New_York,29440
+Lake Wylie-SC,1840013518,Lake Wylie,Lake Wylie,SC,Lake Wylie-SC,South Carolina,45091,York,35.0997,-81.0677,,,475.2,polygon,FALSE,America/New_York,29745 29710
+Rains-SC,1840035746,Rains,Rains,SC,Rains-SC,South Carolina,45067,Marion,34.0977,-79.3156,,,89.4,point,FALSE,America/New_York,29574
+Islandton-SC,1840026997,Islandton,Islandton,SC,Islandton-SC,South Carolina,45029,Colleton,32.9093,-80.9359,,,6.6,polygon,FALSE,America/New_York,29929
+Society Hill-SC,1840017938,Society Hill,Society Hill,SC,Society Hill-SC,South Carolina,45031,Darlington,34.5098,-79.8539,542,542,95,polygon,TRUE,America/New_York,29593
+Anderson-SC,1840013579,Anderson,Anderson,SC,Anderson-SC,South Carolina,45007,Anderson,34.521,-82.6477,78138,27544,738,polygon,TRUE,America/New_York,29625 29621 29624 29622 29623
+Central-SC,1840016494,Central,Central,SC,Central-SC,South Carolina,45077,Pickens,34.7234,-82.7789,5229,5229,737,polygon,TRUE,America/New_York,29630
+Bonneau-SC,1840015720,Bonneau,Bonneau,SC,Bonneau-SC,South Carolina,45015,Berkeley,33.3081,-79.9572,473,473,60,polygon,TRUE,America/New_York,29431
+Lobeco-SC,1840035807,Lobeco,Lobeco,SC,Lobeco-SC,South Carolina,45013,Beaufort,32.5527,-80.7434,,,51.6,point,FALSE,America/New_York,29940
+Pelzer-SC,1840016577,Pelzer,Pelzer,SC,Pelzer-SC,South Carolina,45007,Anderson,34.6451,-82.4609,1354,1354,2950,polygon,TRUE,America/New_York,29669
+Vaucluse-SC,1840035835,Vaucluse,Vaucluse,SC,Vaucluse-SC,South Carolina,45003,Aiken,33.6126,-81.8098,,,24,point,FALSE,America/New_York,29850
+Gadsden-SC,1840026976,Gadsden,Gadsden,SC,Gadsden-SC,South Carolina,45079,Richland,33.848,-80.7663,,,66.2,polygon,FALSE,America/New_York,29052 29061
+West Columbia-SC,1840015605,West Columbia,West Columbia,SC,West Columbia-SC,South Carolina,45063,Lexington,33.9948,-81.0878,16282,16282,873,polygon,TRUE,America/New_York,29169 29171
+Lake View-SC,1840016615,Lake View,Lake View,SC,Lake View-SC,South Carolina,45033,Dillon,34.3406,-79.1663,783,783,179,polygon,TRUE,America/New_York,29563
+Edisto Island-SC,1840035763,Edisto Island,Edisto Island,SC,Edisto Island-SC,South Carolina,45019,Charleston,32.5602,-80.2798,,,28.8,point,FALSE,America/New_York,29438
+McClellanville-SC,1840017284,McClellanville,McClellanville,SC,McClellanville-SC,South Carolina,45019,Charleston,33.0865,-79.468,543,543,93,polygon,TRUE,America/New_York,29458
+Beaufort-SC,1840013818,Beaufort,Beaufort,SC,Beaufort-SC,South Carolina,45013,Beaufort,32.4487,-80.7102,53086,13445,185,polygon,TRUE,America/New_York,29902 29904 29907 29906 29901 29903
+North Charleston-SC,1840015164,North Charleston,North Charleston,SC,North Charleston-SC,South Carolina,45019,Charleston,32.9086,-80.0705,109298,109298,572,polygon,TRUE,America/New_York,29423 29420 29456 29485 29483 29404 29405 29406 29418 29419
+Gluck-SC,1840035768,Gluck,Gluck,SC,Gluck-SC,South Carolina,45007,Anderson,34.4521,-82.6668,,,93.4,point,FALSE,America/New_York,29624
+Wellford-SC,1840015483,Wellford,Wellford,SC,Wellford-SC,South Carolina,45083,Spartanburg,34.9614,-82.0921,2563,2563,230,polygon,TRUE,America/New_York,29385
+Blacksburg-SC,1840015487,Blacksburg,Blacksburg,SC,Blacksburg-SC,South Carolina,45021,Cherokee,35.1221,-81.5182,1888,1888,389,polygon,TRUE,America/New_York,29702
+Olar-SC,1840016875,Olar,Olar,SC,Olar-SC,South Carolina,45009,Bamberg,33.1798,-81.1854,237,237,116,polygon,TRUE,America/New_York,29843
+Mount Carmel-SC,1840013694,Mount Carmel,Mount Carmel,SC,Mount Carmel-SC,South Carolina,45065,McCormick,34.0185,-82.5044,,,3.5,polygon,FALSE,America/New_York,29840
+Hilda-SC,1840016867,Hilda,Hilda,SC,Hilda-SC,South Carolina,45011,Barnwell,33.274,-81.2466,421,421,52,polygon,TRUE,America/New_York,29812 29813
+Epworth-SC,1840035765,Epworth,Epworth,SC,Epworth-SC,South Carolina,45047,Greenwood,34.0887,-82.0421,,,36.9,point,FALSE,America/New_York,29666
+Carlisle-SC,1840015532,Carlisle,Carlisle,SC,Carlisle-SC,South Carolina,45087,Union,34.5921,-81.4646,410,410,111,polygon,TRUE,America/New_York,29031
+Judson-SC,1840013494,Judson,Judson,SC,Judson-SC,South Carolina,45045,Greenville,34.8335,-82.4271,,,1484.9,polygon,FALSE,America/New_York,29611 29601
+Marlboro-SC,1840035809,Marlboro,Marlboro,SC,Marlboro-SC,South Carolina,45069,Marlboro,34.5368,-79.7326,,,33,point,FALSE,America/New_York,29512
+Cornwell-SC,1840035816,Cornwell,Cornwell,SC,Cornwell-SC,South Carolina,45023,Chester,34.6074,-81.1793,,,7.3,point,FALSE,America/New_York,29014
+Cross Anchor-SC,1840026958,Cross Anchor,Cross Anchor,SC,Cross Anchor-SC,South Carolina,45083,Spartanburg,34.6438,-81.8584,,,66.5,polygon,FALSE,America/New_York,29331
+Slater-SC,1840035832,Slater,Slater,SC,Slater-SC,South Carolina,45045,Greenville,35.0318,-82.4951,,,591.7,point,FALSE,America/New_York,29683
+Isle of Palms-SC,1840015165,Isle of Palms,Isle of Palms,SC,Isle of Palms-SC,South Carolina,45019,Charleston,32.8043,-79.7552,4395,4395,382,polygon,TRUE,America/New_York,29451
+Cross Hill-SC,1840016593,Cross Hill,Cross Hill,SC,Cross Hill-SC,South Carolina,45059,Laurens,34.3047,-81.9834,491,491,61,polygon,TRUE,America/New_York,29332
+Princeton-SC,1840013586,Princeton,Princeton,SC,Princeton-SC,South Carolina,45059,Laurens,34.4912,-82.2957,,,36.8,polygon,FALSE,America/New_York,29654
+Pineland-SC,1840035778,Pineland,Pineland,SC,Pineland-SC,South Carolina,45053,Jasper,32.6002,-81.1596,,,19,point,FALSE,America/New_York,29934
+Salley-SC,1840018000,Salley,Salley,SC,Salley-SC,South Carolina,45003,Aiken,33.5678,-81.3037,421,421,216,polygon,TRUE,America/New_York,29137
+Livingston-SC,1840016819,Livingston,Livingston,SC,Livingston-SC,South Carolina,45075,Orangeburg,33.5533,-81.1199,131,131,62,polygon,TRUE,America/New_York,29107
+Pinewood-SC,1840016739,Pinewood,Pinewood,SC,Pinewood-SC,South Carolina,45085,Sumter,33.7396,-80.462,538,538,193,polygon,TRUE,America/New_York,29125
+Elloree-SC,1840016822,Elloree,Elloree,SC,Elloree-SC,South Carolina,45075,Orangeburg,33.5302,-80.5712,671,671,256,polygon,TRUE,America/New_York,29047
+Smoaks-SC,1840018047,Smoaks,Smoaks,SC,Smoaks-SC,South Carolina,45029,Colleton,33.0895,-80.8142,125,125,29,polygon,TRUE,America/New_York,29481
+Fort Motte-SC,1840035823,Fort Motte,Fort Motte,SC,Fort Motte-SC,South Carolina,45017,Calhoun,33.739,-80.6926,,,39.5,point,FALSE,America/New_York,29135
+Boykin-SC,1840026972,Boykin,Boykin,SC,Boykin-SC,South Carolina,45055,Kershaw,34.1198,-80.5886,,,7.7,polygon,FALSE,America/New_York,29128
+Chesnee-SC,1840014614,Chesnee,Chesnee,SC,Chesnee-SC,South Carolina,45083,Spartanburg,35.1459,-81.8627,3158,913,310,polygon,TRUE,America/New_York,29323
+Conway-SC,1840014716,Conway,Conway,SC,Conway-SC,South Carolina,45051,Horry,33.8406,-79.0418,22761,22761,404,polygon,TRUE,America/New_York,29527 29526 29528
+Saint Stephen-SC,1840018013,Saint Stephen,Saint Stephen,SC,Saint Stephen-SC,South Carolina,45015,Berkeley,33.4046,-79.9264,1807,1807,287,polygon,TRUE,America/New_York,29479
+Westville-SC,1840035750,Westville,Westville,SC,Westville-SC,South Carolina,45055,Kershaw,34.4568,-80.599,,,45,point,FALSE,America/New_York,29175
+Salem-SC,1840017889,Salem,Salem,SC,Salem-SC,South Carolina,45073,Oconee,34.8879,-82.9752,149,149,62,polygon,TRUE,America/New_York,29676
+Cleveland-SC,1840035726,Cleveland,Cleveland,SC,Cleveland-SC,South Carolina,45045,Greenville,35.0723,-82.5273,,,7.8,point,FALSE,America/New_York,29661
+Aynor-SC,1840015593,Aynor,Aynor,SC,Aynor-SC,South Carolina,45051,Horry,34.0001,-79.2071,763,763,158,polygon,TRUE,America/New_York,29544 29511
+Bennettsville-SC,1840013583,Bennettsville,Bennettsville,SC,Bennettsville-SC,South Carolina,45069,Marlboro,34.6303,-79.6874,11839,8255,521,polygon,TRUE,America/New_York,29512
+Simpsonville-SC,1840015477,Simpsonville,Simpsonville,SC,Simpsonville-SC,South Carolina,45045,Greenville,34.7295,-82.2569,21314,21314,932,polygon,TRUE,America/New_York,29680 29681
+Cherokee Falls-SC,1840035761,Cherokee Falls,Cherokee Falls,SC,Cherokee Falls-SC,South Carolina,45021,Cherokee,35.0649,-81.5423,,,87.4,point,FALSE,America/New_York,29702
+Millett-SC,1840035771,Millett,Millett,SC,Millett-SC,South Carolina,45005,Allendale,33.0813,-81.5357,,,1.2,point,FALSE,America/New_York,29836
+Fingerville-SC,1840026961,Fingerville,Fingerville,SC,Fingerville-SC,South Carolina,45083,Spartanburg,35.1351,-82.0003,,,116.9,polygon,FALSE,America/New_York,29338 29349
+Horatio-SC,1840035735,Horatio,Horatio,SC,Horatio-SC,South Carolina,45085,Sumter,34.0213,-80.5659,,,41.6,point,FALSE,America/New_York,29062
+Oakley-SC,1840035742,Oakley,Oakley,SC,Oakley-SC,South Carolina,45015,Berkeley,33.1241,-80.019,,,66.7,point,FALSE,America/New_York,29461
+Elliott-SC,1840035819,Elliott,Elliott,SC,Elliott-SC,South Carolina,45061,Lee,34.1071,-80.1637,,,115,point,FALSE,America/New_York,29046
+Cordova-SC,1840016821,Cordova,Cordova,SC,Cordova-SC,South Carolina,45075,Orangeburg,33.4345,-80.9211,163,163,144,polygon,TRUE,America/New_York,29039
+Rimini-SC,1840035830,Rimini,Rimini,SC,Rimini-SC,South Carolina,45027,Clarendon,33.6693,-80.5004,,,43.6,point,FALSE,America/New_York,29125
+Georgetown-SC,1840013743,Georgetown,Georgetown,SC,Georgetown-SC,South Carolina,45043,Georgetown,33.3595,-79.296,12133,9024,503,polygon,TRUE,America/New_York,29440 29442
+Warrenville-SC,1840026990,Warrenville,Warrenville,SC,Warrenville-SC,South Carolina,45003,Aiken,33.5461,-81.799,,,646.7,polygon,FALSE,America/New_York,29851
+Cope-SC,1840016820,Cope,Cope,SC,Cope-SC,South Carolina,45075,Orangeburg,33.3777,-81.0079,74,74,114,polygon,TRUE,America/New_York,29038
+Latta-SC,1840016616,Latta,Latta,SC,Latta-SC,South Carolina,45033,Dillon,34.339,-79.4337,1334,1334,470,polygon,TRUE,America/New_York,29565
+Woodruff-SC,1840015484,Woodruff,Woodruff,SC,Woodruff-SC,South Carolina,45083,Spartanburg,34.7397,-82.0323,4403,4191,413,polygon,TRUE,America/New_York,29388
+Lone Star-SC,1840035738,Lone Star,Lone Star,SC,Lone Star-SC,South Carolina,45017,Calhoun,33.6254,-80.5895,,,6.2,point,FALSE,America/New_York,29030
+Garden City-SC,1840013645,Garden City,Garden City,SC,Garden City-SC,South Carolina,45051,Horry,33.5925,-79.0071,,,803.1,polygon,FALSE,America/New_York,29575 29576
+Rion-SC,1840035782,Rion,Rion,SC,Rion-SC,South Carolina,45039,Fairfield,34.3071,-81.1251,,,53,point,FALSE,America/New_York,29180
+Southern Shops-SC,1840035851,Southern Shops,Southern Shops,SC,Southern Shops-SC,South Carolina,45083,Spartanburg,34.9846,-81.9934,,,1087.3,polygon,FALSE,America/New_York,29303
+Timmonsville-SC,1840016706,Timmonsville,Timmonsville,SC,Timmonsville-SC,South Carolina,45041,Florence,34.1334,-79.9408,2376,2376,330,polygon,TRUE,America/New_York,29161
+Pee Dee-SC,1840035827,Pee Dee,Pee Dee,SC,Pee Dee-SC,South Carolina,45067,Marion,34.206,-79.5389,,,55.5,point,FALSE,America/New_York,29571
+Grover-SC,1840035733,Grover,Grover,SC,Grover-SC,South Carolina,45035,Dorchester,33.1052,-80.5948,,,37.4,point,FALSE,America/New_York,29477
+Green Pond-SC,1840035801,Green Pond,Green Pond,SC,Green Pond-SC,South Carolina,45029,Colleton,32.7318,-80.6143,,,34.5,point,FALSE,America/New_York,29446
+Hampton-SC,1840016927,Hampton,Hampton,SC,Hampton-SC,South Carolina,45049,Hampton,32.8676,-81.1092,4266,2639,225,polygon,TRUE,America/New_York,29924
+Oswego-SC,1840013672,Oswego,Oswego,SC,Oswego-SC,South Carolina,45085,Sumter,34.0056,-80.2862,,,30.8,polygon,FALSE,America/New_York,29153
+Smyrna-SC,1840017885,Smyrna,Smyrna,SC,Smyrna-SC,South Carolina,45091,York,35.042,-81.4094,50,50,27,polygon,TRUE,America/New_York,29743
+Shulerville-SC,1840035754,Shulerville,Shulerville,SC,Shulerville-SC,South Carolina,45015,Berkeley,33.1874,-79.632,,,9.9,point,FALSE,America/New_York,29453
+Estill-SC,1840016924,Estill,Estill,SC,Estill-SC,South Carolina,45049,Hampton,32.7538,-81.2412,1932,1932,230,polygon,TRUE,America/New_York,29918
+Cheraw-SC,1840016582,Cheraw,Cheraw,SC,Cheraw-SC,South Carolina,45025,Chesterfield,34.6978,-79.8988,8061,5780,374,polygon,TRUE,America/New_York,29520
+Dunean-SC,1840013078,Dunean,Dunean,SC,Dunean-SC,South Carolina,45045,Greenville,34.8204,-82.4224,,,1163.8,polygon,FALSE,America/New_York,29611 29605
+Williston-SC,1840016870,Williston,Williston,SC,Williston-SC,South Carolina,45011,Barnwell,33.4018,-81.422,2998,2998,129,polygon,TRUE,America/New_York,29853
+Sheldon-SC,1840035748,Sheldon,Sheldon,SC,Sheldon-SC,South Carolina,45013,Beaufort,32.6016,-80.7932,,,29.4,point,FALSE,America/New_York,29945
+Prosperity-SC,1840017939,Prosperity,Prosperity,SC,Prosperity-SC,South Carolina,45071,Newberry,34.2117,-81.5334,1205,1205,248,polygon,TRUE,America/New_York,29127
+Bishopville-SC,1840013634,Bishopville,Bishopville,SC,Bishopville-SC,South Carolina,45061,Lee,34.2202,-80.2483,5029,3238,534,polygon,TRUE,America/New_York,29010
+Winnsboro-SC,1840016627,Winnsboro,Winnsboro,SC,Winnsboro-SC,South Carolina,45039,Fairfield,34.3718,-81.0907,4795,3311,396,polygon,TRUE,America/New_York,29180
+Canadys-SC,1840035838,Canadys,Canadys,SC,Canadys-SC,South Carolina,45029,Colleton,33.0557,-80.6204,,,22,point,FALSE,America/New_York,29488
+Spartanburg-SC,1840015482,Spartanburg,Spartanburg,SC,Spartanburg-SC,South Carolina,45083,Spartanburg,34.9437,-81.9256,185031,37876,739,polygon,TRUE,America/New_York,29302 29301 29307 29306 29304 29305 29319
+Privateer-SC,1840013673,Privateer,Privateer,SC,Privateer-SC,South Carolina,45085,Sumter,33.8169,-80.3947,,,37.4,polygon,FALSE,America/New_York,29154
+Centenary-SC,1840035724,Centenary,Centenary,SC,Centenary-SC,South Carolina,45067,Marion,34.031,-79.3556,,,182.7,point,FALSE,America/New_York,29519
+Foreston-SC,1840035822,Foreston,Foreston,SC,Foreston-SC,South Carolina,45027,Clarendon,33.6318,-80.0617,,,7.5,point,FALSE,America/New_York,29102
+Langley-SC,1840025039,Langley,Langley,SC,Langley-SC,South Carolina,45003,Aiken,33.5121,-81.8343,,,263.3,polygon,FALSE,America/New_York,29851 29834
+Tillman-SC,1840035833,Tillman,Tillman,SC,Tillman-SC,South Carolina,45053,Jasper,32.4635,-81.1073,,,109.6,point,FALSE,America/New_York,29943
+Catawba-SC,1840026964,Catawba,Catawba,SC,Catawba-SC,South Carolina,45091,York,34.8464,-80.9061,,,110.8,polygon,FALSE,America/New_York,29704
+Tatum-SC,1840016588,Tatum,Tatum,SC,Tatum-SC,South Carolina,45069,Marlboro,34.6438,-79.5867,71,71,30,polygon,TRUE,America/New_York,29594
+Little River-SC,1840013648,Little River,Little River,SC,Little River-SC,South Carolina,45051,Horry,33.8786,-78.6394,,,587.3,polygon,FALSE,America/New_York,29566
+Greenwood-SC,1840013626,Greenwood,Greenwood,SC,Greenwood-SC,South Carolina,45047,Greenwood,34.1944,-82.1541,42279,23320,553,polygon,TRUE,America/New_York,29649 29646 29647 29648
+Bowman-SC,1840015693,Bowman,Bowman,SC,Bowman-SC,South Carolina,45075,Orangeburg,33.3483,-80.6844,921,921,297,polygon,TRUE,America/New_York,29018
+Blackville-SC,1840015723,Blackville,Blackville,SC,Blackville-SC,South Carolina,45011,Barnwell,33.3552,-81.2835,2265,2265,97,polygon,TRUE,America/New_York,29817
+Govan-SC,1840016874,Govan,Govan,SC,Govan-SC,South Carolina,45009,Bamberg,33.2227,-81.1748,60,60,30,polygon,TRUE,America/New_York,29843
+Paxville-SC,1840016789,Paxville,Paxville,SC,Paxville-SC,South Carolina,45027,Clarendon,33.739,-80.3586,185,185,67,polygon,TRUE,America/New_York,29102
+Ridgeland-SC,1840018086,Ridgeland,Ridgeland,SC,Ridgeland-SC,South Carolina,45053,Jasper,32.4681,-80.9178,5438,4141,33,polygon,TRUE,America/New_York,29936
+Roebuck-SC,1840013514,Roebuck,Roebuck,SC,Roebuck-SC,South Carolina,45083,Spartanburg,34.8788,-81.9646,,,275.8,polygon,FALSE,America/New_York,29369 29376
+Bradley-SC,1840013624,Bradley,Bradley,SC,Bradley-SC,South Carolina,45047,Greenwood,34.0391,-82.2435,,,9.2,polygon,FALSE,America/New_York,29819
+Troy-SC,1840016673,Troy,Troy,SC,Troy-SC,South Carolina,45047,Greenwood,33.9881,-82.2975,93,93,44,polygon,TRUE,America/New_York,29848
+Hanahan-SC,1840014256,Hanahan,Hanahan,SC,Hanahan-SC,South Carolina,45015,Berkeley,32.9303,-80.0031,23439,23439,854,polygon,TRUE,America/New_York,29410
+Kirksey-SC,1840035769,Kirksey,Kirksey,SC,Kirksey-SC,South Carolina,45047,Greenwood,34.0312,-82.0415,,,18.7,point,FALSE,America/New_York,29666
+Rock Hill-SC,1840014618,Rock Hill,Rock Hill,SC,Rock Hill-SC,South Carolina,45091,York,34.9413,-81.026,115755,72937,759,polygon,TRUE,America/New_York,29732 29733 29730 29731 29734
+Perry-SC,1840016798,Perry,Perry,SC,Perry-SC,South Carolina,45003,Aiken,33.6276,-81.3085,239,239,79,polygon,TRUE,America/New_York,29137
+Edisto Beach-SC,1840016902,Edisto Beach,Edisto Beach,SC,Edisto Beach-SC,South Carolina,45029,Colleton,32.4922,-80.3239,418,418,75,polygon,TRUE,America/New_York,29438
+Santee-SC,1840018008,Santee,Santee,SC,Santee-SC,South Carolina,45075,Orangeburg,33.4802,-80.4852,923,923,168,polygon,TRUE,America/New_York,29142
+Chapin-SC,1840016725,Chapin,Chapin,SC,Chapin-SC,South Carolina,45063,Lexington,34.1647,-81.3447,1575,1575,302,polygon,TRUE,America/New_York,29036
+Galivants Ferry-SC,1840035824,Galivants Ferry,Galivants Ferry,SC,Galivants Ferry-SC,South Carolina,45051,Horry,34.0563,-79.2464,,,14.7,point,FALSE,America/New_York,29544
+Fairforest-SC,1840026960,Fairforest,Fairforest,SC,Fairforest-SC,South Carolina,45083,Spartanburg,34.9532,-82.0157,,,658.3,polygon,FALSE,America/New_York,29301
+Blenheim-SC,1840015544,Blenheim,Blenheim,SC,Blenheim-SC,South Carolina,45069,Marlboro,34.5098,-79.6525,146,146,86,polygon,TRUE,America/New_York,29516
+Enoree-SC,1840026959,Enoree,Enoree,SC,Enoree-SC,South Carolina,45083,Spartanburg,34.6593,-81.9609,,,151,polygon,FALSE,America/New_York,29335
+Riverview-SC,1840013521,Riverview,Riverview,SC,Riverview-SC,South Carolina,45091,York,35.0107,-80.9843,,,482.1,polygon,FALSE,America/New_York,29708
+Swansea-SC,1840016729,Swansea,Swansea,SC,Swansea-SC,South Carolina,45063,Lexington,33.7396,-81.1052,903,903,170,polygon,TRUE,America/New_York,29160
+Piedmont-SC,1840013580,Piedmont,Piedmont,SC,Piedmont-SC,South Carolina,45007,Anderson,34.7074,-82.4651,,,430.7,polygon,FALSE,America/New_York,29673
+Nesmith-SC,1840035776,Nesmith,Nesmith,SC,Nesmith-SC,South Carolina,45089,Williamsburg,33.6591,-79.5134,,,8.1,point,FALSE,America/New_York,29580
+Due West-SC,1840016668,Due West,Due West,SC,Due West-SC,South Carolina,45001,Abbeville,34.3335,-82.3886,1292,1292,305,polygon,TRUE,America/New_York,29639
+Ravenel-SC,1840018341,Ravenel,Ravenel,SC,Ravenel-SC,South Carolina,45019,Charleston,32.7768,-80.2271,2628,2628,80,polygon,TRUE,America/New_York,29470
+Furman-SC,1840016925,Furman,Furman,SC,Furman-SC,South Carolina,45049,Hampton,32.6812,-81.1877,227,227,28,polygon,TRUE,America/New_York,29918 29921
+Ruby-SC,1840017925,Ruby,Ruby,SC,Ruby-SC,South Carolina,45025,Chesterfield,34.7461,-80.1799,351,351,54,polygon,TRUE,America/New_York,29741
+Lynchburg-SC,1840016681,Lynchburg,Lynchburg,SC,Lynchburg-SC,South Carolina,45061,Lee,34.06,-80.077,350,350,119,polygon,TRUE,America/New_York,29080
+Silverstreet-SC,1840017940,Silverstreet,Silverstreet,SC,Silverstreet-SC,South Carolina,45071,Newberry,34.2177,-81.7146,164,164,18,polygon,TRUE,America/New_York,29145
+Sycamore-SC,1840016905,Sycamore,Sycamore,SC,Sycamore-SC,South Carolina,45005,Allendale,33.0362,-81.2223,157,157,19,polygon,TRUE,America/New_York,29827 29846
+Reidville-SC,1840017882,Reidville,Reidville,SC,Reidville-SC,South Carolina,45083,Spartanburg,34.866,-82.105,628,628,143,polygon,TRUE,America/New_York,29375 29388
+Woodford-SC,1840016825,Woodford,Woodford,SC,Woodford-SC,South Carolina,45075,Orangeburg,33.6687,-81.1119,178,178,87,polygon,TRUE,America/New_York,29112
+Chester-SC,1840014663,Chester,Chester,SC,Chester-SC,South Carolina,45023,Chester,34.705,-81.2135,9129,5474,646,polygon,TRUE,America/New_York,29706
+Gantt-SC,1840013492,Gantt,Gantt,SC,Gantt-SC,South Carolina,45045,Greenville,34.7839,-82.4028,,,1038.1,polygon,FALSE,America/New_York,29673 29605 29636
+Daufuskie Landing-SC,1840035798,Daufuskie Landing,Daufuskie Landing,SC,Daufuskie Landing-SC,South Carolina,45013,Beaufort,32.1044,-80.8854,,,24.7,point,FALSE,America/New_York,29915
+Lincolnville-SC,1840017283,Lincolnville,Lincolnville,SC,Lincolnville-SC,South Carolina,45019,Charleston,33.0079,-80.156,1971,1971,649,polygon,TRUE,America/New_York,29485
+Seneca-SC,1840015506,Seneca,Seneca,SC,Seneca-SC,South Carolina,45073,Oconee,34.6815,-82.9609,26857,8352,410,polygon,TRUE,America/New_York,29672 29678 29679
+Alvin-SC,1840035756,Alvin,Alvin,SC,Alvin-SC,South Carolina,45015,Berkeley,33.3491,-79.8162,,,18.2,point,FALSE,America/New_York,29479
+Gaston-SC,1840016726,Gaston,Gaston,SC,Gaston-SC,South Carolina,45063,Lexington,33.818,-81.0997,1657,1657,120,polygon,TRUE,America/New_York,29053
+Bucksport-SC,1840013646,Bucksport,Bucksport,SC,Bucksport-SC,South Carolina,45051,Horry,33.6707,-79.1102,,,108.3,polygon,FALSE,America/New_York,29527
+Jenkinsville-SC,1840022842,Jenkinsville,Jenkinsville,SC,Jenkinsville-SC,South Carolina,45039,Fairfield,34.3129,-81.2874,43,43,186,polygon,TRUE,America/New_York,29065
+Inman Mills-SC,1840013508,Inman Mills,Inman Mills,SC,Inman Mills-SC,South Carolina,45083,Spartanburg,35.041,-82.1021,,,313.1,polygon,FALSE,America/New_York,29349
+Port Royal-SC,1840016975,Port Royal,Port Royal,SC,Port Royal-SC,South Carolina,45013,Beaufort,32.3579,-80.7047,12785,12785,259,polygon,TRUE,America/New_York,29902 29905 29906 29935
+South Sumter-SC,1840035799,South Sumter,South Sumter,SC,South Sumter-SC,South Carolina,45085,Sumter,33.8856,-80.3379,,,1195.9,polygon,FALSE,America/New_York,29150
+Cameron-SC,1840015665,Cameron,Cameron,SC,Cameron-SC,South Carolina,45017,Calhoun,33.558,-80.7151,416,416,51,polygon,TRUE,America/New_York,29030
+Clio-SC,1840016587,Clio,Clio,SC,Clio-SC,South Carolina,45069,Marlboro,34.5791,-79.5461,681,681,307,polygon,TRUE,America/New_York,29525
+Saluda-SC,1840017971,Saluda,Saluda,SC,Saluda-SC,South Carolina,45081,Saluda,34.0009,-81.7713,3578,3617,429,polygon,TRUE,America/New_York,29138
+Wallace-SC,1840026967,Wallace,Wallace,SC,Wallace-SC,South Carolina,45069,Marlboro,34.7207,-79.8469,,,234.1,polygon,FALSE,America/New_York,29596
+Greenville-SC,1840013501,Greenville,Greenville,SC,Greenville-SC,South Carolina,45045,Greenville,34.8364,-82.3649,462640,67453,900,polygon,TRUE,America/New_York,29614 29607 29605 29601 29609 29602 29603 29604 29606 29608 29610 29612 29616
+Lowrys-SC,1840016569,Lowrys,Lowrys,SC,Lowrys-SC,South Carolina,45023,Chester,34.804,-81.2372,196,196,23,polygon,TRUE,America/New_York,29706
+Fountain Inn-SC,1840013500,Fountain Inn,Fountain Inn,SC,Fountain Inn-SC,South Carolina,45045,Greenville,34.6988,-82.1991,8513,8513,460,polygon,TRUE,America/New_York,29644
+Saxon-SC,1840013510,Saxon,Saxon,SC,Saxon-SC,South Carolina,45083,Spartanburg,34.9616,-81.9713,,,773,polygon,FALSE,America/New_York,29378 29301
+East Sumter-SC,1840035842,East Sumter,East Sumter,SC,East Sumter-SC,South Carolina,45085,Sumter,33.9261,-80.295,,,129.5,polygon,FALSE,America/New_York,29153
+Duncan-SC,1840016464,Duncan,Duncan,SC,Duncan-SC,South Carolina,45083,Spartanburg,34.9372,-82.1404,3369,3369,277,polygon,TRUE,America/New_York,29334
+Eutawville-SC,1840016823,Eutawville,Eutawville,SC,Eutawville-SC,South Carolina,45075,Orangeburg,33.3977,-80.343,302,302,122,polygon,TRUE,America/New_York,29048
+South Congaree-SC,1840017968,South Congaree,South Congaree,SC,South Congaree-SC,South Carolina,45063,Lexington,33.9094,-81.1375,2410,2410,283,polygon,TRUE,America/New_York,29170 29172
+Lydia-SC,1840026973,Lydia,Lydia,SC,Lydia-SC,South Carolina,45031,Darlington,34.2866,-80.1185,,,209.9,polygon,FALSE,America/New_York,29079 29550 29069
+Meggett-SC,1840017285,Meggett,Meggett,SC,Meggett-SC,South Carolina,45019,Charleston,32.6971,-80.2731,1327,1327,28,polygon,TRUE,America/New_York,29449
+Peak-SC,1840016634,Peak,Peak,SC,Peak-SC,South Carolina,45071,Newberry,34.2364,-81.3295,65,65,64,polygon,TRUE,America/New_York,29075 29122
+Forest Acres-SC,1840013653,Forest Acres,Forest Acres,SC,Forest Acres-SC,South Carolina,45079,Richland,34.0322,-80.9718,10542,10542,885,polygon,TRUE,America/New_York,29206 29204
+Abbeville-SC,1840013618,Abbeville,Abbeville,SC,Abbeville-SC,South Carolina,45001,Abbeville,34.1787,-82.3774,5173,5168,321,polygon,TRUE,America/New_York,29620
+Montmorenci-SC,1840035811,Montmorenci,Montmorenci,SC,Montmorenci-SC,South Carolina,45003,Aiken,33.5279,-81.6365,,,91.8,point,FALSE,America/New_York,29803
+Kinards-SC,1840035753,Kinards,Kinards,SC,Kinards-SC,South Carolina,45071,Newberry,34.3804,-81.7773,,,17.5,point,FALSE,America/New_York,29355
+Little Rock-SC,1840035806,Little Rock,Little Rock,SC,Little Rock-SC,South Carolina,45033,Dillon,34.4766,-79.4031,,,102.3,point,FALSE,America/New_York,29567
+Saint Andrews-SC,1840035785,Saint Andrews,Saint Andrews,SC,Saint Andrews-SC,South Carolina,45019,Charleston,32.7818,-79.9851,,,813.5,point,FALSE,America/New_York,29407
+Olanta-SC,1840016707,Olanta,Olanta,SC,Olanta-SC,South Carolina,45041,Florence,33.9357,-79.932,570,570,221,polygon,TRUE,America/New_York,29114
+Red Hill-SC,1840013649,Red Hill,Red Hill,SC,Red Hill-SC,South Carolina,45051,Horry,33.778,-79.0112,,,31.6,polygon,FALSE,America/New_York,29588 29526 29579
+Forestbrook-SC,1840035797,Forestbrook,Forestbrook,SC,Forestbrook-SC,South Carolina,45051,Horry,33.7242,-78.9678,,,1195.5,polygon,FALSE,America/New_York,29588 29579
+Johnston-SC,1840016778,Johnston,Johnston,SC,Johnston-SC,South Carolina,45037,Edgefield,33.8327,-81.8051,2345,2345,341,polygon,TRUE,America/New_York,29832
+North Augusta-SC,1840014788,North Augusta,North Augusta,SC,North Augusta-SC,South Carolina,45003,Aiken,33.5211,-81.9545,22932,22932,435,polygon,TRUE,America/New_York,29860 29841 29861
+Cassatt-SC,1840035760,Cassatt,Cassatt,SC,Cassatt-SC,South Carolina,45055,Kershaw,34.3646,-80.4359,,,43.9,point,FALSE,America/New_York,29032
+Iva-SC,1840016573,Iva,Iva,SC,Iva-SC,South Carolina,45007,Anderson,34.307,-82.6636,1286,1286,541,polygon,TRUE,America/New_York,29655
+Tega Cay-SC,1840015488,Tega Cay,Tega Cay,SC,Tega Cay-SC,South Carolina,45091,York,35.0374,-81.0124,9946,9946,969,polygon,TRUE,America/New_York,29708
+Joanna-SC,1840013584,Joanna,Joanna,SC,Joanna-SC,South Carolina,45059,Laurens,34.4149,-81.8086,,,291.9,polygon,FALSE,America/New_York,29351
+Berea-SC,1840013495,Berea,Berea,SC,Berea-SC,South Carolina,45045,Greenville,34.8802,-82.4653,,,1042.9,polygon,FALSE,America/New_York,29617 29611
+Alcolu-SC,1840026988,Alcolu,Alcolu,SC,Alcolu-SC,South Carolina,45027,Clarendon,33.7547,-80.2221,,,60.2,polygon,FALSE,America/New_York,29001
+Florence-SC,1840013643,Florence,Florence,SC,Florence-SC,South Carolina,45041,Florence,34.1782,-79.785,92614,38317,684,polygon,TRUE,America/New_York,29505 29506 29501 29502 29503 29504
+Lancaster-SC,1840014630,Lancaster,Lancaster,SC,Lancaster-SC,South Carolina,45057,Lancaster,34.7247,-80.7801,25691,9134,550,polygon,TRUE,America/New_York,29720 29721 29722
+Willington-SC,1840013692,Willington,Willington,SC,Willington-SC,South Carolina,45065,McCormick,33.9687,-82.4576,,,18.1,polygon,FALSE,America/New_York,29835
+Saint Matthews-SC,1840017999,Saint Matthews,Saint Matthews,SC,Saint Matthews-SC,South Carolina,45017,Calhoun,33.664,-80.778,1997,1997,401,polygon,TRUE,America/New_York,29135
+Clarks Hill-SC,1840013691,Clarks Hill,Clarks Hill,SC,Clarks Hill-SC,South Carolina,45065,McCormick,33.6582,-82.166,,,18.2,polygon,FALSE,America/New_York,29821
+Mauldin-SC,1840015476,Mauldin,Mauldin,SC,Mauldin-SC,South Carolina,45045,Greenville,34.7864,-82.2997,132708,25188,983,polygon,TRUE,America/New_York,29662 29607
+Springdale-SC,1840017969,Springdale,Springdale,SC,Springdale-SC,South Carolina,45063,Lexington,33.9617,-81.1119,2791,2791,396,polygon,TRUE,America/New_York,29170
+Wisacky-SC,1840035836,Wisacky,Wisacky,SC,Wisacky-SC,South Carolina,45061,Lee,34.1482,-80.1934,,,23.7,point,FALSE,America/New_York,29010
+Cross-SC,1840035728,Cross,Cross,SC,Cross-SC,South Carolina,45015,Berkeley,33.3274,-80.1484,,,149.2,point,FALSE,America/New_York,29436
+Kershaw-SC,1840016498,Kershaw,Kershaw,SC,Kershaw-SC,South Carolina,45057,Lancaster,34.5443,-80.5866,2151,2151,447,polygon,TRUE,America/New_York,29067
+Taylors-SC,1840013498,Taylors,Taylors,SC,Taylors-SC,South Carolina,45045,Greenville,34.9157,-82.312,,,453.7,polygon,FALSE,America/New_York,29687
+Springfield-SC,1840018009,Springfield,Springfield,SC,Springfield-SC,South Carolina,45075,Orangeburg,33.4967,-81.2795,497,497,110,polygon,TRUE,America/New_York,29146
+Saint Charles-SC,1840035747,Saint Charles,Saint Charles,SC,Saint Charles-SC,South Carolina,45061,Lee,34.0665,-80.2181,,,7.6,point,FALSE,America/New_York,29104
+Mayo-SC,1840013513,Mayo,Mayo,SC,Mayo-SC,South Carolina,45083,Spartanburg,35.0857,-81.8535,,,228.5,polygon,FALSE,America/New_York,29368 29330 29323
+Converse-SC,1840026957,Converse,Converse,SC,Converse-SC,South Carolina,45083,Spartanburg,34.994,-81.8421,,,333.6,polygon,FALSE,America/New_York,29329 29307
+Mulberry-SC,1840035846,Mulberry,Mulberry,SC,Mulberry-SC,South Carolina,45085,Sumter,33.9565,-80.3315,,,89.7,polygon,FALSE,America/New_York,29153
+Northlake-SC,1840035847,Northlake,Northlake,SC,Northlake-SC,South Carolina,45007,Anderson,34.5691,-82.6838,,,559.2,polygon,FALSE,America/New_York,29625 29621
+Andrews-SC,1840015685,Andrews,Andrews,SC,Andrews-SC,South Carolina,45089,Williamsburg,33.4494,-79.566,3951,2896,507,polygon,TRUE,America/New_York,29510
+Brunson-SC,1840015764,Brunson,Brunson,SC,Brunson-SC,South Carolina,45049,Hampton,32.9243,-81.1886,517,517,196,polygon,TRUE,America/New_York,29911
+Brookdale-SC,1840035795,Brookdale,Brookdale,SC,Brookdale-SC,South Carolina,45075,Orangeburg,33.5183,-80.8333,,,312.4,polygon,FALSE,America/New_York,29115
+McCormick-SC,1840016751,McCormick,McCormick,SC,McCormick-SC,South Carolina,45065,McCormick,33.9129,-82.2876,2532,2532,241,polygon,TRUE,America/New_York,29899 29835
+Plantersville-SC,1840035744,Plantersville,Plantersville,SC,Plantersville-SC,South Carolina,45043,Georgetown,33.5554,-79.2153,,,72.5,point,FALSE,America/New_York,29440
+Pacolet-SC,1840016465,Pacolet,Pacolet,SC,Pacolet-SC,South Carolina,45083,Spartanburg,34.9034,-81.7627,2387,2387,260,polygon,TRUE,America/New_York,29372 29373
+Early Branch-SC,1840035762,Early Branch,Early Branch,SC,Early Branch-SC,South Carolina,45049,Hampton,32.7457,-80.9279,,,44.5,point,FALSE,America/New_York,29916
+Ware Place-SC,1840026954,Ware Place,Ware Place,SC,Ware Place-SC,South Carolina,45045,Greenville,34.6266,-82.3881,,,119.7,polygon,FALSE,America/New_York,29669
+City View-SC,1840013496,City View,City View,SC,City View-SC,South Carolina,45045,Greenville,34.862,-82.4249,,,1883.7,polygon,FALSE,America/New_York,29611 29601
+Cherryvale-SC,1840013667,Cherryvale,Cherryvale,SC,Cherryvale-SC,South Carolina,45085,Sumter,33.9543,-80.4609,,,614.4,polygon,FALSE,America/New_York,29154
+Murrells Inlet-SC,1840013742,Murrells Inlet,Murrells Inlet,SC,Murrells Inlet-SC,South Carolina,45043,Georgetown,33.5561,-79.059,,,340.2,polygon,FALSE,America/New_York,29576
+Rembert-SC,1840013674,Rembert,Rembert,SC,Rembert-SC,South Carolina,45085,Sumter,34.1037,-80.5305,,,74.6,polygon,FALSE,America/New_York,29128
+Branchville-SC,1840015694,Branchville,Branchville,SC,Branchville-SC,South Carolina,45075,Orangeburg,33.2516,-80.8161,975,975,119,polygon,TRUE,America/New_York,29432
+Travelers Rest-SC,1840015478,Travelers Rest,Travelers Rest,SC,Travelers Rest-SC,South Carolina,45045,Greenville,34.9684,-82.4417,5053,5053,412,polygon,TRUE,America/New_York,29690
+Hemingway-SC,1840015664,Hemingway,Hemingway,SC,Hemingway-SC,South Carolina,45089,Williamsburg,33.7535,-79.4462,426,426,193,polygon,TRUE,America/New_York,29554
+Clifton-SC,1840026956,Clifton,Clifton,SC,Clifton-SC,South Carolina,45083,Spartanburg,34.9846,-81.8222,,,353.9,polygon,FALSE,America/New_York,29324 29307
+Graniteville-SC,1840026989,Graniteville,Graniteville,SC,Graniteville-SC,South Carolina,45003,Aiken,33.5646,-81.8079,,,685.2,polygon,FALSE,America/New_York,29829
+Easley-SC,1840013526,Easley,Easley,SC,Easley-SC,South Carolina,45077,Pickens,34.8191,-82.583,20953,20953,654,polygon,TRUE,America/New_York,29642 29640 29641
+Honea Path-SC,1840016572,Honea Path,Honea Path,SC,Honea Path-SC,South Carolina,45007,Anderson,34.4476,-82.3947,3650,3747,415,polygon,TRUE,America/New_York,29654
+Oakland-SC,1840013671,Oakland,Oakland,SC,Oakland-SC,South Carolina,45085,Sumter,33.9868,-80.4972,,,111.3,polygon,FALSE,America/New_York,29154

@@ -1,0 +1,1243 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Moline Acres-MO,1840008595,Moline Acres,Moline Acres,MO,Moline Acres-MO,Missouri,29189,St. Louis,38.7456,-90.243,2406,2406,1581,polygon,TRUE,America/Chicago,63136 63137
+Kissee Mills-MO,1840025750,Kissee Mills,Kissee Mills,MO,Kissee Mills-MO,Missouri,29213,Taney,36.6694,-93.0473,,,34.9,polygon,FALSE,America/Chicago,65653 65680
+Byrnes Mill-MO,1840007504,Byrnes Mill,Byrnes Mill,MO,Byrnes Mill-MO,Missouri,29099,Jefferson,38.4396,-90.5742,2929,2929,219,polygon,TRUE,America/Chicago,63025 63051
+Post Oak-MO,1840032130,Post Oak,Post Oak,MO,Post Oak-MO,Missouri,29101,Johnson,38.5689,-93.751,,,8.8,point,FALSE,America/Chicago,64761
+Lakeshire-MO,1840008600,Lakeshire,Lakeshire,MO,Lakeshire-MO,Missouri,29189,St. Louis,38.5399,-90.3384,1415,1415,2451,polygon,TRUE,America/Chicago,63123
+Edinburg-MO,1840025560,Edinburg,Edinburg,MO,Edinburg-MO,Missouri,29079,Grundy,40.0811,-93.6898,,,66,polygon,FALSE,America/Chicago,64683
+Worland-MO,1840032115,Worland,Worland,MO,Worland-MO,Missouri,29013,Bates,38.1878,-94.5919,,,31.7,point,FALSE,America/Chicago,64779
+Villa Ridge-MO,1840007474,Villa Ridge,Villa Ridge,MO,Villa Ridge-MO,Missouri,29071,Franklin,38.468,-90.885,,,232.3,polygon,FALSE,America/Chicago,63089
+Taneyville-MO,1840013059,Taneyville,Taneyville,MO,Taneyville-MO,Missouri,29213,Taney,36.738,-93.0352,391,391,319,polygon,TRUE,America/Chicago,65759
+Machens-MO,1840032240,Machens,Machens,MO,Machens-MO,Missouri,29183,St. Charles,38.9031,-90.3323,,,2.6,point,FALSE,America/Chicago,63301
+Meadville-MO,1840008403,Meadville,Meadville,MO,Meadville-MO,Missouri,29115,Linn,39.7882,-93.2992,444,444,317,polygon,TRUE,America/Chicago,64659
+Doe Run-MO,1840025695,Doe Run,Doe Run,MO,Doe Run-MO,Missouri,29187,St. Francois,37.7455,-90.4994,,,285.7,polygon,FALSE,America/Chicago,63601 63637
+Bolivar-MO,1840007578,Bolivar,Bolivar,MO,Bolivar-MO,Missouri,29167,Polk,37.6057,-93.4174,10133,10795,503,polygon,TRUE,America/Chicago,65613
+Wayland-MO,1840010402,Wayland,Wayland,MO,Wayland-MO,Missouri,29045,Clark,40.3963,-91.5754,494,494,283,polygon,TRUE,America/Chicago,63430 63472
+Leawood-MO,1840013044,Leawood,Leawood,MO,Leawood-MO,Missouri,29145,Newton,37.0334,-94.4947,680,680,213,polygon,TRUE,America/Chicago,64804
+Pleasant Hill-MO,1840009786,Pleasant Hill,Pleasant Hill,MO,Pleasant Hill-MO,Missouri,29037,Cass,38.8061,-94.2654,8376,8444,406,polygon,TRUE,America/Chicago,64080
+Cross Keys-MO,1840032233,Cross Keys,Cross Keys,MO,Cross Keys-MO,Missouri,29189,St. Louis,38.8089,-90.2987,,,1241.7,point,FALSE,America/Chicago,63033
+Burgess-MO,1840009888,Burgess,Burgess,MO,Burgess-MO,Missouri,29011,Barton,37.5562,-94.6152,55,55,287,polygon,TRUE,America/Chicago,64769
+Cole Camp-MO,1840007495,Cole Camp,Cole Camp,MO,Cole Camp-MO,Missouri,29015,Benton,38.4595,-93.2025,1114,1114,330,polygon,TRUE,America/Chicago,65325
+Martinsburg-MO,1840009618,Martinsburg,Martinsburg,MO,Martinsburg-MO,Missouri,29007,Audrain,39.101,-91.6476,307,307,443,polygon,TRUE,America/Chicago,65264
+Farley-MO,1840012629,Farley,Farley,MO,Farley-MO,Missouri,29165,Platte,39.2888,-94.8285,290,290,90,polygon,TRUE,America/Chicago,64079 64028
+Castle Point-MO,1840006125,Castle Point,Castle Point,MO,Castle Point-MO,Missouri,29189,St. Louis,38.7573,-90.2487,,,2249.8,polygon,FALSE,America/Chicago,63136
+Louisiana-MO,1840009676,Louisiana,Louisiana,MO,Louisiana-MO,Missouri,29163,Pike,39.4413,-91.0626,3014,3281,404,polygon,TRUE,America/Chicago,63353
+Humansville-MO,1840007579,Humansville,Humansville,MO,Humansville-MO,Missouri,29167,Polk,37.795,-93.5765,1035,1035,340,polygon,TRUE,America/Chicago,65674
+Pomona-MO,1840025742,Pomona,Pomona,MO,Pomona-MO,Missouri,29091,Howell,36.8671,-91.9134,,,141.8,polygon,FALSE,America/Chicago,65789
+Ellington-MO,1840008734,Ellington,Ellington,MO,Ellington-MO,Missouri,29179,Reynolds,37.2365,-90.9719,962,962,269,polygon,TRUE,America/Chicago,63638
+Lake Lafayette-MO,1840008527,Lake Lafayette,Lake Lafayette,MO,Lake Lafayette-MO,Missouri,29107,Lafayette,38.9487,-93.9714,322,322,194,polygon,TRUE,America/Chicago,64076
+Skidmore-MO,1840009417,Skidmore,Skidmore,MO,Skidmore-MO,Missouri,29147,Nodaway,40.2878,-95.0796,269,269,310,polygon,TRUE,America/Chicago,64487
+Hoover-MO,1840032065,Hoover,Hoover,MO,Hoover-MO,Missouri,29165,Platte,39.3689,-94.6669,,,190.5,point,FALSE,America/Chicago,64089
+Columbia-MO,1840007391,Columbia,Columbia,MO,Columbia-MO,Missouri,29019,Boone,38.9475,-92.3263,138675,120612,721,polygon,TRUE,America/Chicago,65202 65203 65201 65215 65205 65211 65212 65216 65217 65218
+Parkville-MO,1840009590,Parkville,Parkville,MO,Parkville-MO,Missouri,29165,Platte,39.2004,-94.7222,6514,6514,170,polygon,TRUE,America/Chicago,64152
+Monroe City-MO,1840008451,Monroe City,Monroe City,MO,Monroe City-MO,Missouri,29137,Monroe,39.6542,-91.7328,2441,2441,312,polygon,TRUE,America/Chicago,63456
+Verona-MO,1840010883,Verona,Verona,MO,Verona-MO,Missouri,29109,Lawrence,36.9631,-93.7936,604,604,268,polygon,TRUE,America/Chicago,65769
+Bolckow-MO,1840007267,Bolckow,Bolckow,MO,Bolckow-MO,Missouri,29003,Andrew,40.1152,-94.8213,189,189,224,polygon,TRUE,America/Chicago,64427
+Plato-MO,1840012999,Plato,Plato,MO,Plato-MO,Missouri,29215,Texas,37.5029,-92.22,109,109,112,polygon,TRUE,America/Chicago,65552
+Fremont-MO,1840025740,Fremont,Fremont,MO,Fremont-MO,Missouri,29035,Carter,36.9523,-91.1623,,,170.6,polygon,FALSE,America/Chicago,63941
+Mound City-MO,1840008382,Mound City,Mound City,MO,Mound City-MO,Missouri,29087,Holt,40.1365,-95.2337,1049,1049,325,polygon,TRUE,America/Chicago,64470
+Corder-MO,1840007386,Corder,Corder,MO,Corder-MO,Missouri,29107,Lafayette,39.0991,-93.639,399,399,432,polygon,TRUE,America/Chicago,64021
+Ashburn-MO,1840010625,Ashburn,Ashburn,MO,Ashburn-MO,Missouri,29163,Pike,39.5458,-91.172,,,74.9,polygon,TRUE,America/Chicago,63433
+Coffman-MO,1840032033,Coffman,Coffman,MO,Coffman-MO,Missouri,29186,Ste. Genevieve,37.7845,-90.1943,,,5.1,point,FALSE,America/Chicago,63670
+High Ridge-MO,1840006233,High Ridge,High Ridge,MO,High Ridge-MO,Missouri,29099,Jefferson,38.4609,-90.534,,,471.9,polygon,FALSE,America/Chicago,63049
+Avilla-MO,1840009913,Avilla,Avilla,MO,Avilla-MO,Missouri,29097,Jasper,37.1938,-94.1298,126,126,248,polygon,TRUE,America/Chicago,64833
+Cowgill-MO,1840007319,Cowgill,Cowgill,MO,Cowgill-MO,Missouri,29025,Caldwell,39.5603,-93.9257,181,181,292,polygon,TRUE,America/Chicago,64637
+Stotts City-MO,1840009919,Stotts City,Stotts City,MO,Stotts City-MO,Missouri,29109,Lawrence,37.1018,-93.9483,220,220,165,polygon,TRUE,America/Chicago,65756
+Shirley-MO,1840032215,Shirley,Shirley,MO,Shirley-MO,Missouri,29221,Washington,37.915,-90.9193,,,11.6,point,FALSE,America/Chicago,63664
+Atlanta-MO,1840007271,Atlanta,Atlanta,MO,Atlanta-MO,Missouri,29121,Macon,39.8985,-92.4799,371,371,418,polygon,TRUE,America/Chicago,63530
+Hartshorn-MO,1840032062,Hartshorn,Hartshorn,MO,Hartshorn-MO,Missouri,29215,Texas,37.2648,-91.6704,,,11.4,point,FALSE,America/Chicago,65479
+Saint Thomas-MO,1840010766,Saint Thomas,Saint Thomas,MO,Saint Thomas-MO,Missouri,29051,Cole,38.367,-92.216,276,276,108,polygon,TRUE,America/Chicago,65076
+Easton-MO,1840008441,Easton,Easton,MO,Easton-MO,Missouri,29021,Buchanan,39.7226,-94.6404,237,237,154,polygon,TRUE,America/Chicago,64443
+Wortham-MO,1840025698,Wortham,Wortham,MO,Wortham-MO,Missouri,29187,St. Francois,37.8401,-90.6076,,,140.6,polygon,FALSE,America/Chicago,63601
+Bixby-MO,1840032179,Bixby,Bixby,MO,Bixby-MO,Missouri,29093,Iron,37.6603,-91.1151,,,23.2,point,FALSE,America/Chicago,65439
+Holland-MO,1840010903,Holland,Holland,MO,Holland-MO,Missouri,29155,Pemiscot,36.0571,-89.8705,215,215,497,polygon,TRUE,America/Chicago,63853
+Montrose-MO,1840008644,Montrose,Montrose,MO,Montrose-MO,Missouri,29083,Henry,38.2587,-93.9827,371,371,251,polygon,TRUE,America/Chicago,64770
+Centralia-MO,1840007392,Centralia,Centralia,MO,Centralia-MO,Missouri,29019,Boone,39.2107,-92.1344,3969,4192,563,polygon,TRUE,America/Chicago,65240
+Lakeland-MO,1840032165,Lakeland,Lakeland,MO,Lakeland-MO,Missouri,29131,Miller,38.222,-92.631,,,48.5,point,FALSE,America/Chicago,65049
+Laurie-MO,1840012865,Laurie,Laurie,MO,Laurie-MO,Missouri,29141,Morgan,38.208,-92.8253,934,934,65,polygon,TRUE,America/Chicago,65037 65038
+Barnhart-MO,1840006237,Barnhart,Barnhart,MO,Barnhart-MO,Missouri,29099,Jefferson,38.336,-90.4046,,,278.6,polygon,FALSE,America/Chicago,63012 63057
+Chesterfield-MO,1840007446,Chesterfield,Chesterfield,MO,Chesterfield-MO,Missouri,29189,St. Louis,38.6588,-90.5805,47659,47659,578,polygon,TRUE,America/Chicago,63017 63005 63006
+Hannibal-MO,1840007306,Hannibal,Hannibal,MO,Hannibal-MO,Missouri,29127,Marion,39.7097,-91.3936,18361,17808,436,polygon,TRUE,America/Chicago,63401
+Ash Grove-MO,1840007615,Ash Grove,Ash Grove,MO,Ash Grove-MO,Missouri,29077,Greene,37.3177,-93.581,1450,1450,460,polygon,TRUE,America/Chicago,65604
+Avondale-MO,1840007371,Avondale,Avondale,MO,Avondale-MO,Missouri,29047,Clay,39.1546,-94.5453,461,461,1290,polygon,TRUE,America/Chicago,64117
+Exeter-MO,1840008796,Exeter,Exeter,MO,Exeter-MO,Missouri,29009,Barry,36.6707,-93.9399,773,773,377,polygon,TRUE,America/Chicago,65647
+Wilderness-MO,1840032222,Wilderness,Wilderness,MO,Wilderness-MO,Missouri,29149,Oregon,36.7889,-91.1921,,,1.4,point,FALSE,America/Chicago,63941
+Chain of Rocks-MO,1840010691,Chain of Rocks,Chain of Rocks,MO,Chain of Rocks-MO,Missouri,29113,Lincoln,38.9155,-90.8021,97,97,223,polygon,TRUE,America/Chicago,63369
+Flordell Hills-MO,1840008585,Flordell Hills,Flordell Hills,MO,Flordell Hills-MO,Missouri,29189,St. Louis,38.7174,-90.265,805,805,2801,polygon,TRUE,America/Chicago,63136
+Theodosia-MO,1840013061,Theodosia,Theodosia,MO,Theodosia-MO,Missouri,29153,Ozark,36.5807,-92.6638,257,257,72,polygon,TRUE,America/Chicago,65761
+Brooklyn Heights-MO,1840009914,Brooklyn Heights,Brooklyn Heights,MO,Brooklyn Heights-MO,Missouri,29097,Jasper,37.1694,-94.3856,99,99,333,polygon,TRUE,America/Chicago,64836
+Pontiac-MO,1840025751,Pontiac,Pontiac,MO,Pontiac-MO,Missouri,29153,Ozark,36.5165,-92.6037,,,33.3,polygon,FALSE,America/Chicago,65729
+Ironton-MO,1840008716,Ironton,Ironton,MO,Ironton-MO,Missouri,29093,Iron,37.5984,-90.6378,2520,1377,395,polygon,TRUE,America/Chicago,63650
+Competition-MO,1840032187,Competition,Competition,MO,Competition-MO,Missouri,29105,Laclede,37.4837,-92.4291,,,9.6,point,FALSE,America/Chicago,65470
+Aldrich-MO,1840010854,Aldrich,Aldrich,MO,Aldrich-MO,Missouri,29167,Polk,37.5489,-93.5512,80,80,190,polygon,TRUE,America/Chicago,65601
+Goodnight-MO,1840012991,Goodnight,Goodnight,MO,Goodnight-MO,Missouri,29167,Polk,37.4516,-93.2311,18,18,9,polygon,TRUE,America/Chicago,65725
+Eldon-MO,1840008659,Eldon,Eldon,MO,Eldon-MO,Missouri,29131,Miller,38.3511,-92.5767,4630,4643,503,polygon,TRUE,America/Chicago,65026
+Shoal Creek Estates-MO,1840010893,Shoal Creek Estates,Shoal Creek Estates,MO,Shoal Creek Estates-MO,Missouri,29145,Newton,37.0173,-94.4933,97,97,328,polygon,TRUE,America/Chicago,64804
+Vinita Terrace-MO,1840012829,Vinita Terrace,Vinita Terrace,MO,Vinita Terrace-MO,Missouri,29189,St. Louis,38.6849,-90.3296,276,276,1827,polygon,TRUE,America/Chicago,63114 63133
+Hunnewell-MO,1840007305,Hunnewell,Hunnewell,MO,Hunnewell-MO,Missouri,29205,Shelby,39.6679,-91.8588,177,177,110,polygon,TRUE,America/Chicago,63443
+Republic-MO,1840009906,Republic,Republic,MO,Republic-MO,Missouri,29077,Greene,37.145,-93.4448,16116,16116,405,polygon,TRUE,America/Chicago,65738 65619 65802
+Fidelity-MO,1840010876,Fidelity,Fidelity,MO,Fidelity-MO,Missouri,29097,Jasper,37.0817,-94.3096,256,256,102,polygon,TRUE,America/Chicago,64836
+Syracuse-MO,1840009650,Syracuse,Syracuse,MO,Syracuse-MO,Missouri,29141,Morgan,38.6696,-92.8763,171,171,176,polygon,TRUE,America/Chicago,65354
+Branson-MO,1840007659,Branson,Branson,MO,Branson-MO,Missouri,29213,Taney,36.6504,-93.2636,24603,11430,213,polygon,TRUE,America/Chicago,65616 65615
+Windsor-MO,1840010791,Windsor,Windsor,MO,Windsor-MO,Missouri,29083,Henry,38.5319,-93.5227,2474,2785,444,polygon,TRUE,America/Chicago,65360
+Winchester-MO,1840010747,Winchester,Winchester,MO,Winchester-MO,Missouri,29189,St. Louis,38.5897,-90.5261,1526,1526,2386,polygon,TRUE,America/Chicago,63021
+Lone Jack-MO,1840009679,Lone Jack,Lone Jack,MO,Lone Jack-MO,Missouri,29095,Jackson,38.8725,-94.174,1160,1160,119,polygon,TRUE,America/Chicago,64086 64070
+Oakwood Park-MO,1840012680,Oakwood Park,Oakwood Park,MO,Oakwood Park-MO,Missouri,29047,Clay,39.2047,-94.5738,197,197,1135,polygon,TRUE,America/Chicago,64118
+Curryville-MO,1840007343,Curryville,Curryville,MO,Curryville-MO,Missouri,29163,Pike,39.3458,-91.3412,227,227,319,polygon,TRUE,America/Chicago,63339
+Waco-MO,1840010877,Waco,Waco,MO,Waco-MO,Missouri,29097,Jasper,37.247,-94.6003,86,86,129,polygon,TRUE,America/Chicago,64832
+Lebanon-MO,1840008711,Lebanon,Lebanon,MO,Lebanon-MO,Missouri,29105,Laclede,37.6718,-92.6603,14274,14709,388,polygon,TRUE,America/Chicago,65536
+Tarrants-MO,1840012604,Tarrants,Tarrants,MO,Tarrants-MO,Missouri,29163,Pike,39.3576,-91.1837,,,21.4,polygon,TRUE,America/Chicago,63334
+Blackwater-MO,1840007419,Blackwater,Blackwater,MO,Blackwater-MO,Missouri,29053,Cooper,38.9793,-92.9921,164,164,193,polygon,TRUE,America/Chicago,65322
+Loma Linda-MO,1840009929,Loma Linda,Loma Linda,MO,Loma Linda-MO,Missouri,29145,Newton,36.9858,-94.5922,786,786,85,polygon,TRUE,America/Chicago,64804
+Denver-MO,1840012144,Denver,Denver,MO,Denver-MO,Missouri,29227,Worth,40.3989,-94.3233,37,37,37,polygon,TRUE,America/Chicago,64441
+Tiff City-MO,1840032107,Tiff City,Tiff City,MO,Tiff City-MO,Missouri,29119,McDonald,36.6684,-94.6172,,,30.8,point,FALSE,America/Chicago,64831
+Forsyth-MO,1840008806,Forsyth,Forsyth,MO,Forsyth-MO,Missouri,29213,Taney,36.6922,-93.1101,7315,2413,400,polygon,TRUE,America/Chicago,65653
+Prairie Hill-MO,1840032093,Prairie Hill,Prairie Hill,MO,Prairie Hill-MO,Missouri,29041,Chariton,39.5186,-92.738,,,27.4,point,FALSE,America/Chicago,65281
+La Monte-MO,1840008575,La Monte,La Monte,MO,La Monte-MO,Missouri,29159,Pettis,38.7722,-93.4237,1131,1131,386,polygon,TRUE,America/Chicago,65337
+Browning-MO,1840005552,Browning,Browning,MO,Browning-MO,Missouri,29115,Linn,40.0348,-93.16,253,253,186,polygon,TRUE,America/Chicago,64630
+Wentzville-MO,1840010717,Wentzville,Wentzville,MO,Wentzville-MO,Missouri,29183,St. Charles,38.8165,-90.8671,37395,37395,726,polygon,TRUE,America/Chicago,63385 63346
+Willow Springs-MO,1840010888,Willow Springs,Willow Springs,MO,Willow Springs-MO,Missouri,29091,Howell,36.9878,-91.962,2152,2152,235,polygon,TRUE,America/Chicago,65793
+Gideon-MO,1840008800,Gideon,Gideon,MO,Gideon-MO,Missouri,29143,New Madrid,36.4489,-89.9128,1022,1022,220,polygon,TRUE,America/Chicago,63848
+Bucyrus-MO,1840032150,Bucyrus,Bucyrus,MO,Bucyrus-MO,Missouri,29215,Texas,37.3442,-92.0168,,,8.1,point,FALSE,America/Chicago,65444
+Augusta-MO,1840010719,Augusta,Augusta,MO,Augusta-MO,Missouri,29183,St. Charles,38.5684,-90.8807,256,256,108,polygon,TRUE,America/Chicago,63332
+Rea-MO,1840009475,Rea,Rea,MO,Rea-MO,Missouri,29003,Andrew,40.0616,-94.7646,50,50,161,polygon,TRUE,America/Chicago,64480
+Reynolds-MO,1840032208,Reynolds,Reynolds,MO,Reynolds-MO,Missouri,29179,Reynolds,37.4009,-91.0735,,,18.3,point,FALSE,America/Chicago,63666
+Redings Mill-MO,1840013046,Redings Mill,Redings Mill,MO,Redings Mill-MO,Missouri,29145,Newton,37.0196,-94.517,152,152,292,polygon,TRUE,America/Chicago,64804
+Lamar-MO,1840008727,Lamar,Lamar,MO,Lamar-MO,Missouri,29011,Barton,37.4944,-94.2785,4303,4363,329,polygon,TRUE,America/Chicago,64759
+Neck City-MO,1840008769,Neck City,Neck City,MO,Neck City-MO,Missouri,29097,Jasper,37.2549,-94.4449,186,186,182,polygon,TRUE,America/Chicago,64849
+Zion-MO,1840032117,Zion,Zion,MO,Zion-MO,Missouri,29123,Madison,37.4217,-90.3101,,,16,point,FALSE,America/Chicago,63645
+Walnut Grove-MO,1840010869,Walnut Grove,Walnut Grove,MO,Walnut Grove-MO,Missouri,29077,Greene,37.4112,-93.548,790,790,491,polygon,TRUE,America/Chicago,65770
+Bragg City-MO,1840009951,Bragg City,Bragg City,MO,Bragg City-MO,Missouri,29155,Pemiscot,36.2681,-89.9114,140,140,264,polygon,TRUE,America/Chicago,63827
+Tightwad-MO,1840012894,Tightwad,Tightwad,MO,Tightwad-MO,Missouri,29083,Henry,38.3096,-93.5466,67,67,25,polygon,TRUE,America/Chicago,64735
+Saint James-MO,1840009850,Saint James,Saint James,MO,Saint James-MO,Missouri,29161,Phelps,38.0013,-91.6154,4028,4119,372,polygon,TRUE,America/Chicago,65559
+Diehlstadt-MO,1840013037,Diehlstadt,Diehlstadt,MO,Diehlstadt-MO,Missouri,29201,Scott,36.9593,-89.4324,158,158,821,polygon,TRUE,America/Chicago,63834
+Linn-MO,1840009646,Linn,Linn,MO,Linn-MO,Missouri,29151,Osage,38.4788,-91.845,1429,1429,473,polygon,TRUE,America/Chicago,65051
+Rocky Ridge Ranch-MO,1840015804,Rocky Ridge Ranch,Rocky Ridge Ranch,MO,Rocky Ridge Ranch-MO,Missouri,29186,Ste. Genevieve,37.9303,-90.2385,,,74.8,point,FALSE,America/Chicago,63628
+Oak Ridge-MO,1840009890,Oak Ridge,Oak Ridge,MO,Oak Ridge-MO,Missouri,29031,Cape Girardeau,37.4985,-89.7296,246,246,166,polygon,TRUE,America/Chicago,63755 63769
+Hamilton-MO,1840007320,Hamilton,Hamilton,MO,Hamilton-MO,Missouri,29025,Caldwell,39.7426,-94.002,1724,1724,474,polygon,TRUE,America/Chicago,64644
+Ferguson-MO,1840008584,Ferguson,Ferguson,MO,Ferguson-MO,Missouri,29189,St. Louis,38.749,-90.2949,20846,20846,1298,polygon,TRUE,America/Chicago,63136 63135
+Brownbranch-MO,1840032184,Brownbranch,Brownbranch,MO,Brownbranch-MO,Missouri,29213,Taney,36.7945,-92.8307,,,3.8,point,FALSE,America/Chicago,65608
+Sumner-MO,1840010610,Sumner,Sumner,MO,Sumner-MO,Missouri,29041,Chariton,39.656,-93.2434,98,98,167,polygon,TRUE,America/Chicago,64681
+Mooresville-MO,1840012459,Mooresville,Mooresville,MO,Mooresville-MO,Missouri,29117,Livingston,39.7468,-93.721,87,87,187,polygon,TRUE,America/Chicago,64664
+Lamar Heights-MO,1840008728,Lamar Heights,Lamar Heights,MO,Lamar Heights-MO,Missouri,29011,Barton,37.4936,-94.2956,172,172,84,polygon,TRUE,America/Chicago,64759
+McKittrick-MO,1840009696,McKittrick,McKittrick,MO,McKittrick-MO,Missouri,29139,Montgomery,38.7357,-91.4449,57,57,249,polygon,TRUE,America/Chicago,65041
+Cedar Hill-MO,1840006238,Cedar Hill,Cedar Hill,MO,Cedar Hill-MO,Missouri,29099,Jefferson,38.3575,-90.6409,,,285.2,polygon,FALSE,America/Chicago,63016
+Amity-MO,1840010539,Amity,Amity,MO,Amity-MO,Missouri,29063,DeKalb,39.8684,-94.4354,53,53,118,polygon,TRUE,America/Chicago,64422
+Fountain N' Lakes-MO,1840012729,Fountain N' Lakes,Fountain N' Lakes,MO,Fountain N' Lakes-MO,Missouri,29113,Lincoln,38.9689,-90.8493,165,165,446,polygon,TRUE,America/Chicago,63362
+Emma-MO,1840008508,Emma,Emma,MO,Emma-MO,Missouri,29195,Saline,38.9751,-93.495,237,237,156,polygon,TRUE,America/Chicago,65327 64020
+Hopkins-MO,1840007228,Hopkins,Hopkins,MO,Hopkins-MO,Missouri,29147,Nodaway,40.5512,-94.8171,496,496,267,polygon,TRUE,America/Chicago,64461
+Greer-MO,1840032197,Greer,Greer,MO,Greer-MO,Missouri,29149,Oregon,36.7695,-91.3535,,,4.8,point,FALSE,America/Chicago,65606
+Breckenridge Hills-MO,1840006127,Breckenridge Hills,Breckenridge Hills,MO,Breckenridge Hills-MO,Missouri,29189,St. Louis,38.7157,-90.3684,4668,4668,2231,polygon,TRUE,America/Chicago,63114 63074
+Irwin-MO,1840025726,Irwin,Irwin,MO,Irwin-MO,Missouri,29011,Barton,37.5887,-94.2872,,,95.4,polygon,FALSE,America/Chicago,64759
+Millersville-MO,1840032079,Millersville,Millersville,MO,Millersville-MO,Missouri,29031,Cape Girardeau,37.4328,-89.7995,,,47.8,point,FALSE,America/Chicago,63766
+Indian Point-MO,1840013051,Indian Point,Indian Point,MO,Indian Point-MO,Missouri,29209,Stone,36.6428,-93.3444,515,515,70,polygon,TRUE,America/Chicago,65616
+Sibley-MO,1840012727,Sibley,Sibley,MO,Sibley-MO,Missouri,29095,Jackson,39.1758,-94.201,360,360,133,polygon,TRUE,America/Chicago,64088 64016
+Silver Lake-MO,1840032102,Silver Lake,Silver Lake,MO,Silver Lake-MO,Missouri,29157,Perry,37.6837,-89.9901,,,11.8,point,FALSE,America/Chicago,63775
+Glover-MO,1840032196,Glover,Glover,MO,Glover-MO,Missouri,29093,Iron,37.4864,-90.6912,,,2.5,point,FALSE,America/Chicago,63620
+Town and Country-MO,1840010738,Town and Country,Town and Country,MO,Town and Country-MO,Missouri,29189,St. Louis,38.6317,-90.4791,11113,11113,367,polygon,TRUE,America/Chicago,63017 63141 63131
+Montier-MO,1840025737,Montier,Montier,MO,Montier-MO,Missouri,29203,Shannon,36.9817,-91.5749,,,75.6,polygon,FALSE,America/Chicago,65438 65546
+Gibson-MO,1840032141,Gibson,Gibson,MO,Gibson-MO,Missouri,29069,Dunklin,36.4412,-90.0309,,,28.4,point,FALSE,America/Chicago,63847
+Revere-MO,1840010401,Revere,Revere,MO,Revere-MO,Missouri,29045,Clark,40.4944,-91.6764,75,75,155,polygon,TRUE,America/Chicago,63465
+Lake Mykee Town-MO,1840012765,Lake Mykee Town,Lake Mykee Town,MO,Lake Mykee Town-MO,Missouri,29027,Callaway,38.6763,-92.1013,354,354,738,polygon,TRUE,America/Chicago,65043
+Lohman-MO,1840009795,Lohman,Lohman,MO,Lohman-MO,Missouri,29051,Cole,38.543,-92.3646,165,165,176,polygon,TRUE,America/Chicago,65053
+Haywood City-MO,1840013033,Haywood City,Haywood City,MO,Haywood City-MO,Missouri,29201,Scott,37.0117,-89.6003,203,203,183,polygon,TRUE,America/Chicago,63771
+Grandview-MO,1840008532,Grandview,Grandview,MO,Grandview-MO,Missouri,29095,Jackson,38.8802,-94.5227,25190,25190,660,polygon,TRUE,America/Chicago,64030
+Rockaway Beach-MO,1840009945,Rockaway Beach,Rockaway Beach,MO,Rockaway Beach-MO,Missouri,29213,Taney,36.7021,-93.1622,864,864,543,polygon,TRUE,America/Chicago,65740
+Clark-MO,1840007338,Clark,Clark,MO,Clark-MO,Missouri,29175,Randolph,39.2763,-92.3477,294,294,194,polygon,TRUE,America/Chicago,65243
+South Fork-MO,1840025743,South Fork,South Fork,MO,South Fork-MO,Missouri,29091,Howell,36.6311,-91.9602,,,33,polygon,FALSE,America/Chicago,65775
+Bucklin-MO,1840007273,Bucklin,Bucklin,MO,Bucklin-MO,Missouri,29115,Linn,39.7837,-92.8879,440,440,143,polygon,TRUE,America/Chicago,64631
+Old Monroe-MO,1840009682,Old Monroe,Old Monroe,MO,Old Monroe-MO,Missouri,29113,Lincoln,38.9387,-90.7468,284,284,447,polygon,TRUE,America/Chicago,63369
+Briar-MO,1840032183,Briar,Briar,MO,Briar-MO,Missouri,29181,Ripley,36.6484,-90.9718,,,3.6,point,FALSE,America/Chicago,63935
+Scott City-MO,1840009923,Scott City,Scott City,MO,Scott City-MO,Missouri,29201,Scott,37.2242,-89.536,5132,4492,368,polygon,TRUE,America/Chicago,63780
+Paynesville-MO,1840012603,Paynesville,Paynesville,MO,Paynesville-MO,Missouri,29163,Pike,39.2624,-90.9003,76,76,111,polygon,TRUE,America/Chicago,63344 63336 63330
+Gallatin-MO,1840008391,Gallatin,Gallatin,MO,Gallatin-MO,Missouri,29061,Daviess,39.9106,-93.9642,1731,1731,243,polygon,TRUE,America/Chicago,64640
+Strasburg-MO,1840009784,Strasburg,Strasburg,MO,Strasburg-MO,Missouri,29037,Cass,38.7598,-94.1648,142,142,282,polygon,TRUE,America/Chicago,64080 64090
+Grayson-MO,1840032137,Grayson,Grayson,MO,Grayson-MO,Missouri,29049,Clinton,39.5333,-94.5644,,,19.8,point,FALSE,America/Chicago,64492
+High Point-MO,1840032064,High Point,High Point,MO,High Point-MO,Missouri,29135,Moniteau,38.4845,-92.5907,,,13.6,point,FALSE,America/Chicago,65074
+Clarksdale-MO,1840007274,Clarksdale,Clarksdale,MO,Clarksdale-MO,Missouri,29063,DeKalb,39.8139,-94.5508,267,267,318,polygon,TRUE,America/Chicago,64430
+Dexter-MO,1840007643,Dexter,Dexter,MO,Dexter-MO,Missouri,29207,Stoddard,36.793,-89.9632,9125,7927,469,polygon,TRUE,America/Chicago,63841
+Blue Eye-MO,1840009932,Blue Eye,Blue Eye,MO,Blue Eye-MO,Missouri,29209,Stone,36.5149,-93.383,160,160,52,polygon,TRUE,America/Chicago,65611
+Glendale-MO,1840008588,Glendale,Glendale,MO,Glendale-MO,Missouri,29189,St. Louis,38.5935,-90.3826,5894,5894,1763,polygon,TRUE,America/Chicago,63122
+Quincy-MO,1840032131,Quincy,Quincy,MO,Quincy-MO,Missouri,29085,Hickory,38.0084,-93.4724,,,2.5,point,FALSE,America/Chicago,65774
+Shoal Creek Drive-MO,1840013048,Shoal Creek Drive,Shoal Creek Drive,MO,Shoal Creek Drive-MO,Missouri,29145,Newton,37.0371,-94.5229,339,339,276,polygon,TRUE,America/Chicago,64804
+Jameson-MO,1840010525,Jameson,Jameson,MO,Jameson-MO,Missouri,29061,Daviess,40.006,-93.9877,130,130,223,polygon,TRUE,America/Chicago,64647
+Jennings-MO,1840008596,Jennings,Jennings,MO,Jennings-MO,Missouri,29189,St. Louis,38.723,-90.2643,14755,14755,1526,polygon,TRUE,America/Chicago,63136
+Pasadena Hills-MO,1840009746,Pasadena Hills,Pasadena Hills,MO,Pasadena Hills-MO,Missouri,29189,St. Louis,38.7083,-90.2922,914,914,1681,polygon,TRUE,America/Chicago,63121
+Wooldridge-MO,1840012767,Wooldridge,Wooldridge,MO,Wooldridge-MO,Missouri,29053,Cooper,38.9066,-92.5215,62,62,393,polygon,TRUE,America/Chicago,65287
+Canton-MO,1840007258,Canton,Canton,MO,Canton-MO,Missouri,29111,Lewis,40.1295,-91.5266,2377,2377,401,polygon,TRUE,America/Chicago,63435
+Richmond-MO,1840009600,Richmond,Richmond,MO,Richmond-MO,Missouri,29177,Ray,39.2758,-93.9734,5103,5575,354,polygon,TRUE,America/Chicago,64085
+Knob Noster-MO,1840008577,Knob Noster,Knob Noster,MO,Knob Noster-MO,Missouri,29101,Johnson,38.7676,-93.5616,2734,2734,366,polygon,TRUE,America/Chicago,65336
+Kelso-MO,1840013034,Kelso,Kelso,MO,Kelso-MO,Missouri,29201,Scott,37.1924,-89.5504,605,605,736,polygon,TRUE,America/Chicago,63780 63758
+Saint Peters-MO,1840009721,Saint Peters,Saint Peters,MO,Saint Peters-MO,Missouri,29183,St. Charles,38.7825,-90.6061,57289,57289,986,polygon,TRUE,America/Chicago,63376
+Wilbur Park-MO,1840012831,Wilbur Park,Wilbur Park,MO,Wilbur Park-MO,Missouri,29189,St. Louis,38.5532,-90.3086,473,473,2754,polygon,TRUE,America/Chicago,63123
+Steelville-MO,1840009845,Steelville,Steelville,MO,Steelville-MO,Missouri,29055,Crawford,37.9696,-91.3545,1684,1684,268,polygon,TRUE,America/Chicago,65565
+Luray-MO,1840012115,Luray,Luray,MO,Luray-MO,Missouri,29045,Clark,40.4524,-91.8841,94,94,179,polygon,TRUE,America/Chicago,63453
+Lockwood-MO,1840009895,Lockwood,Lockwood,MO,Lockwood-MO,Missouri,29057,Dade,37.3867,-93.9579,908,908,361,polygon,TRUE,America/Chicago,65682
+Kimmswick-MO,1840008653,Kimmswick,Kimmswick,MO,Kimmswick-MO,Missouri,29099,Jefferson,38.3655,-90.3645,158,158,260,polygon,TRUE,America/Chicago,63053 63052
+Caplinger Mills-MO,1840032132,Caplinger Mills,Caplinger Mills,MO,Caplinger Mills-MO,Missouri,29039,Cedar,37.7942,-93.8044,,,49.8,point,FALSE,America/Chicago,65785
+Seymour-MO,1840009896,Seymour,Seymour,MO,Seymour-MO,Missouri,29225,Webster,37.1485,-92.7694,1987,1987,277,polygon,TRUE,America/Chicago,65746
+Mountain View-MO,1840008791,Mountain View,Mountain View,MO,Mountain View-MO,Missouri,29091,Howell,36.9936,-91.7019,2678,2678,275,polygon,TRUE,America/Chicago,65548
+Lake Winnebago-MO,1840008613,Lake Winnebago,Lake Winnebago,MO,Lake Winnebago-MO,Missouri,29037,Cass,38.8234,-94.3612,1160,1160,196,polygon,TRUE,America/Chicago,64080 64034
+Belgique-MO,1840032025,Belgique,Belgique,MO,Belgique-MO,Missouri,29157,Perry,37.8376,-89.7812,,,2,point,FALSE,America/Chicago,63775
+Corning-MO,1840009457,Corning,Corning,MO,Corning-MO,Missouri,29087,Holt,40.2486,-95.4545,14,14,49,polygon,TRUE,America/Chicago,64437 64446
+Nixa-MO,1840008789,Nixa,Nixa,MO,Nixa-MO,Missouri,29043,Christian,37.0456,-93.2962,21201,21201,965,polygon,TRUE,America/Chicago,65714
+Gentry-MO,1840012244,Gentry,Gentry,MO,Gentry-MO,Missouri,29075,Gentry,40.3326,-94.4233,71,71,119,polygon,TRUE,America/Chicago,64453
+Queen City-MO,1840009412,Queen City,Queen City,MO,Queen City-MO,Missouri,29197,Schuyler,40.4127,-92.5664,590,590,221,polygon,TRUE,America/Chicago,63561
+Lathrop-MO,1840008445,Lathrop,Lathrop,MO,Lathrop-MO,Missouri,29049,Clinton,39.5515,-94.3286,2046,2046,442,polygon,TRUE,America/Chicago,64465
+Hartville-MO,1840007603,Hartville,Hartville,MO,Hartville-MO,Missouri,29229,Wright,37.2502,-92.512,595,595,352,polygon,TRUE,America/Chicago,65667
+La Belle-MO,1840008384,La Belle,La Belle,MO,La Belle-MO,Missouri,29111,Lewis,40.1165,-91.9146,651,651,369,polygon,TRUE,America/Chicago,63447
+Roby-MO,1840032209,Roby,Roby,MO,Roby-MO,Missouri,29215,Texas,37.5156,-92.139,,,21.5,point,FALSE,America/Chicago,65557
+Brighton-MO,1840032027,Brighton,Brighton,MO,Brighton-MO,Missouri,29167,Polk,37.4578,-93.348,,,61,point,FALSE,America/Chicago,65617
+Ozora-MO,1840025693,Ozora,Ozora,MO,Ozora-MO,Missouri,29186,Ste. Genevieve,37.8666,-90.0517,,,14.1,polygon,FALSE,America/Chicago,63673
+Glenallen-MO,1840032057,Glenallen,Glenallen,MO,Glenallen-MO,Missouri,29017,Bollinger,37.3171,-90.0282,84,84,564,polygon,TRUE,America/Chicago,63751
+Stanberry-MO,1840009436,Stanberry,Stanberry,MO,Stanberry-MO,Missouri,29075,Gentry,40.2166,-94.5381,1181,1181,325,polygon,TRUE,America/Chicago,64489
+Ridgeway-MO,1840009420,Ridgeway,Ridgeway,MO,Ridgeway-MO,Missouri,29081,Harrison,40.3781,-93.9379,445,445,141,polygon,TRUE,America/Chicago,64481
+Hoberg-MO,1840013030,Hoberg,Hoberg,MO,Hoberg-MO,Missouri,29109,Lawrence,37.0682,-93.8493,56,56,400,polygon,TRUE,America/Chicago,65712
+Tunas-MO,1840032108,Tunas,Tunas,MO,Tunas-MO,Missouri,29059,Dallas,37.8498,-93.0277,,,3.2,point,FALSE,America/Chicago,65764
+Zalma-MO,1840013010,Zalma,Zalma,MO,Zalma-MO,Missouri,29017,Bollinger,37.1432,-90.0804,89,89,193,polygon,TRUE,America/Chicago,63787
+Henley-MO,1840032063,Henley,Henley,MO,Henley-MO,Missouri,29051,Cole,38.3445,-92.3224,,,29.8,point,FALSE,America/Chicago,65040
+Union-MO,1840010769,Union,Union,MO,Union-MO,Missouri,29071,Franklin,38.4401,-90.9928,9567,11277,478,polygon,TRUE,America/Chicago,63084
+Westboro-MO,1840010411,Westboro,Westboro,MO,Westboro-MO,Missouri,29005,Atchison,40.535,-95.3211,133,133,202,polygon,TRUE,America/Chicago,64498
+Rushville-MO,1840010600,Rushville,Rushville,MO,Rushville-MO,Missouri,29021,Buchanan,39.5873,-95.0245,275,275,549,polygon,TRUE,America/Chicago,64484
+Highlandville-MO,1840007646,Highlandville,Highlandville,MO,Highlandville-MO,Missouri,29043,Christian,36.9409,-93.283,985,985,75,polygon,TRUE,America/Chicago,65721 65669
+Patton-MO,1840032206,Patton,Patton,MO,Patton-MO,Missouri,29017,Bollinger,37.5023,-90.0134,,,33.3,point,FALSE,America/Chicago,63662
+Lewistown-MO,1840009458,Lewistown,Lewistown,MO,Lewistown-MO,Missouri,29111,Lewis,40.0847,-91.8137,526,526,422,polygon,TRUE,America/Chicago,63452
+Herculaneum-MO,1840007507,Herculaneum,Herculaneum,MO,Herculaneum-MO,Missouri,29099,Jefferson,38.2573,-90.3934,3965,3965,376,polygon,TRUE,America/Chicago,63028 63048
+Freeburg-MO,1840012864,Freeburg,Freeburg,MO,Freeburg-MO,Missouri,29151,Osage,38.3163,-91.9223,432,432,199,polygon,TRUE,America/Chicago,65035
+Rush Hill-MO,1840012699,Rush Hill,Rush Hill,MO,Rush Hill-MO,Missouri,29007,Audrain,39.2102,-91.7248,153,153,329,polygon,TRUE,America/Chicago,65280
+Creighton-MO,1840007461,Creighton,Creighton,MO,Creighton-MO,Missouri,29037,Cass,38.4965,-94.072,346,346,387,polygon,TRUE,America/Chicago,64739
+Uplands Park-MO,1840012825,Uplands Park,Uplands Park,MO,Uplands Park-MO,Missouri,29189,St. Louis,38.6926,-90.2829,443,443,2419,polygon,TRUE,America/Chicago,63121
+Spickard-MO,1840009453,Spickard,Spickard,MO,Spickard-MO,Missouri,29079,Grundy,40.2432,-93.5923,253,253,154,polygon,TRUE,America/Chicago,64679
+Greenfield-MO,1840008740,Greenfield,Greenfield,MO,Greenfield-MO,Missouri,29057,Dade,37.4162,-93.8432,1319,1319,448,polygon,TRUE,America/Chicago,65661
+Edina-MO,1840008374,Edina,Edina,MO,Edina-MO,Missouri,29103,Knox,40.168,-92.1732,1112,1112,328,polygon,TRUE,America/Chicago,63537
+Elm Point-MO,1840032234,Elm Point,Elm Point,MO,Elm Point-MO,Missouri,29183,St. Charles,38.8181,-90.4871,,,1686.1,point,FALSE,America/Chicago,63301
+Butterfield-MO,1840010898,Butterfield,Butterfield,MO,Butterfield-MO,Missouri,29009,Barry,36.7464,-93.9047,461,461,384,polygon,TRUE,America/Chicago,65625 65623
+Saint Cloud-MO,1840012950,Saint Cloud,Saint Cloud,MO,Saint Cloud-MO,Missouri,29055,Crawford,38.1732,-91.2127,41,41,12,polygon,TRUE,America/Chicago,65441 63080
+Bowling Green-MO,1840007344,Bowling Green,Bowling Green,MO,Bowling Green-MO,Missouri,29163,Pike,39.3447,-91.2031,5533,5510,791,polygon,TRUE,America/Chicago,63334
+Pacific-MO,1840009644,Pacific,Pacific,MO,Pacific-MO,Missouri,29071,Franklin,38.4807,-90.7536,10633,7210,463,polygon,TRUE,America/Chicago,63069
+Naylor-MO,1840008805,Naylor,Naylor,MO,Naylor-MO,Missouri,29181,Ripley,36.5745,-90.6056,616,616,429,polygon,TRUE,America/Chicago,63953
+Westphalia-MO,1840010771,Westphalia,Westphalia,MO,Westphalia-MO,Missouri,29151,Osage,38.4414,-92.0005,390,390,283,polygon,TRUE,America/Chicago,65085 65035
+Hartwell-MO,1840025664,Hartwell,Hartwell,MO,Hartwell-MO,Missouri,29083,Henry,38.4331,-93.9342,,,15.6,polygon,FALSE,America/Chicago,64788
+Birmingham-MO,1840012674,Birmingham,Birmingham,MO,Birmingham-MO,Missouri,29047,Clay,39.1676,-94.4501,196,196,134,polygon,TRUE,America/Chicago,64161
+Sycamore Hills-MO,1840012826,Sycamore Hills,Sycamore Hills,MO,Sycamore Hills-MO,Missouri,29189,St. Louis,38.7013,-90.3489,667,667,1817,polygon,TRUE,America/Chicago,63114
+Koshkonong-MO,1840009938,Koshkonong,Koshkonong,MO,Koshkonong-MO,Missouri,29149,Oregon,36.5978,-91.646,210,210,463,polygon,TRUE,America/Chicago,65692
+Raymore-MO,1840009787,Raymore,Raymore,MO,Raymore-MO,Missouri,29037,Cass,38.8029,-94.4583,20839,20839,465,polygon,TRUE,America/Chicago,64083
+Centerville-MO,1840007597,Centerville,Centerville,MO,Centerville-MO,Missouri,29179,Reynolds,37.4368,-90.9601,189,189,228,polygon,TRUE,America/Chicago,63633
+Nevada-MO,1840008690,Nevada,Nevada,MO,Nevada-MO,Missouri,29217,Vernon,37.8445,-94.3492,8660,8224,353,polygon,TRUE,America/Chicago,64772
+Keyes Summit-MO,1840032237,Keyes Summit,Keyes Summit,MO,Keyes Summit-MO,Missouri,29189,St. Louis,38.5673,-90.4629,,,179.7,point,FALSE,America/Chicago,63122
+Rich Hill-MO,1840009811,Rich Hill,Rich Hill,MO,Rich Hill-MO,Missouri,29013,Bates,38.0959,-94.3633,1332,1332,376,polygon,TRUE,America/Chicago,64779
+Seligman-MO,1840009934,Seligman,Seligman,MO,Seligman-MO,Missouri,29009,Barry,36.5231,-93.9387,834,834,258,polygon,TRUE,America/Chicago,65745
+Sabula-MO,1840032214,Sabula,Sabula,MO,Sabula-MO,Missouri,29093,Iron,37.4048,-90.6962,,,16.9,point,FALSE,America/Chicago,63620
+Denton-MO,1840032041,Denton,Denton,MO,Denton-MO,Missouri,29155,Pemiscot,36.0898,-89.8915,,,24,point,FALSE,America/Chicago,63877
+Shoveltown-MO,1840032247,Shoveltown,Shoveltown,MO,Shoveltown-MO,Missouri,29189,St. Louis,38.8156,-90.2807,,,885.8,point,FALSE,America/Chicago,63034
+Loch Lloyd-MO,1840032257,Loch Lloyd,Loch Lloyd,MO,Loch Lloyd-MO,Missouri,29037,Cass,38.831,-94.5977,725,725,159,polygon,TRUE,America/Chicago,64012
+Ellsinore-MO,1840008786,Ellsinore,Ellsinore,MO,Ellsinore-MO,Missouri,29035,Carter,36.9327,-90.7477,450,450,343,polygon,TRUE,America/Chicago,63937
+De Kalb-MO,1840009550,De Kalb,De Kalb,MO,De Kalb-MO,Missouri,29021,Buchanan,39.5883,-94.9236,219,219,331,polygon,TRUE,America/Chicago,64440
+Bel-Nor-MO,1840012815,Bel-Nor,Bel-Nor,MO,Bel-Nor-MO,Missouri,29189,St. Louis,38.7017,-90.3179,1466,1466,889,polygon,TRUE,America/Chicago,63121
+Annapolis-MO,1840007583,Annapolis,Annapolis,MO,Annapolis-MO,Missouri,29093,Iron,37.3605,-90.6976,342,342,353,polygon,TRUE,America/Chicago,63620
+Cassville-MO,1840007654,Cassville,Cassville,MO,Cassville-MO,Missouri,29009,Barry,36.6789,-93.868,4177,3340,400,polygon,TRUE,America/Chicago,65625
+Calhoun-MO,1840007491,Calhoun,Calhoun,MO,Calhoun-MO,Missouri,29083,Henry,38.4683,-93.6251,447,447,175,polygon,TRUE,America/Chicago,65323
+Utica-MO,1840012460,Utica,Utica,MO,Utica-MO,Missouri,29117,Livingston,39.7455,-93.6287,255,255,113,polygon,TRUE,America/Chicago,64686
+Greentop-MO,1840008345,Greentop,Greentop,MO,Greentop-MO,Missouri,29197,Schuyler,40.3508,-92.5657,438,438,206,polygon,TRUE,America/Chicago,63546
+Junction City-MO,1840012996,Junction City,Junction City,MO,Junction City-MO,Missouri,29123,Madison,37.5733,-90.2907,330,330,355,polygon,TRUE,America/Chicago,63645
+Sunset Hills-MO,1840009742,Sunset Hills,Sunset Hills,MO,Sunset Hills-MO,Missouri,29189,St. Louis,38.531,-90.4088,8497,8497,360,polygon,TRUE,America/Chicago,63128 63127
+Golden City-MO,1840008725,Golden City,Golden City,MO,Golden City-MO,Missouri,29011,Barton,37.3931,-94.0942,731,731,272,polygon,TRUE,America/Chicago,64748
+Glasgow-MO,1840008519,Glasgow,Glasgow,MO,Glasgow-MO,Missouri,29089,Howard,39.2279,-92.8393,1091,1091,324,polygon,TRUE,America/Chicago,65254
+Hume-MO,1840010807,Hume,Hume,MO,Hume-MO,Missouri,29013,Bates,38.0906,-94.5827,325,325,189,polygon,TRUE,America/Chicago,64752
+Wittenberg-MO,1840032164,Wittenberg,Wittenberg,MO,Wittenberg-MO,Missouri,29157,Perry,37.6526,-89.5245,,,2,point,FALSE,America/Chicago,63748
+Dresden-MO,1840032043,Dresden,Dresden,MO,Dresden-MO,Missouri,29159,Pettis,38.7511,-93.3349,,,85.9,point,FALSE,America/Chicago,65301
+Windyville-MO,1840032114,Windyville,Windyville,MO,Windyville-MO,Missouri,29059,Dallas,37.7067,-92.9271,,,5.3,point,FALSE,America/Chicago,65783
+Swedeborg-MO,1840032105,Swedeborg,Swedeborg,MO,Swedeborg-MO,Missouri,29169,Pulaski,37.9139,-92.3318,,,57,point,FALSE,America/Chicago,65556
+Crystal City-MO,1840007505,Crystal City,Crystal City,MO,Crystal City-MO,Missouri,29099,Jefferson,38.2221,-90.3808,4823,4823,408,polygon,TRUE,America/Chicago,63028 63019
+Clayton-MO,1840007439,Clayton,Clayton,MO,Clayton-MO,Missouri,29189,St. Louis,38.6443,-90.3301,16623,16623,2590,polygon,TRUE,America/Chicago,63105
+Edgerton-MO,1840008483,Edgerton,Edgerton,MO,Edgerton-MO,Missouri,29165,Platte,39.5022,-94.629,587,587,203,polygon,TRUE,America/Chicago,64444
+Carrollton-MO,1840007333,Carrollton,Carrollton,MO,Carrollton-MO,Missouri,29033,Carroll,39.3636,-93.4955,3138,3603,333,polygon,TRUE,America/Chicago,64633
+Marionville-MO,1840008779,Marionville,Marionville,MO,Marionville-MO,Missouri,29109,Lawrence,37.0023,-93.636,2197,2197,477,polygon,TRUE,America/Chicago,65705
+Urich-MO,1840010790,Urich,Urich,MO,Urich-MO,Missouri,29083,Henry,38.4605,-93.9991,483,483,461,polygon,TRUE,America/Chicago,64788
+Airport Drive-MO,1840010879,Airport Drive,Airport Drive,MO,Airport Drive-MO,Missouri,29097,Jasper,37.1405,-94.5162,845,845,162,polygon,TRUE,America/Chicago,64870 64801
+Falcon-MO,1840032193,Falcon,Falcon,MO,Falcon-MO,Missouri,29105,Laclede,37.605,-92.3788,,,4.4,point,FALSE,America/Chicago,65470
+McCord Bend-MO,1840013053,McCord Bend,McCord Bend,MO,McCord Bend-MO,Missouri,29209,Stone,36.7875,-93.5034,284,284,374,polygon,TRUE,America/Chicago,65656
+Gower-MO,1840008444,Gower,Gower,MO,Gower-MO,Missouri,29049,Clinton,39.6129,-94.5947,1498,1498,584,polygon,TRUE,America/Chicago,64454
+Cherryville-MO,1840032186,Cherryville,Cherryville,MO,Cherryville-MO,Missouri,29055,Crawford,37.852,-91.2768,,,14.6,point,FALSE,America/Chicago,65446
+Bradleyville-MO,1840032182,Bradleyville,Bradleyville,MO,Bradleyville-MO,Missouri,29213,Taney,36.7837,-92.9082,,,7.5,point,TRUE,America/Chicago,65614
+Lupus-MO,1840009727,Lupus,Lupus,MO,Lupus-MO,Missouri,29135,Moniteau,38.8459,-92.454,34,34,71,polygon,TRUE,America/Chicago,65046
+South Shore-MO,1840032248,South Shore,South Shore,MO,South Shore-MO,Missouri,29183,St. Charles,38.8653,-90.5232,,,61.4,point,FALSE,America/Chicago,63301
+Oxly-MO,1840025749,Oxly,Oxly,MO,Oxly-MO,Missouri,29181,Ripley,36.6025,-90.679,,,92.7,polygon,FALSE,America/Chicago,63955
+Charlack-MO,1840007445,Charlack,Charlack,MO,Charlack-MO,Missouri,29189,St. Louis,38.7029,-90.3426,1363,1363,1961,polygon,TRUE,America/Chicago,63114
+Eureka-MO,1840008582,Eureka,Eureka,MO,Eureka-MO,Missouri,29189,St. Louis,38.5013,-90.6492,11641,10534,381,polygon,TRUE,America/Chicago,63025 63069
+Hurdland-MO,1840007254,Hurdland,Hurdland,MO,Hurdland-MO,Missouri,29103,Knox,40.1489,-92.3034,157,157,182,polygon,TRUE,America/Chicago,63547
+Chesapeake-MO,1840025738,Chesapeake,Chesapeake,MO,Chesapeake-MO,Missouri,29109,Lawrence,37.1161,-93.6791,,,16.1,polygon,FALSE,America/Chicago,65712
+Joplin-MO,1840008771,Joplin,Joplin,MO,Joplin-MO,Missouri,29097,Jasper,37.0766,-94.5016,86144,52195,548,polygon,TRUE,America/Chicago,64804 64801 64802 64803
+Dunnegan-MO,1840032151,Dunnegan,Dunnegan,MO,Dunnegan-MO,Missouri,29167,Polk,37.7081,-93.5769,,,79.9,point,FALSE,America/Chicago,65640
+Phelps City-MO,1840025542,Phelps City,Phelps City,MO,Phelps City-MO,Missouri,29005,Atchison,40.4006,-95.595,,,12.6,polygon,FALSE,America/Chicago,64482
+Oakville-MO,1840006121,Oakville,Oakville,MO,Oakville-MO,Missouri,29189,St. Louis,38.4472,-90.3199,,,1780.8,polygon,FALSE,America/Chicago,63129
+Saint Louis-MO,1840001651,Saint Louis,Saint Louis,MO,Saint Louis-MO,Missouri,29510,St. Louis (city),38.6358,-90.2451,2096990,311404,1940,polygon,TRUE,America/Chicago,63110 63111 63112 63113 63115 63116 63118 63120 63107 63106 63104 63103 63102 63101 63109 63108 63155 63139 63137 63143 63147 63145 63150 63151 63156 63157 63158 63160 63163 63164 63166 63167 63169 63171 63177 63178 63179 63180 63182 63188 63195 63197 63199
+Pasadena Park-MO,1840012824,Pasadena Park,Pasadena Park,MO,Pasadena Park-MO,Missouri,29189,St. Louis,38.711,-90.2974,456,456,1800,polygon,TRUE,America/Chicago,63121
+Lawson-MO,1840008487,Lawson,Lawson,MO,Lawson-MO,Missouri,29177,Ray,39.4359,-94.2154,2406,2406,371,polygon,TRUE,America/Chicago,64062
+Truxton-MO,1840012731,Truxton,Truxton,MO,Truxton-MO,Missouri,29113,Lincoln,39.0035,-91.2403,95,95,149,polygon,TRUE,America/Chicago,63381
+Brashear-MO,1840005482,Brashear,Brashear,MO,Brashear-MO,Missouri,29001,Adair,40.1483,-92.3789,267,267,294,polygon,TRUE,America/Chicago,63533
+Gray Summit-MO,1840006160,Gray Summit,Gray Summit,MO,Gray Summit-MO,Missouri,29071,Franklin,38.4951,-90.8173,,,106.4,polygon,FALSE,America/Chicago,63039 63069 63055
+House Springs-MO,1840032066,House Springs,House Springs,MO,House Springs-MO,Missouri,29099,Jefferson,38.4089,-90.5701,,,409.1,point,FALSE,America/Chicago,63051
+Wheaton-MO,1840010897,Wheaton,Wheaton,MO,Wheaton-MO,Missouri,29009,Barry,36.7616,-94.057,694,694,527,polygon,TRUE,America/Chicago,64874
+Wheeling-MO,1840010562,Wheeling,Wheeling,MO,Wheeling-MO,Missouri,29117,Livingston,39.7861,-93.3862,263,263,316,polygon,TRUE,America/Chicago,64688
+Kingdom City-MO,1840012764,Kingdom City,Kingdom City,MO,Kingdom City-MO,Missouri,29027,Callaway,38.9473,-91.939,130,130,27,polygon,TRUE,America/Chicago,65262
+Weaubleau-MO,1840010839,Weaubleau,Weaubleau,MO,Weaubleau-MO,Missouri,29085,Hickory,37.8915,-93.5404,401,401,178,polygon,TRUE,America/Chicago,65774
+Terre du Lac-MO,1840025697,Terre du Lac,Terre du Lac,MO,Terre du Lac-MO,Missouri,29187,St. Francois,37.9117,-90.6254,,,267.4,point,FALSE,America/Chicago,63628
+Plevna-MO,1840025557,Plevna,Plevna,MO,Plevna-MO,Missouri,29103,Knox,39.9765,-92.0852,,,8.4,polygon,FALSE,America/Chicago,63464
+Walnut Shade-MO,1840032111,Walnut Shade,Walnut Shade,MO,Walnut Shade-MO,Missouri,29213,Taney,36.7326,-93.1935,,,37.1,point,FALSE,America/Chicago,65771
+Belgrade-MO,1840032178,Belgrade,Belgrade,MO,Belgrade-MO,Missouri,29221,Washington,37.7867,-90.8493,,,115,point,FALSE,America/Chicago,63622
+Stella-MO,1840010895,Stella,Stella,MO,Stella-MO,Missouri,29145,Newton,36.7624,-94.1908,159,159,390,polygon,TRUE,America/Chicago,64867
+Qulin-MO,1840009936,Qulin,Qulin,MO,Qulin-MO,Missouri,29023,Butler,36.5977,-90.2522,449,449,384,polygon,TRUE,America/Chicago,63961
+Wood Heights-MO,1840010644,Wood Heights,Wood Heights,MO,Wood Heights-MO,Missouri,29177,Ray,39.3414,-94.1635,697,697,118,polygon,TRUE,America/Chicago,64024
+Bunceton-MO,1840007418,Bunceton,Bunceton,MO,Bunceton-MO,Missouri,29053,Cooper,38.7894,-92.7992,350,350,143,polygon,TRUE,America/Chicago,65237
+Protem-MO,1840032207,Protem,Protem,MO,Protem-MO,Missouri,29213,Taney,36.529,-92.8588,,,4.4,point,FALSE,America/Chicago,65733
+Leslie-MO,1840012860,Leslie,Leslie,MO,Leslie-MO,Missouri,29071,Franklin,38.4179,-91.2312,169,169,383,polygon,TRUE,America/Chicago,63056
+Salisbury-MO,1840009559,Salisbury,Salisbury,MO,Salisbury-MO,Missouri,29041,Chariton,39.4233,-92.8026,1544,1544,448,polygon,TRUE,America/Chicago,65281
+Pleasant Green-MO,1840032091,Pleasant Green,Pleasant Green,MO,Pleasant Green-MO,Missouri,29053,Cooper,38.8061,-92.9627,,,6.6,point,FALSE,America/Chicago,65276
+Irena-MO,1840012143,Irena,Irena,MO,Irena-MO,Missouri,29227,Worth,40.5403,-94.39,17,17,7,polygon,TRUE,America/Chicago,64456
+Lake Saint Louis-MO,1840008572,Lake Saint Louis,Lake Saint Louis,MO,Lake Saint Louis-MO,Missouri,29183,St. Charles,38.785,-90.7872,15777,15777,758,polygon,TRUE,America/Chicago,63367
+Myrtle-MO,1840032083,Myrtle,Myrtle,MO,Myrtle-MO,Missouri,29149,Oregon,36.5087,-91.2671,,,12.6,point,FALSE,America/Chicago,65778
+Grain Valley-MO,1840008531,Grain Valley,Grain Valley,MO,Grain Valley-MO,Missouri,29095,Jackson,39.0166,-94.2086,13684,13684,869,polygon,TRUE,America/Chicago,64029
+Yukon-MO,1840032116,Yukon,Yukon,MO,Yukon-MO,Missouri,29215,Texas,37.2731,-91.8482,,,5.7,point,FALSE,America/Chicago,65589
+Laddonia-MO,1840008516,Laddonia,Laddonia,MO,Laddonia-MO,Missouri,29007,Audrain,39.2434,-91.6424,507,507,299,polygon,TRUE,America/Chicago,63352
+Manchester-MO,1840009739,Manchester,Manchester,MO,Manchester-MO,Missouri,29189,St. Louis,38.5831,-90.5064,18146,18146,1379,polygon,TRUE,America/Chicago,63021 63011
+Hayti Heights-MO,1840007671,Hayti Heights,Hayti Heights,MO,Hayti Heights-MO,Missouri,29155,Pemiscot,36.2311,-89.7682,574,574,226,polygon,TRUE,America/Chicago,63851
+Rover-MO,1840032175,Rover,Rover,MO,Rover-MO,Missouri,29149,Oregon,36.7217,-91.621,,,5.5,point,FALSE,America/Chicago,65775
+Van Buren-MO,1840010884,Van Buren,Van Buren,MO,Van Buren-MO,Missouri,29035,Carter,37.0082,-91.0113,828,828,159,polygon,TRUE,America/Chicago,63965
+Lynchburg-MO,1840032201,Lynchburg,Lynchburg,MO,Lynchburg-MO,Missouri,29105,Laclede,37.4931,-92.2943,,,14.5,point,FALSE,America/Chicago,65543
+Humphreys-MO,1840012240,Humphreys,Humphreys,MO,Humphreys-MO,Missouri,29211,Sullivan,40.1252,-93.3196,111,111,171,polygon,TRUE,America/Chicago,64646
+Dudley-MO,1840008784,Dudley,Dudley,MO,Dudley-MO,Missouri,29207,Stoddard,36.7897,-90.0918,229,229,227,polygon,TRUE,America/Chicago,63936
+Affton-MO,1840006124,Affton,Affton,MO,Affton-MO,Missouri,29189,St. Louis,38.5493,-90.3256,,,1867,polygon,FALSE,America/Chicago,63123
+Eagle Rock-MO,1840025744,Eagle Rock,Eagle Rock,MO,Eagle Rock-MO,Missouri,29009,Barry,36.5498,-93.7416,,,50.3,polygon,FALSE,America/Chicago,65641
+Newark-MO,1840012312,Newark,Newark,MO,Newark-MO,Missouri,29103,Knox,39.9946,-91.9734,90,90,107,polygon,TRUE,America/Chicago,63458
+Saint Clement-MO,1840026644,Saint Clement,Saint Clement,MO,Saint Clement-MO,Missouri,29163,Pike,39.2829,-91.2098,,,23.6,polygon,FALSE,America/Chicago,63334
+Canalou-MO,1840007656,Canalou,Canalou,MO,Canalou-MO,Missouri,29143,New Madrid,36.754,-89.6865,309,309,592,polygon,TRUE,America/Chicago,63828
+Northwoods-MO,1840008593,Northwoods,Northwoods,MO,Northwoods-MO,Missouri,29189,St. Louis,38.7035,-90.2824,4150,4150,2281,polygon,TRUE,America/Chicago,63121
+Dixon-MO,1840007557,Dixon,Dixon,MO,Dixon-MO,Missouri,29169,Pulaski,37.9952,-92.0956,1472,1472,544,polygon,TRUE,America/Chicago,65459
+North Lilbourn-MO,1840013056,North Lilbourn,North Lilbourn,MO,North Lilbourn-MO,Missouri,29143,New Madrid,36.6018,-89.6221,46,46,102,polygon,TRUE,America/Chicago,63862
+Emden-MO,1840032152,Emden,Emden,MO,Emden-MO,Missouri,29205,Shelby,39.7964,-91.8629,,,3,point,FALSE,America/Chicago,63439
+Atlas-MO,1840032022,Atlas,Atlas,MO,Atlas-MO,Missouri,29097,Jasper,37.0951,-94.3861,,,21.8,point,FALSE,America/Chicago,64801
+Annada-MO,1840010626,Annada,Annada,MO,Annada-MO,Missouri,29163,Pike,39.2622,-90.8287,29,29,183,polygon,TRUE,America/Chicago,63330
+Oaks-MO,1840012677,Oaks,Oaks,MO,Oaks-MO,Missouri,29047,Clay,39.197,-94.572,135,135,575,polygon,TRUE,America/Chicago,64118
+Brunswick-MO,1840007322,Brunswick,Brunswick,MO,Brunswick-MO,Missouri,29041,Chariton,39.4256,-93.1266,822,822,263,polygon,TRUE,America/Chicago,65236
+Eagleville-MO,1840010419,Eagleville,Eagleville,MO,Eagleville-MO,Missouri,29081,Harrison,40.4684,-93.9862,303,303,115,polygon,TRUE,America/Chicago,64442
+Jerico Springs-MO,1840012980,Jerico Springs,Jerico Springs,MO,Jerico Springs-MO,Missouri,29039,Cedar,37.6197,-94.0113,230,230,129,polygon,TRUE,America/Chicago,64756
+Moundville-MO,1840009861,Moundville,Moundville,MO,Moundville-MO,Missouri,29217,Vernon,37.7646,-94.451,121,121,288,polygon,TRUE,America/Chicago,64771
+Richmond Heights-MO,1840009769,Richmond Heights,Richmond Heights,MO,Richmond Heights-MO,Missouri,29189,St. Louis,38.6309,-90.3332,8389,8389,1414,polygon,TRUE,America/Chicago,63117
+Waverly-MO,1840010678,Waverly,Waverly,MO,Waverly-MO,Missouri,29107,Lafayette,39.2072,-93.5187,832,832,254,polygon,TRUE,America/Chicago,64096
+Lodi-MO,1840032075,Lodi,Lodi,MO,Lodi-MO,Missouri,29223,Wayne,37.2564,-90.4529,,,7.3,point,FALSE,America/Chicago,63964
+Wildwood-MO,1840010746,Wildwood,Wildwood,MO,Wildwood-MO,Missouri,29189,St. Louis,38.5798,-90.6697,35756,35756,207,polygon,TRUE,America/Chicago,63025 63021 63011 63040 63038 63069 63005
+Iron Gates-MO,1840032067,Iron Gates,Iron Gates,MO,Iron Gates-MO,Missouri,29097,Jasper,37.067,-94.5544,,,621.5,point,FALSE,America/Chicago,64804
+La Plata-MO,1840008400,La Plata,La Plata,MO,La Plata-MO,Missouri,29121,Macon,40.0242,-92.4914,1319,1319,320,polygon,TRUE,America/Chicago,63549
+Kearney-MO,1840008501,Kearney,Kearney,MO,Kearney-MO,Missouri,29047,Clay,39.3548,-94.3589,8607,9790,293,polygon,TRUE,America/Chicago,64060
+Rothville-MO,1840012576,Rothville,Rothville,MO,Rothville-MO,Missouri,29041,Chariton,39.6539,-93.0637,96,96,187,polygon,TRUE,America/Chicago,64676
+Tindall-MO,1840010492,Tindall,Tindall,MO,Tindall-MO,Missouri,29079,Grundy,40.1609,-93.6097,77,77,225,polygon,TRUE,America/Chicago,64683
+Monticello-MO,1840012352,Monticello,Monticello,MO,Monticello-MO,Missouri,29111,Lewis,40.119,-91.7131,98,98,145,polygon,TRUE,America/Chicago,63457
+Gravois Mills-MO,1840010775,Gravois Mills,Gravois Mills,MO,Gravois Mills-MO,Missouri,29141,Morgan,38.3049,-92.8244,143,143,74,polygon,TRUE,America/Chicago,65037
+Cape Fair-MO,1840032185,Cape Fair,Cape Fair,MO,Cape Fair-MO,Missouri,29209,Stone,36.7301,-93.5102,,,53.5,point,FALSE,America/Chicago,65624
+Brookline-MO,1840032148,Brookline,Brookline,MO,Brookline-MO,Missouri,29077,Greene,37.1634,-93.4202,,,97.9,point,FALSE,America/Chicago,65619
+Harris-MO,1840010453,Harris,Harris,MO,Harris-MO,Missouri,29211,Sullivan,40.3062,-93.3504,57,57,142,polygon,TRUE,America/Chicago,64645
+Dora-MO,1840032191,Dora,Dora,MO,Dora-MO,Missouri,29153,Ozark,36.777,-92.2174,,,21.7,point,FALSE,America/Chicago,65637
+Tallapoosa-MO,1840009940,Tallapoosa,Tallapoosa,MO,Tallapoosa-MO,Missouri,29143,New Madrid,36.5061,-89.817,159,159,137,polygon,TRUE,America/Chicago,63878 63848
+Defiance-MO,1840024597,Defiance,Defiance,MO,Defiance-MO,Missouri,29183,St. Charles,38.6327,-90.7846,,,34.6,polygon,FALSE,America/Chicago,63341
+Valley Park-MO,1840010740,Valley Park,Valley Park,MO,Valley Park-MO,Missouri,29189,St. Louis,38.5513,-90.4923,6911,6911,652,polygon,TRUE,America/Chicago,63088
+Laclede-MO,1840008404,Laclede,Laclede,MO,Laclede-MO,Missouri,29115,Linn,39.7878,-93.1697,323,323,99,polygon,TRUE,America/Chicago,64651
+Vandalia-MO,1840010671,Vandalia,Vandalia,MO,Vandalia-MO,Missouri,29007,Audrain,39.308,-91.4892,4007,4275,735,polygon,TRUE,America/Chicago,63382
+Missouri City-MO,1840008499,Missouri City,Missouri City,MO,Missouri City-MO,Missouri,29047,Clay,39.2399,-94.3011,279,279,120,polygon,TRUE,America/Chicago,64068 64072
+Rutledge-MO,1840010404,Rutledge,Rutledge,MO,Rutledge-MO,Missouri,29199,Scotland,40.314,-92.0876,112,112,325,polygon,TRUE,America/Chicago,63563
+Goss-MO,1840015793,Goss,Goss,MO,Goss-MO,Missouri,29137,Monroe,39.5149,-91.9433,0,0,0,polygon,TRUE,America/Chicago,65275
+Longtown-MO,1840009872,Longtown,Longtown,MO,Longtown-MO,Missouri,29157,Perry,37.6702,-89.7741,101,101,312,polygon,TRUE,America/Chicago,63775
+Ashley-MO,1840025602,Ashley,Ashley,MO,Ashley-MO,Missouri,29163,Pike,39.2537,-91.2239,,,84.1,polygon,FALSE,America/Chicago,63334
+Glenaire-MO,1840008497,Glenaire,Glenaire,MO,Glenaire-MO,Missouri,29047,Clay,39.2198,-94.4515,581,581,827,polygon,TRUE,America/Chicago,64068
+Miami-MO,1840008510,Miami,Miami,MO,Miami-MO,Missouri,29195,Saline,39.3224,-93.2258,173,173,119,polygon,TRUE,America/Chicago,65344
+Bowers Mill-MO,1840032172,Bowers Mill,Bowers Mill,MO,Bowers Mill-MO,Missouri,29109,Lawrence,37.1498,-94.0563,,,39.1,point,FALSE,America/Chicago,64848
+Arbela-MO,1840010405,Arbela,Arbela,MO,Arbela-MO,Missouri,29199,Scotland,40.4631,-92.0156,42,42,181,polygon,TRUE,America/Chicago,63432
+Middletown-MO,1840009697,Middletown,Middletown,MO,Middletown-MO,Missouri,29139,Montgomery,39.1286,-91.4138,158,158,189,polygon,TRUE,America/Chicago,63359
+Merwin-MO,1840012917,Merwin,Merwin,MO,Merwin-MO,Missouri,29013,Bates,38.4041,-94.5908,56,56,147,polygon,TRUE,America/Chicago,64723
+Risco-MO,1840009943,Risco,Risco,MO,Risco-MO,Missouri,29143,New Madrid,36.5512,-89.8186,321,321,221,polygon,TRUE,America/Chicago,63874
+Rome-MO,1840032211,Rome,Rome,MO,Rome-MO,Missouri,29067,Douglas,36.8414,-92.7735,,,4.7,point,FALSE,America/Chicago,65608
+Climax Springs-MO,1840012919,Climax Springs,Climax Springs,MO,Climax Springs-MO,Missouri,29029,Camden,38.1016,-93.0541,,,98.9,polygon,FALSE,America/Chicago,65324
+Pagedale-MO,1840009745,Pagedale,Pagedale,MO,Pagedale-MO,Missouri,29189,St. Louis,38.6801,-90.3081,3292,3292,1062,polygon,TRUE,America/Chicago,63133
+Normandy-MO,1840008592,Normandy,Normandy,MO,Normandy-MO,Missouri,29189,St. Louis,38.707,-90.3008,4934,4934,1030,polygon,TRUE,America/Chicago,63121
+Centertown-MO,1840009634,Centertown,Centertown,MO,Centertown-MO,Missouri,29051,Cole,38.618,-92.409,284,284,115,polygon,TRUE,America/Chicago,65023
+New Madrid-MO,1840008803,New Madrid,New Madrid,MO,New Madrid-MO,Missouri,29143,New Madrid,36.5879,-89.5505,3049,2957,254,polygon,TRUE,America/Chicago,63869
+Arcola-MO,1840013012,Arcola,Arcola,MO,Arcola-MO,Missouri,29057,Dade,37.5493,-93.8761,54,54,70,polygon,TRUE,America/Chicago,65603
+Kewanee-MO,1840032069,Kewanee,Kewanee,MO,Kewanee-MO,Missouri,29143,New Madrid,36.6712,-89.574,,,40.9,point,FALSE,America/Chicago,63860
+Cool Valley-MO,1840007440,Cool Valley,Cool Valley,MO,Cool Valley-MO,Missouri,29189,St. Louis,38.7251,-90.3058,1175,1175,955,polygon,TRUE,America/Chicago,63121
+Phillipsburg-MO,1840012983,Phillipsburg,Phillipsburg,MO,Phillipsburg-MO,Missouri,29105,Laclede,37.5525,-92.7871,202,202,97,polygon,TRUE,America/Chicago,65722
+Liberal-MO,1840008729,Liberal,Liberal,MO,Liberal-MO,Missouri,29011,Barton,37.559,-94.5161,724,724,336,polygon,TRUE,America/Chicago,64762
+Middle Grove-MO,1840032078,Middle Grove,Middle Grove,MO,Middle Grove-MO,Missouri,29137,Monroe,39.395,-92.2705,,,40.3,point,FALSE,America/Chicago,65263
+Savannah-MO,1840009477,Savannah,Savannah,MO,Savannah-MO,Missouri,29003,Andrew,39.939,-94.8279,5209,5127,609,polygon,TRUE,America/Chicago,64485
+Cairo-MO,1840010619,Cairo,Cairo,MO,Cairo-MO,Missouri,29175,Randolph,39.5114,-92.441,289,289,365,polygon,TRUE,America/Chicago,65239
+Sikeston-MO,1840009921,Sikeston,Sikeston,MO,Sikeston-MO,Missouri,29201,Scott,36.8875,-89.587,16545,16327,360,polygon,TRUE,America/Chicago,63801
+Dillard-MO,1840032190,Dillard,Dillard,MO,Dillard-MO,Missouri,29055,Crawford,37.7367,-91.2043,,,11.2,point,FALSE,America/Chicago,65456
+Ford City-MO,1840032136,Ford City,Ford City,MO,Ford City-MO,Missouri,29075,Gentry,40.1117,-94.4647,,,5,point,FALSE,America/Chicago,64463
+Fortescue-MO,1840010494,Fortescue,Fortescue,MO,Fortescue-MO,Missouri,29087,Holt,40.0519,-95.3176,29,29,145,polygon,TRUE,America/Chicago,64437
+Milan-MO,1840008361,Milan,Milan,MO,Milan-MO,Missouri,29211,Sullivan,40.2031,-93.124,1824,1824,397,polygon,TRUE,America/Chicago,63556
+Pollock-MO,1840012241,Pollock,Pollock,MO,Pollock-MO,Missouri,29211,Sullivan,40.3583,-93.0835,84,84,195,polygon,TRUE,America/Chicago,63560
+Lake Waukomis-MO,1840008485,Lake Waukomis,Lake Waukomis,MO,Lake Waukomis-MO,Missouri,29165,Platte,39.2308,-94.6386,910,910,1195,polygon,TRUE,America/Chicago,64151
+Howes Mill-MO,1840032253,Howes Mill,Howes Mill,MO,Howes Mill-MO,Missouri,29065,Dent,37.6178,-91.2918,,,2.5,point,FALSE,America/Chicago,65440
+Tuscumbia-MO,1840010809,Tuscumbia,Tuscumbia,MO,Tuscumbia-MO,Missouri,29131,Miller,38.237,-92.46,206,206,230,polygon,TRUE,America/Chicago,65082
+Biehle-MO,1840025714,Biehle,Biehle,MO,Biehle-MO,Missouri,29157,Perry,37.6065,-89.8377,,,51.6,polygon,FALSE,America/Chicago,63775
+Polo-MO,1840009556,Polo,Polo,MO,Polo-MO,Missouri,29025,Caldwell,39.5496,-94.0395,540,540,338,polygon,TRUE,America/Chicago,64671
+Milo-MO,1840012961,Milo,Milo,MO,Milo-MO,Missouri,29217,Vernon,37.7554,-94.3052,89,89,450,polygon,TRUE,America/Chicago,64767
+Leadwood-MO,1840008689,Leadwood,Leadwood,MO,Leadwood-MO,Missouri,29187,St. Francois,37.8618,-90.5892,1184,1184,395,polygon,TRUE,America/Chicago,63653 63601
+Oronogo-MO,1840009910,Oronogo,Oronogo,MO,Oronogo-MO,Missouri,29097,Jasper,37.1917,-94.4639,2475,2475,384,polygon,TRUE,America/Chicago,64870 64855
+Fruitland-MO,1840032140,Fruitland,Fruitland,MO,Fruitland-MO,Missouri,29031,Cape Girardeau,37.4487,-89.6387,,,202.3,point,FALSE,America/Chicago,63755
+Elkton-MO,1840032047,Elkton,Elkton,MO,Elkton-MO,Missouri,29085,Hickory,37.8525,-93.426,,,13.3,point,FALSE,America/Chicago,65650
+Old Appleton-MO,1840009891,Old Appleton,Old Appleton,MO,Old Appleton-MO,Missouri,29031,Cape Girardeau,37.5938,-89.7108,87,87,278,polygon,TRUE,America/Chicago,63770 63769
+Musicks Ferry-MO,1840032242,Musicks Ferry,Musicks Ferry,MO,Musicks Ferry-MO,Missouri,29189,St. Louis,38.8614,-90.3384,,,158.3,point,FALSE,America/Chicago,63034
+Peach Orchard-MO,1840032088,Peach Orchard,Peach Orchard,MO,Peach Orchard-MO,Missouri,29155,Pemiscot,36.3656,-89.934,,,5.5,point,FALSE,America/Chicago,63848
+Bertrand-MO,1840007649,Bertrand,Bertrand,MO,Bertrand-MO,Missouri,29133,Mississippi,36.9086,-89.4497,775,775,382,polygon,TRUE,America/Chicago,63823
+Willard-MO,1840010870,Willard,Willard,MO,Willard-MO,Missouri,29077,Greene,37.2944,-93.4167,5680,5430,353,polygon,TRUE,America/Chicago,65781 65803
+Excello-MO,1840025578,Excello,Excello,MO,Excello-MO,Missouri,29121,Macon,39.6334,-92.4743,,,33.2,polygon,FALSE,America/Chicago,65247
+Liberty-MO,1840008502,Liberty,Liberty,MO,Liberty-MO,Missouri,29047,Clay,39.2393,-94.4191,30614,30614,409,polygon,TRUE,America/Chicago,64068 64069
+Fair Play-MO,1840008714,Fair Play,Fair Play,MO,Fair Play-MO,Missouri,29167,Polk,37.6331,-93.5769,466,466,441,polygon,TRUE,America/Chicago,65649
+Monett-MO,1840008797,Monett,Monett,MO,Monett-MO,Missouri,29009,Barry,36.9219,-93.9263,8617,9027,413,polygon,TRUE,America/Chicago,65708
+Frankford-MO,1840008464,Frankford,Frankford,MO,Frankford-MO,Missouri,29163,Pike,39.4934,-91.3209,321,321,236,polygon,TRUE,America/Chicago,63441
+Leadington-MO,1840008688,Leadington,Leadington,MO,Leadington-MO,Missouri,29187,St. Francois,37.8344,-90.4808,496,496,213,polygon,TRUE,America/Chicago,63601 63640
+Plattsburg-MO,1840009557,Plattsburg,Plattsburg,MO,Plattsburg-MO,Missouri,29049,Clinton,39.5644,-94.4615,2285,2285,245,polygon,TRUE,America/Chicago,64477
+Jamestown-MO,1840010723,Jamestown,Jamestown,MO,Jamestown-MO,Missouri,29135,Moniteau,38.7667,-92.4802,395,395,152,polygon,TRUE,America/Chicago,65046
+Marthasville-MO,1840008566,Marthasville,Marthasville,MO,Marthasville-MO,Missouri,29219,Warren,38.6309,-91.0572,1181,1181,533,polygon,TRUE,America/Chicago,63357
+Laredo-MO,1840008379,Laredo,Laredo,MO,Laredo-MO,Missouri,29079,Grundy,40.0261,-93.448,197,197,276,polygon,TRUE,America/Chicago,64652
+Evergreen-MO,1840012982,Evergreen,Evergreen,MO,Evergreen-MO,Missouri,29105,Laclede,37.5486,-92.5961,28,28,1,polygon,TRUE,America/Chicago,65536
+Oakland Park-MO,1840032085,Oakland Park,Oakland Park,MO,Oakland Park-MO,Missouri,29097,Jasper,37.1128,-94.4761,,,722.3,point,FALSE,America/Chicago,64801
+Millersburg-MO,1840032203,Millersburg,Millersburg,MO,Millersburg-MO,Missouri,29027,Callaway,38.8987,-92.1235,,,48.7,point,FALSE,America/Chicago,65251
+Hayti-MO,1840007670,Hayti,Hayti,MO,Hayti-MO,Missouri,29155,Pemiscot,36.2323,-89.7474,3227,2718,457,polygon,TRUE,America/Chicago,63851
+Holt-MO,1840007372,Holt,Holt,MO,Holt-MO,Missouri,29047,Clay,39.4552,-94.3372,477,477,410,polygon,TRUE,America/Chicago,64048
+Otterville-MO,1840009712,Otterville,Otterville,MO,Otterville-MO,Missouri,29053,Cooper,38.7029,-93.0028,457,457,360,polygon,TRUE,America/Chicago,65348
+Lemay-MO,1840006119,Lemay,Lemay,MO,Lemay-MO,Missouri,29189,St. Louis,38.5315,-90.284,,,2593.1,polygon,FALSE,America/Chicago,63125
+Grand Falls Plaza-MO,1840010891,Grand Falls Plaza,Grand Falls Plaza,MO,Grand Falls Plaza-MO,Missouri,29145,Newton,37.0355,-94.5379,115,115,464,polygon,TRUE,America/Chicago,64804
+Ladue-MO,1840008599,Ladue,Ladue,MO,Ladue-MO,Missouri,29189,St. Louis,38.6378,-90.3815,8583,8583,387,polygon,TRUE,America/Chicago,63124
+Pierce City-MO,1840009920,Pierce City,Pierce City,MO,Pierce City-MO,Missouri,29109,Lawrence,36.9465,-94.0032,1297,1297,388,polygon,TRUE,America/Chicago,65723
+Libertyville-MO,1840032239,Libertyville,Libertyville,MO,Libertyville-MO,Missouri,29187,St. Francois,37.7037,-90.2882,,,32.5,point,FALSE,America/Chicago,63640
+Miramiguoa Park-MO,1840012861,Miramiguoa Park,Miramiguoa Park,MO,Miramiguoa Park-MO,Missouri,29071,Franklin,38.2389,-91.0688,119,119,119,polygon,TRUE,America/Chicago,63080
+Arkoe-MO,1840010418,Arkoe,Arkoe,MO,Arkoe-MO,Missouri,29147,Nodaway,40.2596,-94.8291,64,64,181,polygon,TRUE,America/Chicago,64468
+Longrun-MO,1840032200,Longrun,Longrun,MO,Longrun-MO,Missouri,29153,Ozark,36.6492,-92.7232,,,1.9,point,FALSE,America/Chicago,65761
+Deering-MO,1840032040,Deering,Deering,MO,Deering-MO,Missouri,29155,Pemiscot,36.1909,-89.8829,,,27.6,point,FALSE,America/Chicago,63827
+Houstonia-MO,1840007431,Houstonia,Houstonia,MO,Houstonia-MO,Missouri,29159,Pettis,38.8994,-93.3592,221,221,431,polygon,TRUE,America/Chicago,65333
+Elkland-MO,1840032046,Elkland,Elkland,MO,Elkland-MO,Missouri,29225,Webster,37.4431,-93.031,,,33.8,point,FALSE,America/Chicago,65644
+Marceline-MO,1840008402,Marceline,Marceline,MO,Marceline-MO,Missouri,29115,Linn,39.7166,-92.9473,2129,2129,250,polygon,TRUE,America/Chicago,64658
+Napoleon-MO,1840008525,Napoleon,Napoleon,MO,Napoleon-MO,Missouri,29107,Lafayette,39.1293,-94.0857,218,218,48,polygon,TRUE,America/Chicago,64074
+Pineville-MO,1840009946,Pineville,Pineville,MO,Pineville-MO,Missouri,29119,McDonald,36.5746,-94.3912,787,787,94,polygon,TRUE,America/Chicago,64854 64856 64831
+Commerce-MO,1840013036,Commerce,Commerce,MO,Commerce-MO,Missouri,29201,Scott,37.1584,-89.4467,66,66,73,polygon,TRUE,America/Chicago,63742
+Granby-MO,1840008792,Granby,Granby,MO,Granby-MO,Missouri,29145,Newton,36.9181,-94.2607,2124,2124,185,polygon,TRUE,America/Chicago,64844
+Iberia-MO,1840007515,Iberia,Iberia,MO,Iberia-MO,Missouri,29131,Miller,38.0886,-92.2962,743,743,325,polygon,TRUE,America/Chicago,65486
+Florissant-MO,1840008586,Florissant,Florissant,MO,Florissant-MO,Missouri,29189,St. Louis,38.7996,-90.3269,51776,51776,1582,polygon,TRUE,America/Chicago,63033 63031 63032
+Galloway-MO,1840032054,Galloway,Galloway,MO,Galloway-MO,Missouri,29077,Greene,37.1367,-93.238,,,703.6,point,FALSE,America/Chicago,65804
+Mine La Motte-MO,1840025728,Mine La Motte,Mine La Motte,MO,Mine La Motte-MO,Missouri,29123,Madison,37.6145,-90.2943,,,21.1,polygon,FALSE,America/Chicago,63645
+Frankclay-MO,1840025696,Frankclay,Frankclay,MO,Frankclay-MO,Missouri,29187,St. Francois,37.863,-90.6144,,,183.5,polygon,FALSE,America/Chicago,63601
+Mindenmines-MO,1840008726,Mindenmines,Mindenmines,MO,Mindenmines-MO,Missouri,29011,Barton,37.4728,-94.5889,349,349,36,polygon,TRUE,America/Chicago,64769
+Siloam Springs-MO,1840032216,Siloam Springs,Siloam Springs,MO,Siloam Springs-MO,Missouri,29091,Howell,36.7956,-92.0754,,,4.7,point,FALSE,America/Chicago,65775
+Diamond-MO,1840009928,Diamond,Diamond,MO,Diamond-MO,Missouri,29145,Newton,36.9969,-94.3152,935,935,483,polygon,TRUE,America/Chicago,64840
+Clearmont-MO,1840007226,Clearmont,Clearmont,MO,Clearmont-MO,Missouri,29147,Nodaway,40.5079,-95.0328,161,161,383,polygon,TRUE,America/Chicago,64431
+Cabool-MO,1840007600,Cabool,Cabool,MO,Cabool-MO,Missouri,29215,Texas,37.1263,-92.1033,2136,2136,213,polygon,TRUE,America/Chicago,65689
+Buckner-MO,1840007395,Buckner,Buckner,MO,Buckner-MO,Missouri,29095,Jackson,39.1336,-94.1929,3012,3055,660,polygon,TRUE,America/Chicago,64016
+Saint Francisville-MO,1840025540,Saint Francisville,Saint Francisville,MO,Saint Francisville-MO,Missouri,29045,Clark,40.4501,-91.5714,,,5.7,polygon,FALSE,America/Chicago,63430 63465
+Fenton-MO,1840008583,Fenton,Fenton,MO,Fenton-MO,Missouri,29189,St. Louis,38.5279,-90.4489,4032,4032,250,polygon,TRUE,America/Chicago,63026 63099
+Hollister-MO,1840007660,Hollister,Hollister,MO,Hollister-MO,Missouri,29213,Taney,36.6051,-93.234,4486,4486,259,polygon,TRUE,America/Chicago,65672 65673
+Callao-MO,1840007270,Callao,Callao,MO,Callao-MO,Missouri,29121,Macon,39.7624,-92.6238,276,276,210,polygon,TRUE,America/Chicago,63534
+Grand Pass-MO,1840012681,Grand Pass,Grand Pass,MO,Grand Pass-MO,Missouri,29195,Saline,39.205,-93.4427,66,66,234,polygon,TRUE,America/Chicago,65339
+Buffalo-MO,1840007571,Buffalo,Buffalo,MO,Buffalo-MO,Missouri,29059,Dallas,37.6444,-93.0969,2997,3049,409,polygon,TRUE,America/Chicago,65622
+Pine Lawn-MO,1840009768,Pine Lawn,Pine Lawn,MO,Pine Lawn-MO,Missouri,29189,St. Louis,38.6953,-90.2756,3592,3592,2297,polygon,TRUE,America/Chicago,63121 63120
+Kirbyville-MO,1840013057,Kirbyville,Kirbyville,MO,Kirbyville-MO,Missouri,29213,Taney,36.6294,-93.1576,218,218,63,polygon,TRUE,America/Chicago,65679 65616
+Buell-MO,1840032029,Buell,Buell,MO,Buell-MO,Missouri,29139,Montgomery,39.0342,-91.439,,,20.3,point,FALSE,America/Chicago,63361
+Kimberling City-MO,1840008795,Kimberling City,Kimberling City,MO,Kimberling City-MO,Missouri,29209,Stone,36.6441,-93.4239,3056,2312,254,polygon,TRUE,America/Chicago,65686
+South Lineville-MO,1840010412,South Lineville,South Lineville,MO,South Lineville-MO,Missouri,29129,Mercer,40.5785,-93.5242,28,28,198,polygon,TRUE,America/Chicago,64661
+Clinton-MO,1840007492,Clinton,Clinton,MO,Clinton-MO,Missouri,29083,Henry,38.3716,-93.7679,8581,8844,373,polygon,TRUE,America/Chicago,64735
+Saint Robert-MO,1840009866,Saint Robert,Saint Robert,MO,Saint Robert-MO,Missouri,29169,Pulaski,37.8235,-92.1514,5753,5753,283,polygon,TRUE,America/Chicago,65584
+Josephville-MO,1840012808,Josephville,Josephville,MO,Josephville-MO,Missouri,29183,St. Charles,38.8295,-90.7872,435,435,70,polygon,TRUE,America/Chicago,63385
+Shelbyville-MO,1840009520,Shelbyville,Shelbyville,MO,Shelbyville-MO,Missouri,29205,Shelby,39.8071,-92.0404,525,525,261,polygon,TRUE,America/Chicago,63469
+Bel-Ridge-MO,1840012816,Bel-Ridge,Bel-Ridge,MO,Bel-Ridge-MO,Missouri,29189,St. Louis,38.7129,-90.3285,2686,2686,1296,polygon,TRUE,America/Chicago,63121
+Hartsburg-MO,1840010687,Hartsburg,Hartsburg,MO,Hartsburg-MO,Missouri,29019,Boone,38.6971,-92.3072,105,105,190,polygon,TRUE,America/Chicago,65039
+Mayview-MO,1840008524,Mayview,Mayview,MO,Mayview-MO,Missouri,29107,Lafayette,39.0527,-93.833,208,208,513,polygon,TRUE,America/Chicago,64071
+Reeds Spring-MO,1840009931,Reeds Spring,Reeds Spring,MO,Reeds Spring-MO,Missouri,29209,Stone,36.7402,-93.3797,864,864,222,polygon,TRUE,America/Chicago,65737
+Sarcoxie-MO,1840009912,Sarcoxie,Sarcoxie,MO,Sarcoxie-MO,Missouri,29097,Jasper,37.0679,-94.1229,1294,1294,414,polygon,TRUE,America/Chicago,64862
+Bonne Terre-MO,1840007551,Bonne Terre,Bonne Terre,MO,Bonne Terre-MO,Missouri,29187,St. Francois,37.9209,-90.5425,7147,7147,678,polygon,TRUE,America/Chicago,63628
+Bland-MO,1840007472,Bland,Bland,MO,Bland-MO,Missouri,29073,Gasconade,38.3005,-91.6332,519,519,310,polygon,TRUE,America/Chicago,65014
+Bellefontaine Neighbors-MO,1840007449,Bellefontaine Neighbors,Bellefontaine Neighbors,MO,Bellefontaine Neighbors-MO,Missouri,29189,St. Louis,38.7529,-90.2278,10702,10702,932,polygon,TRUE,America/Chicago,63136 63137
+Grayridge-MO,1840025739,Grayridge,Grayridge,MO,Grayridge-MO,Missouri,29207,Stoddard,36.8247,-89.7819,,,139.5,polygon,FALSE,America/Chicago,63846 63850
+Tiffin-MO,1840032250,Tiffin,Tiffin,MO,Tiffin-MO,Missouri,29185,St. Clair,37.955,-93.9383,,,31.1,point,FALSE,America/Chicago,64744
+Mountain Grove-MO,1840008744,Mountain Grove,Mountain Grove,MO,Mountain Grove-MO,Missouri,29229,Wright,37.1341,-92.266,4509,4692,451,polygon,TRUE,America/Chicago,65711
+Marys Home-MO,1840032123,Marys Home,Marys Home,MO,Marys Home-MO,Missouri,29131,Miller,38.3056,-92.3552,,,26.1,point,FALSE,America/Chicago,65032
+Smithton-MO,1840009723,Smithton,Smithton,MO,Smithton-MO,Missouri,29159,Pettis,38.6812,-93.093,560,560,718,polygon,TRUE,America/Chicago,65350
+Allenville-MO,1840010861,Allenville,Allenville,MO,Allenville-MO,Missouri,29031,Cape Girardeau,37.2217,-89.7556,119,119,297,polygon,TRUE,America/Chicago,63740
+Newburg-MO,1840008680,Newburg,Newburg,MO,Newburg-MO,Missouri,29161,Phelps,37.9167,-91.9003,448,448,284,polygon,TRUE,America/Chicago,65550
+Tarkio-MO,1840009413,Tarkio,Tarkio,MO,Tarkio-MO,Missouri,29005,Atchison,40.443,-95.3835,1473,1473,410,polygon,TRUE,America/Chicago,64491
+Illmo-MO,1840032143,Illmo,Illmo,MO,Illmo-MO,Missouri,29201,Scott,37.2198,-89.509,,,825.7,point,FALSE,America/Chicago,63780
+Bennett Springs-MO,1840025716,Bennett Springs,Bennett Springs,MO,Bennett Springs-MO,Missouri,29105,Laclede,37.7255,-92.8533,,,16.1,polygon,FALSE,America/Chicago,65536
+Stotesbury-MO,1840010843,Stotesbury,Stotesbury,MO,Stotesbury-MO,Missouri,29217,Vernon,37.9744,-94.5645,18,18,63,polygon,TRUE,America/Chicago,64752
+California-MO,1840007435,California,California,MO,California-MO,Missouri,29135,Moniteau,38.6304,-92.5667,4321,4421,455,polygon,TRUE,America/Chicago,65018 65055
+Stillings-MO,1840032176,Stillings,Stillings,MO,Stillings-MO,Missouri,29165,Platte,39.3197,-94.888,,,2.5,point,FALSE,America/Chicago,64079
+Renick-MO,1840012601,Renick,Renick,MO,Renick-MO,Missouri,29175,Randolph,39.3419,-92.4109,170,170,330,polygon,TRUE,America/Chicago,65270 65278
+Osgood-MO,1840012242,Osgood,Osgood,MO,Osgood-MO,Missouri,29211,Sullivan,40.1973,-93.3498,45,45,95,polygon,TRUE,America/Chicago,64641
+Montevallo-MO,1840032080,Montevallo,Montevallo,MO,Montevallo-MO,Missouri,29217,Vernon,37.7262,-94.1083,,,7.8,point,FALSE,America/Chicago,64767
+Winfield-MO,1840010690,Winfield,Winfield,MO,Winfield-MO,Missouri,29113,Lincoln,38.9944,-90.7437,1437,1437,866,polygon,TRUE,America/Chicago,63389
+Ravenwood-MO,1840010415,Ravenwood,Ravenwood,MO,Ravenwood-MO,Missouri,29147,Nodaway,40.3527,-94.6717,404,404,578,polygon,TRUE,America/Chicago,64479
+Hollywood-MO,1840032142,Hollywood,Hollywood,MO,Hollywood-MO,Missouri,29069,Dunklin,36.0542,-90.1862,,,27.2,point,FALSE,America/Chicago,63821
+Pilot Grove-MO,1840009713,Pilot Grove,Pilot Grove,MO,Pilot Grove-MO,Missouri,29053,Cooper,38.8736,-92.9126,763,763,700,polygon,TRUE,America/Chicago,65276
+Flemington-MO,1840012993,Flemington,Flemington,MO,Flemington-MO,Missouri,29167,Polk,37.8039,-93.5014,148,148,172,polygon,TRUE,America/Chicago,65650
+Caledonia-MO,1840010825,Caledonia,Caledonia,MO,Caledonia-MO,Missouri,29221,Washington,37.7643,-90.772,130,130,306,polygon,TRUE,America/Chicago,63631
+Lake Spring-MO,1840032071,Lake Spring,Lake Spring,MO,Lake Spring-MO,Missouri,29065,Dent,37.7825,-91.6788,,,4.7,point,FALSE,America/Chicago,65401
+Deerfield-MO,1840012960,Deerfield,Deerfield,MO,Deerfield-MO,Missouri,29217,Vernon,37.8386,-94.5078,80,80,303,polygon,TRUE,America/Chicago,64741
+Fayette-MO,1840008517,Fayette,Fayette,MO,Fayette-MO,Missouri,29089,Howard,39.147,-92.6857,2661,2695,469,polygon,TRUE,America/Chicago,65248
+Merriam Woods-MO,1840013058,Merriam Woods,Merriam Woods,MO,Merriam Woods-MO,Missouri,29213,Taney,36.7181,-93.1715,1769,1769,427,polygon,TRUE,America/Chicago,65740
+New Florence-MO,1840008552,New Florence,New Florence,MO,New Florence-MO,Missouri,29139,Montgomery,38.9093,-91.453,724,724,92,polygon,TRUE,America/Chicago,63363
+Simmons-MO,1840032103,Simmons,Simmons,MO,Simmons-MO,Missouri,29215,Texas,37.2306,-92.0154,,,17.2,point,FALSE,America/Chicago,65483
+Parkdale-MO,1840012908,Parkdale,Parkdale,MO,Parkdale-MO,Missouri,29099,Jefferson,38.4795,-90.5281,171,171,524,polygon,TRUE,America/Chicago,63049
+Vibbard-MO,1840032168,Vibbard,Vibbard,MO,Vibbard-MO,Missouri,29177,Ray,39.3806,-94.1463,,,60.6,point,FALSE,America/Chicago,64062
+Delta-MO,1840007599,Delta,Delta,MO,Delta-MO,Missouri,29031,Cape Girardeau,37.1974,-89.7392,440,440,431,polygon,TRUE,America/Chicago,63744 63740
+Everton-MO,1840008739,Everton,Everton,MO,Everton-MO,Missouri,29057,Dade,37.3429,-93.7024,304,304,340,polygon,TRUE,America/Chicago,65646
+Matthews-MO,1840008802,Matthews,Matthews,MO,Matthews-MO,Missouri,29143,New Madrid,36.7584,-89.5688,616,616,121,polygon,TRUE,America/Chicago,63867
+Deepwater-MO,1840007494,Deepwater,Deepwater,MO,Deepwater-MO,Missouri,29083,Henry,38.2592,-93.7746,410,410,186,polygon,TRUE,America/Chicago,64740
+Hematite-MO,1840032161,Hematite,Hematite,MO,Hematite-MO,Missouri,29099,Jefferson,38.202,-90.481,,,136.6,point,FALSE,America/Chicago,63028
+Camdenton-MO,1840007520,Camdenton,Camdenton,MO,Camdenton-MO,Missouri,29029,Camden,38.0121,-92.75,3854,3946,278,polygon,TRUE,America/Chicago,65020
+Fortuna-MO,1840032052,Fortuna,Fortuna,MO,Fortuna-MO,Missouri,29135,Moniteau,38.5667,-92.798,,,106.5,point,FALSE,America/Chicago,65034
+Conception Junction-MO,1840009419,Conception Junction,Conception Junction,MO,Conception Junction-MO,Missouri,29147,Nodaway,40.2684,-94.6914,187,187,230,polygon,TRUE,America/Chicago,64434
+Lincoln-MO,1840009800,Lincoln,Lincoln,MO,Lincoln-MO,Missouri,29015,Benton,38.394,-93.3313,1181,1181,480,polygon,TRUE,America/Chicago,65338
+Piney Park-MO,1840032146,Piney Park,Piney Park,MO,Piney Park-MO,Missouri,29071,Franklin,38.3012,-90.9429,,,28.8,point,FALSE,America/Chicago,63077
+De Soto-MO,1840007509,De Soto,De Soto,MO,De Soto-MO,Missouri,29099,Jefferson,38.141,-90.5609,7290,6477,581,polygon,TRUE,America/Chicago,63020
+Success-MO,1840032219,Success,Success,MO,Success-MO,Missouri,29215,Texas,37.4437,-92.0877,,,48.2,point,FALSE,America/Chicago,65570
+Rockville-MO,1840009812,Rockville,Rockville,MO,Rockville-MO,Missouri,29013,Bates,38.071,-94.08,161,161,188,polygon,TRUE,America/Chicago,64780
+Bellflower-MO,1840007406,Bellflower,Bellflower,MO,Bellflower-MO,Missouri,29139,Montgomery,39.0036,-91.3521,363,363,250,polygon,TRUE,America/Chicago,63333
+Hillsdale-MO,1840012818,Hillsdale,Hillsdale,MO,Hillsdale-MO,Missouri,29189,St. Louis,38.6857,-90.2868,1560,1560,1748,polygon,TRUE,America/Chicago,63121 63133
+Scotsdale-MO,1840010805,Scotsdale,Scotsdale,MO,Scotsdale-MO,Missouri,29099,Jefferson,38.3915,-90.5907,223,223,117,polygon,TRUE,America/Chicago,63051
+Saint Elizabeth-MO,1840012918,Saint Elizabeth,Saint Elizabeth,MO,Saint Elizabeth-MO,Missouri,29131,Miller,38.256,-92.2665,343,343,127,polygon,TRUE,America/Chicago,65075
+Brandsville-MO,1840007650,Brandsville,Brandsville,MO,Brandsville-MO,Missouri,29091,Howell,36.6507,-91.6964,160,160,118,polygon,TRUE,America/Chicago,65775 65688
+Fairport-MO,1840032122,Fairport,Fairport,MO,Fairport-MO,Missouri,29063,DeKalb,39.9878,-94.3461,,,26.6,point,FALSE,America/Chicago,64469
+Montreal-MO,1840032081,Montreal,Montreal,MO,Montreal-MO,Missouri,29029,Camden,37.9702,-92.588,,,12.6,polygon,FALSE,America/Chicago,65591
+Malden-MO,1840009948,Malden,Malden,MO,Malden-MO,Missouri,29069,Dunklin,36.5873,-89.9825,4363,4064,208,polygon,TRUE,America/Chicago,63863
+Beverly-MO,1840032171,Beverly,Beverly,MO,Beverly-MO,Missouri,29165,Platte,39.3681,-94.8672,,,24.8,point,FALSE,America/Chicago,64079
+Charleston-MO,1840007648,Charleston,Charleston,MO,Charleston-MO,Missouri,29133,Mississippi,36.9179,-89.3344,5674,5727,461,polygon,TRUE,America/Chicago,63834
+Parkway-MO,1840012863,Parkway,Parkway,MO,Parkway-MO,Missouri,29071,Franklin,38.3369,-90.9717,439,439,618,polygon,TRUE,America/Chicago,63077
+New Cambria-MO,1840008399,New Cambria,New Cambria,MO,New Cambria-MO,Missouri,29121,Macon,39.7765,-92.7515,192,192,110,polygon,TRUE,America/Chicago,63558
+Calverton Park-MO,1840010749,Calverton Park,Calverton Park,MO,Calverton Park-MO,Missouri,29189,St. Louis,38.7655,-90.3104,1284,1284,1214,polygon,TRUE,America/Chicago,63135
+Battlefield-MO,1840007616,Battlefield,Battlefield,MO,Battlefield-MO,Missouri,29077,Greene,37.119,-93.3683,6050,6050,932,polygon,TRUE,America/Chicago,65619
+Whitewater-MO,1840010860,Whitewater,Whitewater,MO,Whitewater-MO,Missouri,29031,Cape Girardeau,37.2368,-89.7978,128,128,230,polygon,TRUE,America/Chicago,63785
+Country Life Acres-MO,1840012819,Country Life Acres,Country Life Acres,MO,Country Life Acres-MO,Missouri,29189,St. Louis,38.6225,-90.4551,74,74,259,polygon,TRUE,America/Chicago,63131
+Rington-MO,1840032229,Rington,Rington,MO,Rington-MO,Missouri,29069,Dunklin,36.4553,-90.1428,232,232,244,polygon,TRUE,America/Chicago,72464 72454
+Concord-MO,1840006126,Concord,Concord,MO,Concord-MO,Missouri,29189,St. Louis,38.5117,-90.3574,,,983,polygon,FALSE,America/Chicago,63128 63123
+Craig-MO,1840007257,Craig,Craig,MO,Craig-MO,Missouri,29087,Holt,40.1923,-95.3743,227,227,337,polygon,TRUE,America/Chicago,64437
+Windsor Place-MO,1840012766,Windsor Place,Windsor Place,MO,Windsor Place-MO,Missouri,29053,Cooper,38.9342,-92.7032,334,334,143,polygon,TRUE,America/Chicago,65233
+Mexico-MO,1840008515,Mexico,Mexico,MO,Mexico-MO,Missouri,29007,Audrain,39.1626,-91.8711,11491,11680,372,polygon,TRUE,America/Chicago,65265
+Brownwood-MO,1840032028,Brownwood,Brownwood,MO,Brownwood-MO,Missouri,29207,Stoddard,37.0809,-89.9545,,,56.4,point,FALSE,America/Chicago,63730
+Asbury-MO,1840007632,Asbury,Asbury,MO,Asbury-MO,Missouri,29097,Jasper,37.2729,-94.6052,207,207,219,polygon,TRUE,America/Chicago,64832
+Caulfield-MO,1840032030,Caulfield,Caulfield,MO,Caulfield-MO,Missouri,29091,Howell,36.6145,-92.1049,,,28.2,point,FALSE,America/Chicago,65626
+Loose Creek-MO,1840032119,Loose Creek,Loose Creek,MO,Loose Creek-MO,Missouri,29151,Osage,38.5081,-91.9574,,,24.4,point,FALSE,America/Chicago,65054
+Concordia-MO,1840007385,Concordia,Concordia,MO,Concordia-MO,Missouri,29107,Lafayette,38.9877,-93.5683,2385,2385,518,polygon,TRUE,America/Chicago,64020
+Bull Creek-MO,1840010900,Bull Creek,Bull Creek,MO,Bull Creek-MO,Missouri,29213,Taney,36.715,-93.2021,617,617,1516,polygon,TRUE,America/Chicago,65616
+Bonnots Mill-MO,1840032118,Bonnots Mill,Bonnots Mill,MO,Bonnots Mill-MO,Missouri,29151,Osage,38.5781,-91.9657,,,106.4,point,FALSE,America/Chicago,65016
+Homestead-MO,1840012632,Homestead,Homestead,MO,Homestead-MO,Missouri,29177,Ray,39.3632,-94.2006,184,184,447,polygon,TRUE,America/Chicago,64024
+Puxico-MO,1840009924,Puxico,Puxico,MO,Puxico-MO,Missouri,29207,Stoddard,36.9507,-90.1587,862,862,499,polygon,TRUE,America/Chicago,63960
+Higbee-MO,1840007340,Higbee,Higbee,MO,Higbee-MO,Missouri,29175,Randolph,39.3061,-92.5128,551,551,494,polygon,TRUE,America/Chicago,65257
+Excelsior Springs-MO,1840008495,Excelsior Springs,Excelsior Springs,MO,Excelsior Springs-MO,Missouri,29047,Clay,39.3395,-94.2377,11374,11522,427,polygon,TRUE,America/Chicago,64024
+Kingsville-MO,1840008576,Kingsville,Kingsville,MO,Kingsville-MO,Missouri,29101,Johnson,38.7437,-94.0697,267,267,348,polygon,TRUE,America/Chicago,64061
+Oak Grove Village-MO,1840012862,Oak Grove Village,Oak Grove Village,MO,Oak Grove Village-MO,Missouri,29071,Franklin,38.2279,-91.1493,486,486,295,polygon,TRUE,America/Chicago,63080
+Purdy-MO,1840009933,Purdy,Purdy,MO,Purdy-MO,Missouri,29009,Barry,36.8187,-93.9206,1102,1102,659,polygon,TRUE,America/Chicago,65734
+Mount Vernon-MO,1840008780,Mount Vernon,Mount Vernon,MO,Mount Vernon-MO,Missouri,29109,Lawrence,37.1055,-93.8196,4537,4553,454,polygon,TRUE,America/Chicago,65712
+Clarkson Valley-MO,1840007438,Clarkson Valley,Clarkson Valley,MO,Clarkson Valley-MO,Missouri,29189,St. Louis,38.6257,-90.5945,2628,2628,376,polygon,TRUE,America/Chicago,63005
+Philadelphia-MO,1840032089,Philadelphia,Philadelphia,MO,Philadelphia-MO,Missouri,29127,Marion,39.8387,-91.7391,,,89.3,point,FALSE,America/Chicago,63463
+Oakwood Manor-MO,1840032086,Oakwood Manor,Oakwood Manor,MO,Oakwood Manor-MO,Missouri,29047,Clay,39.1969,-94.5644,,,1257.3,point,FALSE,America/Chicago,64118
+Farber-MO,1840008514,Farber,Farber,MO,Farber-MO,Missouri,29007,Audrain,39.2747,-91.5763,318,318,428,polygon,TRUE,America/Chicago,63345
+Jane-MO,1840032135,Jane,Jane,MO,Jane-MO,Missouri,29119,McDonald,36.5404,-94.3079,295,295,38,polygon,TRUE,America/Chicago,64856
+Goodman-MO,1840010901,Goodman,Goodman,MO,Goodman-MO,Missouri,29119,McDonald,36.7388,-94.4091,1229,1229,357,polygon,TRUE,America/Chicago,64843
+Pickering-MO,1840010413,Pickering,Pickering,MO,Pickering-MO,Missouri,29147,Nodaway,40.4503,-94.8416,151,151,307,polygon,TRUE,America/Chicago,64476
+Purcell-MO,1840009911,Purcell,Purcell,MO,Purcell-MO,Missouri,29097,Jasper,37.2433,-94.4394,408,408,362,polygon,TRUE,America/Chicago,64857
+Norborne-MO,1840008462,Norborne,Norborne,MO,Norborne-MO,Missouri,29033,Carroll,39.3024,-93.676,672,672,400,polygon,TRUE,America/Chicago,64668
+Danville-MO,1840025629,Danville,Danville,MO,Danville-MO,Missouri,29139,Montgomery,38.9126,-91.5324,,,37.3,polygon,FALSE,America/Chicago,63361
+Gladden-MO,1840032195,Gladden,Gladden,MO,Gladden-MO,Missouri,29065,Dent,37.4987,-91.4565,,,3.2,point,FALSE,America/Chicago,65560
+Mendon-MO,1840008446,Mendon,Mendon,MO,Mendon-MO,Missouri,29041,Chariton,39.5906,-93.1339,165,165,354,polygon,TRUE,America/Chicago,64660
+Excelsior Estates-MO,1840012634,Excelsior Estates,Excelsior Estates,MO,Excelsior Estates-MO,Missouri,29177,Ray,39.39,-94.2082,138,138,221,polygon,TRUE,America/Chicago,64062
+Pinhook-MO,1840013042,Pinhook,Pinhook,MO,Pinhook-MO,Missouri,29133,Mississippi,36.7381,-89.2695,,,0.3,polygon,TRUE,America/Chicago,63845
+Licking-MO,1840009892,Licking,Licking,MO,Licking-MO,Missouri,29215,Texas,37.4992,-91.8617,3116,3116,564,polygon,TRUE,America/Chicago,65542
+Olivette-MO,1840009743,Olivette,Olivette,MO,Olivette-MO,Missouri,29189,St. Louis,38.6725,-90.3784,7844,7844,1085,polygon,TRUE,America/Chicago,63132
+Rock Hill-MO,1840009770,Rock Hill,Rock Hill,MO,Rock Hill-MO,Missouri,29189,St. Louis,38.6089,-90.3673,4619,4619,1630,polygon,TRUE,America/Chicago,63119 63144
+Odessa-MO,1840008526,Odessa,Odessa,MO,Odessa-MO,Missouri,29107,Lafayette,38.9988,-93.9666,5096,5195,489,polygon,TRUE,America/Chicago,64076
+Country Club Village-MO,1840032036,Country Club Village,Country Club Village,MO,Country Club Village-MO,Missouri,29003,Andrew,39.8388,-94.8205,2468,2468,243,polygon,TRUE,America/Chicago,64506 64505
+Grantwood Village-MO,1840010737,Grantwood Village,Grantwood Village,MO,Grantwood Village-MO,Missouri,29189,St. Louis,38.5509,-90.3532,861,861,401,polygon,TRUE,America/Chicago,63123
+New Melle-MO,1840008570,New Melle,New Melle,MO,New Melle-MO,Missouri,29183,St. Charles,38.7185,-90.8839,495,495,115,polygon,TRUE,America/Chicago,63341 63385 63365
+Marshfield-MO,1840008742,Marshfield,Marshfield,MO,Marshfield-MO,Missouri,29225,Webster,37.3414,-92.9116,7318,7245,536,polygon,TRUE,America/Chicago,65706
+Alton-MO,1840007655,Alton,Alton,MO,Alton-MO,Missouri,29149,Oregon,36.6901,-91.3947,863,863,212,polygon,TRUE,America/Chicago,65606
+Norwood Court-MO,1840009773,Norwood Court,Norwood Court,MO,Norwood Court-MO,Missouri,29189,St. Louis,38.7143,-90.2896,958,958,2723,polygon,TRUE,America/Chicago,63121
+Murphy-MO,1840006236,Murphy,Murphy,MO,Murphy-MO,Missouri,29099,Jefferson,38.4922,-90.4856,,,325.8,polygon,FALSE,America/Chicago,63049 63026
+Belton-MO,1840007463,Belton,Belton,MO,Belton-MO,Missouri,29037,Cass,38.8191,-94.5334,23290,23290,631,polygon,TRUE,America/Chicago,64012
+Old Mines-MO,1840032087,Old Mines,Old Mines,MO,Old Mines-MO,Missouri,29221,Washington,38.0153,-90.756,,,63.8,point,FALSE,America/Chicago,63630
+Allendale-MO,1840010426,Allendale,Allendale,MO,Allendale-MO,Missouri,29227,Worth,40.4853,-94.2887,50,50,34,polygon,TRUE,America/Chicago,64420
+Hale-MO,1840007336,Hale,Hale,MO,Hale-MO,Missouri,29033,Carroll,39.6051,-93.3434,404,404,284,polygon,TRUE,America/Chicago,64643
+Rueter-MO,1840032213,Rueter,Rueter,MO,Rueter-MO,Missouri,29213,Taney,36.6084,-92.8691,,,3.9,point,FALSE,America/Chicago,65744
+Marquand-MO,1840008731,Marquand,Marquand,MO,Marquand-MO,Missouri,29123,Madison,37.4287,-90.167,208,208,337,polygon,TRUE,America/Chicago,63655
+Steele-MO,1840009950,Steele,Steele,MO,Steele-MO,Missouri,29155,Pemiscot,36.0904,-89.846,2051,2051,429,polygon,TRUE,America/Chicago,63877
+Higginsville-MO,1840007389,Higginsville,Higginsville,MO,Higginsville-MO,Missouri,29107,Lafayette,39.0665,-93.7268,4480,4651,485,polygon,TRUE,America/Chicago,64037
+Brookfield-MO,1840005551,Brookfield,Brookfield,MO,Brookfield-MO,Missouri,29115,Linn,39.7853,-93.0772,4056,4303,388,polygon,TRUE,America/Chicago,64628
+Poplar Bluff-MO,1840009935,Poplar Bluff,Poplar Bluff,MO,Poplar Bluff-MO,Missouri,29023,Butler,36.7632,-90.4136,20714,17233,506,polygon,TRUE,America/Chicago,63902 63901
+Flint Hill-MO,1840008568,Flint Hill,Flint Hill,MO,Flint Hill-MO,Missouri,29183,St. Charles,38.8639,-90.8686,528,528,83,polygon,TRUE,America/Chicago,63385
+Bakersfield-MO,1840013060,Bakersfield,Bakersfield,MO,Bakersfield-MO,Missouri,29153,Ozark,36.5238,-92.1442,236,236,66,polygon,TRUE,America/Chicago,65609
+Sheridan-MO,1840010425,Sheridan,Sheridan,MO,Sheridan-MO,Missouri,29227,Worth,40.5172,-94.6139,183,183,363,polygon,TRUE,America/Chicago,64486
+Fristoe-MO,1840032053,Fristoe,Fristoe,MO,Fristoe-MO,Missouri,29015,Benton,38.1167,-93.2758,,,10,point,FALSE,America/Chicago,65355
+Bronaugh-MO,1840006317,Bronaugh,Bronaugh,MO,Bronaugh-MO,Missouri,29217,Vernon,37.6942,-94.4681,246,246,331,polygon,TRUE,America/Chicago,64728
+Morley-MO,1840008783,Morley,Morley,MO,Morley-MO,Missouri,29201,Scott,37.0433,-89.6122,679,679,327,polygon,TRUE,America/Chicago,63767
+Cape Girardeau-MO,1840007598,Cape Girardeau,Cape Girardeau,MO,Cape Girardeau-MO,Missouri,29031,Cape Girardeau,37.3107,-89.5595,55253,39628,528,polygon,TRUE,America/Chicago,63703 63701 63702
+Weatherby-MO,1840010541,Weatherby,Weatherby,MO,Weatherby-MO,Missouri,29063,DeKalb,39.9093,-94.2419,105,105,343,polygon,TRUE,America/Chicago,64497
+East Lynne-MO,1840008609,East Lynne,East Lynne,MO,East Lynne-MO,Missouri,29037,Cass,38.6682,-94.2306,306,306,362,polygon,TRUE,America/Chicago,64080 64743
+Benton-MO,1840007638,Benton,Benton,MO,Benton-MO,Missouri,29201,Scott,37.0992,-89.5626,861,861,538,polygon,TRUE,America/Chicago,63736
+Ludlow-MO,1840009518,Ludlow,Ludlow,MO,Ludlow-MO,Missouri,29117,Livingston,39.6541,-93.7026,132,132,325,polygon,TRUE,America/Chicago,64656
+Vigus-MO,1840032252,Vigus,Vigus,MO,Vigus-MO,Missouri,29189,St. Louis,38.7356,-90.4648,,,354.6,point,FALSE,America/Chicago,63043
+Springfield-MO,1840009904,Springfield,Springfield,MO,Springfield-MO,Missouri,29077,Greene,37.1943,-93.2916,287124,167319,787,polygon,TRUE,America/Chicago,65810 65802 65803 65804 65806 65807 65809 65801 65805 65808 65814 65817 65890 65897 65898 65899
+Neelys Landing-MO,1840032120,Neelys Landing,Neelys Landing,MO,Neelys Landing-MO,Missouri,29031,Cape Girardeau,37.5023,-89.502,,,4.3,point,FALSE,America/Chicago,63755
+Vinita Park-MO,1840010742,Vinita Park,Vinita Park,MO,Vinita Park-MO,Missouri,29189,St. Louis,38.6891,-90.34,1875,1875,1003,polygon,TRUE,America/Chicago,63114 63130
+Boonville-MO,1840007420,Boonville,Boonville,MO,Boonville-MO,Missouri,29053,Cooper,38.9598,-92.7524,9388,8462,474,polygon,TRUE,America/Chicago,65233
+Emerald Beach-MO,1840013055,Emerald Beach,Emerald Beach,MO,Emerald Beach-MO,Missouri,29009,Barry,36.5755,-93.6711,231,231,124,polygon,TRUE,America/Chicago,65658
+Sedalia-MO,1840009724,Sedalia,Sedalia,MO,Sedalia-MO,Missouri,29159,Pettis,38.7043,-93.2349,26302,21489,619,polygon,TRUE,America/Chicago,65301 65302
+Northwye-MO,1840032204,Northwye,Northwye,MO,Northwye-MO,Missouri,29161,Phelps,37.975,-91.7557,,,132,point,FALSE,America/Chicago,65401
+Quick City-MO,1840032094,Quick City,Quick City,MO,Quick City-MO,Missouri,29101,Johnson,38.5811,-94.0288,,,8.3,point,FALSE,America/Chicago,64040
+Washburn-MO,1840010896,Washburn,Washburn,MO,Washburn-MO,Missouri,29009,Barry,36.5888,-93.9655,436,436,188,polygon,TRUE,America/Chicago,65772
+Lewis and Clark Village-MO,1840009551,Lewis and Clark Village,Lewis and Clark Village,MO,Lewis and Clark Village-MO,Missouri,29021,Buchanan,39.5375,-95.0506,131,131,82,polygon,TRUE,America/Chicago,64484
+Trenton-MO,1840010490,Trenton,Trenton,MO,Trenton-MO,Missouri,29079,Grundy,40.0819,-93.603,5532,5932,355,polygon,TRUE,America/Chicago,64683
+Amoret-MO,1840007512,Amoret,Amoret,MO,Amoret-MO,Missouri,29013,Bates,38.2549,-94.5873,184,184,332,polygon,TRUE,America/Chicago,64722
+Summersville-MO,1840009893,Summersville,Summersville,MO,Summersville-MO,Missouri,29215,Texas,37.1786,-91.6577,502,502,174,polygon,TRUE,America/Chicago,65571
+Saint George-MO,1840032245,Saint George,Saint George,MO,Saint George-MO,Missouri,29189,St. Louis,38.5367,-90.3148,,,2616.9,point,TRUE,America/Chicago,63123
+Lakeside-MO,1840008661,Lakeside,Lakeside,MO,Lakeside-MO,Missouri,29131,Miller,38.2041,-92.6223,,,0,polygon,TRUE,America/Chicago,65049
+Randolph-MO,1840012676,Randolph,Randolph,MO,Randolph-MO,Missouri,29047,Clay,39.1559,-94.4928,55,55,64,polygon,TRUE,America/Chicago,64161
+Beverly Hills-MO,1840007451,Beverly Hills,Beverly Hills,MO,Beverly Hills-MO,Missouri,29189,St. Louis,38.6979,-90.29,559,559,2315,polygon,TRUE,America/Chicago,63121
+Kingston-MO,1840008443,Kingston,Kingston,MO,Kingston-MO,Missouri,29025,Caldwell,39.6426,-94.0385,339,339,252,polygon,TRUE,America/Chicago,64650
+Cross Timbers-MO,1840007553,Cross Timbers,Cross Timbers,MO,Cross Timbers-MO,Missouri,29085,Hickory,38.0242,-93.2294,212,212,183,polygon,TRUE,America/Chicago,65634
+Black Walnut-MO,1840032231,Black Walnut,Black Walnut,MO,Black Walnut-MO,Missouri,29183,St. Charles,38.8734,-90.3712,,,3.6,point,FALSE,America/Chicago,63301
+Vandiver-MO,1840012700,Vandiver,Vandiver,MO,Vandiver-MO,Missouri,29007,Audrain,39.1622,-91.8473,72,72,92,polygon,TRUE,America/Chicago,65265
+Elmira-MO,1840012633,Elmira,Elmira,MO,Elmira-MO,Missouri,29177,Ray,39.5087,-94.1546,49,49,260,polygon,TRUE,America/Chicago,64062
+Truesdale-MO,1840010713,Truesdale,Truesdale,MO,Truesdale-MO,Missouri,29219,Warren,38.8124,-91.122,745,745,224,polygon,TRUE,America/Chicago,63383 63380
+Glenwood-MO,1840012131,Glenwood,Glenwood,MO,Glenwood-MO,Missouri,29197,Schuyler,40.5243,-92.5766,197,197,103,polygon,TRUE,America/Chicago,63541
+Galena-MO,1840008794,Galena,Galena,MO,Galena-MO,Missouri,29209,Stone,36.8054,-93.4709,422,422,218,polygon,TRUE,America/Chicago,65656
+Maysville-MO,1840008405,Maysville,Maysville,MO,Maysville-MO,Missouri,29063,DeKalb,39.8859,-94.3634,1087,1087,366,polygon,TRUE,America/Chicago,64469
+Amsterdam-MO,1840007513,Amsterdam,Amsterdam,MO,Amsterdam-MO,Missouri,29013,Bates,38.3493,-94.589,234,234,158,polygon,TRUE,America/Chicago,64723
+Thornfield-MO,1840032220,Thornfield,Thornfield,MO,Thornfield-MO,Missouri,29153,Ozark,36.7087,-92.6593,,,22.4,point,FALSE,America/Chicago,65762
+Worthington-MO,1840012135,Worthington,Worthington,MO,Worthington-MO,Missouri,29171,Putnam,40.4091,-92.6892,79,79,281,polygon,TRUE,America/Chicago,63567
+Bagnell-MO,1840009814,Bagnell,Bagnell,MO,Bagnell-MO,Missouri,29131,Miller,38.2294,-92.6053,95,95,78,polygon,TRUE,America/Chicago,65026
+Shelbina-MO,1840009519,Shelbina,Shelbina,MO,Shelbina-MO,Missouri,29205,Shelby,39.693,-92.0396,1623,1623,268,polygon,TRUE,America/Chicago,63468
+Halfway-MO,1840012992,Halfway,Halfway,MO,Halfway-MO,Missouri,29167,Polk,37.6189,-93.2387,173,173,31,polygon,TRUE,America/Chicago,65663
+Orrick-MO,1840009599,Orrick,Orrick,MO,Orrick-MO,Missouri,29177,Ray,39.2132,-94.1253,807,807,233,polygon,TRUE,America/Chicago,64077
+New London-MO,1840008448,New London,New London,MO,New London-MO,Missouri,29173,Ralls,39.5844,-91.3987,970,970,539,polygon,TRUE,America/Chicago,63459
+Eolia-MO,1840012602,Eolia,Eolia,MO,Eolia-MO,Missouri,29163,Pike,39.2389,-91.0121,514,514,162,polygon,TRUE,America/Chicago,63344
+Leasburg-MO,1840012949,Leasburg,Leasburg,MO,Leasburg-MO,Missouri,29055,Crawford,38.0948,-91.2953,333,333,297,polygon,TRUE,America/Chicago,65535
+Paris-MO,1840009565,Paris,Paris,MO,Paris-MO,Missouri,29137,Monroe,39.4773,-92.0039,1174,1174,359,polygon,TRUE,America/Chicago,65275
+West Sullivan-MO,1840012951,West Sullivan,West Sullivan,MO,West Sullivan-MO,Missouri,29055,Crawford,38.1921,-91.1918,117,117,124,polygon,TRUE,America/Chicago,65441 63080
+Agency-MO,1840010601,Agency,Agency,MO,Agency-MO,Missouri,29021,Buchanan,39.6699,-94.7588,666,666,69,polygon,TRUE,America/Chicago,64401 64507
+Clarksville-MO,1840007342,Clarksville,Clarksville,MO,Clarksville-MO,Missouri,29163,Pike,39.3693,-90.9049,431,431,286,polygon,TRUE,America/Chicago,63336
+Stoutland-MO,1840009753,Stoutland,Stoutland,MO,Stoutland-MO,Missouri,29029,Camden,37.8136,-92.5143,192,192,122,polygon,TRUE,America/Chicago,65567
+Eldridge-MO,1840032045,Eldridge,Eldridge,MO,Eldridge-MO,Missouri,29105,Laclede,37.8298,-92.7491,,,34.9,point,FALSE,America/Chicago,65463
+Squires-MO,1840032218,Squires,Squires,MO,Squires-MO,Missouri,29067,Douglas,36.8514,-92.6249,,,6.7,point,FALSE,America/Chicago,65755
+Table Rock-MO,1840032226,Table Rock,Table Rock,MO,Table Rock-MO,Missouri,29213,Taney,36.6048,-93.2988,,,633.9,point,FALSE,America/Chicago,65616
+Taberville-MO,1840032249,Taberville,Taberville,MO,Taberville-MO,Missouri,29185,St. Clair,38.0084,-93.9947,,,9.8,point,FALSE,America/Chicago,64780
+Chilhowee-MO,1840009725,Chilhowee,Chilhowee,MO,Chilhowee-MO,Missouri,29101,Johnson,38.5889,-93.8557,326,326,328,polygon,TRUE,America/Chicago,64733
+Pascola-MO,1840013066,Pascola,Pascola,MO,Pascola-MO,Missouri,29155,Pemiscot,36.2673,-89.8258,101,101,244,polygon,TRUE,America/Chicago,63827
+Worth-MO,1840012145,Worth,Worth,MO,Worth-MO,Missouri,29227,Worth,40.4045,-94.4465,59,59,90,polygon,TRUE,America/Chicago,64499
+Independence-MO,1840008534,Independence,Independence,MO,Independence-MO,Missouri,29095,Jackson,39.0871,-94.3503,117030,117030,580,polygon,TRUE,America/Chicago,64054 64055 64056 64057 64050 64052 64053 64015 64016 64051
+Bates City-MO,1840007388,Bates City,Bates City,MO,Bates City-MO,Missouri,29107,Lafayette,39.0047,-94.0659,220,220,78,polygon,TRUE,America/Chicago,64011
+Freeman-MO,1840008610,Freeman,Freeman,MO,Freeman-MO,Missouri,29037,Cass,38.6215,-94.5057,487,487,218,polygon,TRUE,America/Chicago,64746
+Tecumseh-MO,1840032106,Tecumseh,Tecumseh,MO,Tecumseh-MO,Missouri,29153,Ozark,36.5867,-92.2865,,,12.3,point,FALSE,America/Chicago,65760
+Mokane-MO,1840008562,Mokane,Mokane,MO,Mokane-MO,Missouri,29027,Callaway,38.6744,-91.8723,187,187,246,polygon,TRUE,America/Chicago,65059
+Decaturville-MO,1840032039,Decaturville,Decaturville,MO,Decaturville-MO,Missouri,29029,Camden,37.9075,-92.6999,,,9,point,FALSE,America/Chicago,65020
+Stoutsville-MO,1840012583,Stoutsville,Stoutsville,MO,Stoutsville-MO,Missouri,29137,Monroe,39.548,-91.8573,46,46,21,polygon,TRUE,America/Chicago,65283
+Ritchey-MO,1840010889,Ritchey,Ritchey,MO,Ritchey-MO,Missouri,29145,Newton,36.944,-94.1858,83,83,653,polygon,TRUE,America/Chicago,64844
+Four Seasons-MO,1840032256,Four Seasons,Four Seasons,MO,Four Seasons-MO,Missouri,29029,Camden,38.1976,-92.7187,4494,2239,191,polygon,TRUE,America/Chicago,65049
+Ridgely-MO,1840012631,Ridgely,Ridgely,MO,Ridgely-MO,Missouri,29165,Platte,39.4537,-94.6402,112,112,30,polygon,TRUE,America/Chicago,64444
+Newtown-MO,1840009435,Newtown,Newtown,MO,Newtown-MO,Missouri,29211,Sullivan,40.3762,-93.3336,172,172,262,polygon,TRUE,America/Chicago,64667
+Granger-MO,1840012116,Granger,Granger,MO,Granger-MO,Missouri,29199,Scotland,40.467,-91.9736,35,35,85,polygon,TRUE,America/Chicago,63432 63442
+Latour-MO,1840032129,Latour,Latour,MO,Latour-MO,Missouri,29101,Johnson,38.6345,-94.1022,,,83.2,point,FALSE,America/Chicago,64747
+New Court Village-MO,1840032255,New Court Village,New Court Village,MO,New Court Village-MO,Missouri,29111,Lewis,40.1067,-91.8132,,,11,point,FALSE,America/Chicago,63452
+Rombauer-MO,1840032210,Rombauer,Rombauer,MO,Rombauer-MO,Missouri,29023,Butler,36.8431,-90.2801,,,117.8,point,FALSE,America/Chicago,63901
+Caruthersville-MO,1840007669,Caruthersville,Caruthersville,MO,Caruthersville-MO,Missouri,29155,Pemiscot,36.1814,-89.6664,5442,5801,434,polygon,TRUE,America/Chicago,63830
+Coldwater-MO,1840032034,Coldwater,Coldwater,MO,Coldwater-MO,Missouri,29223,Wayne,37.3034,-90.4098,,,34.8,point,FALSE,America/Chicago,63964
+Olympian Village-MO,1840009809,Olympian Village,Olympian Village,MO,Olympian Village-MO,Missouri,29099,Jefferson,38.1346,-90.4583,760,760,514,polygon,TRUE,America/Chicago,63020
+Green Castle-MO,1840032154,Green Castle,Green Castle,MO,Green Castle-MO,Missouri,29211,Sullivan,40.2625,-92.878,,,312.6,point,TRUE,America/Chicago,63544
+Marion-MO,1840032202,Marion,Marion,MO,Marion-MO,Missouri,29051,Cole,38.6909,-92.3663,,,2.9,point,FALSE,America/Chicago,65023
+Cave-MO,1840009683,Cave,Cave,MO,Cave-MO,Missouri,29113,Lincoln,39.0214,-91.0483,5,5,2,polygon,TRUE,America/Chicago,63377 63379
+Saginaw-MO,1840013047,Saginaw,Saginaw,MO,Saginaw-MO,Missouri,29145,Newton,37.026,-94.4724,310,310,145,polygon,TRUE,America/Chicago,64804 64864
+King City-MO,1840008363,King City,King City,MO,King City-MO,Missouri,29075,Gentry,40.0505,-94.5251,1002,1002,279,polygon,TRUE,America/Chicago,64463
+Willhoit-MO,1840032223,Willhoit,Willhoit,MO,Willhoit-MO,Missouri,29153,Ozark,36.6834,-92.5068,,,1.2,point,FALSE,America/Chicago,65773
+Boschertown-MO,1840032232,Boschertown,Boschertown,MO,Boschertown-MO,Missouri,29183,St. Charles,38.8334,-90.4701,,,24.3,point,FALSE,America/Chicago,63301
+Lexington-MO,1840008528,Lexington,Lexington,MO,Lexington-MO,Missouri,29107,Lafayette,39.1798,-93.8695,4371,4584,338,polygon,TRUE,America/Chicago,64067
+Creve Coeur-MO,1840007443,Creve Coeur,Creve Coeur,MO,Creve Coeur-MO,Missouri,29189,St. Louis,38.6621,-90.443,18612,18612,696,polygon,TRUE,America/Chicago,63141
+Hawk Point-MO,1840007398,Hawk Point,Hawk Point,MO,Hawk Point-MO,Missouri,29113,Lincoln,38.9711,-91.1311,684,684,705,polygon,TRUE,America/Chicago,63349
+Richards-MO,1840010841,Richards,Richards,MO,Richards-MO,Missouri,29217,Vernon,37.9104,-94.557,96,96,138,polygon,TRUE,America/Chicago,64778
+Olean-MO,1840009816,Olean,Olean,MO,Olean-MO,Missouri,29131,Miller,38.4104,-92.53,131,131,292,polygon,TRUE,America/Chicago,65064
+Warrensburg-MO,1840010721,Warrensburg,Warrensburg,MO,Warrensburg-MO,Missouri,29101,Johnson,38.7617,-93.7284,22227,20251,881,polygon,TRUE,America/Chicago,64093
+Doolittle-MO,1840007541,Doolittle,Doolittle,MO,Doolittle-MO,Missouri,29161,Phelps,37.9426,-91.8893,599,599,86,polygon,TRUE,America/Chicago,65550 65401
+Sweet Springs-MO,1840009614,Sweet Springs,Sweet Springs,MO,Sweet Springs-MO,Missouri,29195,Saline,38.965,-93.4152,1446,1446,335,polygon,TRUE,America/Chicago,65351
+Gladstone-MO,1840008496,Gladstone,Gladstone,MO,Gladstone-MO,Missouri,29047,Clay,39.2134,-94.5593,27114,27114,1292,polygon,TRUE,America/Chicago,64119 64118
+Bunker-MO,1840007596,Bunker,Bunker,MO,Bunker-MO,Missouri,29179,Reynolds,37.4574,-91.2121,398,398,231,polygon,TRUE,America/Chicago,63629
+Rives-MO,1840010902,Rives,Rives,MO,Rives-MO,Missouri,29069,Dunklin,36.0945,-90.0115,61,61,64,polygon,TRUE,America/Chicago,63855
+Oak Grove-MO,1840008533,Oak Grove,Oak Grove,MO,Oak Grove-MO,Missouri,29095,Jackson,39.0074,-94.1278,7994,7994,500,polygon,TRUE,America/Chicago,64075
+Barretts-MO,1840032230,Barretts,Barretts,MO,Barretts-MO,Missouri,29189,St. Louis,38.5717,-90.4601,,,179.7,point,FALSE,America/Chicago,63122
+Saint Paul-MO,1840009720,Saint Paul,Saint Paul,MO,Saint Paul-MO,Missouri,29183,St. Charles,38.8464,-90.741,2195,2195,127,polygon,TRUE,America/Chicago,63366
+Leeton-MO,1840008578,Leeton,Leeton,MO,Leeton-MO,Missouri,29101,Johnson,38.5833,-93.6952,555,555,421,polygon,TRUE,America/Chicago,64761
+Gilliam-MO,1840010662,Gilliam,Gilliam,MO,Gilliam-MO,Missouri,29195,Saline,39.2328,-93.0041,195,195,303,polygon,TRUE,America/Chicago,65330
+Farmington-MO,1840008686,Farmington,Farmington,MO,Farmington-MO,Missouri,29187,St. Francois,37.782,-90.4287,44494,18355,775,polygon,TRUE,America/Chicago,63640
+Levasy-MO,1840008539,Levasy,Levasy,MO,Levasy-MO,Missouri,29095,Jackson,39.1363,-94.1307,83,83,53,polygon,TRUE,America/Chicago,64088 64066
+Armstrong-MO,1840007378,Armstrong,Armstrong,MO,Armstrong-MO,Missouri,29089,Howard,39.2692,-92.7042,285,285,134,polygon,TRUE,America/Chicago,65230
+Dadeville-MO,1840013013,Dadeville,Dadeville,MO,Dadeville-MO,Missouri,29057,Dade,37.4792,-93.6739,229,229,89,polygon,TRUE,America/Chicago,65635
+Sullivan-MO,1840009643,Sullivan,Sullivan,MO,Sullivan-MO,Missouri,29071,Franklin,38.2127,-91.1636,9171,7126,342,polygon,TRUE,America/Chicago,63080
+Gasconade-MO,1840008619,Gasconade,Gasconade,MO,Gasconade-MO,Missouri,29073,Gasconade,38.6702,-91.5599,212,212,403,polygon,TRUE,America/Chicago,65061 65036
+Washington-MO,1840010770,Washington,Washington,MO,Washington-MO,Missouri,29071,Franklin,38.5517,-91.015,14397,14061,582,polygon,TRUE,America/Chicago,63090
+Sugar Creek-MO,1840009680,Sugar Creek,Sugar Creek,MO,Sugar Creek-MO,Missouri,29095,Jackson,39.1421,-94.4019,3304,3304,121,polygon,TRUE,America/Chicago,64058 64054 64050 64053
+Rhineland-MO,1840010698,Rhineland,Rhineland,MO,Rhineland-MO,Missouri,29139,Montgomery,38.7204,-91.5176,134,134,153,polygon,TRUE,America/Chicago,65069
+Peculiar-MO,1840009785,Peculiar,Peculiar,MO,Peculiar-MO,Missouri,29037,Cass,38.7305,-94.4736,4979,4979,213,polygon,TRUE,America/Chicago,64012 64078
+Vienna-MO,1840010816,Vienna,Vienna,MO,Vienna-MO,Missouri,29125,Maries,38.1874,-91.9501,591,591,213,polygon,TRUE,America/Chicago,65582
+Warrenton-MO,1840010714,Warrenton,Warrenton,MO,Warrenton-MO,Missouri,29219,Warren,38.8186,-91.1358,9366,8130,369,polygon,TRUE,America/Chicago,63383
+Mackenzie-MO,1840012822,Mackenzie,Mackenzie,MO,Mackenzie-MO,Missouri,29189,St. Louis,38.5809,-90.3164,132,132,2187,polygon,TRUE,America/Chicago,63123
+Livonia-MO,1840012132,Livonia,Livonia,MO,Livonia-MO,Missouri,29171,Putnam,40.492,-92.7005,73,73,105,polygon,TRUE,America/Chicago,63551
+Camden-MO,1840007359,Camden,Camden,MO,Camden-MO,Missouri,29177,Ray,39.2001,-94.0196,185,185,94,polygon,TRUE,America/Chicago,64017
+Darlington-MO,1840012243,Darlington,Darlington,MO,Darlington-MO,Missouri,29075,Gentry,40.198,-94.3999,120,120,112,polygon,TRUE,America/Chicago,64438
+Dalton-MO,1840009560,Dalton,Dalton,MO,Dalton-MO,Missouri,29041,Chariton,39.3976,-92.9921,16,16,34,polygon,TRUE,America/Chicago,65246
+Anniston-MO,1840010886,Anniston,Anniston,MO,Anniston-MO,Missouri,29133,Mississippi,36.8243,-89.3267,222,222,218,polygon,TRUE,America/Chicago,63820
+Pevely-MO,1840009810,Pevely,Pevely,MO,Pevely-MO,Missouri,29099,Jefferson,38.2871,-90.3995,5712,5712,485,polygon,TRUE,America/Chicago,63070
+Saint Johns-MO,1840032246,Saint Johns,Saint Johns,MO,Saint Johns-MO,Missouri,29189,St. Louis,38.7134,-90.3432,,,1831.2,point,TRUE,America/Chicago,63114
+Des Arc-MO,1840012994,Des Arc,Des Arc,MO,Des Arc-MO,Missouri,29093,Iron,37.2836,-90.6354,164,164,298,polygon,TRUE,America/Chicago,63636
+Camden Point-MO,1840007356,Camden Point,Camden Point,MO,Camden Point-MO,Missouri,29165,Platte,39.4541,-94.7485,536,536,344,polygon,TRUE,America/Chicago,64018
+Wyaconda-MO,1840010403,Wyaconda,Wyaconda,MO,Wyaconda-MO,Missouri,29045,Clark,40.3921,-91.926,206,206,123,polygon,TRUE,America/Chicago,63474
+Jackson-MO,1840008735,Jackson,Jackson,MO,Jackson-MO,Missouri,29031,Cape Girardeau,37.3794,-89.6525,15036,15036,546,polygon,TRUE,America/Chicago,63755
+Dardenne Prairie-MO,1840007428,Dardenne Prairie,Dardenne Prairie,MO,Dardenne Prairie-MO,Missouri,29183,St. Charles,38.7549,-90.7308,13329,13329,1046,polygon,TRUE,America/Chicago,63368
+Sparta-MO,1840009925,Sparta,Sparta,MO,Sparta-MO,Missouri,29043,Christian,37.002,-93.0846,1864,1864,581,polygon,TRUE,America/Chicago,65753
+Belle-MO,1840007519,Belle,Belle,MO,Belle-MO,Missouri,29125,Maries,38.2848,-91.7217,1510,1510,436,polygon,TRUE,America/Chicago,65013
+Knoxville-MO,1840032138,Knoxville,Knoxville,MO,Knoxville-MO,Missouri,29177,Ray,39.4461,-94.0169,,,15.5,point,FALSE,America/Chicago,64084
+Arrow Rock-MO,1840010663,Arrow Rock,Arrow Rock,MO,Arrow Rock-MO,Missouri,29195,Saline,39.0699,-92.9473,58,58,168,polygon,TRUE,America/Chicago,65320
+Clarkton-MO,1840007662,Clarkton,Clarkton,MO,Clarkton-MO,Missouri,29069,Dunklin,36.4521,-89.9681,1212,1212,414,polygon,TRUE,America/Chicago,63837
+Hermann-MO,1840007473,Hermann,Hermann,MO,Hermann-MO,Missouri,29073,Gasconade,38.6983,-91.4342,2366,2366,361,polygon,TRUE,America/Chicago,65041
+Anderson-MO,1840007661,Anderson,Anderson,MO,Anderson-MO,Missouri,29119,McDonald,36.6532,-94.4442,1979,1979,336,polygon,TRUE,America/Chicago,64831
+Foster-MO,1840012916,Foster,Foster,MO,Foster-MO,Missouri,29013,Bates,38.1664,-94.5079,113,113,91,polygon,TRUE,America/Chicago,64745 64779
+Gifford-MO,1840032160,Gifford,Gifford,MO,Gifford-MO,Missouri,29121,Macon,40.0256,-92.6816,,,27.2,point,TRUE,America/Chicago,63549
+Gibbs-MO,1840012304,Gibbs,Gibbs,MO,Gibbs-MO,Missouri,29001,Adair,40.099,-92.4166,105,105,163,polygon,TRUE,America/Chicago,63540
+Sleeper-MO,1840032104,Sleeper,Sleeper,MO,Sleeper-MO,Missouri,29105,Laclede,37.7606,-92.593,,,61.8,point,FALSE,America/Chicago,65536
+Butler-MO,1840007510,Butler,Butler,MO,Butler-MO,Missouri,29013,Bates,38.2599,-94.3393,3745,4078,387,polygon,TRUE,America/Chicago,64730
+Jenkins-MO,1840032068,Jenkins,Jenkins,MO,Jenkins-MO,Missouri,29009,Barry,36.7787,-93.686,,,47.5,point,FALSE,America/Chicago,65605
+Huntleigh-MO,1840007454,Huntleigh,Huntleigh,MO,Huntleigh-MO,Missouri,29189,St. Louis,38.6131,-90.4089,340,340,130,polygon,TRUE,America/Chicago,63131
+Clifton Hill-MO,1840007339,Clifton Hill,Clifton Hill,MO,Clifton Hill-MO,Missouri,29175,Randolph,39.4387,-92.6641,113,113,253,polygon,TRUE,America/Chicago,65244
+Morrison-MO,1840008620,Morrison,Morrison,MO,Morrison-MO,Missouri,29073,Gasconade,38.6716,-91.6334,137,137,116,polygon,TRUE,America/Chicago,65061
+Perryville-MO,1840009871,Perryville,Perryville,MO,Perryville-MO,Missouri,29157,Perry,37.7255,-89.876,8655,8456,413,polygon,TRUE,America/Chicago,63775 63737 63776
+Brownington-MO,1840009798,Brownington,Brownington,MO,Brownington-MO,Missouri,29083,Henry,38.2451,-93.7226,104,104,331,polygon,TRUE,America/Chicago,64740
+Rosati-MO,1840032125,Rosati,Rosati,MO,Rosati-MO,Missouri,29161,Phelps,38.027,-91.531,,,83.6,point,FALSE,America/Chicago,65559
+Saint Clair-MO,1840009645,Saint Clair,Saint Clair,MO,Saint Clair-MO,Missouri,29071,Franklin,38.3496,-90.9868,5962,4718,492,polygon,TRUE,America/Chicago,63077
+Rock Port-MO,1840009414,Rock Port,Rock Port,MO,Rock Port-MO,Missouri,29005,Atchison,40.4109,-95.5332,1227,1227,170,polygon,TRUE,America/Chicago,64482
+Bevier-MO,1840007272,Bevier,Bevier,MO,Bevier-MO,Missouri,29121,Macon,39.7509,-92.5647,696,696,260,polygon,TRUE,America/Chicago,63532
+Keysville-MO,1840032070,Keysville,Keysville,MO,Keysville-MO,Missouri,29055,Crawford,37.8753,-91.389,,,1.7,point,FALSE,America/Chicago,65565
+Trimble-MO,1840010607,Trimble,Trimble,MO,Trimble-MO,Missouri,29049,Clinton,39.4763,-94.5612,640,640,496,polygon,TRUE,America/Chicago,64492
+Aurora-MO,1840007636,Aurora,Aurora,MO,Aurora-MO,Missouri,29109,Lawrence,36.968,-93.7199,8364,7507,486,polygon,TRUE,America/Chicago,65605
+Blackburn-MO,1840007374,Blackburn,Blackburn,MO,Blackburn-MO,Missouri,29195,Saline,39.1047,-93.4854,247,247,308,polygon,TRUE,America/Chicago,64001 65321
+Oregon-MO,1840009456,Oregon,Oregon,MO,Oregon-MO,Missouri,29087,Holt,39.9861,-95.1433,771,771,320,polygon,TRUE,America/Chicago,64473
+Lanagan-MO,1840009947,Lanagan,Lanagan,MO,Lanagan-MO,Missouri,29119,McDonald,36.6061,-94.4517,410,410,168,polygon,TRUE,America/Chicago,64831 64847
+Cedar City-MO,1840032031,Cedar City,Cedar City,MO,Cedar City-MO,Missouri,29027,Callaway,38.5973,-92.1796,,,6,point,FALSE,America/Chicago,65101
+Ferrelview-MO,1840012630,Ferrelview,Ferrelview,MO,Ferrelview-MO,Missouri,29165,Platte,39.3143,-94.6654,633,633,2135,polygon,TRUE,America/Chicago,64163
+Wasola-MO,1840025753,Wasola,Wasola,MO,Wasola-MO,Missouri,29153,Ozark,36.7857,-92.5685,,,18.7,polygon,FALSE,America/Chicago,65773
+Fordland-MO,1840008741,Fordland,Fordland,MO,Fordland-MO,Missouri,29225,Webster,37.1557,-92.9416,825,825,288,polygon,TRUE,America/Chicago,65652
+Arrow Point-MO,1840013054,Arrow Point,Arrow Point,MO,Arrow Point-MO,Missouri,29009,Barry,36.5441,-93.6226,88,88,177,polygon,TRUE,America/Chicago,65658
+Valles Mines-MO,1840032163,Valles Mines,Valles Mines,MO,Valles Mines-MO,Missouri,29099,Jefferson,38.042,-90.4998,,,39.9,point,FALSE,America/Chicago,63020
+Riverview Estates-MO,1840022489,Riverview Estates,Riverview Estates,MO,Riverview Estates-MO,Missouri,29037,Cass,38.7489,-94.5246,83,83,133,polygon,TRUE,America/Chicago,64012
+McBaine-MO,1840009678,McBaine,McBaine,MO,McBaine-MO,Missouri,29019,Boone,38.8831,-92.455,10,10,17,polygon,TRUE,America/Chicago,65203
+Orchard Farm-MO,1840032243,Orchard Farm,Orchard Farm,MO,Orchard Farm-MO,Missouri,29183,St. Charles,38.8787,-90.4462,,,71.7,point,FALSE,America/Chicago,63301
+Conception-MO,1840025544,Conception,Conception,MO,Conception-MO,Missouri,29147,Nodaway,40.2411,-94.6805,,,86.1,polygon,FALSE,America/Chicago,64433
+Ginger Blue-MO,1840013062,Ginger Blue,Ginger Blue,MO,Ginger Blue-MO,Missouri,29119,McDonald,36.5899,-94.4596,61,61,90,polygon,TRUE,America/Chicago,64854
+Cherokee Pass-MO,1840025727,Cherokee Pass,Cherokee Pass,MO,Cherokee Pass-MO,Missouri,29123,Madison,37.4872,-90.296,,,58.4,polygon,FALSE,America/Chicago,63645
+Auxvasse-MO,1840007416,Auxvasse,Auxvasse,MO,Auxvasse-MO,Missouri,29027,Callaway,39.0174,-91.8958,985,985,503,polygon,TRUE,America/Chicago,65231
+Florida-MO,1840012582,Florida,Florida,MO,Florida-MO,Missouri,29137,Monroe,39.4929,-91.7907,,,0,polygon,TRUE,America/Chicago,65283
+Mill Spring-MO,1840013028,Mill Spring,Mill Spring,MO,Mill Spring-MO,Missouri,29223,Wayne,37.065,-90.6778,180,180,157,polygon,TRUE,America/Chicago,63952
+Rich Fountain-MO,1840032096,Rich Fountain,Rich Fountain,MO,Rich Fountain-MO,Missouri,29151,Osage,38.3959,-91.8799,,,49.1,point,FALSE,America/Chicago,65035
+Clifton City-MO,1840032166,Clifton City,Clifton City,MO,Clifton City-MO,Missouri,29053,Cooper,38.7647,-93.0413,,,9.4,point,FALSE,America/Chicago,65348
+Marlborough-MO,1840012823,Marlborough,Marlborough,MO,Marlborough-MO,Missouri,29189,St. Louis,38.5682,-90.3395,2177,2177,3562,polygon,TRUE,America/Chicago,63119 63123
+Lilbourn-MO,1840009939,Lilbourn,Lilbourn,MO,Lilbourn-MO,Missouri,29143,New Madrid,36.5908,-89.6132,1118,1118,457,polygon,TRUE,America/Chicago,63862
+Des Peres-MO,1840007456,Des Peres,Des Peres,MO,Des Peres-MO,Missouri,29189,St. Louis,38.5973,-90.4481,8540,8540,758,polygon,TRUE,America/Chicago,63122 63131
+Harviell-MO,1840025746,Harviell,Harviell,MO,Harviell-MO,Missouri,29023,Butler,36.6618,-90.4748,,,88.6,polygon,FALSE,America/Chicago,63945
+Ionia-MO,1840010794,Ionia,Ionia,MO,Ionia-MO,Missouri,29015,Benton,38.5037,-93.3236,88,88,229,polygon,TRUE,America/Chicago,65335
+Huntsdale-MO,1840010688,Huntsdale,Huntsdale,MO,Huntsdale-MO,Missouri,29019,Boone,38.9114,-92.4723,31,31,540,polygon,TRUE,America/Chicago,65203
+Keytesville-MO,1840008447,Keytesville,Keytesville,MO,Keytesville-MO,Missouri,29041,Chariton,39.4313,-92.9371,452,452,226,polygon,TRUE,America/Chicago,65261
+Bellerive Acres-MO,1840012814,Bellerive Acres,Bellerive Acres,MO,Bellerive Acres-MO,Missouri,29189,St. Louis,38.7124,-90.3121,187,187,214,polygon,TRUE,America/Chicago,63121
+Aullville-MO,1840012703,Aullville,Aullville,MO,Aullville-MO,Missouri,29107,Lafayette,39.0175,-93.6779,98,98,142,polygon,TRUE,America/Chicago,64037
+Edgar Springs-MO,1840008679,Edgar Springs,Edgar Springs,MO,Edgar Springs-MO,Missouri,29161,Phelps,37.7026,-91.8681,201,201,118,polygon,TRUE,America/Chicago,65462
+Metz-MO,1840009860,Metz,Metz,MO,Metz-MO,Missouri,29217,Vernon,37.9965,-94.443,48,48,146,polygon,TRUE,America/Chicago,64765 64779
+Fisk-MO,1840008798,Fisk,Fisk,MO,Fisk-MO,Missouri,29023,Butler,36.7826,-90.2077,337,337,401,polygon,TRUE,America/Chicago,63940
+Santa Fe-MO,1840032101,Santa Fe,Santa Fe,MO,Santa Fe-MO,Missouri,29137,Monroe,39.3689,-91.8191,,,19.6,point,FALSE,America/Chicago,65282
+Bella Villa-MO,1840007448,Bella Villa,Bella Villa,MO,Bella Villa-MO,Missouri,29189,St. Louis,38.5436,-90.2854,738,738,2169,polygon,TRUE,America/Chicago,63125
+Gentryville-MO,1840032055,Gentryville,Gentryville,MO,Gentryville-MO,Missouri,29067,Douglas,36.8639,-92.3607,,,2.8,point,FALSE,America/Chicago,65638
+Rolla-MO,1840009849,Rolla,Rolla,MO,Rolla-MO,Missouri,29161,Phelps,37.9457,-91.7609,20692,20075,644,polygon,TRUE,America/Chicago,65401 65402 65409
+Meta-MO,1840008623,Meta,Meta,MO,Meta-MO,Missouri,29151,Osage,38.3119,-92.1659,227,227,253,polygon,TRUE,America/Chicago,65058
+Wilson City-MO,1840013043,Wilson City,Wilson City,MO,Wilson City-MO,Missouri,29133,Mississippi,36.9236,-89.223,115,115,590,polygon,TRUE,America/Chicago,63882
+Mount Moriah-MO,1840009421,Mount Moriah,Mount Moriah,MO,Mount Moriah-MO,Missouri,29081,Harrison,40.3292,-93.7971,84,84,31,polygon,TRUE,America/Chicago,64481
+Dawn-MO,1840025586,Dawn,Dawn,MO,Dawn-MO,Missouri,29117,Livingston,39.6713,-93.6341,,,87.1,polygon,FALSE,America/Chicago,64638
+Crystal Lake Park-MO,1840007444,Crystal Lake Park,Crystal Lake Park,MO,Crystal Lake Park-MO,Missouri,29189,St. Louis,38.6212,-90.4319,495,495,1818,polygon,TRUE,America/Chicago,63131
+Graham-MO,1840010416,Graham,Graham,MO,Graham-MO,Missouri,29147,Nodaway,40.201,-95.0403,162,162,240,polygon,TRUE,America/Chicago,64455
+Ellisville-MO,1840008581,Ellisville,Ellisville,MO,Ellisville-MO,Missouri,29189,St. Louis,38.5895,-90.5883,9224,9224,810,polygon,TRUE,America/Chicago,63021 63011
+Rayville-MO,1840012635,Rayville,Rayville,MO,Rayville-MO,Missouri,29177,Ray,39.3464,-94.0649,,,201.3,polygon,FALSE,America/Chicago,64084
+Innsbrook-MO,1840012806,Innsbrook,Innsbrook,MO,Innsbrook-MO,Missouri,29219,Warren,38.7631,-91.0552,588,588,22,polygon,TRUE,America/Chicago,63390
+Silva-MO,1840032217,Silva,Silva,MO,Silva-MO,Missouri,29223,Wayne,37.1762,-90.4637,,,124.7,point,FALSE,America/Chicago,63964
+Altenburg-MO,1840007572,Altenburg,Altenburg,MO,Altenburg-MO,Missouri,29157,Perry,37.6304,-89.586,352,352,129,polygon,TRUE,America/Chicago,63732
+Lenox-MO,1840032199,Lenox,Lenox,MO,Lenox-MO,Missouri,29065,Dent,37.6531,-91.7613,,,8.7,point,FALSE,America/Chicago,65541
+Williamsville-MO,1840010882,Williamsville,Williamsville,MO,Williamsville-MO,Missouri,29223,Wayne,36.9738,-90.5479,340,340,405,polygon,TRUE,America/Chicago,63967
+Webster Groves-MO,1840010744,Webster Groves,Webster Groves,MO,Webster Groves-MO,Missouri,29189,St. Louis,38.5866,-90.3544,22970,22970,1502,polygon,TRUE,America/Chicago,63119
+Millard-MO,1840012305,Millard,Millard,MO,Millard-MO,Missouri,29001,Adair,40.1075,-92.5461,87,87,278,polygon,TRUE,America/Chicago,63501
+Weldon Spring-MO,1840010716,Weldon Spring,Weldon Spring,MO,Weldon Spring-MO,Missouri,29183,St. Charles,38.7117,-90.6517,5593,5593,283,polygon,TRUE,America/Chicago,63304
+Sedgewickville-MO,1840013011,Sedgewickville,Sedgewickville,MO,Sedgewickville-MO,Missouri,29017,Bollinger,37.5146,-89.9061,171,171,103,polygon,TRUE,America/Chicago,63781
+Jonesburg-MO,1840008554,Jonesburg,Jonesburg,MO,Jonesburg-MO,Missouri,29139,Montgomery,38.8553,-91.3053,723,723,219,polygon,TRUE,America/Chicago,63351
+Frontenac-MO,1840008587,Frontenac,Frontenac,MO,Frontenac-MO,Missouri,29189,St. Louis,38.63,-90.4189,3566,3566,477,polygon,TRUE,America/Chicago,63131
+Clyde-MO,1840012137,Clyde,Clyde,MO,Clyde-MO,Missouri,29147,Nodaway,40.2653,-94.6693,78,78,196,polygon,TRUE,America/Chicago,64432
+Americus-MO,1840032121,Americus,Americus,MO,Americus-MO,Missouri,29139,Montgomery,38.7803,-91.5641,,,43.6,point,FALSE,America/Chicago,65069
+Lanton-MO,1840032073,Lanton,Lanton,MO,Lanton-MO,Missouri,29091,Howell,36.5173,-91.8015,,,3.4,point,FALSE,America/Chicago,65775
+Oakview-MO,1840012678,Oakview,Oakview,MO,Oakview-MO,Missouri,29047,Clay,39.2086,-94.5704,393,393,868,polygon,TRUE,America/Chicago,64118
+Harwood-MO,1840012959,Harwood,Harwood,MO,Harwood-MO,Missouri,29217,Vernon,37.9567,-94.1539,46,46,168,polygon,TRUE,America/Chicago,64750
+Riverside-MO,1840009593,Riverside,Riverside,MO,Riverside-MO,Missouri,29165,Platte,39.1703,-94.6305,3227,3227,226,polygon,TRUE,America/Chicago,64150
+Horton-MO,1840032134,Horton,Horton,MO,Horton-MO,Missouri,29217,Vernon,37.9748,-94.3652,,,5,point,FALSE,America/Chicago,64778
+Cedar Springs-MO,1840032133,Cedar Springs,Cedar Springs,MO,Cedar Springs-MO,Missouri,29039,Cedar,37.8736,-93.8935,,,8.3,point,FALSE,America/Chicago,64744
+Wentworth-MO,1840013050,Wentworth,Wentworth,MO,Wentworth-MO,Missouri,29145,Newton,36.9932,-94.0756,148,148,310,polygon,TRUE,America/Chicago,64873
+Foristell-MO,1840008569,Foristell,Foristell,MO,Foristell-MO,Missouri,29183,St. Charles,38.8158,-90.9627,554,554,38,polygon,TRUE,America/Chicago,63348
+Bethel-MO,1840012461,Bethel,Bethel,MO,Bethel-MO,Missouri,29205,Shelby,39.8779,-92.0221,118,118,330,polygon,TRUE,America/Chicago,63434
+Fagus-MO,1840032153,Fagus,Fagus,MO,Fagus-MO,Missouri,29023,Butler,36.5114,-90.267,,,14,point,FALSE,America/Chicago,63961
+Clarence-MO,1840007304,Clarence,Clarence,MO,Clarence-MO,Missouri,29205,Shelby,39.7432,-92.2602,775,775,258,polygon,TRUE,America/Chicago,63437
+Bloomsdale-MO,1840007544,Bloomsdale,Bloomsdale,MO,Bloomsdale-MO,Missouri,29186,Ste. Genevieve,38.0147,-90.2213,542,542,128,polygon,TRUE,America/Chicago,63627
+Lambert-MO,1840013035,Lambert,Lambert,MO,Lambert-MO,Missouri,29201,Scott,37.0937,-89.5547,,,163.9,polygon,TRUE,America/Chicago,63736
+La Due-MO,1840012893,La Due,La Due,MO,La Due-MO,Missouri,29083,Henry,38.3125,-93.8777,,,45.4,polygon,TRUE,America/Chicago,64735
+Taos-MO,1840009796,Taos,Taos,MO,Taos-MO,Missouri,29051,Cole,38.5157,-92.0647,1139,1139,68,polygon,TRUE,America/Chicago,65101
+Marble Hill-MO,1840008738,Marble Hill,Marble Hill,MO,Marble Hill-MO,Missouri,29017,Bollinger,37.3032,-89.9808,1464,1464,341,polygon,TRUE,America/Chicago,63764
+Iron Mountain Lake-MO,1840008687,Iron Mountain Lake,Iron Mountain Lake,MO,Iron Mountain Lake-MO,Missouri,29187,St. Francois,37.6854,-90.6184,736,736,144,polygon,TRUE,America/Chicago,63624
+Baring-MO,1840007253,Baring,Baring,MO,Baring-MO,Missouri,29103,Knox,40.2447,-92.2058,127,127,385,polygon,TRUE,America/Chicago,63531
+Festus-MO,1840008652,Festus,Festus,MO,Festus-MO,Missouri,29099,Jefferson,38.2198,-90.4095,12104,12104,818,polygon,TRUE,America/Chicago,63028
+Mill Grove-MO,1840032167,Mill Grove,Mill Grove,MO,Mill Grove-MO,Missouri,29129,Mercer,40.3092,-93.5936,,,27.1,point,FALSE,America/Chicago,64673
+Elsberry-MO,1840008540,Elsberry,Elsberry,MO,Elsberry-MO,Missouri,29113,Lincoln,39.1683,-90.7879,1993,1993,471,polygon,TRUE,America/Chicago,63343
+Mansfield-MO,1840009898,Mansfield,Mansfield,MO,Mansfield-MO,Missouri,29229,Wright,37.1102,-92.5804,1261,1261,258,polygon,TRUE,America/Chicago,65704
+Fulton-MO,1840008560,Fulton,Fulton,MO,Fulton-MO,Missouri,29027,Callaway,38.855,-91.9512,12495,13103,412,polygon,TRUE,America/Chicago,65251
+Broseley-MO,1840032149,Broseley,Broseley,MO,Broseley-MO,Missouri,29023,Butler,36.6751,-90.2418,,,129.6,point,FALSE,America/Chicago,63932
+McBride-MO,1840032076,McBride,McBride,MO,McBride-MO,Missouri,29157,Perry,37.8328,-89.8401,,,6.5,point,FALSE,America/Chicago,63775
+Slater-MO,1840009613,Slater,Slater,MO,Slater-MO,Missouri,29195,Saline,39.2227,-93.0651,1805,1805,484,polygon,TRUE,America/Chicago,65349
+Louisburg-MO,1840012978,Louisburg,Louisburg,MO,Louisburg-MO,Missouri,29059,Dallas,37.7564,-93.141,121,121,100,polygon,TRUE,America/Chicago,65685
+Branson West-MO,1840007652,Branson West,Branson West,MO,Branson West-MO,Missouri,29209,Stone,36.703,-93.3778,438,438,37,polygon,TRUE,America/Chicago,65737
+Berger-MO,1840007475,Berger,Berger,MO,Berger-MO,Missouri,29071,Franklin,38.6717,-91.3392,219,219,269,polygon,TRUE,America/Chicago,63014
+Moberly-MO,1840008463,Moberly,Moberly,MO,Moberly-MO,Missouri,29175,Randolph,39.4185,-92.4364,13821,13863,423,polygon,TRUE,America/Chicago,65270
+Potosi-MO,1840009846,Potosi,Potosi,MO,Potosi-MO,Missouri,29221,Washington,37.9337,-90.775,4887,2643,438,polygon,TRUE,America/Chicago,63664 63660
+Mount Leonard-MO,1840009616,Mount Leonard,Mount Leonard,MO,Mount Leonard-MO,Missouri,29195,Saline,39.1253,-93.3945,86,86,319,polygon,TRUE,America/Chicago,65339
+Macks Creek-MO,1840009752,Macks Creek,Macks Creek,MO,Macks Creek-MO,Missouri,29029,Camden,37.9667,-92.9666,,,70.2,polygon,FALSE,America/Chicago,65786
+Center-MO,1840007323,Center,Center,MO,Center-MO,Missouri,29173,Ralls,39.5096,-91.5291,505,505,491,polygon,TRUE,America/Chicago,63436
+Viburnum-MO,1840010855,Viburnum,Viburnum,MO,Viburnum-MO,Missouri,29093,Iron,37.7149,-91.1295,654,654,147,polygon,TRUE,America/Chicago,65566
+Princeton-MO,1840009415,Princeton,Princeton,MO,Princeton-MO,Missouri,29129,Mercer,40.3966,-93.5884,1127,1127,273,polygon,TRUE,America/Chicago,64673
+Ballard-MO,1840032024,Ballard,Ballard,MO,Ballard-MO,Missouri,29013,Bates,38.3614,-94.1433,,,5.2,point,FALSE,America/Chicago,64730
+Wellington-MO,1840010679,Wellington,Wellington,MO,Wellington-MO,Missouri,29107,Lafayette,39.1383,-93.9861,798,798,283,polygon,TRUE,America/Chicago,64097
+Maitland-MO,1840009455,Maitland,Maitland,MO,Maitland-MO,Missouri,29087,Holt,40.2022,-95.078,307,307,379,polygon,TRUE,America/Chicago,64466
+Harrisonville-MO,1840007464,Harrisonville,Harrisonville,MO,Harrisonville-MO,Missouri,29037,Cass,38.653,-94.3467,9378,10042,392,polygon,TRUE,America/Chicago,64701
+Bethany-MO,1840007230,Bethany,Bethany,MO,Bethany-MO,Missouri,29081,Harrison,40.2684,-94.0281,2515,3122,271,polygon,TRUE,America/Chicago,64424
+Ethel-MO,1840010537,Ethel,Ethel,MO,Ethel-MO,Missouri,29121,Macon,39.8933,-92.741,61,61,102,polygon,TRUE,America/Chicago,63539
+Velda Village-MO,1840032251,Velda Village,Velda Village,MO,Velda Village-MO,Missouri,29189,St. Louis,38.694,-90.2934,1387,1387,3273,polygon,TRUE,America/Chicago,63121
+Fayetteville-MO,1840032127,Fayetteville,Fayetteville,MO,Fayetteville-MO,Missouri,29101,Johnson,38.8811,-93.7563,,,28.7,point,FALSE,America/Chicago,64093
+Fairfax-MO,1840008347,Fairfax,Fairfax,MO,Fairfax-MO,Missouri,29005,Atchison,40.3392,-95.3916,591,591,490,polygon,TRUE,America/Chicago,64446
+Osborn-MO,1840009490,Osborn,Osborn,MO,Osborn-MO,Missouri,29049,Clinton,39.7496,-94.3567,417,417,282,polygon,TRUE,America/Chicago,64474
+Weatherby Lake-MO,1840010642,Weatherby Lake,Weatherby Lake,MO,Weatherby Lake-MO,Missouri,29165,Platte,39.2365,-94.696,1923,1923,723,polygon,TRUE,America/Chicago,64152
+Hanley Hills-MO,1840012817,Hanley Hills,Hanley Hills,MO,Hanley Hills-MO,Missouri,29189,St. Louis,38.6856,-90.325,2115,2115,2240,polygon,TRUE,America/Chicago,63114 63133
+Green City-MO,1840008359,Green City,Green City,MO,Green City-MO,Missouri,29211,Sullivan,40.2639,-92.9563,608,608,164,polygon,TRUE,America/Chicago,63545
+Fillmore-MO,1840008394,Fillmore,Fillmore,MO,Fillmore-MO,Missouri,29003,Andrew,40.0253,-94.9732,185,185,512,polygon,TRUE,America/Chicago,64449
+Conway-MO,1840007573,Conway,Conway,MO,Conway-MO,Missouri,29105,Laclede,37.5057,-92.8312,778,778,164,polygon,TRUE,America/Chicago,65632
+Niangua-MO,1840008743,Niangua,Niangua,MO,Niangua-MO,Missouri,29225,Webster,37.3886,-92.8304,418,418,393,polygon,TRUE,America/Chicago,65713
+Marshall-MO,1840008509,Marshall,Marshall,MO,Marshall-MO,Missouri,29195,Saline,39.1145,-93.201,12501,12897,488,polygon,TRUE,America/Chicago,65340
+Winston-MO,1840012412,Winston,Winston,MO,Winston-MO,Missouri,29061,Daviess,39.8699,-94.1416,253,253,316,polygon,TRUE,America/Chicago,64689
+Champ-MO,1840010750,Champ,Champ,MO,Champ-MO,Missouri,29189,St. Louis,38.7448,-90.4536,13,13,6,polygon,TRUE,America/Chicago,63043
+Gunn City-MO,1840012841,Gunn City,Gunn City,MO,Gunn City-MO,Missouri,29037,Cass,38.666,-94.164,119,119,569,polygon,TRUE,America/Chicago,64747
+Saint Mary-MO,1840009853,Saint Mary,Saint Mary,MO,Saint Mary-MO,Missouri,29186,Ste. Genevieve,37.8737,-89.9497,349,349,224,polygon,TRUE,America/Chicago,63673
+Salem-MO,1840009878,Salem,Salem,MO,Salem-MO,Missouri,29065,Dent,37.6398,-91.5346,4894,4924,598,polygon,TRUE,America/Chicago,65560
+Saint Joseph-MO,1840009549,Saint Joseph,Saint Joseph,MO,Saint Joseph-MO,Missouri,29021,Buchanan,39.7598,-94.821,80849,76472,670,polygon,TRUE,America/Chicago,64503 64501 64506 64507 64505 64504 64502 64508
+Waldron-MO,1840032110,Waldron,Waldron,MO,Waldron-MO,Missouri,29165,Platte,39.2222,-94.7933,,,49,point,FALSE,America/Chicago,64092
+Cleveland-MO,1840007460,Cleveland,Cleveland,MO,Cleveland-MO,Missouri,29037,Cass,38.6788,-94.598,670,670,175,polygon,TRUE,America/Chicago,64734
+Campbell-MO,1840007663,Campbell,Campbell,MO,Campbell-MO,Missouri,29069,Dunklin,36.493,-90.0762,1897,1897,521,polygon,TRUE,America/Chicago,63933
+Eminence-MO,1840008758,Eminence,Eminence,MO,Eminence-MO,Missouri,29203,Shannon,37.1508,-91.3587,582,582,119,polygon,TRUE,America/Chicago,65466
+Mercer-MO,1840009416,Mercer,Mercer,MO,Mercer-MO,Missouri,29129,Mercer,40.5106,-93.5299,313,313,328,polygon,TRUE,America/Chicago,64661
+Palmyra-MO,1840009525,Palmyra,Palmyra,MO,Palmyra-MO,Missouri,29127,Marion,39.7985,-91.5272,3599,3618,477,polygon,TRUE,America/Chicago,63461
+Maplewood-MO,1840009740,Maplewood,Maplewood,MO,Maplewood-MO,Missouri,29189,St. Louis,38.6121,-90.3241,7868,7868,1955,polygon,TRUE,America/Chicago,63143
+Fairdealing-MO,1840025748,Fairdealing,Fairdealing,MO,Fairdealing-MO,Missouri,29181,Ripley,36.6615,-90.6084,,,104.7,polygon,FALSE,America/Chicago,63953 63939 63945
+Penermon-MO,1840013040,Penermon,Penermon,MO,Penermon-MO,Missouri,29207,Stoddard,36.791,-89.8301,63,63,115,polygon,TRUE,America/Chicago,63846
+Lake Annette-MO,1840008612,Lake Annette,Lake Annette,MO,Lake Annette-MO,Missouri,29037,Cass,38.6544,-94.5081,101,101,250,polygon,TRUE,America/Chicago,64746
+Strafford-MO,1840009905,Strafford,Strafford,MO,Strafford-MO,Missouri,29077,Greene,37.2689,-93.1208,2340,2340,309,polygon,TRUE,America/Chicago,65757
+Forest City-MO,1840008381,Forest City,Forest City,MO,Forest City-MO,Missouri,29087,Holt,39.9829,-95.1883,252,252,99,polygon,TRUE,America/Chicago,64451
+Bismarck-MO,1840007550,Bismarck,Bismarck,MO,Bismarck-MO,Missouri,29187,St. Francois,37.7674,-90.6224,1491,1491,575,polygon,TRUE,America/Chicago,63624
+Lake Tapawingo-MO,1840008537,Lake Tapawingo,Lake Tapawingo,MO,Lake Tapawingo-MO,Missouri,29095,Jackson,39.019,-94.3131,724,724,762,polygon,TRUE,America/Chicago,64015
+Edwards-MO,1840032044,Edwards,Edwards,MO,Edwards-MO,Missouri,29015,Benton,38.1367,-93.1696,,,3,point,FALSE,America/Chicago,65326
+Miner-MO,1840008782,Miner,Miner,MO,Miner-MO,Missouri,29201,Scott,36.8973,-89.5353,951,951,80,polygon,TRUE,America/Chicago,63801
+Weldon Spring Heights-MO,1840010720,Weldon Spring Heights,Weldon Spring Heights,MO,Weldon Spring Heights-MO,Missouri,29183,St. Charles,38.7048,-90.6853,92,92,399,polygon,TRUE,America/Chicago,63304
+Clarksburg-MO,1840007436,Clarksburg,Clarksburg,MO,Clarksburg-MO,Missouri,29135,Moniteau,38.6611,-92.6661,338,338,226,polygon,TRUE,America/Chicago,65025
+Imperial-MO,1840006235,Imperial,Imperial,MO,Imperial-MO,Missouri,29099,Jefferson,38.3672,-90.3706,,,459.1,polygon,FALSE,America/Chicago,63010 63052
+Hazelwood-MO,1840007453,Hazelwood,Hazelwood,MO,Hazelwood-MO,Missouri,29189,St. Louis,38.7932,-90.3901,25443,25443,613,polygon,TRUE,America/Chicago,63042 63031
+Ravanna-MO,1840025543,Ravanna,Ravanna,MO,Ravanna-MO,Missouri,29129,Mercer,40.456,-93.462,,,67.6,polygon,FALSE,America/Chicago,64673
+Warson Woods-MO,1840010743,Warson Woods,Warson Woods,MO,Warson Woods-MO,Missouri,29189,St. Louis,38.6069,-90.3912,1940,1940,1284,polygon,TRUE,America/Chicago,63122
+Freistatt-MO,1840013031,Freistatt,Freistatt,MO,Freistatt-MO,Missouri,29109,Lawrence,37.0213,-93.8977,163,163,297,polygon,TRUE,America/Chicago,65654
+Courtney-MO,1840032037,Courtney,Courtney,MO,Courtney-MO,Missouri,29095,Jackson,39.1556,-94.3936,,,15.6,point,FALSE,America/Chicago,64058
+Rosendale-MO,1840009476,Rosendale,Rosendale,MO,Rosendale-MO,Missouri,29003,Andrew,40.0408,-94.823,144,144,192,polygon,TRUE,America/Chicago,64483
+Carterville-MO,1840007628,Carterville,Carterville,MO,Carterville-MO,Missouri,29097,Jasper,37.1466,-94.4388,1893,1893,280,polygon,TRUE,America/Chicago,64870 64835
+Saddlebrooke-MO,1840013041,Saddlebrooke,Saddlebrooke,MO,Saddlebrooke-MO,Missouri,29043,Christian,36.8283,-93.1969,238,238,13,polygon,TRUE,America/Chicago,65653 65630
+Cosby-MO,1840012413,Cosby,Cosby,MO,Cosby-MO,Missouri,29003,Andrew,39.864,-94.6795,125,125,514,polygon,TRUE,America/Chicago,64436
+Foley-MO,1840008541,Foley,Foley,MO,Foley-MO,Missouri,29113,Lincoln,39.0458,-90.7414,168,168,450,polygon,TRUE,America/Chicago,63347
+Saint Ann-MO,1840009771,Saint Ann,Saint Ann,MO,Saint Ann-MO,Missouri,29189,St. Louis,38.7266,-90.3871,12812,12812,1552,polygon,TRUE,America/Chicago,63074
+Northmoor-MO,1840008484,Northmoor,Northmoor,MO,Northmoor-MO,Missouri,29165,Platte,39.1845,-94.6054,328,328,529,polygon,TRUE,America/Chicago,64151 64150
+Oak Hill-MO,1840032162,Oak Hill,Oak Hill,MO,Oak Hill-MO,Missouri,29055,Crawford,38.2059,-91.4207,,,25.4,point,FALSE,America/Chicago,65453
+Iatan-MO,1840012628,Iatan,Iatan,MO,Iatan-MO,Missouri,29165,Platte,39.4773,-94.9838,47,47,150,polygon,TRUE,America/Chicago,64484 64098
+Huntsville-MO,1840007341,Huntsville,Huntsville,MO,Huntsville-MO,Missouri,29175,Randolph,39.4364,-92.544,1516,1516,246,polygon,TRUE,America/Chicago,65259
+Brimson-MO,1840010491,Brimson,Brimson,MO,Brimson-MO,Missouri,29079,Grundy,40.1449,-93.7383,63,63,279,polygon,TRUE,America/Chicago,64642
+Nashville-MO,1840032084,Nashville,Nashville,MO,Nashville-MO,Missouri,29011,Barton,37.3745,-94.4908,,,14.3,point,FALSE,America/Chicago,64855
+Hunter-MO,1840025741,Hunter,Hunter,MO,Hunter-MO,Missouri,29035,Carter,36.8867,-90.8483,,,102.1,polygon,FALSE,America/Chicago,63937 63943
+Kennett-MO,1840008809,Kennett,Kennett,MO,Kennett-MO,Missouri,29069,Dunklin,36.2403,-90.0481,10863,10564,582,polygon,TRUE,America/Chicago,63857
+Harrisburg-MO,1840010686,Harrisburg,Harrisburg,MO,Harrisburg-MO,Missouri,29019,Boone,39.1396,-92.458,276,276,142,polygon,TRUE,America/Chicago,65256
+Crystal Lakes-MO,1840007360,Crystal Lakes,Crystal Lakes,MO,Crystal Lakes-MO,Missouri,29177,Ray,39.3606,-94.1875,347,347,124,polygon,TRUE,America/Chicago,64024
+Fairview-MO,1840010890,Fairview,Fairview,MO,Fairview-MO,Missouri,29145,Newton,36.8172,-94.0866,386,386,316,polygon,TRUE,America/Chicago,64842
+Garden City-MO,1840008611,Garden City,Garden City,MO,Garden City-MO,Missouri,29037,Cass,38.5629,-94.1959,1630,1630,254,polygon,TRUE,America/Chicago,64747
+Lowry City-MO,1840009842,Lowry City,Lowry City,MO,Lowry City-MO,Missouri,29185,St. Clair,38.1401,-93.7275,613,613,230,polygon,TRUE,America/Chicago,64763
+Labadie-MO,1840032144,Labadie,Labadie,MO,Labadie-MO,Missouri,29071,Franklin,38.5289,-90.8501,,,111.4,point,FALSE,America/Chicago,63055
+South West City-MO,1840032254,South West City,South West City,MO,South West City-MO,Missouri,29119,McDonald,36.5205,-94.6103,956,956,252,polygon,TRUE,America/Chicago,64863
+Pleasant Hope-MO,1840009874,Pleasant Hope,Pleasant Hope,MO,Pleasant Hope-MO,Missouri,29167,Polk,37.465,-93.2743,613,613,153,polygon,TRUE,America/Chicago,65613 65725
+El Dorado Springs-MO,1840008710,El Dorado Springs,El Dorado Springs,MO,El Dorado Springs-MO,Missouri,29039,Cedar,37.8694,-94.0196,3438,3577,448,polygon,TRUE,America/Chicago,64744
+Park Hills-MO,1840009857,Park Hills,Park Hills,MO,Park Hills-MO,Missouri,29187,St. Francois,37.8211,-90.505,8655,8655,164,polygon,TRUE,America/Chicago,63601 63640
+Tipton-MO,1840010724,Tipton,Tipton,MO,Tipton-MO,Missouri,29135,Moniteau,38.6549,-92.7804,3315,3378,623,polygon,TRUE,America/Chicago,65081
+Alma-MO,1840007387,Alma,Alma,MO,Alma-MO,Missouri,29107,Lafayette,39.0964,-93.5478,394,394,552,polygon,TRUE,America/Chicago,64001
+Readsville-MO,1840032095,Readsville,Readsville,MO,Readsville-MO,Missouri,29027,Callaway,38.8045,-91.7191,,,5.5,point,FALSE,America/Chicago,65067
+Owensville-MO,1840009641,Owensville,Owensville,MO,Owensville-MO,Missouri,29073,Gasconade,38.349,-91.4974,2850,2620,383,polygon,TRUE,America/Chicago,65066
+Gordonville-MO,1840012997,Gordonville,Gordonville,MO,Gordonville-MO,Missouri,29031,Cape Girardeau,37.3111,-89.6738,400,400,197,polygon,TRUE,America/Chicago,63701 63752
+Kansas City-MO,1840008535,Kansas City,Kansas City,MO,Kansas City-MO,Missouri,29095,Jackson,39.1239,-94.5541,1590762,481420,590,polygon,TRUE,America/Chicago,64163 64164 64165 64167 64161 64053 64119 64118 64151 64153 64155 64154 64157 64156 64158 64108 64109 64102 64105 64101 64128 64124 64125 64126 64127 64120 64123 64129 64166 64192 64114 64117 64116 64111 64110 64113 64112 64132 64130 64146 64145 64149 64147 64106 64139 64138 64133 64131 64137 64136 64134 64121 64141 64144 64148 64162 64168 64170 64171 64179 64180 64184 64187 64188 64190 64191 64195 64196 64197 64198 64199 64999
+Rogersville-MO,1840009897,Rogersville,Rogersville,MO,Rogersville-MO,Missouri,29225,Webster,37.1149,-93.0717,3296,3519,416,polygon,TRUE,America/Chicago,65742
+Holliday-MO,1840012581,Holliday,Holliday,MO,Holliday-MO,Missouri,29137,Monroe,39.4936,-92.1313,133,133,196,polygon,TRUE,America/Chicago,65258
+Hornersville-MO,1840007667,Hornersville,Hornersville,MO,Hornersville-MO,Missouri,29069,Dunklin,36.0403,-90.1159,627,627,310,polygon,TRUE,America/Chicago,63855
+Woodson Terrace-MO,1840010748,Woodson Terrace,Woodson Terrace,MO,Woodson Terrace-MO,Missouri,29189,St. Louis,38.7287,-90.3601,4046,4046,2035,polygon,TRUE,America/Chicago,63134
+Richwoods-MO,1840032097,Richwoods,Richwoods,MO,Richwoods-MO,Missouri,29221,Washington,38.1603,-90.8282,,,28.4,point,FALSE,America/Chicago,63071
+Cardwell-MO,1840007664,Cardwell,Cardwell,MO,Cardwell-MO,Missouri,29069,Dunklin,36.0475,-90.2909,677,677,415,polygon,TRUE,America/Chicago,63829
+Stover-MO,1840009649,Stover,Stover,MO,Stover-MO,Missouri,29141,Morgan,38.4418,-92.9901,1075,1075,467,polygon,TRUE,America/Chicago,65078
+Ashland-MO,1840007393,Ashland,Ashland,MO,Ashland-MO,Missouri,29019,Boone,38.7888,-92.248,3688,3876,306,polygon,TRUE,America/Chicago,65010
+Garrison-MO,1840032194,Garrison,Garrison,MO,Garrison-MO,Missouri,29043,Christian,36.8389,-93.0196,,,8.7,point,FALSE,America/Chicago,65657
+Jamesport-MO,1840008393,Jamesport,Jamesport,MO,Jamesport-MO,Missouri,29061,Daviess,39.975,-93.8029,504,504,346,polygon,TRUE,America/Chicago,64648
+Prairie Home-MO,1840009714,Prairie Home,Prairie Home,MO,Prairie Home-MO,Missouri,29053,Cooper,38.8136,-92.5906,283,283,281,polygon,TRUE,America/Chicago,65068
+Blue Springs-MO,1840007396,Blue Springs,Blue Springs,MO,Blue Springs-MO,Missouri,29095,Jackson,39.0124,-94.2722,54431,54431,941,polygon,TRUE,America/Chicago,64014 64015 64013
+Patterson-MO,1840032205,Patterson,Patterson,MO,Patterson-MO,Missouri,29223,Wayne,37.1884,-90.5507,,,92.4,point,FALSE,America/Chicago,63956
+Archie-MO,1840007462,Archie,Archie,MO,Archie-MO,Missouri,29037,Cass,38.4826,-94.3502,1210,1210,404,polygon,TRUE,America/Chicago,64725
+Houston-MO,1840007601,Houston,Houston,MO,Houston-MO,Missouri,29215,Texas,37.3212,-91.9611,2093,2093,221,polygon,TRUE,America/Chicago,65483
+New Franklin-MO,1840008520,New Franklin,New Franklin,MO,New Franklin-MO,Missouri,29089,Howard,39.0175,-92.7406,1068,1068,311,polygon,TRUE,America/Chicago,65274
+Senath-MO,1840009949,Senath,Senath,MO,Senath-MO,Missouri,29069,Dunklin,36.134,-90.1614,1691,1691,339,polygon,TRUE,America/Chicago,63876
+Cliff Village-MO,1840010892,Cliff Village,Cliff Village,MO,Cliff Village-MO,Missouri,29145,Newton,37.0251,-94.517,40,40,384,polygon,TRUE,America/Chicago,64804
+Miller-MO,1840008781,Miller,Miller,MO,Miller-MO,Missouri,29109,Lawrence,37.2148,-93.8406,688,688,349,polygon,TRUE,America/Chicago,65707
+Big Lake-MO,1840012350,Big Lake,Big Lake,MO,Big Lake-MO,Missouri,29087,Holt,40.0735,-95.3518,144,144,33,polygon,TRUE,America/Chicago,64437
+McGee-MO,1840032174,McGee,McGee,MO,McGee-MO,Missouri,29223,Wayne,37.0745,-90.1957,,,3.8,point,FALSE,America/Chicago,63763
+Parma-MO,1840009941,Parma,Parma,MO,Parma-MO,Missouri,29143,New Madrid,36.6117,-89.8189,652,652,394,polygon,TRUE,America/Chicago,63870
+Sappington-MO,1840006122,Sappington,Sappington,MO,Sappington-MO,Missouri,29189,St. Louis,38.526,-90.373,,,1155.9,polygon,FALSE,America/Chicago,63128 63126
+Unionville-MO,1840010410,Unionville,Unionville,MO,Unionville-MO,Missouri,29171,Putnam,40.4757,-93.0044,1811,1811,350,polygon,TRUE,America/Chicago,63565
+Gilman City-MO,1840032056,Gilman City,Gilman City,MO,Gilman City-MO,Missouri,29081,Harrison,40.1311,-93.8739,364,364,167,polygon,TRUE,America/Chicago,64642
+Wheatland-MO,1840010840,Wheatland,Wheatland,MO,Wheatland-MO,Missouri,29085,Hickory,37.9426,-93.4027,358,358,228,polygon,TRUE,America/Chicago,65779
+Spanish Lake-MO,1840006123,Spanish Lake,Spanish Lake,MO,Spanish Lake-MO,Missouri,29189,St. Louis,38.7885,-90.2078,,,2140.2,polygon,FALSE,America/Chicago,63138
+Amazonia-MO,1840010527,Amazonia,Amazonia,MO,Amazonia-MO,Missouri,29003,Andrew,39.8888,-94.8926,315,315,330,polygon,TRUE,America/Chicago,64505 64421
+Frohna-MO,1840008709,Frohna,Frohna,MO,Frohna-MO,Missouri,29157,Perry,37.6375,-89.6197,259,259,110,polygon,TRUE,America/Chicago,63748
+Lucerne-MO,1840012134,Lucerne,Lucerne,MO,Lucerne-MO,Missouri,29171,Putnam,40.4639,-93.2911,83,83,128,polygon,TRUE,America/Chicago,64655
+Portland-MO,1840032092,Portland,Portland,MO,Portland-MO,Missouri,29027,Callaway,38.7109,-91.7177,,,35.2,point,FALSE,America/Chicago,65067
+Howardville-MO,1840007657,Howardville,Howardville,MO,Howardville-MO,Missouri,29143,New Madrid,36.5684,-89.5972,362,362,612,polygon,TRUE,America/Chicago,63862 63869
+Grant City-MO,1840010424,Grant City,Grant City,MO,Grant City-MO,Missouri,29227,Worth,40.4858,-94.4135,799,799,232,polygon,TRUE,America/Chicago,64456
+Nelson-MO,1840008511,Nelson,Nelson,MO,Nelson-MO,Missouri,29195,Saline,38.9946,-93.0308,190,190,222,polygon,TRUE,America/Chicago,65347
+Roanoke-MO,1840032098,Roanoke,Roanoke,MO,Roanoke-MO,Missouri,29175,Randolph,39.317,-92.6888,,,1.7,point,FALSE,America/Chicago,65230
+Albany-MO,1840007240,Albany,Albany,MO,Albany-MO,Missouri,29075,Gentry,40.2479,-94.3335,1699,1699,268,polygon,TRUE,America/Chicago,64402
+Mount Sterling-MO,1840032124,Mount Sterling,Mount Sterling,MO,Mount Sterling-MO,Missouri,29073,Gasconade,38.465,-91.6271,,,29.8,point,FALSE,America/Chicago,65014
+Richland-MO,1840009865,Richland,Richland,MO,Richland-MO,Missouri,29169,Pulaski,37.861,-92.3993,1801,1801,306,polygon,TRUE,America/Chicago,65556
+Sheldon-MO,1840009858,Sheldon,Sheldon,MO,Sheldon-MO,Missouri,29217,Vernon,37.6582,-94.2956,532,532,391,polygon,TRUE,America/Chicago,64784
+South Greenfield-MO,1840013014,South Greenfield,South Greenfield,MO,South Greenfield-MO,Missouri,29057,Dade,37.3752,-93.8436,88,88,208,polygon,TRUE,America/Chicago,65752
+Portage Des Sioux-MO,1840009718,Portage Des Sioux,Portage Des Sioux,MO,Portage Des Sioux-MO,Missouri,29183,St. Charles,38.9271,-90.3424,333,333,289,polygon,TRUE,America/Chicago,63373
+Platte Woods-MO,1840009592,Platte Woods,Platte Woods,MO,Platte Woods-MO,Missouri,29165,Platte,39.2288,-94.6522,404,404,419,polygon,TRUE,America/Chicago,64151
+Russellville-MO,1840009797,Russellville,Russellville,MO,Russellville-MO,Missouri,29051,Cole,38.5128,-92.4385,814,814,393,polygon,TRUE,America/Chicago,65074
+Stanton-MO,1840032147,Stanton,Stanton,MO,Stanton-MO,Missouri,29071,Franklin,38.2745,-91.1057,,,48.8,point,FALSE,America/Chicago,63080
+Webb City-MO,1840010878,Webb City,Webb City,MO,Webb City-MO,Missouri,29097,Jasper,37.1413,-94.4675,11226,11226,502,polygon,TRUE,America/Chicago,64870
+Menfro-MO,1840032077,Menfro,Menfro,MO,Menfro-MO,Missouri,29157,Perry,37.777,-89.7234,,,7.2,point,FALSE,America/Chicago,63775
+Lake Ozark-MO,1840008660,Lake Ozark,Lake Ozark,MO,Lake Ozark-MO,Missouri,29131,Miller,38.2035,-92.6257,1785,1785,95,polygon,TRUE,America/Chicago,65049
+Dutchtown-MO,1840012998,Dutchtown,Dutchtown,MO,Dutchtown-MO,Missouri,29031,Cape Girardeau,37.2509,-89.6558,96,96,71,polygon,TRUE,America/Chicago,63701 63745
+Linn Creek-MO,1840009751,Linn Creek,Linn Creek,MO,Linn Creek-MO,Missouri,29029,Camden,38.0454,-92.705,245,245,72,polygon,TRUE,America/Chicago,65052
+Lees Summit-MO,1840032155,Lees Summit,Lees Summit,MO,Lees Summit-MO,Missouri,29095,Jackson,38.9172,-94.3816,89467,96076,581,polygon,TRUE,America/Chicago,64086 64082 64064 64063 64081 64002
+Bourbon-MO,1840007532,Bourbon,Bourbon,MO,Bourbon-MO,Missouri,29055,Crawford,38.1505,-91.2494,1612,1612,465,polygon,TRUE,America/Chicago,65441
+Catron-MO,1840009944,Catron,Catron,MO,Catron-MO,Missouri,29143,New Madrid,36.6111,-89.7061,63,63,65,polygon,TRUE,America/Chicago,63833
+Gorin-MO,1840032059,Gorin,Gorin,MO,Gorin-MO,Missouri,29199,Scotland,40.36,-92.0243,,,95.9,point,TRUE,America/Chicago,63543
+Leeper-MO,1840032198,Leeper,Leeper,MO,Leeper-MO,Missouri,29223,Wayne,37.0751,-90.7079,,,29,point,FALSE,America/Chicago,63957
+Glasgow Village-MO,1840006118,Glasgow Village,Glasgow Village,MO,Glasgow Village-MO,Missouri,29189,St. Louis,38.7579,-90.1982,,,2099,polygon,FALSE,America/Chicago,63137
+Rocheport-MO,1840009677,Rocheport,Rocheport,MO,Rocheport-MO,Missouri,29019,Boone,38.9785,-92.5633,249,249,290,polygon,TRUE,America/Chicago,65274 65279
+Milford-MO,1840012995,Milford,Milford,MO,Milford-MO,Missouri,29011,Barton,37.5864,-94.1584,25,25,231,polygon,TRUE,America/Chicago,64759
+Newtonia-MO,1840009930,Newtonia,Newtonia,MO,Newtonia-MO,Missouri,29145,Newton,36.8794,-94.1836,200,200,236,polygon,TRUE,America/Chicago,64866 64853
+Ballwin-MO,1840007447,Ballwin,Ballwin,MO,Ballwin-MO,Missouri,29189,St. Louis,38.5949,-90.5501,30313,30313,1298,polygon,TRUE,America/Chicago,63021 63011 63022 63024
+Ewing-MO,1840008383,Ewing,Ewing,MO,Ewing-MO,Missouri,29111,Lewis,40.0088,-91.7147,450,450,278,polygon,TRUE,America/Chicago,63440
+Lamine-MO,1840032072,Lamine,Lamine,MO,Lamine-MO,Missouri,29053,Cooper,38.9467,-92.8746,,,3.9,point,FALSE,America/Chicago,65233
+Eunice-MO,1840032050,Eunice,Eunice,MO,Eunice-MO,Missouri,29215,Texas,37.245,-91.7796,,,20.6,point,FALSE,America/Chicago,65468
+Barnett-MO,1840007480,Barnett,Barnett,MO,Barnett-MO,Missouri,29141,Morgan,38.3773,-92.6746,201,201,284,polygon,TRUE,America/Chicago,65011
+Leonard-MO,1840012462,Leonard,Leonard,MO,Leonard-MO,Missouri,29205,Shelby,39.8944,-92.182,59,59,70,polygon,TRUE,America/Chicago,63451
+Boss-MO,1840032181,Boss,Boss,MO,Boss-MO,Missouri,29065,Dent,37.6431,-91.1893,,,5.9,point,FALSE,America/Chicago,65440
+Pendleton-MO,1840012807,Pendleton,Pendleton,MO,Pendleton-MO,Missouri,29219,Warren,38.8262,-91.2322,44,44,187,polygon,TRUE,America/Chicago,63383
+Kirkwood-MO,1840008598,Kirkwood,Kirkwood,MO,Kirkwood-MO,Missouri,29189,St. Louis,38.5789,-90.4203,27609,27609,1163,polygon,TRUE,America/Chicago,63122
+Downing-MO,1840007224,Downing,Downing,MO,Downing-MO,Missouri,29197,Schuyler,40.4873,-92.3689,334,334,195,polygon,TRUE,America/Chicago,63536
+Glen Echo Park-MO,1840012820,Glen Echo Park,Glen Echo Park,MO,Glen Echo Park-MO,Missouri,29189,St. Louis,38.7009,-90.2963,159,159,1856,polygon,TRUE,America/Chicago,63121
+Berkeley-MO,1840007450,Berkeley,Berkeley,MO,Berkeley-MO,Missouri,29189,St. Louis,38.7441,-90.3362,8981,8981,694,polygon,TRUE,America/Chicago,63134
+Bosworth-MO,1840007335,Bosworth,Bosworth,MO,Bosworth-MO,Missouri,29033,Carroll,39.4699,-93.3357,294,294,205,polygon,TRUE,America/Chicago,64623
+Dearborn-MO,1840007358,Dearborn,Dearborn,MO,Dearborn-MO,Missouri,29165,Platte,39.5247,-94.7741,508,508,215,polygon,TRUE,America/Chicago,64439
+Crane-MO,1840007651,Crane,Crane,MO,Crane-MO,Missouri,29209,Stone,36.9028,-93.5716,1351,1351,343,polygon,TRUE,America/Chicago,65633
+De Witt-MO,1840007337,De Witt,De Witt,MO,De Witt-MO,Missouri,29033,Carroll,39.385,-93.2199,120,120,192,polygon,TRUE,America/Chicago,64639
+Round Grove-MO,1840032100,Round Grove,Round Grove,MO,Round Grove-MO,Missouri,29109,Lawrence,37.2667,-93.9052,,,11.3,point,FALSE,America/Chicago,65707
+Greenwood-MO,1840007397,Greenwood,Greenwood,MO,Greenwood-MO,Missouri,29095,Jackson,38.8507,-94.3377,5658,5658,423,polygon,TRUE,America/Chicago,64034
+Country Club Hills-MO,1840007441,Country Club Hills,Country Club Hills,MO,Country Club Hills-MO,Missouri,29189,St. Louis,38.7208,-90.2749,1266,1266,2667,polygon,TRUE,America/Chicago,63136
+Homestown-MO,1840007672,Homestown,Homestown,MO,Homestown-MO,Missouri,29155,Pemiscot,36.3318,-89.8242,142,142,444,polygon,TRUE,America/Chicago,63879
+Gerster-MO,1840010824,Gerster,Gerster,MO,Gerster-MO,Missouri,29185,St. Clair,37.9548,-93.577,24,24,114,polygon,TRUE,America/Chicago,64776
+Halltown-MO,1840013029,Halltown,Halltown,MO,Halltown-MO,Missouri,29109,Lawrence,37.1947,-93.6292,173,173,317,polygon,TRUE,America/Chicago,65604 65664
+Pleasant Valley-MO,1840009606,Pleasant Valley,Pleasant Valley,MO,Pleasant Valley-MO,Missouri,29047,Clay,39.2172,-94.4811,3067,3067,962,polygon,TRUE,America/Chicago,64068
+Blodgett-MO,1840013032,Blodgett,Blodgett,MO,Blodgett-MO,Missouri,29201,Scott,37.005,-89.5263,210,210,616,polygon,TRUE,America/Chicago,63824 63801
+Blairstown-MO,1840007493,Blairstown,Blairstown,MO,Blairstown-MO,Missouri,29083,Henry,38.558,-93.9578,94,94,145,polygon,TRUE,America/Chicago,64726
+West Alton-MO,1840010718,West Alton,West Alton,MO,West Alton-MO,Missouri,29183,St. Charles,38.8664,-90.2084,531,531,7,polygon,TRUE,America/Chicago,63386
+Drake-MO,1840032042,Drake,Drake,MO,Drake-MO,Missouri,29073,Gasconade,38.4684,-91.4646,,,5.9,point,FALSE,America/Chicago,65066
+Birch Tree-MO,1840007617,Birch Tree,Birch Tree,MO,Birch Tree-MO,Missouri,29203,Shannon,36.9967,-91.4916,653,653,182,polygon,TRUE,America/Chicago,65438
+Knob Lick-MO,1840032238,Knob Lick,Knob Lick,MO,Knob Lick-MO,Missouri,29187,St. Francois,37.6753,-90.3673,,,66.1,point,FALSE,America/Chicago,63640
+Alexandria-MO,1840007223,Alexandria,Alexandria,MO,Alexandria-MO,Missouri,29045,Clark,40.3598,-91.4595,151,151,154,polygon,TRUE,America/Chicago,63430
+Charmwood-MO,1840032259,Charmwood,Charmwood,MO,Charmwood-MO,Missouri,29071,Franklin,38.2811,-91.0967,32,32,87,polygon,TRUE,America/Chicago,63080
+Mosby-MO,1840008500,Mosby,Mosby,MO,Mosby-MO,Missouri,29047,Clay,39.3191,-94.3048,200,200,38,polygon,TRUE,America/Chicago,64068 64024 64073
+Hallsville-MO,1840007394,Hallsville,Hallsville,MO,Hallsville-MO,Missouri,29019,Boone,39.1185,-92.2265,1536,1536,446,polygon,TRUE,America/Chicago,65255
+Big Spring-MO,1840025628,Big Spring,Big Spring,MO,Big Spring-MO,Missouri,29139,Montgomery,38.802,-91.4837,,,48.4,polygon,FALSE,America/Chicago,65041 63363
+Pattonsburg-MO,1840009474,Pattonsburg,Pattonsburg,MO,Pattonsburg-MO,Missouri,29061,Daviess,40.0715,-94.106,343,343,218,polygon,TRUE,America/Chicago,64670
+Saint Martins-MO,1840009633,Saint Martins,Saint Martins,MO,Saint Martins-MO,Missouri,29051,Cole,38.5943,-92.3312,1177,1177,235,polygon,TRUE,America/Chicago,65109
+Chamois-MO,1840007476,Chamois,Chamois,MO,Chamois-MO,Missouri,29151,Osage,38.6764,-91.77,386,386,402,polygon,TRUE,America/Chicago,65024
+Fair Grove-MO,1840008757,Fair Grove,Fair Grove,MO,Fair Grove-MO,Missouri,29077,Greene,37.3833,-93.1522,1447,1447,175,polygon,TRUE,America/Chicago,65648
+Sunrise Beach-MO,1840012920,Sunrise Beach,Sunrise Beach,MO,Sunrise Beach-MO,Missouri,29029,Camden,38.1673,-92.7794,473,473,33,polygon,TRUE,America/Chicago,65079
+Silver Creek-MO,1840013049,Silver Creek,Silver Creek,MO,Silver Creek-MO,Missouri,29145,Newton,37.0406,-94.4727,,,356.5,point,FALSE,America/Chicago,64804
+East Leavenworth-MO,1840032173,East Leavenworth,East Leavenworth,MO,East Leavenworth-MO,Missouri,29165,Platte,39.3144,-94.8519,,,5.5,point,FALSE,America/Chicago,64079
+Braymer-MO,1840005588,Braymer,Braymer,MO,Braymer-MO,Missouri,29025,Caldwell,39.5905,-93.7961,853,853,557,polygon,TRUE,America/Chicago,64624
+Reeds-MO,1840010875,Reeds,Reeds,MO,Reeds-MO,Missouri,29097,Jasper,37.1165,-94.1682,94,94,237,polygon,TRUE,America/Chicago,64859
+Elmo-MO,1840008348,Elmo,Elmo,MO,Elmo-MO,Missouri,29147,Nodaway,40.5189,-95.1169,159,159,264,polygon,TRUE,America/Chicago,64445
+Velda Village Hills-MO,1840012828,Velda Village Hills,Velda Village Hills,MO,Velda Village Hills-MO,Missouri,29189,St. Louis,38.692,-90.2875,1052,1052,3389,polygon,TRUE,America/Chicago,63121
+Quitman-MO,1840010414,Quitman,Quitman,MO,Quitman-MO,Missouri,29147,Nodaway,40.3732,-95.0765,43,43,124,polygon,TRUE,America/Chicago,64487
+Knox City-MO,1840008375,Knox City,Knox City,MO,Knox City-MO,Missouri,29103,Knox,40.1442,-92.0099,208,208,381,polygon,TRUE,America/Chicago,63446
+Kinloch-MO,1840008597,Kinloch,Kinloch,MO,Kinloch-MO,Missouri,29189,St. Louis,38.7384,-90.3249,297,297,157,polygon,TRUE,America/Chicago,63134 63140
+Waynesville-MO,1840010846,Waynesville,Waynesville,MO,Waynesville-MO,Missouri,29169,Pulaski,37.8207,-92.22,5314,5314,319,polygon,TRUE,America/Chicago,65583
+Bloomfield-MO,1840007642,Bloomfield,Bloomfield,MO,Bloomfield-MO,Missouri,29207,Stoddard,36.8877,-89.9309,1881,1881,536,polygon,TRUE,America/Chicago,63825
+Jacksonville-MO,1840012600,Jacksonville,Jacksonville,MO,Jacksonville-MO,Missouri,29175,Randolph,39.5877,-92.4729,148,148,516,polygon,TRUE,America/Chicago,65260
+Sainte Genevieve-MO,1840009854,Sainte Genevieve,Sainte Genevieve,MO,Sainte Genevieve-MO,Missouri,29186,Ste. Genevieve,37.9748,-90.0482,4410,4493,423,polygon,TRUE,America/Chicago,63670
+Jasper-MO,1840008770,Jasper,Jasper,MO,Jasper-MO,Missouri,29097,Jasper,37.3354,-94.3023,937,937,326,polygon,TRUE,America/Chicago,64755
+Shrewsbury-MO,1840009741,Shrewsbury,Shrewsbury,MO,Shrewsbury-MO,Missouri,29189,St. Louis,38.5865,-90.3281,6149,6149,1651,polygon,TRUE,America/Chicago,63119
+Crestwood-MO,1840007442,Crestwood,Crestwood,MO,Crestwood-MO,Missouri,29189,St. Louis,38.5569,-90.3783,11905,11905,1277,polygon,TRUE,America/Chicago,63126 63123
+Westwood-MO,1840012830,Westwood,Westwood,MO,Westwood-MO,Missouri,29189,St. Louis,38.6434,-90.4333,277,277,175,polygon,TRUE,America/Chicago,63131
+Houston Lake-MO,1840007357,Houston Lake,Houston Lake,MO,Houston Lake-MO,Missouri,29165,Platte,39.1924,-94.6221,246,246,871,polygon,TRUE,America/Chicago,64151
+Argyle-MO,1840010772,Argyle,Argyle,MO,Argyle-MO,Missouri,29151,Osage,38.2955,-92.0256,161,161,154,polygon,TRUE,America/Chicago,65001
+Davisville-MO,1840032188,Davisville,Davisville,MO,Davisville-MO,Missouri,29055,Crawford,37.8078,-91.1851,,,6.7,point,FALSE,America/Chicago,65456
+Perry-MO,1840009563,Perry,Perry,MO,Perry-MO,Missouri,29173,Ralls,39.43,-91.6665,697,697,213,polygon,TRUE,America/Chicago,63462
+Raytown-MO,1840009681,Raytown,Raytown,MO,Raytown-MO,Missouri,29095,Jackson,38.9944,-94.4641,29261,29261,1137,polygon,TRUE,America/Chicago,64138 64133
+Gerald-MO,1840008621,Gerald,Gerald,MO,Gerald-MO,Missouri,29071,Franklin,38.3992,-91.3305,1312,1312,342,polygon,TRUE,America/Chicago,63037
+Bridgeton-MO,1840006129,Bridgeton,Bridgeton,MO,Bridgeton-MO,Missouri,29189,St. Louis,38.7672,-90.4277,11680,11680,307,polygon,TRUE,America/Chicago,63044 63074
+Kidder-MO,1840008442,Kidder,Kidder,MO,Kidder-MO,Missouri,29025,Caldwell,39.7822,-94.1023,310,310,297,polygon,TRUE,America/Chicago,64649
+Gainesville-MO,1840008807,Gainesville,Gainesville,MO,Gainesville-MO,Missouri,29153,Ozark,36.6063,-92.4245,744,744,100,polygon,TRUE,America/Chicago,65655
+Holcomb-MO,1840007666,Holcomb,Holcomb,MO,Holcomb-MO,Missouri,29069,Dunklin,36.4022,-90.0249,599,599,396,polygon,TRUE,America/Chicago,63852
+Fremont Hills-MO,1840008788,Fremont Hills,Fremont Hills,MO,Fremont Hills-MO,Missouri,29043,Christian,37.0646,-93.253,893,893,626,polygon,TRUE,America/Chicago,65714
+Triplett-MO,1840010609,Triplett,Triplett,MO,Triplett-MO,Missouri,29041,Chariton,39.4983,-93.1939,39,39,65,polygon,TRUE,America/Chicago,65286
+Bois D'Arc-MO,1840032228,Bois D'Arc,Bois D'Arc,MO,Bois D'Arc-MO,Missouri,29077,Greene,37.2564,-93.5077,,,82.4,point,FALSE,America/Chicago,65612
+Breckenridge-MO,1840005589,Breckenridge,Breckenridge,MO,Breckenridge-MO,Missouri,29025,Caldwell,39.7614,-93.8046,357,357,250,polygon,TRUE,America/Chicago,64625
+Oran-MO,1840009922,Oran,Oran,MO,Oran-MO,Missouri,29201,Scott,37.0855,-89.6534,1266,1266,464,polygon,TRUE,America/Chicago,63771
+Noel-MO,1840008808,Noel,Noel,MO,Noel-MO,Missouri,29119,McDonald,36.5433,-94.4888,1816,1816,350,polygon,TRUE,America/Chicago,64854
+Riverview-MO,1840012821,Riverview,Riverview,MO,Riverview-MO,Missouri,29189,St. Louis,38.7443,-90.2108,2803,2803,1310,polygon,TRUE,America/Chicago,63137
+Hardin-MO,1840007361,Hardin,Hardin,MO,Hardin-MO,Missouri,29177,Ray,39.2677,-93.8314,539,539,323,polygon,TRUE,America/Chicago,64035
+Blythedale-MO,1840012138,Blythedale,Blythedale,MO,Blythedale-MO,Missouri,29081,Harrison,40.4752,-93.928,185,185,232,polygon,TRUE,America/Chicago,64426
+Crocker-MO,1840007556,Crocker,Crocker,MO,Crocker-MO,Missouri,29169,Pulaski,37.9479,-92.2675,1053,1053,327,polygon,TRUE,America/Chicago,65452
+Chillicothe-MO,1840007302,Chillicothe,Chillicothe,MO,Chillicothe-MO,Missouri,29117,Livingston,39.7947,-93.5498,9833,9714,534,polygon,TRUE,America/Chicago,64601
+Portageville-MO,1840009942,Portageville,Portageville,MO,Portageville-MO,Missouri,29143,New Madrid,36.4295,-89.6994,3034,3109,591,polygon,TRUE,America/Chicago,63873
+Eugene-MO,1840032049,Eugene,Eugene,MO,Eugene-MO,Missouri,29051,Cole,38.3528,-92.4038,,,232.7,point,FALSE,America/Chicago,65032
+Holden-MO,1840007434,Holden,Holden,MO,Holden-MO,Missouri,29101,Johnson,38.7136,-93.9895,2242,2242,359,polygon,TRUE,America/Chicago,64040
+Rocky Comfort-MO,1840032099,Rocky Comfort,Rocky Comfort,MO,Rocky Comfort-MO,Missouri,29119,McDonald,36.7465,-94.0905,,,111.8,point,FALSE,America/Chicago,64861
+Clever-MO,1840007644,Clever,Clever,MO,Clever-MO,Missouri,29043,Christian,37.0325,-93.4738,2631,2631,803,polygon,TRUE,America/Chicago,65631
+Benton City-MO,1840012698,Benton City,Benton City,MO,Benton City-MO,Missouri,29007,Audrain,39.1346,-91.7649,105,105,390,polygon,TRUE,America/Chicago,65232
+Brentwood-MO,1840006128,Brentwood,Brentwood,MO,Brentwood-MO,Missouri,29189,St. Louis,38.6194,-90.3476,8000,8000,1572,polygon,TRUE,America/Chicago,63144
+Passaic-MO,1840009813,Passaic,Passaic,MO,Passaic-MO,Missouri,29013,Bates,38.322,-94.3486,33,33,179,polygon,TRUE,America/Chicago,64730
+Coney Island-MO,1840013052,Coney Island,Coney Island,MO,Coney Island-MO,Missouri,29209,Stone,36.593,-93.3972,70,70,422,polygon,TRUE,America/Chicago,65737
+Carl Junction-MO,1840007627,Carl Junction,Carl Junction,MO,Carl Junction-MO,Missouri,29097,Jasper,37.1669,-94.5468,7772,7772,546,polygon,TRUE,America/Chicago,64834
+Guilford-MO,1840010417,Guilford,Guilford,MO,Guilford-MO,Missouri,29147,Nodaway,40.1686,-94.7354,80,80,357,polygon,TRUE,America/Chicago,64457
+Troy-MO,1840010689,Troy,Troy,MO,Troy-MO,Missouri,29113,Lincoln,38.971,-90.9717,14889,11862,596,polygon,TRUE,America/Chicago,63379
+La Grange-MO,1840008385,La Grange,La Grange,MO,La Grange-MO,Missouri,29111,Lewis,40.0471,-91.5024,929,929,230,polygon,TRUE,America/Chicago,63448
+Horine-MO,1840006234,Horine,Horine,MO,Horine-MO,Missouri,29099,Jefferson,38.2673,-90.432,,,172.5,polygon,FALSE,America/Chicago,63070
+Black-MO,1840032180,Black,Black,MO,Black-MO,Missouri,29179,Reynolds,37.5314,-90.9332,,,7.2,point,FALSE,America/Chicago,63625
+Roscoe-MO,1840012943,Roscoe,Roscoe,MO,Roscoe-MO,Missouri,29185,St. Clair,37.9773,-93.8138,119,119,30,polygon,TRUE,America/Chicago,64776 64781
+Edmundson-MO,1840008580,Edmundson,Edmundson,MO,Edmundson-MO,Missouri,29189,St. Louis,38.7351,-90.3656,832,832,1184,polygon,TRUE,America/Chicago,63134
+Drexel-MO,1840008608,Drexel,Drexel,MO,Drexel-MO,Missouri,29037,Cass,38.5005,-94.6025,959,959,135,polygon,TRUE,America/Chicago,64742
+Pocahontas-MO,1840010859,Pocahontas,Pocahontas,MO,Pocahontas-MO,Missouri,29031,Cape Girardeau,37.5016,-89.6399,117,117,438,polygon,TRUE,America/Chicago,63755 63779
+Coffey-MO,1840007266,Coffey,Coffey,MO,Coffey-MO,Missouri,29061,Daviess,40.1055,-94.0066,162,162,300,polygon,TRUE,America/Chicago,64636
+Faucett-MO,1840032051,Faucett,Faucett,MO,Faucett-MO,Missouri,29021,Buchanan,39.6,-94.7975,,,45.3,point,FALSE,America/Chicago,64448
+Arcadia-MO,1840007584,Arcadia,Arcadia,MO,Arcadia-MO,Missouri,29093,Iron,37.5864,-90.6293,565,565,263,polygon,TRUE,America/Chicago,63621 63650
+Whiteside-MO,1840012732,Whiteside,Whiteside,MO,Whiteside-MO,Missouri,29113,Lincoln,39.1839,-91.0166,78,78,321,polygon,TRUE,America/Chicago,63377 63387
+Spokane-MO,1840006501,Spokane,Spokane,MO,Spokane-MO,Missouri,29043,Christian,36.8632,-93.3057,,,66.5,polygon,FALSE,America/Chicago,65754
+Crosstown-MO,1840032038,Crosstown,Crosstown,MO,Crosstown-MO,Missouri,29157,Perry,37.7464,-89.7279,,,9.3,point,FALSE,America/Chicago,63775
+Umber View Heights-MO,1840012981,Umber View Heights,Umber View Heights,MO,Umber View Heights-MO,Missouri,29039,Cedar,37.6233,-93.8036,49,49,304,polygon,TRUE,America/Chicago,65785
+Baker-MO,1840013039,Baker,Baker,MO,Baker-MO,Missouri,29207,Stoddard,36.7734,-89.7616,,,3.4,polygon,TRUE,America/Chicago,63846
+Morrisville-MO,1840009875,Morrisville,Morrisville,MO,Morrisville-MO,Missouri,29167,Polk,37.4766,-93.4293,388,388,233,polygon,TRUE,America/Chicago,65710
+Neosho-MO,1840008793,Neosho,Neosho,MO,Neosho-MO,Missouri,29145,Newton,36.844,-94.3756,12305,12181,298,polygon,TRUE,America/Chicago,64850
+Vanzant-MO,1840032221,Vanzant,Vanzant,MO,Vanzant-MO,Missouri,29067,Douglas,36.9698,-92.3029,,,11.1,point,FALSE,America/Chicago,65768
+Morehouse-MO,1840008804,Morehouse,Morehouse,MO,Morehouse-MO,Missouri,29143,New Madrid,36.8463,-89.6908,909,909,436,polygon,TRUE,America/Chicago,63868 63801
+Mineral Point-MO,1840009847,Mineral Point,Mineral Point,MO,Mineral Point-MO,Missouri,29221,Washington,37.9456,-90.7246,349,349,563,polygon,TRUE,America/Chicago,63660
+Lock Springs-MO,1840012411,Lock Springs,Lock Springs,MO,Lock Springs-MO,Missouri,29061,Daviess,39.8489,-93.7763,56,56,174,polygon,TRUE,America/Chicago,64648 64654
+Lesterville-MO,1840032074,Lesterville,Lesterville,MO,Lesterville-MO,Missouri,29179,Reynolds,37.4539,-90.8435,,,111.2,point,FALSE,America/Chicago,63654
+Vanduser-MO,1840013038,Vanduser,Vanduser,MO,Vanduser-MO,Missouri,29201,Scott,36.9911,-89.6865,272,272,817,polygon,TRUE,America/Chicago,63784
+White Oak-MO,1840032113,White Oak,White Oak,MO,White Oak-MO,Missouri,29069,Dunklin,36.3303,-90.0279,,,97.3,point,FALSE,America/Chicago,63880
+Purdin-MO,1840009488,Purdin,Purdin,MO,Purdin-MO,Missouri,29115,Linn,39.9508,-93.1663,183,183,230,polygon,TRUE,America/Chicago,64674
+Seneca-MO,1840009927,Seneca,Seneca,MO,Seneca-MO,Missouri,29145,Newton,36.8447,-94.6093,2407,2407,363,polygon,TRUE,America/Chicago,64865
+Macon-MO,1840009486,Macon,Macon,MO,Macon-MO,Missouri,29121,Macon,39.7424,-92.4712,4928,5377,346,polygon,TRUE,America/Chicago,63552
+Galt-MO,1840008378,Galt,Galt,MO,Galt-MO,Missouri,29079,Grundy,40.1272,-93.388,252,252,340,polygon,TRUE,America/Chicago,64641
+Grovespring-MO,1840032061,Grovespring,Grovespring,MO,Grovespring-MO,Missouri,29229,Wright,37.3998,-92.6096,,,70.7,point,FALSE,America/Chicago,65662
+Madison-MO,1840009564,Madison,Madison,MO,Madison-MO,Missouri,29137,Monroe,39.4735,-92.2117,535,535,460,polygon,TRUE,America/Chicago,65263
+East Prairie-MO,1840008790,East Prairie,East Prairie,MO,East Prairie-MO,Missouri,29133,Mississippi,36.779,-89.3842,3686,3106,927,polygon,TRUE,America/Chicago,63845
+Duquesne-MO,1840013016,Duquesne,Duquesne,MO,Duquesne-MO,Missouri,29097,Jasper,37.0711,-94.4573,1731,1731,361,polygon,TRUE,America/Chicago,64804 64801
+Grassy-MO,1840032060,Grassy,Grassy,MO,Grassy-MO,Missouri,29017,Bollinger,37.2609,-90.1237,,,11,point,FALSE,America/Chicago,63751
+University City-MO,1840010739,University City,University City,MO,University City-MO,Missouri,29189,St. Louis,38.6657,-90.3315,34706,34706,2271,polygon,TRUE,America/Chicago,63132 63130
+Overland-MO,1840009744,Overland,Overland,MO,Overland-MO,Missouri,29189,St. Louis,38.6967,-90.3689,15802,15802,1398,polygon,TRUE,America/Chicago,63114 63132
+Essex-MO,1840008785,Essex,Essex,MO,Essex-MO,Missouri,29207,Stoddard,36.8119,-89.8625,456,456,609,polygon,TRUE,America/Chicago,63846
+Chula-MO,1840007303,Chula,Chula,MO,Chula-MO,Missouri,29117,Livingston,39.922,-93.4776,202,202,438,polygon,TRUE,America/Chicago,64635
+Sturgeon-MO,1840009632,Sturgeon,Sturgeon,MO,Sturgeon-MO,Missouri,29019,Boone,39.2344,-92.2825,911,911,450,polygon,TRUE,America/Chicago,65284
+Cainsville-MO,1840007229,Cainsville,Cainsville,MO,Cainsville-MO,Missouri,29081,Harrison,40.4398,-93.7747,278,278,78,polygon,TRUE,America/Chicago,64632
+West Line-MO,1840012842,West Line,West Line,MO,West Line-MO,Missouri,29037,Cass,38.6358,-94.5869,103,103,87,polygon,TRUE,America/Chicago,64734
+Smithville-MO,1840009605,Smithville,Smithville,MO,Smithville-MO,Missouri,29047,Clay,39.3918,-94.575,9455,9455,235,polygon,TRUE,America/Chicago,64089
+Wellston-MO,1840010745,Wellston,Wellston,MO,Wellston-MO,Missouri,29189,St. Louis,38.6751,-90.2941,2293,2293,961,polygon,TRUE,America/Chicago,63133
+Chain-O-Lakes-MO,1840010899,Chain-O-Lakes,Chain-O-Lakes,MO,Chain-O-Lakes-MO,Missouri,29009,Barry,36.5341,-93.7244,131,131,604,polygon,TRUE,America/Chicago,65641
+Collins-MO,1840012942,Collins,Collins,MO,Collins-MO,Missouri,29185,St. Clair,37.891,-93.6215,153,153,232,polygon,TRUE,America/Chicago,64738
+Lonedell-MO,1840032145,Lonedell,Lonedell,MO,Lonedell-MO,Missouri,29071,Franklin,38.3081,-90.8276,,,47.6,point,FALSE,America/Chicago,63060
+Malta Bend-MO,1840009615,Malta Bend,Malta Bend,MO,Malta Bend-MO,Missouri,29195,Saline,39.194,-93.3636,248,248,378,polygon,TRUE,America/Chicago,65339
+Hughesville-MO,1840012809,Hughesville,Hughesville,MO,Hughesville-MO,Missouri,29159,Pettis,38.8369,-93.2952,184,184,613,polygon,TRUE,America/Chicago,65334
+Black Jack-MO,1840007452,Black Jack,Black Jack,MO,Black Jack-MO,Missouri,29189,St. Louis,38.7994,-90.2639,6940,6940,1020,polygon,TRUE,America/Chicago,63033
+Montgomery City-MO,1840008553,Montgomery City,Montgomery City,MO,Montgomery City-MO,Missouri,29139,Montgomery,38.9751,-91.5031,2516,2712,330,polygon,TRUE,America/Chicago,63361
+Doniphan-MO,1840007658,Doniphan,Doniphan,MO,Doniphan-MO,Missouri,29181,Ripley,36.6234,-90.8219,1991,1991,558,polygon,TRUE,America/Chicago,63935
+Cobalt Village-MO,1840032227,Cobalt Village,Cobalt Village,MO,Cobalt Village-MO,Missouri,29123,Madison,37.5454,-90.2876,232,232,602,polygon,TRUE,America/Chicago,63645
+Stewartsville-MO,1840009489,Stewartsville,Stewartsville,MO,Stewartsville-MO,Missouri,29063,DeKalb,39.7551,-94.4987,731,731,285,polygon,TRUE,America/Chicago,64490
+Roselle-MO,1840032212,Roselle,Roselle,MO,Roselle-MO,Missouri,29123,Madison,37.5995,-90.526,,,8.2,point,FALSE,America/Chicago,63645
+Carthage-MO,1840007629,Carthage,Carthage,MO,Carthage-MO,Missouri,29097,Jasper,37.1503,-94.3225,15421,14309,474,polygon,TRUE,America/Chicago,64836
+Urbana-MO,1840010851,Urbana,Urbana,MO,Urbana-MO,Missouri,29059,Dallas,37.8435,-93.1676,411,411,164,polygon,TRUE,America/Chicago,65767
+Elmer-MO,1840008398,Elmer,Elmer,MO,Elmer-MO,Missouri,29121,Macon,39.9573,-92.6499,79,79,120,polygon,TRUE,America/Chicago,63538
+Greenville-MO,1840008776,Greenville,Greenville,MO,Greenville-MO,Missouri,29223,Wayne,37.1284,-90.4472,482,482,275,polygon,TRUE,America/Chicago,63944
+Cooter-MO,1840007668,Cooter,Cooter,MO,Cooter-MO,Missouri,29155,Pemiscot,36.0467,-89.8092,432,432,564,polygon,TRUE,America/Chicago,63839
+Moscow Mills-MO,1840008542,Moscow Mills,Moscow Mills,MO,Moscow Mills-MO,Missouri,29113,Lincoln,38.9398,-90.9253,2600,2600,321,polygon,TRUE,America/Chicago,63362
+Gobler-MO,1840032058,Gobler,Gobler,MO,Gobler-MO,Missouri,29155,Pemiscot,36.1562,-89.9593,,,12.1,point,FALSE,America/Chicago,63849
+High Hill-MO,1840007407,High Hill,High Hill,MO,High Hill-MO,Missouri,29139,Montgomery,38.8753,-91.3776,184,184,154,polygon,TRUE,America/Chicago,63350
+Green Park-MO,1840008589,Green Park,Green Park,MO,Green Park-MO,Missouri,29189,St. Louis,38.5244,-90.3365,2627,2627,745,polygon,TRUE,America/Chicago,63123
+Vichy-MO,1840032109,Vichy,Vichy,MO,Vichy-MO,Missouri,29125,Maries,38.1114,-91.7604,,,23.1,point,FALSE,America/Chicago,65580
+McFall-MO,1840008362,McFall,McFall,MO,McFall-MO,Missouri,29075,Gentry,40.1116,-94.2223,92,92,115,polygon,TRUE,America/Chicago,64657
+Desloge-MO,1840007552,Desloge,Desloge,MO,Desloge-MO,Missouri,29187,St. Francois,37.875,-90.5192,4932,4932,655,polygon,TRUE,America/Chicago,63628 63601
+Thomasville-MO,1840025747,Thomasville,Thomasville,MO,Thomasville-MO,Missouri,29149,Oregon,36.7912,-91.5342,,,67.6,polygon,FALSE,America/Chicago,65438
+Holts Summit-MO,1840007417,Holts Summit,Holts Summit,MO,Holts Summit-MO,Missouri,29027,Callaway,38.6452,-92.1149,3704,3704,415,polygon,TRUE,America/Chicago,65043
+Winona-MO,1840010871,Winona,Winona,MO,Winona-MO,Missouri,29203,Shannon,37.0042,-91.327,1296,1296,131,polygon,TRUE,America/Chicago,65588
+Raymondville-MO,1840010862,Raymondville,Raymondville,MO,Raymondville-MO,Missouri,29215,Texas,37.3398,-91.8364,364,364,47,polygon,TRUE,America/Chicago,65555
+Hermitage-MO,1840007554,Hermitage,Hermitage,MO,Hermitage-MO,Missouri,29085,Hickory,37.9445,-93.3265,461,461,141,polygon,TRUE,America/Chicago,65668
+Drynob-MO,1840032192,Drynob,Drynob,MO,Drynob-MO,Missouri,29105,Laclede,37.6417,-92.4504,,,1.7,point,FALSE,America/Chicago,65536
+Chaffee-MO,1840007637,Chaffee,Chaffee,MO,Chaffee-MO,Missouri,29201,Scott,37.1812,-89.6615,2966,2948,634,polygon,TRUE,America/Chicago,63740
+Kahoka-MO,1840008343,Kahoka,Kahoka,MO,Kahoka-MO,Missouri,29045,Clark,40.4236,-91.7187,2007,2007,495,polygon,TRUE,America/Chicago,63445
+Silex-MO,1840012730,Silex,Silex,MO,Silex-MO,Missouri,29113,Lincoln,39.1252,-91.0577,285,285,569,polygon,TRUE,America/Chicago,63377
+Oakland-MO,1840008594,Oakland,Oakland,MO,Oakland-MO,Missouri,29189,St. Louis,38.5769,-90.3849,1376,1376,873,polygon,TRUE,America/Chicago,63119 63122
+Billings-MO,1840007645,Billings,Billings,MO,Billings-MO,Missouri,29043,Christian,37.0626,-93.5539,1092,1092,472,polygon,TRUE,America/Chicago,65610
+Ozark-MO,1840009926,Ozark,Ozark,MO,Ozark-MO,Missouri,29043,Christian,37.0362,-93.2155,19429,19429,670,polygon,TRUE,America/Chicago,65721
+Bernie-MO,1840007641,Bernie,Bernie,MO,Bernie-MO,Missouri,29207,Stoddard,36.6717,-89.9707,1933,1933,570,polygon,TRUE,America/Chicago,63822
+Mehlville-MO,1840006120,Mehlville,Mehlville,MO,Mehlville-MO,Missouri,29189,St. Louis,38.5019,-90.315,,,1868.3,polygon,FALSE,America/Chicago,63129 63125
+Carytown-MO,1840007630,Carytown,Carytown,MO,Carytown-MO,Missouri,29097,Jasper,37.2616,-94.3344,275,275,7,polygon,TRUE,America/Chicago,64836
+Northview-MO,1840032157,Northview,Northview,MO,Northview-MO,Missouri,29225,Webster,37.2867,-92.9966,,,98,point,FALSE,America/Chicago,65706
+Norwood-MO,1840008745,Norwood,Norwood,MO,Norwood-MO,Missouri,29229,Wright,37.1072,-92.4189,642,642,154,polygon,TRUE,America/Chicago,65717
+Maryville-MO,1840008349,Maryville,Maryville,MO,Maryville-MO,Missouri,29147,Nodaway,40.3438,-94.8706,13081,11846,782,polygon,TRUE,America/Chicago,64468
+Sundown-MO,1840025752,Sundown,Sundown,MO,Sundown-MO,Missouri,29153,Ozark,36.566,-92.638,,,14.6,polygon,FALSE,America/Chicago,65761
+White Church-MO,1840032112,White Church,White Church,MO,White Church-MO,Missouri,29091,Howell,36.8503,-91.7863,,,8.4,point,FALSE,America/Chicago,65789
+Green Ridge-MO,1840008574,Green Ridge,Green Ridge,MO,Green Ridge-MO,Missouri,29159,Pettis,38.6211,-93.4101,498,498,448,polygon,TRUE,America/Chicago,65332
+Claycomo-MO,1840010656,Claycomo,Claycomo,MO,Claycomo-MO,Missouri,29047,Clay,39.1989,-94.4794,1471,1471,222,polygon,TRUE,America/Chicago,64119 64068
+Osceola-MO,1840009843,Osceola,Osceola,MO,Osceola-MO,Missouri,29185,St. Clair,38.0458,-93.6984,900,900,380,polygon,TRUE,America/Chicago,64776
+Burlington Junction-MO,1840007225,Burlington Junction,Burlington Junction,MO,Burlington Junction-MO,Missouri,29147,Nodaway,40.447,-95.0679,501,501,174,polygon,TRUE,America/Chicago,64428
+Novinger-MO,1840008371,Novinger,Novinger,MO,Novinger-MO,Missouri,29001,Adair,40.2341,-92.7066,437,437,214,polygon,TRUE,America/Chicago,63501 63559
+New Haven-MO,1840008622,New Haven,New Haven,MO,New Haven-MO,Missouri,29071,Franklin,38.6048,-91.2178,2090,2090,251,polygon,TRUE,America/Chicago,63068
+New Hampton-MO,1840008350,New Hampton,New Hampton,MO,New Hampton-MO,Missouri,29081,Harrison,40.2652,-94.1952,279,279,196,polygon,TRUE,America/Chicago,64471
+Franklin-MO,1840008518,Franklin,Franklin,MO,Franklin-MO,Missouri,29089,Howard,39.0112,-92.755,95,95,158,polygon,TRUE,America/Chicago,65250 65274
+Irondale-MO,1840008674,Irondale,Irondale,MO,Irondale-MO,Missouri,29221,Washington,37.8356,-90.6718,441,441,319,polygon,TRUE,America/Chicago,63648
+Adrian-MO,1840007511,Adrian,Adrian,MO,Adrian-MO,Missouri,29013,Bates,38.396,-94.3498,1618,1618,298,polygon,TRUE,America/Chicago,64720
+Walker-MO,1840010842,Walker,Walker,MO,Walker-MO,Missouri,29217,Vernon,37.8989,-94.2307,267,267,331,polygon,TRUE,America/Chicago,64790
+Duenweg-MO,1840008768,Duenweg,Duenweg,MO,Duenweg-MO,Missouri,29097,Jasper,37.0833,-94.4152,1301,1301,211,polygon,TRUE,America/Chicago,64801 64841
+Stark City-MO,1840010894,Stark City,Stark City,MO,Stark City-MO,Missouri,29145,Newton,36.8626,-94.1864,140,140,172,polygon,TRUE,America/Chicago,64866
+Bogard-MO,1840007334,Bogard,Bogard,MO,Bogard-MO,Missouri,29033,Carroll,39.458,-93.5239,158,158,111,polygon,TRUE,America/Chicago,64622
+Mattese-MO,1840032241,Mattese,Mattese,MO,Mattese-MO,Missouri,29189,St. Louis,38.4856,-90.3487,,,2011.5,point,FALSE,America/Chicago,63129
+Golden-MO,1840025745,Golden,Golden,MO,Golden-MO,Missouri,29009,Barry,36.5266,-93.6637,,,17.1,polygon,FALSE,America/Chicago,65658
+Maywood-MO,1840032156,Maywood,Maywood,MO,Maywood-MO,Missouri,29111,Lewis,39.9542,-91.6032,,,74.3,point,FALSE,America/Chicago,63454
+Chadwick-MO,1840032224,Chadwick,Chadwick,MO,Chadwick-MO,Missouri,29043,Christian,36.9301,-93.0568,,,24.4,point,FALSE,America/Chicago,65629
+Stockton-MO,1840009873,Stockton,Stockton,MO,Stockton-MO,Missouri,29039,Cedar,37.6971,-93.796,1879,1879,343,polygon,TRUE,America/Chicago,65785
+Coal-MO,1840032126,Coal,Coal,MO,Coal-MO,Missouri,29083,Henry,38.3259,-93.6152,,,11.4,point,FALSE,America/Chicago,64735
+Fredericktown-MO,1840008730,Fredericktown,Fredericktown,MO,Fredericktown-MO,Missouri,29123,Madison,37.5643,-90.2986,4326,4089,365,polygon,TRUE,America/Chicago,63645
+Memphis-MO,1840008344,Memphis,Memphis,MO,Memphis-MO,Missouri,29199,Scotland,40.4614,-92.1704,1854,1854,459,polygon,TRUE,America/Chicago,63555
+Preston-MO,1840010838,Preston,Preston,MO,Preston-MO,Missouri,29085,Hickory,37.941,-93.2127,219,219,112,polygon,TRUE,America/Chicago,65732
+Henrietta-MO,1840007362,Henrietta,Henrietta,MO,Henrietta-MO,Missouri,29177,Ray,39.2371,-93.9386,360,360,238,polygon,TRUE,America/Chicago,64085 64036
+Marston-MO,1840008801,Marston,Marston,MO,Marston-MO,Missouri,29143,New Madrid,36.5177,-89.6062,467,467,163,polygon,TRUE,America/Chicago,63873 63866
+Jefferson City-MO,1840008615,Jefferson City,Jefferson City,MO,Jefferson City-MO,Missouri,29051,Cole,38.5677,-92.1757,58439,43013,460,polygon,TRUE,America/Chicago,65101 65109 65102 65103 65104 65105 65106 65107 65108 65110 65111
+Brumley-MO,1840009815,Brumley,Brumley,MO,Brumley-MO,Missouri,29131,Miller,38.088,-92.4845,93,93,65,polygon,TRUE,America/Chicago,65017
+Parnell-MO,1840009418,Parnell,Parnell,MO,Parnell-MO,Missouri,29147,Nodaway,40.4387,-94.6219,181,181,242,polygon,TRUE,America/Chicago,64475
+Bardley-MO,1840032177,Bardley,Bardley,MO,Bardley-MO,Missouri,29181,Ripley,36.6942,-91.1218,,,4.8,point,FALSE,America/Chicago,63935
+Bigelow-MO,1840012351,Bigelow,Bigelow,MO,Bigelow-MO,Missouri,29087,Holt,40.1098,-95.2894,25,25,100,polygon,TRUE,America/Chicago,64437
+Greendale-MO,1840008590,Greendale,Greendale,MO,Greendale-MO,Missouri,29189,St. Louis,38.6938,-90.3124,650,650,1246,polygon,TRUE,America/Chicago,63121
+Charity-MO,1840032032,Charity,Charity,MO,Charity-MO,Missouri,29059,Dallas,37.5153,-93.0163,,,25.5,point,FALSE,America/Chicago,65644
+Florence-MO,1840032128,Florence,Florence,MO,Florence-MO,Missouri,29141,Morgan,38.5889,-92.9791,,,44.9,point,FALSE,America/Chicago,65329
+Ava-MO,1840007647,Ava,Ava,MO,Ava-MO,Missouri,29067,Douglas,36.9546,-92.6661,2793,2927,342,polygon,TRUE,America/Chicago,65608
+Lancaster-MO,1840008346,Lancaster,Lancaster,MO,Lancaster-MO,Missouri,29197,Schuyler,40.5238,-92.5314,720,720,187,polygon,TRUE,America/Chicago,63548
+Union Star-MO,1840010540,Union Star,Union Star,MO,Union Star-MO,Missouri,29063,DeKalb,39.9794,-94.5987,417,417,614,polygon,TRUE,America/Chicago,64494
+Diggins-MO,1840013015,Diggins,Diggins,MO,Diggins-MO,Missouri,29225,Webster,37.1739,-92.8505,312,312,124,polygon,TRUE,America/Chicago,65746 65636
+Schell City-MO,1840009859,Schell City,Schell City,MO,Schell City-MO,Missouri,29217,Vernon,38.0192,-94.1167,246,246,152,polygon,TRUE,America/Chicago,64783
+Tina-MO,1840012599,Tina,Tina,MO,Tina-MO,Missouri,29033,Carroll,39.5379,-93.4413,151,151,181,polygon,TRUE,America/Chicago,64682
+Arbyrd-MO,1840007665,Arbyrd,Arbyrd,MO,Arbyrd-MO,Missouri,29069,Dunklin,36.0535,-90.2399,479,479,184,polygon,TRUE,America/Chicago,63821
+Oakwood-MO,1840012679,Oakwood,Oakwood,MO,Oakwood-MO,Missouri,29047,Clay,39.2005,-94.5707,196,196,387,polygon,TRUE,America/Chicago,64118
+Hurley-MO,1840007653,Hurley,Hurley,MO,Hurley-MO,Missouri,29209,Stone,36.9306,-93.4996,169,169,146,polygon,TRUE,America/Chicago,65633 65675
+Dellwood-MO,1840007455,Dellwood,Dellwood,MO,Dellwood-MO,Missouri,29189,St. Louis,38.7563,-90.2767,5001,5001,1869,polygon,TRUE,America/Chicago,63136 63135
+Unity Village-MO,1840012728,Unity Village,Unity Village,MO,Unity Village-MO,Missouri,29095,Jackson,38.9525,-94.3996,80,80,21,polygon,TRUE,America/Chicago,64086 64065
+Prathersville-MO,1840012675,Prathersville,Prathersville,MO,Prathersville-MO,Missouri,29047,Clay,39.3153,-94.2738,128,128,21,polygon,TRUE,America/Chicago,64024
+Maryland Heights-MO,1840008591,Maryland Heights,Maryland Heights,MO,Maryland Heights-MO,Missouri,29189,St. Louis,38.7188,-90.4749,27137,27137,478,polygon,TRUE,America/Chicago,63043 63146
+Belleview-MO,1840032159,Belleview,Belleview,MO,Belleview-MO,Missouri,29093,Iron,37.6875,-90.7404,,,107.5,point,FALSE,America/Chicago,63623
+Baldwin Park-MO,1840012840,Baldwin Park,Baldwin Park,MO,Baldwin Park-MO,Missouri,29037,Cass,38.7939,-94.2469,93,93,473,polygon,TRUE,America/Chicago,64080
+Altamont-MO,1840010526,Altamont,Altamont,MO,Altamont-MO,Missouri,29061,Daviess,39.8886,-94.0866,200,200,301,polygon,TRUE,America/Chicago,64640 64620
+Lithium-MO,1840012979,Lithium,Lithium,MO,Lithium-MO,Missouri,29157,Perry,37.833,-89.8851,,,25,polygon,TRUE,America/Chicago,63775
+Hillsboro-MO,1840007508,Hillsboro,Hillsboro,MO,Hillsboro-MO,Missouri,29099,Jefferson,38.233,-90.567,2968,3131,314,polygon,TRUE,America/Chicago,63050
+Versailles-MO,1840010776,Versailles,Versailles,MO,Versailles-MO,Missouri,29141,Morgan,38.4333,-92.8453,2456,2456,407,polygon,TRUE,America/Chicago,65084
+Manes-MO,1840032225,Manes,Manes,MO,Manes-MO,Missouri,29229,Wright,37.38,-92.3668,,,20.3,point,FALSE,America/Chicago,65711
+Bendavis-MO,1840032170,Bendavis,Bendavis,MO,Bendavis-MO,Missouri,29215,Texas,37.2984,-92.2074,,,4.2,point,FALSE,America/Chicago,65711
+Weston-MO,1840010643,Weston,Weston,MO,Weston-MO,Missouri,29165,Platte,39.403,-94.886,1753,1753,202,polygon,TRUE,America/Chicago,64098
+Wardell-MO,1840010904,Wardell,Wardell,MO,Wardell-MO,Missouri,29155,Pemiscot,36.3538,-89.817,391,391,534,polygon,TRUE,America/Chicago,63879
+Linneus-MO,1840009487,Linneus,Linneus,MO,Linneus-MO,Missouri,29115,Linn,39.8767,-93.1868,267,267,96,polygon,TRUE,America/Chicago,64653
+Saint Charles-MO,1840009719,Saint Charles,Saint Charles,MO,Saint Charles-MO,Missouri,29183,St. Charles,38.7957,-90.5155,69293,69293,1125,polygon,TRUE,America/Chicago,63301 63303 63302
+Piedmont-MO,1840009916,Piedmont,Piedmont,MO,Piedmont-MO,Missouri,29223,Wayne,37.1491,-90.697,1938,1938,350,polygon,TRUE,America/Chicago,63957
+Wright City-MO,1840010715,Wright City,Wright City,MO,Wright City-MO,Missouri,29219,Warren,38.8341,-91.0399,3312,3517,226,polygon,TRUE,America/Chicago,63390
+Appleton City-MO,1840007530,Appleton City,Appleton City,MO,Appleton City-MO,Missouri,29185,St. Clair,38.1906,-94.031,1074,1074,361,polygon,TRUE,America/Chicago,64724
+River Bend-MO,1840012726,River Bend,River Bend,MO,River Bend-MO,Missouri,29095,Jackson,39.1841,-94.3941,10,10,2,polygon,TRUE,America/Chicago,64058
+Avalon-MO,1840032023,Avalon,Avalon,MO,Avalon-MO,Missouri,29117,Livingston,39.6592,-93.4416,,,21,point,FALSE,America/Chicago,64643
+Watson-MO,1840012136,Watson,Watson,MO,Watson-MO,Missouri,29005,Atchison,40.4798,-95.6232,94,94,334,polygon,TRUE,America/Chicago,64496
+Wellsville-MO,1840010699,Wellsville,Wellsville,MO,Wellsville-MO,Missouri,29139,Montgomery,39.0734,-91.5692,1163,1163,292,polygon,TRUE,America/Chicago,63384
+Platte City-MO,1840009591,Platte City,Platte City,MO,Platte City-MO,Missouri,29165,Platte,39.3584,-94.7676,9304,4872,501,polygon,TRUE,America/Chicago,64079
+Wardsville-MO,1840012859,Wardsville,Wardsville,MO,Wardsville-MO,Missouri,29051,Cole,38.49,-92.1791,1550,1550,172,polygon,TRUE,America/Chicago,65101
+Dennis Acres-MO,1840013045,Dennis Acres,Dennis Acres,MO,Dennis Acres-MO,Missouri,29145,Newton,37.0464,-94.5043,77,77,622,polygon,TRUE,America/Chicago,64804
+Neelyville-MO,1840008799,Neelyville,Neelyville,MO,Neelyville-MO,Missouri,29023,Butler,36.5562,-90.5139,468,468,157,polygon,TRUE,America/Chicago,63954
+Tracy-MO,1840010641,Tracy,Tracy,MO,Tracy-MO,Missouri,29165,Platte,39.3799,-94.792,223,223,209,polygon,TRUE,America/Chicago,64079
+Hayward-MO,1840025773,Hayward,Hayward,MO,Hayward-MO,Missouri,29155,Pemiscot,36.3959,-89.6669,,,100.9,polygon,FALSE,America/Chicago,63873
+Winigan-MO,1840025553,Winigan,Winigan,MO,Winigan-MO,Missouri,29211,Sullivan,40.0468,-92.9017,,,46.7,polygon,FALSE,America/Chicago,63566
+Elsey-MO,1840032048,Elsey,Elsey,MO,Elsey-MO,Missouri,29209,Stone,36.8542,-93.5407,,,46.4,point,FALSE,America/Chicago,65656
+Iron Mountain-MO,1840032236,Iron Mountain,Iron Mountain,MO,Iron Mountain-MO,Missouri,29187,St. Francois,37.6953,-90.6404,,,35.7,point,FALSE,America/Chicago,63650
+Twin Oaks-MO,1840012827,Twin Oaks,Twin Oaks,MO,Twin Oaks-MO,Missouri,29189,St. Louis,38.5656,-90.501,392,392,567,polygon,TRUE,America/Chicago,63021 63088
+Three Creeks Village-MO,1840032258,Three Creeks Village,Three Creeks Village,MO,Three Creeks Village-MO,Missouri,29219,Warren,38.571,-90.9967,,,0,point,TRUE,America/Chicago,63357
+Advance-MO,1840007639,Advance,Advance,MO,Advance-MO,Missouri,29207,Stoddard,37.1038,-89.9119,1365,1365,471,polygon,TRUE,America/Chicago,63730
+Shell Knob-MO,1840006523,Shell Knob,Shell Knob,MO,Shell Knob-MO,Missouri,29009,Barry,36.6105,-93.6041,,,12.1,polygon,FALSE,America/Chicago,65747
+Fort Bellefontaine-MO,1840032235,Fort Bellefontaine,Fort Bellefontaine,MO,Fort Bellefontaine-MO,Missouri,29189,St. Louis,38.8362,-90.2421,,,41.8,point,FALSE,America/Chicago,63034
+Grandin-MO,1840008787,Grandin,Grandin,MO,Grandin-MO,Missouri,29035,Carter,36.8308,-90.822,241,241,232,polygon,TRUE,America/Chicago,63943
+Rosebud-MO,1840009642,Rosebud,Rosebud,MO,Rosebud-MO,Missouri,29073,Gasconade,38.385,-91.4024,404,404,179,polygon,TRUE,America/Chicago,63091
+Powersville-MO,1840012133,Powersville,Powersville,MO,Powersville-MO,Missouri,29171,Putnam,40.5496,-93.3003,59,59,40,polygon,TRUE,America/Chicago,64672
+Arnold-MO,1840007506,Arnold,Arnold,MO,Arnold-MO,Missouri,29099,Jefferson,38.4294,-90.3725,21319,21319,710,polygon,TRUE,America/Chicago,63010
+West Plains-MO,1840010887,West Plains,West Plains,MO,West Plains-MO,Missouri,29091,Howell,36.7379,-91.868,11555,12320,357,polygon,TRUE,America/Chicago,65775
+Vista-MO,1840012944,Vista,Vista,MO,Vista-MO,Missouri,29185,St. Clair,37.9891,-93.6637,52,52,153,polygon,TRUE,America/Chicago,64776
+Osage Beach-MO,1840009754,Osage Beach,Osage Beach,MO,Osage Beach-MO,Missouri,29029,Camden,38.1353,-92.648,3795,4456,176,polygon,TRUE,America/Chicago,65065
+Kirksville-MO,1840008372,Kirksville,Kirksville,MO,Kirksville-MO,Missouri,29001,Adair,40.1986,-92.5753,15927,17519,470,polygon,TRUE,America/Chicago,63501
+Cameron-MO,1840007321,Cameron,Cameron,MO,Cameron-MO,Missouri,29049,Clinton,39.7469,-94.2364,9638,9788,623,polygon,TRUE,America/Chicago,64429
+Rensselaer-MO,1840012577,Rensselaer,Rensselaer,MO,Rensselaer-MO,Missouri,29173,Ralls,39.6692,-91.5387,232,232,45,polygon,TRUE,America/Chicago,63401
+Braggadocio-MO,1840032026,Braggadocio,Braggadocio,MO,Braggadocio-MO,Missouri,29155,Pemiscot,36.1753,-89.8295,,,84.1,point,FALSE,America/Chicago,63826
+Morgan-MO,1840032082,Morgan,Morgan,MO,Morgan-MO,Missouri,29105,Laclede,37.5103,-92.6766,,,12.3,point,FALSE,America/Chicago,65632
+Thayer-MO,1840009937,Thayer,Thayer,MO,Thayer-MO,Missouri,29149,Oregon,36.5223,-91.5408,2942,2211,349,polygon,TRUE,America/Chicago,65791
+La Russell-MO,1840008772,La Russell,La Russell,MO,La Russell-MO,Missouri,29097,Jasper,37.1402,-94.061,115,115,132,polygon,TRUE,America/Chicago,64848
+O'Fallon-MO,1840008571,O'Fallon,O'Fallon,MO,O'Fallon-MO,Missouri,29183,St. Charles,38.7853,-90.7178,86274,86274,1121,polygon,TRUE,America/Chicago,63367 63366 63368
+Cook Station-MO,1840032035,Cook Station,Cook Station,MO,Cook Station-MO,Missouri,29055,Crawford,37.8128,-91.4379,,,3.6,point,FALSE,America/Chicago,65449
+Dover-MO,1840009626,Dover,Dover,MO,Dover-MO,Missouri,29107,Lafayette,39.1941,-93.6895,101,101,194,polygon,TRUE,America/Chicago,64022
+Wyatt-MO,1840010885,Wyatt,Wyatt,MO,Wyatt-MO,Missouri,29133,Mississippi,36.9375,-89.1908,305,305,100,polygon,TRUE,America/Chicago,63834 63882
+Lake Lotawana-MO,1840008536,Lake Lotawana,Lake Lotawana,MO,Lake Lotawana-MO,Missouri,29095,Jackson,38.902,-94.2626,2047,2047,76,polygon,TRUE,America/Chicago,64086 64034
+Barnard-MO,1840007227,Barnard,Barnard,MO,Barnard-MO,Missouri,29147,Nodaway,40.1753,-94.823,209,209,534,polygon,TRUE,America/Chicago,64423
+Pittsville-MO,1840032090,Pittsville,Pittsville,MO,Pittsville-MO,Missouri,29101,Johnson,38.8506,-93.9902,,,47.9,point,FALSE,America/Chicago,64040
+Brewer-MO,1840025715,Brewer,Brewer,MO,Brewer-MO,Missouri,29157,Perry,37.7836,-89.918,,,204.1,polygon,FALSE,America/Chicago,63775
+Alba-MO,1840007631,Alba,Alba,MO,Alba-MO,Missouri,29097,Jasper,37.2372,-94.4176,536,536,629,polygon,TRUE,America/Chicago,64830
+The Landing-MO,1840032158,The Landing,The Landing,MO,The Landing-MO,Missouri,29173,Ralls,39.5637,-91.661,,,10.8,point,FALSE,America/Chicago,63456
+Cedar Hill Lakes-MO,1840010806,Cedar Hill Lakes,Cedar Hill Lakes,MO,Cedar Hill Lakes-MO,Missouri,29099,Jefferson,38.3299,-90.6582,238,238,404,polygon,TRUE,America/Chicago,63016
+Cuba-MO,1840007531,Cuba,Cuba,MO,Cuba-MO,Missouri,29055,Crawford,38.0671,-91.4057,3257,3340,403,polygon,TRUE,America/Chicago,65453
+Pierpont-MO,1840012725,Pierpont,Pierpont,MO,Pierpont-MO,Missouri,29019,Boone,38.8633,-92.3132,76,76,118,polygon,TRUE,America/Chicago,65201
+Fleming-MO,1840008486,Fleming,Fleming,MO,Fleming-MO,Missouri,29177,Ray,39.1956,-94.0523,124,124,88,polygon,TRUE,America/Chicago,64017 64077
+Pilot Knob-MO,1840009879,Pilot Knob,Pilot Knob,MO,Pilot Knob-MO,Missouri,29093,Iron,37.6237,-90.6455,705,705,303,polygon,TRUE,America/Chicago,63650 63663
+Turney-MO,1840012571,Turney,Turney,MO,Turney-MO,Missouri,29049,Clinton,39.6377,-94.321,147,147,122,polygon,TRUE,America/Chicago,64493
+Novelty-MO,1840012313,Novelty,Novelty,MO,Novelty-MO,Missouri,29103,Knox,40.0124,-92.2071,133,133,183,polygon,TRUE,America/Chicago,63460
+Bell City-MO,1840007640,Bell City,Bell City,MO,Bell City-MO,Missouri,29207,Stoddard,37.0237,-89.8196,430,430,301,polygon,TRUE,America/Chicago,63735
+Centerview-MO,1840007432,Centerview,Centerview,MO,Centerview-MO,Missouri,29101,Johnson,38.7451,-93.8449,268,268,901,polygon,TRUE,America/Chicago,64019
+Dawson-MO,1840032189,Dawson,Dawson,MO,Dawson-MO,Missouri,29229,Wright,37.257,-92.3079,,,34.4,point,FALSE,America/Chicago,65711
+New Bloomfield-MO,1840008561,New Bloomfield,New Bloomfield,MO,New Bloomfield-MO,Missouri,29027,Callaway,38.7168,-92.0914,676,676,170,polygon,TRUE,America/Chicago,65063
+Weingarten-MO,1840025694,Weingarten,Weingarten,MO,Weingarten-MO,Missouri,29186,Ste. Genevieve,37.8894,-90.2172,,,100.2,polygon,FALSE,America/Chicago,63670
+North Kansas City-MO,1840008498,North Kansas City,North Kansas City,MO,North Kansas City-MO,Missouri,29047,Clay,39.1396,-94.5642,4376,4376,385,polygon,TRUE,America/Chicago,64116
+Cottleville-MO,1840007427,Cottleville,Cottleville,MO,Cottleville-MO,Missouri,29183,St. Charles,38.7512,-90.6585,5151,5151,444,polygon,TRUE,America/Chicago,63376 63304 63338
+Warsaw-MO,1840010795,Warsaw,Warsaw,MO,Warsaw-MO,Missouri,29015,Benton,38.247,-93.3709,2556,2120,339,polygon,TRUE,America/Chicago,65355

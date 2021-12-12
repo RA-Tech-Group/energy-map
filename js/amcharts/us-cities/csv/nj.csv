@@ -1,0 +1,737 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Old Bridge-NJ,1840005416,Old Bridge,Old Bridge,NJ,Old Bridge-NJ,New Jersey,34023,Middlesex,40.3946,-74.3323,,,785.9,polygon,FALSE,America/New_York,8857
+Somers Point-NJ,1840001537,Somers Point,Somers Point,NJ,Somers Point-NJ,New Jersey,34001,Atlantic,39.3167,-74.6069,10545,10545,1010,polygon,TRUE,America/New_York,8244
+Franklinville-NJ,1840033280,Franklinville,Franklinville,NJ,Franklinville-NJ,New Jersey,34015,Gloucester,39.6182,-75.0757,,,322.8,point,FALSE,America/New_York,8322
+Allamuchy-NJ,1840024215,Allamuchy,Allamuchy,NJ,Allamuchy-NJ,New Jersey,34041,Warren,40.9223,-74.8114,,,134.2,polygon,FALSE,America/New_York,07840 07820
+Laurel Springs-NJ,1840001513,Laurel Springs,Laurel Springs,NJ,Laurel Springs-NJ,New Jersey,34007,Camden,39.8213,-75.0054,1884,1884,1587,polygon,TRUE,America/New_York,8021
+West Belmar-NJ,1840005453,West Belmar,West Belmar,NJ,West Belmar-NJ,New Jersey,34025,Monmouth,40.1707,-74.0376,,,2403.7,polygon,FALSE,America/New_York,7719
+Pomona-NJ,1840005596,Pomona,Pomona,NJ,Pomona-NJ,New Jersey,34001,Atlantic,39.4687,-74.5501,,,198.1,polygon,FALSE,America/New_York,08215 08205
+Avon-by-the-Sea-NJ,1840003676,Avon-by-the-Sea,Avon-by-the-Sea,NJ,Avon-by-the-Sea-NJ,New Jersey,34025,Monmouth,40.1914,-74.0163,1792,1792,1622,polygon,TRUE,America/New_York,7717
+Columbia-NJ,1840024222,Columbia,Columbia,NJ,Columbia-NJ,New Jersey,34041,Warren,40.926,-75.0945,,,360.9,polygon,FALSE,America/New_York,7832
+Singac-NJ,1840033411,Singac,Singac,NJ,Singac-NJ,New Jersey,34031,Passaic,40.8848,-74.243,,,2523.9,polygon,FALSE,America/New_York,7424
+Ralston-NJ,1840016754,Ralston,Ralston,NJ,Ralston-NJ,New Jersey,34027,Morris,40.7712,-74.6252,,,164.9,point,FALSE,America/New_York,7945
+Bayonne-NJ,1840003595,Bayonne,Bayonne,NJ,Bayonne-NJ,New Jersey,34017,Hudson,40.6659,-74.1141,66238,66238,4399,polygon,TRUE,America/New_York,7002
+Ridgefield Park-NJ,1840000898,Ridgefield Park,Ridgefield Park,NJ,Ridgefield Park-NJ,New Jersey,34003,Bergen,40.8544,-74.0199,13059,13059,2934,polygon,TRUE,America/New_York,7660
+Towaco-NJ,1840033429,Towaco,Towaco,NJ,Towaco-NJ,New Jersey,34027,Morris,40.922,-74.3454,,,582.8,point,FALSE,America/New_York,7082
+Sewell-NJ,1840033406,Sewell,Sewell,NJ,Sewell-NJ,New Jersey,34015,Gloucester,39.7665,-75.1443,,,968.2,point,FALSE,America/New_York,8080
+Navesink-NJ,1840005443,Navesink,Navesink,NJ,Navesink-NJ,New Jersey,34025,Monmouth,40.402,-74.0387,,,208.5,polygon,FALSE,America/New_York,07716 07760
+Lake Pine-NJ,1840033319,Lake Pine,Lake Pine,NJ,Lake Pine-NJ,New Jersey,34005,Burlington,39.8659,-74.8493,,,900,point,FALSE,America/New_York,8055
+Cinnaminson-NJ,1840033463,Cinnaminson,Cinnaminson,NJ,Cinnaminson-NJ,New Jersey,34005,Burlington,39.9968,-74.9927,,,989,point,FALSE,America/New_York,8077
+Budd Lake-NJ,1840005195,Budd Lake,Budd Lake,NJ,Budd Lake-NJ,New Jersey,34027,Morris,40.8733,-74.7375,,,1275.5,polygon,FALSE,America/New_York,07828 07836
+Pottersville-NJ,1840033390,Pottersville,Pottersville,NJ,Pottersville-NJ,New Jersey,34035,Somerset,40.7137,-74.7218,,,382.3,point,FALSE,America/New_York,7979
+Closter-NJ,1840003538,Closter,Closter,NJ,Closter-NJ,New Jersey,34003,Bergen,40.9733,-73.9606,8705,8705,1062,polygon,TRUE,America/New_York,7624
+Robertsville-NJ,1840026509,Robertsville,Robertsville,NJ,Robertsville-NJ,New Jersey,34025,Monmouth,40.3395,-74.2939,,,594.1,polygon,FALSE,America/New_York,07751 07726 07746
+Buttzville-NJ,1840024221,Buttzville,Buttzville,NJ,Buttzville-NJ,New Jersey,34041,Warren,40.8311,-75.0052,,,198.8,polygon,FALSE,America/New_York,07823 07863
+Belmar-NJ,1840001355,Belmar,Belmar,NJ,Belmar-NJ,New Jersey,34025,Monmouth,40.18,-74.0257,5684,5684,2099,polygon,TRUE,America/New_York,07719 07715
+Independence Corner-NJ,1840033306,Independence Corner,Independence Corner,NJ,Independence Corner-NJ,New Jersey,34037,Sussex,41.2101,-74.5513,,,379.5,point,FALSE,America/New_York,7461
+Millhurst-NJ,1840033347,Millhurst,Millhurst,NJ,Millhurst-NJ,New Jersey,34025,Monmouth,40.2537,-74.3415,,,239.2,point,FALSE,America/New_York,7726
+Island Heights-NJ,1840003758,Island Heights,Island Heights,NJ,Island Heights-NJ,New Jersey,34029,Ocean,39.9423,-74.1452,1647,1647,1040,polygon,TRUE,America/New_York,8732
+Beach Haven West-NJ,1840005526,Beach Haven West,Beach Haven West,NJ,Beach Haven West-NJ,New Jersey,34029,Ocean,39.6702,-74.2337,,,1157.7,polygon,FALSE,America/New_York,8050
+Wenonah-NJ,1840001525,Wenonah,Wenonah,NJ,Wenonah-NJ,New Jersey,34015,Gloucester,39.7913,-75.1484,2248,2248,892,polygon,TRUE,America/New_York,8090
+Leisure Village-NJ,1840005534,Leisure Village,Leisure Village,NJ,Leisure Village-NJ,New Jersey,34029,Ocean,40.0444,-74.1852,,,2132.9,polygon,FALSE,America/New_York,8701
+Cedar Glen Lakes-NJ,1840033477,Cedar Glen Lakes,Cedar Glen Lakes,NJ,Cedar Glen Lakes-NJ,New Jersey,34029,Ocean,39.9527,-74.3995,,,1131.2,polygon,FALSE,America/New_York,8759
+Etra-NJ,1840033269,Etra,Etra,NJ,Etra-NJ,New Jersey,34021,Mercer,40.2526,-74.5068,,,67.9,point,FALSE,America/New_York,8520
+Sicklerville-NJ,1840033409,Sicklerville,Sicklerville,NJ,Sicklerville-NJ,New Jersey,34007,Camden,39.7173,-74.9693,,,1161.2,point,FALSE,America/New_York,8081
+Somerdale-NJ,1840001512,Somerdale,Somerdale,NJ,Somerdale-NJ,New Jersey,34007,Camden,39.8454,-75.0217,5506,5506,1532,polygon,TRUE,America/New_York,8083
+Libertyville-NJ,1840033328,Libertyville,Libertyville,NJ,Libertyville-NJ,New Jersey,34037,Sussex,41.2398,-74.6543,,,131.5,point,FALSE,America/New_York,7461
+Millstone-NJ,1840001058,Millstone,Millstone,NJ,Millstone-NJ,New Jersey,34035,Somerset,40.5006,-74.5922,420,420,219,polygon,TRUE,America/New_York,8844
+Springside-NJ,1840033419,Springside,Springside,NJ,Springside-NJ,New Jersey,34005,Burlington,40.0604,-74.8504,,,1743,point,FALSE,America/New_York,8016
+Bloomingdale-NJ,1840000832,Bloomingdale,Bloomingdale,NJ,Bloomingdale-NJ,New Jersey,34031,Passaic,41.03,-74.3319,8173,8173,361,polygon,TRUE,America/New_York,07403 07465
+Windsor-NJ,1840033447,Windsor,Windsor,NJ,Windsor-NJ,New Jersey,34021,Mercer,40.2423,-74.5813,,,109.7,point,FALSE,America/New_York,8561
+Burleigh-NJ,1840024493,Burleigh,Burleigh,NJ,Burleigh-NJ,New Jersey,34009,Cape May,39.0489,-74.8464,,,366.3,polygon,FALSE,America/New_York,8210
+Avenel-NJ,1840005410,Avenel,Avenel,NJ,Avenel-NJ,New Jersey,34023,Middlesex,40.5839,-74.2722,,,2317.8,polygon,FALSE,America/New_York,7001
+Swedesboro-NJ,1840001524,Swedesboro,Swedesboro,NJ,Swedesboro-NJ,New Jersey,34015,Gloucester,39.7458,-75.3118,2602,2602,1387,polygon,TRUE,America/New_York,8085
+Allentown-NJ,1840003683,Allentown,Allentown,NJ,Allentown-NJ,New Jersey,34025,Monmouth,40.1778,-74.5872,1810,1810,1156,polygon,TRUE,America/New_York,8501
+Lakehurst-NJ,1840001491,Lakehurst,Lakehurst,NJ,Lakehurst-NJ,New Jersey,34029,Ocean,40.0132,-74.3203,2692,2692,1136,polygon,TRUE,America/New_York,8733
+Moonachie-NJ,1840000907,Moonachie,Moonachie,NJ,Moonachie-NJ,New Jersey,34003,Bergen,40.8409,-74.0587,2790,2790,646,polygon,TRUE,America/New_York,07074 07608
+Burlington-NJ,1840001477,Burlington,Burlington,NJ,Burlington-NJ,New Jersey,34005,Burlington,40.0783,-74.8523,9866,9866,1243,polygon,TRUE,America/New_York,8016
+South Branch-NJ,1840033453,South Branch,South Branch,NJ,South Branch-NJ,New Jersey,34035,Somerset,40.544,-74.6968,,,139.8,point,FALSE,America/New_York,8844
+Peapack-NJ,1840033374,Peapack,Peapack,NJ,Peapack-NJ,New Jersey,34035,Somerset,40.7168,-74.6565,,,143.9,point,TRUE,America/New_York,7977
+Somerset-NJ,1840005375,Somerset,Somerset,NJ,Somerset-NJ,New Jersey,34035,Somerset,40.5082,-74.501,,,1515.5,polygon,FALSE,America/New_York,08873 08875
+Morganville-NJ,1840005442,Morganville,Morganville,NJ,Morganville-NJ,New Jersey,34025,Monmouth,40.3757,-74.2445,,,205.9,polygon,FALSE,America/New_York,7751
+Ocean City-NJ,1840001598,Ocean City,Ocean City,NJ,Ocean City-NJ,New Jersey,34009,Cape May,39.2687,-74.602,11340,11340,690,polygon,TRUE,America/New_York,8226
+Hibernia-NJ,1840033297,Hibernia,Hibernia,NJ,Hibernia-NJ,New Jersey,34027,Morris,40.944,-74.4927,,,114.4,point,FALSE,America/New_York,7866
+Diamond Beach-NJ,1840005865,Diamond Beach,Diamond Beach,NJ,Diamond Beach-NJ,New Jersey,34009,Cape May,38.9588,-74.852,,,475.9,polygon,FALSE,America/New_York,8260
+Metuchen-NJ,1840003633,Metuchen,Metuchen,NJ,Metuchen-NJ,New Jersey,34023,Middlesex,40.5422,-74.3628,13871,13871,1928,polygon,TRUE,America/New_York,8840
+Hamilton-NJ,1840033294,Hamilton,Hamilton,NJ,Hamilton-NJ,New Jersey,34025,Monmouth,40.2071,-74.0813,,,935.8,point,FALSE,America/New_York,7753
+Hammonton-NJ,1840003800,Hammonton,Hammonton,NJ,Hammonton-NJ,New Jersey,34001,Atlantic,39.6571,-74.7679,12828,14428,136,polygon,TRUE,America/New_York,8037
+Atco-NJ,1840033217,Atco,Atco,NJ,Atco-NJ,New Jersey,34007,Camden,39.7698,-74.8874,,,923.4,point,FALSE,America/New_York,8004
+Manalapan-NJ,1840033335,Manalapan,Manalapan,NJ,Manalapan-NJ,New Jersey,34025,Monmouth,40.2573,-74.3957,,,170.7,point,FALSE,America/New_York,8535
+Highlands-NJ,1840003688,Highlands,Highlands,NJ,Highlands-NJ,New Jersey,34025,Monmouth,40.4037,-73.9898,4824,4824,2537,polygon,TRUE,America/New_York,7732
+Paramus-NJ,1840000916,Paramus,Paramus,NJ,Paramus-NJ,New Jersey,34003,Bergen,40.9455,-74.0712,26880,26880,991,polygon,TRUE,America/New_York,07652 07653
+Seabrook Farms-NJ,1840005753,Seabrook Farms,Seabrook Farms,NJ,Seabrook Farms-NJ,New Jersey,34011,Cumberland,39.5015,-75.219,,,681.3,polygon,FALSE,America/New_York,08302 08313
+Seaside Heights-NJ,1840001487,Seaside Heights,Seaside Heights,NJ,Seaside Heights-NJ,New Jersey,34029,Ocean,39.9451,-74.0786,2896,2896,1803,polygon,TRUE,America/New_York,8751
+Hoboken-NJ,1840003599,Hoboken,Hoboken,NJ,Hoboken-NJ,New Jersey,34017,Hudson,40.7452,-74.0279,54379,54379,16663,polygon,TRUE,America/New_York,7030
+Victory Lakes-NJ,1840005566,Victory Lakes,Victory Lakes,NJ,Victory Lakes-NJ,New Jersey,34015,Gloucester,39.6304,-74.9661,,,362.7,polygon,FALSE,America/New_York,8094
+Slackwoods-NJ,1840033412,Slackwoods,Slackwoods,NJ,Slackwoods-NJ,New Jersey,34021,Mercer,40.2532,-74.7346,,,1653.9,point,FALSE,America/New_York,8648
+Mystic Island-NJ,1840005530,Mystic Island,Mystic Island,NJ,Mystic Island-NJ,New Jersey,34029,Ocean,39.5659,-74.3831,,,396.5,polygon,FALSE,America/New_York,8087
+Hurdtown-NJ,1840033302,Hurdtown,Hurdtown,NJ,Hurdtown-NJ,New Jersey,34027,Morris,40.9701,-74.599,,,556.9,point,FALSE,America/New_York,7849
+Lyons-NJ,1840033331,Lyons,Lyons,NJ,Lyons-NJ,New Jersey,34035,Somerset,40.6854,-74.5471,,,554.9,point,FALSE,America/New_York,7920
+Deal-NJ,1840003678,Deal,Deal,NJ,Deal-NJ,New Jersey,34025,Monmouth,40.2497,-73.9976,733,733,239,polygon,TRUE,America/New_York,7723
+Woodcliff Lake-NJ,1840000924,Woodcliff Lake,Woodcliff Lake,NJ,Woodcliff Lake-NJ,New Jersey,34003,Bergen,41.0256,-74.0605,5891,5891,665,polygon,TRUE,America/New_York,7677
+Eatontown-NJ,1840003679,Eatontown,Eatontown,NJ,Eatontown-NJ,New Jersey,34025,Monmouth,40.2913,-74.0558,12287,12287,814,polygon,TRUE,America/New_York,07703 07724 07799
+Cedarville-NJ,1840005749,Cedarville,Cedarville,NJ,Cedarville-NJ,New Jersey,34011,Cumberland,39.3382,-75.2069,,,153.9,polygon,FALSE,America/New_York,8311
+Stanhope-NJ,1840000788,Stanhope,Stanhope,NJ,Stanhope-NJ,New Jersey,34037,Sussex,40.9138,-74.7024,3364,3364,707,polygon,TRUE,America/New_York,7874
+Allenwood-NJ,1840005438,Allenwood,Allenwood,NJ,Allenwood-NJ,New Jersey,34025,Monmouth,40.1385,-74.103,,,187.8,polygon,FALSE,America/New_York,07719 08720 08724
+New Providence-NJ,1840001095,New Providence,New Providence,NJ,New Providence-NJ,New Jersey,34039,Union,40.6996,-74.4037,12758,12758,1353,polygon,TRUE,America/New_York,7974
+North Caldwell-NJ,1840002793,North Caldwell,North Caldwell,NJ,North Caldwell-NJ,New Jersey,34013,Essex,40.8629,-74.2576,6669,6669,855,polygon,TRUE,America/New_York,7006
+North Middletown-NJ,1840005444,North Middletown,North Middletown,NJ,North Middletown-NJ,New Jersey,34025,Monmouth,40.439,-74.1184,,,1918.7,polygon,FALSE,America/New_York,7748
+Cherry Hill Mall-NJ,1840033469,Cherry Hill Mall,Cherry Hill Mall,NJ,Cherry Hill Mall-NJ,New Jersey,34007,Camden,39.9384,-75.0116,,,2844.5,polygon,FALSE,America/New_York,08002 08034
+Belford-NJ,1840005439,Belford,Belford,NJ,Belford-NJ,New Jersey,34025,Monmouth,40.4262,-74.0803,,,672.5,polygon,FALSE,America/New_York,07718 07737
+Magnolia-NJ,1840003769,Magnolia,Magnolia,NJ,Magnolia-NJ,New Jersey,34007,Camden,39.8562,-75.0364,4299,4299,1715,polygon,TRUE,America/New_York,8049
+South River-NJ,1840001335,South River,South River,NJ,South River-NJ,New Jersey,34023,Middlesex,40.4454,-74.3783,16295,16295,2281,polygon,TRUE,America/New_York,8882
+Fort Dix-NJ,1840005516,Fort Dix,Fort Dix,NJ,Fort Dix-NJ,New Jersey,34005,Burlington,40.006,-74.6091,,,16.5,polygon,FALSE,America/New_York,8640
+Crestwood Village-NJ,1840005527,Crestwood Village,Crestwood Village,NJ,Crestwood Village-NJ,New Jersey,34029,Ocean,39.9568,-74.3524,,,1063.7,polygon,FALSE,America/New_York,8759
+Hopatcong-NJ,1840003482,Hopatcong,Hopatcong,NJ,Hopatcong-NJ,New Jersey,34037,Sussex,40.9541,-74.6592,14384,14384,511,polygon,TRUE,America/New_York,07821 07843 07837
+Pluckemin-NJ,1840033385,Pluckemin,Pluckemin,NJ,Pluckemin-NJ,New Jersey,34035,Somerset,40.6457,-74.639,,,1913.9,point,FALSE,America/New_York,7921
+Kenvil-NJ,1840024234,Kenvil,Kenvil,NJ,Kenvil-NJ,New Jersey,34027,Morris,40.8747,-74.6275,,,1144.9,polygon,FALSE,America/New_York,07876 07847
+Columbus-NJ,1840033253,Columbus,Columbus,NJ,Columbus-NJ,New Jersey,34005,Burlington,40.0726,-74.7207,,,305.9,point,FALSE,America/New_York,8022
+Franklin Lakes-NJ,1840003553,Franklin Lakes,Franklin Lakes,NJ,Franklin Lakes-NJ,New Jersey,34003,Bergen,41.0085,-74.2082,10852,10852,446,polygon,TRUE,America/New_York,7417
+Mount Holly-NJ,1840033357,Mount Holly,Mount Holly,NJ,Mount Holly-NJ,New Jersey,34005,Burlington,39.9929,-74.7877,,,2925.5,point,FALSE,America/New_York,8060
+Leonardo-NJ,1840005448,Leonardo,Leonardo,NJ,Leonardo-NJ,New Jersey,34025,Monmouth,40.419,-74.0599,,,1684.8,polygon,FALSE,America/New_York,7737
+Longport-NJ,1840003792,Longport,Longport,NJ,Longport-NJ,New Jersey,34001,Atlantic,39.3135,-74.5262,872,872,874,polygon,TRUE,America/New_York,8403
+Colts Neck-NJ,1840033252,Colts Neck,Colts Neck,NJ,Colts Neck-NJ,New Jersey,34025,Monmouth,40.2876,-74.1724,,,120.8,point,FALSE,America/New_York,7722
+Vernon-NJ,1840033433,Vernon,Vernon,NJ,Vernon-NJ,New Jersey,34037,Sussex,41.1984,-74.4832,,,59.9,point,FALSE,America/New_York,7462
+Mount Freedom-NJ,1840033355,Mount Freedom,Mount Freedom,NJ,Mount Freedom-NJ,New Jersey,34027,Morris,40.8262,-74.5702,,,672.6,point,FALSE,America/New_York,7869
+Brainards-NJ,1840024219,Brainards,Brainards,NJ,Brainards-NJ,New Jersey,34041,Warren,40.7718,-75.17,,,265.8,polygon,FALSE,America/New_York,8865
+New Vernon-NJ,1840033365,New Vernon,New Vernon,NJ,New Vernon-NJ,New Jersey,34027,Morris,40.7454,-74.4974,,,183.2,point,FALSE,America/New_York,7960
+Bloomsbury-NJ,1840001037,Bloomsbury,Bloomsbury,NJ,Bloomsbury-NJ,New Jersey,34019,Hunterdon,40.6537,-75.084,845,845,371,polygon,TRUE,America/New_York,8804
+Manville-NJ,1840003610,Manville,Manville,NJ,Manville-NJ,New Jersey,34035,Somerset,40.5422,-74.5892,10430,10430,1705,polygon,TRUE,America/New_York,8835
+Chatsworth-NJ,1840033243,Chatsworth,Chatsworth,NJ,Chatsworth-NJ,New Jersey,34005,Burlington,39.8176,-74.5349,,,130.5,point,FALSE,America/New_York,8019
+Cedar Glen West-NJ,1840033465,Cedar Glen West,Cedar Glen West,NJ,Cedar Glen West-NJ,New Jersey,34029,Ocean,40.0417,-74.2852,,,434.4,polygon,FALSE,America/New_York,8759
+Califon-NJ,1840001038,Califon,Califon,NJ,Califon-NJ,New Jersey,34019,Hunterdon,40.7191,-74.8365,1060,1060,431,polygon,TRUE,America/New_York,7830
+Tinton Falls-NJ,1840001368,Tinton Falls,Tinton Falls,NJ,Tinton Falls-NJ,New Jersey,34025,Monmouth,40.2708,-74.0949,17800,17800,443,polygon,TRUE,America/New_York,07712 07753 07724
+Westmont-NJ,1840033439,Westmont,Westmont,NJ,Westmont-NJ,New Jersey,34007,Camden,39.9098,-75.0479,,,2434.9,point,FALSE,America/New_York,8108
+Harvey Cedars-NJ,1840003757,Harvey Cedars,Harvey Cedars,NJ,Harvey Cedars-NJ,New Jersey,34029,Ocean,39.6994,-74.1424,340,340,235,polygon,TRUE,America/New_York,8008
+Madison-NJ,1840003574,Madison,Madison,NJ,Madison-NJ,New Jersey,34027,Morris,40.7585,-74.417,16072,16072,1442,polygon,TRUE,America/New_York,7940
+Glen Rock-NJ,1840003555,Glen Rock,Glen Rock,NJ,Glen Rock-NJ,New Jersey,34003,Bergen,40.96,-74.1248,11946,11946,1698,polygon,TRUE,America/New_York,7452
+Emerson-NJ,1840003545,Emerson,Emerson,NJ,Emerson-NJ,New Jersey,34003,Bergen,40.9749,-74.0239,7669,7669,1342,polygon,TRUE,America/New_York,7630
+Flanders-NJ,1840033277,Flanders,Flanders,NJ,Flanders-NJ,New Jersey,34027,Morris,40.8457,-74.6949,,,506.5,point,FALSE,America/New_York,7836
+Atlantic Highlands-NJ,1840003685,Atlantic Highlands,Atlantic Highlands,NJ,Atlantic Highlands-NJ,New Jersey,34025,Monmouth,40.4112,-74.0297,4295,4295,1279,polygon,TRUE,America/New_York,7716
+Guttenberg-NJ,1840003597,Guttenberg,Guttenberg,NJ,Guttenberg-NJ,New Jersey,34017,Hudson,40.7927,-74.0047,11618,11618,22980,polygon,TRUE,America/New_York,7093
+Leisure Village West-NJ,1840033491,Leisure Village West,Leisure Village West,NJ,Leisure Village West-NJ,New Jersey,34029,Ocean,40.0103,-74.2806,,,1122.7,polygon,FALSE,America/New_York,8759
+Clinton-NJ,1840003604,Clinton,Clinton,NJ,Clinton-NJ,New Jersey,34019,Hunterdon,40.6356,-74.9124,2697,2697,778,polygon,TRUE,America/New_York,8809
+Cape May-NJ,1840001594,Cape May,Cape May,NJ,Cape May-NJ,New Jersey,34009,Cape May,38.9408,-74.9043,3500,3500,562,polygon,TRUE,America/New_York,8204
+Albion-NJ,1840033214,Albion,Albion,NJ,Albion-NJ,New Jersey,34007,Camden,39.7787,-74.9549,,,629.3,point,FALSE,America/New_York,8009
+Rockaway-NJ,1840000951,Rockaway,Rockaway,NJ,Rockaway-NJ,New Jersey,34027,Morris,40.8969,-74.5155,6478,6478,1206,polygon,TRUE,America/New_York,7866
+Branchville-NJ,1840000785,Branchville,Branchville,NJ,Branchville-NJ,New Jersey,34037,Sussex,41.1464,-74.7497,788,788,513,polygon,TRUE,America/New_York,07826 07890
+Egg Harbor City-NJ,1840016638,Egg Harbor City,Egg Harbor City,NJ,Egg Harbor City-NJ,New Jersey,34001,Atlantic,39.5639,-74.5969,4193,4193,148,polygon,TRUE,America/New_York,8215
+Lambertville-NJ,1840001039,Lambertville,Lambertville,NJ,Lambertville-NJ,New Jersey,34019,Hunterdon,40.3686,-74.943,3812,3812,1354,polygon,TRUE,America/New_York,8530
+Totowa-NJ,1840000839,Totowa,Totowa,NJ,Totowa-NJ,New Jersey,34031,Passaic,40.9039,-74.2216,10904,10904,1053,polygon,TRUE,America/New_York,07512 07511
+Lebanon-NJ,1840001040,Lebanon,Lebanon,NJ,Lebanon-NJ,New Jersey,34019,Hunterdon,40.6433,-74.8352,1663,1663,724,polygon,TRUE,America/New_York,8833
+Gloucester City-NJ,1840003777,Gloucester City,Gloucester City,NJ,Gloucester City-NJ,New Jersey,34007,Camden,39.8923,-75.1173,11339,11339,1880,polygon,TRUE,America/New_York,8030
+Roseville-NJ,1840033403,Roseville,Roseville,NJ,Roseville-NJ,New Jersey,34037,Sussex,40.9576,-74.6916,,,219,point,FALSE,America/New_York,7874
+Oak Ridge-NJ,1840033370,Oak Ridge,Oak Ridge,NJ,Oak Ridge-NJ,New Jersey,34031,Passaic,41.0462,-74.486,,,427.5,point,FALSE,America/New_York,7438
+Lake Como-NJ,1840033317,Lake Como,Lake Como,NJ,Lake Como-NJ,New Jersey,34025,Monmouth,40.1705,-74.0262,1717,1717,2611,polygon,TRUE,America/New_York,7719
+Pine Ridge at Crestwood-NJ,1840033484,Pine Ridge at Crestwood,Pine Ridge at Crestwood,NJ,Pine Ridge at Crestwood-NJ,New Jersey,34029,Ocean,39.9587,-74.3158,,,407.1,polygon,FALSE,America/New_York,8759
+Wanaque-NJ,1840000840,Wanaque,Wanaque,NJ,Wanaque-NJ,New Jersey,34031,Passaic,41.044,-74.2901,11759,11759,566,polygon,TRUE,America/New_York,07465 07420
+Beach Glen-NJ,1840033226,Beach Glen,Beach Glen,NJ,Beach Glen-NJ,New Jersey,34027,Morris,40.9298,-74.4863,,,97.7,point,FALSE,America/New_York,7866
+Montvale-NJ,1840000906,Montvale,Montvale,NJ,Montvale-NJ,New Jersey,34003,Bergen,41.053,-74.0497,8506,8506,824,polygon,TRUE,America/New_York,7645
+Mount Hermon-NJ,1840033356,Mount Hermon,Mount Hermon,NJ,Mount Hermon-NJ,New Jersey,34041,Warren,40.9268,-74.9929,,,84.7,polygon,FALSE,America/New_York,7825
+Fenwick-NJ,1840033275,Fenwick,Fenwick,NJ,Fenwick-NJ,New Jersey,34033,Salem,39.6176,-75.3369,,,61.7,point,FALSE,America/New_York,8098
+East Rutherford-NJ,1840003542,East Rutherford,East Rutherford,NJ,East Rutherford-NJ,New Jersey,34003,Bergen,40.8179,-74.0853,9856,9856,1022,polygon,TRUE,America/New_York,7073
+Cranberry Lake-NJ,1840033254,Cranberry Lake,Cranberry Lake,NJ,Cranberry Lake-NJ,New Jersey,34037,Sussex,40.9543,-74.7466,,,323.7,point,FALSE,America/New_York,7821
+Plainfield-NJ,1840001090,Plainfield,Plainfield,NJ,Plainfield-NJ,New Jersey,34039,Union,40.6153,-74.4159,50636,50636,3246,polygon,TRUE,America/New_York,07062 07063 07060 07061
+Spotswood-NJ,1840001336,Spotswood,Spotswood,NJ,Spotswood-NJ,New Jersey,34023,Middlesex,40.3952,-74.3915,8429,8429,1435,polygon,TRUE,America/New_York,8884
+Paterson-NJ,1840000838,Paterson,Paterson,NJ,Paterson-NJ,New Jersey,34031,Passaic,40.9147,-74.1624,147000,147000,6734,polygon,TRUE,America/New_York,07522 07524 07514 07513 07505 07504 07501 07503 07502 07509 07510 07533 07543 07544
+Fair Haven-NJ,1840003681,Fair Haven,Fair Haven,NJ,Fair Haven-NJ,New Jersey,34025,Monmouth,40.3618,-74.0392,5976,5976,1444,polygon,TRUE,America/New_York,7704
+Mill Brook-NJ,1840033346,Mill Brook,Mill Brook,NJ,Mill Brook-NJ,New Jersey,34027,Morris,40.8645,-74.5574,,,431.6,point,FALSE,America/New_York,7869
+Woodport-NJ,1840033449,Woodport,Woodport,NJ,Woodport-NJ,New Jersey,34027,Morris,40.9854,-74.6104,,,590.7,point,FALSE,America/New_York,7849
+Harlingen-NJ,1840024278,Harlingen,Harlingen,NJ,Harlingen-NJ,New Jersey,34035,Somerset,40.4494,-74.6585,,,236.3,polygon,FALSE,America/New_York,8502
+Finesville-NJ,1840024224,Finesville,Finesville,NJ,Finesville-NJ,New Jersey,34041,Warren,40.6112,-75.1708,,,108.4,polygon,FALSE,America/New_York,8865
+Lakewood-NJ,1840005533,Lakewood,Lakewood,NJ,Lakewood-NJ,New Jersey,34029,Ocean,40.0943,-74.2117,,,10020.1,polygon,FALSE,America/New_York,8701
+Interlaken-NJ,1840003689,Interlaken,Interlaken,NJ,Interlaken-NJ,New Jersey,34025,Monmouth,40.235,-74.0166,801,801,936,polygon,TRUE,America/New_York,7712
+Clayton-NJ,1840001520,Clayton,Clayton,NJ,Clayton-NJ,New Jersey,34015,Gloucester,39.6629,-75.0782,8614,8614,465,polygon,TRUE,America/New_York,08312 08094
+Silver Ridge-NJ,1840033466,Silver Ridge,Silver Ridge,NJ,Silver Ridge-NJ,New Jersey,34029,Ocean,39.962,-74.2358,,,1223.1,polygon,FALSE,America/New_York,8757
+West New York-NJ,1840001035,West New York,West New York,NJ,West New York-NJ,New Jersey,34017,Hudson,40.7856,-74.0093,53343,53343,20707,polygon,TRUE,America/New_York,7093
+Mount Bethel-NJ,1840033459,Mount Bethel,Mount Bethel,NJ,Mount Bethel-NJ,New Jersey,34035,Somerset,40.6376,-74.5146,,,122.4,point,FALSE,America/New_York,7059
+Smithville-NJ,1840024384,Smithville,Smithville,NJ,Smithville-NJ,New Jersey,34001,Atlantic,39.4933,-74.4781,,,1221.8,polygon,FALSE,America/New_York,08205 08231
+Netcong-NJ,1840003580,Netcong,Netcong,NJ,Netcong-NJ,New Jersey,34027,Morris,40.8979,-74.7023,3234,3234,1479,polygon,TRUE,America/New_York,7857
+Ringwood-NJ,1840000835,Ringwood,Ringwood,NJ,Ringwood-NJ,New Jersey,34031,Passaic,41.1063,-74.2754,12399,12399,189,polygon,TRUE,America/New_York,7456
+Woodstown-NJ,1840001531,Woodstown,Woodstown,NJ,Woodstown-NJ,New Jersey,34033,Salem,39.6503,-75.325,4170,3484,848,polygon,TRUE,America/New_York,8098
+Stirling-NJ,1840033421,Stirling,Stirling,NJ,Stirling-NJ,New Jersey,34027,Morris,40.672,-74.4949,,,1170.8,point,FALSE,America/New_York,7980
+Keyport-NJ,1840003691,Keyport,Keyport,NJ,Keyport-NJ,New Jersey,34025,Monmouth,40.4327,-74.2013,7085,7085,1960,polygon,TRUE,America/New_York,7735
+Quinton-NJ,1840024375,Quinton,Quinton,NJ,Quinton-NJ,New Jersey,34033,Salem,39.5473,-75.4085,,,488.4,polygon,FALSE,America/New_York,08079 08072
+Brielle-NJ,1840001357,Brielle,Brielle,NJ,Brielle-NJ,New Jersey,34025,Monmouth,40.1048,-74.0637,4715,4715,1036,polygon,TRUE,America/New_York,8730
+Saddle River-NJ,1840000903,Saddle River,Saddle River,NJ,Saddle River-NJ,New Jersey,34003,Bergen,41.0273,-74.0956,3237,3237,253,polygon,TRUE,America/New_York,7458
+Belleplain-NJ,1840026666,Belleplain,Belleplain,NJ,Belleplain-NJ,New Jersey,34009,Cape May,39.266,-74.8674,,,142.5,polygon,FALSE,America/New_York,8270
+Erma-NJ,1840005863,Erma,Erma,NJ,Erma-NJ,New Jersey,34009,Cape May,38.9971,-74.8931,,,41.2,polygon,FALSE,America/New_York,8204
+Hurffville-NJ,1840033303,Hurffville,Hurffville,NJ,Hurffville-NJ,New Jersey,34015,Gloucester,39.7626,-75.1082,,,849.6,point,FALSE,America/New_York,8080
+Pine Lake Park-NJ,1840024354,Pine Lake Park,Pine Lake Park,NJ,Pine Lake Park-NJ,New Jersey,34029,Ocean,40.0014,-74.2592,,,1923.6,polygon,FALSE,America/New_York,08759 08757
+Hornerstown-NJ,1840033301,Hornerstown,Hornerstown,NJ,Hornerstown-NJ,New Jersey,34025,Monmouth,40.1062,-74.514,,,205.1,point,FALSE,America/New_York,8514
+River Edge-NJ,1840000900,River Edge,River Edge,NJ,River Edge-NJ,New Jersey,34003,Bergen,40.9269,-74.0387,11647,11647,2425,polygon,TRUE,America/New_York,7661
+Southard-NJ,1840033415,Southard,Southard,NJ,Southard-NJ,New Jersey,34025,Monmouth,40.1384,-74.2249,,,769.4,point,FALSE,America/New_York,7731
+Johnsonburg-NJ,1840024230,Johnsonburg,Johnsonburg,NJ,Johnsonburg-NJ,New Jersey,34041,Warren,40.965,-74.8783,,,163,polygon,FALSE,America/New_York,07846 07821 07825
+Kenilworth-NJ,1840003616,Kenilworth,Kenilworth,NJ,Kenilworth-NJ,New Jersey,34039,Union,40.6782,-74.289,8194,8194,1466,polygon,TRUE,America/New_York,7033
+Monroe-NJ,1840033350,Monroe,Monroe,NJ,Monroe-NJ,New Jersey,34037,Sussex,41.1145,-74.6341,,,62.5,point,FALSE,America/New_York,7871
+Red Bank-NJ,1840001358,Red Bank,Red Bank,NJ,Red Bank-NJ,New Jersey,34025,Monmouth,40.348,-74.0674,12160,12160,2699,polygon,TRUE,America/New_York,7701
+Stone Harbor-NJ,1840001599,Stone Harbor,Stone Harbor,NJ,Stone Harbor-NJ,New Jersey,34009,Cape May,39.0425,-74.7691,833,833,230,polygon,TRUE,America/New_York,8247
+Sea Bright-NJ,1840001361,Sea Bright,Sea Bright,NJ,Sea Bright-NJ,New Jersey,34025,Monmouth,40.3653,-73.9769,1387,1387,823,polygon,TRUE,America/New_York,7760
+Perth Amboy-NJ,1840001340,Perth Amboy,Perth Amboy,NJ,Perth Amboy-NJ,New Jersey,34023,Middlesex,40.5204,-74.2724,52499,52499,4310,polygon,TRUE,America/New_York,08861 08862
+Milltown-NJ,1840001338,Milltown,Milltown,NJ,Milltown-NJ,New Jersey,34023,Middlesex,40.4503,-74.435,7132,7132,1777,polygon,TRUE,America/New_York,8850
+Ridgewood-NJ,1840000899,Ridgewood,Ridgewood,NJ,Ridgewood-NJ,New Jersey,34003,Bergen,40.9822,-74.1126,25533,25533,1713,polygon,TRUE,America/New_York,07450 07451
+McAfee-NJ,1840033342,McAfee,McAfee,NJ,McAfee-NJ,New Jersey,34037,Sussex,41.1784,-74.5404,,,161.6,point,FALSE,America/New_York,7462
+Edgewater Park-NJ,1840033265,Edgewater Park,Edgewater Park,NJ,Edgewater Park-NJ,New Jersey,34005,Burlington,40.0682,-74.9007,,,369.5,point,FALSE,America/New_York,8010
+Barnsboro-NJ,1840033224,Barnsboro,Barnsboro,NJ,Barnsboro-NJ,New Jersey,34015,Gloucester,39.7618,-75.1599,,,344.2,point,FALSE,America/New_York,8080
+Ross Corner-NJ,1840024181,Ross Corner,Ross Corner,NJ,Ross Corner-NJ,New Jersey,34037,Sussex,41.1274,-74.7135,,,31.3,polygon,FALSE,America/New_York,7822
+Leonia-NJ,1840000904,Leonia,Leonia,NJ,Leonia-NJ,New Jersey,34003,Bergen,40.8638,-73.9898,9195,9195,2299,polygon,TRUE,America/New_York,7605
+Wildwood-NJ,1840001602,Wildwood,Wildwood,NJ,Wildwood-NJ,New Jersey,34009,Cape May,38.9886,-74.8199,5120,5120,1514,polygon,TRUE,America/New_York,8260
+Vernon Valley-NJ,1840033487,Vernon Valley,Vernon Valley,NJ,Vernon Valley-NJ,New Jersey,34037,Sussex,41.2396,-74.4833,,,290.3,polygon,FALSE,America/New_York,07461 07418
+Princeton Meadows-NJ,1840033474,Princeton Meadows,Princeton Meadows,NJ,Princeton Meadows-NJ,New Jersey,34023,Middlesex,40.3333,-74.5627,,,5218,polygon,FALSE,America/New_York,08536 08512
+Groveville-NJ,1840024323,Groveville,Groveville,NJ,Groveville-NJ,New Jersey,34021,Mercer,40.1678,-74.6513,,,1353.3,polygon,FALSE,America/New_York,8620
+Mount Royal-NJ,1840033361,Mount Royal,Mount Royal,NJ,Mount Royal-NJ,New Jersey,34015,Gloucester,39.8101,-75.2113,,,373.8,point,FALSE,America/New_York,8061
+Beattystown-NJ,1840005192,Beattystown,Beattystown,NJ,Beattystown-NJ,New Jersey,34041,Warren,40.8223,-74.8502,,,188.1,polygon,FALSE,America/New_York,7840
+Kearny-NJ,1840003601,Kearny,Kearny,NJ,Kearny-NJ,New Jersey,34017,Hudson,40.7526,-74.1202,42126,42126,1852,polygon,TRUE,America/New_York,07032 07099
+Landing-NJ,1840033323,Landing,Landing,NJ,Landing-NJ,New Jersey,34027,Morris,40.9051,-74.6652,,,571.8,point,FALSE,America/New_York,7850
+New Egypt-NJ,1840005531,New Egypt,New Egypt,NJ,New Egypt-NJ,New Jersey,34029,Ocean,40.0643,-74.5285,,,630.1,polygon,FALSE,America/New_York,8533
+Freewood Acres-NJ,1840033281,Freewood Acres,Freewood Acres,NJ,Freewood Acres-NJ,New Jersey,34025,Monmouth,40.169,-74.2379,,,1268.5,point,FALSE,America/New_York,7731
+Hopewell-NJ,1840003709,Hopewell,Hopewell,NJ,Hopewell-NJ,New Jersey,34021,Mercer,40.3889,-74.7638,1926,1926,1058,polygon,TRUE,America/New_York,8525
+Hamburg-NJ,1840003481,Hamburg,Hamburg,NJ,Hamburg-NJ,New Jersey,34037,Sussex,41.1485,-74.5735,3149,3149,1064,polygon,TRUE,America/New_York,7419
+Leesburg-NJ,1840033325,Leesburg,Leesburg,NJ,Leesburg-NJ,New Jersey,34011,Cumberland,39.2568,-74.9874,,,263.9,point,FALSE,America/New_York,8327
+Hackensack-NJ,1840003556,Hackensack,Hackensack,NJ,Hackensack-NJ,New Jersey,34003,Bergen,40.8889,-74.0461,44756,44756,4134,polygon,TRUE,America/New_York,07601 07602
+Edinburg-NJ,1840033266,Edinburg,Edinburg,NJ,Edinburg-NJ,New Jersey,34021,Mercer,40.2582,-74.616,,,49.2,point,FALSE,America/New_York,8550
+Augusta-NJ,1840033221,Augusta,Augusta,NJ,Augusta-NJ,New Jersey,34037,Sussex,41.129,-74.7282,,,36.4,point,FALSE,America/New_York,7822
+Bedminster-NJ,1840033227,Bedminster,Bedminster,NJ,Bedminster-NJ,New Jersey,34035,Somerset,40.6807,-74.6454,,,340.9,point,FALSE,America/New_York,7921
+Mendham-NJ,1840003575,Mendham,Mendham,NJ,Mendham-NJ,New Jersey,34027,Morris,40.7687,-74.6004,4988,4988,323,polygon,TRUE,America/New_York,7945
+New Sharon-NJ,1840033364,New Sharon,New Sharon,NJ,New Sharon-NJ,New Jersey,34025,Monmouth,40.2062,-74.5504,,,84.2,point,FALSE,America/New_York,8691
+Monmouth Junction-NJ,1840005415,Monmouth Junction,Monmouth Junction,NJ,Monmouth Junction-NJ,New Jersey,34023,Middlesex,40.381,-74.5435,,,740.9,polygon,FALSE,America/New_York,8852
+Manasquan-NJ,1840003674,Manasquan,Manasquan,NJ,Manasquan-NJ,New Jersey,34025,Monmouth,40.1185,-74.0449,5818,5818,1623,polygon,TRUE,America/New_York,8736
+North Wildwood-NJ,1840001597,North Wildwood,North Wildwood,NJ,North Wildwood-NJ,New Jersey,34009,Cape May,39.0047,-74.7995,3882,3882,855,polygon,TRUE,America/New_York,8260
+Phillipsburg-NJ,1840000944,Phillipsburg,Phillipsburg,NJ,Phillipsburg-NJ,New Jersey,34041,Warren,40.6895,-75.1821,14455,14455,1747,polygon,TRUE,America/New_York,8865
+Tansboro-NJ,1840033425,Tansboro,Tansboro,NJ,Tansboro-NJ,New Jersey,34007,Camden,39.769,-74.9196,,,421.1,point,FALSE,America/New_York,8009
+Buddtown-NJ,1840033239,Buddtown,Buddtown,NJ,Buddtown-NJ,New Jersey,34005,Burlington,39.9393,-74.7029,,,35.7,point,FALSE,America/New_York,8088
+Toms River-NJ,1840005536,Toms River,Toms River,NJ,Toms River-NJ,New Jersey,34029,Ocean,39.993,-74.1855,,,1545.9,polygon,FALSE,America/New_York,08755 08753 08754 08756
+Oceanport-NJ,1840001365,Oceanport,Oceanport,NJ,Oceanport-NJ,New Jersey,34025,Monmouth,40.316,-74.0205,5725,5725,695,polygon,TRUE,America/New_York,07703 07757
+Blackwood-NJ,1840005560,Blackwood,Blackwood,NJ,Blackwood-NJ,New Jersey,34007,Camden,39.7982,-75.0629,,,1180.1,polygon,FALSE,America/New_York,8012
+Bergenfield-NJ,1840000893,Bergenfield,Bergenfield,NJ,Bergenfield-NJ,New Jersey,34003,Bergen,40.9233,-73.9982,27647,27647,3711,polygon,TRUE,America/New_York,7621
+Silverton-NJ,1840033410,Silverton,Silverton,NJ,Silverton-NJ,New Jersey,34029,Ocean,40.016,-74.1449,,,1028.5,point,FALSE,America/New_York,8753
+Sharptown-NJ,1840033407,Sharptown,Sharptown,NJ,Sharptown-NJ,New Jersey,34033,Salem,39.6557,-75.3652,,,193.4,point,FALSE,America/New_York,8098
+Fanwood-NJ,1840003614,Fanwood,Fanwood,NJ,Fanwood-NJ,New Jersey,34039,Union,40.6417,-74.3857,7700,7700,2215,polygon,TRUE,America/New_York,7023
+Little Silver-NJ,1840003671,Little Silver,Little Silver,NJ,Little Silver-NJ,New Jersey,34025,Monmouth,40.3358,-74.0346,5895,5895,840,polygon,TRUE,America/New_York,7739
+Jefferson-NJ,1840033310,Jefferson,Jefferson,NJ,Jefferson-NJ,New Jersey,34015,Gloucester,39.7537,-75.2118,,,278.1,point,FALSE,America/New_York,8062
+Harmony-NJ,1840024228,Harmony,Harmony,NJ,Harmony-NJ,New Jersey,34041,Warren,40.7501,-75.14,,,180.8,polygon,FALSE,America/New_York,8865
+North Cape May-NJ,1840005866,North Cape May,North Cape May,NJ,North Cape May-NJ,New Jersey,34009,Cape May,38.9765,-74.9516,,,1156.3,polygon,FALSE,America/New_York,8204
+Pennsville-NJ,1840016710,Pennsville,Pennsville,NJ,Pennsville-NJ,New Jersey,34033,Salem,39.6507,-75.5078,,,731.9,polygon,FALSE,America/New_York,08023 08070
+Neshanic Station-NJ,1840033363,Neshanic Station,Neshanic Station,NJ,Neshanic Station-NJ,New Jersey,34035,Somerset,40.5082,-74.7302,,,130,point,FALSE,America/New_York,8853
+Pleasant Plains-NJ,1840033383,Pleasant Plains,Pleasant Plains,NJ,Pleasant Plains-NJ,New Jersey,34035,Somerset,40.4523,-74.5696,,,423.6,polygon,FALSE,America/New_York,08823 08873
+Elizabeth-NJ,1840003613,Elizabeth,Elizabeth,NJ,Elizabeth-NJ,New Jersey,34039,Union,40.6655,-74.1918,128640,128640,4032,polygon,TRUE,America/New_York,07208 07202 07201 07206 07207
+Bradley Beach-NJ,1840001356,Bradley Beach,Bradley Beach,NJ,Bradley Beach-NJ,New Jersey,34025,Monmouth,40.2018,-74.0122,4246,4246,2679,polygon,TRUE,America/New_York,7720
+Everett-NJ,1840033270,Everett,Everett,NJ,Everett-NJ,New Jersey,34025,Monmouth,40.3543,-74.1465,,,166.6,point,FALSE,America/New_York,7738
+Sussex-NJ,1840000789,Sussex,Sussex,NJ,Sussex-NJ,New Jersey,34037,Sussex,41.2096,-74.6076,2039,2039,1336,polygon,TRUE,America/New_York,7461
+Hawthorne-NJ,1840003513,Hawthorne,Hawthorne,NJ,Hawthorne-NJ,New Jersey,34031,Passaic,40.9579,-74.1582,18941,18941,2192,polygon,TRUE,America/New_York,07506 07507
+Port Norris-NJ,1840005750,Port Norris,Port Norris,NJ,Port Norris-NJ,New Jersey,34011,Cumberland,39.2514,-75.0413,,,605.1,polygon,FALSE,America/New_York,8349
+Montville-NJ,1840033352,Montville,Montville,NJ,Montville-NJ,New Jersey,34027,Morris,40.9148,-74.3838,,,922.3,point,FALSE,America/New_York,7045
+Ridgefield-NJ,1840000897,Ridgefield,Ridgefield,NJ,Ridgefield-NJ,New Jersey,34003,Bergen,40.8312,-74.0146,11357,11357,1718,polygon,TRUE,America/New_York,7657
+Fords-NJ,1840005409,Fords,Fords,NJ,Fords-NJ,New Jersey,34023,Middlesex,40.5415,-74.3123,,,3551.9,polygon,FALSE,America/New_York,08840 08863 07095
+New Milford-NJ,1840000908,New Milford,New Milford,NJ,New Milford-NJ,New Jersey,34003,Bergen,40.9339,-74.0195,16759,16759,2845,polygon,TRUE,America/New_York,7646
+Chatham-NJ,1840000948,Chatham,Chatham,NJ,Chatham-NJ,New Jersey,34027,Morris,40.7405,-74.3838,8977,8977,1482,polygon,TRUE,America/New_York,7928
+Alpine-NJ,1840003551,Alpine,Alpine,NJ,Alpine-NJ,New Jersey,34003,Bergen,40.9617,-73.92,1869,1869,112,polygon,TRUE,America/New_York,7620
+Highland Park-NJ,1840003636,Highland Park,Highland Park,NJ,Highland Park-NJ,New Jersey,34023,Middlesex,40.5006,-74.4284,14195,14195,3025,polygon,TRUE,America/New_York,8904
+Macopin-NJ,1840033332,Macopin,Macopin,NJ,Macopin-NJ,New Jersey,34031,Passaic,41.0523,-74.3888,,,196,point,FALSE,America/New_York,7480
+Matawan-NJ,1840003675,Matawan,Matawan,NJ,Matawan-NJ,New Jersey,34025,Monmouth,40.4126,-74.2365,8848,8848,1510,polygon,TRUE,America/New_York,7747
+Upper Saddle River-NJ,1840000920,Upper Saddle River,Upper Saddle River,NJ,Upper Saddle River-NJ,New Jersey,34003,Bergen,41.0633,-74.0987,8326,8326,611,polygon,TRUE,America/New_York,7458
+Pompton Lakes-NJ,1840000833,Pompton Lakes,Pompton Lakes,NJ,Pompton Lakes-NJ,New Jersey,34031,Passaic,41.0028,-74.2857,11127,11127,1477,polygon,TRUE,America/New_York,7442
+Repaupo-NJ,1840033398,Repaupo,Repaupo,NJ,Repaupo-NJ,New Jersey,34015,Gloucester,39.7998,-75.2988,,,47.4,point,FALSE,America/New_York,8085
+Mount Arlington-NJ,1840003579,Mount Arlington,Mount Arlington,NJ,Mount Arlington-NJ,New Jersey,34027,Morris,40.9188,-74.6391,5455,5455,969,polygon,TRUE,America/New_York,07850 07856
+Deans-NJ,1840033259,Deans,Deans,NJ,Deans-NJ,New Jersey,34023,Middlesex,40.4043,-74.516,,,538.4,point,FALSE,America/New_York,8852
+Westfield-NJ,1840001096,Westfield,Westfield,NJ,Westfield-NJ,New Jersey,34039,Union,40.6517,-74.3434,30206,30206,1735,polygon,TRUE,America/New_York,07090 07091
+Leisure Knoll-NJ,1840033482,Leisure Knoll,Leisure Knoll,NJ,Leisure Knoll-NJ,New Jersey,34029,Ocean,40.0186,-74.2908,,,1078.5,polygon,FALSE,America/New_York,8759
+Bordentown-NJ,1840001476,Bordentown,Bordentown,NJ,Bordentown-NJ,New Jersey,34005,Burlington,40.1494,-74.7084,3851,3851,1599,polygon,TRUE,America/New_York,8505
+Fort Lee-NJ,1840003552,Fort Lee,Fort Lee,NJ,Fort Lee-NJ,New Jersey,34003,Bergen,40.8507,-73.9711,37577,37577,5721,polygon,TRUE,America/New_York,7024
+Basking Ridge-NJ,1840033225,Basking Ridge,Basking Ridge,NJ,Basking Ridge-NJ,New Jersey,34035,Somerset,40.7062,-74.5493,,,603.9,point,FALSE,America/New_York,7920
+Scobeyville-NJ,1840033405,Scobeyville,Scobeyville,NJ,Scobeyville-NJ,New Jersey,34025,Monmouth,40.2971,-74.1432,,,87.4,point,FALSE,America/New_York,7722
+North Arlington-NJ,1840000909,North Arlington,North Arlington,NJ,North Arlington-NJ,New Jersey,34003,Bergen,40.7872,-74.1269,15868,15868,2391,polygon,TRUE,America/New_York,7031
+Prospect Park-NJ,1840000834,Prospect Park,Prospect Park,NJ,Prospect Park-NJ,New Jersey,34031,Passaic,40.9381,-74.1738,5913,5913,4800,polygon,TRUE,America/New_York,7508
+Pleasantville-NJ,1840001535,Pleasantville,Pleasantville,NJ,Pleasantville-NJ,New Jersey,34001,Atlantic,39.3897,-74.5168,20492,20492,1389,polygon,TRUE,America/New_York,8232
+South Bound Brook-NJ,1840001057,South Bound Brook,South Bound Brook,NJ,South Bound Brook-NJ,New Jersey,34035,Somerset,40.5535,-74.5279,4611,4611,2705,polygon,TRUE,America/New_York,8880
+Homestead Park-NJ,1840033300,Homestead Park,Homestead Park,NJ,Homestead Park-NJ,New Jersey,34027,Morris,40.6901,-74.4502,,,488.9,point,FALSE,America/New_York,7933
+Glen Ridge-NJ,1840005356,Glen Ridge,Glen Ridge,NJ,Glen Ridge-NJ,New Jersey,34013,Essex,40.804,-74.2043,7642,7642,2302,polygon,TRUE,America/New_York,7028
+Ironia-NJ,1840033307,Ironia,Ironia,NJ,Ironia-NJ,New Jersey,34027,Morris,40.8229,-74.6257,,,374.9,point,FALSE,America/New_York,7869
+Owens-NJ,1840033372,Owens,Owens,NJ,Owens-NJ,New Jersey,34037,Sussex,41.2637,-74.5279,,,56.4,point,FALSE,America/New_York,7461
+Riverton-NJ,1840001478,Riverton,Riverton,NJ,Riverton-NJ,New Jersey,34005,Burlington,40.0115,-75.0149,2713,2713,1575,polygon,TRUE,America/New_York,08077 08076
+Wharton-NJ,1840000955,Wharton,Wharton,NJ,Wharton-NJ,New Jersey,34027,Morris,40.8999,-74.5808,6577,6577,1226,polygon,TRUE,America/New_York,7885
+Union Beach-NJ,1840001369,Union Beach,Union Beach,NJ,Union Beach-NJ,New Jersey,34025,Monmouth,40.4455,-74.17,5584,5584,1195,polygon,TRUE,America/New_York,7735
+Marksboro-NJ,1840024231,Marksboro,Marksboro,NJ,Marksboro-NJ,New Jersey,34041,Warren,40.9881,-74.9061,,,73.1,polygon,FALSE,America/New_York,7825
+Audubon-NJ,1840003775,Audubon,Audubon,NJ,Audubon-NJ,New Jersey,34007,Camden,39.8906,-75.0723,8727,8727,2264,polygon,TRUE,America/New_York,8106
+Haddon Heights-NJ,1840003779,Haddon Heights,Haddon Heights,NJ,Haddon Heights-NJ,New Jersey,34007,Camden,39.8791,-75.0646,7544,7544,1856,polygon,TRUE,America/New_York,8035
+Waterford Works-NJ,1840033436,Waterford Works,Waterford Works,NJ,Waterford Works-NJ,New Jersey,34007,Camden,39.7232,-74.8491,,,133.3,point,FALSE,America/New_York,8089
+Ashland-NJ,1840033467,Ashland,Ashland,NJ,Ashland-NJ,New Jersey,34007,Camden,39.8781,-75.0085,,,1736.8,polygon,FALSE,America/New_York,08003 08034
+Oradell-NJ,1840000914,Oradell,Oradell,NJ,Oradell-NJ,New Jersey,34003,Bergen,40.9562,-74.0314,8219,8219,1309,polygon,TRUE,America/New_York,7649
+Haworth-NJ,1840003559,Haworth,Haworth,NJ,Haworth-NJ,New Jersey,34003,Bergen,40.9622,-73.9976,3464,3464,687,polygon,TRUE,America/New_York,7641
+Hazlet-NJ,1840033295,Hazlet,Hazlet,NJ,Hazlet-NJ,New Jersey,34025,Monmouth,40.4157,-74.191,,,1415.2,point,FALSE,America/New_York,7730
+Flemington-NJ,1840003605,Flemington,Flemington,NJ,Flemington-NJ,New Jersey,34019,Hunterdon,40.5086,-74.8601,4621,4621,1654,polygon,TRUE,America/New_York,8822
+Seaside Park-NJ,1840001488,Seaside Park,Seaside Park,NJ,Seaside Park-NJ,New Jersey,34029,Ocean,39.9259,-74.0781,1551,1551,921,polygon,TRUE,America/New_York,8752
+Short Hills-NJ,1840033408,Short Hills,Short Hills,NJ,Short Hills-NJ,New Jersey,34013,Essex,40.7389,-74.3277,,,1012.3,polygon,FALSE,America/New_York,7078
+Moorestown-NJ,1840033353,Moorestown,Moorestown,NJ,Moorestown-NJ,New Jersey,34005,Burlington,39.9671,-74.9427,,,1314.1,point,FALSE,America/New_York,8057
+Bellmawr-NJ,1840000731,Bellmawr,Bellmawr,NJ,Bellmawr-NJ,New Jersey,34007,Camden,39.8665,-75.0942,11478,11478,1478,polygon,TRUE,America/New_York,08031 08099
+Brigantine-NJ,1840001533,Brigantine,Brigantine,NJ,Brigantine-NJ,New Jersey,34001,Atlantic,39.4127,-74.3802,9042,9042,546,polygon,TRUE,America/New_York,8203
+White Meadow Lake-NJ,1840005198,White Meadow Lake,White Meadow Lake,NJ,White Meadow Lake-NJ,New Jersey,34027,Morris,40.924,-74.5122,,,1532.9,polygon,FALSE,America/New_York,7866
+Troy Hills-NJ,1840033430,Troy Hills,Troy Hills,NJ,Troy Hills-NJ,New Jersey,34027,Morris,40.8529,-74.3921,,,1007.6,point,FALSE,America/New_York,7054
+Demarest-NJ,1840003540,Demarest,Demarest,NJ,Demarest-NJ,New Jersey,34003,Bergen,40.955,-73.9568,5000,5000,934,polygon,TRUE,America/New_York,7627
+Audubon Park-NJ,1840033220,Audubon Park,Audubon Park,NJ,Audubon Park-NJ,New Jersey,34007,Camden,39.8966,-75.0889,1011,1011,2688,polygon,TRUE,America/New_York,8106
+Sea Girt-NJ,1840001362,Sea Girt,Sea Girt,NJ,Sea Girt-NJ,New Jersey,34025,Monmouth,40.1308,-74.0356,1785,1785,652,polygon,TRUE,America/New_York,8750
+Dumont-NJ,1840003541,Dumont,Dumont,NJ,Dumont-NJ,New Jersey,34003,Bergen,40.945,-73.9925,17871,17871,3480,polygon,TRUE,America/New_York,7628
+Deepwater-NJ,1840033260,Deepwater,Deepwater,NJ,Deepwater-NJ,New Jersey,34033,Salem,39.6834,-75.4905,,,319.1,point,FALSE,America/New_York,8023
+Presidential Lakes Estates-NJ,1840005520,Presidential Lakes Estates,Presidential Lakes Estates,NJ,Presidential Lakes Estates-NJ,New Jersey,34005,Burlington,39.915,-74.5648,,,621.4,polygon,FALSE,America/New_York,8015
+Adelphia-NJ,1840033213,Adelphia,Adelphia,NJ,Adelphia-NJ,New Jersey,34025,Monmouth,40.2182,-74.2563,,,422,point,FALSE,America/New_York,7728
+Vineland-NJ,1840001551,Vineland,Vineland,NJ,Vineland-NJ,New Jersey,34011,Cumberland,39.4652,-74.9981,94943,60525,341,polygon,TRUE,America/New_York,08344 08360 08361 08362
+Helmetta-NJ,1840003635,Helmetta,Helmetta,NJ,Helmetta-NJ,New Jersey,34023,Middlesex,40.3778,-74.4238,2213,2213,1005,polygon,TRUE,America/New_York,8828
+Locust-NJ,1840033456,Locust,Locust,NJ,Locust-NJ,New Jersey,34025,Monmouth,40.3946,-74.0263,,,657,point,FALSE,America/New_York,7760
+Awosting-NJ,1840033222,Awosting,Awosting,NJ,Awosting-NJ,New Jersey,34031,Passaic,41.1545,-74.3365,,,799.2,point,FALSE,America/New_York,7421
+Rancocas Woods-NJ,1840033395,Rancocas Woods,Rancocas Woods,NJ,Rancocas Woods-NJ,New Jersey,34005,Burlington,39.989,-74.8602,,,1427.4,point,FALSE,America/New_York,8054
+Boonton-NJ,1840000946,Boonton,Boonton,NJ,Boonton-NJ,New Jersey,34027,Morris,40.9047,-74.4048,8382,8382,1385,polygon,TRUE,America/New_York,7005
+Summit-NJ,1840000999,Summit,Summit,NJ,Summit-NJ,New Jersey,34039,Union,40.7154,-74.3648,22019,22019,1417,polygon,TRUE,America/New_York,07901 07902
+Brooklawn-NJ,1840001506,Brooklawn,Brooklawn,NJ,Brooklawn-NJ,New Jersey,34007,Camden,39.8787,-75.1207,1932,1932,1516,polygon,TRUE,America/New_York,8030
+Griggstown-NJ,1840024277,Griggstown,Griggstown,NJ,Griggstown-NJ,New Jersey,34035,Somerset,40.4399,-74.599,,,53.6,polygon,FALSE,America/New_York,8540
+Carteret-NJ,1840001331,Carteret,Carteret,NJ,Carteret-NJ,New Jersey,34023,Middlesex,40.5849,-74.2285,23992,23992,2096,polygon,TRUE,America/New_York,7008
+Margate City-NJ,1840003793,Margate City,Margate City,NJ,Margate City-NJ,New Jersey,34001,Atlantic,39.3307,-74.5071,6142,6142,1675,polygon,TRUE,America/New_York,8402
+Society Hill-NJ,1840033486,Society Hill,Society Hill,NJ,Society Hill-NJ,New Jersey,34023,Middlesex,40.5344,-74.4577,,,1294,polygon,FALSE,America/New_York,8854
+Vista Center-NJ,1840033475,Vista Center,Vista Center,NJ,Vista Center-NJ,New Jersey,34029,Ocean,40.1585,-74.3227,,,494.5,polygon,FALSE,America/New_York,8527
+Rocky Hill-NJ,1840001055,Rocky Hill,Rocky Hill,NJ,Rocky Hill-NJ,New Jersey,34035,Somerset,40.4001,-74.6405,688,688,428,polygon,TRUE,America/New_York,8553
+North Branch-NJ,1840033369,North Branch,North Branch,NJ,North Branch-NJ,New Jersey,34035,Somerset,40.602,-74.6774,,,159.5,point,FALSE,America/New_York,8876
+Tenafly-NJ,1840000918,Tenafly,Tenafly,NJ,Tenafly-NJ,New Jersey,34003,Bergen,40.9174,-73.9529,14846,14846,1245,polygon,TRUE,America/New_York,7670
+Cliffwood Beach-NJ,1840005440,Cliffwood Beach,Cliffwood Beach,NJ,Cliffwood Beach-NJ,New Jersey,34025,Monmouth,40.4428,-74.2179,,,1433.3,polygon,FALSE,America/New_York,7735
+Lower Squankum-NJ,1840033329,Lower Squankum,Lower Squankum,NJ,Lower Squankum-NJ,New Jersey,34025,Monmouth,40.1587,-74.1568,,,377.1,point,FALSE,America/New_York,7731
+Lake Hiawatha-NJ,1840033318,Lake Hiawatha,Lake Hiawatha,NJ,Lake Hiawatha-NJ,New Jersey,34027,Morris,40.8826,-74.3815,,,2969.1,point,FALSE,America/New_York,7034
+Asbury-NJ,1840024217,Asbury,Asbury,NJ,Asbury-NJ,New Jersey,34041,Warren,40.7004,-75.0122,,,194.1,polygon,FALSE,America/New_York,8802
+Auburn-NJ,1840033219,Auburn,Auburn,NJ,Auburn-NJ,New Jersey,34033,Salem,39.7109,-75.3677,,,90.1,point,FALSE,America/New_York,8085
+Delanco-NJ,1840033261,Delanco,Delanco,NJ,Delanco-NJ,New Jersey,34005,Burlington,40.0507,-74.9535,,,1831.9,point,FALSE,America/New_York,8075
+Concordia-NJ,1840005412,Concordia,Concordia,NJ,Concordia-NJ,New Jersey,34023,Middlesex,40.3117,-74.4477,,,1050.8,polygon,FALSE,America/New_York,8831
+Shiloh-NJ,1840001549,Shiloh,Shiloh,NJ,Shiloh-NJ,New Jersey,34011,Cumberland,39.4594,-75.297,500,500,159,polygon,TRUE,America/New_York,8353
+Tabernacle-NJ,1840033423,Tabernacle,Tabernacle,NJ,Tabernacle-NJ,New Jersey,34005,Burlington,39.844,-74.7102,,,97.9,point,FALSE,America/New_York,8088
+Runnemede-NJ,1840001511,Runnemede,Runnemede,NJ,Runnemede-NJ,New Jersey,34007,Camden,39.8521,-75.074,8382,8382,1587,polygon,TRUE,America/New_York,8078
+Olivet-NJ,1840005592,Olivet,Olivet,NJ,Olivet-NJ,New Jersey,34033,Salem,39.5401,-75.1728,,,160.6,polygon,FALSE,America/New_York,8318
+Gillette-NJ,1840033284,Gillette,Gillette,NJ,Gillette-NJ,New Jersey,34027,Morris,40.674,-74.466,,,541.6,point,FALSE,America/New_York,7933
+Woodland Park-NJ,1840000841,Woodland Park,Woodland Park,NJ,Woodland Park-NJ,New Jersey,34031,Passaic,40.8898,-74.1949,,,3258.4,point,TRUE,America/New_York,7424
+Parsippany-NJ,1840033373,Parsippany,Parsippany,NJ,Parsippany-NJ,New Jersey,34027,Morris,40.8579,-74.426,,,3164.7,point,FALSE,America/New_York,7054
+Holmdel-NJ,1840033299,Holmdel,Holmdel,NJ,Holmdel-NJ,New Jersey,34025,Monmouth,40.3451,-74.184,,,59.4,point,FALSE,America/New_York,7733
+West Berlin-NJ,1840033437,West Berlin,West Berlin,NJ,West Berlin-NJ,New Jersey,34007,Camden,39.8087,-74.9413,,,1517.6,point,FALSE,America/New_York,8091
+Fries Mill-NJ,1840033282,Fries Mill,Fries Mill,NJ,Fries Mill-NJ,New Jersey,34015,Gloucester,39.6562,-75.0452,,,370.4,point,FALSE,America/New_York,8322
+Dover Beaches South-NJ,1840005529,Dover Beaches South,Dover Beaches South,NJ,Dover Beaches South-NJ,New Jersey,34029,Ocean,39.9538,-74.0804,,,742.1,polygon,FALSE,America/New_York,8751
+Hainesburg-NJ,1840024227,Hainesburg,Hainesburg,NJ,Hainesburg-NJ,New Jersey,34041,Warren,40.9543,-75.0631,,,138.7,polygon,FALSE,America/New_York,7832
+Atsion-NJ,1840033218,Atsion,Atsion,NJ,Atsion-NJ,New Jersey,34005,Burlington,39.7426,-74.726,,,10.2,point,FALSE,America/New_York,8088
+Pitman-NJ,1840001521,Pitman,Pitman,NJ,Pitman-NJ,New Jersey,34015,Gloucester,39.7332,-75.1307,8874,8874,1511,polygon,TRUE,America/New_York,8071
+Oaklyn-NJ,1840001515,Oaklyn,Oaklyn,NJ,Oaklyn-NJ,New Jersey,34007,Camden,39.9023,-75.0815,3993,3993,2456,polygon,TRUE,America/New_York,8107
+Rudeville-NJ,1840033404,Rudeville,Rudeville,NJ,Rudeville-NJ,New Jersey,34037,Sussex,41.1495,-74.5446,,,105.5,point,FALSE,America/New_York,7419
+Wood-Lynne-NJ,1840033448,Wood-Lynne,Wood-Lynne,NJ,Wood-Lynne-NJ,New Jersey,34007,Camden,39.9167,-75.0956,2944,2944,5191,polygon,TRUE,America/New_York,8107
+Linwood-NJ,1840016701,Linwood,Linwood,NJ,Linwood-NJ,New Jersey,34001,Atlantic,39.3435,-74.5707,6892,6892,689,polygon,TRUE,America/New_York,8221
+Yardville-NJ,1840026523,Yardville,Yardville,NJ,Yardville-NJ,New Jersey,34021,Mercer,40.1849,-74.6601,,,1164.5,polygon,FALSE,America/New_York,08691 08620
+Allendale-NJ,1840003550,Allendale,Allendale,NJ,Allendale-NJ,New Jersey,34003,Bergen,41.0332,-74.1332,6853,6853,854,polygon,TRUE,America/New_York,7401
+Lincroft-NJ,1840005449,Lincroft,Lincroft,NJ,Lincroft-NJ,New Jersey,34025,Monmouth,40.3391,-74.1282,,,675.3,polygon,FALSE,America/New_York,7738
+South Amboy-NJ,1840001333,South Amboy,South Amboy,NJ,South Amboy-NJ,New Jersey,34023,Middlesex,40.4851,-74.2831,8778,8778,2200,polygon,TRUE,America/New_York,8879
+Sewaren-NJ,1840005422,Sewaren,Sewaren,NJ,Sewaren-NJ,New Jersey,34023,Middlesex,40.5506,-74.2604,,,1723.1,polygon,FALSE,America/New_York,7077
+Alpha-NJ,1840003572,Alpha,Alpha,NJ,Alpha-NJ,New Jersey,34041,Warren,40.6599,-75.1569,2296,2296,530,polygon,TRUE,America/New_York,8865
+Victory Gardens-NJ,1840000954,Victory Gardens,Victory Gardens,NJ,Victory Gardens-NJ,New Jersey,34027,Morris,40.8762,-74.5434,1519,1519,4020,polygon,TRUE,America/New_York,7801
+Port Republic-NJ,1840001536,Port Republic,Port Republic,NJ,Port Republic-NJ,New Jersey,34001,Atlantic,39.5327,-74.4852,1085,1085,55,polygon,TRUE,America/New_York,8241
+Brass Castle-NJ,1840005193,Brass Castle,Brass Castle,NJ,Brass Castle-NJ,New Jersey,34041,Warren,40.7622,-75.0139,,,213.9,polygon,FALSE,America/New_York,7882
+Loch Arbour-NJ,1840003672,Loch Arbour,Loch Arbour,NJ,Loch Arbour-NJ,New Jersey,34025,Monmouth,40.2323,-74.0012,183,183,789,polygon,TRUE,America/New_York,7711
+Waldwick-NJ,1840000921,Waldwick,Waldwick,NJ,Waldwick-NJ,New Jersey,34003,Bergen,41.0132,-74.1262,10026,10026,1866,polygon,TRUE,America/New_York,7463
+Ocean Acres-NJ,1840033483,Ocean Acres,Ocean Acres,NJ,Ocean Acres-NJ,New Jersey,34029,Ocean,39.743,-74.2804,,,1233.4,polygon,FALSE,America/New_York,08050 08005
+Jersey City-NJ,1840003600,Jersey City,Jersey City,NJ,Jersey City-NJ,New Jersey,34017,Hudson,40.7161,-74.0683,264152,264152,6894,polygon,TRUE,America/New_York,07310 07311 07302 07307 07306 07305 07304 07097 07303 07308 07395 07399
+Cedar Knolls-NJ,1840033242,Cedar Knolls,Cedar Knolls,NJ,Cedar Knolls-NJ,New Jersey,34027,Morris,40.822,-74.4488,,,792.7,point,FALSE,America/New_York,7927
+Ten Mile Run-NJ,1840033462,Ten Mile Run,Ten Mile Run,NJ,Ten Mile Run-NJ,New Jersey,34035,Somerset,40.4219,-74.589,,,89,polygon,FALSE,America/New_York,08823 08540
+South Plainfield-NJ,1840001334,South Plainfield,South Plainfield,NJ,South Plainfield-NJ,New Jersey,34023,Middlesex,40.5746,-74.4151,24221,24221,1123,polygon,TRUE,America/New_York,7080
+Hackettstown-NJ,1840003573,Hackettstown,Hackettstown,NJ,Hackettstown-NJ,New Jersey,34041,Warren,40.854,-74.8257,9549,9549,1021,polygon,TRUE,America/New_York,7840
+Lafayette-NJ,1840033316,Lafayette,Lafayette,NJ,Lafayette-NJ,New Jersey,34037,Sussex,41.0984,-74.6885,,,76.9,point,FALSE,America/New_York,7848
+Roosevelt-NJ,1840001359,Roosevelt,Roosevelt,NJ,Roosevelt-NJ,New Jersey,34025,Monmouth,40.2211,-74.4725,854,854,172,polygon,TRUE,America/New_York,08555 08535
+Absecon-NJ,1840003797,Absecon,Absecon,NJ,Absecon-NJ,New Jersey,34001,Atlantic,39.4221,-74.4941,8295,8295,593,polygon,TRUE,America/New_York,8201
+Raritan-NJ,1840001054,Raritan,Raritan,NJ,Raritan-NJ,New Jersey,34035,Somerset,40.573,-74.6432,8007,8007,1551,polygon,TRUE,America/New_York,8869
+Middlebush-NJ,1840024280,Middlebush,Middlebush,NJ,Middlebush-NJ,New Jersey,34035,Somerset,40.5015,-74.5349,,,741.6,polygon,FALSE,America/New_York,8873
+Great Meadows-NJ,1840024225,Great Meadows,Great Meadows,NJ,Great Meadows-NJ,New Jersey,34041,Warren,40.877,-74.9036,,,102.2,polygon,FALSE,America/New_York,7838
+Laurel Lake-NJ,1840005752,Laurel Lake,Laurel Lake,NJ,Laurel Lake-NJ,New Jersey,34011,Cumberland,39.3265,-75.0306,,,562.1,polygon,FALSE,America/New_York,8332
+Trenton-NJ,1840001383,Trenton,Trenton,NJ,Trenton-NJ,New Jersey,34021,Mercer,40.2237,-74.764,293697,84056,4243,polygon,TRUE,America/New_York,08638 08611 08618 08629 08609 08608 08601 08602 08603 08604 08605 08606 08607 08625 08645 08646 08647 08650 08666 08695
+Collingwood Park-NJ,1840033251,Collingwood Park,Collingwood Park,NJ,Collingwood Park-NJ,New Jersey,34025,Monmouth,40.2223,-74.1338,,,107.9,point,FALSE,America/New_York,7727
+Lakeside-NJ,1840033320,Lakeside,Lakeside,NJ,Lakeside-NJ,New Jersey,34031,Passaic,41.1818,-74.336,,,409.3,point,FALSE,America/New_York,7421
+Lake Telemark-NJ,1840005196,Lake Telemark,Lake Telemark,NJ,Lake Telemark-NJ,New Jersey,34027,Morris,40.9605,-74.4967,,,757.6,polygon,FALSE,America/New_York,7866
+Kingston-NJ,1840033313,Kingston,Kingston,NJ,Kingston-NJ,New Jersey,34035,Somerset,40.3818,-74.6113,,,389.1,polygon,FALSE,America/New_York,08528 08540
+Union City-NJ,1840001034,Union City,Union City,NJ,Union City-NJ,New Jersey,34017,Hudson,40.7675,-74.0323,69296,69296,20858,polygon,TRUE,America/New_York,7087
+Highland Lakes-NJ,1840033298,Highland Lakes,Highland Lakes,NJ,Highland Lakes-NJ,New Jersey,34037,Sussex,41.1716,-74.4643,,,1165.9,polygon,FALSE,America/New_York,07462 07422
+Weston-NJ,1840033440,Weston,Weston,NJ,Weston-NJ,New Jersey,34035,Somerset,40.5224,-74.5765,,,2567.6,polygon,FALSE,America/New_York,8873
+Garfield-NJ,1840003554,Garfield,Garfield,NJ,Garfield-NJ,New Jersey,34003,Bergen,40.8791,-74.1083,31876,31876,5855,polygon,TRUE,America/New_York,7026
+Glenwood-NJ,1840033288,Glenwood,Glenwood,NJ,Glenwood-NJ,New Jersey,34037,Sussex,41.2512,-74.4896,,,204.9,point,FALSE,America/New_York,7418
+Golden Triangle-NJ,1840033471,Golden Triangle,Golden Triangle,NJ,Golden Triangle-NJ,New Jersey,34007,Camden,39.9289,-75.0399,,,532.3,polygon,FALSE,America/New_York,8002
+Pine Valley-NJ,1840001510,Pine Valley,Pine Valley,NJ,Pine Valley-NJ,New Jersey,34007,Camden,39.7869,-74.9741,11,11,4,polygon,TRUE,America/New_York,8021
+Pine Brook-NJ,1840033379,Pine Brook,Pine Brook,NJ,Pine Brook-NJ,New Jersey,34027,Morris,40.8604,-74.3404,,,467.5,point,FALSE,America/New_York,7058
+Old Tappan-NJ,1840000913,Old Tappan,Old Tappan,NJ,Old Tappan-NJ,New Jersey,34003,Bergen,41.0164,-73.9856,6002,6002,695,polygon,TRUE,America/New_York,7675
+Readington-NJ,1840033396,Readington,Readington,NJ,Readington-NJ,New Jersey,34019,Hunterdon,40.5687,-74.7377,,,171.7,point,FALSE,America/New_York,8889
+Glendora-NJ,1840033286,Glendora,Glendora,NJ,Glendora-NJ,New Jersey,34007,Camden,39.8405,-75.0678,,,1920.7,polygon,FALSE,America/New_York,8029
+Clarksville-NJ,1840033247,Clarksville,Clarksville,NJ,Clarksville-NJ,New Jersey,34021,Mercer,40.2965,-74.6802,,,76.1,point,FALSE,America/New_York,8648
+Upper Montclair-NJ,1840024255,Upper Montclair,Upper Montclair,NJ,Upper Montclair-NJ,New Jersey,34013,Essex,40.8427,-74.2016,,,2199.6,polygon,FALSE,America/New_York,7043
+Beverly-NJ,1840001475,Beverly,Beverly,NJ,Beverly-NJ,New Jersey,34005,Burlington,40.065,-74.9217,2513,2513,1749,polygon,TRUE,America/New_York,8010
+Morristown-NJ,1840003577,Morristown,Morristown,NJ,Morristown-NJ,New Jersey,34027,Morris,40.7966,-74.4772,19016,19016,2523,polygon,TRUE,America/New_York,07960 07962 07963
+Taylortown-NJ,1840033426,Taylortown,Taylortown,NJ,Taylortown-NJ,New Jersey,34027,Morris,40.9379,-74.3946,,,166.2,point,FALSE,America/New_York,7005
+Marcella-NJ,1840033338,Marcella,Marcella,NJ,Marcella-NJ,New Jersey,34027,Morris,40.987,-74.4743,,,104,point,FALSE,America/New_York,7866
+Marshalltown-NJ,1840033340,Marshalltown,Marshalltown,NJ,Marshalltown-NJ,New Jersey,34033,Salem,39.6376,-75.4533,,,13,point,FALSE,America/New_York,8079
+Leisuretowne-NJ,1840005521,Leisuretowne,Leisuretowne,NJ,Leisuretowne-NJ,New Jersey,34005,Burlington,39.8987,-74.7052,,,1467.5,polygon,FALSE,America/New_York,8088
+Woods Tavern-NJ,1840033450,Woods Tavern,Woods Tavern,NJ,Woods Tavern-NJ,New Jersey,34035,Somerset,40.5023,-74.6446,,,1201.2,point,FALSE,America/New_York,8844
+Wickatunk-NJ,1840033444,Wickatunk,Wickatunk,NJ,Wickatunk-NJ,New Jersey,34025,Monmouth,40.3501,-74.2479,,,477.2,point,FALSE,America/New_York,7751
+Pennington-NJ,1840001382,Pennington,Pennington,NJ,Pennington-NJ,New Jersey,34021,Mercer,40.3263,-74.7906,2568,2568,1037,polygon,TRUE,America/New_York,8534
+West Long Branch-NJ,1840001370,West Long Branch,West Long Branch,NJ,West Long Branch-NJ,New Jersey,34025,Monmouth,40.2883,-74.0186,7963,7963,1075,polygon,TRUE,America/New_York,7764
+Ocean Grove-NJ,1840005446,Ocean Grove,Ocean Grove,NJ,Ocean Grove-NJ,New Jersey,34025,Monmouth,40.2119,-74.0079,,,2550.2,polygon,FALSE,America/New_York,7756
+Green Village-NJ,1840033292,Green Village,Green Village,NJ,Green Village-NJ,New Jersey,34027,Morris,40.7393,-74.4535,,,185.9,point,FALSE,America/New_York,7935
+Blue Anchor-NJ,1840033230,Blue Anchor,Blue Anchor,NJ,Blue Anchor-NJ,New Jersey,34007,Camden,39.6896,-74.8827,,,188.9,point,FALSE,America/New_York,8037
+Voorhees-NJ,1840033435,Voorhees,Voorhees,NJ,Voorhees-NJ,New Jersey,34035,Somerset,40.4822,-74.4924,,,1735.9,polygon,FALSE,America/New_York,8873
+Bradley Gardens-NJ,1840033232,Bradley Gardens,Bradley Gardens,NJ,Bradley Gardens-NJ,New Jersey,34035,Somerset,40.5712,-74.6679,,,1587.7,polygon,FALSE,America/New_York,8807
+Leisure Village East-NJ,1840033212,Leisure Village East,Leisure Village East,NJ,Leisure Village East-NJ,New Jersey,34029,Ocean,40.038,-74.1683,,,1520.1,polygon,FALSE,America/New_York,8701
+Millville-NJ,1840001550,Millville,Millville,NJ,Millville-NJ,New Jersey,34011,Cumberland,39.3903,-75.0561,28059,28059,257,polygon,TRUE,America/New_York,8332
+Shark River Hills-NJ,1840005450,Shark River Hills,Shark River Hills,NJ,Shark River Hills-NJ,New Jersey,34025,Monmouth,40.1936,-74.0477,,,1468.8,polygon,FALSE,America/New_York,7753
+Lavallette-NJ,1840001492,Lavallette,Lavallette,NJ,Lavallette-NJ,New Jersey,34029,Ocean,39.9697,-74.0721,1832,1832,874,polygon,TRUE,America/New_York,8735
+West Creek-NJ,1840033438,West Creek,West Creek,NJ,West Creek-NJ,New Jersey,34029,Ocean,39.6346,-74.3071,,,169.9,point,FALSE,America/New_York,8092
+Bennetts Mills-NJ,1840033229,Bennetts Mills,Bennetts Mills,NJ,Bennetts Mills-NJ,New Jersey,34029,Ocean,40.129,-74.2751,,,1394.1,point,FALSE,America/New_York,8527
+Farmingdale-NJ,1840003686,Farmingdale,Farmingdale,NJ,Farmingdale-NJ,New Jersey,34025,Monmouth,40.1984,-74.1701,1293,1293,957,polygon,TRUE,America/New_York,7727
+Newport-NJ,1840033368,Newport,Newport,NJ,Newport-NJ,New Jersey,34011,Cumberland,39.2968,-75.1766,,,204.9,point,FALSE,America/New_York,8345
+Northfield-NJ,1840001538,Northfield,Northfield,NJ,Northfield-NJ,New Jersey,34001,Atlantic,39.3723,-74.5556,8410,8410,953,polygon,TRUE,America/New_York,8225
+Lincoln Park-NJ,1840000953,Lincoln Park,Lincoln Park,NJ,Lincoln Park-NJ,New Jersey,34027,Morris,40.9239,-74.3035,10442,10442,632,polygon,TRUE,America/New_York,7035
+Gladstone-NJ,1840033285,Gladstone,Gladstone,NJ,Gladstone-NJ,New Jersey,34035,Somerset,40.7226,-74.6654,,,513.8,point,TRUE,America/New_York,7934
+Lenola-NJ,1840033326,Lenola,Lenola,NJ,Lenola-NJ,New Jersey,34005,Burlington,39.9623,-74.9824,,,1613.6,point,FALSE,America/New_York,8057
+Kresson-NJ,1840033315,Kresson,Kresson,NJ,Kresson-NJ,New Jersey,34007,Camden,39.8576,-74.9213,,,115.6,point,FALSE,America/New_York,8053
+Twin Rivers-NJ,1840005474,Twin Rivers,Twin Rivers,NJ,Twin Rivers-NJ,New Jersey,34021,Mercer,40.263,-74.4915,,,3756.2,polygon,FALSE,America/New_York,8520
+Newark-NJ,1840002791,Newark,Newark,NJ,Newark-NJ,New Jersey,34013,Essex,40.7242,-74.1724,281764,281764,4496,polygon,TRUE,America/New_York,07103 07102 07105 07104 07107 07106 07108 07112 07114 07101 07175 07184 07188 07189 07191 07192 07193 07195 07198 07199
+Frenchtown-NJ,1840003606,Frenchtown,Frenchtown,NJ,Frenchtown-NJ,New Jersey,34019,Hunterdon,40.5279,-75.0562,1395,1395,425,polygon,TRUE,America/New_York,8825
+Bernardsville-NJ,1840001052,Bernardsville,Bernardsville,NJ,Bernardsville-NJ,New Jersey,34035,Somerset,40.7268,-74.5919,7805,7805,233,polygon,TRUE,America/New_York,7924
+Ventnor City-NJ,1840001539,Ventnor City,Ventnor City,NJ,Ventnor City-NJ,New Jersey,34001,Atlantic,39.3457,-74.486,10317,10317,2041,polygon,TRUE,America/New_York,8406
+Washington-NJ,1840000945,Washington,Washington,NJ,Washington-NJ,New Jersey,34041,Warren,40.7586,-74.9826,15457,6492,1290,polygon,TRUE,America/New_York,7882
+Andover-NJ,1840003479,Andover,Andover,NJ,Andover-NJ,New Jersey,34037,Sussex,40.9864,-74.7429,571,571,151,polygon,TRUE,America/New_York,7821
+Folsom-NJ,1840003799,Folsom,Folsom,NJ,Folsom-NJ,New Jersey,34001,Atlantic,39.5928,-74.8426,1824,1824,85,polygon,TRUE,America/New_York,08094 08037
+Ewansville-NJ,1840033273,Ewansville,Ewansville,NJ,Ewansville-NJ,New Jersey,34005,Burlington,39.9784,-74.7352,,,509.6,point,FALSE,America/New_York,8088
+Camden-NJ,1840001507,Camden,Camden,NJ,Camden-NJ,New Jersey,34007,Camden,39.9361,-75.1072,74420,74420,3220,polygon,TRUE,America/New_York,08104 08105 08102 08103 08101
+Robbinsville-NJ,1840025550,Robbinsville,Robbinsville,NJ,Robbinsville-NJ,New Jersey,34021,Mercer,40.2197,-74.6273,,,399.8,polygon,FALSE,America/New_York,8691
+Darlington-NJ,1840033258,Darlington,Darlington,NJ,Darlington-NJ,New Jersey,34003,Bergen,41.0804,-74.1821,,,1362.4,point,FALSE,America/New_York,7430
+Penns Neck-NJ,1840033376,Penns Neck,Penns Neck,NJ,Penns Neck-NJ,New Jersey,34021,Mercer,40.3323,-74.6368,,,452.3,point,FALSE,America/New_York,8540
+Broadway-NJ,1840024220,Broadway,Broadway,NJ,Broadway-NJ,New Jersey,34041,Warren,40.7356,-75.0494,,,98.7,polygon,FALSE,America/New_York,07882 08808
+Buena-NJ,1840001534,Buena,Buena,NJ,Buena-NJ,New Jersey,34001,Atlantic,39.5283,-74.9448,4456,4456,227,polygon,TRUE,America/New_York,08326 08310 08341 08360
+Whitesboro-NJ,1840033443,Whitesboro,Whitesboro,NJ,Whitesboro-NJ,New Jersey,34009,Cape May,39.0417,-74.8674,,,553,polygon,FALSE,America/New_York,08210 08252
+Garwood-NJ,1840003615,Garwood,Garwood,NJ,Garwood-NJ,New Jersey,34039,Union,40.6512,-74.3231,4347,4347,2526,polygon,TRUE,America/New_York,7027
+Land of Pines-NJ,1840033322,Land of Pines,Land of Pines,NJ,Land of Pines-NJ,New Jersey,34025,Monmouth,40.1582,-74.2288,,,872.6,point,FALSE,America/New_York,7731
+Sparta-NJ,1840033416,Sparta,Sparta,NJ,Sparta-NJ,New Jersey,34037,Sussex,41.0334,-74.6385,,,280.3,point,FALSE,America/New_York,7871
+Far Hills-NJ,1840003611,Far Hills,Far Hills,NJ,Far Hills-NJ,New Jersey,34035,Somerset,40.6905,-74.6257,927,927,74,polygon,TRUE,America/New_York,7931
+Evesboro-NJ,1840033271,Evesboro,Evesboro,NJ,Evesboro-NJ,New Jersey,34005,Burlington,39.9134,-74.9235,,,1390.4,point,FALSE,America/New_York,8053
+Red Lion-NJ,1840033397,Red Lion,Red Lion,NJ,Red Lion-NJ,New Jersey,34005,Burlington,39.8896,-74.7446,,,57.1,point,FALSE,America/New_York,8088
+Anderson-NJ,1840024216,Anderson,Anderson,NJ,Anderson-NJ,New Jersey,34041,Warren,40.7614,-74.9304,,,69.6,polygon,FALSE,America/New_York,07882 07865
+Spring Lake Heights-NJ,1840001367,Spring Lake Heights,Spring Lake Heights,NJ,Spring Lake Heights-NJ,New Jersey,34025,Monmouth,40.1521,-74.0429,4611,4611,1386,polygon,TRUE,America/New_York,7762
+Butler-NJ,1840000947,Butler,Butler,NJ,Butler-NJ,New Jersey,34027,Morris,40.9991,-74.3472,7779,7779,1473,polygon,TRUE,America/New_York,7405
+Winslow-NJ,1840033446,Winslow,Winslow,NJ,Winslow-NJ,New Jersey,34007,Camden,39.6573,-74.8624,,,108.1,point,FALSE,America/New_York,8095
+Millington-NJ,1840033348,Millington,Millington,NJ,Millington-NJ,New Jersey,34027,Morris,40.6773,-74.5177,,,592.6,point,FALSE,America/New_York,7946
+Paulsboro-NJ,1840001523,Paulsboro,Paulsboro,NJ,Paulsboro-NJ,New Jersey,34015,Gloucester,39.8401,-75.2398,5958,5958,1213,polygon,TRUE,America/New_York,8066
+Linden-NJ,1840001094,Linden,Linden,NJ,Linden-NJ,New Jersey,34039,Union,40.6251,-74.238,42457,42457,1535,polygon,TRUE,America/New_York,7036
+Tavistock-NJ,1840001517,Tavistock,Tavistock,NJ,Tavistock-NJ,New Jersey,34007,Camden,39.8757,-75.0276,5,5,7,polygon,TRUE,America/New_York,8033
+Bay Head-NJ,1840003756,Bay Head,Bay Head,NJ,Bay Head-NJ,New Jersey,34029,Ocean,40.07,-74.048,978,978,648,polygon,TRUE,America/New_York,8742
+West Freehold-NJ,1840005454,West Freehold,West Freehold,NJ,West Freehold-NJ,New Jersey,34025,Monmouth,40.2324,-74.2943,,,814.9,polygon,FALSE,America/New_York,7728
+Tennent-NJ,1840033427,Tennent,Tennent,NJ,Tennent-NJ,New Jersey,34025,Monmouth,40.2796,-74.3343,,,82.5,point,FALSE,America/New_York,7726
+Bakersville-NJ,1840033223,Bakersville,Bakersville,NJ,Bakersville-NJ,New Jersey,34021,Mercer,40.2748,-74.7063,,,53.8,point,FALSE,America/New_York,8648
+Brookfield-NJ,1840033464,Brookfield,Brookfield,NJ,Brookfield-NJ,New Jersey,34007,Camden,40.8183,-75.0612,,,843.3,polygon,FALSE,America/New_York,7823
+Manahawkin-NJ,1840005535,Manahawkin,Manahawkin,NJ,Manahawkin-NJ,New Jersey,34029,Ocean,39.693,-74.2493,,,350.5,polygon,FALSE,America/New_York,8050
+Berlin-NJ,1840001505,Berlin,Berlin,NJ,Berlin-NJ,New Jersey,34007,Camden,39.7914,-74.9373,7594,7594,817,polygon,TRUE,America/New_York,8009
+Whitman Square-NJ,1840033461,Whitman Square,Whitman Square,NJ,Whitman Square-NJ,New Jersey,34015,Gloucester,39.7459,-75.0343,,,1280,point,FALSE,America/New_York,8012
+Florham Park-NJ,1840003582,Florham Park,Florham Park,NJ,Florham Park-NJ,New Jersey,34027,Morris,40.7772,-74.3953,11766,11766,620,polygon,TRUE,America/New_York,07961 07932
+Pellettown-NJ,1840033375,Pellettown,Pellettown,NJ,Pellettown-NJ,New Jersey,34037,Sussex,41.1615,-74.6746,,,43,point,FALSE,America/New_York,7822
+Long Branch-NJ,1840003673,Long Branch,Long Branch,NJ,Long Branch-NJ,New Jersey,34025,Monmouth,40.2965,-73.9915,30763,30763,2320,polygon,TRUE,America/New_York,7740
+Princeton Junction-NJ,1840005472,Princeton Junction,Princeton Junction,NJ,Princeton Junction-NJ,New Jersey,34021,Mercer,40.3207,-74.6236,,,189.3,polygon,FALSE,America/New_York,08550 08540
+Harrington Park-NJ,1840003557,Harrington Park,Harrington Park,NJ,Harrington Park-NJ,New Jersey,34003,Bergen,40.9899,-73.9802,4806,4806,1012,polygon,TRUE,America/New_York,7640
+Maple Shade-NJ,1840033337,Maple Shade,Maple Shade,NJ,Maple Shade-NJ,New Jersey,34005,Burlington,39.9526,-74.9924,,,2496.1,point,FALSE,America/New_York,8052
+Gilford Park-NJ,1840033283,Gilford Park,Gilford Park,NJ,Gilford Park-NJ,New Jersey,34029,Ocean,39.9487,-74.1371,,,1568.5,point,FALSE,America/New_York,8753
+Bridgeport-NJ,1840033234,Bridgeport,Bridgeport,NJ,Bridgeport-NJ,New Jersey,34015,Gloucester,39.8009,-75.3474,,,221.8,point,FALSE,America/New_York,8014
+Ship Bottom-NJ,1840001489,Ship Bottom,Ship Bottom,NJ,Ship Bottom-NJ,New Jersey,34029,Ocean,39.6458,-74.1834,1139,1139,616,polygon,TRUE,America/New_York,8008
+Lodi-NJ,1840003535,Lodi,Lodi,NJ,Lodi-NJ,New Jersey,34003,Bergen,40.8784,-74.0815,24778,24778,4224,polygon,TRUE,America/New_York,7644
+Hasbrouck Heights-NJ,1840003558,Hasbrouck Heights,Hasbrouck Heights,NJ,Hasbrouck Heights-NJ,New Jersey,34003,Bergen,40.862,-74.0742,12182,12182,3125,polygon,TRUE,America/New_York,7604
+Golf View-NJ,1840033289,Golf View,Golf View,NJ,Golf View-NJ,New Jersey,34033,Salem,39.7007,-75.4694,,,866.7,point,FALSE,America/New_York,8069
+Collings Lakes-NJ,1840005595,Collings Lakes,Collings Lakes,NJ,Collings Lakes-NJ,New Jersey,34001,Atlantic,39.5939,-74.882,,,1512.7,polygon,FALSE,America/New_York,8094
+Ho-Ho-Kus-NJ,1840003561,Ho-Ho-Kus,Ho-Ho-Kus,NJ,Ho-Ho-Kus-NJ,New Jersey,34003,Bergen,41.0002,-74.0975,4142,4142,921,polygon,TRUE,America/New_York,7423
+Point Pleasant Beach-NJ,1840001486,Point Pleasant Beach,Point Pleasant Beach,NJ,Point Pleasant Beach-NJ,New Jersey,34029,Ocean,40.0927,-74.0457,4544,4544,1229,polygon,TRUE,America/New_York,8742
+Teterboro-NJ,1840000919,Teterboro,Teterboro,NJ,Teterboro-NJ,New Jersey,34003,Bergen,40.8574,-74.0597,69,69,23,polygon,TRUE,America/New_York,07608 07699
+Fairton-NJ,1840001547,Fairton,Fairton,NJ,Fairton-NJ,New Jersey,34011,Cumberland,39.3758,-75.213,,,522.2,polygon,FALSE,America/New_York,8302
+Bridgeton-NJ,1840016610,Bridgeton,Bridgeton,NJ,Bridgeton-NJ,New Jersey,34011,Cumberland,39.4284,-75.2284,34536,24997,1561,polygon,TRUE,America/New_York,8302
+Dunellen-NJ,1840003634,Dunellen,Dunellen,NJ,Dunellen-NJ,New Jersey,34023,Middlesex,40.5902,-74.4656,7374,7374,2716,polygon,TRUE,America/New_York,8812
+Long Valley-NJ,1840005197,Long Valley,Long Valley,NJ,Long Valley-NJ,New Jersey,34027,Morris,40.7826,-74.7777,,,323.7,polygon,FALSE,America/New_York,7853
+Succasunna-NJ,1840024235,Succasunna,Succasunna,NJ,Succasunna-NJ,New Jersey,34027,Morris,40.8509,-74.6595,,,1175.8,polygon,FALSE,America/New_York,7876
+Hightstown-NJ,1840003708,Hightstown,Hightstown,NJ,Hightstown-NJ,New Jersey,34021,Mercer,40.2685,-74.525,5503,5503,1735,polygon,TRUE,America/New_York,8520
+Plainsboro Center-NJ,1840033473,Plainsboro Center,Plainsboro Center,NJ,Plainsboro Center-NJ,New Jersey,34023,Middlesex,40.3311,-74.5938,,,1341.4,polygon,FALSE,America/New_York,8536
+Hancocks Bridge-NJ,1840024373,Hancocks Bridge,Hancocks Bridge,NJ,Hancocks Bridge-NJ,New Jersey,34033,Salem,39.5046,-75.4611,,,348.2,polygon,FALSE,America/New_York,08302 08038
+Chesilhurst-NJ,1840001508,Chesilhurst,Chesilhurst,NJ,Chesilhurst-NJ,New Jersey,34007,Camden,39.7307,-74.8784,1636,1636,367,polygon,TRUE,America/New_York,8089
+Riviera Beach-NJ,1840033402,Riviera Beach,Riviera Beach,NJ,Riviera Beach-NJ,New Jersey,34029,Ocean,40.0979,-74.1001,,,2583.4,point,FALSE,America/New_York,8724
+Gibbsboro-NJ,1840003776,Gibbsboro,Gibbsboro,NJ,Gibbsboro-NJ,New Jersey,34007,Camden,39.8331,-74.9656,2248,2248,397,polygon,TRUE,America/New_York,8026
+Rossmoor-NJ,1840033485,Rossmoor,Rossmoor,NJ,Rossmoor-NJ,New Jersey,34023,Middlesex,40.336,-74.4726,,,1038.5,polygon,FALSE,America/New_York,8831
+Riverside Park-NJ,1840033401,Riverside Park,Riverside Park,NJ,Riverside Park-NJ,New Jersey,34005,Burlington,40.0384,-74.9746,,,1749.9,point,FALSE,America/New_York,8075
+Mount Fern-NJ,1840033354,Mount Fern,Mount Fern,NJ,Mount Fern-NJ,New Jersey,34027,Morris,40.8657,-74.5785,,,734.5,point,FALSE,America/New_York,7869
+Barnegat Light-NJ,1840003755,Barnegat Light,Barnegat Light,NJ,Barnegat Light-NJ,New Jersey,34029,Ocean,39.752,-74.1106,587,587,310,polygon,TRUE,America/New_York,08008 08006
+Rahway-NJ,1840001091,Rahway,Rahway,NJ,Rahway-NJ,New Jersey,34039,Union,40.6078,-74.2808,29451,29451,2913,polygon,TRUE,America/New_York,7065
+Delaware-NJ,1840024223,Delaware,Delaware,NJ,Delaware-NJ,New Jersey,34041,Warren,40.8907,-75.0665,,,104.9,polygon,FALSE,America/New_York,7833
+Green Knoll-NJ,1840033460,Green Knoll,Green Knoll,NJ,Green Knoll-NJ,New Jersey,34035,Somerset,40.6048,-74.615,,,684.1,polygon,FALSE,America/New_York,8807
+Piscataway-NJ,1840033380,Piscataway,Piscataway,NJ,Piscataway-NJ,New Jersey,34023,Middlesex,40.4993,-74.399,,,1401.1,point,FALSE,America/New_York,8817
+Clyde-NJ,1840033249,Clyde,Clyde,NJ,Clyde-NJ,New Jersey,34035,Somerset,40.4874,-74.5132,,,430.6,polygon,FALSE,America/New_York,8873
+East Hanover-NJ,1840033479,East Hanover,East Hanover,NJ,East Hanover-NJ,New Jersey,34027,Morris,40.8201,-74.3649,,,718.1,point,FALSE,America/New_York,7936
+Woodbury-NJ,1840001527,Woodbury,Woodbury,NJ,Woodbury-NJ,New Jersey,34015,Gloucester,39.8378,-75.1523,9962,9962,1914,polygon,TRUE,America/New_York,8096
+Green Grove-NJ,1840033290,Green Grove,Green Grove,NJ,Green Grove-NJ,New Jersey,34025,Monmouth,40.2343,-74.0774,,,1183.5,point,FALSE,America/New_York,7753
+Riverside-NJ,1840033400,Riverside,Riverside,NJ,Riverside-NJ,New Jersey,34005,Burlington,40.0323,-74.9574,,,2378,point,FALSE,America/New_York,8075
+Dennisville-NJ,1840016637,Dennisville,Dennisville,NJ,Dennisville-NJ,New Jersey,34009,Cape May,39.1932,-74.8252,,,125.8,point,FALSE,America/New_York,8270
+Cliffwood-NJ,1840033248,Cliffwood,Cliffwood,NJ,Cliffwood-NJ,New Jersey,34025,Monmouth,40.4368,-74.2396,,,1483.1,point,FALSE,America/New_York,7721
+Glenside-NJ,1840033287,Glenside,Glenside,NJ,Glenside-NJ,New Jersey,34033,Salem,39.6665,-75.4883,,,215.5,point,FALSE,America/New_York,8070
+Pedricktown-NJ,1840024374,Pedricktown,Pedricktown,NJ,Pedricktown-NJ,New Jersey,34033,Salem,39.7612,-75.4077,,,119.2,polygon,FALSE,America/New_York,8067
+Marlboro-NJ,1840033339,Marlboro,Marlboro,NJ,Marlboro-NJ,New Jersey,34025,Monmouth,40.3154,-74.2463,,,443.6,point,FALSE,America/New_York,7746
+Monmouth Beach-NJ,1840001364,Monmouth Beach,Monmouth Beach,NJ,Monmouth Beach-NJ,New Jersey,34025,Monmouth,40.3364,-73.9863,3222,3222,1220,polygon,TRUE,America/New_York,7750
+North Bergen-NJ,1840033452,North Bergen,North Bergen,NJ,North Bergen-NJ,New Jersey,34017,Hudson,40.8043,-74.0121,,,11664.7,point,FALSE,America/New_York,7047
+East Freehold-NJ,1840005441,East Freehold,East Freehold,NJ,East Freehold-NJ,New Jersey,34025,Monmouth,40.2718,-74.2426,,,588.2,polygon,FALSE,America/New_York,7728
+Allenhurst-NJ,1840003682,Allenhurst,Allenhurst,NJ,Allenhurst-NJ,New Jersey,34025,Monmouth,40.2362,-74.0018,487,487,753,polygon,TRUE,America/New_York,7711
+Englishtown-NJ,1840003680,Englishtown,Englishtown,NJ,Englishtown-NJ,New Jersey,34025,Monmouth,40.2971,-74.3607,1938,1938,1314,polygon,TRUE,America/New_York,7726
+Star Cross-NJ,1840033420,Star Cross,Star Cross,NJ,Star Cross-NJ,New Jersey,34015,Gloucester,39.6465,-75.0152,,,231.4,point,FALSE,America/New_York,8322
+Kendall Park-NJ,1840005419,Kendall Park,Kendall Park,NJ,Kendall Park-NJ,New Jersey,34023,Middlesex,40.4137,-74.5627,,,1553.6,polygon,FALSE,America/New_York,08824 08852
+Princeton-NJ,1840001381,Princeton,Princeton,NJ,Princeton-NJ,New Jersey,34021,Mercer,40.3563,-74.6694,31249,31249,672,polygon,TRUE,America/New_York,08540 08542 08541 08543 08544
+Penns Grove-NJ,1840001530,Penns Grove,Penns Grove,NJ,Penns Grove-NJ,New Jersey,34033,Salem,39.7275,-75.469,4884,4884,2072,polygon,TRUE,America/New_York,8069
+South Toms River-NJ,1840001490,South Toms River,South Toms River,NJ,South Toms River-NJ,New Jersey,34029,Ocean,39.9415,-74.2092,3761,3761,1238,polygon,TRUE,America/New_York,8757
+East Trenton Heights-NJ,1840033264,East Trenton Heights,East Trenton Heights,NJ,East Trenton Heights-NJ,New Jersey,34021,Mercer,40.2587,-74.7099,,,386.2,point,FALSE,America/New_York,8619
+High Bridge-NJ,1840003609,High Bridge,High Bridge,NJ,High Bridge-NJ,New Jersey,34019,Hunterdon,40.6684,-74.8938,3541,3541,572,polygon,TRUE,America/New_York,8829
+Roselle Park-NJ,1840001093,Roselle Park,Roselle Park,NJ,Roselle Park-NJ,New Jersey,34039,Union,40.6653,-74.2667,13638,13638,4274,polygon,TRUE,America/New_York,7204
+Willingboro-NJ,1840033445,Willingboro,Willingboro,NJ,Willingboro-NJ,New Jersey,34005,Burlington,40.0279,-74.8691,,,2150.7,point,FALSE,America/New_York,8046
+Port Colden-NJ,1840033388,Port Colden,Port Colden,NJ,Port Colden-NJ,New Jersey,34041,Warren,40.7683,-74.9542,,,185.4,polygon,FALSE,America/New_York,7882
+Stockholm-NJ,1840033422,Stockholm,Stockholm,NJ,Stockholm-NJ,New Jersey,34037,Sussex,41.0895,-74.5171,,,32.9,point,FALSE,America/New_York,7460
+Oak Valley-NJ,1840033371,Oak Valley,Oak Valley,NJ,Oak Valley-NJ,New Jersey,34015,Gloucester,39.8054,-75.1589,,,2100.4,polygon,FALSE,America/New_York,8090
+Thorofare-NJ,1840033428,Thorofare,Thorofare,NJ,Thorofare-NJ,New Jersey,34015,Gloucester,39.8423,-75.1963,,,391.7,point,FALSE,America/New_York,8086
+New Brunswick-NJ,1840001339,New Brunswick,New Brunswick,NJ,New Brunswick-NJ,New Jersey,34023,Middlesex,40.487,-74.445,56910,56910,4167,polygon,TRUE,America/New_York,08901 08903 08906 08933 08989
+Ramblewood-NJ,1840033392,Ramblewood,Ramblewood,NJ,Ramblewood-NJ,New Jersey,34005,Burlington,39.9322,-74.9525,,,858.9,polygon,FALSE,America/New_York,8054
+East Millstone-NJ,1840024273,East Millstone,East Millstone,NJ,East Millstone-NJ,New Jersey,34035,Somerset,40.5011,-74.5661,,,376.2,polygon,FALSE,America/New_York,8873
+Wood-Ridge-NJ,1840000925,Wood-Ridge,Wood-Ridge,NJ,Wood-Ridge-NJ,New Jersey,34003,Bergen,40.8509,-74.0878,8600,8600,3026,polygon,TRUE,America/New_York,7075
+Clementon-NJ,1840003773,Clementon,Clementon,NJ,Clementon-NJ,New Jersey,34007,Camden,39.8045,-74.985,4925,4925,993,polygon,TRUE,America/New_York,8021
+Bound Brook-NJ,1840001053,Bound Brook,Bound Brook,NJ,Bound Brook-NJ,New Jersey,34035,Somerset,40.5676,-74.5385,10455,10455,2433,polygon,TRUE,America/New_York,8805
+Strathmore-NJ,1840005451,Strathmore,Strathmore,NJ,Strathmore-NJ,New Jersey,34025,Monmouth,40.4018,-74.2194,,,1784.1,polygon,FALSE,America/New_York,7747
+Mountainside-NJ,1840003612,Mountainside,Mountainside,NJ,Mountainside-NJ,New Jersey,34039,Union,40.681,-74.3605,6883,6883,663,polygon,TRUE,America/New_York,7092
+Annandale-NJ,1840033215,Annandale,Annandale,NJ,Annandale-NJ,New Jersey,34019,Hunterdon,40.6469,-74.8881,,,171.4,polygon,FALSE,America/New_York,08801 08809
+Cliffside Park-NJ,1840003537,Cliffside Park,Cliffside Park,NJ,Cliffside Park-NJ,New Jersey,34003,Bergen,40.8221,-73.9878,24856,24856,9960,polygon,TRUE,America/New_York,7010
+Westville-NJ,1840001526,Westville,Westville,NJ,Westville-NJ,New Jersey,34015,Gloucester,39.8704,-75.1302,4211,4211,1587,polygon,TRUE,America/New_York,8093
+Salem-NJ,1840001529,Salem,Salem,NJ,Salem-NJ,New Jersey,34033,Salem,39.568,-75.4723,5366,4824,794,polygon,TRUE,America/New_York,8079
+Harrison-NJ,1840003598,Harrison,Harrison,NJ,Harrison-NJ,New Jersey,34017,Hudson,40.7431,-74.1532,16231,16231,5208,polygon,TRUE,America/New_York,7029
+Whitehouse Station-NJ,1840033442,Whitehouse Station,Whitehouse Station,NJ,Whitehouse Station-NJ,New Jersey,34019,Hunterdon,40.6159,-74.772,,,483.7,polygon,FALSE,America/New_York,08833 08889
+Edgewater-NJ,1840003543,Edgewater,Edgewater,NJ,Edgewater-NJ,New Jersey,34003,Bergen,40.8234,-73.974,12044,12044,4994,polygon,TRUE,America/New_York,7020
+Somerville-NJ,1840001056,Somerville,Somerville,NJ,Somerville-NJ,New Jersey,34035,Somerset,40.5696,-74.6092,12165,12165,2013,polygon,TRUE,America/New_York,8876
+Palmyra-NJ,1840001479,Palmyra,Palmyra,NJ,Palmyra-NJ,New Jersey,34005,Burlington,40.0025,-75.0359,7241,7241,1499,polygon,TRUE,America/New_York,8065
+Nesco-NJ,1840033362,Nesco,Nesco,NJ,Nesco-NJ,New Jersey,34001,Atlantic,39.6382,-74.6965,,,135.2,point,FALSE,America/New_York,8037
+Middlesex-NJ,1840001337,Middlesex,Middlesex,NJ,Middlesex-NJ,New Jersey,34023,Middlesex,40.5744,-74.5011,13812,13812,1516,polygon,TRUE,America/New_York,8846
+Estell Manor-NJ,1840003796,Estell Manor,Estell Manor,NJ,Estell Manor-NJ,New Jersey,34001,Atlantic,39.3585,-74.7751,1718,1718,12,polygon,TRUE,America/New_York,08317 08319 08330 08270
+Colonia-NJ,1840005411,Colonia,Colonia,NJ,Colonia-NJ,New Jersey,34023,Middlesex,40.5929,-74.3151,,,3142.9,polygon,FALSE,America/New_York,7067
+Cedar Brook-NJ,1840033241,Cedar Brook,Cedar Brook,NJ,Cedar Brook-NJ,New Jersey,34007,Camden,39.7154,-74.9007,,,636.5,point,FALSE,America/New_York,8081
+Jobstown-NJ,1840033312,Jobstown,Jobstown,NJ,Jobstown-NJ,New Jersey,34005,Burlington,40.0371,-74.6929,,,72.8,point,FALSE,America/New_York,8041
+Clarksburg-NJ,1840033246,Clarksburg,Clarksburg,NJ,Clarksburg-NJ,New Jersey,34025,Monmouth,40.1887,-74.4407,,,97.8,point,FALSE,America/New_York,8510
+North Haledon-NJ,1840000836,North Haledon,North Haledon,NJ,North Haledon-NJ,New Jersey,34031,Passaic,40.9627,-74.1845,8491,8491,948,polygon,TRUE,America/New_York,7508
+Sea Isle City-NJ,1840001596,Sea Isle City,Sea Isle City,NJ,Sea Isle City-NJ,New Jersey,34009,Cape May,39.1538,-74.6964,2085,2085,371,polygon,TRUE,America/New_York,8243
+Cassville-NJ,1840033240,Cassville,Cassville,NJ,Cassville-NJ,New Jersey,34029,Ocean,40.1046,-74.3865,,,273.4,point,FALSE,America/New_York,8527
+Kingston Estates-NJ,1840033314,Kingston Estates,Kingston Estates,NJ,Kingston Estates-NJ,New Jersey,34007,Camden,39.9188,-74.9898,,,2196.1,polygon,FALSE,America/New_York,8034
+Hope-NJ,1840024229,Hope,Hope,NJ,Hope-NJ,New Jersey,34041,Warren,40.9098,-74.9647,,,151.1,polygon,FALSE,America/New_York,7825
+Iselin-NJ,1840005418,Iselin,Iselin,NJ,Iselin-NJ,New Jersey,34023,Middlesex,40.5701,-74.3171,,,1984.3,polygon,FALSE,America/New_York,8830
+Imlaystown-NJ,1840033305,Imlaystown,Imlaystown,NJ,Imlaystown-NJ,New Jersey,34025,Monmouth,40.1676,-74.5152,,,41.9,point,FALSE,America/New_York,8501
+Midland Park-NJ,1840000905,Midland Park,Midland Park,NJ,Midland Park-NJ,New Jersey,34003,Bergen,40.9952,-74.141,7319,7319,1816,polygon,TRUE,America/New_York,7432
+West Cape May-NJ,1840001600,West Cape May,West Cape May,NJ,West Cape May-NJ,New Jersey,34009,Cape May,38.9423,-74.9377,1016,1016,336,polygon,TRUE,America/New_York,8204
+Ramtown-NJ,1840033393,Ramtown,Ramtown,NJ,Ramtown-NJ,New Jersey,34025,Monmouth,40.1144,-74.149,,,1051.7,polygon,FALSE,America/New_York,7731
+Mount Hope-NJ,1840033358,Mount Hope,Mount Hope,NJ,Mount Hope-NJ,New Jersey,34027,Morris,40.9262,-74.5427,,,82.1,point,FALSE,America/New_York,7885
+Prospect Plains-NJ,1840033391,Prospect Plains,Prospect Plains,NJ,Prospect Plains-NJ,New Jersey,34023,Middlesex,40.324,-74.471,,,571.2,point,FALSE,America/New_York,8831
+Martinsville-NJ,1840024279,Martinsville,Martinsville,NJ,Martinsville-NJ,New Jersey,34035,Somerset,40.6034,-74.5755,,,247.3,polygon,FALSE,America/New_York,08836 08805 08807
+Fairview-NJ,1840003549,Fairview,Fairview,NJ,Fairview-NJ,New Jersey,34003,Bergen,40.8182,-74.0023,14421,14421,6609,polygon,TRUE,America/New_York,7022
+Cape May Court House-NJ,1840005864,Cape May Court House,Cape May Court House,NJ,Cape May Court House-NJ,New Jersey,34009,Cape May,39.079,-74.8211,,,533.1,polygon,FALSE,America/New_York,8210
+Oxford-NJ,1840005194,Oxford,Oxford,NJ,Oxford-NJ,New Jersey,34041,Warren,40.8052,-74.9966,,,367.4,polygon,FALSE,America/New_York,7863
+Stratford-NJ,1840001516,Stratford,Stratford,NJ,Stratford-NJ,New Jersey,34007,Camden,39.8289,-75.0154,7001,7001,1745,polygon,TRUE,America/New_York,8084
+Apshawa-NJ,1840033216,Apshawa,Apshawa,NJ,Apshawa-NJ,New Jersey,34031,Passaic,41.0176,-74.3629,,,103.7,point,FALSE,America/New_York,7480
+Sayreville-NJ,1840001332,Sayreville,Sayreville,NJ,Sayreville-NJ,New Jersey,34023,Middlesex,40.4655,-74.3237,44905,44905,1092,polygon,TRUE,America/New_York,08872 08879 08859 08871
+Lawnside-NJ,1840001514,Lawnside,Lawnside,NJ,Lawnside-NJ,New Jersey,34007,Camden,39.8672,-75.0289,2920,2920,798,polygon,TRUE,America/New_York,8045
+Beemerville-NJ,1840033228,Beemerville,Beemerville,NJ,Beemerville-NJ,New Jersey,34037,Sussex,41.2107,-74.6916,,,101.9,point,FALSE,America/New_York,7461
+Mickleton-NJ,1840033345,Mickleton,Mickleton,NJ,Mickleton-NJ,New Jersey,34015,Gloucester,39.7901,-75.2377,,,538.5,point,FALSE,America/New_York,8056
+Woodbridge-NJ,1840005423,Woodbridge,Woodbridge,NJ,Woodbridge-NJ,New Jersey,34023,Middlesex,40.5551,-74.2848,,,2657.9,polygon,FALSE,America/New_York,7095
+Glen Gardner-NJ,1840003607,Glen Gardner,Glen Gardner,NJ,Glen Gardner-NJ,New Jersey,34019,Hunterdon,40.7004,-74.9396,1915,1915,484,polygon,TRUE,America/New_York,8826
+Mount Ephraim-NJ,1840003772,Mount Ephraim,Mount Ephraim,NJ,Mount Ephraim-NJ,New Jersey,34007,Camden,39.8805,-75.0915,4631,4631,2048,polygon,TRUE,America/New_York,8059
+Belle Mead-NJ,1840024271,Belle Mead,Belle Mead,NJ,Belle Mead-NJ,New Jersey,34035,Somerset,40.4645,-74.6725,,,507.5,polygon,FALSE,America/New_York,8502
+Green Pond-NJ,1840033291,Green Pond,Green Pond,NJ,Green Pond-NJ,New Jersey,34027,Morris,41.0173,-74.4777,,,281.7,point,FALSE,America/New_York,7435
+Wildwood Crest-NJ,1840001603,Wildwood Crest,Wildwood Crest,NJ,Wildwood Crest-NJ,New Jersey,34009,Cape May,38.9717,-74.8383,3167,3167,1078,polygon,TRUE,America/New_York,8260
+Tuckerton-NJ,1840001495,Tuckerton,Tuckerton,NJ,Tuckerton-NJ,New Jersey,34029,Ocean,39.5973,-74.3306,3378,3378,387,polygon,TRUE,America/New_York,8087
+Carlstadt-NJ,1840000895,Carlstadt,Carlstadt,NJ,Carlstadt-NJ,New Jersey,34003,Bergen,40.825,-74.0614,6249,6249,603,polygon,TRUE,America/New_York,7072
+Hampton-NJ,1840003608,Hampton,Hampton,NJ,Hampton-NJ,New Jersey,34019,Hunterdon,40.7067,-74.9642,1330,1330,335,polygon,TRUE,America/New_York,8827
+Brunswick Gardens-NJ,1840033238,Brunswick Gardens,Brunswick Gardens,NJ,Brunswick Gardens-NJ,New Jersey,34023,Middlesex,40.3907,-74.3363,,,652.3,point,FALSE,America/New_York,8857
+Turnersville-NJ,1840005565,Turnersville,Turnersville,NJ,Turnersville-NJ,New Jersey,34015,Gloucester,39.7666,-75.0614,,,650.7,polygon,FALSE,America/New_York,08080 08012 08032
+Bogota-NJ,1840000894,Bogota,Bogota,NJ,Bogota-NJ,New Jersey,34003,Bergen,40.8753,-74.0293,8507,8507,4293,polygon,TRUE,America/New_York,7603
+Pine Hill-NJ,1840001509,Pine Hill,Pine Hill,NJ,Pine Hill-NJ,New Jersey,34007,Camden,39.7879,-74.9858,10524,10524,1049,polygon,TRUE,America/New_York,08009 08021
+Mountain Lakes-NJ,1840003578,Mountain Lakes,Mountain Lakes,NJ,Mountain Lakes-NJ,New Jersey,34027,Morris,40.8907,-74.4406,4332,4332,639,polygon,TRUE,America/New_York,7046
+Mercerville-NJ,1840033344,Mercerville,Mercerville,NJ,Mercerville-NJ,New Jersey,34021,Mercer,40.2361,-74.6917,,,1590.2,polygon,FALSE,America/New_York,08690 08619
+Masonville-NJ,1840033341,Masonville,Masonville,NJ,Masonville-NJ,New Jersey,34005,Burlington,39.9784,-74.8702,,,1577.2,point,FALSE,America/New_York,8054
+Unionville-NJ,1840033431,Unionville,Unionville,NJ,Unionville-NJ,New Jersey,34005,Burlington,40.0054,-74.7646,,,662.7,point,FALSE,America/New_York,8060
+Palisades Park-NJ,1840000915,Palisades Park,Palisades Park,NJ,Palisades Park-NJ,New Jersey,34003,Bergen,40.847,-73.9965,20753,20753,6407,polygon,TRUE,America/New_York,7650
+North Beach Haven-NJ,1840005532,North Beach Haven,North Beach Haven,NJ,North Beach Haven-NJ,New Jersey,34029,Ocean,39.6008,-74.2119,,,378.3,polygon,FALSE,America/New_York,8008
+Mount Olive-NJ,1840033359,Mount Olive,Mount Olive,NJ,Mount Olive-NJ,New Jersey,34027,Morris,40.8515,-74.7329,,,399.2,point,FALSE,America/New_York,7836
+Rosenhayn-NJ,1840005751,Rosenhayn,Rosenhayn,NJ,Rosenhayn-NJ,New Jersey,34011,Cumberland,39.4787,-75.1379,,,342.9,polygon,FALSE,America/New_York,08352 08302
+North Plainfield-NJ,1840001059,North Plainfield,North Plainfield,NJ,North Plainfield-NJ,New Jersey,34035,Somerset,40.621,-74.4385,22073,22073,3049,polygon,TRUE,America/New_York,07063 07060
+New Village-NJ,1840033366,New Village,New Village,NJ,New Village-NJ,New Jersey,34041,Warren,40.7184,-75.0774,,,221,polygon,FALSE,America/New_York,8886
+Ogdensburg-NJ,1840000787,Ogdensburg,Ogdensburg,NJ,Ogdensburg-NJ,New Jersey,34037,Sussex,41.0769,-74.5976,2294,2294,394,polygon,TRUE,America/New_York,7439
+Forked River-NJ,1840005524,Forked River,Forked River,NJ,Forked River-NJ,New Jersey,34029,Ocean,39.8202,-74.1456,,,748.8,polygon,FALSE,America/New_York,8731
+Lumberton-NJ,1840033330,Lumberton,Lumberton,NJ,Lumberton-NJ,New Jersey,34005,Burlington,39.9659,-74.8052,,,826.8,point,FALSE,America/New_York,8048
+Cream Ridge-NJ,1840033255,Cream Ridge,Cream Ridge,NJ,Cream Ridge-NJ,New Jersey,34025,Monmouth,40.1351,-74.524,,,33.8,point,FALSE,America/New_York,8514
+Smalleytown-NJ,1840033413,Smalleytown,Smalleytown,NJ,Smalleytown-NJ,New Jersey,34035,Somerset,40.6559,-74.4782,,,237.5,point,FALSE,America/New_York,7059
+Finderne-NJ,1840024274,Finderne,Finderne,NJ,Finderne-NJ,New Jersey,34035,Somerset,40.5626,-74.5744,,,1837.8,polygon,FALSE,America/New_York,8807
+Browntown-NJ,1840033237,Browntown,Browntown,NJ,Browntown-NJ,New Jersey,34023,Middlesex,40.4018,-74.3065,,,1345.8,point,FALSE,America/New_York,8857
+Milford-NJ,1840001041,Milford,Milford,NJ,Milford-NJ,New Jersey,34019,Hunterdon,40.5694,-75.0907,2677,1189,399,polygon,TRUE,America/New_York,8848
+Cresskill-NJ,1840003539,Cresskill,Cresskill,NJ,Cresskill-NJ,New Jersey,34003,Bergen,40.9405,-73.9597,8777,8777,1641,polygon,TRUE,America/New_York,7626
+Mount Rose-NJ,1840033360,Mount Rose,Mount Rose,NJ,Mount Rose-NJ,New Jersey,34021,Mercer,40.3693,-74.739,,,50.8,point,FALSE,America/New_York,8525
+Keansburg-NJ,1840003690,Keansburg,Keansburg,NJ,Keansburg-NJ,New Jersey,34025,Monmouth,40.4469,-74.1323,9826,9826,3548,polygon,TRUE,America/New_York,7734
+Wanamassa-NJ,1840005452,Wanamassa,Wanamassa,NJ,Wanamassa-NJ,New Jersey,34025,Monmouth,40.2366,-74.0294,,,1699.2,polygon,FALSE,America/New_York,7712
+Barnegat-NJ,1840005525,Barnegat,Barnegat,NJ,Barnegat-NJ,New Jersey,34029,Ocean,39.7547,-74.2224,,,706.4,polygon,FALSE,America/New_York,8005
+Richwood-NJ,1840033399,Richwood,Richwood,NJ,Richwood-NJ,New Jersey,34015,Gloucester,39.714,-75.1735,,,98.3,polygon,FALSE,America/New_York,08028 08071 08074 08062
+McCoys Corner-NJ,1840033343,McCoys Corner,McCoys Corner,NJ,McCoys Corner-NJ,New Jersey,34037,Sussex,41.1979,-74.6302,,,27.2,point,FALSE,America/New_York,7461
+Jacksons Mills-NJ,1840033308,Jacksons Mills,Jacksons Mills,NJ,Jacksons Mills-NJ,New Jersey,34029,Ocean,40.1479,-74.324,,,141.5,point,FALSE,America/New_York,8527
+Fair Lawn-NJ,1840003548,Fair Lawn,Fair Lawn,NJ,Fair Lawn-NJ,New Jersey,34003,Bergen,40.9358,-74.1177,33453,33453,2513,polygon,TRUE,America/New_York,7410
+Bridgeville-NJ,1840033235,Bridgeville,Bridgeville,NJ,Bridgeville-NJ,New Jersey,34041,Warren,40.8371,-75.0244,,,120.2,polygon,FALSE,America/New_York,7823
+Madison Park-NJ,1840005421,Madison Park,Madison Park,NJ,Madison Park-NJ,New Jersey,34023,Middlesex,40.4461,-74.296,,,2054.7,polygon,FALSE,America/New_York,08879 08859 08857
+Port Reading-NJ,1840005417,Port Reading,Port Reading,NJ,Port Reading-NJ,New Jersey,34023,Middlesex,40.567,-74.2476,,,1453.7,polygon,FALSE,America/New_York,07077 07001 07064
+Mine Hill-NJ,1840033349,Mine Hill,Mine Hill,NJ,Mine Hill-NJ,New Jersey,34027,Morris,40.8779,-74.5938,,,1047.4,point,FALSE,America/New_York,7803
+Rumson-NJ,1840001360,Rumson,Rumson,NJ,Rumson-NJ,New Jersey,34025,Monmouth,40.3626,-74.0046,6824,6824,521,polygon,TRUE,America/New_York,7760
+Woodbine-NJ,1840001604,Woodbine,Woodbine,NJ,Woodbine-NJ,New Jersey,34009,Cape May,39.2284,-74.8097,2494,2494,120,polygon,TRUE,America/New_York,8270
+East Orange-NJ,1840002792,East Orange,East Orange,NJ,East Orange-NJ,New Jersey,34013,Essex,40.7651,-74.2118,64789,64789,6417,polygon,TRUE,America/New_York,07018 07017 07019
+Plainsboro-NJ,1840033381,Plainsboro,Plainsboro,NJ,Plainsboro-NJ,New Jersey,34023,Middlesex,40.3334,-74.6004,,,82.5,point,FALSE,America/New_York,8536
+Medford Lakes-NJ,1840003752,Medford Lakes,Medford Lakes,NJ,Medford Lakes-NJ,New Jersey,34005,Burlington,39.8582,-74.8051,4053,4053,1347,polygon,TRUE,America/New_York,8055
+Corbin City-NJ,1840003794,Corbin City,Corbin City,NJ,Corbin City-NJ,New Jersey,34001,Atlantic,39.3046,-74.7197,499,499,25,polygon,TRUE,America/New_York,8270
+Colesville-NJ,1840033250,Colesville,Colesville,NJ,Colesville-NJ,New Jersey,34037,Sussex,41.2751,-74.6499,,,67.4,point,FALSE,America/New_York,7461
+Plumbsock-NJ,1840033386,Plumbsock,Plumbsock,NJ,Plumbsock-NJ,New Jersey,34037,Sussex,41.2187,-74.6707,,,153.9,point,FALSE,America/New_York,7461
+Roebling-NJ,1840024353,Roebling,Roebling,NJ,Roebling-NJ,New Jersey,34005,Burlington,40.1167,-74.7775,,,1147.8,polygon,FALSE,America/New_York,8554
+Cranbury-NJ,1840005413,Cranbury,Cranbury,NJ,Cranbury-NJ,New Jersey,34023,Middlesex,40.3102,-74.5168,,,893.2,polygon,FALSE,America/New_York,8512
+Brookside-NJ,1840033236,Brookside,Brookside,NJ,Brookside-NJ,New Jersey,34027,Morris,40.7943,-74.5679,,,376.2,point,FALSE,America/New_York,7960
+Gibbstown-NJ,1840005564,Gibbstown,Gibbstown,NJ,Gibbstown-NJ,New Jersey,34015,Gloucester,39.8233,-75.2783,,,842.6,polygon,FALSE,America/New_York,8027
+Country Lake Estates-NJ,1840005518,Country Lake Estates,Country Lake Estates,NJ,Country Lake Estates-NJ,New Jersey,34005,Burlington,39.9489,-74.5411,,,1838.5,polygon,FALSE,America/New_York,8015
+Watchung-NJ,1840001061,Watchung,Watchung,NJ,Watchung-NJ,New Jersey,34035,Somerset,40.6433,-74.4391,5949,5949,381,polygon,TRUE,America/New_York,7069
+Waretown-NJ,1840005537,Waretown,Waretown,NJ,Waretown-NJ,New Jersey,34029,Ocean,39.7898,-74.1925,,,360.9,polygon,FALSE,America/New_York,8758
+Marlton-NJ,1840005522,Marlton,Marlton,NJ,Marlton-NJ,New Jersey,34005,Burlington,39.9015,-74.9296,,,882.5,polygon,FALSE,America/New_York,8053
+Shrewsbury-NJ,1840001363,Shrewsbury,Shrewsbury,NJ,Shrewsbury-NJ,New Jersey,34025,Monmouth,40.3249,-74.06,4122,4122,734,polygon,TRUE,America/New_York,7702
+Fieldsboro-NJ,1840003753,Fieldsboro,Fieldsboro,NJ,Fieldsboro-NJ,New Jersey,34005,Burlington,40.1362,-74.7297,533,533,765,polygon,TRUE,America/New_York,8505
+Westwood-NJ,1840000923,Westwood,Westwood,NJ,Westwood-NJ,New Jersey,34003,Bergen,40.9878,-74.0307,11235,11235,1916,polygon,TRUE,America/New_York,7675
+Clarksboro-NJ,1840033245,Clarksboro,Clarksboro,NJ,Clarksboro-NJ,New Jersey,34015,Gloucester,39.7998,-75.2238,,,418.2,point,FALSE,America/New_York,8020
+Beckett-NJ,1840033476,Beckett,Beckett,NJ,Beckett-NJ,New Jersey,34015,Gloucester,39.7565,-75.3565,,,1354.9,polygon,FALSE,America/New_York,8085
+Newton-NJ,1840000786,Newton,Newton,NJ,Newton-NJ,New Jersey,34037,Sussex,41.0535,-74.7527,11808,7908,909,polygon,TRUE,America/New_York,7860
+Blairstown-NJ,1840024218,Blairstown,Blairstown,NJ,Blairstown-NJ,New Jersey,34041,Warren,40.9852,-74.9573,,,285.2,polygon,FALSE,America/New_York,7825
+Caldwell-NJ,1840005354,Caldwell,Caldwell,NJ,Caldwell-NJ,New Jersey,34013,Essex,40.839,-74.2777,8018,8018,2654,polygon,TRUE,America/New_York,07006 07007
+Oakhurst-NJ,1840005445,Oakhurst,Oakhurst,NJ,Oakhurst-NJ,New Jersey,34025,Monmouth,40.2607,-74.0263,,,624,polygon,FALSE,America/New_York,7755
+Barrington-NJ,1840003771,Barrington,Barrington,NJ,Barrington-NJ,New Jersey,34007,Camden,39.8689,-75.0514,6792,6792,1636,polygon,TRUE,America/New_York,08007 08033
+Northvale-NJ,1840000910,Northvale,Northvale,NJ,Northvale-NJ,New Jersey,34003,Bergen,41.0096,-73.9502,4933,4933,1470,polygon,TRUE,America/New_York,7647
+Port Monmouth-NJ,1840005447,Port Monmouth,Port Monmouth,NJ,Port Monmouth-NJ,New Jersey,34025,Monmouth,40.4337,-74.101,,,1521.1,polygon,FALSE,America/New_York,07748 07758
+White Horse-NJ,1840005475,White Horse,White Horse,NJ,White Horse-NJ,New Jersey,34021,Mercer,40.192,-74.7022,,,1527.8,polygon,FALSE,America/New_York,08690 08610
+Strathmere-NJ,1840005868,Strathmere,Strathmere,NJ,Strathmere-NJ,New Jersey,34009,Cape May,39.1951,-74.6612,,,291,polygon,FALSE,America/New_York,8248
+Beachwood-NJ,1840001483,Beachwood,Beachwood,NJ,Beachwood-NJ,New Jersey,34029,Ocean,39.9282,-74.2022,11196,11196,1517,polygon,TRUE,America/New_York,8722
+Lamington-NJ,1840033321,Lamington,Lamington,NJ,Lamington-NJ,New Jersey,34035,Somerset,40.6609,-74.7174,,,10.3,point,FALSE,America/New_York,7921
+Eldridge Park-NJ,1840033267,Eldridge Park,Eldridge Park,NJ,Eldridge Park-NJ,New Jersey,34021,Mercer,40.2654,-74.7449,,,1166.8,point,FALSE,America/New_York,8648
+Belvidere-NJ,1840000943,Belvidere,Belvidere,NJ,Belvidere-NJ,New Jersey,34041,Warren,40.8295,-75.073,3767,2602,692,polygon,TRUE,America/New_York,7823
+Vienna-NJ,1840024233,Vienna,Vienna,NJ,Vienna-NJ,New Jersey,34041,Warren,40.8698,-74.881,,,229.4,polygon,FALSE,America/New_York,07840 07880
+Freehold-NJ,1840003687,Freehold,Freehold,NJ,Freehold-NJ,New Jersey,34025,Monmouth,40.2595,-74.2753,11891,11891,2356,polygon,TRUE,America/New_York,7728
+Mays Landing-NJ,1840005597,Mays Landing,Mays Landing,NJ,Mays Landing-NJ,New Jersey,34001,Atlantic,39.4526,-74.7239,,,1148.1,polygon,FALSE,America/New_York,08330 08342
+Pompton Plains-NJ,1840033387,Pompton Plains,Pompton Plains,NJ,Pompton Plains-NJ,New Jersey,34027,Morris,40.9682,-74.2957,,,1627.6,point,FALSE,America/New_York,7444
+Roseland-NJ,1840000998,Roseland,Roseland,NJ,Roseland-NJ,New Jersey,34013,Essex,40.8207,-74.3085,5885,5885,642,polygon,TRUE,America/New_York,7068
+Passaic-NJ,1840000837,Passaic,Passaic,NJ,Passaic-NJ,New Jersey,34031,Passaic,40.8574,-74.1281,70635,70635,8666,polygon,TRUE,America/New_York,7055
+Cross Keys-NJ,1840033256,Cross Keys,Cross Keys,NJ,Cross Keys-NJ,New Jersey,34015,Gloucester,39.7134,-75.0296,,,649.5,point,FALSE,America/New_York,8094
+Dover Beaches North-NJ,1840005528,Dover Beaches North,Dover Beaches North,NJ,Dover Beaches North-NJ,New Jersey,34029,Ocean,39.992,-74.0714,,,482,polygon,FALSE,America/New_York,8735
+Echelon-NJ,1840033470,Echelon,Echelon,NJ,Echelon-NJ,New Jersey,34007,Camden,39.8482,-74.9957,,,4342.7,polygon,FALSE,America/New_York,8043
+Monroeville-NJ,1840033351,Monroeville,Monroeville,NJ,Monroeville-NJ,New Jersey,34033,Salem,39.629,-75.1593,,,79.9,point,FALSE,America/New_York,8343
+Mantoloking-NJ,1840003754,Mantoloking,Mantoloking,NJ,Mantoloking-NJ,New Jersey,34029,Ocean,40.0436,-74.0512,251,251,251,polygon,TRUE,America/New_York,8738
+Ellisburg-NJ,1840033268,Ellisburg,Ellisburg,NJ,Ellisburg-NJ,New Jersey,34007,Camden,39.9199,-75.0093,,,713.4,polygon,FALSE,America/New_York,08002 08034
+Braddock-NJ,1840033231,Braddock,Braddock,NJ,Braddock-NJ,New Jersey,34007,Camden,39.7009,-74.8896,,,102.7,point,FALSE,America/New_York,8037
+Blackwells Mills-NJ,1840033455,Blackwells Mills,Blackwells Mills,NJ,Blackwells Mills-NJ,New Jersey,34035,Somerset,40.4814,-74.5714,,,155.7,polygon,FALSE,America/New_York,8873
+Van Hiseville-NJ,1840033432,Van Hiseville,Van Hiseville,NJ,Van Hiseville-NJ,New Jersey,34029,Ocean,40.1118,-74.3426,,,90.8,point,FALSE,America/New_York,8527
+Rutherford-NJ,1840000902,Rutherford,Rutherford,NJ,Rutherford-NJ,New Jersey,34003,Bergen,40.8203,-74.1058,18635,18635,2557,polygon,TRUE,America/New_York,7070
+Cape May Point-NJ,1840001595,Cape May Point,Cape May Point,NJ,Cape May Point-NJ,New Jersey,34009,Cape May,38.9372,-74.9649,281,281,367,polygon,TRUE,America/New_York,8212
+Hillsdale-NJ,1840003560,Hillsdale,Hillsdale,NJ,Hillsdale-NJ,New Jersey,34003,Bergen,41.0074,-74.0441,10510,10510,1373,polygon,TRUE,America/New_York,7642
+Chester-NJ,1840000949,Chester,Chester,NJ,Chester-NJ,New Jersey,34027,Morris,40.7874,-74.6921,1669,1669,404,polygon,TRUE,America/New_York,7930
+Point Pleasant-NJ,1840001485,Point Pleasant,Point Pleasant,NJ,Point Pleasant-NJ,New Jersey,34029,Ocean,40.0772,-74.0702,18545,18545,2050,polygon,TRUE,America/New_York,8742
+Lake Mohawk-NJ,1840004955,Lake Mohawk,Lake Mohawk,NJ,Lake Mohawk-NJ,New Jersey,34037,Sussex,41.0151,-74.6639,,,739.6,polygon,FALSE,America/New_York,7871
+Little Ferry-NJ,1840003534,Little Ferry,Little Ferry,NJ,Little Ferry-NJ,New Jersey,34003,Bergen,40.8463,-74.0386,10925,10925,2858,polygon,TRUE,America/New_York,7643
+Newfoundland-NJ,1840033367,Newfoundland,Newfoundland,NJ,Newfoundland-NJ,New Jersey,34031,Passaic,41.0465,-74.4352,,,136.2,point,FALSE,America/New_York,7435
+Beach Haven-NJ,1840001482,Beach Haven,Beach Haven,NJ,Beach Haven-NJ,New Jersey,34029,Ocean,39.5659,-74.2488,1173,1173,462,polygon,TRUE,America/New_York,8008
+Zarephath-NJ,1840024282,Zarephath,Zarephath,NJ,Zarephath-NJ,New Jersey,34035,Somerset,40.5361,-74.5745,,,24.7,polygon,FALSE,America/New_York,08873 08890
+Newfield-NJ,1840001522,Newfield,Newfield,NJ,Newfield-NJ,New Jersey,34015,Gloucester,39.5486,-75.0171,1567,1567,355,polygon,TRUE,America/New_York,8344
+Atlantic City-NJ,1840003798,Atlantic City,Atlantic City,NJ,Atlantic City-NJ,New Jersey,34001,Atlantic,39.3795,-74.4524,243285,38735,1391,polygon,TRUE,America/New_York,08401 08404 08405
+Spring Lake-NJ,1840001366,Spring Lake,Spring Lake,NJ,Spring Lake-NJ,New Jersey,34025,Monmouth,40.1538,-74.0273,2963,2963,860,polygon,TRUE,America/New_York,7762
+Essex Fells-NJ,1840005355,Essex Fells,Essex Fells,NJ,Essex Fells-NJ,New Jersey,34013,Essex,40.8268,-74.2798,2125,2125,581,polygon,TRUE,America/New_York,7021
+Dorothy-NJ,1840033263,Dorothy,Dorothy,NJ,Dorothy-NJ,New Jersey,34001,Atlantic,39.4007,-74.8238,,,87.9,point,FALSE,America/New_York,8317
+Asbury Park-NJ,1840003684,Asbury Park,Asbury Park,NJ,Asbury Park-NJ,New Jersey,34025,Monmouth,40.2226,-74.0118,15722,15722,4262,polygon,TRUE,America/New_York,7712
+Glassboro-NJ,1840003789,Glassboro,Glassboro,NJ,Glassboro-NJ,New Jersey,34015,Gloucester,39.7014,-75.1119,19835,19835,833,polygon,TRUE,America/New_York,8028
+Crosswicks-NJ,1840033257,Crosswicks,Crosswicks,NJ,Crosswicks-NJ,New Jersey,34005,Burlington,40.1534,-74.6477,,,280.4,point,FALSE,America/New_York,8515
+Stewartsville-NJ,1840024232,Stewartsville,Stewartsville,NJ,Stewartsville-NJ,New Jersey,34041,Warren,40.6939,-75.1115,,,468.1,polygon,FALSE,America/New_York,8886
+Roselle-NJ,1840001092,Roselle,Roselle,NJ,Roselle-NJ,New Jersey,34039,Union,40.6527,-74.2599,21625,21625,3149,polygon,TRUE,America/New_York,7203
+Williamstown-NJ,1840016785,Williamstown,Williamstown,NJ,Williamstown-NJ,New Jersey,34015,Gloucester,39.6874,-74.9785,,,1356.1,polygon,FALSE,America/New_York,8094
+Haledon-NJ,1840003512,Haledon,Haledon,NJ,Haledon-NJ,New Jersey,34031,Passaic,40.9363,-74.1886,8395,8395,2789,polygon,TRUE,America/New_York,07508 07538
+Pequannock-NJ,1840033377,Pequannock,Pequannock,NJ,Pequannock-NJ,New Jersey,34027,Morris,40.9523,-74.2988,,,1865.2,point,FALSE,America/New_York,7444
+Elmer-NJ,1840003791,Elmer,Elmer,NJ,Elmer-NJ,New Jersey,34033,Salem,39.5915,-75.1742,1327,1327,592,polygon,TRUE,America/New_York,8318
+Middletown-NJ,1840033457,Middletown,Middletown,NJ,Middletown-NJ,New Jersey,34025,Monmouth,40.3943,-74.1171,,,632.2,point,FALSE,America/New_York,7748
+Woodstock-NJ,1840033451,Woodstock,Woodstock,NJ,Woodstock-NJ,New Jersey,34027,Morris,40.9954,-74.526,,,670.8,point,FALSE,America/New_York,7438
+Mahwah-NJ,1840033334,Mahwah,Mahwah,NJ,Mahwah-NJ,New Jersey,34003,Bergen,41.0887,-74.1438,,,847.3,point,FALSE,America/New_York,7430
+Skillman-NJ,1840024281,Skillman,Skillman,NJ,Skillman-NJ,New Jersey,34035,Somerset,40.4247,-74.714,,,81.8,polygon,FALSE,America/New_York,8558
+Smithburg-NJ,1840033414,Smithburg,Smithburg,NJ,Smithburg-NJ,New Jersey,34025,Monmouth,40.209,-74.3529,,,168.6,point,FALSE,America/New_York,7728
+Elmwood Park-NJ,1840003544,Elmwood Park,Elmwood Park,NJ,Elmwood Park-NJ,New Jersey,34003,Bergen,40.9048,-74.1201,20295,20295,2961,polygon,TRUE,America/New_York,7407
+Laurence Harbor-NJ,1840005420,Laurence Harbor,Laurence Harbor,NJ,Laurence Harbor-NJ,New Jersey,34023,Middlesex,40.4489,-74.2496,,,2519.4,polygon,FALSE,America/New_York,08879 07721 07735
+Woodbury Heights-NJ,1840001528,Woodbury Heights,Woodbury Heights,NJ,Woodbury Heights-NJ,New Jersey,34015,Gloucester,39.8161,-75.1512,3008,3008,950,polygon,TRUE,America/New_York,8097
+Merchantville-NJ,1840003770,Merchantville,Merchantville,NJ,Merchantville-NJ,New Jersey,34007,Camden,39.9501,-75.0503,3766,3766,2424,polygon,TRUE,America/New_York,8109
+Pleasant Grove-NJ,1840033382,Pleasant Grove,Pleasant Grove,NJ,Pleasant Grove-NJ,New Jersey,34029,Ocean,40.1246,-74.3429,,,149.3,point,FALSE,America/New_York,8527
+Dayton-NJ,1840005414,Dayton,Dayton,NJ,Dayton-NJ,New Jersey,34023,Middlesex,40.3815,-74.5137,,,850,polygon,FALSE,America/New_York,8810
+Whippany-NJ,1840033441,Whippany,Whippany,NJ,Whippany-NJ,New Jersey,34027,Morris,40.8245,-74.4171,,,1145.5,point,FALSE,America/New_York,7981
+Ramsey-NJ,1840000896,Ramsey,Ramsey,NJ,Ramsey-NJ,New Jersey,34003,Bergen,41.0595,-74.1457,15116,15116,1057,polygon,TRUE,America/New_York,7446
+Hainesport-NJ,1840033293,Hainesport,Hainesport,NJ,Hainesport-NJ,New Jersey,34005,Burlington,39.9837,-74.8271,,,652.5,point,FALSE,America/New_York,8036
+Mantua-NJ,1840033336,Mantua,Mantua,NJ,Mantua-NJ,New Jersey,34015,Gloucester,39.794,-75.1721,,,1085.8,point,FALSE,America/New_York,8051
+Jamesburg-NJ,1840003637,Jamesburg,Jamesburg,NJ,Jamesburg-NJ,New Jersey,34023,Middlesex,40.3494,-74.4403,6040,6040,2657,polygon,TRUE,America/New_York,8831
+Rockleigh-NJ,1840000901,Rockleigh,Rockleigh,NJ,Rockleigh-NJ,New Jersey,34003,Bergen,41.0024,-73.9328,533,533,212,polygon,TRUE,America/New_York,7647
+Francis Mills-NJ,1840033279,Francis Mills,Francis Mills,NJ,Francis Mills-NJ,New Jersey,34029,Ocean,40.1348,-74.3974,,,372,point,FALSE,America/New_York,8527
+Pemberton Heights-NJ,1840005519,Pemberton Heights,Pemberton Heights,NJ,Pemberton Heights-NJ,New Jersey,34005,Burlington,39.9565,-74.6767,,,820.6,polygon,FALSE,America/New_York,8068
+Englewood-NJ,1840003546,Englewood,Englewood,NJ,Englewood-NJ,New Jersey,34003,Bergen,40.8917,-73.9735,28455,28455,2234,polygon,TRUE,America/New_York,7631
+Port Murray-NJ,1840033389,Port Murray,Port Murray,NJ,Port Murray-NJ,New Jersey,34041,Warren,40.7913,-74.9137,,,98.8,polygon,FALSE,America/New_York,7865
+Norwood-NJ,1840000911,Norwood,Norwood,NJ,Norwood-NJ,New Jersey,34003,Bergen,40.9932,-73.9509,5858,5858,829,polygon,TRUE,America/New_York,7648
+Clearbrook Park-NJ,1840033478,Clearbrook Park,Clearbrook Park,NJ,Clearbrook Park-NJ,New Jersey,34023,Middlesex,40.3097,-74.4644,,,1469.7,polygon,FALSE,America/New_York,8831
+Lindenwold-NJ,1840000730,Lindenwold,Lindenwold,NJ,Lindenwold-NJ,New Jersey,34007,Camden,39.8171,-74.9894,17470,17470,1732,polygon,TRUE,America/New_York,8021
+Hutchinson-NJ,1840033304,Hutchinson,Hutchinson,NJ,Hutchinson-NJ,New Jersey,34041,Warren,40.7818,-75.1252,,,42.5,polygon,FALSE,America/New_York,8865
+Vincentown-NJ,1840033434,Vincentown,Vincentown,NJ,Vincentown-NJ,New Jersey,34005,Burlington,39.934,-74.7485,,,226.8,point,FALSE,America/New_York,8088
+Englewood Cliffs-NJ,1840003547,Englewood Cliffs,Englewood Cliffs,NJ,Englewood Cliffs-NJ,New Jersey,34003,Bergen,40.8821,-73.9466,5406,5406,999,polygon,TRUE,America/New_York,7632
+Franklin-NJ,1840003480,Franklin,Franklin,NJ,Franklin-NJ,New Jersey,34037,Sussex,41.1101,-74.5886,33799,4813,425,polygon,TRUE,America/New_York,7416
+Weehawken-NJ,1840033454,Weehawken,Weehawken,NJ,Weehawken-NJ,New Jersey,34017,Hudson,40.7695,-74.0204,,,11844.9,point,FALSE,America/New_York,7086
+Collingswood-NJ,1840016611,Collingswood,Collingswood,NJ,Collingswood-NJ,New Jersey,34007,Camden,39.916,-75.0759,14010,14010,2967,polygon,TRUE,America/New_York,08107 08108
+Maywood-NJ,1840003536,Maywood,Maywood,NJ,Maywood-NJ,New Jersey,34003,Bergen,40.9024,-74.0632,9785,9785,2938,polygon,TRUE,America/New_York,7607
+Stockton-NJ,1840001042,Stockton,Stockton,NJ,Stockton-NJ,New Jersey,34019,Hunterdon,40.4062,-74.976,519,519,374,polygon,TRUE,America/New_York,8559
+Lawrenceville-NJ,1840005473,Lawrenceville,Lawrenceville,NJ,Lawrenceville-NJ,New Jersey,34021,Mercer,40.3018,-74.7378,,,472.7,polygon,FALSE,America/New_York,8648
+Browns Mills-NJ,1840005517,Browns Mills,Browns Mills,NJ,Browns Mills-NJ,New Jersey,34005,Burlington,39.9736,-74.569,,,654.5,polygon,FALSE,America/New_York,8015
+Rio Grande-NJ,1840005867,Rio Grande,Rio Grande,NJ,Rio Grande-NJ,New Jersey,34009,Cape May,39.0197,-74.8761,,,564.6,polygon,FALSE,America/New_York,8242
+Pemberton-NJ,1840001480,Pemberton,Pemberton,NJ,Pemberton-NJ,New Jersey,34005,Burlington,39.9715,-74.6856,1362,1362,898,polygon,TRUE,America/New_York,8068
+National Park-NJ,1840003788,National Park,National Park,NJ,National Park-NJ,New Jersey,34015,Gloucester,39.8676,-75.1853,2998,2998,1152,polygon,TRUE,America/New_York,8063
+Alloway-NJ,1840005590,Alloway,Alloway,NJ,Alloway-NJ,New Jersey,34033,Salem,39.5621,-75.351,,,519.9,polygon,FALSE,America/New_York,08001 08079 08098
+Carneys Point-NJ,1840005591,Carneys Point,Carneys Point,NJ,Carneys Point-NJ,New Jersey,34033,Salem,39.7072,-75.4674,,,1958.3,polygon,FALSE,America/New_York,08023 08069
+Florence-NJ,1840033278,Florence,Florence,NJ,Florence-NJ,New Jersey,34005,Burlington,40.119,-74.8096,,,2061.8,polygon,FALSE,America/New_York,8518
+Haddonfield-NJ,1840016699,Haddonfield,Haddonfield,NJ,Haddonfield-NJ,New Jersey,34007,Camden,39.8953,-75.0344,11424,11424,1561,polygon,TRUE,America/New_York,8033
+Petersburg-NJ,1840033378,Petersburg,Petersburg,NJ,Petersburg-NJ,New Jersey,34027,Morris,41.0082,-74.524,,,838.2,point,FALSE,America/New_York,7438
+Kinnelon-NJ,1840000952,Kinnelon,Kinnelon,NJ,Kinnelon-NJ,New Jersey,34027,Morris,40.9847,-74.3863,10219,10219,219,polygon,TRUE,America/New_York,7405
+Springdale-NJ,1840033417,Springdale,Springdale,NJ,Springdale-NJ,New Jersey,34035,Somerset,40.607,-74.5088,,,408.8,point,FALSE,America/New_York,7059
+Jerseyville-NJ,1840033311,Jerseyville,Jerseyville,NJ,Jerseyville-NJ,New Jersey,34025,Monmouth,40.2393,-74.2293,,,197.3,point,FALSE,America/New_York,7728
+East Newark-NJ,1840003596,East Newark,East Newark,NJ,East Newark-NJ,New Jersey,34017,Hudson,40.7511,-74.1622,2754,2754,10390,polygon,TRUE,America/New_York,7029
+Branchburg Park-NJ,1840033233,Branchburg Park,Branchburg Park,NJ,Branchburg Park-NJ,New Jersey,34035,Somerset,40.5723,-74.6849,,,492,point,FALSE,America/New_York,8876
+Neptune City-NJ,1840003677,Neptune City,Neptune City,NJ,Neptune City-NJ,New Jersey,34025,Monmouth,40.2002,-74.0335,4737,4737,1917,polygon,TRUE,America/New_York,7753
+Juliustown-NJ,1840026546,Juliustown,Juliustown,NJ,Juliustown-NJ,New Jersey,34005,Burlington,40.0118,-74.6712,,,143,polygon,FALSE,America/New_York,08022 08042
+Hewitt-NJ,1840033296,Hewitt,Hewitt,NJ,Hewitt-NJ,New Jersey,34031,Passaic,41.1418,-74.3107,,,1.3,point,FALSE,America/New_York,7421
+Cherry Hill-NJ,1840033244,Cherry Hill,Cherry Hill,NJ,Cherry Hill-NJ,New Jersey,34007,Camden,39.9348,-75.0307,,,229,point,FALSE,America/New_York,8002
+Denville-NJ,1840033262,Denville,Denville,NJ,Denville-NJ,New Jersey,34027,Morris,40.8923,-74.4774,,,1370.6,point,FALSE,America/New_York,7834
+Avalon-NJ,1840003808,Avalon,Avalon,NJ,Avalon-NJ,New Jersey,34009,Cape May,39.0906,-74.7357,1279,1279,118,polygon,TRUE,America/New_York,8202
+Ewan-NJ,1840033272,Ewan,Ewan,NJ,Ewan-NJ,New Jersey,34015,Gloucester,39.6987,-75.186,,,265.6,point,FALSE,America/New_York,8062
+Blawenburg-NJ,1840024272,Blawenburg,Blawenburg,NJ,Blawenburg-NJ,New Jersey,34035,Somerset,40.4058,-74.6973,,,326.5,polygon,FALSE,America/New_York,8558
+West Wildwood-NJ,1840001601,West Wildwood,West Wildwood,NJ,West Wildwood-NJ,New Jersey,34009,Cape May,39.0009,-74.8245,568,568,795,polygon,TRUE,America/New_York,8260
+Flagtown-NJ,1840033276,Flagtown,Flagtown,NJ,Flagtown-NJ,New Jersey,34035,Somerset,40.517,-74.6843,,,494.4,point,FALSE,America/New_York,8821
+Yorketown-NJ,1840033488,Yorketown,Yorketown,NJ,Yorketown-NJ,New Jersey,34025,Monmouth,40.3064,-74.3385,,,1032.9,polygon,FALSE,America/New_York,7726
+Mullica Hill-NJ,1840016703,Mullica Hill,Mullica Hill,NJ,Mullica Hill-NJ,New Jersey,34015,Gloucester,39.7266,-75.2191,,,435,polygon,FALSE,America/New_York,8062
+Jacksonville-NJ,1840033309,Jacksonville,Jacksonville,NJ,Jacksonville-NJ,New Jersey,34005,Burlington,40.0504,-74.7635,,,77.6,point,FALSE,America/New_York,8505
+Rancocas-NJ,1840033394,Rancocas,Rancocas,NJ,Rancocas-NJ,New Jersey,34005,Burlington,40.0107,-74.8668,,,1604.1,point,FALSE,America/New_York,8060
+Hi-Nella-NJ,1840003780,Hi-Nella,Hi-Nella,NJ,Hi-Nella-NJ,New Jersey,34007,Camden,39.8366,-75.0217,866,866,1450,polygon,TRUE,America/New_York,8083
+Brookdale-NJ,1840024254,Brookdale,Brookdale,NJ,Brookdale-NJ,New Jersey,34013,Essex,40.8348,-74.1798,,,1517.9,polygon,FALSE,America/New_York,7003
+Wallington-NJ,1840000922,Wallington,Wallington,NJ,Wallington-NJ,New Jersey,34003,Bergen,40.8535,-74.1067,11689,11689,4588,polygon,TRUE,America/New_York,7057
+Ledgewood-NJ,1840033324,Ledgewood,Ledgewood,NJ,Ledgewood-NJ,New Jersey,34027,Morris,40.8812,-74.656,,,696.9,point,FALSE,America/New_York,7852
+Ocean Gate-NJ,1840001493,Ocean Gate,Ocean Gate,NJ,Ocean Gate-NJ,New Jersey,34029,Ocean,39.9261,-74.1355,2008,2008,1724,polygon,TRUE,America/New_York,8740
+Surf City-NJ,1840001494,Surf City,Surf City,NJ,Surf City-NJ,New Jersey,34029,Ocean,39.6621,-74.1698,1178,1178,610,polygon,TRUE,America/New_York,8008
+Holiday Heights-NJ,1840033481,Holiday Heights,Holiday Heights,NJ,Holiday Heights-NJ,New Jersey,34029,Ocean,39.9394,-74.2572,,,452.9,polygon,FALSE,America/New_York,8757
+Park Ridge-NJ,1840000917,Park Ridge,Park Ridge,NJ,Park Ridge-NJ,New Jersey,34003,Bergen,41.0353,-74.0422,8900,8900,1330,polygon,TRUE,America/New_York,7656
+Morris Plains-NJ,1840003576,Morris Plains,Morris Plains,NJ,Morris Plains-NJ,New Jersey,34027,Morris,40.8357,-74.4785,5593,5593,844,polygon,TRUE,America/New_York,7950
+Hamilton Square-NJ,1840024324,Hamilton Square,Hamilton Square,NJ,Hamilton Square-NJ,New Jersey,34021,Mercer,40.2249,-74.6525,,,1969.4,polygon,FALSE,America/New_York,08690 08691
+Heathcote-NJ,1840033480,Heathcote,Heathcote,NJ,Heathcote-NJ,New Jersey,34023,Middlesex,40.3907,-74.5756,,,981,polygon,FALSE,America/New_York,08852 08540
+Brownville-NJ,1840033468,Brownville,Brownville,NJ,Brownville-NJ,New Jersey,34023,Middlesex,40.4009,-74.2959,,,914.6,polygon,FALSE,America/New_York,8857
+Riverdale-NJ,1840000950,Riverdale,Riverdale,NJ,Riverdale-NJ,New Jersey,34027,Morris,40.9921,-74.3125,4253,4253,813,polygon,TRUE,America/New_York,7457
+Greentree-NJ,1840033472,Greentree,Greentree,NJ,Greentree-NJ,New Jersey,34007,Camden,39.899,-74.9614,,,1159.7,polygon,FALSE,America/New_York,08003 08034
+Dover-NJ,1840003581,Dover,Dover,NJ,Dover-NJ,New Jersey,34027,Morris,40.8859,-74.5597,18252,18252,2630,polygon,TRUE,America/New_York,07801 07802
+Liberty Corner-NJ,1840033327,Liberty Corner,Liberty Corner,NJ,Liberty Corner-NJ,New Jersey,34035,Somerset,40.6648,-74.5774,,,370.6,point,FALSE,America/New_York,7920
+Crandon Lakes-NJ,1840004954,Crandon Lakes,Crandon Lakes,NJ,Crandon Lakes-NJ,New Jersey,34037,Sussex,41.1234,-74.8403,,,100.6,polygon,FALSE,America/New_York,7860
+Tabor-NJ,1840033424,Tabor,Tabor,NJ,Tabor-NJ,New Jersey,34027,Morris,40.8712,-74.4799,,,1618.6,point,FALSE,America/New_York,7878
+Clifton-NJ,1840003511,Clifton,Clifton,NJ,Clifton-NJ,New Jersey,34031,Passaic,40.8631,-74.1575,85845,85845,2941,polygon,TRUE,America/New_York,07014 07013 07012 07011 07015
+Pine Beach-NJ,1840001484,Pine Beach,Pine Beach,NJ,Pine Beach-NJ,New Jersey,34029,Ocean,39.9358,-74.1699,2152,2152,1353,polygon,TRUE,America/New_York,8741
+Elwood-NJ,1840005594,Elwood,Elwood,NJ,Elwood-NJ,New Jersey,34001,Atlantic,39.573,-74.7148,,,260.1,polygon,FALSE,America/New_York,08215 08217 08037
+Wrightstown-NJ,1840001481,Wrightstown,Wrightstown,NJ,Wrightstown-NJ,New Jersey,34005,Burlington,40.0262,-74.6299,787,787,171,polygon,TRUE,America/New_York,08640 08562
+Oakland-NJ,1840000912,Oakland,Oakland,NJ,Oakland-NJ,New Jersey,34003,Bergen,41.0313,-74.2411,13130,13130,599,polygon,TRUE,America/New_York,7436
+Secaucus-NJ,1840001033,Secaucus,Secaucus,NJ,Secaucus-NJ,New Jersey,34017,Hudson,40.7809,-74.0662,19822,19822,1328,polygon,TRUE,America/New_York,07094 07096
+Villas-NJ,1840005869,Villas,Villas,NJ,Villas-NJ,New Jersey,34009,Cape May,39.0157,-74.935,,,1427.5,polygon,FALSE,America/New_York,8251

@@ -1,0 +1,849 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Redbird Smith-OK,1840034647,Redbird Smith,Redbird Smith,OK,Redbird Smith-OK,Oklahoma,40135,Sequoyah,35.5615,-95.0298,,,7.5,polygon,FALSE,America/Chicago,74435
+McAlester-OK,1840020457,McAlester,McAlester,OK,McAlester-OK,Oklahoma,40121,Pittsburg,34.9262,-95.7698,19312,18206,433,polygon,TRUE,America/Chicago,74501 74502
+Hendrix-OK,1840021928,Hendrix,Hendrix,OK,Hendrix-OK,Oklahoma,40013,Bryan,33.7753,-96.4071,83,83,266,polygon,TRUE,America/Chicago,74741
+Velma-OK,1840022830,Velma,Velma,OK,Velma-OK,Oklahoma,40137,Stephens,34.4547,-97.6617,605,605,166,polygon,TRUE,America/Chicago,73491
+Pryor-OK,1840034620,Pryor,Pryor,OK,Pryor-OK,Oklahoma,40097,Mayes,36.3084,-95.3169,,,864.1,point,TRUE,America/Chicago,74361
+Oil City-OK,1840034571,Oil City,Oil City,OK,Oil City-OK,Oklahoma,40137,Stephens,34.5231,-98.0731,,,40.6,point,FALSE,America/Chicago,73533
+Fort Gibson-OK,1840021721,Fort Gibson,Fort Gibson,OK,Fort Gibson-OK,Oklahoma,40101,Muskogee,35.7767,-95.26,4061,4061,115,polygon,TRUE,America/Chicago,74434
+Barnsdall-OK,1840018975,Barnsdall,Barnsdall,OK,Barnsdall-OK,Oklahoma,40113,Osage,36.5607,-96.1627,1203,1203,794,polygon,TRUE,America/Chicago,74002
+Big Cabin-OK,1840020341,Big Cabin,Big Cabin,OK,Big Cabin-OK,Oklahoma,40035,Craig,36.5402,-95.2221,258,258,45,polygon,TRUE,America/Chicago,74332
+Wayne-OK,1840022786,Wayne,Wayne,OK,Wayne-OK,Oklahoma,40087,McClain,34.9171,-97.3166,728,728,814,polygon,TRUE,America/Chicago,73095
+Shawnee-OK,1840021785,Shawnee,Shawnee,OK,Shawnee-OK,Oklahoma,40125,Pottawatomie,35.3524,-96.9647,36100,31465,275,polygon,TRUE,America/Chicago,74804 74801 74802
+Ringold-OK,1840034485,Ringold,Ringold,OK,Ringold-OK,Oklahoma,40089,McCurtain,34.2151,-95.1252,,,5.2,point,FALSE,America/Chicago,74754
+Boley-OK,1840021753,Boley,Boley,OK,Boley-OK,Oklahoma,40107,Okfuskee,35.4903,-96.4793,1183,1183,277,polygon,TRUE,America/Chicago,74829
+Hydro-OK,1840021769,Hydro,Hydro,OK,Hydro-OK,Oklahoma,40011,Blaine,35.5483,-98.5791,961,961,551,polygon,TRUE,America/Chicago,73048
+Dodge-OK,1840034536,Dodge,Dodge,OK,Dodge-OK,Oklahoma,40041,Delaware,36.5789,-94.6385,,,11.7,polygon,FALSE,America/Chicago,74344
+Skiatook-OK,1840022597,Skiatook,Skiatook,OK,Skiatook-OK,Oklahoma,40113,Osage,36.3693,-95.9815,7236,7908,234,polygon,TRUE,America/Chicago,74070
+Wagoner-OK,1840021696,Wagoner,Wagoner,OK,Wagoner-OK,Oklahoma,40145,Wagoner,35.9641,-95.3791,8547,8846,336,polygon,TRUE,America/Chicago,74467
+Ralston-OK,1840021656,Ralston,Ralston,OK,Ralston-OK,Oklahoma,40117,Pawnee,36.5036,-96.7374,329,329,279,polygon,TRUE,America/Chicago,74650
+Fairfax-OK,1840021592,Fairfax,Fairfax,OK,Fairfax-OK,Oklahoma,40113,Osage,36.5698,-96.708,1341,1341,677,polygon,TRUE,America/Chicago,74637
+Bessie-OK,1840020440,Bessie,Bessie,OK,Bessie-OK,Oklahoma,40149,Washita,35.3855,-98.9894,179,179,136,polygon,TRUE,America/Chicago,73622
+Jennings-OK,1840021658,Jennings,Jennings,OK,Jennings-OK,Oklahoma,40117,Pawnee,36.1824,-96.5691,359,359,252,polygon,TRUE,America/Chicago,74038
+Chouteau-OK,1840022667,Chouteau,Chouteau,OK,Chouteau-OK,Oklahoma,40097,Mayes,36.1882,-95.3363,2092,2092,234,polygon,TRUE,America/Chicago,74337
+Peckham-OK,1840034477,Peckham,Peckham,OK,Peckham-OK,Oklahoma,40071,Kay,36.887,-97.1759,,,30.6,point,FALSE,America/Chicago,74647
+Rush Springs-OK,1840021806,Rush Springs,Rush Springs,OK,Rush Springs-OK,Oklahoma,40051,Grady,34.7792,-97.9572,1266,1266,427,polygon,TRUE,America/Chicago,73082
+South Coffeyville-OK,1840022594,South Coffeyville,South Coffeyville,OK,South Coffeyville-OK,Oklahoma,40105,Nowata,36.9934,-95.6219,761,761,483,polygon,TRUE,America/Chicago,74072
+Apache-OK,1840021763,Apache,Apache,OK,Apache-OK,Oklahoma,40015,Caddo,34.8938,-98.3581,1441,1441,276,polygon,TRUE,America/Chicago,73006
+Sulphur-OK,1840021891,Sulphur,Sulphur,OK,Sulphur-OK,Oklahoma,40099,Murray,34.4977,-96.9899,4879,5081,286,polygon,TRUE,America/Chicago,73086
+Dougherty-OK,1840021892,Dougherty,Dougherty,OK,Dougherty-OK,Oklahoma,40099,Murray,34.4005,-97.0514,220,220,226,polygon,TRUE,America/Chicago,73032
+IXL-OK,1840021754,IXL,IXL,OK,IXL-OK,Oklahoma,40107,Okfuskee,35.5227,-96.3881,51,51,5,polygon,TRUE,America/Chicago,74833
+Canadian-OK,1840022788,Canadian,Canadian,OK,Canadian-OK,Oklahoma,40121,Pittsburg,35.1742,-95.6496,204,204,107,polygon,TRUE,America/Chicago,74425
+Centralia-OK,1840034426,Centralia,Centralia,OK,Centralia-OK,Oklahoma,40035,Craig,36.7967,-95.3533,,,17.7,point,FALSE,America/Chicago,74301
+Calvin-OK,1840022790,Calvin,Calvin,OK,Calvin-OK,Oklahoma,40063,Hughes,34.9673,-96.253,281,281,223,polygon,TRUE,America/Chicago,74531
+Texola-OK,1840022757,Texola,Texola,OK,Texola-OK,Oklahoma,40009,Beckham,35.2222,-99.9929,35,35,21,polygon,TRUE,America/Chicago,73645 73668
+Manitou-OK,1840022835,Manitou,Manitou,OK,Manitou-OK,Oklahoma,40141,Tillman,34.5071,-98.9809,170,170,198,polygon,TRUE,America/Chicago,73555
+Bison-OK,1840026927,Bison,Bison,OK,Bison-OK,Oklahoma,40047,Garfield,36.196,-97.8979,,,31.7,polygon,FALSE,America/Chicago,73720
+Keyes-OK,1840021624,Keyes,Keyes,OK,Keyes-OK,Oklahoma,40025,Cimarron,36.8077,-102.2518,281,281,290,polygon,TRUE,America/Chicago,73947
+Medford-OK,1840020342,Medford,Medford,OK,Medford-OK,Oklahoma,40053,Grant,36.8036,-97.7379,974,974,349,polygon,TRUE,America/Chicago,73759
+Cleo Springs-OK,1840022673,Cleo Springs,Cleo Springs,OK,Cleo Springs-OK,Oklahoma,40093,Major,36.4045,-98.4401,350,350,241,polygon,TRUE,America/Chicago,73729
+Thomas-OK,1840021724,Thomas,Thomas,OK,Thomas-OK,Oklahoma,40039,Custer,35.7476,-98.7494,1227,1227,400,polygon,TRUE,America/Chicago,73669
+Kinta-OK,1840021792,Kinta,Kinta,OK,Kinta-OK,Oklahoma,40061,Haskell,35.1192,-95.2379,294,294,179,polygon,TRUE,America/Chicago,74552
+Wilburton-OK,1840021832,Wilburton,Wilburton,OK,Wilburton-OK,Oklahoma,40077,Latimer,34.9183,-95.3046,2788,2662,331,polygon,TRUE,America/Chicago,74578
+Kenwood-OK,1840024887,Kenwood,Kenwood,OK,Kenwood-OK,Oklahoma,40041,Delaware,36.3013,-94.9979,,,149.2,polygon,FALSE,America/Chicago,74338 74365 74364
+Eldon-OK,1840017748,Eldon,Eldon,OK,Eldon-OK,Oklahoma,40021,Cherokee,35.9305,-94.8179,,,19.3,polygon,FALSE,America/Chicago,74960 74464
+Arnett-OK,1840020375,Arnett,Arnett,OK,Arnett-OK,Oklahoma,40045,Ellis,36.135,-99.7712,511,511,459,polygon,TRUE,America/Chicago,73832
+Broken Arrow-OK,1840019059,Broken Arrow,Broken Arrow,OK,Broken Arrow-OK,Oklahoma,40143,Tulsa,36.0367,-95.7808,107403,107403,672,polygon,TRUE,America/Chicago,74014 74011 74012 74013
+Terral-OK,1840022886,Terral,Terral,OK,Terral-OK,Oklahoma,40067,Jefferson,33.8967,-97.9383,400,400,362,polygon,TRUE,America/Chicago,73569
+Rosston-OK,1840021620,Rosston,Rosston,OK,Rosston-OK,Oklahoma,40059,Harper,36.8128,-99.9327,32,32,45,polygon,TRUE,America/Chicago,73855
+Reydon-OK,1840021705,Reydon,Reydon,OK,Reydon-OK,Oklahoma,40129,Roger Mills,35.6502,-99.9239,210,210,179,polygon,TRUE,America/Chicago,73660
+Tabler-OK,1840034592,Tabler,Tabler,OK,Tabler-OK,Oklahoma,40051,Grady,35.0442,-97.8198,,,30.1,point,FALSE,America/Chicago,73018
+Dwight Mission-OK,1840034635,Dwight Mission,Dwight Mission,OK,Dwight Mission-OK,Oklahoma,40135,Sequoyah,35.5466,-94.8594,,,12.7,polygon,FALSE,America/Chicago,74962
+Durant-OK,1840019280,Durant,Durant,OK,Durant-OK,Oklahoma,40013,Bryan,33.9957,-96.3938,18187,17583,254,polygon,TRUE,America/Chicago,74701 74702
+Nuyaka-OK,1840034570,Nuyaka,Nuyaka,OK,Nuyaka-OK,Oklahoma,40111,Okmulgee,35.6532,-96.1397,,,24.2,point,FALSE,America/Chicago,74447
+Corbett-OK,1840034432,Corbett,Corbett,OK,Corbett-OK,Oklahoma,40027,Cleveland,34.9734,-97.2295,,,11.3,point,FALSE,America/Chicago,73051
+Alfalfa-OK,1840034406,Alfalfa,Alfalfa,OK,Alfalfa-OK,Oklahoma,40015,Caddo,35.2189,-98.6073,,,4.1,point,FALSE,America/Chicago,73015
+Council Hill-OK,1840021719,Council Hill,Council Hill,OK,Council Hill-OK,Oklahoma,40101,Muskogee,35.5559,-95.6525,150,150,183,polygon,TRUE,America/Chicago,74428
+Midwest City-OK,1840020425,Midwest City,Midwest City,OK,Midwest City-OK,Oklahoma,40109,Oklahoma,35.463,-97.371,57305,57305,906,polygon,TRUE,America/Chicago,73110 73141 73130
+Middleberg-OK,1840034467,Middleberg,Middleberg,OK,Middleberg-OK,Oklahoma,40051,Grady,35.1062,-97.735,,,8.2,point,FALSE,America/Chicago,73010
+Watts-OK,1840022705,Watts,Watts,OK,Watts-OK,Oklahoma,40001,Adair,36.1073,-94.5717,312,312,310,polygon,TRUE,America/Chicago,74965 74964
+Long-OK,1840017832,Long,Long,OK,Long-OK,Oklahoma,40135,Sequoyah,35.4993,-94.547,,,103.9,polygon,FALSE,America/Chicago,74948
+Tishomingo-OK,1840021904,Tishomingo,Tishomingo,OK,Tishomingo-OK,Oklahoma,40069,Johnston,34.2387,-96.6806,3109,3109,275,polygon,TRUE,America/Chicago,73460
+Burlington-OK,1840021606,Burlington,Burlington,OK,Burlington-OK,Oklahoma,40003,Alfalfa,36.9002,-98.4234,159,159,223,polygon,TRUE,America/Chicago,73722
+Gracemont-OK,1840021767,Gracemont,Gracemont,OK,Gracemont-OK,Oklahoma,40015,Caddo,35.1878,-98.2572,316,316,810,polygon,TRUE,America/Chicago,73042
+Gideon-OK,1840034541,Gideon,Gideon,OK,Gideon-OK,Oklahoma,40021,Cherokee,36.0088,-95.036,,,22.7,polygon,FALSE,America/Chicago,74464
+Lamar-OK,1840021820,Lamar,Lamar,OK,Lamar-OK,Oklahoma,40063,Hughes,35.0942,-96.1238,151,151,4,polygon,TRUE,America/Chicago,74850
+Zion-OK,1840034603,Zion,Zion,OK,Zion-OK,Oklahoma,40001,Adair,35.7853,-94.6378,,,2.9,polygon,FALSE,America/Chicago,74960
+Aline-OK,1840021607,Aline,Aline,OK,Aline-OK,Oklahoma,40003,Alfalfa,36.5096,-98.4486,217,217,319,polygon,TRUE,America/Chicago,73716
+Brooksville-OK,1840021784,Brooksville,Brooksville,OK,Brooksville-OK,Oklahoma,40125,Pottawatomie,35.2104,-96.9608,60,60,7,polygon,TRUE,America/Chicago,74873
+Avery-OK,1840034412,Avery,Avery,OK,Avery-OK,Oklahoma,40081,Lincoln,35.8842,-96.7522,,,12.1,point,FALSE,America/Chicago,74023
+Goldsby-OK,1840021810,Goldsby,Goldsby,OK,Goldsby-OK,Oklahoma,40087,McClain,35.1285,-97.4741,2159,2159,31,polygon,TRUE,America/Chicago,73093 73072 73080
+Orr-OK,1840034473,Orr,Orr,OK,Orr-OK,Oklahoma,40085,Love,34.032,-97.5356,,,49.4,point,FALSE,America/Chicago,73456
+Roll-OK,1840034612,Roll,Roll,OK,Roll-OK,Oklahoma,40129,Roger Mills,35.7792,-99.7115,,,1.3,point,FALSE,America/Chicago,73628
+Tucker-OK,1840034498,Tucker,Tucker,OK,Tucker-OK,Oklahoma,40079,Le Flore,35.3037,-94.7302,,,11.8,point,FALSE,America/Chicago,74959
+Ahloso-OK,1840034404,Ahloso,Ahloso,OK,Ahloso-OK,Oklahoma,40123,Pontotoc,34.7351,-96.6375,,,121.4,point,FALSE,America/Chicago,74820
+Stilwell-OK,1840021702,Stilwell,Stilwell,OK,Stilwell-OK,Oklahoma,40001,Adair,35.8151,-94.6312,3884,4048,482,polygon,TRUE,America/Chicago,74960
+Reed-OK,1840034483,Reed,Reed,OK,Reed-OK,Oklahoma,40055,Greer,34.9006,-99.6957,,,12.9,point,FALSE,America/Chicago,73554
+Skedee-OK,1840022662,Skedee,Skedee,OK,Skedee-OK,Oklahoma,40117,Pawnee,36.3801,-96.704,51,51,147,polygon,TRUE,America/Chicago,74058
+Francis-OK,1840021839,Francis,Francis,OK,Francis-OK,Oklahoma,40123,Pontotoc,34.8742,-96.5926,319,319,226,polygon,TRUE,America/Chicago,74844
+Stillwater-OK,1840021675,Stillwater,Stillwater,OK,Stillwater-OK,Oklahoma,40119,Payne,36.1315,-97.074,48233,49504,647,polygon,TRUE,America/Chicago,74078 74075 74074 74076 74077
+Short-OK,1840034651,Short,Short,OK,Short-OK,Oklahoma,40135,Sequoyah,35.5664,-94.4936,,,13.7,polygon,FALSE,America/Chicago,74948
+Briartown-OK,1840034420,Briartown,Briartown,OK,Briartown-OK,Oklahoma,40101,Muskogee,35.2973,-95.2397,,,56.8,point,FALSE,America/Chicago,74455
+Kingfisher-OK,1840020389,Kingfisher,Kingfisher,OK,Kingfisher-OK,Oklahoma,40073,Kingfisher,35.8439,-97.938,4371,4888,465,polygon,TRUE,America/Chicago,73750
+Freedom-OK,1840021597,Freedom,Freedom,OK,Freedom-OK,Oklahoma,40151,Woods,36.768,-99.1131,304,304,341,polygon,TRUE,America/Chicago,73842
+Vian-OK,1840022740,Vian,Vian,OK,Vian-OK,Oklahoma,40135,Sequoyah,35.5018,-94.9698,1394,1394,404,polygon,TRUE,America/Chicago,74962
+Dripping Springs-OK,1840034632,Dripping Springs,Dripping Springs,OK,Dripping Springs-OK,Oklahoma,40041,Delaware,36.171,-94.6852,,,9.8,polygon,FALSE,America/Chicago,74338
+Burbank-OK,1840021589,Burbank,Burbank,OK,Burbank-OK,Oklahoma,40113,Osage,36.6964,-96.7294,139,139,158,polygon,TRUE,America/Chicago,74633
+Norge-OK,1840022778,Norge,Norge,OK,Norge-OK,Oklahoma,40051,Grady,34.9892,-97.9941,148,148,186,polygon,TRUE,America/Chicago,73018
+Mustang-OK,1840020421,Mustang,Mustang,OK,Mustang-OK,Oklahoma,40017,Canadian,35.3917,-97.7245,20792,20792,669,polygon,TRUE,America/Chicago,73064
+Copan-OK,1840022603,Copan,Copan,OK,Copan-OK,Oklahoma,40147,Washington,36.9008,-95.9254,741,741,280,polygon,TRUE,America/Chicago,74022
+Warner-OK,1840022724,Warner,Warner,OK,Warner-OK,Oklahoma,40101,Muskogee,35.4901,-95.3085,1618,1618,322,polygon,TRUE,America/Chicago,74469
+Piney-OK,1840034578,Piney,Piney,OK,Piney-OK,Oklahoma,40001,Adair,35.8875,-94.5536,,,13,polygon,FALSE,America/Chicago,74960
+Tullahassee-OK,1840022704,Tullahassee,Tullahassee,OK,Tullahassee-OK,Oklahoma,40145,Wagoner,35.8418,-95.4387,109,109,69,polygon,TRUE,America/Chicago,74454
+Blanchard-OK,1840019175,Blanchard,Blanchard,OK,Blanchard-OK,Oklahoma,40087,McClain,35.1523,-97.6612,8463,8463,110,polygon,TRUE,America/Chicago,73010
+Teresita-OK,1840034594,Teresita,Teresita,OK,Teresita-OK,Oklahoma,40021,Cherokee,36.123,-94.9803,,,12.8,polygon,FALSE,America/Chicago,74464 74364
+Fort Cobb-OK,1840021766,Fort Cobb,Fort Cobb,OK,Fort Cobb-OK,Oklahoma,40015,Caddo,35.1042,-98.4417,630,630,341,polygon,TRUE,America/Chicago,73038
+Wauhillau-OK,1840034597,Wauhillau,Wauhillau,OK,Wauhillau-OK,Oklahoma,40001,Adair,35.8682,-94.7623,,,14.2,polygon,FALSE,America/Chicago,74960
+Grayson-OK,1840021715,Grayson,Grayson,OK,Grayson-OK,Oklahoma,40111,Okmulgee,35.5053,-95.8718,156,156,54,polygon,TRUE,America/Chicago,74437
+Stigler-OK,1840021790,Stigler,Stigler,OK,Stigler-OK,Oklahoma,40061,Haskell,35.2566,-95.1185,2911,2749,393,polygon,TRUE,America/Chicago,74462
+Cedar Crest-OK,1840034424,Cedar Crest,Cedar Crest,OK,Cedar Crest-OK,Oklahoma,40097,Mayes,36.1215,-95.1663,,,46.9,polygon,FALSE,America/Chicago,74352
+Maud-OK,1840020441,Maud,Maud,OK,Maud-OK,Oklahoma,40133,Seminole,35.1335,-96.7782,1075,1075,395,polygon,TRUE,America/Chicago,74854
+Copeland-OK,1840034532,Copeland,Copeland,OK,Copeland-OK,Oklahoma,40041,Delaware,36.6571,-94.8204,,,46.9,polygon,FALSE,America/Chicago,74331 74344
+Checotah-OK,1840019157,Checotah,Checotah,OK,Checotah-OK,Oklahoma,40091,McIntosh,35.4821,-95.5224,2487,3225,139,polygon,TRUE,America/Chicago,74426
+Jet-OK,1840021611,Jet,Jet,OK,Jet-OK,Oklahoma,40003,Alfalfa,36.6665,-98.1813,223,223,276,polygon,TRUE,America/Chicago,73749
+Justice-OK,1840034642,Justice,Justice,OK,Justice-OK,Oklahoma,40131,Rogers,36.2909,-95.5635,,,85,polygon,FALSE,America/Chicago,74019
+Mannford-OK,1840022699,Mannford,Mannford,OK,Mannford-OK,Oklahoma,40037,Creek,36.1298,-96.3353,3047,3139,176,polygon,TRUE,America/Chicago,74044
+Connerville-OK,1840034431,Connerville,Connerville,OK,Connerville-OK,Oklahoma,40069,Johnston,34.4436,-96.6359,,,69.1,polygon,FALSE,America/Chicago,74836
+Sand Springs-OK,1840021671,Sand Springs,Sand Springs,OK,Sand Springs-OK,Oklahoma,40143,Tulsa,36.1345,-96.1285,19822,19822,397,polygon,TRUE,America/Chicago,74107 74063
+Sallisaw-OK,1840021749,Sallisaw,Sallisaw,OK,Sallisaw-OK,Oklahoma,40135,Sequoyah,35.4609,-94.807,7922,8602,241,polygon,TRUE,America/Chicago,74955
+Faxon-OK,1840021851,Faxon,Faxon,OK,Faxon-OK,Oklahoma,40031,Comanche,34.4603,-98.5793,131,131,197,polygon,TRUE,America/Chicago,73540
+Wewoka-OK,1840021777,Wewoka,Wewoka,OK,Wewoka-OK,Oklahoma,40133,Seminole,35.1441,-96.4967,3040,3395,271,polygon,TRUE,America/Chicago,74884
+Tatums-OK,1840022846,Tatums,Tatums,OK,Tatums-OK,Oklahoma,40019,Carter,34.4779,-97.4661,151,151,28,polygon,TRUE,America/Chicago,73487
+Flute Springs-OK,1840034639,Flute Springs,Flute Springs,OK,Flute Springs-OK,Oklahoma,40135,Sequoyah,35.6231,-94.8044,,,18.3,polygon,FALSE,America/Chicago,74931 74945
+Tom-OK,1840034613,Tom,Tom,OK,Tom-OK,Oklahoma,40089,McCurtain,33.7359,-94.573,,,12.1,point,FALSE,America/Chicago,74740
+Yanush-OK,1840034504,Yanush,Yanush,OK,Yanush-OK,Oklahoma,40077,Latimer,34.7098,-95.3139,,,36.6,point,FALSE,America/Chicago,74574
+Davidson-OK,1840021894,Davidson,Davidson,OK,Davidson-OK,Oklahoma,40141,Tillman,34.2421,-99.0781,296,296,237,polygon,TRUE,America/Chicago,73530
+Lacey-OK,1840034553,Lacey,Lacey,OK,Lacey-OK,Oklahoma,40073,Kingfisher,36.1161,-98.0862,,,4.3,point,FALSE,America/Chicago,73742
+Dale-OK,1840026950,Dale,Dale,OK,Dale-OK,Oklahoma,40125,Pottawatomie,35.3842,-97.0435,,,161.9,polygon,FALSE,America/Chicago,74851
+Indianapolis-OK,1840034550,Indianapolis,Indianapolis,OK,Indianapolis-OK,Oklahoma,40039,Custer,35.5514,-98.8626,,,3.6,point,FALSE,America/Chicago,73601
+Valley Brook-OK,1840022734,Valley Brook,Valley Brook,OK,Valley Brook-OK,Oklahoma,40109,Oklahoma,35.4027,-97.4814,777,777,1147,polygon,TRUE,America/Chicago,73149 73129
+Mountain View-OK,1840022800,Mountain View,Mountain View,OK,Mountain View-OK,Oklahoma,40075,Kiowa,35.0994,-98.7502,764,764,547,polygon,TRUE,America/Chicago,73062
+Corn-OK,1840022761,Corn,Corn,OK,Corn-OK,Oklahoma,40149,Washita,35.3793,-98.7814,499,499,539,polygon,TRUE,America/Chicago,73024
+Guthrie-OK,1840020390,Guthrie,Guthrie,OK,Guthrie-OK,Oklahoma,40083,Logan,35.8428,-97.4358,9237,11492,236,polygon,TRUE,America/Chicago,73044
+Ninnekah-OK,1840022777,Ninnekah,Ninnekah,OK,Ninnekah-OK,Oklahoma,40051,Grady,34.9641,-97.9447,1029,1029,39,polygon,TRUE,America/Chicago,73018 73067
+Soper-OK,1840022901,Soper,Soper,OK,Soper-OK,Oklahoma,40023,Choctaw,34.0321,-95.696,254,254,362,polygon,TRUE,America/Chicago,74759
+Kaw City-OK,1840018981,Kaw City,Kaw City,OK,Kaw City-OK,Oklahoma,40071,Kay,36.7682,-96.8629,375,375,55,polygon,TRUE,America/Chicago,74641
+Owasso-OK,1840020385,Owasso,Owasso,OK,Owasso-OK,Oklahoma,40143,Tulsa,36.2884,-95.8312,35784,35784,833,polygon,TRUE,America/Chicago,74055
+Hitchita-OK,1840021762,Hitchita,Hitchita,OK,Hitchita-OK,Oklahoma,40091,McIntosh,35.5198,-95.7518,85,85,283,polygon,TRUE,America/Chicago,74438
+Keefton-OK,1840034456,Keefton,Keefton,OK,Keefton-OK,Oklahoma,40101,Muskogee,35.5898,-95.3394,,,35,point,FALSE,America/Chicago,74403
+Bernice-OK,1840020370,Bernice,Bernice,OK,Bernice-OK,Oklahoma,40041,Delaware,36.622,-94.9108,562,562,250,polygon,TRUE,America/Chicago,74331
+Foyil-OK,1840021643,Foyil,Foyil,OK,Foyil-OK,Oklahoma,40131,Rogers,36.4309,-95.5215,366,366,320,polygon,TRUE,America/Chicago,74017 74031
+Lane-OK,1840026970,Lane,Lane,OK,Lane-OK,Oklahoma,40005,Atoka,34.2997,-95.9894,,,24.5,polygon,FALSE,America/Chicago,74555 74525
+Wardville-OK,1840034502,Wardville,Wardville,OK,Wardville-OK,Oklahoma,40005,Atoka,34.655,-96.0309,,,64.2,polygon,FALSE,America/Chicago,74576
+Glencoe-OK,1840021678,Glencoe,Glencoe,OK,Glencoe-OK,Oklahoma,40119,Payne,36.2313,-96.9302,601,601,130,polygon,TRUE,America/Chicago,74032
+Erick-OK,1840020438,Erick,Erick,OK,Erick-OK,Oklahoma,40009,Beckham,35.2154,-99.8686,1036,1036,418,polygon,TRUE,America/Chicago,73645
+Cowlington-OK,1840021794,Cowlington,Cowlington,OK,Cowlington-OK,Oklahoma,40079,Le Flore,35.3106,-94.7879,151,151,61,polygon,TRUE,America/Chicago,74941
+Fair Oaks-OK,1840021699,Fair Oaks,Fair Oaks,OK,Fair Oaks-OK,Oklahoma,40145,Wagoner,36.1441,-95.6959,93,93,4,polygon,TRUE,America/Chicago,74015 74014
+Welty-OK,1840034503,Welty,Welty,OK,Welty-OK,Oklahoma,40107,Okfuskee,35.6245,-96.4053,,,48,point,FALSE,America/Chicago,74833
+Bray-OK,1840021886,Bray,Bray,OK,Bray-OK,Oklahoma,40137,Stephens,34.616,-97.8207,1179,1179,7,polygon,TRUE,America/Chicago,73055
+McCurtain-OK,1840022768,McCurtain,McCurtain,OK,McCurtain-OK,Oklahoma,40061,Haskell,35.1509,-94.9669,511,511,179,polygon,TRUE,America/Chicago,74944
+Orlando-OK,1840022691,Orlando,Orlando,OK,Orlando-OK,Oklahoma,40083,Logan,36.1359,-97.3651,164,164,161,polygon,TRUE,America/Chicago,73073
+Bee-OK,1840026974,Bee,Bee,OK,Bee-OK,Oklahoma,40069,Johnston,34.1251,-96.5687,,,85.5,polygon,FALSE,America/Chicago,74748
+Asher-OK,1840020442,Asher,Asher,OK,Asher-OK,Oklahoma,40125,Pottawatomie,34.9885,-96.9254,417,417,203,polygon,TRUE,America/Chicago,74826
+Oilton-OK,1840020392,Oilton,Oilton,OK,Oilton-OK,Oklahoma,40037,Creek,36.0821,-96.5819,1015,1015,370,polygon,TRUE,America/Chicago,74052
+Red Rock-OK,1840021642,Red Rock,Red Rock,OK,Red Rock-OK,Oklahoma,40103,Noble,36.4601,-97.1796,280,280,438,polygon,TRUE,America/Chicago,74651
+Gould-OK,1840021835,Gould,Gould,OK,Gould-OK,Oklahoma,40057,Harmon,34.6694,-99.7737,130,130,141,polygon,TRUE,America/Chicago,73544
+Healdton-OK,1840020531,Healdton,Healdton,OK,Healdton-OK,Oklahoma,40019,Carter,34.2335,-97.4868,2761,2761,75,polygon,TRUE,America/Chicago,73438
+Nash-OK,1840022606,Nash,Nash,OK,Nash-OK,Oklahoma,40053,Grant,36.6647,-98.0521,202,202,238,polygon,TRUE,America/Chicago,73761
+Moodys-OK,1840034564,Moodys,Moodys,OK,Moodys-OK,Oklahoma,40021,Cherokee,36.0312,-94.9577,,,16,point,FALSE,America/Chicago,74464
+Tahlequah-OK,1840021700,Tahlequah,Tahlequah,OK,Tahlequah-OK,Oklahoma,40021,Cherokee,35.9116,-94.9773,19682,16741,517,polygon,TRUE,America/Chicago,74464 74465
+Grand Lake Towne-OK,1840021661,Grand Lake Towne,Grand Lake Towne,OK,Grand Lake Towne-OK,Oklahoma,40097,Mayes,36.5049,-95.0257,73,73,197,polygon,TRUE,America/Chicago,74301
+Purcell-OK,1840020454,Purcell,Purcell,OK,Purcell-OK,Oklahoma,40087,McClain,35.018,-97.3747,7528,6442,185,polygon,TRUE,America/Chicago,73095 73080
+Savanna-OK,1840022789,Savanna,Savanna,OK,Savanna-OK,Oklahoma,40121,Pittsburg,34.8353,-95.8357,648,648,175,polygon,TRUE,America/Chicago,74565 74501
+Blackwell-OK,1840018980,Blackwell,Blackwell,OK,Blackwell-OK,Oklahoma,40071,Kay,36.8011,-97.3003,6639,6808,478,polygon,TRUE,America/Chicago,74631
+Albion-OK,1840021889,Albion,Albion,OK,Albion-OK,Oklahoma,40127,Pushmataha,34.6623,-95.0992,101,101,162,polygon,TRUE,America/Chicago,74521
+Selman-OK,1840034490,Selman,Selman,OK,Selman-OK,Oklahoma,40059,Harper,36.802,-99.4909,,,11.7,point,FALSE,America/Chicago,73834
+Nichols Hills-OK,1840020426,Nichols Hills,Nichols Hills,OK,Nichols Hills-OK,Oklahoma,40109,Oklahoma,35.5468,-97.5445,3908,3908,768,polygon,TRUE,America/Chicago,73116 73120
+Greenfield-OK,1840021685,Greenfield,Greenfield,OK,Greenfield-OK,Oklahoma,40011,Blaine,35.7289,-98.3776,91,91,265,polygon,TRUE,America/Chicago,73043
+Calumet-OK,1840022731,Calumet,Calumet,OK,Calumet-OK,Oklahoma,40017,Canadian,35.6014,-98.1247,572,572,172,polygon,TRUE,America/Chicago,73014
+Tyrone-OK,1840022637,Tyrone,Tyrone,OK,Tyrone-OK,Oklahoma,40139,Texas,36.9554,-101.068,769,769,717,polygon,TRUE,America/Chicago,73951
+Lebanon-OK,1840026978,Lebanon,Lebanon,OK,Lebanon-OK,Oklahoma,40095,Marshall,33.9769,-96.9174,,,54.2,polygon,FALSE,America/Chicago,73440
+Byron-OK,1840022608,Byron,Byron,OK,Byron-OK,Oklahoma,40003,Alfalfa,36.9014,-98.2946,37,37,59,polygon,TRUE,America/Chicago,73722
+Orion-OK,1840034573,Orion,Orion,OK,Orion-OK,Oklahoma,40093,Major,36.2167,-98.7787,,,1.5,point,FALSE,America/Chicago,73737
+Harris-OK,1840034608,Harris,Harris,OK,Harris-OK,Oklahoma,40089,McCurtain,33.7504,-94.7291,,,7.9,point,FALSE,America/Chicago,74740
+Langston-OK,1840021683,Langston,Langston,OK,Langston-OK,Oklahoma,40083,Logan,35.9324,-97.263,1842,1842,180,polygon,TRUE,America/Chicago,73027 73050 73044
+Marland-OK,1840022651,Marland,Marland,OK,Marland-OK,Oklahoma,40103,Noble,36.5611,-97.1529,222,222,328,polygon,TRUE,America/Chicago,74644
+Sharon-OK,1840022647,Sharon,Sharon,OK,Sharon-OK,Oklahoma,40153,Woodward,36.2755,-99.3381,138,138,391,polygon,TRUE,America/Chicago,73857
+Belfonte-OK,1840034626,Belfonte,Belfonte,OK,Belfonte-OK,Oklahoma,40135,Sequoyah,35.5368,-94.5507,,,24.6,polygon,FALSE,America/Chicago,74948
+Yale-OK,1840021676,Yale,Yale,OK,Yale-OK,Oklahoma,40119,Payne,36.115,-96.7009,1210,1210,513,polygon,TRUE,America/Chicago,74085
+Notchietown-OK,1840019749,Notchietown,Notchietown,OK,Notchietown-OK,Oklahoma,40135,Sequoyah,35.5857,-95.0901,,,0,polygon,FALSE,,74435
+Shidler-OK,1840021590,Shidler,Shidler,OK,Shidler-OK,Oklahoma,40113,Osage,36.7808,-96.6596,444,444,222,polygon,TRUE,America/Chicago,74652
+Lovell-OK,1840034463,Lovell,Lovell,OK,Lovell-OK,Oklahoma,40083,Logan,36.057,-97.6353,,,57,point,FALSE,America/Chicago,73028
+Bruno-OK,1840034517,Bruno,Bruno,OK,Bruno-OK,Oklahoma,40005,Atoka,34.3443,-96.0753,,,28.2,point,FALSE,America/Chicago,74525
+Coleman-OK,1840034430,Coleman,Coleman,OK,Coleman-OK,Oklahoma,40069,Johnston,34.2635,-96.4194,,,100.4,polygon,FALSE,America/Chicago,73432
+Turley-OK,1840019057,Turley,Turley,OK,Turley-OK,Oklahoma,40143,Tulsa,36.2473,-95.9654,,,243,polygon,FALSE,America/Chicago,74130 74126
+Lake Aluma-OK,1840021747,Lake Aluma,Lake Aluma,OK,Lake Aluma-OK,Oklahoma,40109,Oklahoma,35.5334,-97.4484,91,91,135,polygon,TRUE,America/Chicago,73121
+Wakita-OK,1840022607,Wakita,Wakita,OK,Wakita-OK,Oklahoma,40053,Grant,36.8817,-97.9237,340,340,401,polygon,TRUE,America/Chicago,73771
+Mounds-OK,1840022700,Mounds,Mounds,OK,Mounds-OK,Oklahoma,40037,Creek,35.879,-96.0683,1193,1193,212,polygon,TRUE,America/Chicago,74047
+Locust Grove-OK,1840021663,Locust Grove,Locust Grove,OK,Locust Grove-OK,Oklahoma,40097,Mayes,36.1978,-95.1685,1404,1404,309,polygon,TRUE,America/Chicago,74352
+Carpenter-OK,1840034423,Carpenter,Carpenter,OK,Carpenter-OK,Oklahoma,40129,Roger Mills,35.5303,-99.3718,,,10.8,point,FALSE,America/Chicago,73644
+Edmond-OK,1840020423,Edmond,Edmond,OK,Edmond-OK,Oklahoma,40109,Oklahoma,35.6689,-97.4159,91191,91191,415,polygon,TRUE,America/Chicago,73012 73013 73007 73003 73034 73083
+Clayton-OK,1840022834,Clayton,Clayton,OK,Clayton-OK,Oklahoma,40127,Pushmataha,34.5857,-95.3561,786,786,176,polygon,TRUE,America/Chicago,74536
+Seiling-OK,1840021688,Seiling,Seiling,OK,Seiling-OK,Oklahoma,40043,Dewey,36.1516,-98.9254,851,851,399,polygon,TRUE,America/Chicago,73663
+Gore-OK,1840021752,Gore,Gore,OK,Gore-OK,Oklahoma,40135,Sequoyah,35.5417,-95.1129,944,944,158,polygon,TRUE,America/Chicago,74435
+Vanoss-OK,1840034500,Vanoss,Vanoss,OK,Vanoss-OK,Oklahoma,40123,Pontotoc,34.764,-96.872,,,45.9,point,FALSE,America/Chicago,74820
+Pin Oak Acres-OK,1840034577,Pin Oak Acres,Pin Oak Acres,OK,Pin Oak Acres-OK,Oklahoma,40097,Mayes,36.1226,-95.2889,,,5,polygon,FALSE,America/Chicago,74337
+Stafford-OK,1840034495,Stafford,Stafford,OK,Stafford-OK,Oklahoma,40039,Custer,35.5367,-99.122,,,14.3,point,FALSE,America/Chicago,73601
+Chattanooga-OK,1840022821,Chattanooga,Chattanooga,OK,Chattanooga-OK,Oklahoma,40031,Comanche,34.4243,-98.6541,444,444,301,polygon,TRUE,America/Chicago,73528
+Watonga-OK,1840021684,Watonga,Watonga,OK,Watonga-OK,Oklahoma,40011,Blaine,35.8661,-98.4166,2930,2946,278,polygon,TRUE,America/Chicago,73772
+Gowen-OK,1840034446,Gowen,Gowen,OK,Gowen-OK,Oklahoma,40077,Latimer,34.8781,-95.4742,,,62.9,polygon,FALSE,America/Chicago,74578 74545
+Ringwood-OK,1840021665,Ringwood,Ringwood,OK,Ringwood-OK,Oklahoma,40093,Major,36.3817,-98.2412,514,514,226,polygon,TRUE,America/Chicago,73768
+Avant-OK,1840020340,Avant,Avant,OK,Avant-OK,Oklahoma,40113,Osage,36.4886,-96.0599,315,315,354,polygon,TRUE,America/Chicago,74001
+Ryan-OK,1840021921,Ryan,Ryan,OK,Ryan-OK,Oklahoma,40067,Jefferson,34.0213,-97.954,784,784,339,polygon,TRUE,America/Chicago,73565
+Terlton-OK,1840022663,Terlton,Terlton,OK,Terlton-OK,Oklahoma,40117,Pawnee,36.1856,-96.4904,108,108,166,polygon,TRUE,America/Chicago,74081
+Saint Louis-OK,1840021788,Saint Louis,Saint Louis,OK,Saint Louis-OK,Oklahoma,40125,Pottawatomie,35.0812,-96.8598,162,162,6,polygon,TRUE,America/Chicago,74826 74866
+Rentiesville-OK,1840021760,Rentiesville,Rentiesville,OK,Rentiesville-OK,Oklahoma,40091,McIntosh,35.5331,-95.4849,124,124,27,polygon,TRUE,America/Chicago,74459 74426
+Quinton-OK,1840021813,Quinton,Quinton,OK,Quinton-OK,Oklahoma,40121,Pittsburg,35.1249,-95.3676,996,996,342,polygon,TRUE,America/Chicago,74561
+Kendrick-OK,1840021713,Kendrick,Kendrick,OK,Kendrick-OK,Oklahoma,40081,Lincoln,35.7853,-96.7754,142,142,363,polygon,TRUE,America/Chicago,74079
+Platter-OK,1840034480,Platter,Platter,OK,Platter-OK,Oklahoma,40013,Bryan,33.9066,-96.5337,,,113.6,polygon,FALSE,America/Chicago,74730 74731 74753
+Mill Creek-OK,1840022849,Mill Creek,Mill Creek,OK,Mill Creek-OK,Oklahoma,40069,Johnston,34.4018,-96.8252,322,322,332,polygon,TRUE,America/Chicago,74856
+Clarita-OK,1840034428,Clarita,Clarita,OK,Clarita-OK,Oklahoma,40029,Coal,34.4826,-96.4367,,,14.6,polygon,FALSE,America/Chicago,74535 74538
+Sapulpa-OK,1840021691,Sapulpa,Sapulpa,OK,Sapulpa-OK,Oklahoma,40037,Creek,36.009,-96.0983,20928,20928,359,polygon,TRUE,America/Chicago,74131 74066 74067
+Tagg Flats-OK,1840034654,Tagg Flats,Tagg Flats,OK,Tagg Flats-OK,Oklahoma,40041,Delaware,36.3387,-94.9037,,,7.5,polygon,FALSE,America/Chicago,74338
+Ballou-OK,1840034625,Ballou,Ballou,OK,Ballou-OK,Oklahoma,40097,Mayes,36.1421,-95.1998,,,17,polygon,FALSE,America/Chicago,74352
+Fairmont-OK,1840021648,Fairmont,Fairmont,OK,Fairmont-OK,Oklahoma,40047,Garfield,36.3552,-97.7045,139,139,189,polygon,TRUE,America/Chicago,73736
+Olustee-OK,1840022819,Olustee,Olustee,OK,Olustee-OK,Oklahoma,40065,Jackson,34.5475,-99.424,580,580,271,polygon,TRUE,America/Chicago,73560
+Haskell-OK,1840021722,Haskell,Haskell,OK,Haskell-OK,Oklahoma,40101,Muskogee,35.8187,-95.6805,1966,1966,151,polygon,TRUE,America/Chicago,74436
+Rattan-OK,1840021890,Rattan,Rattan,OK,Rattan-OK,Oklahoma,40127,Pushmataha,34.2004,-95.4131,294,294,28,polygon,TRUE,America/Chicago,74562
+Monroe-OK,1840034468,Monroe,Monroe,OK,Monroe-OK,Oklahoma,40079,Le Flore,34.9937,-94.5155,,,104.4,polygon,FALSE,America/Chicago,74953 74940
+Quapaw-OK,1840021617,Quapaw,Quapaw,OK,Quapaw-OK,Oklahoma,40115,Ottawa,36.9581,-94.7813,896,896,347,polygon,TRUE,America/Chicago,74363
+Blue-OK,1840026980,Blue,Blue,OK,Blue-OK,Oklahoma,40013,Bryan,33.9899,-96.2304,,,86.7,polygon,FALSE,America/Chicago,74701 74726
+Wilson-OK,1840021899,Wilson,Wilson,OK,Wilson-OK,Oklahoma,40019,Carter,34.1685,-97.426,1722,1722,117,polygon,TRUE,America/Chicago,73463
+Addington-OK,1840021919,Addington,Addington,OK,Addington-OK,Oklahoma,40067,Jefferson,34.2431,-97.9661,108,108,176,polygon,TRUE,America/Chicago,73520
+Uncas-OK,1840034499,Uncas,Uncas,OK,Uncas-OK,Oklahoma,40071,Kay,36.7956,-96.9298,,,1.6,point,FALSE,America/Chicago,74604
+Jay-OK,1840019046,Jay,Jay,OK,Jay-OK,Oklahoma,40041,Delaware,36.4273,-94.7954,2517,2517,290,polygon,TRUE,America/Chicago,74346
+Smith Village-OK,1840022733,Smith Village,Smith Village,OK,Smith Village-OK,Oklahoma,40109,Oklahoma,35.4508,-97.457,68,68,931,polygon,TRUE,America/Chicago,73115
+Caney-OK,1840022831,Caney,Caney,OK,Caney-OK,Oklahoma,40005,Atoka,34.2356,-96.217,198,198,94,polygon,TRUE,America/Chicago,74533
+Humphreys-OK,1840034454,Humphreys,Humphreys,OK,Humphreys-OK,Oklahoma,40065,Jackson,34.5559,-99.2373,,,24.6,point,FALSE,America/Chicago,73521
+Mutual-OK,1840022646,Mutual,Mutual,OK,Mutual-OK,Oklahoma,40153,Woodward,36.2304,-99.1679,62,62,90,polygon,TRUE,America/Chicago,73853
+Gene Autry-OK,1840021902,Gene Autry,Gene Autry,OK,Gene Autry-OK,Oklahoma,40019,Carter,34.3153,-97.0384,158,158,15,polygon,TRUE,America/Chicago,73401 73436
+Afton-OK,1840021616,Afton,Afton,OK,Afton-OK,Oklahoma,40115,Ottawa,36.6965,-94.9579,1040,1040,198,polygon,TRUE,America/Chicago,74331
+Covington-OK,1840021645,Covington,Covington,OK,Covington-OK,Oklahoma,40047,Garfield,36.3077,-97.5879,544,544,509,polygon,TRUE,America/Chicago,73730
+Hester-OK,1840034547,Hester,Hester,OK,Hester-OK,Oklahoma,40055,Greer,34.8012,-99.4334,,,2.7,point,FALSE,America/Chicago,73554
+Warwick-OK,1840022715,Warwick,Warwick,OK,Warwick-OK,Oklahoma,40081,Lincoln,35.6882,-97.0016,151,151,21,polygon,TRUE,America/Chicago,74881 74834
+Bowlegs-OK,1840021775,Bowlegs,Bowlegs,OK,Bowlegs-OK,Oklahoma,40133,Seminole,35.1474,-96.6691,400,400,41,polygon,TRUE,America/Chicago,74868 74830
+Hooker-OK,1840020351,Hooker,Hooker,OK,Hooker-OK,Oklahoma,40139,Texas,36.8612,-101.216,1955,1955,716,polygon,TRUE,America/Chicago,73945
+Cromwell-OK,1840021778,Cromwell,Cromwell,OK,Cromwell-OK,Oklahoma,40133,Seminole,35.3637,-96.4571,283,283,100,polygon,TRUE,America/Chicago,74859 74837
+Tiawah-OK,1840019047,Tiawah,Tiawah,OK,Tiawah-OK,Oklahoma,40131,Rogers,36.2483,-95.5362,,,87.1,polygon,FALSE,America/Chicago,74019 74036
+Optima-OK,1840022635,Optima,Optima,OK,Optima-OK,Oklahoma,40139,Texas,36.762,-101.3497,369,369,325,polygon,TRUE,America/Chicago,73942 73945
+Oak Grove-OK,1840034623,Oak Grove,Oak Grove,OK,Oak Grove-OK,Oklahoma,40117,Pawnee,36.2056,-96.3384,,,41.2,polygon,TRUE,America/Chicago,74020
+Fitzhugh-OK,1840021838,Fitzhugh,Fitzhugh,OK,Fitzhugh-OK,Oklahoma,40123,Pontotoc,34.6581,-96.7665,233,233,12,polygon,TRUE,America/Chicago,74843
+Bridge Creek-OK,1840021801,Bridge Creek,Bridge Creek,OK,Bridge Creek-OK,Oklahoma,40051,Grady,35.24,-97.7302,329,329,76,polygon,TRUE,America/Chicago,73010 73089
+Longtown-OK,1840034462,Longtown,Longtown,OK,Longtown-OK,Oklahoma,40121,Pittsburg,35.2405,-95.5183,,,132.2,polygon,FALSE,America/Chicago,74425 74432 74462
+Headrick-OK,1840021850,Headrick,Headrick,OK,Headrick-OK,Oklahoma,40065,Jackson,34.6268,-99.1373,90,90,168,polygon,TRUE,America/Chicago,73549
+Carnegie-OK,1840022750,Carnegie,Carnegie,OK,Carnegie-OK,Oklahoma,40015,Caddo,35.1024,-98.5995,1713,1713,482,polygon,TRUE,America/Chicago,73015
+Fittstown-OK,1840034443,Fittstown,Fittstown,OK,Fittstown-OK,Oklahoma,40123,Pontotoc,34.6148,-96.6345,,,21,point,FALSE,America/Chicago,74842
+Camargo-OK,1840022696,Camargo,Camargo,OK,Camargo-OK,Oklahoma,40043,Dewey,36.0179,-99.2883,179,179,268,polygon,TRUE,America/Chicago,73835
+Warr Acres-OK,1840021743,Warr Acres,Warr Acres,OK,Warr Acres-OK,Oklahoma,40109,Oklahoma,35.5284,-97.6182,10420,10420,1430,polygon,TRUE,America/Chicago,73132 73122
+Shattuck-OK,1840022660,Shattuck,Shattuck,OK,Shattuck-OK,Oklahoma,40045,Ellis,36.2651,-99.8773,1336,1336,231,polygon,TRUE,America/Chicago,73858
+McCord-OK,1840034657,McCord,McCord,OK,McCord-OK,Oklahoma,40113,Osage,36.6798,-97.0346,,,288.3,polygon,FALSE,America/Chicago,74604
+Nescatunga-OK,1840034659,Nescatunga,Nescatunga,OK,Nescatunga-OK,Oklahoma,40003,Alfalfa,36.7543,-98.156,,,91.1,polygon,FALSE,America/Chicago,73749
+Cherry Tree-OK,1840034527,Cherry Tree,Cherry Tree,OK,Cherry Tree-OK,Oklahoma,40001,Adair,35.7454,-94.6428,,,74,polygon,FALSE,America/Chicago,74960
+Cache-OK,1840019203,Cache,Cache,OK,Cache-OK,Oklahoma,40031,Comanche,34.6297,-98.6181,2652,2853,313,polygon,TRUE,America/Chicago,73527
+Hickory-OK,1840021893,Hickory,Hickory,OK,Hickory-OK,Oklahoma,40099,Murray,34.557,-96.858,73,73,51,polygon,TRUE,America/Chicago,74865
+Boynton-OK,1840021717,Boynton,Boynton,OK,Boynton-OK,Oklahoma,40101,Muskogee,35.6494,-95.6542,242,242,222,polygon,TRUE,America/Chicago,74422
+Lawrence Creek-OK,1840021695,Lawrence Creek,Lawrence Creek,OK,Lawrence Creek-OK,Oklahoma,40037,Creek,36.0838,-96.4268,149,149,78,polygon,TRUE,America/Chicago,74044
+Mooreland-OK,1840022645,Mooreland,Mooreland,OK,Mooreland-OK,Oklahoma,40153,Woodward,36.4379,-99.2045,1235,1235,567,polygon,TRUE,America/Chicago,73852
+Fort Towson-OK,1840021932,Fort Towson,Fort Towson,OK,Fort Towson-OK,Oklahoma,40023,Choctaw,34.0243,-95.2972,493,493,33,polygon,TRUE,America/Chicago,74735 74756
+Eakly-OK,1840021765,Eakly,Eakly,OK,Eakly-OK,Oklahoma,40015,Caddo,35.3057,-98.5563,336,336,504,polygon,TRUE,America/Chicago,73033
+Sasakwa-OK,1840022758,Sasakwa,Sasakwa,OK,Sasakwa-OK,Oklahoma,40133,Seminole,34.9468,-96.5253,143,143,265,polygon,TRUE,America/Chicago,74867
+Kemp-OK,1840021929,Kemp,Kemp,OK,Kemp-OK,Oklahoma,40013,Bryan,33.7695,-96.3544,140,140,300,polygon,TRUE,America/Chicago,74747
+Valliant-OK,1840022854,Valliant,Valliant,OK,Valliant-OK,Oklahoma,40089,McCurtain,34.0043,-95.0893,739,739,368,polygon,TRUE,America/Chicago,74764
+Seward-OK,1840034491,Seward,Seward,OK,Seward-OK,Oklahoma,40083,Logan,35.7981,-97.4884,,,53.1,point,FALSE,America/Chicago,73044
+Valley Park-OK,1840034621,Valley Park,Valley Park,OK,Valley Park-OK,Oklahoma,40131,Rogers,36.2818,-95.7328,65,65,9,polygon,TRUE,America/Chicago,74055 74019
+Chewey-OK,1840017750,Chewey,Chewey,OK,Chewey-OK,Oklahoma,40001,Adair,36.0905,-94.7385,,,10.6,polygon,FALSE,America/Chicago,74457 74964
+Bull Hollow-OK,1840034629,Bull Hollow,Bull Hollow,OK,Bull Hollow-OK,Oklahoma,40041,Delaware,36.3046,-94.9008,,,6.1,polygon,FALSE,America/Chicago,74338
+Cedar Valley-OK,1840019072,Cedar Valley,Cedar Valley,OK,Cedar Valley-OK,Oklahoma,40083,Logan,35.8703,-97.5245,320,320,55,polygon,TRUE,America/Chicago,73044
+Roff-OK,1840021837,Roff,Roff,OK,Roff-OK,Oklahoma,40123,Pontotoc,34.6288,-96.8411,720,720,301,polygon,TRUE,America/Chicago,74865
+Pittsburg-OK,1840022787,Pittsburg,Pittsburg,OK,Pittsburg-OK,Oklahoma,40121,Pittsburg,34.7116,-95.8502,196,196,161,polygon,TRUE,America/Chicago,74560
+New Woodville-OK,1840022893,New Woodville,New Woodville,OK,New Woodville-OK,Oklahoma,40095,Marshall,33.9687,-96.655,,,182.9,polygon,TRUE,America/Chicago,73439
+Panola-OK,1840034475,Panola,Panola,OK,Panola-OK,Oklahoma,40077,Latimer,34.9273,-95.2099,,,27.4,polygon,FALSE,America/Chicago,74563 74578
+Prue-OK,1840021591,Prue,Prue,OK,Prue-OK,Oklahoma,40113,Osage,36.2497,-96.2668,472,472,403,polygon,TRUE,America/Chicago,74060
+White Oak-OK,1840024818,White Oak,White Oak,OK,White Oak-OK,Oklahoma,40035,Craig,36.6098,-95.2763,,,33.3,polygon,FALSE,America/Chicago,74301
+Silo-OK,1840022899,Silo,Silo,OK,Silo-OK,Oklahoma,40013,Bryan,34.0358,-96.4746,353,353,274,polygon,TRUE,America/Chicago,74701
+Byars-OK,1840022783,Byars,Byars,OK,Byars-OK,Oklahoma,40087,McClain,34.8724,-97.0541,269,269,67,polygon,TRUE,America/Chicago,74831
+Duncan-OK,1840019253,Duncan,Duncan,OK,Duncan-OK,Oklahoma,40137,Stephens,34.5425,-97.919,20895,22985,207,polygon,TRUE,America/Chicago,73533 73055 73534 73536
+Sparks-OK,1840022713,Sparks,Sparks,OK,Sparks-OK,Oklahoma,40081,Lincoln,35.6113,-96.8191,173,173,169,polygon,TRUE,America/Chicago,74869
+Rose-OK,1840024900,Rose,Rose,OK,Rose-OK,Oklahoma,40097,Mayes,36.2123,-95.0382,,,18.2,polygon,FALSE,America/Chicago,74352 74364
+Earlsboro-OK,1840021787,Earlsboro,Earlsboro,OK,Earlsboro-OK,Oklahoma,40125,Pottawatomie,35.3277,-96.8014,642,642,27,polygon,TRUE,America/Chicago,74804 74840
+Snyder-OK,1840021824,Snyder,Snyder,OK,Snyder-OK,Oklahoma,40075,Kiowa,34.6552,-98.9533,1335,1335,406,polygon,TRUE,America/Chicago,73566
+Ingersoll-OK,1840034551,Ingersoll,Ingersoll,OK,Ingersoll-OK,Oklahoma,40003,Alfalfa,36.7964,-98.3948,,,20.1,point,FALSE,America/Chicago,73728
+Liberty-OK,1840021673,Liberty,Liberty,OK,Liberty-OK,Oklahoma,40143,Tulsa,35.86,-95.9752,218,218,13,polygon,TRUE,America/Chicago,74047
+Haworth-OK,1840021910,Haworth,Haworth,OK,Haworth-OK,Oklahoma,40089,McCurtain,33.8403,-94.6571,293,293,71,polygon,TRUE,America/Chicago,74740
+Texanna-OK,1840019158,Texanna,Texanna,OK,Texanna-OK,Oklahoma,40091,McIntosh,35.3572,-95.5047,,,12.9,polygon,FALSE,America/Chicago,74426 74432
+Jefferson-OK,1840021604,Jefferson,Jefferson,OK,Jefferson-OK,Oklahoma,40053,Grant,36.7203,-97.7909,12,12,16,polygon,TRUE,America/Chicago,73759
+Lookeba-OK,1840021770,Lookeba,Lookeba,OK,Lookeba-OK,Oklahoma,40015,Caddo,35.363,-98.3638,165,165,250,polygon,TRUE,America/Chicago,73053
+Peavine-OK,1840034646,Peavine,Peavine,OK,Peavine-OK,Oklahoma,40001,Adair,35.8903,-94.6064,,,56.1,polygon,FALSE,America/Chicago,74960
+Tipton-OK,1840022836,Tipton,Tipton,OK,Tipton-OK,Oklahoma,40141,Tillman,34.502,-99.1383,788,788,449,polygon,TRUE,America/Chicago,73570
+Byng-OK,1840022811,Byng,Byng,OK,Byng-OK,Oklahoma,40123,Pontotoc,34.8659,-96.6678,1194,1194,70,polygon,TRUE,America/Chicago,74820
+Scipio-OK,1840034489,Scipio,Scipio,OK,Scipio-OK,Oklahoma,40121,Pittsburg,35.0548,-95.9567,,,10.8,point,FALSE,America/Chicago,74501
+Wapanucka-OK,1840022850,Wapanucka,Wapanucka,OK,Wapanucka-OK,Oklahoma,40069,Johnston,34.3736,-96.4253,441,441,252,polygon,TRUE,America/Chicago,73461
+Martha-OK,1840022818,Martha,Martha,OK,Martha-OK,Oklahoma,40065,Jackson,34.7262,-99.3868,157,157,241,polygon,TRUE,America/Chicago,73556
+Broken Bow-OK,1840019259,Broken Bow,Broken Bow,OK,Broken Bow-OK,Oklahoma,40089,McCurtain,34.0276,-94.7419,4234,4103,259,polygon,TRUE,America/Chicago,74728
+Joy-OK,1840034455,Joy,Joy,OK,Joy-OK,Oklahoma,40099,Murray,34.5937,-97.1422,,,1.7,point,FALSE,America/Chicago,73098
+Empire City-OK,1840021887,Empire City,Empire City,OK,Empire City-OK,Oklahoma,40137,Stephens,34.4736,-98.0563,912,912,32,polygon,TRUE,America/Chicago,73529 73533
+Brushy-OK,1840017831,Brushy,Brushy,OK,Brushy-OK,Oklahoma,40135,Sequoyah,35.5578,-94.7434,,,38.6,polygon,FALSE,America/Chicago,74955
+Vera-OK,1840022604,Vera,Vera,OK,Vera-OK,Oklahoma,40147,Washington,36.4502,-95.8958,244,244,172,polygon,TRUE,America/Chicago,74082 74070 74021 74061
+Talala-OK,1840022655,Talala,Talala,OK,Talala-OK,Oklahoma,40131,Rogers,36.5294,-95.7011,277,277,237,polygon,TRUE,America/Chicago,74080
+Idabel-OK,1840019260,Idabel,Idabel,OK,Idabel-OK,Oklahoma,40089,McCurtain,33.9041,-94.8294,5889,6950,158,polygon,TRUE,America/Chicago,74745
+Corum-OK,1840034433,Corum,Corum,OK,Corum-OK,Oklahoma,40137,Stephens,34.3623,-98.1042,,,5.2,point,FALSE,America/Chicago,73529
+Twin Oaks-OK,1840019045,Twin Oaks,Twin Oaks,OK,Twin Oaks-OK,Oklahoma,40041,Delaware,36.1927,-94.8217,,,20.1,polygon,FALSE,America/Chicago,74347
+Commerce-OK,1840018984,Commerce,Commerce,OK,Commerce-OK,Oklahoma,40115,Ottawa,36.9317,-94.8705,2460,2460,1138,polygon,TRUE,America/Chicago,74339
+Grove-OK,1840020369,Grove,Grove,OK,Grove-OK,Oklahoma,40041,Delaware,36.5925,-94.7885,7387,6835,284,polygon,TRUE,America/Chicago,74344 74345
+Calera-OK,1840022897,Calera,Calera,OK,Calera-OK,Oklahoma,40013,Bryan,33.9312,-96.4299,2277,2277,182,polygon,TRUE,America/Chicago,74730
+Canute-OK,1840022759,Canute,Canute,OK,Canute-OK,Oklahoma,40149,Washita,35.422,-99.2776,535,535,316,polygon,TRUE,America/Chicago,73626
+Crowder-OK,1840021812,Crowder,Crowder,OK,Crowder-OK,Oklahoma,40121,Pittsburg,35.1157,-95.6787,407,407,80,polygon,TRUE,America/Chicago,74430
+Old Eucha-OK,1840034645,Old Eucha,Old Eucha,OK,Old Eucha-OK,Oklahoma,40041,Delaware,36.3551,-94.9379,,,13.3,polygon,FALSE,America/Chicago,74342
+Fanshawe-OK,1840021797,Fanshawe,Fanshawe,OK,Fanshawe-OK,Oklahoma,40079,Le Flore,34.9733,-94.856,408,408,6,polygon,TRUE,America/Chicago,74966 74935
+Alva-OK,1840018976,Alva,Alva,OK,Alva-OK,Oklahoma,40151,Woods,36.8011,-98.6679,5818,5120,827,polygon,TRUE,America/Chicago,73717
+Hollister-OK,1840021895,Hollister,Hollister,OK,Hollister-OK,Oklahoma,40141,Tillman,34.3413,-98.8706,47,47,74,polygon,TRUE,America/Chicago,73551
+Buffalo-OK,1840021619,Buffalo,Buffalo,OK,Buffalo-OK,Oklahoma,40059,Harper,36.8373,-99.6464,1299,1299,444,polygon,TRUE,America/Chicago,73834 73848
+Carleton-OK,1840034506,Carleton,Carleton,OK,Carleton-OK,Oklahoma,40011,Blaine,36.015,-98.5204,,,5,point,FALSE,America/Chicago,73772
+Sunray-OK,1840034497,Sunray,Sunray,OK,Sunray-OK,Oklahoma,40137,Stephens,34.4126,-97.965,,,227.4,point,FALSE,America/Chicago,73529
+Lucien-OK,1840026926,Lucien,Lucien,OK,Lucien-OK,Oklahoma,40103,Noble,36.2747,-97.4551,,,69.3,polygon,FALSE,America/Chicago,73757
+Clinton-OK,1840019108,Clinton,Clinton,OK,Clinton-OK,Oklahoma,40039,Custer,35.5058,-98.9724,8761,9393,385,polygon,TRUE,America/Chicago,73601
+Indianola-OK,1840021814,Indianola,Indianola,OK,Indianola-OK,Oklahoma,40121,Pittsburg,35.1635,-95.7761,153,153,188,polygon,TRUE,America/Chicago,74442
+Goodwell-OK,1840021625,Goodwell,Goodwell,OK,Goodwell-OK,Oklahoma,40139,Texas,36.5943,-101.6326,1309,1309,427,polygon,TRUE,America/Chicago,73939
+Wyandotte-OK,1840022613,Wyandotte,Wyandotte,OK,Wyandotte-OK,Oklahoma,40115,Ottawa,36.7925,-94.7231,330,330,262,polygon,TRUE,America/Chicago,74370
+Collinsville-OK,1840019061,Collinsville,Collinsville,OK,Collinsville-OK,Oklahoma,40143,Tulsa,36.3725,-95.8596,5039,6650,377,polygon,TRUE,America/Chicago,74021
+Whitefield-OK,1840022770,Whitefield,Whitefield,OK,Whitefield-OK,Oklahoma,40061,Haskell,35.2546,-95.2391,388,388,88,polygon,TRUE,America/Chicago,74472
+Braggs-OK,1840021718,Braggs,Braggs,OK,Braggs-OK,Oklahoma,40101,Muskogee,35.6631,-95.1985,253,253,294,polygon,TRUE,America/Chicago,74423 74439
+Tamaha-OK,1840022769,Tamaha,Tamaha,OK,Tamaha-OK,Oklahoma,40061,Haskell,35.4058,-95.018,174,174,10,polygon,TRUE,America/Chicago,74462
+Slaughterville-OK,1840022780,Slaughterville,Slaughterville,OK,Slaughterville-OK,Oklahoma,40027,Cleveland,35.091,-97.2879,4246,4246,42,polygon,TRUE,America/Chicago,73051 73068
+Grady-OK,1840034447,Grady,Grady,OK,Grady-OK,Oklahoma,40067,Jefferson,34.0204,-97.6656,,,2,point,FALSE,America/Chicago,73569
+Medicine Park-OK,1840022820,Medicine Park,Medicine Park,OK,Medicine Park-OK,Oklahoma,40031,Comanche,34.7295,-98.4845,438,438,84,polygon,TRUE,America/Chicago,73557 73507
+Zafra-OK,1840034615,Zafra,Zafra,OK,Zafra-OK,Oklahoma,40079,Le Flore,34.5084,-94.4886,,,8.4,point,FALSE,America/Chicago,74957
+Ketchum-OK,1840021600,Ketchum,Ketchum,OK,Ketchum-OK,Oklahoma,40035,Craig,36.526,-95.0386,433,433,130,polygon,TRUE,America/Chicago,74331 74301 74349
+Poteau-OK,1840020445,Poteau,Poteau,OK,Poteau-OK,Oklahoma,40079,Le Flore,35.0431,-94.6356,8100,8859,113,polygon,TRUE,America/Chicago,74951 74953 74940
+Cyril-OK,1840021764,Cyril,Cyril,OK,Cyril-OK,Oklahoma,40015,Caddo,34.8986,-98.2031,1054,1054,683,polygon,TRUE,America/Chicago,73029
+Blanco-OK,1840034416,Blanco,Blanco,OK,Blanco-OK,Oklahoma,40121,Pittsburg,34.7507,-95.7736,,,27.7,polygon,FALSE,America/Chicago,74528
+Cherokee-OK,1840018979,Cherokee,Cherokee,OK,Cherokee-OK,Oklahoma,40003,Alfalfa,36.7547,-98.3551,1544,1544,404,polygon,TRUE,America/Chicago,73728
+Burns Flat-OK,1840021780,Burns Flat,Burns Flat,OK,Burns Flat-OK,Oklahoma,40149,Washita,35.3548,-99.1751,2008,2008,893,polygon,TRUE,America/Chicago,73624
+Hugo-OK,1840020546,Hugo,Hugo,OK,Hugo-OK,Oklahoma,40023,Choctaw,34.0121,-95.5113,4944,5221,313,polygon,TRUE,America/Chicago,74743
+Henryetta-OK,1840020398,Henryetta,Henryetta,OK,Henryetta-OK,Oklahoma,40111,Okmulgee,35.4421,-95.9848,6382,5764,336,polygon,TRUE,America/Chicago,74437
+Krebs-OK,1840020458,Krebs,Krebs,OK,Krebs-OK,Oklahoma,40121,Pittsburg,34.93,-95.72,1945,1945,174,polygon,TRUE,America/Chicago,74554 74501
+Wainwright-OK,1840022723,Wainwright,Wainwright,OK,Wainwright-OK,Oklahoma,40101,Muskogee,35.6131,-95.5661,161,161,218,polygon,TRUE,America/Chicago,74468
+Aqua Park-OK,1840034409,Aqua Park,Aqua Park,OK,Aqua Park-OK,Oklahoma,40135,Sequoyah,35.6204,-95.0761,,,32.8,point,FALSE,America/Chicago,74435
+Waynoka-OK,1840021595,Waynoka,Waynoka,OK,Waynoka-OK,Oklahoma,40151,Woods,36.5849,-98.8785,955,955,372,polygon,TRUE,America/Chicago,73860
+Grandfield-OK,1840020528,Grandfield,Grandfield,OK,Grandfield-OK,Oklahoma,40141,Tillman,34.2305,-98.6875,966,966,444,polygon,TRUE,America/Chicago,73546
+Glenpool-OK,1840020384,Glenpool,Glenpool,OK,Glenpool-OK,Oklahoma,40143,Tulsa,35.9481,-96.0049,13479,13479,470,polygon,TRUE,America/Chicago,74047 74033
+Park Hill-OK,1840019078,Park Hill,Park Hill,OK,Park Hill-OK,Oklahoma,40021,Cherokee,35.8546,-94.9559,,,402.9,polygon,FALSE,America/Chicago,74451 74471 74464
+Leach-OK,1840017697,Leach,Leach,OK,Leach-OK,Oklahoma,40041,Delaware,36.1979,-94.9099,,,21.5,polygon,FALSE,America/Chicago,74364
+Okay-OK,1840022703,Okay,Okay,OK,Okay-OK,Oklahoma,40145,Wagoner,35.854,-95.3143,656,656,306,polygon,TRUE,America/Chicago,74446 74467
+Winchester-OK,1840022719,Winchester,Winchester,OK,Winchester-OK,Oklahoma,40111,Okmulgee,35.7906,-95.9983,507,507,36,polygon,TRUE,America/Chicago,74421
+Pauls Valley-OK,1840020479,Pauls Valley,Pauls Valley,OK,Pauls Valley-OK,Oklahoma,40049,Garvin,34.7236,-97.2291,5852,6206,280,polygon,TRUE,America/Chicago,73075
+Hoffman-OK,1840021716,Hoffman,Hoffman,OK,Hoffman-OK,Oklahoma,40111,Okmulgee,35.4889,-95.8449,125,125,184,polygon,TRUE,America/Chicago,74437
+Fort Coffee-OK,1840021798,Fort Coffee,Fort Coffee,OK,Fort Coffee-OK,Oklahoma,40079,Le Flore,35.2942,-94.5726,414,414,24,polygon,TRUE,America/Chicago,74959
+Turpin-OK,1840026905,Turpin,Turpin,OK,Turpin-OK,Oklahoma,40007,Beaver,36.8705,-100.8825,,,281.9,polygon,FALSE,America/Chicago,73950
+Willow-OK,1840022802,Willow,Willow,OK,Willow-OK,Oklahoma,40055,Greer,35.0514,-99.5099,143,143,205,polygon,TRUE,America/Chicago,73673
+Ravia-OK,1840021905,Ravia,Ravia,OK,Ravia-OK,Oklahoma,40069,Johnston,34.2408,-96.7565,528,528,380,polygon,TRUE,America/Chicago,73455
+Paoli-OK,1840022823,Paoli,Paoli,OK,Paoli-OK,Oklahoma,40049,Garvin,34.8261,-97.2618,615,615,593,polygon,TRUE,America/Chicago,73074
+Gerty-OK,1840021818,Gerty,Gerty,OK,Gerty-OK,Oklahoma,40063,Hughes,34.8357,-96.289,113,113,178,polygon,TRUE,America/Chicago,74531 74825
+Alderson-OK,1840021811,Alderson,Alderson,OK,Alderson-OK,Oklahoma,40121,Pittsburg,34.9008,-95.69,287,287,201,polygon,TRUE,America/Chicago,74522 74501
+Atwood-OK,1840020461,Atwood,Atwood,OK,Atwood-OK,Oklahoma,40063,Hughes,34.9549,-96.3367,71,71,100,polygon,TRUE,America/Chicago,74827
+Christie-OK,1840017749,Christie,Christie,OK,Christie-OK,Oklahoma,40001,Adair,35.9675,-94.6549,,,22.1,polygon,FALSE,America/Chicago,74965 74960
+Hobart-OK,1840020465,Hobart,Hobart,OK,Hobart-OK,Oklahoma,40075,Kiowa,35.0246,-99.0875,3464,3592,426,polygon,TRUE,America/Chicago,73651
+Millerton-OK,1840022852,Millerton,Millerton,OK,Millerton-OK,Oklahoma,40089,McCurtain,33.9832,-95.0177,315,315,68,polygon,TRUE,America/Chicago,74750
+Lahoma-OK,1840021652,Lahoma,Lahoma,OK,Lahoma-OK,Oklahoma,40047,Garfield,36.3878,-98.0898,640,640,735,polygon,TRUE,America/Chicago,73754
+Lawton-OK,1840020477,Lawton,Lawton,OK,Lawton-OK,Oklahoma,40031,Comanche,34.6171,-98.4204,92299,94653,450,polygon,TRUE,America/Chicago,73503 73507 73501 73505 73502 73506
+Caddo-OK,1840022896,Caddo,Caddo,OK,Caddo-OK,Oklahoma,40013,Bryan,34.1288,-96.2678,1062,1062,160,polygon,TRUE,America/Chicago,74729
+Hastings-OK,1840021922,Hastings,Hastings,OK,Hastings-OK,Oklahoma,40067,Jefferson,34.2242,-98.1087,137,137,110,polygon,TRUE,America/Chicago,73548
+Carney-OK,1840022712,Carney,Carney,OK,Carney-OK,Oklahoma,40081,Lincoln,35.8065,-97.0154,662,662,147,polygon,TRUE,America/Chicago,74832
+Gans-OK,1840021751,Gans,Gans,OK,Gans-OK,Oklahoma,40135,Sequoyah,35.3874,-94.695,302,302,503,polygon,TRUE,America/Chicago,74936
+Forgan-OK,1840021627,Forgan,Forgan,OK,Forgan-OK,Oklahoma,40007,Beaver,36.9068,-100.5377,524,524,533,polygon,TRUE,America/Chicago,73938
+Fallis-OK,1840021712,Fallis,Fallis,OK,Fallis-OK,Oklahoma,40081,Lincoln,35.7498,-97.1183,28,28,36,polygon,TRUE,America/Chicago,74881
+Tryon-OK,1840022714,Tryon,Tryon,OK,Tryon-OK,Oklahoma,40081,Lincoln,35.8816,-96.9655,503,503,83,polygon,TRUE,America/Chicago,74875
+Ratliff City-OK,1840021901,Ratliff City,Ratliff City,OK,Ratliff City-OK,Oklahoma,40019,Carter,34.4492,-97.5155,120,120,41,polygon,TRUE,America/Chicago,73481
+Pocasset-OK,1840021805,Pocasset,Pocasset,OK,Pocasset-OK,Oklahoma,40051,Grady,35.178,-97.9592,203,203,29,polygon,TRUE,America/Chicago,73004 73079
+Goltry-OK,1840021609,Goltry,Goltry,OK,Goltry-OK,Oklahoma,40003,Alfalfa,36.5319,-98.1514,261,261,268,polygon,TRUE,America/Chicago,73739
+Fletcher-OK,1840021852,Fletcher,Fletcher,OK,Fletcher-OK,Oklahoma,40031,Comanche,34.8224,-98.2391,1145,1145,537,polygon,TRUE,America/Chicago,73541
+Lima-OK,1840021779,Lima,Lima,OK,Lima-OK,Oklahoma,40133,Seminole,35.1738,-96.5984,52,52,44,polygon,TRUE,America/Chicago,74884
+Blackgum-OK,1840024946,Blackgum,Blackgum,OK,Blackgum-OK,Oklahoma,40135,Sequoyah,35.6112,-94.99,,,45.6,polygon,FALSE,America/Chicago,74962
+Cheyenne-OK,1840022709,Cheyenne,Cheyenne,OK,Cheyenne-OK,Oklahoma,40129,Roger Mills,35.6103,-99.6781,790,790,314,polygon,TRUE,America/Chicago,73628
+Coalgate-OK,1840019248,Coalgate,Coalgate,OK,Coalgate-OK,Oklahoma,40029,Coal,34.5323,-96.2208,1865,1865,394,polygon,TRUE,America/Chicago,74538
+Waukomis-OK,1840022659,Waukomis,Waukomis,OK,Waukomis-OK,Oklahoma,40047,Garfield,36.2833,-97.9038,1340,1340,157,polygon,TRUE,America/Chicago,73773
+Sayre-OK,1840021774,Sayre,Sayre,OK,Sayre-OK,Oklahoma,40009,Beckham,35.2974,-99.6283,4251,4603,317,polygon,TRUE,America/Chicago,73662
+Purdy-OK,1840034580,Purdy,Purdy,OK,Purdy-OK,Oklahoma,40049,Garvin,34.7159,-97.5875,,,2.3,point,FALSE,America/Chicago,73052
+Eucha-OK,1840034537,Eucha,Eucha,OK,Eucha-OK,Oklahoma,40041,Delaware,36.392,-94.883,,,55.9,point,FALSE,America/Chicago,74342
+Dibble-OK,1840021808,Dibble,Dibble,OK,Dibble-OK,Oklahoma,40087,McClain,35.0151,-97.6275,839,839,43,polygon,TRUE,America/Chicago,73010 73031
+Welling-OK,1840019080,Welling,Welling,OK,Welling-OK,Oklahoma,40021,Cherokee,35.8561,-94.8457,,,47,polygon,FALSE,America/Chicago,74471 74960
+Amorita-OK,1840021608,Amorita,Amorita,OK,Amorita-OK,Oklahoma,40003,Alfalfa,36.924,-98.2936,39,39,59,polygon,TRUE,America/Chicago,73719
+Erin Springs-OK,1840021857,Erin Springs,Erin Springs,OK,Erin Springs-OK,Oklahoma,40049,Garvin,34.8113,-97.6055,,,134.3,polygon,TRUE,America/Chicago,73052
+Nicut-OK,1840024948,Nicut,Nicut,OK,Nicut-OK,Oklahoma,40135,Sequoyah,35.5986,-94.5626,,,22.7,polygon,FALSE,America/Chicago,74948
+Walters-OK,1840021906,Walters,Walters,OK,Walters-OK,Oklahoma,40033,Cotton,34.3612,-98.3563,2437,2481,117,polygon,TRUE,America/Chicago,73572
+Overbrook-OK,1840034474,Overbrook,Overbrook,OK,Overbrook-OK,Oklahoma,40085,Love,34.0673,-97.1411,,,9.9,point,FALSE,America/Chicago,73453
+Westport-OK,1840022664,Westport,Westport,OK,Westport-OK,Oklahoma,40117,Pawnee,36.1953,-96.3355,294,294,25,polygon,TRUE,America/Chicago,74020 74044
+Crawford-OK,1840034605,Crawford,Crawford,OK,Crawford-OK,Oklahoma,40129,Roger Mills,35.827,-99.7996,,,2,point,FALSE,America/Chicago,73638
+Kremlin-OK,1840021651,Kremlin,Kremlin,OK,Kremlin-OK,Oklahoma,40047,Garfield,36.5466,-97.8324,263,263,398,polygon,TRUE,America/Chicago,73753
+Arpelar-OK,1840026952,Arpelar,Arpelar,OK,Arpelar-OK,Oklahoma,40121,Pittsburg,34.9356,-95.9589,,,80,polygon,FALSE,America/Chicago,74501
+Salt Fork-OK,1840034487,Salt Fork,Salt Fork,OK,Salt Fork-OK,Oklahoma,40053,Grant,36.635,-97.5889,,,7.7,point,FALSE,America/Chicago,74643
+Shamrock-OK,1840022701,Shamrock,Shamrock,OK,Shamrock-OK,Oklahoma,40037,Creek,35.9114,-96.5773,,,57.9,polygon,TRUE,America/Chicago,74068
+Cayuga-OK,1840034525,Cayuga,Cayuga,OK,Cayuga-OK,Oklahoma,40041,Delaware,36.6252,-94.6542,,,121,polygon,FALSE,America/Chicago,74344
+Murphy-OK,1840034568,Murphy,Murphy,OK,Murphy-OK,Oklahoma,40097,Mayes,36.1337,-95.2409,,,23.9,polygon,FALSE,America/Chicago,74352
+Albert-OK,1840034405,Albert,Albert,OK,Albert-OK,Oklahoma,40015,Caddo,35.2328,-98.4114,,,7.7,point,FALSE,America/Chicago,73038
+Stroud-OK,1840021709,Stroud,Stroud,OK,Stroud-OK,Oklahoma,40081,Lincoln,35.768,-96.6474,2778,2778,93,polygon,TRUE,America/Chicago,74079 74028
+Devol-OK,1840021907,Devol,Devol,OK,Devol-OK,Oklahoma,40033,Cotton,34.1954,-98.5881,145,145,110,polygon,TRUE,America/Chicago,73531
+Spaulding-OK,1840022791,Spaulding,Spaulding,OK,Spaulding-OK,Oklahoma,40063,Hughes,35.0132,-96.4406,171,171,20,polygon,TRUE,America/Chicago,74848
+Antioch-OK,1840034408,Antioch,Antioch,OK,Antioch-OK,Oklahoma,40049,Garvin,34.7251,-97.4056,,,44.4,point,FALSE,America/Chicago,73433
+Morrison-OK,1840022652,Morrison,Morrison,OK,Morrison-OK,Oklahoma,40103,Noble,36.2925,-97.0286,725,725,190,polygon,TRUE,America/Chicago,73061
+Wetumka-OK,1840021816,Wetumka,Wetumka,OK,Wetumka-OK,Oklahoma,40063,Hughes,35.241,-96.2389,1230,1230,249,polygon,TRUE,America/Chicago,74883
+Lost City-OK,1840034556,Lost City,Lost City,OK,Lost City-OK,Oklahoma,40021,Cherokee,36.0006,-95.1223,,,28.7,polygon,FALSE,America/Chicago,74441
+Dewey-OK,1840018978,Dewey,Dewey,OK,Dewey-OK,Oklahoma,40147,Washington,36.7912,-95.9327,3502,3502,476,polygon,TRUE,America/Chicago,74006 74029
+Jones-OK,1840021746,Jones,Jones,OK,Jones-OK,Oklahoma,40109,Oklahoma,35.5662,-97.2901,3012,3012,85,polygon,TRUE,America/Chicago,73049
+Pierce-OK,1840034576,Pierce,Pierce,OK,Pierce-OK,Oklahoma,40091,McIntosh,35.4348,-95.7164,,,8.3,point,FALSE,America/Chicago,74426
+White Bead-OK,1840034505,White Bead,White Bead,OK,White Bead-OK,Oklahoma,40049,Garvin,34.7634,-97.302,,,5.6,point,FALSE,America/Chicago,73075
+Okemah-OK,1840020429,Okemah,Okemah,OK,Okemah-OK,Oklahoma,40107,Okfuskee,35.4297,-96.3005,3168,3239,494,polygon,TRUE,America/Chicago,74859
+Retrop-OK,1840034484,Retrop,Retrop,OK,Retrop-OK,Oklahoma,40149,Washita,35.1598,-99.3598,,,5.3,point,FALSE,America/Chicago,73664
+Waurika-OK,1840021918,Waurika,Waurika,OK,Waurika-OK,Oklahoma,40067,Jefferson,34.1846,-98.0245,1974,1974,61,polygon,TRUE,America/Chicago,73573
+Geronimo-OK,1840021853,Geronimo,Geronimo,OK,Geronimo-OK,Oklahoma,40031,Comanche,34.4851,-98.3891,1204,1204,306,polygon,TRUE,America/Chicago,73543
+Sycamore-OK,1840034591,Sycamore,Sycamore,OK,Sycamore-OK,Oklahoma,40041,Delaware,36.394,-94.716,,,24.4,polygon,FALSE,America/Chicago,74346
+Frederick-OK,1840020527,Frederick,Frederick,OK,Frederick-OK,Oklahoma,40141,Tillman,34.3709,-99.001,3627,3665,287,polygon,TRUE,America/Chicago,73542
+Titanic-OK,1840024908,Titanic,Titanic,OK,Titanic-OK,Oklahoma,40001,Adair,35.8889,-94.7434,,,7.8,polygon,FALSE,America/Chicago,74960
+Welch-OK,1840022601,Welch,Welch,OK,Welch-OK,Oklahoma,40035,Craig,36.8738,-95.0947,603,603,531,polygon,TRUE,America/Chicago,74369
+Loyal-OK,1840021681,Loyal,Loyal,OK,Loyal-OK,Oklahoma,40073,Kingfisher,35.9728,-98.1184,81,81,380,polygon,TRUE,America/Chicago,73756
+Phillips-OK,1840022828,Phillips,Phillips,OK,Phillips-OK,Oklahoma,40029,Coal,34.5041,-96.2231,129,129,96,polygon,TRUE,America/Chicago,74538
+Mead-OK,1840022895,Mead,Mead,OK,Mead-OK,Oklahoma,40013,Bryan,34.0008,-96.511,128,128,431,polygon,TRUE,America/Chicago,73449
+Boone-OK,1840034513,Boone,Boone,OK,Boone-OK,Oklahoma,40015,Caddo,34.8987,-98.462,,,4.4,point,FALSE,America/Chicago,73006
+Gregory-OK,1840034640,Gregory,Gregory,OK,Gregory-OK,Oklahoma,40131,Rogers,36.1697,-95.5741,,,29,polygon,FALSE,America/Chicago,74036
+Oklahoma City-OK,1840020428,Oklahoma City,Oklahoma City,OK,Oklahoma City-OK,Oklahoma,40109,Oklahoma,35.4677,-97.5138,948154,638367,406,polygon,TRUE,America/Chicago,73012 73099 73097 73119 73118 73114 73117 73116 73111 73112 73020 73173 73013 73142 73141 73145 73149 73078 73106 73107 74857 73139 73132 73131 73135 73134 73008 73084 73105 73102 73162 73054 73151 73150 73159 73064 73108 73109 73104 73103 73129 73179 73170 73049 73169 73165 73127 73120 73121 73122 73128 73101 73113 73123 73124 73125 73126 73136 73137 73140 73143 73144 73146 73147 73148 73152 73153 73154 73155 73156 73157 73163 73164 73167 73172 73178 73184 73189 73190 73194 73195 73196
+Lindsay-OK,1840020478,Lindsay,Lindsay,OK,Lindsay-OK,Oklahoma,40049,Garvin,34.8394,-97.6104,2784,2828,469,polygon,TRUE,America/Chicago,73052
+Zeb-OK,1840034601,Zeb,Zeb,OK,Zeb-OK,Oklahoma,40021,Cherokee,35.8061,-95.0438,,,98,polygon,FALSE,America/Chicago,74464
+Cimarron City-OK,1840022692,Cimarron City,Cimarron City,OK,Cimarron City-OK,Oklahoma,40083,Logan,35.8887,-97.6022,167,167,38,polygon,TRUE,America/Chicago,73028 73044
+Hammon-OK,1840021706,Hammon,Hammon,OK,Hammon-OK,Oklahoma,40129,Roger Mills,35.6323,-99.3832,571,571,304,polygon,TRUE,America/Chicago,73650
+Ardmore-OK,1840019258,Ardmore,Ardmore,OK,Ardmore-OK,Oklahoma,40019,Carter,34.1944,-97.1251,21597,25107,194,polygon,TRUE,America/Chicago,73401 73402 73403
+Prague-OK,1840020396,Prague,Prague,OK,Prague-OK,Oklahoma,40081,Lincoln,35.4997,-96.6999,2453,2453,315,polygon,TRUE,America/Chicago,74864
+Sweetwater-OK,1840022756,Sweetwater,Sweetwater,OK,Sweetwater-OK,Oklahoma,40009,Beckham,35.4222,-99.9116,86,86,2,polygon,TRUE,America/Chicago,73645 73666
+Union City-OK,1840022732,Union City,Union City,OK,Union City-OK,Oklahoma,40017,Canadian,35.4019,-97.9043,1991,1991,13,polygon,TRUE,America/Chicago,73090 73036
+Loco-OK,1840021888,Loco,Loco,OK,Loco-OK,Oklahoma,40137,Stephens,34.3296,-97.6809,119,119,175,polygon,TRUE,America/Chicago,73442
+Claremore-OK,1840019049,Claremore,Claremore,OK,Claremore-OK,Oklahoma,40131,Rogers,36.3143,-95.6101,25826,19069,497,polygon,TRUE,America/Chicago,74019 74017 74018
+Summit-OK,1840022721,Summit,Summit,OK,Summit-OK,Oklahoma,40101,Muskogee,35.6678,-95.4218,136,136,64,polygon,TRUE,America/Chicago,74401
+Logan-OK,1840034555,Logan,Logan,OK,Logan-OK,Oklahoma,40007,Beaver,36.5728,-100.2174,,,10.1,point,FALSE,America/Chicago,73848
+Talihina-OK,1840022775,Talihina,Talihina,OK,Talihina-OK,Oklahoma,40079,Le Flore,34.7523,-95.041,1099,1099,519,polygon,TRUE,America/Chicago,74571
+Maysville-OK,1840034465,Maysville,Maysville,OK,Maysville-OK,Oklahoma,40049,Garvin,34.8545,-97.3878,1231,1231,304,polygon,TRUE,America/Chicago,73057
+Yukon-OK,1840021740,Yukon,Yukon,OK,Yukon-OK,Oklahoma,40017,Canadian,35.5203,-97.7636,26340,26340,387,polygon,TRUE,America/Chicago,73099 73085
+Garvin-OK,1840021909,Garvin,Garvin,OK,Garvin-OK,Oklahoma,40089,McCurtain,33.956,-94.9349,250,250,50,polygon,TRUE,America/Chicago,74736
+Wynona-OK,1840022599,Wynona,Wynona,OK,Wynona-OK,Oklahoma,40113,Osage,36.5458,-96.3267,439,439,317,polygon,TRUE,America/Chicago,74084
+Elmore City-OK,1840021856,Elmore City,Elmore City,OK,Elmore City-OK,Oklahoma,40049,Garvin,34.6299,-97.3909,707,707,298,polygon,TRUE,America/Chicago,73433
+Bokoshe-OK,1840021793,Bokoshe,Bokoshe,OK,Bokoshe-OK,Oklahoma,40079,Le Flore,35.1908,-94.7902,495,495,350,polygon,TRUE,America/Chicago,74930
+Bixby-OK,1840019058,Bixby,Bixby,OK,Bixby-OK,Oklahoma,40143,Tulsa,35.9454,-95.8773,25333,25333,393,polygon,TRUE,America/Chicago,74008
+Colbert-OK,1840022898,Colbert,Colbert,OK,Colbert-OK,Oklahoma,40013,Bryan,33.8578,-96.5043,1198,1198,418,polygon,TRUE,America/Chicago,74733
+Cordell-OK,1840034617,Cordell,Cordell,OK,Cordell-OK,Oklahoma,40149,Washita,35.2906,-98.9884,,,449.7,point,TRUE,America/Chicago,73632
+Mangum-OK,1840020466,Mangum,Mangum,OK,Mangum-OK,Oklahoma,40055,Greer,34.8783,-99.504,2815,2868,632,polygon,TRUE,America/Chicago,73554
+Paradise Hill-OK,1840022739,Paradise Hill,Paradise Hill,OK,Paradise Hill-OK,Oklahoma,40135,Sequoyah,35.6134,-95.0704,82,82,57,polygon,TRUE,America/Chicago,74435
+Nardin-OK,1840026902,Nardin,Nardin,OK,Nardin-OK,Oklahoma,40071,Kay,36.8041,-97.4499,,,54.3,polygon,FALSE,America/Chicago,74646
+Fort Supply-OK,1840021637,Fort Supply,Fort Supply,OK,Fort Supply-OK,Oklahoma,40153,Woodward,36.5722,-99.5736,338,338,588,polygon,TRUE,America/Chicago,73841
+Roland-OK,1840021750,Roland,Roland,OK,Roland-OK,Oklahoma,40135,Sequoyah,35.415,-94.513,3637,3637,489,polygon,TRUE,America/Chicago,74954
+Woodlawn Park-OK,1840022735,Woodlawn Park,Woodlawn Park,OK,Woodlawn Park-OK,Oklahoma,40109,Oklahoma,35.5096,-97.6499,158,158,492,polygon,TRUE,America/Chicago,73008
+Gate-OK,1840021628,Gate,Gate,OK,Gate-OK,Oklahoma,40007,Beaver,36.8517,-100.0552,89,89,136,polygon,TRUE,America/Chicago,73844
+Powell-OK,1840034579,Powell,Powell,OK,Powell-OK,Oklahoma,40095,Marshall,33.9551,-96.8625,,,8.7,point,FALSE,America/Chicago,73439
+Cornish-OK,1840022884,Cornish,Cornish,OK,Cornish-OK,Oklahoma,40067,Jefferson,34.1637,-97.5967,157,157,107,polygon,TRUE,America/Chicago,73456
+Ringling-OK,1840021920,Ringling,Ringling,OK,Ringling-OK,Oklahoma,40067,Jefferson,34.1784,-97.592,995,995,580,polygon,TRUE,America/Chicago,73456
+Tenkiller-OK,1840034655,Tenkiller,Tenkiller,OK,Tenkiller-OK,Oklahoma,40021,Cherokee,35.7975,-94.8655,,,17.5,polygon,FALSE,America/Chicago,74471 74931
+Tulsa-OK,1840021672,Tulsa,Tulsa,OK,Tulsa-OK,Oklahoma,40143,Tulsa,36.1284,-95.9037,674211,403090,790,polygon,TRUE,America/Chicago,74133 74130 74137 74135 74132 74136 74134 74145 74127 74110 74112 74114 74115 74117 74119 74015 74129 74128 74120 74126 74116 74107 74105 74104 74103 74146 74106 74108 74101 74102 74121 74141 74147 74148 74149 74150 74152 74153 74155 74156 74157 74158 74159 74169 74170 74171 74172 74182 74186 74187 74192 74193
+Haileyville-OK,1840020455,Haileyville,Haileyville,OK,Haileyville-OK,Oklahoma,40121,Pittsburg,34.8542,-95.5784,769,769,288,polygon,TRUE,America/Chicago,74546
+Hough-OK,1840034548,Hough,Hough,OK,Hough-OK,Oklahoma,40139,Texas,36.8709,-101.5771,,,9.1,point,FALSE,America/Chicago,73942
+Etowah-OK,1840021807,Etowah,Etowah,OK,Etowah-OK,Oklahoma,40027,Cleveland,35.1291,-97.1639,93,93,17,polygon,TRUE,America/Chicago,73068
+Kansas-OK,1840021641,Kansas,Kansas,OK,Kansas-OK,Oklahoma,40041,Delaware,36.2057,-94.789,783,783,163,polygon,TRUE,America/Chicago,74347
+Spavinaw-OK,1840022669,Spavinaw,Spavinaw,OK,Spavinaw-OK,Oklahoma,40097,Mayes,36.3927,-95.0501,432,432,445,polygon,TRUE,America/Chicago,74366
+Harrah-OK,1840020424,Harrah,Harrah,OK,Harrah-OK,Oklahoma,40109,Oklahoma,35.4796,-97.1866,4631,6044,189,polygon,TRUE,America/Chicago,73020 73045
+Noble-OK,1840020450,Noble,Noble,OK,Noble-OK,Oklahoma,40027,Cleveland,35.1385,-97.371,6756,6756,198,polygon,TRUE,America/Chicago,73068
+Deer Creek-OK,1840021602,Deer Creek,Deer Creek,OK,Deer Creek-OK,Oklahoma,40053,Grant,36.8068,-97.5194,131,131,367,polygon,TRUE,America/Chicago,74636
+Dickson-OK,1840021900,Dickson,Dickson,OK,Dickson-OK,Oklahoma,40019,Carter,34.1877,-96.997,1247,1247,34,polygon,TRUE,America/Chicago,73401
+Atoka-OK,1840019254,Atoka,Atoka,OK,Atoka-OK,Oklahoma,40005,Atoka,34.3856,-96.1313,3064,3064,141,polygon,TRUE,America/Chicago,74525
+Narcissa-OK,1840018983,Narcissa,Narcissa,OK,Narcissa-OK,Oklahoma,40115,Ottawa,36.801,-94.9278,,,11.1,polygon,FALSE,America/Chicago,74354
+Webbers Falls-OK,1840022725,Webbers Falls,Webbers Falls,OK,Webbers Falls-OK,Oklahoma,40101,Muskogee,35.5122,-95.1602,597,597,60,polygon,TRUE,America/Chicago,74470
+Muskogee-OK,1840020401,Muskogee,Muskogee,OK,Muskogee-OK,Oklahoma,40101,Muskogee,35.743,-95.3567,41117,38352,343,polygon,TRUE,America/Chicago,74403 74401 74402
+Luther-OK,1840021748,Luther,Luther,OK,Luther-OK,Oklahoma,40109,Oklahoma,35.668,-97.1905,1604,1604,40,polygon,TRUE,America/Chicago,73054
+Coyle-OK,1840021682,Coyle,Coyle,OK,Coyle-OK,Oklahoma,40083,Logan,35.954,-97.2389,361,361,180,polygon,TRUE,America/Chicago,73027
+Bokchito-OK,1840021926,Bokchito,Bokchito,OK,Bokchito-OK,Oklahoma,40013,Bryan,34.0179,-96.1416,665,665,657,polygon,TRUE,America/Chicago,74726
+Verden-OK,1840022779,Verden,Verden,OK,Verden-OK,Oklahoma,40051,Grady,35.0831,-98.0872,527,527,571,polygon,TRUE,America/Chicago,73092
+Lexington-OK,1840020448,Lexington,Lexington,OK,Lexington-OK,Oklahoma,40027,Cleveland,35.0179,-97.3345,2168,2168,349,polygon,TRUE,America/Chicago,73051
+Laverne-OK,1840021621,Laverne,Laverne,OK,Laverne-OK,Oklahoma,40059,Harper,36.7053,-99.8971,1350,1350,676,polygon,TRUE,America/Chicago,73848
+Crystal-OK,1840034533,Crystal,Crystal,OK,Crystal-OK,Oklahoma,40005,Atoka,34.2268,-95.9303,,,3.8,point,FALSE,America/Chicago,74555
+Kiowa-OK,1840021815,Kiowa,Kiowa,OK,Kiowa-OK,Oklahoma,40121,Pittsburg,34.7223,-95.9018,683,683,206,polygon,TRUE,America/Chicago,74553
+Horntown-OK,1840021819,Horntown,Horntown,OK,Horntown-OK,Oklahoma,40063,Hughes,35.0869,-96.2476,93,93,9,polygon,TRUE,America/Chicago,74848
+Clearview-OK,1840022743,Clearview,Clearview,OK,Clearview-OK,Oklahoma,40107,Okfuskee,35.3971,-96.1907,48,48,107,polygon,TRUE,America/Chicago,74880
+Tribbey-OK,1840022766,Tribbey,Tribbey,OK,Tribbey-OK,Oklahoma,40125,Pottawatomie,35.0992,-97.0937,402,402,8,polygon,TRUE,America/Chicago,74852 74878
+Agra-OK,1840021710,Agra,Agra,OK,Agra-OK,Oklahoma,40081,Lincoln,35.895,-96.8702,347,347,357,polygon,TRUE,America/Chicago,74824
+Lotsee-OK,1840021674,Lotsee,Lotsee,OK,Lotsee-OK,Oklahoma,40143,Tulsa,36.1334,-96.2091,2,2,39,polygon,TRUE,America/Chicago,74063
+Bluejacket-OK,1840021598,Bluejacket,Bluejacket,OK,Bluejacket-OK,Oklahoma,40035,Craig,36.8008,-95.074,331,331,324,polygon,TRUE,America/Chicago,74333
+Moore-OK,1840020449,Moore,Moore,OK,Moore-OK,Oklahoma,40027,Cleveland,35.3294,-97.4758,61415,61415,1086,polygon,TRUE,America/Chicago,73160
+Armstrong-OK,1840020544,Armstrong,Armstrong,OK,Armstrong-OK,Oklahoma,40013,Bryan,34.0528,-96.3446,111,111,480,polygon,TRUE,America/Chicago,74729
+Foraker-OK,1840021593,Foraker,Foraker,OK,Foraker-OK,Oklahoma,40113,Osage,36.8722,-96.5691,19,19,34,polygon,TRUE,America/Chicago,74652
+Chickasha-OK,1840019169,Chickasha,Chickasha,OK,Chickasha-OK,Oklahoma,40051,Grady,35.041,-97.9472,16118,16423,287,polygon,TRUE,America/Chicago,73018 73023
+Scraper-OK,1840034584,Scraper,Scraper,OK,Scraper-OK,Oklahoma,40021,Cherokee,35.9643,-94.8912,,,6.2,polygon,FALSE,America/Chicago,74464
+Lone Grove-OK,1840020532,Lone Grove,Lone Grove,OK,Lone Grove-OK,Oklahoma,40019,Carter,34.1825,-97.2549,5225,5225,73,polygon,TRUE,America/Chicago,73443 73401
+Manchester-OK,1840022605,Manchester,Manchester,OK,Manchester-OK,Oklahoma,40053,Grant,36.9944,-98.0351,102,102,160,polygon,TRUE,America/Chicago,73758
+McWillie-OK,1840034561,McWillie,McWillie,OK,McWillie-OK,Oklahoma,40003,Alfalfa,36.5359,-98.3545,,,1,point,FALSE,America/Chicago,73716
+Sand Creek-OK,1840034488,Sand Creek,Sand Creek,OK,Sand Creek-OK,Oklahoma,40053,Grant,36.8403,-98.0198,,,2.6,point,FALSE,America/Chicago,73771
+Allen-OK,1840021836,Allen,Allen,OK,Allen-OK,Oklahoma,40123,Pontotoc,34.8774,-96.413,935,935,407,polygon,TRUE,America/Chicago,74825
+Burneyville-OK,1840034422,Burneyville,Burneyville,OK,Burneyville-OK,Oklahoma,40085,Love,33.9055,-97.2913,,,19.3,polygon,FALSE,America/Chicago,73430
+Preston-OK,1840034481,Preston,Preston,OK,Preston-OK,Oklahoma,40111,Okmulgee,35.7115,-95.9917,,,90.7,point,FALSE,America/Chicago,74456
+Brent-OK,1840034627,Brent,Brent,OK,Brent-OK,Oklahoma,40135,Sequoyah,35.364,-94.788,,,33.6,polygon,FALSE,America/Chicago,74955 74936
+Grainola-OK,1840021594,Grainola,Grainola,OK,Grainola-OK,Oklahoma,40113,Osage,36.9379,-96.6488,30,30,48,polygon,TRUE,America/Chicago,74652
+Cashion-OK,1840022688,Cashion,Cashion,OK,Cashion-OK,Oklahoma,40073,Kingfisher,35.8039,-97.6753,851,851,192,polygon,TRUE,America/Chicago,73016
+Grant-OK,1840026982,Grant,Grant,OK,Grant-OK,Oklahoma,40023,Choctaw,33.9387,-95.5156,,,142.3,polygon,FALSE,America/Chicago,74738
+Fox-OK,1840034444,Fox,Fox,OK,Fox-OK,Oklahoma,40019,Carter,34.3637,-97.4922,,,8.7,point,FALSE,America/Chicago,73438
+Bennington-OK,1840020545,Bennington,Bennington,OK,Bennington-OK,Oklahoma,40013,Bryan,34.0038,-96.0376,352,352,242,polygon,TRUE,America/Chicago,74723
+Spring Creek-OK,1840034588,Spring Creek,Spring Creek,OK,Spring Creek-OK,Oklahoma,40015,Caddo,35.2617,-98.1834,,,1.1,point,FALSE,America/Chicago,73042
+Notiechtown-OK,1840034569,Notiechtown,Notiechtown,OK,Notiechtown-OK,Oklahoma,40135,Sequoyah,35.5857,-95.0901,,,32.1,polygon,FALSE,America/Chicago,74435
+Foster-OK,1840021858,Foster,Foster,OK,Foster-OK,Oklahoma,40049,Garvin,34.5941,-97.4928,162,162,3,polygon,TRUE,America/Chicago,73434 73433 73039
+Moyers-OK,1840034567,Moyers,Moyers,OK,Moyers-OK,Oklahoma,40127,Pushmataha,34.3262,-95.6536,,,10.1,point,FALSE,America/Chicago,74557
+Seminole-OK,1840021776,Seminole,Seminole,OK,Seminole-OK,Oklahoma,40133,Seminole,35.2345,-96.65,5880,7424,211,polygon,TRUE,America/Chicago,74868 74884 74818
+Butler-OK,1840021723,Butler,Butler,OK,Butler-OK,Oklahoma,40039,Custer,35.595,-99.1809,300,300,113,polygon,TRUE,America/Chicago,73625 73647
+Binger-OK,1840020435,Binger,Binger,OK,Binger-OK,Oklahoma,40015,Caddo,35.3105,-98.3433,657,657,291,polygon,TRUE,America/Chicago,73009
+Hinton-OK,1840021768,Hinton,Hinton,OK,Hinton-OK,Oklahoma,40015,Caddo,35.4797,-98.3588,3263,3263,401,polygon,TRUE,America/Chicago,73047
+Brush Creek-OK,1840034628,Brush Creek,Brush Creek,OK,Brush Creek-OK,Oklahoma,40041,Delaware,36.4164,-94.7842,,,188.7,polygon,FALSE,America/Chicago,74346
+Oaks-OK,1840022648,Oaks,Oaks,OK,Oaks-OK,Oklahoma,40041,Delaware,36.1695,-94.8526,285,285,135,polygon,TRUE,America/Chicago,74359
+Boise City-OK,1840019008,Boise City,Boise City,OK,Boise City-OK,Oklahoma,40025,Cimarron,36.7309,-102.5112,1098,1098,321,polygon,TRUE,America/Chicago,73933
+Akins-OK,1840017830,Akins,Akins,OK,Akins-OK,Oklahoma,40135,Sequoyah,35.5042,-94.6698,,,13.2,polygon,FALSE,America/Chicago,74955 74948
+Leflore-OK,1840034610,Leflore,Leflore,OK,Leflore-OK,Oklahoma,40079,Le Flore,34.8985,-94.9759,176,176,48,polygon,TRUE,America/Chicago,74942
+Cox City-OK,1840034435,Cox City,Cox City,OK,Cox City-OK,Oklahoma,40051,Grady,34.7254,-97.7317,,,3.3,point,FALSE,America/Chicago,73082
+Okeene-OK,1840022693,Okeene,Okeene,OK,Okeene-OK,Oklahoma,40011,Blaine,36.1171,-98.3165,1188,1188,199,polygon,TRUE,America/Chicago,73763
+Blair-OK,1840021845,Blair,Blair,OK,Blair-OK,Oklahoma,40065,Jackson,34.7799,-99.333,774,774,646,polygon,TRUE,America/Chicago,73526
+Catoosa-OK,1840019048,Catoosa,Catoosa,OK,Catoosa-OK,Oklahoma,40131,Rogers,36.1832,-95.7663,7133,7133,246,polygon,TRUE,America/Chicago,74015 74116
+Drummond-OK,1840021647,Drummond,Drummond,OK,Drummond-OK,Oklahoma,40047,Garfield,36.3012,-98.0358,465,465,772,polygon,TRUE,America/Chicago,73735
+Macomb-OK,1840022763,Macomb,Macomb,OK,Macomb-OK,Oklahoma,40125,Pottawatomie,35.1479,-97.0087,33,33,143,polygon,TRUE,America/Chicago,74852
+Pettit-OK,1840019079,Pettit,Pettit,OK,Pettit-OK,Oklahoma,40021,Cherokee,35.7656,-94.9692,,,23.1,polygon,FALSE,America/Chicago,74451
+Berlin-OK,1840034415,Berlin,Berlin,OK,Berlin-OK,Oklahoma,40129,Roger Mills,35.4506,-99.6254,,,2.1,point,FALSE,America/Chicago,73662
+Porter-OK,1840021697,Porter,Porter,OK,Porter-OK,Oklahoma,40145,Wagoner,35.8683,-95.5202,596,596,327,polygon,TRUE,America/Chicago,74454
+Konawa-OK,1840020439,Konawa,Konawa,OK,Konawa-OK,Oklahoma,40133,Seminole,34.9582,-96.7535,1271,1271,374,polygon,TRUE,America/Chicago,74849
+Dewar-OK,1840021714,Dewar,Dewar,OK,Dewar-OK,Oklahoma,40111,Okmulgee,35.4583,-95.9476,870,870,358,polygon,TRUE,America/Chicago,74431
+Peggs-OK,1840024906,Peggs,Peggs,OK,Peggs-OK,Oklahoma,40021,Cherokee,36.0673,-95.0718,,,58.1,polygon,FALSE,America/Chicago,74441
+Rock Island-OK,1840021796,Rock Island,Rock Island,OK,Rock Island-OK,Oklahoma,40079,Le Flore,35.1831,-94.4811,637,637,20,polygon,TRUE,America/Chicago,74902 74932
+Whitesboro-OK,1840026951,Whitesboro,Whitesboro,OK,Whitesboro-OK,Oklahoma,40079,Le Flore,34.6965,-94.879,,,56.4,polygon,FALSE,America/Chicago,74949 74577
+Rocky Ford-OK,1840034648,Rocky Ford,Rocky Ford,OK,Rocky Ford-OK,Oklahoma,40041,Delaware,36.1749,-94.9113,,,8.9,polygon,FALSE,America/Chicago,74364
+Ponca City-OK,1840020345,Ponca City,Ponca City,OK,Ponca City-OK,Oklahoma,40071,Kay,36.7235,-97.0679,25164,24527,515,polygon,TRUE,America/Chicago,74601 74604 74602
+Isabella-OK,1840026929,Isabella,Isabella,OK,Isabella-OK,Oklahoma,40093,Major,36.2354,-98.3354,,,105.6,polygon,FALSE,America/Chicago,73747
+Johnson-OK,1840021789,Johnson,Johnson,OK,Johnson-OK,Oklahoma,40125,Pottawatomie,35.4056,-96.8418,253,253,24,polygon,TRUE,America/Chicago,74804
+Blackburn-OK,1840021655,Blackburn,Blackburn,OK,Blackburn-OK,Oklahoma,40117,Pawnee,36.3731,-96.5965,108,108,141,polygon,TRUE,America/Chicago,74058
+Bridgeport-OK,1840019160,Bridgeport,Bridgeport,OK,Bridgeport-OK,Oklahoma,40015,Caddo,35.5476,-98.3775,110,110,79,polygon,TRUE,America/Chicago,73047
+Spencerville-OK,1840034494,Spencerville,Spencerville,OK,Spencerville-OK,Oklahoma,40023,Choctaw,34.1423,-95.3583,,,22.5,point,FALSE,America/Chicago,74756
+Paden-OK,1840022741,Paden,Paden,OK,Paden-OK,Oklahoma,40107,Okfuskee,35.5076,-96.5665,459,459,348,polygon,TRUE,America/Chicago,74860
+Putnam-OK,1840021689,Putnam,Putnam,OK,Putnam-OK,Oklahoma,40043,Dewey,35.8559,-98.968,29,29,111,polygon,TRUE,America/Chicago,73659
+Stonewall-OK,1840022812,Stonewall,Stonewall,OK,Stonewall-OK,Oklahoma,40123,Pontotoc,34.6515,-96.5256,475,475,558,polygon,TRUE,America/Chicago,74871
+Stecker-OK,1840034496,Stecker,Stecker,OK,Stecker-OK,Oklahoma,40015,Caddo,34.9576,-98.3159,,,11.6,point,FALSE,America/Chicago,73006
+Orienta-OK,1840034572,Orienta,Orienta,OK,Orienta-OK,Oklahoma,40093,Major,36.36,-98.474,,,4,point,FALSE,America/Chicago,73737
+Panama-OK,1840022771,Panama,Panama,OK,Panama-OK,Oklahoma,40079,Le Flore,35.1715,-94.6707,1373,1373,335,polygon,TRUE,America/Chicago,74951
+Friendship-OK,1840021849,Friendship,Friendship,OK,Friendship-OK,Oklahoma,40065,Jackson,34.6979,-99.2287,23,23,59,polygon,TRUE,America/Chicago,73521
+Meeker-OK,1840022711,Meeker,Meeker,OK,Meeker-OK,Oklahoma,40081,Lincoln,35.4853,-96.8951,1174,1174,160,polygon,TRUE,America/Chicago,74855
+Zena-OK,1840034602,Zena,Zena,OK,Zena-OK,Oklahoma,40041,Delaware,36.513,-94.8454,,,11.4,polygon,FALSE,America/Chicago,74346
+Del City-OK,1840019154,Del City,Del City,OK,Del City-OK,Oklahoma,40109,Oklahoma,35.4483,-97.4408,21950,21950,1127,polygon,TRUE,America/Chicago,73115 73117
+Blocker-OK,1840034417,Blocker,Blocker,OK,Blocker-OK,Oklahoma,40121,Pittsburg,35.0615,-95.5683,,,19.6,point,FALSE,America/Chicago,74501
+Nowata-OK,1840020337,Nowata,Nowata,OK,Nowata-OK,Oklahoma,40105,Nowata,36.699,-95.6379,3613,3711,427,polygon,TRUE,America/Chicago,74048
+Sequoyah-OK,1840034585,Sequoyah,Sequoyah,OK,Sequoyah-OK,Oklahoma,40131,Rogers,36.3797,-95.5969,,,65.5,polygon,FALSE,America/Chicago,74017
+Watova-OK,1840034596,Watova,Watova,OK,Watova-OK,Oklahoma,40105,Nowata,36.6173,-95.6558,,,35.7,point,FALSE,America/Chicago,74048
+Thackerville-OK,1840022908,Thackerville,Thackerville,OK,Thackerville-OK,Oklahoma,40085,Love,33.7935,-97.1426,473,473,85,polygon,TRUE,America/Chicago,73459
+Lehigh-OK,1840020518,Lehigh,Lehigh,OK,Lehigh-OK,Oklahoma,40029,Coal,34.4707,-96.2209,340,340,83,polygon,TRUE,America/Chicago,74556
+Stratford-OK,1840022824,Stratford,Stratford,OK,Stratford-OK,Oklahoma,40049,Garvin,34.7952,-96.9602,1537,1537,590,polygon,TRUE,America/Chicago,74872
+Beaver-OK,1840020352,Beaver,Beaver,OK,Beaver-OK,Oklahoma,40007,Beaver,36.8151,-100.5235,1441,1441,481,polygon,TRUE,America/Chicago,73932
+Carlisle-OK,1840034630,Carlisle,Carlisle,OK,Carlisle-OK,Oklahoma,40135,Sequoyah,35.5042,-95.0323,,,8.5,polygon,FALSE,America/Chicago,74962 74435
+Weleetka-OK,1840022744,Weleetka,Weleetka,OK,Weleetka-OK,Oklahoma,40107,Okfuskee,35.3424,-96.1353,984,984,556,polygon,TRUE,America/Chicago,74880
+Cleora-OK,1840017696,Cleora,Cleora,OK,Cleora-OK,Oklahoma,40041,Delaware,36.5738,-94.948,,,13.4,polygon,FALSE,America/Chicago,74331
+Forest Park-OK,1840021745,Forest Park,Forest Park,OK,Forest Park-OK,Oklahoma,40109,Oklahoma,35.5095,-97.4469,1070,1070,226,polygon,TRUE,America/Chicago,73121
+Balko-OK,1840034414,Balko,Balko,OK,Balko-OK,Oklahoma,40007,Beaver,36.63,-100.6849,,,14.2,point,FALSE,America/Chicago,73931
+Delaware-OK,1840021587,Delaware,Delaware,OK,Delaware-OK,Oklahoma,40105,Nowata,36.7789,-95.6426,412,412,414,polygon,TRUE,America/Chicago,74027
+Dry Creek-OK,1840034633,Dry Creek,Dry Creek,OK,Dry Creek-OK,Oklahoma,40021,Cherokee,35.7275,-94.8703,,,12.7,polygon,FALSE,America/Chicago,74451 74427
+Proctor-OK,1840024907,Proctor,Proctor,OK,Proctor-OK,Oklahoma,40001,Adair,35.9759,-94.7511,,,44.4,polygon,FALSE,America/Chicago,74457 74965
+Bromide-OK,1840021903,Bromide,Bromide,OK,Bromide-OK,Oklahoma,40069,Johnston,34.418,-96.4949,167,167,100,polygon,TRUE,America/Chicago,74530
+Longdale-OK,1840021687,Longdale,Longdale,OK,Longdale-OK,Oklahoma,40011,Blaine,36.1338,-98.5509,257,257,371,polygon,TRUE,America/Chicago,73755
+Temple-OK,1840022851,Temple,Temple,OK,Temple-OK,Oklahoma,40033,Cotton,34.2729,-98.2352,959,959,283,polygon,TRUE,America/Chicago,73568
+Disney-OK,1840021660,Disney,Disney,OK,Disney-OK,Oklahoma,40097,Mayes,36.477,-95.0195,303,303,94,polygon,TRUE,America/Chicago,74340
+Lone Wolf-OK,1840021827,Lone Wolf,Lone Wolf,OK,Lone Wolf-OK,Oklahoma,40075,Kiowa,34.9904,-99.2457,415,415,309,polygon,TRUE,America/Chicago,73655
+Garber-OK,1840020374,Garber,Garber,OK,Garber-OK,Oklahoma,40047,Garfield,36.4365,-97.581,836,836,645,polygon,TRUE,America/Chicago,73738
+Cloud Creek-OK,1840034631,Cloud Creek,Cloud Creek,OK,Cloud Creek-OK,Oklahoma,40041,Delaware,36.2712,-94.79,,,16,polygon,FALSE,America/Chicago,74338
+Meers-OK,1840034562,Meers,Meers,OK,Meers-OK,Oklahoma,40031,Comanche,34.7828,-98.579,,,1.4,point,FALSE,America/Chicago,73507
+Lambert-OK,1840021612,Lambert,Lambert,OK,Lambert-OK,Oklahoma,40003,Alfalfa,36.6832,-98.4237,6,6,20,polygon,TRUE,America/Chicago,73728
+Cement-OK,1840022751,Cement,Cement,OK,Cement-OK,Oklahoma,40015,Caddo,34.9362,-98.1363,499,499,423,polygon,TRUE,America/Chicago,73017
+Spencer-OK,1840021741,Spencer,Spencer,OK,Spencer-OK,Oklahoma,40109,Oklahoma,35.5108,-97.3715,4015,4015,288,polygon,TRUE,America/Chicago,73141 73084
+Marietta-OK,1840020561,Marietta,Marietta,OK,Marietta-OK,Oklahoma,40085,Love,33.9355,-97.1242,2759,2759,438,polygon,TRUE,America/Chicago,73448
+Goodwater-OK,1840034607,Goodwater,Goodwater,OK,Goodwater-OK,Oklahoma,40089,McCurtain,33.9101,-94.5733,,,12.6,point,FALSE,America/Chicago,74740
+McBride-OK,1840034466,McBride,McBride,OK,McBride-OK,Oklahoma,40095,Marshall,33.9354,-96.6333,,,26.6,point,FALSE,America/Chicago,73439
+Dotyville-OK,1840018982,Dotyville,Dotyville,OK,Dotyville-OK,Oklahoma,40115,Ottawa,36.8514,-94.9097,,,9.2,polygon,FALSE,America/Chicago,74354
+Knowles-OK,1840021629,Knowles,Knowles,OK,Knowles-OK,Oklahoma,40007,Beaver,36.8731,-100.1931,11,11,24,polygon,TRUE,America/Chicago,73844
+Renfrow-OK,1840021603,Renfrow,Renfrow,OK,Renfrow-OK,Oklahoma,40053,Grant,36.9248,-97.6571,12,12,48,polygon,TRUE,America/Chicago,73759
+Depew-OK,1840021692,Depew,Depew,OK,Depew-OK,Oklahoma,40037,Creek,35.8009,-96.5076,481,481,449,polygon,TRUE,America/Chicago,74028
+Adams-OK,1840034402,Adams,Adams,OK,Adams-OK,Oklahoma,40139,Texas,36.7564,-101.0771,,,166.3,point,FALSE,America/Chicago,73901
+Newkirk-OK,1840020344,Newkirk,Newkirk,OK,Newkirk-OK,Oklahoma,40071,Kay,36.8816,-97.0554,2230,2230,653,polygon,TRUE,America/Chicago,74647
+Vici-OK,1840022698,Vici,Vici,OK,Vici-OK,Oklahoma,40043,Dewey,36.1487,-99.2994,702,702,627,polygon,TRUE,America/Chicago,73859
+Hardesty-OK,1840021626,Hardesty,Hardesty,OK,Hardesty-OK,Oklahoma,40139,Texas,36.6147,-101.1936,218,218,377,polygon,TRUE,America/Chicago,73944
+Bethany-OK,1840019153,Bethany,Bethany,OK,Bethany-OK,Oklahoma,40109,Oklahoma,35.5072,-97.6417,19543,19543,1443,polygon,TRUE,America/Chicago,73008
+Mayfield-OK,1840034558,Mayfield,Mayfield,OK,Mayfield-OK,Oklahoma,40009,Beckham,35.3389,-99.8768,,,6.5,point,FALSE,America/Chicago,73645
+Eagle City-OK,1840034439,Eagle City,Eagle City,OK,Eagle City-OK,Oklahoma,40011,Blaine,35.9331,-98.5917,,,14.2,point,FALSE,America/Chicago,73724
+Douglas-OK,1840021646,Douglas,Douglas,OK,Douglas-OK,Oklahoma,40047,Garfield,36.2604,-97.6675,33,33,84,polygon,TRUE,America/Chicago,73733
+Stuart-OK,1840022792,Stuart,Stuart,OK,Stuart-OK,Oklahoma,40063,Hughes,34.9011,-96.0995,172,172,244,polygon,TRUE,America/Chicago,74570
+Colcord-OK,1840022649,Colcord,Colcord,OK,Colcord-OK,Oklahoma,40041,Delaware,36.2647,-94.6921,815,815,128,polygon,TRUE,America/Chicago,74338
+Sumner-OK,1840034590,Sumner,Sumner,OK,Sumner-OK,Oklahoma,40103,Noble,36.3189,-97.1214,,,33.7,point,FALSE,America/Chicago,73077
+Snake Creek-OK,1840034652,Snake Creek,Snake Creek,OK,Snake Creek-OK,Oklahoma,40097,Mayes,36.1786,-95.0937,,,8.7,polygon,FALSE,America/Chicago,74352
+Davenport-OK,1840021711,Davenport,Davenport,OK,Davenport-OK,Oklahoma,40081,Lincoln,35.7093,-96.7643,824,824,311,polygon,TRUE,America/Chicago,74026
+Shady Point-OK,1840022773,Shady Point,Shady Point,OK,Shady Point-OK,Oklahoma,40079,Le Flore,35.1278,-94.6687,1000,1000,150,polygon,TRUE,America/Chicago,74956
+Greasy-OK,1840034543,Greasy,Greasy,OK,Greasy-OK,Oklahoma,40001,Adair,35.6821,-94.7177,,,9.9,polygon,FALSE,America/Chicago,74931
+Elgin-OK,1840020476,Elgin,Elgin,OK,Elgin-OK,Oklahoma,40031,Comanche,34.7848,-98.301,3008,3008,302,polygon,TRUE,America/Chicago,73538
+Marshall-OK,1840022689,Marshall,Marshall,OK,Marshall-OK,Oklahoma,40083,Logan,36.1555,-97.6257,302,302,231,polygon,TRUE,America/Chicago,73056
+Bokhoma-OK,1840034604,Bokhoma,Bokhoma,OK,Bokhoma-OK,Oklahoma,40089,McCurtain,33.8229,-94.583,,,4,point,FALSE,America/Chicago,74740
+Broxton-OK,1840034516,Broxton,Broxton,OK,Broxton-OK,Oklahoma,40015,Caddo,34.9859,-98.4092,,,3.5,point,FALSE,America/Chicago,73006
+Westville-OK,1840022706,Westville,Westville,OK,Westville-OK,Oklahoma,40001,Adair,35.9903,-94.5743,1571,1571,499,polygon,TRUE,America/Chicago,74965
+Salem-OK,1840034649,Salem,Salem,OK,Salem-OK,Oklahoma,40001,Adair,35.7611,-94.5755,,,9.6,polygon,FALSE,America/Chicago,74960
+Choctaw-OK,1840019152,Choctaw,Choctaw,OK,Choctaw-OK,Oklahoma,40109,Oklahoma,35.48,-97.2666,12354,12354,174,polygon,TRUE,America/Chicago,73020
+Cleveland-OK,1840019050,Cleveland,Cleveland,OK,Cleveland-OK,Oklahoma,40117,Pawnee,36.3002,-96.463,3100,3222,461,polygon,TRUE,America/Chicago,74020
+Cole-OK,1840022784,Cole,Cole,OK,Cole-OK,Oklahoma,40087,McClain,35.0992,-97.5663,585,585,15,polygon,TRUE,America/Chicago,73010 73093
+Elk City-OK,1840020437,Elk City,Elk City,OK,Elk City-OK,Oklahoma,40009,Beckham,35.3849,-99.4333,11136,11997,285,polygon,TRUE,America/Chicago,73644 73662 73648
+Central High-OK,1840022829,Central High,Central High,OK,Central High-OK,Oklahoma,40137,Stephens,34.617,-98.0892,1170,1170,8,polygon,TRUE,America/Chicago,73533 73055
+Cumberland-OK,1840034437,Cumberland,Cumberland,OK,Cumberland-OK,Oklahoma,40095,Marshall,34.0645,-96.5997,,,80.7,point,FALSE,America/Chicago,73446
+Spiro-OK,1840022774,Spiro,Spiro,OK,Spiro-OK,Oklahoma,40079,Le Flore,35.241,-94.6231,2182,2182,356,polygon,TRUE,America/Chicago,74959
+Kenefic-OK,1840021930,Kenefic,Kenefic,OK,Kenefic-OK,Oklahoma,40013,Bryan,34.1501,-96.3642,206,206,81,polygon,TRUE,America/Chicago,74729 74748
+Dacoma-OK,1840021596,Dacoma,Dacoma,OK,Dacoma-OK,Oklahoma,40151,Woods,36.6596,-98.5635,112,112,82,polygon,TRUE,America/Chicago,73731
+Slick-OK,1840022702,Slick,Slick,OK,Slick-OK,Oklahoma,40037,Creek,35.7788,-96.2681,131,131,137,polygon,TRUE,America/Chicago,74071
+Achille-OK,1840021927,Achille,Achille,OK,Achille-OK,Oklahoma,40013,Bryan,33.8347,-96.3901,517,517,529,polygon,TRUE,America/Chicago,74720
+Meno-OK,1840022672,Meno,Meno,OK,Meno-OK,Oklahoma,40093,Major,36.3882,-98.1779,243,243,494,polygon,TRUE,America/Chicago,73760
+Jenks-OK,1840019060,Jenks,Jenks,OK,Jenks-OK,Oklahoma,40143,Tulsa,35.998,-95.9737,21812,21812,491,polygon,TRUE,America/Chicago,74008 74037
+Courtney-OK,1840034434,Courtney,Courtney,OK,Courtney-OK,Oklahoma,40085,Love,33.9404,-97.5084,,,1.2,point,FALSE,America/Chicago,73456
+Briggs-OK,1840034515,Briggs,Briggs,OK,Briggs-OK,Oklahoma,40021,Cherokee,35.921,-94.9,,,114,polygon,FALSE,America/Chicago,74464
+Arapaho-OK,1840021726,Arapaho,Arapaho,OK,Arapaho-OK,Oklahoma,40039,Custer,35.5779,-98.9593,812,812,448,polygon,TRUE,America/Chicago,73620
+Chandler-OK,1840019106,Chandler,Chandler,OK,Chandler-OK,Oklahoma,40081,Lincoln,35.7237,-96.8951,2774,3181,135,polygon,TRUE,America/Chicago,74834
+Ochelata-OK,1840022602,Ochelata,Ochelata,OK,Ochelata-OK,Oklahoma,40147,Washington,36.6009,-95.981,429,429,684,polygon,TRUE,America/Chicago,74051
+Rocky Mountain-OK,1840019081,Rocky Mountain,Rocky Mountain,OK,Rocky Mountain-OK,Oklahoma,40001,Adair,35.7936,-94.778,,,17.5,polygon,FALSE,America/Chicago,74960
+Latta-OK,1840034458,Latta,Latta,OK,Latta-OK,Oklahoma,40123,Pontotoc,34.7532,-96.7088,,,57.8,polygon,FALSE,America/Chicago,74820
+Hunter-OK,1840021650,Hunter,Hunter,OK,Hunter-OK,Oklahoma,40047,Garfield,36.5637,-97.6625,171,171,262,polygon,TRUE,America/Chicago,74640
+Bushyhead-OK,1840034521,Bushyhead,Bushyhead,OK,Bushyhead-OK,Oklahoma,40131,Rogers,36.4596,-95.5164,,,113.7,polygon,FALSE,America/Chicago,74017 74016
+Miami-OK,1840020346,Miami,Miami,OK,Miami-OK,Oklahoma,40115,Ottawa,36.8877,-94.8718,16042,13484,480,polygon,TRUE,America/Chicago,74354 74355
+Keota-OK,1840021791,Keota,Keota,OK,Keota-OK,Oklahoma,40061,Haskell,35.2569,-94.9224,559,559,569,polygon,TRUE,America/Chicago,74941
+Fairview-OK,1840020377,Fairview,Fairview,OK,Fairview-OK,Oklahoma,40093,Major,36.2705,-98.4771,2658,2658,143,polygon,TRUE,America/Chicago,73737
+Oologah-OK,1840022653,Oologah,Oologah,OK,Oologah-OK,Oklahoma,40131,Rogers,36.4436,-95.7085,1176,1176,363,polygon,TRUE,America/Chicago,74053
+Pond Creek-OK,1840020343,Pond Creek,Pond Creek,OK,Pond Creek-OK,Oklahoma,40053,Grant,36.6675,-97.8029,854,854,394,polygon,TRUE,America/Chicago,73766
+The Village-OK,1840021742,The Village,The Village,OK,The Village-OK,Oklahoma,40109,Oklahoma,35.5706,-97.5567,9429,9429,1429,polygon,TRUE,America/Chicago,73120
+Quinlan-OK,1840034482,Quinlan,Quinlan,OK,Quinlan-OK,Oklahoma,40153,Woodward,36.4545,-99.0454,,,35,point,FALSE,America/Chicago,73852
+Springer-OK,1840022845,Springer,Springer,OK,Springer-OK,Oklahoma,40019,Carter,34.2909,-97.1255,698,698,18,polygon,TRUE,America/Chicago,73401 73458
+Cold Springs-OK,1840034429,Cold Springs,Cold Springs,OK,Cold Springs-OK,Oklahoma,40075,Kiowa,34.7959,-99.0051,,,4.3,point,FALSE,America/Chicago,73564
+Driftwood-OK,1840034438,Driftwood,Driftwood,OK,Driftwood-OK,Oklahoma,40003,Alfalfa,36.8792,-98.3595,,,3.4,point,FALSE,America/Chicago,73728
+Hominy-OK,1840020338,Hominy,Hominy,OK,Hominy-OK,Oklahoma,40113,Osage,36.422,-96.3929,3424,3495,676,polygon,TRUE,America/Chicago,74035
+Leedey-OK,1840021690,Leedey,Leedey,OK,Leedey-OK,Oklahoma,40043,Dewey,35.8689,-99.3451,437,437,410,polygon,TRUE,America/Chicago,73654
+Bristow-OK,1840019075,Bristow,Bristow,OK,Bristow-OK,Oklahoma,40037,Creek,35.8338,-96.3941,4134,4248,462,polygon,TRUE,America/Chicago,74010
+Drumright-OK,1840019076,Drumright,Drumright,OK,Drumright-OK,Oklahoma,40037,Creek,35.9893,-96.599,2876,2876,147,polygon,TRUE,America/Chicago,74030
+Hollis-OK,1840020470,Hollis,Hollis,OK,Hollis-OK,Oklahoma,40057,Harmon,34.6895,-99.9153,1909,1909,511,polygon,TRUE,America/Chicago,73550
+Morris-OK,1840020399,Morris,Morris,OK,Morris-OK,Oklahoma,40111,Okmulgee,35.6152,-95.8624,1466,1466,513,polygon,TRUE,America/Chicago,74447 74445
+El Reno-OK,1840020420,El Reno,El Reno,OK,El Reno-OK,Oklahoma,40017,Canadian,35.543,-97.966,16902,18786,91,polygon,TRUE,America/Chicago,73036 73022
+Ashland-OK,1840020459,Ashland,Ashland,OK,Ashland-OK,Oklahoma,40121,Pittsburg,34.7668,-96.0706,62,62,120,polygon,TRUE,America/Chicago,74570
+Sawyer-OK,1840022900,Sawyer,Sawyer,OK,Sawyer-OK,Oklahoma,40023,Choctaw,34.0206,-95.3773,313,313,13,polygon,TRUE,America/Chicago,74756 74743
+Carmen-OK,1840022609,Carmen,Carmen,OK,Carmen-OK,Oklahoma,40003,Alfalfa,36.5791,-98.4578,365,365,93,polygon,TRUE,America/Chicago,73726
+Red Bird-OK,1840034619,Red Bird,Red Bird,OK,Red Bird-OK,Oklahoma,40145,Wagoner,35.8857,-95.5889,,,83.7,point,TRUE,America/Chicago,74458
+Pawhuska-OK,1840020339,Pawhuska,Pawhuska,OK,Pawhuska-OK,Oklahoma,40113,Osage,36.6687,-96.3312,3515,3477,369,polygon,TRUE,America/Chicago,74056
+Yeager-OK,1840022793,Yeager,Yeager,OK,Yeager-OK,Oklahoma,40063,Hughes,35.1567,-96.34,72,72,150,polygon,TRUE,America/Chicago,74848
+Carter-OK,1840022755,Carter,Carter,OK,Carter-OK,Oklahoma,40009,Beckham,35.2175,-99.5038,251,251,208,polygon,TRUE,America/Chicago,73627
+Alsuma-OK,1840034407,Alsuma,Alsuma,OK,Alsuma-OK,Oklahoma,40143,Tulsa,36.0951,-95.8636,,,24.1,point,FALSE,America/Chicago,74146
+Tuskahoma-OK,1840026971,Tuskahoma,Tuskahoma,OK,Tuskahoma-OK,Oklahoma,40127,Pushmataha,34.6272,-95.2779,,,26.7,polygon,FALSE,America/Chicago,74574
+Stoney Point-OK,1840034653,Stoney Point,Stoney Point,OK,Stoney Point-OK,Oklahoma,40135,Sequoyah,35.5845,-94.6636,,,5.4,polygon,FALSE,America/Chicago,74955
+Perkins-OK,1840020386,Perkins,Perkins,OK,Perkins-OK,Oklahoma,40119,Payne,35.978,-97.0299,2840,2840,361,polygon,TRUE,America/Chicago,74059
+Bearden-OK,1840020430,Bearden,Bearden,OK,Bearden-OK,Oklahoma,40107,Okfuskee,35.3568,-96.3852,132,132,6,polygon,TRUE,America/Chicago,74859
+Howe-OK,1840021799,Howe,Howe,OK,Howe-OK,Oklahoma,40079,Le Flore,34.95,-94.6408,792,792,185,polygon,TRUE,America/Chicago,74940
+Lula-OK,1840034464,Lula,Lula,OK,Lula-OK,Oklahoma,40123,Pontotoc,34.7006,-96.4322,,,28,point,FALSE,America/Chicago,74825
+Lenora-OK,1840034554,Lenora,Lenora,OK,Lenora-OK,Oklahoma,40043,Dewey,36.0412,-99.062,,,1.1,point,FALSE,America/Chicago,73667
+Dennis-OK,1840034535,Dennis,Dennis,OK,Dennis-OK,Oklahoma,40041,Delaware,36.5433,-94.8693,,,11.8,polygon,FALSE,America/Chicago,74346
+Pink-OK,1840022765,Pink,Pink,OK,Pink-OK,Oklahoma,40125,Pottawatomie,35.2327,-97.1002,2108,2108,22,polygon,TRUE,America/Chicago,74852 74873
+Albany-OK,1840026979,Albany,Albany,OK,Albany-OK,Oklahoma,40013,Bryan,33.8769,-96.16,,,102.2,polygon,FALSE,America/Chicago,74726 74721
+Tecumseh-OK,1840021786,Tecumseh,Tecumseh,OK,Tecumseh-OK,Oklahoma,40125,Pottawatomie,35.2639,-96.9338,6666,6666,171,polygon,TRUE,America/Chicago,74801 74873
+Wanette-OK,1840022767,Wanette,Wanette,OK,Wanette-OK,Oklahoma,40125,Pottawatomie,34.9627,-97.0319,358,358,324,polygon,TRUE,America/Chicago,74878
+Webb City-OK,1840022598,Webb City,Webb City,OK,Webb City-OK,Oklahoma,40113,Osage,36.8074,-96.7119,61,61,93,polygon,TRUE,America/Chicago,74652
+Beggs-OK,1840019107,Beggs,Beggs,OK,Beggs-OK,Oklahoma,40111,Okmulgee,35.777,-96.028,1248,1248,114,polygon,TRUE,America/Chicago,74421 74047
+Mulhall-OK,1840034469,Mulhall,Mulhall,OK,Mulhall-OK,Oklahoma,40083,Logan,36.0918,-97.3603,250,250,118,polygon,TRUE,America/Chicago,73073 73063
+Capron-OK,1840022600,Capron,Capron,OK,Capron-OK,Oklahoma,40151,Woods,36.8967,-98.5776,,,34,polygon,TRUE,America/Chicago,73717
+Muldrow-OK,1840022738,Muldrow,Muldrow,OK,Muldrow-OK,Oklahoma,40135,Sequoyah,35.404,-94.5969,5525,3279,293,polygon,TRUE,America/Chicago,74948
+Sterling-OK,1840022822,Sterling,Sterling,OK,Sterling-OK,Oklahoma,40031,Comanche,34.7499,-98.1729,784,784,376,polygon,TRUE,America/Chicago,73567
+Cestos-OK,1840034526,Cestos,Cestos,OK,Cestos-OK,Oklahoma,40043,Dewey,36.1442,-99.0937,,,3.5,point,FALSE,America/Chicago,73859
+Fay-OK,1840034441,Fay,Fay,OK,Fay-OK,Oklahoma,40043,Dewey,35.8134,-98.6579,,,42,point,FALSE,America/Chicago,73646
+Indiahoma-OK,1840021854,Indiahoma,Indiahoma,OK,Indiahoma-OK,Oklahoma,40031,Comanche,34.6198,-98.7521,334,334,459,polygon,TRUE,America/Chicago,73552
+Langley-OK,1840021662,Langley,Langley,OK,Langley-OK,Oklahoma,40097,Mayes,36.4707,-95.0539,820,820,204,polygon,TRUE,America/Chicago,74350
+Randlett-OK,1840021908,Randlett,Randlett,OK,Randlett-OK,Oklahoma,40033,Cotton,34.1773,-98.4639,422,422,259,polygon,TRUE,America/Chicago,73562
+Leonard-OK,1840034459,Leonard,Leonard,OK,Leonard-OK,Oklahoma,40143,Tulsa,35.9204,-95.7994,,,74.5,point,FALSE,America/Chicago,74008
+Breckinridge-OK,1840034419,Breckinridge,Breckinridge,OK,Breckinridge-OK,Oklahoma,40047,Garfield,36.4622,-97.7273,253,253,6,polygon,TRUE,America/Chicago,73701
+Criner-OK,1840034436,Criner,Criner,OK,Criner-OK,Oklahoma,40087,McClain,34.9715,-97.5645,,,18.6,point,FALSE,America/Chicago,73080
+Newcastle-OK,1840020453,Newcastle,Newcastle,OK,Newcastle-OK,Oklahoma,40087,McClain,35.2404,-97.5998,9652,9652,62,polygon,TRUE,America/Chicago,73072 73065
+Roosevelt-OK,1840021825,Roosevelt,Roosevelt,OK,Roosevelt-OK,Oklahoma,40075,Kiowa,34.8477,-99.0227,241,241,188,polygon,TRUE,America/Chicago,73564
+Coweta-OK,1840019077,Coweta,Coweta,OK,Coweta-OK,Oklahoma,40145,Wagoner,35.9676,-95.6538,9673,9673,344,polygon,TRUE,America/Chicago,74429 74014
+McLoud-OK,1840022764,McLoud,McLoud,OK,McLoud-OK,Oklahoma,40125,Pottawatomie,35.407,-97.1014,4637,4637,94,polygon,TRUE,America/Chicago,74851
+Sperry-OK,1840022678,Sperry,Sperry,OK,Sperry-OK,Oklahoma,40143,Tulsa,36.2978,-95.9917,1279,1279,295,polygon,TRUE,America/Chicago,74073
+Hitchcock-OK,1840021686,Hitchcock,Hitchcock,OK,Hitchcock-OK,Oklahoma,40011,Blaine,35.9676,-98.3497,119,119,306,polygon,TRUE,America/Chicago,73744
+Heavener-OK,1840020444,Heavener,Heavener,OK,Heavener-OK,Oklahoma,40079,Le Flore,34.8919,-94.6075,3682,3343,261,polygon,TRUE,America/Chicago,74937
+Adair-OK,1840021659,Adair,Adair,OK,Adair-OK,Oklahoma,40097,Mayes,36.4366,-95.2727,818,818,63,polygon,TRUE,America/Chicago,74330
+Bethel Acres-OK,1840020443,Bethel Acres,Bethel Acres,OK,Bethel Acres-OK,Oklahoma,40125,Pottawatomie,35.3048,-97.037,3133,3133,42,polygon,TRUE,America/Chicago,74851 74801
+Arkoma-OK,1840020446,Arkoma,Arkoma,OK,Arkoma-OK,Oklahoma,40079,Le Flore,35.3374,-94.4438,1925,1925,214,polygon,TRUE,America/Chicago,74901
+Taloga-OK,1840022697,Taloga,Taloga,OK,Taloga-OK,Oklahoma,40043,Dewey,36.0403,-98.9642,303,303,225,polygon,TRUE,America/Chicago,73667
+Okmulgee-OK,1840020400,Okmulgee,Okmulgee,OK,Okmulgee-OK,Oklahoma,40111,Okmulgee,35.6136,-96.0069,13959,12239,276,polygon,TRUE,America/Chicago,74447
+Lugert-OK,1840034557,Lugert,Lugert,OK,Lugert-OK,Oklahoma,40075,Kiowa,34.8959,-99.2754,,,3.3,point,FALSE,America/Chicago,73655
+Stringtown-OK,1840022832,Stringtown,Stringtown,OK,Stringtown-OK,Oklahoma,40005,Atoka,34.4696,-96.0548,403,403,27,polygon,TRUE,America/Chicago,74569 74525
+Canton-OK,1840022694,Canton,Canton,OK,Canton-OK,Oklahoma,40011,Blaine,36.055,-98.5884,604,604,448,polygon,TRUE,America/Chicago,73724
+Hallett-OK,1840021657,Hallett,Hallett,OK,Hallett-OK,Oklahoma,40117,Pawnee,36.2316,-96.5679,124,124,53,polygon,TRUE,America/Chicago,74034
+Colony-OK,1840022760,Colony,Colony,OK,Colony-OK,Oklahoma,40149,Washita,35.3487,-98.6714,135,135,55,polygon,TRUE,America/Chicago,73021
+Cogar-OK,1840034529,Cogar,Cogar,OK,Cogar-OK,Oklahoma,40015,Caddo,35.3339,-98.1306,,,9,point,FALSE,America/Chicago,73059
+Cartwright-OK,1840026981,Cartwright,Cartwright,OK,Cartwright-OK,Oklahoma,40013,Bryan,33.8555,-96.5611,,,244.1,polygon,FALSE,America/Chicago,74731 74733
+Bradley-OK,1840021800,Bradley,Bradley,OK,Bradley-OK,Oklahoma,40051,Grady,34.878,-97.7086,131,131,226,polygon,TRUE,America/Chicago,73011
+Pernell-OK,1840034575,Pernell,Pernell,OK,Pernell-OK,Oklahoma,40049,Garvin,34.5615,-97.51,,,5.6,point,FALSE,America/Chicago,73433
+Sentinel-OK,1840022762,Sentinel,Sentinel,OK,Sentinel-OK,Oklahoma,40149,Washita,35.1571,-99.1734,891,891,558,polygon,TRUE,America/Chicago,73664
+Elmwood-OK,1840034440,Elmwood,Elmwood,OK,Elmwood-OK,Oklahoma,40007,Beaver,36.6164,-100.5226,,,10.3,point,FALSE,America/Chicago,73932
+West Peavine-OK,1840034661,West Peavine,West Peavine,OK,West Peavine-OK,Oklahoma,40001,Adair,35.9133,-94.6481,,,24.2,polygon,FALSE,America/Chicago,74960
+Enid-OK,1840020373,Enid,Enid,OK,Enid-OK,Oklahoma,40047,Garfield,36.4061,-97.8701,49176,51004,266,polygon,TRUE,America/Chicago,73701 73703 73705 73702 73706
+Guymon-OK,1840020350,Guymon,Guymon,OK,Guymon-OK,Oklahoma,40139,Texas,36.6901,-101.4778,11596,11703,597,polygon,TRUE,America/Chicago,73942
+Perry-OK,1840020371,Perry,Perry,OK,Perry-OK,Oklahoma,40103,Noble,36.2849,-97.3079,4946,5018,297,polygon,TRUE,America/Chicago,73077
+Eufaula-OK,1840020434,Eufaula,Eufaula,OK,Eufaula-OK,Oklahoma,40091,McIntosh,35.2922,-95.5862,2949,2949,172,polygon,TRUE,America/Chicago,74432
+Oakhurst-OK,1840019074,Oakhurst,Oakhurst,OK,Oakhurst-OK,Oklahoma,40143,Tulsa,36.083,-96.0637,,,347,polygon,FALSE,America/Chicago,74050 74131 74107
+Cooperton-OK,1840022801,Cooperton,Cooperton,OK,Cooperton-OK,Oklahoma,40075,Kiowa,34.8662,-98.8759,15,15,11,polygon,TRUE,America/Chicago,73564
+Fairland-OK,1840021618,Fairland,Fairland,OK,Fairland-OK,Oklahoma,40115,Ottawa,36.7506,-94.8483,1052,1052,406,polygon,TRUE,America/Chicago,74343
+Fargo-OK,1840021653,Fargo,Fargo,OK,Fargo-OK,Oklahoma,40045,Ellis,36.3742,-99.6219,362,362,238,polygon,TRUE,America/Chicago,73840
+Piedmont-OK,1840020422,Piedmont,Piedmont,OK,Piedmont-OK,Oklahoma,40017,Canadian,35.6784,-97.7528,7422,7422,65,polygon,TRUE,America/Chicago,73078
+Meridian-OK,1840022690,Meridian,Meridian,OK,Meridian-OK,Oklahoma,40083,Logan,35.844,-97.2456,42,42,82,polygon,TRUE,America/Chicago,73058
+Pocola-OK,1840021795,Pocola,Pocola,OK,Pocola-OK,Oklahoma,40079,Le Flore,35.2456,-94.4774,4070,4070,51,polygon,TRUE,America/Chicago,74902
+Nelagoney-OK,1840034471,Nelagoney,Nelagoney,OK,Nelagoney-OK,Oklahoma,40113,Osage,36.6265,-96.2422,,,35.3,point,FALSE,America/Chicago,74056
+Pickens-OK,1840034478,Pickens,Pickens,OK,Pickens-OK,Oklahoma,40089,McCurtain,34.3965,-95.0119,,,21.8,point,FALSE,America/Chicago,74728
+Kenton-OK,1840026904,Kenton,Kenton,OK,Kenton-OK,Oklahoma,40025,Cimarron,36.9064,-102.9652,,,11.2,polygon,FALSE,America/Chicago,73946
+Peoria-OK,1840022611,Peoria,Peoria,OK,Peoria-OK,Oklahoma,40115,Ottawa,36.9152,-94.6699,131,131,235,polygon,TRUE,America/Chicago,74363
+Lamont-OK,1840021605,Lamont,Lamont,OK,Lamont-OK,Oklahoma,40053,Grant,36.6912,-97.5582,404,404,462,polygon,TRUE,America/Chicago,74643
+West Siloam Springs-OK,1840022650,West Siloam Springs,West Siloam Springs,OK,West Siloam Springs-OK,Oklahoma,40041,Delaware,36.1755,-94.5941,840,840,92,polygon,TRUE,America/Chicago,74338 74964
+Lequire-OK,1840034460,Lequire,Lequire,OK,Lequire-OK,Oklahoma,40061,Haskell,35.1098,-95.1065,,,57.8,polygon,FALSE,America/Chicago,74943 74944
+Honobia-OK,1840034452,Honobia,Honobia,OK,Honobia-OK,Oklahoma,40079,Le Flore,34.539,-94.9375,,,30.2,point,FALSE,America/Chicago,74957
+Tuttle-OK,1840021802,Tuttle,Tuttle,OK,Tuttle-OK,Oklahoma,40051,Grady,35.3068,-97.7556,6968,6968,93,polygon,TRUE,America/Chicago,73089
+Strang-OK,1840022671,Strang,Strang,OK,Strang-OK,Oklahoma,40097,Mayes,36.4122,-95.1345,88,88,127,polygon,TRUE,America/Chicago,74367
+Box-OK,1840024947,Box,Box,OK,Box-OK,Oklahoma,40135,Sequoyah,35.5784,-94.9717,,,65.8,polygon,FALSE,America/Chicago,74962
+Remy-OK,1840034582,Remy,Remy,OK,Remy-OK,Oklahoma,40135,Sequoyah,35.4578,-94.4984,,,106.6,polygon,FALSE,America/Chicago,74954 74948
+Arcadia-OK,1840021744,Arcadia,Arcadia,OK,Arcadia-OK,Oklahoma,40109,Oklahoma,35.6655,-97.3255,269,269,68,polygon,TRUE,America/Chicago,73007
+Tonkawa-OK,1840021614,Tonkawa,Tonkawa,OK,Tonkawa-OK,Oklahoma,40071,Kay,36.6788,-97.3281,3023,3095,222,polygon,TRUE,America/Chicago,74653
+Mannsville-OK,1840022847,Mannsville,Mannsville,OK,Mannsville-OK,Oklahoma,40069,Johnston,34.1858,-96.8974,856,856,101,polygon,TRUE,America/Chicago,73447
+Verdigris-OK,1840022656,Verdigris,Verdigris,OK,Verdigris-OK,Oklahoma,40131,Rogers,36.2534,-95.6602,4406,4406,290,polygon,TRUE,America/Chicago,74019
+Baker-OK,1840034413,Baker,Baker,OK,Baker-OK,Oklahoma,40139,Texas,36.8695,-101.0179,,,45.7,point,FALSE,America/Chicago,73950
+Hennepin-OK,1840034450,Hennepin,Hennepin,OK,Hennepin-OK,Oklahoma,40049,Garvin,34.509,-97.347,,,58.5,point,FALSE,America/Chicago,73030
+Washington-OK,1840022785,Washington,Washington,OK,Washington-OK,Oklahoma,40087,McClain,35.0583,-97.4922,650,650,170,polygon,TRUE,America/Chicago,73093
+Ripley-OK,1840021677,Ripley,Ripley,OK,Ripley-OK,Oklahoma,40119,Payne,36.0169,-96.9046,403,403,412,polygon,TRUE,America/Chicago,74062
+Chester-OK,1840026928,Chester,Chester,OK,Chester-OK,Oklahoma,40093,Major,36.2166,-98.9208,,,23.5,polygon,FALSE,America/Chicago,73838
+Davis-OK,1840019256,Davis,Davis,OK,Davis-OK,Oklahoma,40099,Murray,34.4578,-97.1655,2705,2802,98,polygon,TRUE,America/Chicago,73030
+Sportsmen Acres-OK,1840022670,Sportsmen Acres,Sportsmen Acres,OK,Sportsmen Acres-OK,Oklahoma,40097,Mayes,36.2458,-95.2515,313,313,1467,polygon,TRUE,America/Chicago,74361
+Swink-OK,1840026983,Swink,Swink,OK,Swink-OK,Oklahoma,40023,Choctaw,34.0168,-95.2022,,,59.6,polygon,FALSE,America/Chicago,74761
+Nicoma Park-OK,1840020427,Nicoma Park,Nicoma Park,OK,Nicoma Park-OK,Oklahoma,40109,Oklahoma,35.4912,-97.3254,2462,2462,284,polygon,TRUE,America/Chicago,73020 73141 73066
+Amber-OK,1840021804,Amber,Amber,OK,Amber-OK,Oklahoma,40051,Grady,35.1602,-97.882,454,454,44,polygon,TRUE,America/Chicago,73004
+Braman-OK,1840021613,Braman,Braman,OK,Braman-OK,Oklahoma,40071,Kay,36.9237,-97.3352,210,210,469,polygon,TRUE,America/Chicago,74632
+Mouser-OK,1840034566,Mouser,Mouser,OK,Mouser-OK,Oklahoma,40139,Texas,36.8706,-101.4152,,,1.2,point,FALSE,America/Chicago,73942
+Hoot Owl-OK,1840034622,Hoot Owl,Hoot Owl,OK,Hoot Owl-OK,Oklahoma,40097,Mayes,36.36,-95.1214,4,4,26,polygon,TRUE,America/Chicago,74365
+Oglesby-OK,1840034472,Oglesby,Oglesby,OK,Oglesby-OK,Oklahoma,40147,Washington,36.6265,-95.8567,,,25.4,point,FALSE,America/Chicago,74061
+Altus-OK,1840019202,Altus,Altus,OK,Altus-OK,Oklahoma,40065,Jackson,34.6566,-99.3051,19246,19163,402,polygon,TRUE,America/Chicago,73521 73522 73523
+Octavia-OK,1840034611,Octavia,Octavia,OK,Octavia-OK,Oklahoma,40079,Le Flore,34.5268,-94.703,,,28.2,point,FALSE,America/Chicago,74957
+Red Oak-OK,1840021833,Red Oak,Red Oak,OK,Red Oak-OK,Oklahoma,40077,Latimer,34.9508,-95.0814,500,500,208,polygon,TRUE,America/Chicago,74563
+Smithville-OK,1840022853,Smithville,Smithville,OK,Smithville-OK,Oklahoma,40089,McCurtain,34.4689,-94.6462,,,52.6,polygon,TRUE,America/Chicago,74957
+Wellston-OK,1840022716,Wellston,Wellston,OK,Wellston-OK,Oklahoma,40081,Lincoln,35.6861,-97.0616,794,794,228,polygon,TRUE,America/Chicago,74881
+Cameron-OK,1840022772,Cameron,Cameron,OK,Cameron-OK,Oklahoma,40079,Le Flore,35.135,-94.5359,294,294,408,polygon,TRUE,America/Chicago,74932
+Avard-OK,1840034411,Avard,Avard,OK,Avard-OK,Oklahoma,40151,Woods,36.6989,-98.789,,,28.6,point,TRUE,America/Chicago,73717
+Foss-OK,1840021783,Foss,Foss,OK,Foss-OK,Oklahoma,40149,Washita,35.4501,-99.1707,149,149,79,polygon,TRUE,America/Chicago,73647
+Strong City-OK,1840022710,Strong City,Strong City,OK,Strong City-OK,Oklahoma,40129,Roger Mills,35.6699,-99.6003,47,47,35,polygon,TRUE,America/Chicago,73628
+Katie-OK,1840021859,Katie,Katie,OK,Katie-OK,Oklahoma,40049,Garvin,34.5833,-97.3388,352,352,6,polygon,TRUE,America/Chicago,73433
+Geary-OK,1840020391,Geary,Geary,OK,Geary-OK,Oklahoma,40011,Blaine,35.5927,-98.2914,1286,1286,119,polygon,TRUE,America/Chicago,73014 73040
+Felt-OK,1840026903,Felt,Felt,OK,Felt-OK,Oklahoma,40025,Cimarron,36.5632,-102.7948,,,1.5,polygon,FALSE,America/Chicago,73937
+Salina-OK,1840022668,Salina,Salina,OK,Salina-OK,Oklahoma,40097,Mayes,36.2907,-95.1519,1384,1384,541,polygon,TRUE,America/Chicago,74365
+Baron-OK,1840034509,Baron,Baron,OK,Baron-OK,Oklahoma,40001,Adair,35.9237,-94.6163,,,36,point,FALSE,America/Chicago,74965
+Moffett-OK,1840022737,Moffett,Moffett,OK,Moffett-OK,Oklahoma,40135,Sequoyah,35.4039,-94.4554,122,122,66,polygon,TRUE,America/Chicago,74954 74948 74946
+Anadarko-OK,1840019159,Anadarko,Anadarko,OK,Anadarko-OK,Oklahoma,40015,Caddo,35.0653,-98.244,5928,6761,362,polygon,TRUE,America/Chicago,73005
+North Enid-OK,1840022657,North Enid,North Enid,OK,North Enid-OK,Oklahoma,40047,Garfield,36.4457,-97.8634,913,913,151,polygon,TRUE,America/Chicago,73701
+Elmer-OK,1840021848,Elmer,Elmer,OK,Elmer-OK,Oklahoma,40065,Jackson,34.4808,-99.3521,92,92,82,polygon,TRUE,America/Chicago,73539
+Sugden-OK,1840022885,Sugden,Sugden,OK,Sugden-OK,Oklahoma,40067,Jefferson,34.0826,-97.9788,41,41,72,polygon,TRUE,America/Chicago,73573
+Fairfield-OK,1840034637,Fairfield,Fairfield,OK,Fairfield-OK,Oklahoma,40001,Adair,35.8407,-94.6062,,,81.6,polygon,FALSE,America/Chicago,74960
+Gage-OK,1840021654,Gage,Gage,OK,Gage-OK,Oklahoma,40045,Ellis,36.3182,-99.7577,426,426,392,polygon,TRUE,America/Chicago,73843
+Oktaha-OK,1840022720,Oktaha,Oktaha,OK,Oktaha-OK,Oklahoma,40101,Muskogee,35.5776,-95.4778,381,381,553,polygon,TRUE,America/Chicago,74450
+Ada-OK,1840019191,Ada,Ada,OK,Ada-OK,Oklahoma,40123,Pontotoc,34.7683,-96.6689,17981,17371,339,polygon,TRUE,America/Chicago,74820 74821
+Agawam-OK,1840034403,Agawam,Agawam,OK,Agawam-OK,Oklahoma,40051,Grady,34.8734,-97.9462,,,35,point,FALSE,America/Chicago,73067
+Shady Grove-OK,1840034586,Shady Grove,Shady Grove,OK,Shady Grove-OK,Oklahoma,40091,McIntosh,35.4443,-95.4091,,,6.1,polygon,FALSE,America/Chicago,74426
+Hennessey-OK,1840021680,Hennessey,Hennessey,OK,Hennessey-OK,Oklahoma,40073,Kingfisher,36.1056,-97.8989,2207,2207,229,polygon,TRUE,America/Chicago,73742
+Redden-OK,1840034581,Redden,Redden,OK,Redden-OK,Oklahoma,40005,Atoka,34.5065,-95.8447,,,2.1,point,FALSE,America/Chicago,74569
+Finley-OK,1840034442,Finley,Finley,OK,Finley-OK,Oklahoma,40127,Pushmataha,34.3284,-95.495,,,26.9,point,FALSE,America/Chicago,74543
+Floris-OK,1840034540,Floris,Floris,OK,Floris-OK,Oklahoma,40007,Beaver,36.8697,-100.7113,,,4.6,point,FALSE,America/Chicago,73938
+Antlers-OK,1840019255,Antlers,Antlers,OK,Antlers-OK,Oklahoma,40127,Pushmataha,34.2325,-95.6214,2325,2325,328,polygon,TRUE,America/Chicago,74523
+Centrahoma-OK,1840019247,Centrahoma,Centrahoma,OK,Centrahoma-OK,Oklahoma,40029,Coal,34.6102,-96.3438,93,93,148,polygon,TRUE,America/Chicago,74534 74538
+Norman-OK,1840020451,Norman,Norman,OK,Norman-OK,Oklahoma,40027,Cleveland,35.2335,-97.3471,114444,122180,263,polygon,TRUE,America/Chicago,73019 73026 73072 73071 74857 73069 73068 73070
+Keys-OK,1840034457,Keys,Keys,OK,Keys-OK,Oklahoma,40021,Cherokee,35.8056,-94.9425,,,72.2,polygon,FALSE,America/Chicago,74451
+Woodall-OK,1840034656,Woodall,Woodall,OK,Woodall-OK,Oklahoma,40021,Cherokee,35.8246,-95.0823,,,29.1,polygon,FALSE,America/Chicago,74434 74464
+Weatherford-OK,1840021725,Weatherford,Weatherford,OK,Weatherford-OK,Oklahoma,40039,Custer,35.5385,-98.6872,11844,11978,684,polygon,TRUE,America/Chicago,73096
+Hulbert-OK,1840021701,Hulbert,Hulbert,OK,Hulbert-OK,Oklahoma,40021,Cherokee,35.9315,-95.1436,605,605,224,polygon,TRUE,America/Chicago,74441
+Tushka-OK,1840022833,Tushka,Tushka,OK,Tushka-OK,Oklahoma,40005,Atoka,34.3178,-96.1677,302,302,149,polygon,TRUE,America/Chicago,74525
+Billings-OK,1840020372,Billings,Billings,OK,Billings-OK,Oklahoma,40103,Noble,36.5313,-97.4342,505,505,303,polygon,TRUE,America/Chicago,74630
+Ames-OK,1840021664,Ames,Ames,OK,Ames-OK,Oklahoma,40093,Major,36.2471,-98.1867,247,247,320,polygon,TRUE,America/Chicago,73718
+Stidham-OK,1840022749,Stidham,Stidham,OK,Stidham-OK,Oklahoma,40091,McIntosh,35.3686,-95.7008,19,19,211,polygon,TRUE,America/Chicago,74432 74461
+Evening Shade-OK,1840034636,Evening Shade,Evening Shade,OK,Evening Shade-OK,Oklahoma,40135,Sequoyah,35.6195,-94.9103,,,33.4,polygon,FALSE,America/Chicago,74962
+Homestead-OK,1840034451,Homestead,Homestead,OK,Homestead-OK,Oklahoma,40011,Blaine,36.1498,-98.394,,,20.1,point,FALSE,America/Chicago,73763
+Gotebo-OK,1840021826,Gotebo,Gotebo,OK,Gotebo-OK,Oklahoma,40075,Kiowa,35.0711,-98.8744,219,219,110,polygon,TRUE,America/Chicago,73041
+Holdenville-OK,1840020460,Holdenville,Holdenville,OK,Holdenville-OK,Oklahoma,40063,Hughes,35.0836,-96.4004,5676,5680,454,polygon,TRUE,America/Chicago,74848
+Rocky-OK,1840021782,Rocky,Rocky,OK,Rocky-OK,Oklahoma,40149,Washita,35.156,-99.0594,160,160,270,polygon,TRUE,America/Chicago,73661
+Okarche-OK,1840022687,Okarche,Okarche,OK,Okarche-OK,Oklahoma,40017,Canadian,35.7189,-97.9757,1324,1324,271,polygon,TRUE,America/Chicago,73762
+Southard-OK,1840034493,Southard,Southard,OK,Southard-OK,Oklahoma,40011,Blaine,36.0559,-98.4754,,,1.3,point,FALSE,America/Chicago,73772
+Madill-OK,1840020543,Madill,Madill,OK,Madill-OK,Oklahoma,40095,Marshall,34.0868,-96.7754,4584,3911,318,polygon,TRUE,America/Chicago,73446
+Custer City-OK,1840021727,Custer City,Custer City,OK,Custer City-OK,Oklahoma,40039,Custer,35.6637,-98.8869,392,392,245,polygon,TRUE,America/Chicago,73639
+Rosedale-OK,1840021809,Rosedale,Rosedale,OK,Rosedale-OK,Oklahoma,40087,McClain,34.9188,-97.1855,70,70,460,polygon,TRUE,America/Chicago,74831
+Schulter-OK,1840022718,Schulter,Schulter,OK,Schulter-OK,Oklahoma,40111,Okmulgee,35.511,-95.9567,501,501,220,polygon,TRUE,America/Chicago,74437 74460
+Limestone-OK,1840034643,Limestone,Limestone,OK,Limestone-OK,Oklahoma,40131,Rogers,36.3144,-95.7477,,,117,polygon,FALSE,America/Chicago,74055 74019
+Boswell-OK,1840021931,Boswell,Boswell,OK,Boswell-OK,Oklahoma,40023,Choctaw,34.0281,-95.8685,691,691,389,polygon,TRUE,America/Chicago,74727
+Castle-OK,1840022742,Castle,Castle,OK,Castle-OK,Oklahoma,40107,Okfuskee,35.4752,-96.3835,105,105,230,polygon,TRUE,America/Chicago,74833
+Chelsea-OK,1840022654,Chelsea,Chelsea,OK,Chelsea-OK,Oklahoma,40131,Rogers,36.5323,-95.4356,1973,1973,429,polygon,TRUE,America/Chicago,74016
+Gray Horse-OK,1840034448,Gray Horse,Gray Horse,OK,Gray Horse-OK,Oklahoma,40113,Osage,36.5498,-96.6478,,,3,point,FALSE,America/Chicago,74637
+Golden-OK,1840034445,Golden,Golden,OK,Golden-OK,Oklahoma,40089,McCurtain,34.0346,-94.8963,,,20.8,point,FALSE,America/Chicago,74728
+Osage-OK,1840022596,Osage,Osage,OK,Osage-OK,Oklahoma,40113,Osage,36.2948,-96.4179,154,154,192,polygon,TRUE,America/Chicago,74054 74035
+Bell-OK,1840034510,Bell,Bell,OK,Bell-OK,Oklahoma,40001,Adair,35.7544,-94.5349,,,18.5,polygon,FALSE,America/Chicago,74960
+Woodward-OK,1840021636,Woodward,Woodward,OK,Woodward-OK,Oklahoma,40153,Woodward,36.4246,-99.4059,11807,12543,368,polygon,TRUE,America/Chicago,73801 73802
+Hopeton-OK,1840034453,Hopeton,Hopeton,OK,Hopeton-OK,Oklahoma,40151,Woods,36.6881,-98.6659,,,22.3,point,FALSE,America/Chicago,73746
+Minco-OK,1840020447,Minco,Minco,OK,Minco-OK,Oklahoma,40051,Grady,35.3174,-97.9517,1646,1646,51,polygon,TRUE,America/Chicago,73059
+Texhoma-OK,1840022636,Texhoma,Texhoma,OK,Texhoma-OK,Oklahoma,40139,Texas,36.505,-101.7829,,,182.2,point,TRUE,America/Chicago,73949
+Leon-OK,1840021938,Leon,Leon,OK,Leon-OK,Oklahoma,40085,Love,33.8773,-97.4291,97,97,140,polygon,TRUE,America/Chicago,73441
+Helena-OK,1840021610,Helena,Helena,OK,Helena-OK,Oklahoma,40003,Alfalfa,36.5466,-98.2714,1422,1422,1489,polygon,TRUE,America/Chicago,73741
+Wister-OK,1840022776,Wister,Wister,OK,Wister-OK,Oklahoma,40079,Le Flore,34.9695,-94.7206,1072,1072,210,polygon,TRUE,America/Chicago,74966
+North Miami-OK,1840022610,North Miami,North Miami,OK,North Miami-OK,Oklahoma,40115,Ottawa,36.92,-94.8797,381,381,758,polygon,TRUE,America/Chicago,74358 74354
+Cushing-OK,1840019062,Cushing,Cushing,OK,Cushing-OK,Oklahoma,40119,Payne,35.9797,-96.7603,6716,7796,387,polygon,TRUE,America/Chicago,74023
+Speer-OK,1840034587,Speer,Speer,OK,Speer-OK,Oklahoma,40023,Choctaw,34.1134,-95.5558,,,7.7,point,FALSE,America/Chicago,74743
+Iron Post-OK,1840034641,Iron Post,Iron Post,OK,Iron Post-OK,Oklahoma,40097,Mayes,36.1557,-95.1351,,,13,polygon,FALSE,America/Chicago,74352
+Porum-OK,1840021720,Porum,Porum,OK,Porum-OK,Oklahoma,40101,Muskogee,35.3568,-95.2634,710,710,327,polygon,TRUE,America/Chicago,74455
+Kellyville-OK,1840021693,Kellyville,Kellyville,OK,Kellyville-OK,Oklahoma,40037,Creek,35.9482,-96.2143,1147,1147,376,polygon,TRUE,America/Chicago,74039
+Kingston-OK,1840021925,Kingston,Kingston,OK,Kingston-OK,Oklahoma,40095,Marshall,33.9979,-96.6951,1629,1629,180,polygon,TRUE,America/Chicago,73439
+Oakwood-OK,1840022695,Oakwood,Oakwood,OK,Oakwood-OK,Oklahoma,40043,Dewey,35.9315,-98.7031,65,65,109,polygon,TRUE,America/Chicago,73658
+Wann-OK,1840022595,Wann,Wann,OK,Wann-OK,Oklahoma,40105,Nowata,36.9146,-95.8047,123,123,279,polygon,TRUE,America/Chicago,74083
+Pensacola-OK,1840022666,Pensacola,Pensacola,OK,Pensacola-OK,Oklahoma,40097,Mayes,36.4556,-95.1292,123,123,321,polygon,TRUE,America/Chicago,74301
+Eldorado-OK,1840021847,Eldorado,Eldorado,OK,Eldorado-OK,Oklahoma,40065,Jackson,34.473,-99.6498,426,426,225,polygon,TRUE,America/Chicago,73537
+Mazie-OK,1840017706,Mazie,Mazie,OK,Mazie-OK,Oklahoma,40097,Mayes,36.1425,-95.3303,,,37.1,polygon,FALSE,America/Chicago,74337
+Boatman-OK,1840034512,Boatman,Boatman,OK,Boatman-OK,Oklahoma,40097,Mayes,36.2584,-95.1844,,,54.4,point,FALSE,America/Chicago,74361
+Granite-OK,1840021828,Granite,Granite,OK,Granite-OK,Oklahoma,40055,Greer,34.9561,-99.3703,2015,2015,240,polygon,TRUE,America/Chicago,73547
+Vinita-OK,1840021599,Vinita,Vinita,OK,Vinita-OK,Oklahoma,40035,Craig,36.6364,-95.177,5813,5563,358,polygon,TRUE,America/Chicago,74301
+Lenapah-OK,1840021588,Lenapah,Lenapah,OK,Lenapah-OK,Oklahoma,40105,Nowata,36.8515,-95.6356,289,289,290,polygon,TRUE,America/Chicago,74042
+Center-OK,1840034425,Center,Center,OK,Center-OK,Oklahoma,40123,Pontotoc,34.7993,-96.8156,,,46.7,point,FALSE,America/Chicago,74820
+Eagletown-OK,1840026975,Eagletown,Eagletown,OK,Eagletown-OK,Oklahoma,40089,McCurtain,34.0417,-94.57,,,105,polygon,FALSE,America/Chicago,74734
+Flint Creek-OK,1840034638,Flint Creek,Flint Creek,OK,Flint Creek-OK,Oklahoma,40041,Delaware,36.1764,-94.7438,,,36.1,polygon,FALSE,America/Chicago,74338 74347
+Curtis-OK,1840034534,Curtis,Curtis,OK,Curtis-OK,Oklahoma,40153,Woodward,36.4392,-99.1426,,,25.5,point,FALSE,America/Chicago,73852
+Ramona-OK,1840021601,Ramona,Ramona,OK,Ramona-OK,Oklahoma,40147,Washington,36.5321,-95.926,545,545,271,polygon,TRUE,America/Chicago,74061
+Dill City-OK,1840021781,Dill City,Dill City,OK,Dill City-OK,Oklahoma,40149,Washita,35.282,-99.1335,556,556,394,polygon,TRUE,America/Chicago,73641
+May-OK,1840022614,May,May,OK,May-OK,Oklahoma,40059,Harper,36.6174,-99.7483,40,40,61,polygon,TRUE,America/Chicago,73851
+Wright City-OK,1840022855,Wright City,Wright City,OK,Wright City-OK,Oklahoma,40089,McCurtain,34.0646,-95.0075,737,737,330,polygon,TRUE,America/Chicago,74766
+Rufe-OK,1840034486,Rufe,Rufe,OK,Rufe-OK,Oklahoma,40089,McCurtain,34.1237,-95.1441,,,20.6,point,FALSE,America/Chicago,74755
+Bowring-OK,1840034418,Bowring,Bowring,OK,Bowring-OK,Oklahoma,40113,Osage,36.8781,-96.12,,,92.4,point,FALSE,America/Chicago,74056
+Duke-OK,1840034618,Duke,Duke,OK,Duke-OK,Oklahoma,40065,Jackson,34.6615,-99.5701,,,410.2,point,TRUE,America/Chicago,73532
+Hartshorne-OK,1840020456,Hartshorne,Hartshorne,OK,Hartshorne-OK,Oklahoma,40121,Pittsburg,34.8389,-95.5585,2374,1987,221,polygon,TRUE,America/Chicago,74547
+Carlton Landing-OK,1840018081,Carlton Landing,Carlton Landing,OK,Carlton Landing-OK,Oklahoma,40121,Pittsburg,35.2046,-95.5448,0,0,0,polygon,TRUE,America/Chicago,74432
+Simms-OK,1840034660,Simms,Simms,OK,Simms-OK,Oklahoma,40101,Muskogee,35.3987,-95.1647,,,8.5,polygon,FALSE,America/Chicago,74455 74470
+Bartlesville-OK,1840018977,Bartlesville,Bartlesville,OK,Bartlesville-OK,Oklahoma,40147,Washington,36.7356,-95.9451,39848,36647,621,polygon,TRUE,America/Chicago,74006 74003 74004 74005
+Kiefer-OK,1840021694,Kiefer,Kiefer,OK,Kiefer-OK,Oklahoma,40037,Creek,35.9439,-96.0526,1932,1932,312,polygon,TRUE,America/Chicago,74041
+Eva-OK,1840034538,Eva,Eva,OK,Eva-OK,Oklahoma,40139,Texas,36.7984,-101.9068,,,1.6,point,FALSE,America/Chicago,73949
+Pinhook Corner-OK,1840034479,Pinhook Corner,Pinhook Corner,OK,Pinhook Corner-OK,Oklahoma,40135,Sequoyah,35.5314,-94.891,,,10.1,polygon,FALSE,America/Chicago,74962
+Mountain Park-OK,1840022799,Mountain Park,Mountain Park,OK,Mountain Park-OK,Oklahoma,40075,Kiowa,34.6989,-98.9523,397,397,202,polygon,TRUE,America/Chicago,73559
+Maramec-OK,1840022661,Maramec,Maramec,OK,Maramec-OK,Oklahoma,40117,Pawnee,36.2419,-96.6806,91,91,143,polygon,TRUE,America/Chicago,74045
+Alluwe-OK,1840034616,Alluwe,Alluwe,OK,Alluwe-OK,Oklahoma,40105,Nowata,36.6104,-95.4872,,,130,point,TRUE,America/Chicago,74016
+Milburn-OK,1840022848,Milburn,Milburn,OK,Milburn-OK,Oklahoma,40069,Johnston,34.2401,-96.552,319,319,261,polygon,TRUE,America/Chicago,73450
+Dustin-OK,1840021817,Dustin,Dustin,OK,Dustin-OK,Oklahoma,40063,Hughes,35.2712,-96.0317,374,374,244,polygon,TRUE,America/Chicago,74839
+Wynnewood-OK,1840021855,Wynnewood,Wynnewood,OK,Wynnewood-OK,Oklahoma,40049,Garvin,34.6442,-97.1627,2224,2224,585,polygon,TRUE,America/Chicago,73098
+Alex-OK,1840021803,Alex,Alex,OK,Alex-OK,Oklahoma,40051,Grady,34.9227,-97.7763,549,549,31,polygon,TRUE,America/Chicago,73011 73002 73067
+Hanna-OK,1840021761,Hanna,Hanna,OK,Hanna-OK,Oklahoma,40091,McIntosh,35.2042,-95.8894,133,133,412,polygon,TRUE,America/Chicago,74845
+Hillsdale-OK,1840021649,Hillsdale,Hillsdale,OK,Hillsdale-OK,Oklahoma,40047,Garfield,36.5635,-97.9926,125,125,133,polygon,TRUE,America/Chicago,73703 73743
+Marble City-OK,1840022736,Marble City,Marble City,OK,Marble City-OK,Oklahoma,40135,Sequoyah,35.5824,-94.8186,252,252,240,polygon,TRUE,America/Chicago,74945
+Inola-OK,1840021644,Inola,Inola,OK,Inola-OK,Oklahoma,40131,Rogers,36.1315,-95.5373,1846,1846,106,polygon,TRUE,America/Chicago,74036
+Nashoba-OK,1840034470,Nashoba,Nashoba,OK,Nashoba-OK,Oklahoma,40127,Pushmataha,34.482,-95.2152,,,9,point,FALSE,America/Chicago,74558
+Pearson-OK,1840034476,Pearson,Pearson,OK,Pearson-OK,Oklahoma,40125,Pottawatomie,35.0729,-96.9178,,,7.3,point,FALSE,America/Chicago,74826
+Carrier-OK,1840022658,Carrier,Carrier,OK,Carrier-OK,Oklahoma,40047,Garfield,36.4786,-98.0172,88,88,27,polygon,TRUE,America/Chicago,73727
+Duchess Landing-OK,1840034634,Duchess Landing,Duchess Landing,OK,Duchess Landing-OK,Oklahoma,40091,McIntosh,35.3985,-95.4165,,,6.4,polygon,FALSE,America/Chicago,74426
+Kildare-OK,1840021615,Kildare,Kildare,OK,Kildare-OK,Oklahoma,40071,Kay,36.8083,-97.0499,97,97,263,polygon,TRUE,America/Chicago,74604
+Loveland-OK,1840021896,Loveland,Loveland,OK,Loveland-OK,Oklahoma,40141,Tillman,34.3046,-98.7708,12,12,20,polygon,TRUE,America/Chicago,73546 73553
+Dover-OK,1840021679,Dover,Dover,OK,Dover-OK,Oklahoma,40073,Kingfisher,35.9815,-97.9105,474,474,589,polygon,TRUE,America/Chicago,73734
+Comanche-OK,1840019252,Comanche,Comanche,OK,Comanche-OK,Oklahoma,40137,Stephens,34.3597,-97.9478,1604,1604,136,polygon,TRUE,America/Chicago,73529
+Marlow-OK,1840020526,Marlow,Marlow,OK,Marlow-OK,Oklahoma,40137,Stephens,34.6297,-97.9579,4120,4541,251,polygon,TRUE,America/Chicago,73055
+Taft-OK,1840022722,Taft,Taft,OK,Taft-OK,Oklahoma,40101,Muskogee,35.7607,-95.5455,244,244,60,polygon,TRUE,America/Chicago,74401 74463
+Tupelo-OK,1840021879,Tupelo,Tupelo,OK,Tupelo-OK,Oklahoma,40029,Coal,34.6024,-96.4204,315,315,290,polygon,TRUE,America/Chicago,74572
+Pawnee-OK,1840020376,Pawnee,Pawnee,OK,Pawnee-OK,Oklahoma,40117,Pawnee,36.3363,-96.8019,2165,2165,379,polygon,TRUE,America/Chicago,74058
+Crescent-OK,1840019073,Crescent,Crescent,OK,Crescent-OK,Oklahoma,40083,Logan,35.9523,-97.594,1542,1542,552,polygon,TRUE,America/Chicago,73028
+Oakland-OK,1840022894,Oakland,Oakland,OK,Oakland-OK,Oklahoma,40095,Marshall,34.0974,-96.7977,1067,1067,340,polygon,TRUE,America/Chicago,73446

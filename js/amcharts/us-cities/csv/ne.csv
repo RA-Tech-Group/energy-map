@@ -1,0 +1,635 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Holmesville-NE,1840024304,Holmesville,Holmesville,NE,Holmesville-NE,Nebraska,31067,Gage,40.2009,-96.6584,,,27.8,polygon,FALSE,America/Chicago,68310
+Bladen-NE,1840012261,Bladen,Bladen,NE,Bladen-NE,Nebraska,31181,Webster,40.3232,-98.5961,227,227,244,polygon,TRUE,America/Chicago,68928
+Saint Helena-NE,1840011072,Saint Helena,Saint Helena,NE,Saint Helena-NE,Nebraska,31027,Cedar,42.8106,-97.2488,94,94,81,polygon,TRUE,America/Chicago,68774
+Shelby-NE,1840011655,Shelby,Shelby,NE,Shelby-NE,Nebraska,31143,Polk,41.1939,-97.4259,688,688,472,polygon,TRUE,America/Chicago,68662
+Brewster-NE,1840010150,Brewster,Brewster,NE,Brewster-NE,Nebraska,31009,Blaine,41.9384,-99.8651,17,17,74,polygon,TRUE,America/Chicago,68821
+Bushnell-NE,1840010284,Bushnell,Bushnell,NE,Bushnell-NE,Nebraska,31105,Kimball,41.2328,-103.8911,121,121,204,polygon,TRUE,America/Denver,69145 69128
+Edison-NE,1840012277,Edison,Edison,NE,Edison-NE,Nebraska,31065,Furnas,40.2776,-99.7762,129,129,187,polygon,TRUE,America/Chicago,68936
+Chadron-NE,1840006893,Chadron,Chadron,NE,Chadron-NE,Nebraska,31045,Dawes,42.826,-103.0024,5396,5725,569,polygon,TRUE,America/Denver,69337
+Sholes-NE,1840011216,Sholes,Sholes,NE,Sholes-NE,Nebraska,31179,Wayne,42.3348,-97.2946,20,20,56,polygon,TRUE,America/Chicago,68771
+Wayne-NE,1840010121,Wayne,Wayne,NE,Wayne-NE,Nebraska,31179,Wayne,42.2371,-97.0158,5472,5573,956,polygon,TRUE,America/Chicago,68787
+Bayard-NE,1840007044,Bayard,Bayard,NE,Bayard-NE,Nebraska,31123,Morrill,41.7572,-103.323,1134,1134,629,polygon,TRUE,America/Denver,69334
+Dodge-NE,1840011458,Dodge,Dodge,NE,Dodge-NE,Nebraska,31053,Dodge,41.7218,-96.8804,598,598,584,polygon,TRUE,America/Chicago,68633
+Brainard-NE,1840011622,Brainard,Brainard,NE,Brainard-NE,Nebraska,31023,Butler,41.1819,-97.0021,320,320,373,polygon,TRUE,America/Chicago,68626
+Oakdale-NE,1840011190,Oakdale,Oakdale,NE,Oakdale-NE,Nebraska,31003,Antelope,42.0701,-97.9671,294,294,218,polygon,TRUE,America/Chicago,68761
+Ralston-NE,1840009316,Ralston,Ralston,NE,Ralston-NE,Nebraska,31055,Douglas,41.2005,-96.0354,7329,7329,1718,polygon,TRUE,America/Chicago,68127
+Fremont-NE,1840003346,Fremont,Fremont,NE,Fremont-NE,Nebraska,31053,Dodge,41.4418,-96.4887,27598,26519,1069,polygon,TRUE,America/Chicago,68025 68026
+Staplehurst-NE,1840011842,Staplehurst,Staplehurst,NE,Staplehurst-NE,Nebraska,31159,Seward,40.9746,-97.1732,242,242,748,polygon,TRUE,America/Chicago,68439
+Western-NE,1840012059,Western,Western,NE,Western-NE,Nebraska,31151,Saline,40.3931,-97.1984,237,237,188,polygon,TRUE,America/Chicago,68464
+Burr-NE,1840010374,Burr,Burr,NE,Burr-NE,Nebraska,31131,Otoe,40.536,-96.2997,58,58,261,polygon,TRUE,America/Chicago,68324
+Shelton-NE,1840011835,Shelton,Shelton,NE,Shelton-NE,Nebraska,31019,Buffalo,40.7788,-98.7306,1067,1067,562,polygon,TRUE,America/Chicago,68876
+Atlanta-NE,1840012075,Atlanta,Atlanta,NE,Atlanta-NE,Nebraska,31137,Phelps,40.3685,-99.4731,131,131,218,polygon,TRUE,America/Chicago,68923
+McCool Junction-NE,1840011823,McCool Junction,McCool Junction,NE,McCool Junction-NE,Nebraska,31185,York,40.744,-97.6004,410,410,338,polygon,TRUE,America/Chicago,68401
+Uehling-NE,1840011462,Uehling,Uehling,NE,Uehling-NE,Nebraska,31053,Dodge,41.7346,-96.5057,228,228,393,polygon,TRUE,America/Chicago,68063
+North Bend-NE,1840000566,North Bend,North Bend,NE,North Bend-NE,Nebraska,31053,Dodge,41.4648,-96.783,1238,1238,606,polygon,TRUE,America/Chicago,68649
+Angus-NE,1840033131,Angus,Angus,NE,Angus-NE,Nebraska,31129,Nuckolls,40.2822,-97.9795,,,3.3,point,FALSE,America/Chicago,68961
+Howells-NE,1840011447,Howells,Howells,NE,Howells-NE,Nebraska,31037,Colfax,41.7241,-97.0043,547,547,366,polygon,TRUE,America/Chicago,68641
+Vesta-NE,1840033179,Vesta,Vesta,NE,Vesta-NE,Nebraska,31097,Johnson,40.3564,-96.3375,,,20.7,point,FALSE,America/Chicago,68450
+Henry-NE,1840011392,Henry,Henry,NE,Henry-NE,Nebraska,31157,Scotts Bluff,41.9979,-104.0461,105,105,138,polygon,TRUE,America/Denver,69358
+Whiteclay-NE,1840033182,Whiteclay,Whiteclay,NE,Whiteclay-NE,Nebraska,31161,Sheridan,42.9969,-102.555,,,17.2,polygon,FALSE,America/Denver,69365
+Ceresco-NE,1840010274,Ceresco,Ceresco,NE,Ceresco-NE,Nebraska,31155,Saunders,41.058,-96.6459,889,889,811,polygon,TRUE,America/Chicago,68017
+Kearney-NE,1840000957,Kearney,Kearney,NE,Kearney-NE,Nebraska,31019,Buffalo,40.7008,-99.0839,34065,33520,983,polygon,TRUE,America/Chicago,68847 68845 68849 68848
+Hildreth-NE,1840012265,Hildreth,Hildreth,NE,Hildreth-NE,Nebraska,31061,Franklin,40.3378,-99.0458,344,344,232,polygon,TRUE,America/Chicago,68947
+Exeter-NE,1840012049,Exeter,Exeter,NE,Exeter-NE,Nebraska,31059,Fillmore,40.6445,-97.4492,544,544,331,polygon,TRUE,America/Chicago,68351
+Kimball-NE,1840008252,Kimball,Kimball,NE,Kimball-NE,Nebraska,31105,Kimball,41.2336,-103.6512,2400,2400,447,polygon,TRUE,America/Denver,69145
+Ulysses-NE,1840011629,Ulysses,Ulysses,NE,Ulysses-NE,Nebraska,31023,Butler,41.0722,-97.2029,164,164,314,polygon,TRUE,America/Chicago,68669
+Diller-NE,1840012287,Diller,Diller,NE,Diller-NE,Nebraska,31095,Jefferson,40.1089,-96.9374,256,256,236,polygon,TRUE,America/Chicago,68342
+Plattsmouth-NE,1840009355,Plattsmouth,Plattsmouth,NE,Plattsmouth-NE,Nebraska,31025,Cass,41.0053,-95.8943,6573,6479,805,polygon,TRUE,America/Chicago,68048
+Paul-NE,1840033166,Paul,Paul,NE,Paul-NE,Nebraska,31131,Otoe,40.5953,-95.8967,,,6.9,point,FALSE,America/Chicago,68410
+Walthill-NE,1840011222,Walthill,Walthill,NE,Walthill-NE,Nebraska,31173,Thurston,42.1489,-96.4929,784,784,707,polygon,TRUE,America/Chicago,68067
+Grand Island-NE,1840000956,Grand Island,Grand Island,NE,Grand Island-NE,Nebraska,31079,Hall,40.9214,-98.3585,53556,51517,670,polygon,TRUE,America/Chicago,68803 68801 68802
+Waco-NE,1840011825,Waco,Waco,NE,Waco-NE,Nebraska,31185,York,40.8969,-97.4615,243,243,410,polygon,TRUE,America/Chicago,68460
+Clatonia-NE,1840010435,Clatonia,Clatonia,NE,Clatonia-NE,Nebraska,31067,Gage,40.4652,-96.8512,226,226,314,polygon,TRUE,America/Chicago,68328
+Lushton-NE,1840011822,Lushton,Lushton,NE,Lushton-NE,Nebraska,31185,York,40.724,-97.7237,30,30,81,polygon,TRUE,America/Chicago,68371
+Morse Bluff-NE,1840011637,Morse Bluff,Morse Bluff,NE,Morse Bluff-NE,Nebraska,31155,Saunders,41.431,-96.7665,137,137,298,polygon,TRUE,America/Chicago,68648
+Culbertson-NE,1840012295,Culbertson,Culbertson,NE,Culbertson-NE,Nebraska,31087,Hitchcock,40.2284,-100.8351,578,578,266,polygon,TRUE,America/Chicago,69024
+Lamar-NE,1840012046,Lamar,Lamar,NE,Lamar-NE,Nebraska,31029,Chase,40.5725,-101.9793,23,23,112,polygon,TRUE,America/Denver,69023
+Minatare-NE,1840008140,Minatare,Minatare,NE,Minatare-NE,Nebraska,31157,Scotts Bluff,41.8113,-103.5021,802,802,814,polygon,TRUE,America/Denver,69356
+Champion-NE,1840024286,Champion,Champion,NE,Champion-NE,Nebraska,31029,Chase,40.4706,-101.7469,,,136.1,polygon,FALSE,America/Denver,69023
+Callaway-NE,1840010209,Callaway,Callaway,NE,Callaway-NE,Nebraska,31041,Custer,41.2915,-99.9203,529,529,292,polygon,TRUE,America/Chicago,68825
+Butte-NE,1840010078,Butte,Butte,NE,Butte-NE,Nebraska,31015,Boyd,42.9124,-98.848,308,308,284,polygon,TRUE,America/Chicago,68722
+Ord-NE,1840009254,Ord,Ord,NE,Ord-NE,Nebraska,31175,Valley,41.5991,-98.9151,2078,2078,401,polygon,TRUE,America/Chicago,68862
+Anselmo-NE,1840010210,Anselmo,Anselmo,NE,Anselmo-NE,Nebraska,31041,Custer,41.6186,-99.8645,143,143,207,polygon,TRUE,America/Chicago,68813
+Huntley-NE,1840012299,Huntley,Huntley,NE,Huntley-NE,Nebraska,31083,Harlan,40.2105,-99.2905,44,44,48,polygon,TRUE,America/Chicago,68971
+Weeping Water-NE,1840010325,Weeping Water,Weeping Water,NE,Weeping Water-NE,Nebraska,31025,Cass,40.8691,-96.14,1072,1072,427,polygon,TRUE,America/Chicago,68463
+Arthur-NE,1840011463,Arthur,Arthur,NE,Arthur-NE,Nebraska,31005,Arthur,41.5718,-101.6923,119,119,148,polygon,TRUE,America/Denver,69121
+Archer-NE,1840024167,Archer,Archer,NE,Archer-NE,Nebraska,31121,Merrick,41.1666,-98.1389,,,77.7,polygon,FALSE,America/Chicago,68816
+Spencer-NE,1840011036,Spencer,Spencer,NE,Spencer-NE,Nebraska,31015,Boyd,42.875,-98.7002,426,426,315,polygon,TRUE,America/Chicago,68777
+McGrew-NE,1840011394,McGrew,McGrew,NE,McGrew-NE,Nebraska,31157,Scotts Bluff,41.7478,-103.4178,104,104,111,polygon,TRUE,America/Denver,69334 69353
+Lyons-NE,1840009193,Lyons,Lyons,NE,Lyons-NE,Nebraska,31021,Burt,41.936,-96.4717,814,814,460,polygon,TRUE,America/Chicago,68038
+Haig-NE,1840033148,Haig,Haig,NE,Haig-NE,Nebraska,31157,Scotts Bluff,41.8794,-103.7591,,,15.5,point,FALSE,America/Denver,69357
+Beatrice-NE,1840001352,Beatrice,Beatrice,NE,Beatrice-NE,Nebraska,31067,Gage,40.2738,-96.7455,12308,12362,519,polygon,TRUE,America/Chicago,68310
+Hardy-NE,1840012269,Hardy,Hardy,NE,Hardy-NE,Nebraska,31129,Nuckolls,40.0113,-97.9238,152,152,96,polygon,TRUE,America/Chicago,68943
+Eddyville-NE,1840011827,Eddyville,Eddyville,NE,Eddyville-NE,Nebraska,31047,Dawson,41.0122,-99.624,93,93,130,polygon,TRUE,America/Chicago,68834
+Wood Lake-NE,1840011043,Wood Lake,Wood Lake,NE,Wood Lake-NE,Nebraska,31031,Cherry,42.6386,-100.2376,65,65,79,polygon,TRUE,America/Chicago,69221
+Arabia-NE,1840033187,Arabia,Arabia,NE,Arabia-NE,Nebraska,31031,Cherry,42.7311,-100.3726,,,1.8,point,FALSE,America/Chicago,69221
+Marquette-NE,1840011735,Marquette,Marquette,NE,Marquette-NE,Nebraska,31081,Hamilton,41.0063,-98.0098,232,232,432,polygon,TRUE,America/Chicago,68854
+Pawnee City-NE,1840009454,Pawnee City,Pawnee City,NE,Pawnee City-NE,Nebraska,31133,Pawnee,40.1106,-96.1529,826,826,264,polygon,TRUE,America/Chicago,68420
+Elsie-NE,1840011869,Elsie,Elsie,NE,Elsie-NE,Nebraska,31135,Perkins,40.8471,-101.389,104,104,232,polygon,TRUE,America/Denver,69134
+Orleans-NE,1840012302,Orleans,Orleans,NE,Orleans-NE,Nebraska,31083,Harlan,40.1318,-99.455,385,385,247,polygon,TRUE,America/Chicago,68966
+Deshler-NE,1840007251,Deshler,Deshler,NE,Deshler-NE,Nebraska,31169,Thayer,40.1396,-97.7233,744,744,565,polygon,TRUE,America/Chicago,68340
+Waterbury-NE,1840011100,Waterbury,Waterbury,NE,Waterbury-NE,Nebraska,31051,Dixon,42.4571,-96.7353,70,70,195,polygon,TRUE,America/Chicago,68785
+Lodgepole-NE,1840011641,Lodgepole,Lodgepole,NE,Lodgepole-NE,Nebraska,31033,Cheyenne,41.149,-102.6391,313,313,253,polygon,TRUE,America/Denver,69149
+Inavale-NE,1840024325,Inavale,Inavale,NE,Inavale-NE,Nebraska,31181,Webster,40.0923,-98.6484,,,41,polygon,FALSE,America/Chicago,68952
+Rising City-NE,1840011626,Rising City,Rising City,NE,Rising City-NE,Nebraska,31023,Butler,41.1983,-97.2974,358,358,381,polygon,TRUE,America/Chicago,68658
+Saronville-NE,1840012062,Saronville,Saronville,NE,Saronville-NE,Nebraska,31035,Clay,40.603,-97.9387,45,45,116,polygon,TRUE,America/Chicago,68975
+Louisville-NE,1840009354,Louisville,Louisville,NE,Louisville-NE,Nebraska,31025,Cass,40.9973,-96.1606,1224,1224,833,polygon,TRUE,America/Chicago,68037
+McCook-NE,1840008369,McCook,McCook,NE,McCook-NE,Nebraska,31145,Red Willow,40.2046,-100.6214,7393,7526,538,polygon,TRUE,America/Chicago,69001
+Elba-NE,1840011663,Elba,Elba,NE,Elba-NE,Nebraska,31093,Howard,41.2853,-98.5693,220,220,231,polygon,TRUE,America/Chicago,68835
+Malmo-NE,1840011634,Malmo,Malmo,NE,Malmo-NE,Nebraska,31155,Saunders,41.2664,-96.7209,118,118,334,polygon,TRUE,America/Chicago,68040
+Clarks-NE,1840010286,Clarks,Clarks,NE,Clarks-NE,Nebraska,31121,Merrick,41.2164,-97.8396,353,353,434,polygon,TRUE,America/Chicago,68628
+Columbus-NE,1840003345,Columbus,Columbus,NE,Columbus-NE,Nebraska,31141,Platte,41.436,-97.3559,22846,22851,871,polygon,TRUE,America/Chicago,68601 68602
+Danbury-NE,1840012294,Danbury,Danbury,NE,Danbury-NE,Nebraska,31145,Red Willow,40.0377,-100.4051,97,97,115,polygon,TRUE,America/Chicago,69026
+South Bend-NE,1840011817,South Bend,South Bend,NE,South Bend-NE,Nebraska,31025,Cass,41.0021,-96.2474,99,99,285,polygon,TRUE,America/Chicago,68058
+Tobias-NE,1840012058,Tobias,Tobias,NE,Tobias-NE,Nebraska,31151,Saline,40.4185,-97.3367,107,107,157,polygon,TRUE,America/Chicago,68453
+Nenzel-NE,1840011042,Nenzel,Nenzel,NE,Nenzel-NE,Nebraska,31031,Cherry,42.9274,-101.1018,20,20,24,polygon,TRUE,America/Denver,69219
+Doniphan-NE,1840011826,Doniphan,Doniphan,NE,Doniphan-NE,Nebraska,31079,Hall,40.7742,-98.3708,844,844,641,polygon,TRUE,America/Chicago,68832
+Maywood-NE,1840012033,Maywood,Maywood,NE,Maywood-NE,Nebraska,31063,Frontier,40.6587,-100.6222,248,248,151,polygon,TRUE,America/Chicago,69038
+Memphis-NE,1840011636,Memphis,Memphis,NE,Memphis-NE,Nebraska,31155,Saunders,41.0946,-96.4331,114,114,506,polygon,TRUE,America/Chicago,68042
+Avoca-NE,1840011809,Avoca,Avoca,NE,Avoca-NE,Nebraska,31025,Cass,40.7965,-96.1191,244,244,720,polygon,TRUE,America/Chicago,68307
+Tilden-NE,1840003224,Tilden,Tilden,NE,Tilden-NE,Nebraska,31119,Madison,42.0439,-97.832,933,933,488,polygon,TRUE,America/Chicago,68781
+Hemingford-NE,1840011188,Hemingford,Hemingford,NE,Hemingford-NE,Nebraska,31013,Box Butte,42.3213,-103.0755,796,796,452,polygon,TRUE,America/Denver,69348
+Naponee-NE,1840012267,Naponee,Naponee,NE,Naponee-NE,Nebraska,31061,Franklin,40.0747,-99.1386,100,100,167,polygon,TRUE,America/Chicago,68960
+Rulo-NE,1840012345,Rulo,Rulo,NE,Rulo-NE,Nebraska,31147,Richardson,40.0516,-95.4306,162,162,99,polygon,TRUE,America/Chicago,68431
+West Point-NE,1840003222,West Point,West Point,NE,West Point-NE,Nebraska,31039,Cuming,41.8378,-96.7061,3144,3327,465,polygon,TRUE,America/Chicago,68788
+Wausa-NE,1840011068,Wausa,Wausa,NE,Wausa-NE,Nebraska,31107,Knox,42.4979,-97.5393,607,607,446,polygon,TRUE,America/Chicago,68786
+Bee-NE,1840011837,Bee,Bee,NE,Bee-NE,Nebraska,31159,Seward,41.0064,-97.0583,193,193,298,polygon,TRUE,America/Chicago,68314
+Emerson-NE,1840011096,Emerson,Emerson,NE,Emerson-NE,Nebraska,31051,Dixon,42.2783,-96.7263,804,804,655,polygon,TRUE,America/Chicago,68733
+Taylor-NE,1840011370,Taylor,Taylor,NE,Taylor-NE,Nebraska,31115,Loup,41.7696,-99.3814,180,180,266,polygon,TRUE,America/Chicago,68879
+Byron-NE,1840010472,Byron,Byron,NE,Byron-NE,Nebraska,31169,Thayer,40.0048,-97.7686,81,81,204,polygon,TRUE,America/Chicago,68325
+Genoa-NE,1840000639,Genoa,Genoa,NE,Genoa-NE,Nebraska,31125,Nance,41.4462,-97.7322,954,954,464,polygon,TRUE,America/Chicago,68640
+Upland-NE,1840012268,Upland,Upland,NE,Upland-NE,Nebraska,31061,Franklin,40.3195,-98.9023,136,136,127,polygon,TRUE,America/Chicago,68981
+Creighton-NE,1840002458,Creighton,Creighton,NE,Creighton-NE,Nebraska,31107,Knox,42.4649,-97.9072,1117,1117,356,polygon,TRUE,America/Chicago,68729
+Albion-NE,1840007049,Albion,Albion,NE,Albion-NE,Nebraska,31011,Boone,41.6877,-97.9984,1599,1599,626,polygon,TRUE,America/Chicago,68620
+Leigh-NE,1840011446,Leigh,Leigh,NE,Leigh-NE,Nebraska,31037,Colfax,41.7024,-97.2394,401,401,258,polygon,TRUE,America/Chicago,68643
+Bartley-NE,1840012292,Bartley,Bartley,NE,Bartley-NE,Nebraska,31145,Red Willow,40.2511,-100.3104,273,273,112,polygon,TRUE,America/Chicago,69020
+Lebanon-NE,1840012293,Lebanon,Lebanon,NE,Lebanon-NE,Nebraska,31145,Red Willow,40.0487,-100.276,77,77,184,polygon,TRUE,America/Chicago,69036
+Hershey-NE,1840011649,Hershey,Hershey,NE,Hershey-NE,Nebraska,31111,Lincoln,41.1602,-100.9984,663,663,341,polygon,TRUE,America/Chicago,69143
+Hamlet-NE,1840012044,Hamlet,Hamlet,NE,Hamlet-NE,Nebraska,31085,Hayes,40.3845,-101.2346,53,53,65,polygon,TRUE,America/Chicago,69040 69045
+Julian-NE,1840012147,Julian,Julian,NE,Julian-NE,Nebraska,31127,Nemaha,40.5198,-95.8674,57,57,250,polygon,TRUE,America/Chicago,68379
+Utica-NE,1840011843,Utica,Utica,NE,Utica-NE,Nebraska,31159,Seward,40.8953,-97.3453,851,851,712,polygon,TRUE,America/Chicago,68456
+Denton-NE,1840011847,Denton,Denton,NE,Denton-NE,Nebraska,31109,Lancaster,40.7393,-96.846,205,205,646,polygon,TRUE,America/Chicago,68339
+Scottsbluff-NE,1840009197,Scottsbluff,Scottsbluff,NE,Scottsbluff-NE,Nebraska,31157,Scotts Bluff,41.8676,-103.6618,25678,14883,921,polygon,TRUE,America/Denver,69361 69363
+Thedford-NE,1840011366,Thedford,Thedford,NE,Thedford-NE,Nebraska,31171,Thomas,41.9785,-100.5754,218,218,369,polygon,TRUE,America/Chicago,69166
+Cozad-NE,1840007167,Cozad,Cozad,NE,Cozad-NE,Nebraska,31047,Dawson,40.8612,-99.9863,3696,3805,560,polygon,TRUE,America/Chicago,69130
+Stockville-NE,1840012035,Stockville,Stockville,NE,Stockville-NE,Nebraska,31063,Frontier,40.5336,-100.3845,24,24,35,polygon,TRUE,America/Chicago,69039 69042
+Martinsburg-NE,1840011097,Martinsburg,Martinsburg,NE,Martinsburg-NE,Nebraska,31051,Dixon,42.5082,-96.8314,90,90,333,polygon,TRUE,America/Chicago,68770 68710
+Inman-NE,1840011044,Inman,Inman,NE,Inman-NE,Nebraska,31089,Holt,42.3819,-98.5298,126,126,170,polygon,TRUE,America/Chicago,68742
+Nora-NE,1840012272,Nora,Nora,NE,Nora-NE,Nebraska,31129,Nuckolls,40.1641,-97.9738,20,20,20,polygon,TRUE,America/Chicago,68961
+Bruno-NE,1840010270,Bruno,Bruno,NE,Bruno-NE,Nebraska,31023,Butler,41.2832,-96.9609,95,95,134,polygon,TRUE,America/Chicago,68014
+Milligan-NE,1840012051,Milligan,Milligan,NE,Milligan-NE,Nebraska,31059,Fillmore,40.5005,-97.3883,275,275,444,polygon,TRUE,America/Chicago,68406
+Scribner-NE,1840000567,Scribner,Scribner,NE,Scribner-NE,Nebraska,31053,Dodge,41.665,-96.6653,843,843,509,polygon,TRUE,America/Chicago,68057
+Alda-NE,1840010331,Alda,Alda,NE,Alda-NE,Nebraska,31079,Hall,40.8669,-98.469,650,650,655,polygon,TRUE,America/Chicago,68810
+Waterloo-NE,1840011670,Waterloo,Waterloo,NE,Waterloo-NE,Nebraska,31055,Douglas,41.2856,-96.285,909,909,544,polygon,TRUE,America/Chicago,68069
+Eagle-NE,1840011811,Eagle,Eagle,NE,Eagle-NE,Nebraska,31025,Cass,40.8162,-96.4327,1068,1068,1195,polygon,TRUE,America/Chicago,68347
+Raymond-NE,1840011849,Raymond,Raymond,NE,Raymond-NE,Nebraska,31109,Lancaster,40.9567,-96.7815,184,184,540,polygon,TRUE,America/Chicago,68428
+Winnebago-NE,1840011220,Winnebago,Winnebago,NE,Winnebago-NE,Nebraska,31173,Thurston,42.2361,-96.4721,795,795,1514,polygon,TRUE,America/Chicago,68071
+Gothenburg-NE,1840008284,Gothenburg,Gothenburg,NE,Gothenburg-NE,Nebraska,31047,Dawson,40.924,-100.1539,3418,3475,373,polygon,TRUE,America/Chicago,69138
+Hoskins-NE,1840011214,Hoskins,Hoskins,NE,Hoskins-NE,Nebraska,31179,Wayne,42.1126,-97.3045,288,288,360,polygon,TRUE,America/Chicago,68740
+Swanton-NE,1840012057,Swanton,Swanton,NE,Swanton-NE,Nebraska,31151,Saline,40.3797,-97.0799,95,95,182,polygon,TRUE,America/Chicago,68445
+Riverton-NE,1840012266,Riverton,Riverton,NE,Riverton-NE,Nebraska,31061,Franklin,40.0897,-98.7597,84,84,82,polygon,TRUE,America/Chicago,68972
+Chapman-NE,1840010285,Chapman,Chapman,NE,Chapman-NE,Nebraska,31121,Merrick,41.0232,-98.1594,286,286,247,polygon,TRUE,America/Chicago,68827
+Palisade-NE,1840012296,Palisade,Palisade,NE,Palisade-NE,Nebraska,31087,Hitchcock,40.3483,-101.1075,337,337,366,polygon,TRUE,America/Chicago,69040
+Martin-NE,1840024162,Martin,Martin,NE,Martin-NE,Nebraska,31101,Keith,41.2581,-101.7091,,,8.2,polygon,FALSE,America/Denver,69146
+Wauneta-NE,1840012047,Wauneta,Wauneta,NE,Wauneta-NE,Nebraska,31029,Chase,40.4165,-101.3766,568,568,226,polygon,TRUE,America/Denver,69045
+Hayes Center-NE,1840012045,Hayes Center,Hayes Center,NE,Hayes Center-NE,Nebraska,31085,Hayes,40.511,-101.0204,200,200,286,polygon,TRUE,America/Chicago,69032
+Verdon-NE,1840012349,Verdon,Verdon,NE,Verdon-NE,Nebraska,31147,Richardson,40.1491,-95.7112,165,165,268,polygon,TRUE,America/Chicago,68457
+Anoka-NE,1840010079,Anoka,Anoka,NE,Anoka-NE,Nebraska,31015,Boyd,42.946,-98.8285,6,6,4,polygon,TRUE,America/Chicago,68722
+Crofton-NE,1840002459,Crofton,Crofton,NE,Crofton-NE,Nebraska,31107,Knox,42.7315,-97.4986,689,689,415,polygon,TRUE,America/Chicago,68730
+Belgrade-NE,1840011589,Belgrade,Belgrade,NE,Belgrade-NE,Nebraska,31125,Nance,41.4709,-98.0677,117,117,241,polygon,TRUE,America/Chicago,68623
+Maxwell-NE,1840011650,Maxwell,Maxwell,NE,Maxwell-NE,Nebraska,31111,Lincoln,41.0784,-100.5257,301,301,340,polygon,TRUE,America/Chicago,69151
+Crookston-NE,1840011040,Crookston,Crookston,NE,Crookston-NE,Nebraska,31031,Cherry,42.9263,-100.7534,71,71,63,polygon,TRUE,America/Chicago,69212
+Ong-NE,1840012063,Ong,Ong,NE,Ong-NE,Nebraska,31035,Clay,40.3984,-97.8392,59,59,79,polygon,TRUE,America/Chicago,68452
+Inland-NE,1840024288,Inland,Inland,NE,Inland-NE,Nebraska,31035,Clay,40.5954,-98.2232,,,67.9,polygon,FALSE,America/Chicago,68954
+Manley-NE,1840011813,Manley,Manley,NE,Manley-NE,Nebraska,31025,Cass,40.92,-96.1665,166,166,949,polygon,TRUE,America/Chicago,68403
+Niobrara-NE,1840011064,Niobrara,Niobrara,NE,Niobrara-NE,Nebraska,31107,Knox,42.7499,-98.0317,349,349,185,polygon,TRUE,America/Chicago,68760
+Monroe-NE,1840011454,Monroe,Monroe,NE,Monroe-NE,Nebraska,31141,Platte,41.474,-97.5998,288,288,640,polygon,TRUE,America/Chicago,68647
+Bassett-NE,1840006922,Bassett,Bassett,NE,Bassett-NE,Nebraska,31149,Rock,42.5827,-99.5366,562,562,488,polygon,TRUE,America/Chicago,68714
+Willow Island-NE,1840024236,Willow Island,Willow Island,NE,Willow Island-NE,Nebraska,31047,Dawson,40.89,-100.0707,,,12.1,polygon,FALSE,America/Chicago,69171
+Dunbar-NE,1840011965,Dunbar,Dunbar,NE,Dunbar-NE,Nebraska,31131,Otoe,40.6687,-96.0309,190,190,318,polygon,TRUE,America/Chicago,68346
+Arlington-NE,1840011526,Arlington,Arlington,NE,Arlington-NE,Nebraska,31177,Washington,41.4548,-96.3565,1273,1273,821,polygon,TRUE,America/Chicago,68002
+Weissert-NE,1840033180,Weissert,Weissert,NE,Weissert-NE,Nebraska,31041,Custer,41.4672,-99.4432,,,1.6,point,FALSE,America/Chicago,68814
+Broadwater-NE,1840010163,Broadwater,Broadwater,NE,Broadwater-NE,Nebraska,31123,Morrill,41.5979,-102.8524,123,123,298,polygon,TRUE,America/Denver,69125
+Otoe-NE,1840011966,Otoe,Otoe,NE,Otoe-NE,Nebraska,31131,Otoe,40.7242,-96.1206,173,173,419,polygon,TRUE,America/Chicago,68417
+Paxton-NE,1840011647,Paxton,Paxton,NE,Paxton-NE,Nebraska,31101,Keith,41.1235,-101.3521,495,495,185,polygon,TRUE,America/Denver,69155
+Unadilla-NE,1840011969,Unadilla,Unadilla,NE,Unadilla-NE,Nebraska,31131,Otoe,40.6827,-96.2702,322,322,404,polygon,TRUE,America/Chicago,68454
+Dixon-NE,1840011095,Dixon,Dixon,NE,Dixon-NE,Nebraska,31051,Dixon,42.4153,-96.9948,83,83,211,polygon,TRUE,America/Chicago,68732
+Brunswick-NE,1840010116,Brunswick,Brunswick,NE,Brunswick-NE,Nebraska,31003,Antelope,42.3377,-97.9718,133,133,86,polygon,TRUE,America/Chicago,68720
+Smithfield-NE,1840012043,Smithfield,Smithfield,NE,Smithfield-NE,Nebraska,31073,Gosper,40.5733,-99.7409,51,51,116,polygon,TRUE,America/Chicago,68976
+Ayr-NE,1840012036,Ayr,Ayr,NE,Ayr-NE,Nebraska,31001,Adams,40.4383,-98.4409,94,94,207,polygon,TRUE,America/Chicago,68925
+Deweese-NE,1840012060,Deweese,Deweese,NE,Deweese-NE,Nebraska,31035,Clay,40.3548,-98.1392,63,63,193,polygon,TRUE,America/Chicago,68934
+Ashby-NE,1840033132,Ashby,Ashby,NE,Ashby-NE,Nebraska,31075,Grant,42.0219,-101.9277,,,13.7,point,FALSE,America/Denver,69333
+Stanton-NE,1840009192,Stanton,Stanton,NE,Stanton-NE,Nebraska,31167,Stanton,41.9472,-97.2172,1516,1516,336,polygon,TRUE,America/Chicago,68779
+Elyria-NE,1840011475,Elyria,Elyria,NE,Elyria-NE,Nebraska,31175,Valley,41.6802,-99.0053,50,50,72,polygon,TRUE,America/Chicago,68837
+Madrid-NE,1840011870,Madrid,Madrid,NE,Madrid-NE,Nebraska,31135,Perkins,40.8525,-101.5277,231,231,79,polygon,TRUE,America/Denver,69150
+Preston-NE,1840012344,Preston,Preston,NE,Preston-NE,Nebraska,31147,Richardson,40.0346,-95.5181,27,27,183,polygon,TRUE,America/Chicago,68355
+Sparks-NE,1840033177,Sparks,Sparks,NE,Sparks-NE,Nebraska,31031,Cherry,42.9411,-100.256,,,10.1,point,FALSE,America/Chicago,69220
+Whitney-NE,1840011031,Whitney,Whitney,NE,Whitney-NE,Nebraska,31045,Dawes,42.7839,-103.2569,76,76,185,polygon,TRUE,America/Denver,69367
+Wilsonville-NE,1840012279,Wilsonville,Wilsonville,NE,Wilsonville-NE,Nebraska,31065,Furnas,40.1119,-100.1066,90,90,130,polygon,TRUE,America/Chicago,69046
+Enola-NE,1840033145,Enola,Enola,NE,Enola-NE,Nebraska,31119,Madison,41.9039,-97.4628,,,35.1,point,FALSE,America/Chicago,68701
+Loma-NE,1840033156,Loma,Loma,NE,Loma-NE,Nebraska,31023,Butler,41.1281,-96.942,,,22.3,point,FALSE,America/Chicago,68635
+Wilcox-NE,1840012068,Wilcox,Wilcox,NE,Wilcox-NE,Nebraska,31099,Kearney,40.3641,-99.1694,355,355,254,polygon,TRUE,America/Chicago,68982
+Rogers-NE,1840011449,Rogers,Rogers,NE,Rogers-NE,Nebraska,31037,Colfax,41.4643,-96.9159,93,93,211,polygon,TRUE,America/Chicago,68659
+Stapleton-NE,1840011474,Stapleton,Stapleton,NE,Stapleton-NE,Nebraska,31113,Logan,41.4802,-100.5126,309,309,475,polygon,TRUE,America/Chicago,69163
+Morrill-NE,1840011396,Morrill,Morrill,NE,Morrill-NE,Nebraska,31157,Scotts Bluff,41.9638,-103.9244,915,915,588,polygon,TRUE,America/Denver,69358
+Cowles-NE,1840012263,Cowles,Cowles,NE,Cowles-NE,Nebraska,31181,Webster,40.1714,-98.4491,29,29,20,polygon,TRUE,America/Chicago,68930
+Enders-NE,1840024287,Enders,Enders,NE,Enders-NE,Nebraska,31029,Chase,40.455,-101.5356,,,61.5,polygon,FALSE,America/Denver,69027
+Gordon-NE,1840008019,Gordon,Gordon,NE,Gordon-NE,Nebraska,31161,Sheridan,42.8063,-102.2039,1535,1535,636,polygon,TRUE,America/Denver,69343
+Cotesfield-NE,1840011660,Cotesfield,Cotesfield,NE,Cotesfield-NE,Nebraska,31093,Howard,41.3576,-98.6336,45,45,33,polygon,TRUE,America/Chicago,68835
+Seward-NE,1840009356,Seward,Seward,NE,Seward-NE,Nebraska,31159,Seward,40.9096,-97.0961,6879,7219,652,polygon,TRUE,America/Chicago,68434
+Dwight-NE,1840011624,Dwight,Dwight,NE,Dwight-NE,Nebraska,31023,Butler,41.0827,-97.0191,195,195,306,polygon,TRUE,America/Chicago,68635
+Swedeburg-NE,1840033199,Swedeburg,Swedeburg,NE,Swedeburg-NE,Nebraska,31155,Saunders,41.1361,-96.6247,,,58.2,point,FALSE,America/Chicago,68066
+Cairo-NE,1840010330,Cairo,Cairo,NE,Cairo-NE,Nebraska,31079,Hall,41.0054,-98.6023,804,804,405,polygon,TRUE,America/Chicago,68824
+Holbrook-NE,1840012276,Holbrook,Holbrook,NE,Holbrook-NE,Nebraska,31065,Furnas,40.3047,-100.0099,199,199,476,polygon,TRUE,America/Chicago,68948
+Potter-NE,1840011643,Potter,Potter,NE,Potter-NE,Nebraska,31033,Cheyenne,41.2184,-103.3136,326,326,272,polygon,TRUE,America/Denver,69156
+Bancroft-NE,1840011360,Bancroft,Bancroft,NE,Bancroft-NE,Nebraska,31039,Cuming,42.0104,-96.5733,475,475,500,polygon,TRUE,America/Chicago,68004
+Giltner-NE,1840011734,Giltner,Giltner,NE,Giltner-NE,Nebraska,31081,Hamilton,40.7749,-98.1534,347,347,345,polygon,TRUE,America/Chicago,68841
+Wilber-NE,1840010390,Wilber,Wilber,NE,Wilber-NE,Nebraska,31151,Saline,40.4809,-96.9646,1891,1891,810,polygon,TRUE,America/Chicago,68465
+Hickman-NE,1840007168,Hickman,Hickman,NE,Hickman-NE,Nebraska,31109,Lancaster,40.624,-96.6309,2139,2139,1152,polygon,TRUE,America/Chicago,68372
+Polk-NE,1840011654,Polk,Polk,NE,Polk-NE,Nebraska,31143,Polk,41.0755,-97.7835,303,303,239,polygon,TRUE,America/Chicago,68654
+Gretna-NE,1840007143,Gretna,Gretna,NE,Gretna-NE,Nebraska,31153,Sarpy,41.1313,-96.245,5060,5060,831,polygon,TRUE,America/Chicago,68028
+Duncan-NE,1840011453,Duncan,Duncan,NE,Duncan-NE,Nebraska,31141,Platte,41.3901,-97.4934,365,365,339,polygon,TRUE,America/Chicago,68634
+Bertrand-NE,1840012076,Bertrand,Bertrand,NE,Bertrand-NE,Nebraska,31137,Phelps,40.5263,-99.6324,734,734,511,polygon,TRUE,America/Chicago,68927
+Washington-NE,1840011529,Washington,Washington,NE,Washington-NE,Nebraska,31177,Washington,41.3976,-96.2074,151,151,284,polygon,TRUE,America/Chicago,68068 68007
+Talmage-NE,1840011968,Talmage,Talmage,NE,Talmage-NE,Nebraska,31131,Otoe,40.5315,-96.0239,240,240,565,polygon,TRUE,America/Chicago,68448
+Snyder-NE,1840011461,Snyder,Snyder,NE,Snyder-NE,Nebraska,31053,Dodge,41.7046,-96.7868,298,298,240,polygon,TRUE,America/Chicago,68664 68057
+Lewellen-NE,1840011391,Lewellen,Lewellen,NE,Lewellen-NE,Nebraska,31069,Garden,41.3306,-102.1437,211,211,220,polygon,TRUE,America/Denver,69147
+Liberty-NE,1840012161,Liberty,Liberty,NE,Liberty-NE,Nebraska,31067,Gage,40.0854,-96.4829,75,75,117,polygon,TRUE,America/Chicago,68381
+Petersburg-NE,1840011425,Petersburg,Petersburg,NE,Petersburg-NE,Nebraska,31011,Boone,41.8536,-98.0811,325,325,335,polygon,TRUE,America/Chicago,68652
+Peru-NE,1840009427,Peru,Peru,NE,Peru-NE,Nebraska,31127,Nemaha,40.4786,-95.7313,782,782,574,polygon,TRUE,America/Chicago,68421
+Steinauer-NE,1840012340,Steinauer,Steinauer,NE,Steinauer-NE,Nebraska,31133,Pawnee,40.2073,-96.2329,71,71,203,polygon,TRUE,America/Chicago,68441
+Alma-NE,1840001384,Alma,Alma,NE,Alma-NE,Nebraska,31083,Harlan,40.1012,-99.3655,1153,1153,526,polygon,TRUE,America/Chicago,68920
+Scotia-NE,1840011465,Scotia,Scotia,NE,Scotia-NE,Nebraska,31077,Greeley,41.4678,-98.7025,294,294,327,polygon,TRUE,America/Chicago,68875
+Broken Bow-NE,1840003347,Broken Bow,Broken Bow,NE,Broken Bow-NE,Nebraska,31041,Custer,41.4052,-99.6401,3516,3539,699,polygon,TRUE,America/Chicago,68822
+Gering-NE,1840008139,Gering,Gering,NE,Gering-NE,Nebraska,31157,Scotts Bluff,41.8275,-103.6649,8360,8360,750,polygon,TRUE,America/Denver,69341
+Gandy-NE,1840011473,Gandy,Gandy,NE,Gandy-NE,Nebraska,31113,Logan,41.4698,-100.4583,32,32,50,polygon,TRUE,America/Chicago,69163
+Cook-NE,1840012167,Cook,Cook,NE,Cook-NE,Nebraska,31097,Johnson,40.5105,-96.1617,316,316,705,polygon,TRUE,America/Chicago,68329
+Bostwick-NE,1840033137,Bostwick,Bostwick,NE,Bostwick-NE,Nebraska,31129,Nuckolls,40.0483,-98.1842,,,5.4,point,FALSE,America/Chicago,68978
+Richfield-NE,1840024199,Richfield,Richfield,NE,Richfield-NE,Nebraska,31153,Sarpy,41.1108,-96.0763,,,23,polygon,FALSE,America/Chicago,68046 68059
+Creston-NE,1840011452,Creston,Creston,NE,Creston-NE,Nebraska,31141,Platte,41.7081,-97.3625,203,203,378,polygon,TRUE,America/Chicago,68631
+Beemer-NE,1840011361,Beemer,Beemer,NE,Beemer-NE,Nebraska,31039,Cuming,41.93,-96.8093,664,664,640,polygon,TRUE,America/Chicago,68716
+Guide Rock-NE,1840012262,Guide Rock,Guide Rock,NE,Guide Rock-NE,Nebraska,31181,Webster,40.0737,-98.3287,207,207,159,polygon,TRUE,America/Chicago,68942
+North Platte-NE,1840008251,North Platte,North Platte,NE,North Platte-NE,Nebraska,31111,Lincoln,41.1266,-100.764,24578,24110,703,polygon,TRUE,America/Chicago,69101 69103
+Alvo-NE,1840010327,Alvo,Alvo,NE,Alvo-NE,Nebraska,31025,Cass,40.8723,-96.3865,132,132,509,polygon,TRUE,America/Chicago,68304
+Agnew-NE,1840033128,Agnew,Agnew,NE,Agnew-NE,Nebraska,31109,Lancaster,41.0169,-96.8147,,,26.9,point,FALSE,America/Chicago,68428
+Springview-NE,1840011037,Springview,Springview,NE,Springview-NE,Nebraska,31103,Keya Paha,42.8249,-99.7475,232,232,134,polygon,TRUE,America/Chicago,68778
+Carleton-NE,1840010473,Carleton,Carleton,NE,Carleton-NE,Nebraska,31169,Thayer,40.3033,-97.6816,88,88,37,polygon,TRUE,America/Chicago,68326
+Cambridge-NE,1840007247,Cambridge,Cambridge,NE,Cambridge-NE,Nebraska,31065,Furnas,40.2843,-100.1653,1038,1038,299,polygon,TRUE,America/Chicago,69022
+Clinton-NE,1840011030,Clinton,Clinton,NE,Clinton-NE,Nebraska,31161,Sheridan,42.7597,-102.348,40,40,164,polygon,TRUE,America/Denver,69343
+Lemoyne-NE,1840024161,Lemoyne,Lemoyne,NE,Lemoyne-NE,Nebraska,31101,Keith,41.2766,-101.8133,,,67.2,polygon,FALSE,America/Denver,69146
+Winnetoon-NE,1840011065,Winnetoon,Winnetoon,NE,Winnetoon-NE,Nebraska,31107,Knox,42.5135,-97.9601,66,66,87,polygon,TRUE,America/Chicago,68789
+Indianola-NE,1840008370,Indianola,Indianola,NE,Indianola-NE,Nebraska,31145,Red Willow,40.2346,-100.4198,553,553,171,polygon,TRUE,America/Chicago,69034
+Valparaiso-NE,1840011638,Valparaiso,Valparaiso,NE,Valparaiso-NE,Nebraska,31155,Saunders,41.0798,-96.833,547,547,374,polygon,TRUE,America/Chicago,68065
+Fairbury-NE,1840008368,Fairbury,Fairbury,NE,Fairbury-NE,Nebraska,31095,Jefferson,40.1438,-97.1765,3685,3714,597,polygon,TRUE,America/Chicago,68352
+Brock-NE,1840010432,Brock,Brock,NE,Brock-NE,Nebraska,31127,Nemaha,40.4805,-95.96,107,107,131,polygon,TRUE,America/Chicago,68320
+Springfield-NE,1840009327,Springfield,Springfield,NE,Springfield-NE,Nebraska,31153,Sarpy,41.0854,-96.1332,1604,1604,835,polygon,TRUE,America/Chicago,68059
+Sprague-NE,1840011853,Sprague,Sprague,NE,Sprague-NE,Nebraska,31109,Lancaster,40.6266,-96.7445,145,145,549,polygon,TRUE,America/Chicago,68438
+Royal-NE,1840011189,Royal,Royal,NE,Royal-NE,Nebraska,31003,Antelope,42.3331,-98.1251,60,60,163,polygon,TRUE,America/Chicago,68773
+Hubbell-NE,1840012281,Hubbell,Hubbell,NE,Hubbell-NE,Nebraska,31169,Thayer,40.0088,-97.4966,66,66,74,polygon,TRUE,America/Chicago,68375
+Jackson-NE,1840011101,Jackson,Jackson,NE,Jackson-NE,Nebraska,31043,Dakota,42.4507,-96.579,214,214,183,polygon,TRUE,America/Chicago,68743
+Cornlea-NE,1840011451,Cornlea,Cornlea,NE,Cornlea-NE,Nebraska,31141,Platte,41.68,-97.5669,36,36,150,polygon,TRUE,America/Chicago,68642
+Aten-NE,1840024090,Aten,Aten,NE,Aten-NE,Nebraska,31027,Cedar,42.8368,-97.4408,,,16.9,polygon,FALSE,America/Chicago,68730
+Palmer-NE,1840011657,Palmer,Palmer,NE,Palmer-NE,Nebraska,31121,Merrick,41.2224,-98.2597,474,474,343,polygon,TRUE,America/Chicago,68864
+Heartwell-NE,1840012066,Heartwell,Heartwell,NE,Heartwell-NE,Nebraska,31099,Kearney,40.5699,-98.7891,70,70,372,polygon,TRUE,America/Chicago,68945
+Lisco-NE,1840033155,Lisco,Lisco,NE,Lisco-NE,Nebraska,31069,Garden,41.4987,-102.6237,,,86.7,polygon,FALSE,America/Denver,69148
+Emmet-NE,1840011045,Emmet,Emmet,NE,Emmet-NE,Nebraska,31089,Holt,42.4757,-98.8093,47,47,70,polygon,TRUE,America/Chicago,68734
+Republican City-NE,1840012301,Republican City,Republican City,NE,Republican City-NE,Nebraska,31083,Harlan,40.0987,-99.2223,155,155,183,polygon,TRUE,America/Chicago,68971
+Nemaha-NE,1840012148,Nemaha,Nemaha,NE,Nemaha-NE,Nebraska,31127,Nemaha,40.3388,-95.676,143,143,182,polygon,TRUE,America/Chicago,68414
+Clarkson-NE,1840007085,Clarkson,Clarkson,NE,Clarkson-NE,Nebraska,31037,Colfax,41.7234,-97.1215,623,623,303,polygon,TRUE,America/Chicago,68629
+Litchfield-NE,1840011666,Litchfield,Litchfield,NE,Litchfield-NE,Nebraska,31163,Sherman,41.1562,-99.1532,255,255,323,polygon,TRUE,America/Chicago,68852
+Crab Orchard-NE,1840012168,Crab Orchard,Crab Orchard,NE,Crab Orchard-NE,Nebraska,31097,Johnson,40.3347,-96.4224,37,37,89,polygon,TRUE,America/Chicago,68332
+Prosser-NE,1840012040,Prosser,Prosser,NE,Prosser-NE,Nebraska,31001,Adams,40.6873,-98.578,71,71,110,polygon,TRUE,America/Chicago,68883
+Humphrey-NE,1840007086,Humphrey,Humphrey,NE,Humphrey-NE,Nebraska,31141,Platte,41.6883,-97.4852,794,794,618,polygon,TRUE,America/Chicago,68642
+Hastings-NE,1840001130,Hastings,Hastings,NE,Hastings-NE,Nebraska,31001,Adams,40.5962,-98.3926,24393,24991,684,polygon,TRUE,America/Chicago,68901 68902
+Ansley-NE,1840010211,Ansley,Ansley,NE,Ansley-NE,Nebraska,31041,Custer,41.2879,-99.3824,424,424,276,polygon,TRUE,America/Chicago,68814
+Concord-NE,1840011094,Concord,Concord,NE,Concord-NE,Nebraska,31051,Dixon,42.3838,-96.989,159,159,464,polygon,TRUE,America/Chicago,68728
+Craig-NE,1840011389,Craig,Craig,NE,Craig-NE,Nebraska,31021,Burt,41.7852,-96.3624,190,190,257,polygon,TRUE,America/Chicago,68019
+Kramer-NE,1840033152,Kramer,Kramer,NE,Kramer-NE,Nebraska,31109,Lancaster,40.5883,-96.8753,,,11.2,point,FALSE,America/Chicago,68333
+Carroll-NE,1840010122,Carroll,Carroll,NE,Carroll-NE,Nebraska,31179,Wayne,42.2758,-97.1909,222,222,562,polygon,TRUE,America/Chicago,68723
+Schuyler-NE,1840009252,Schuyler,Schuyler,NE,Schuyler-NE,Nebraska,31037,Colfax,41.4496,-97.062,6149,6106,872,polygon,TRUE,America/Chicago,68661
+Auburn-NE,1840007232,Auburn,Auburn,NE,Auburn-NE,Nebraska,31127,Nemaha,40.3894,-95.8436,3312,3299,584,polygon,TRUE,America/Chicago,68305
+Coleridge-NE,1840011070,Coleridge,Coleridge,NE,Coleridge-NE,Nebraska,31027,Cedar,42.5065,-97.2029,462,462,348,polygon,TRUE,America/Chicago,68727
+Burton-NE,1840010080,Burton,Burton,NE,Burton-NE,Nebraska,31103,Keya Paha,42.9118,-99.5919,10,10,36,polygon,TRUE,America/Chicago,68778
+Maskell-NE,1840011098,Maskell,Maskell,NE,Maskell-NE,Nebraska,31051,Dixon,42.6904,-96.9807,73,73,179,polygon,TRUE,America/Chicago,68751
+Venango-NE,1840011871,Venango,Venango,NE,Venango-NE,Nebraska,31135,Perkins,40.7637,-102.0441,165,165,84,polygon,TRUE,America/Denver,69168
+Sutherland-NE,1840011651,Sutherland,Sutherland,NE,Sutherland-NE,Nebraska,31111,Lincoln,41.1601,-101.1228,1343,1343,398,polygon,TRUE,America/Chicago,69165 69143
+Ragan-NE,1840012300,Ragan,Ragan,NE,Ragan-NE,Nebraska,31083,Harlan,40.3108,-99.2896,39,39,59,polygon,TRUE,America/Chicago,68969
+Cody-NE,1840011039,Cody,Cody,NE,Cody-NE,Nebraska,31031,Cherry,42.9377,-101.2489,157,157,58,polygon,TRUE,America/Denver,69211
+Sarben-NE,1840024164,Sarben,Sarben,NE,Sarben-NE,Nebraska,31101,Keith,41.1662,-101.3043,,,32.2,polygon,FALSE,America/Denver,69155
+Lincoln-NE,1840009357,Lincoln,Lincoln,NE,Lincoln-NE,Nebraska,31109,Lancaster,40.8102,-96.6808,280741,280364,1183,polygon,TRUE,America/Chicago,68528 68524 68526 68520 68521 68522 68516 68510 68512 68506 68507 68504 68505 68502 68503 68508 68501 68509 68529 68542 68544 68583 68588
+Douglas-NE,1840011964,Douglas,Douglas,NE,Douglas-NE,Nebraska,31131,Otoe,40.5932,-96.3882,175,175,307,polygon,TRUE,America/Chicago,68344
+Valley-NE,1840010287,Valley,Valley,NE,Valley-NE,Nebraska,31055,Douglas,41.3175,-96.3481,2172,2172,235,polygon,TRUE,America/Chicago,68064
+Crawford-NE,1840006892,Crawford,Crawford,NE,Crawford-NE,Nebraska,31045,Dawes,42.6845,-103.416,961,961,315,polygon,TRUE,America/Denver,69339
+Murdock-NE,1840011814,Murdock,Murdock,NE,Murdock-NE,Nebraska,31025,Cass,40.926,-96.2812,240,240,717,polygon,TRUE,America/Chicago,68407
+Odessa-NE,1840025537,Odessa,Odessa,NE,Odessa-NE,Nebraska,31019,Buffalo,40.699,-99.2544,,,99.9,polygon,FALSE,America/Chicago,68845 68861 68836
+Fairmont-NE,1840012050,Fairmont,Fairmont,NE,Fairmont-NE,Nebraska,31059,Fillmore,40.6331,-97.5878,564,564,267,polygon,TRUE,America/Chicago,68354
+Kennard-NE,1840011527,Kennard,Kennard,NE,Kennard-NE,Nebraska,31177,Washington,41.4747,-96.2037,363,363,471,polygon,TRUE,America/Chicago,68034
+Linwood-NE,1840011623,Linwood,Linwood,NE,Linwood-NE,Nebraska,31023,Butler,41.4122,-96.9322,84,84,87,polygon,TRUE,America/Chicago,68036
+Grafton-NE,1840012048,Grafton,Grafton,NE,Grafton-NE,Nebraska,31059,Fillmore,40.6298,-97.7147,122,122,135,polygon,TRUE,America/Chicago,68365
+Virginia-NE,1840012166,Virginia,Virginia,NE,Virginia-NE,Nebraska,31067,Gage,40.2459,-96.4988,59,59,230,polygon,TRUE,America/Chicago,68458
+Rockville-NE,1840011668,Rockville,Rockville,NE,Rockville-NE,Nebraska,31163,Sherman,41.1184,-98.831,103,103,178,polygon,TRUE,America/Chicago,68871
+Comstock-NE,1840011469,Comstock,Comstock,NE,Comstock-NE,Nebraska,31041,Custer,41.5572,-99.243,92,92,101,polygon,TRUE,America/Chicago,68828
+Decatur-NE,1840011390,Decatur,Decatur,NE,Decatur-NE,Nebraska,31021,Burt,42.0058,-96.2497,465,465,175,polygon,TRUE,America/Chicago,68020
+Pierce-NE,1840009135,Pierce,Pierce,NE,Pierce-NE,Nebraska,31139,Pierce,42.1991,-97.5285,1739,1739,741,polygon,TRUE,America/Chicago,68767
+Fordyce-NE,1840011071,Fordyce,Fordyce,NE,Fordyce-NE,Nebraska,31027,Cedar,42.6983,-97.3628,137,137,363,polygon,TRUE,America/Chicago,68736
+Boys Town-NE,1840011669,Boys Town,Boys Town,NE,Boys Town-NE,Nebraska,31055,Douglas,41.256,-96.1336,619,619,181,polygon,TRUE,America/Chicago,68010
+Pilger-NE,1840011363,Pilger,Pilger,NE,Pilger-NE,Nebraska,31167,Stanton,42.0077,-97.0546,360,360,471,polygon,TRUE,America/Chicago,68768
+Magnet-NE,1840011073,Magnet,Magnet,NE,Magnet-NE,Nebraska,31027,Cedar,42.4555,-97.4698,56,56,145,polygon,TRUE,America/Chicago,68749
+Octavia-NE,1840011627,Octavia,Octavia,NE,Octavia-NE,Nebraska,31023,Butler,41.3475,-97.0591,122,122,294,polygon,TRUE,America/Chicago,68632
+Hadar-NE,1840011185,Hadar,Hadar,NE,Hadar-NE,Nebraska,31139,Pierce,42.1072,-97.451,302,302,294,polygon,TRUE,America/Chicago,68701 68738
+Phillips-NE,1840011736,Phillips,Phillips,NE,Phillips-NE,Nebraska,31081,Hamilton,40.8979,-98.2141,289,289,380,polygon,TRUE,America/Chicago,68865
+Mead-NE,1840011635,Mead,Mead,NE,Mead-NE,Nebraska,31155,Saunders,41.2135,-96.4824,551,551,349,polygon,TRUE,America/Chicago,68041 68003
+Boone-NE,1840033136,Boone,Boone,NE,Boone-NE,Nebraska,31011,Boone,41.6264,-97.9176,,,10.7,point,FALSE,America/Chicago,68620
+Ainsworth-NE,1840006919,Ainsworth,Ainsworth,NE,Ainsworth-NE,Nebraska,31017,Brown,42.5484,-99.8575,1635,1635,630,polygon,TRUE,America/Chicago,69210
+Barada-NE,1840012342,Barada,Barada,NE,Barada-NE,Nebraska,31147,Richardson,40.2183,-95.5778,23,23,98,polygon,TRUE,America/Chicago,68355
+Elm Creek-NE,1840011831,Elm Creek,Elm Creek,NE,Elm Creek-NE,Nebraska,31019,Buffalo,40.7201,-99.3755,960,960,532,polygon,TRUE,America/Chicago,68836
+Hordville-NE,1840011733,Hordville,Hordville,NE,Hordville-NE,Nebraska,31081,Hamilton,41.0793,-97.8905,146,146,210,polygon,TRUE,America/Chicago,68846
+Lindsay-NE,1840011450,Lindsay,Lindsay,NE,Lindsay-NE,Nebraska,31141,Platte,41.7005,-97.6942,254,254,287,polygon,TRUE,America/Chicago,68644
+Trenton-NE,1840012298,Trenton,Trenton,NE,Trenton-NE,Nebraska,31087,Hitchcock,40.1746,-101.0136,553,553,369,polygon,TRUE,America/Chicago,69044
+Du Bois-NE,1840012339,Du Bois,Du Bois,NE,Du Bois-NE,Nebraska,31133,Pawnee,40.0346,-96.0466,143,143,121,polygon,TRUE,America/Chicago,68345
+Mason City-NE,1840011470,Mason City,Mason City,NE,Mason City-NE,Nebraska,31041,Custer,41.2222,-99.2988,170,170,138,polygon,TRUE,America/Chicago,68855
+Lakeside-NE,1840033154,Lakeside,Lakeside,NE,Lakeside-NE,Nebraska,31161,Sheridan,42.0558,-102.4249,,,9.6,point,FALSE,America/Denver,69351
+Prague-NE,1840011633,Prague,Prague,NE,Prague-NE,Nebraska,31155,Saunders,41.3097,-96.808,309,309,391,polygon,TRUE,America/Chicago,68050
+Sweetwater-NE,1840033200,Sweetwater,Sweetwater,NE,Sweetwater-NE,Nebraska,31019,Buffalo,41.0445,-99.0076,,,2.8,point,FALSE,America/Chicago,68844
+Wann-NE,1840024155,Wann,Wann,NE,Wann-NE,Nebraska,31155,Saunders,41.1393,-96.3632,,,41,polygon,FALSE,America/Chicago,68003
+Boelus-NE,1840033135,Boelus,Boelus,NE,Boelus-NE,Nebraska,31093,Howard,41.0739,-98.7156,,,100.2,point,TRUE,America/Chicago,68820
+Thayer-NE,1840011824,Thayer,Thayer,NE,Thayer-NE,Nebraska,31185,York,40.9704,-97.4966,62,62,82,polygon,TRUE,America/Chicago,68460
+Menominee-NE,1840033162,Menominee,Menominee,NE,Menominee-NE,Nebraska,31027,Cedar,42.7869,-97.3745,,,38,point,FALSE,America/Chicago,68736
+Reynolds-NE,1840012290,Reynolds,Reynolds,NE,Reynolds-NE,Nebraska,31095,Jefferson,40.0598,-97.3359,66,66,101,polygon,TRUE,America/Chicago,68352
+Ellsworth-NE,1840033144,Ellsworth,Ellsworth,NE,Ellsworth-NE,Nebraska,31161,Sheridan,42.0586,-102.2807,,,9.9,point,FALSE,America/Denver,69340
+Lewiston-NE,1840012338,Lewiston,Lewiston,NE,Lewiston-NE,Nebraska,31133,Pawnee,40.243,-96.4073,64,64,238,polygon,TRUE,America/Chicago,68380
+Loomis-NE,1840012077,Loomis,Loomis,NE,Loomis-NE,Nebraska,31137,Phelps,40.4783,-99.5078,389,389,455,polygon,TRUE,America/Chicago,68958
+Bow Valley-NE,1840024091,Bow Valley,Bow Valley,NE,Bow Valley-NE,Nebraska,31027,Cedar,42.7154,-97.2522,,,42.5,polygon,FALSE,America/Chicago,68739
+Hay Springs-NE,1840011029,Hay Springs,Hay Springs,NE,Hay Springs-NE,Nebraska,31161,Sheridan,42.6833,-102.6896,551,551,565,polygon,TRUE,America/Denver,69347
+Union-NE,1840011818,Union,Union,NE,Union-NE,Nebraska,31025,Cass,40.8143,-95.9215,235,235,436,polygon,TRUE,America/Chicago,68455
+King Lake-NE,1840024169,King Lake,King Lake,NE,King Lake-NE,Nebraska,31055,Douglas,41.3135,-96.3017,,,68.3,polygon,FALSE,America/Chicago,68064
+Gilead-NE,1840012283,Gilead,Gilead,NE,Gilead-NE,Nebraska,31169,Thayer,40.1461,-97.4151,38,38,212,polygon,TRUE,America/Chicago,68362
+Beaver City-NE,1840007249,Beaver City,Beaver City,NE,Beaver City-NE,Nebraska,31065,Furnas,40.1383,-99.8276,580,580,226,polygon,TRUE,America/Chicago,68926
+Powell-NE,1840033168,Powell,Powell,NE,Powell-NE,Nebraska,31095,Jefferson,40.2208,-97.2848,,,3.4,point,FALSE,America/Chicago,68352
+Henderson-NE,1840007166,Henderson,Henderson,NE,Henderson-NE,Nebraska,31185,York,40.7795,-97.8114,995,995,685,polygon,TRUE,America/Chicago,68371
+Terrytown-NE,1840011397,Terrytown,Terrytown,NE,Terrytown-NE,Nebraska,31157,Scotts Bluff,41.8464,-103.6709,1177,1177,961,polygon,TRUE,America/Denver,69341
+Lyman-NE,1840011393,Lyman,Lyman,NE,Lyman-NE,Nebraska,31157,Scotts Bluff,41.9176,-104.0373,328,328,320,polygon,TRUE,America/Denver,69352
+Platte Center-NE,1840011455,Platte Center,Platte Center,NE,Platte Center-NE,Nebraska,31141,Platte,41.5374,-97.4886,338,338,435,polygon,TRUE,America/Chicago,68653
+Pickrell-NE,1840012165,Pickrell,Pickrell,NE,Pickrell-NE,Nebraska,31067,Gage,40.3782,-96.7291,195,195,700,polygon,TRUE,America/Chicago,68422
+Big Springs-NE,1840011731,Big Springs,Big Springs,NE,Big Springs-NE,Nebraska,31049,Deuel,41.0609,-102.0744,382,382,332,polygon,TRUE,America/Denver,69122
+Walton-NE,1840024239,Walton,Walton,NE,Walton-NE,Nebraska,31109,Lancaster,40.796,-96.5657,,,68.5,polygon,FALSE,America/Chicago,68520 68461
+Wolbach-NE,1840011464,Wolbach,Wolbach,NE,Wolbach-NE,Nebraska,31077,Greeley,41.4013,-98.394,259,259,145,polygon,TRUE,America/Chicago,68882
+Tamora-NE,1840024238,Tamora,Tamora,NE,Tamora-NE,Nebraska,31159,Seward,40.8945,-97.2252,,,34.6,polygon,FALSE,America/Chicago,68434
+York-NE,1840010328,York,York,NE,York-NE,Nebraska,31185,York,40.8708,-97.5947,7724,7860,501,polygon,TRUE,America/Chicago,68467
+Homer-NE,1840011102,Homer,Homer,NE,Homer-NE,Nebraska,31043,Dakota,42.3225,-96.4912,532,532,554,polygon,TRUE,America/Chicago,68030
+Wisner-NE,1840003223,Wisner,Wisner,NE,Wisner-NE,Nebraska,31039,Cuming,41.9881,-96.9142,1174,1174,439,polygon,TRUE,America/Chicago,68791
+Table Rock-NE,1840012341,Table Rock,Table Rock,NE,Table Rock-NE,Nebraska,31133,Pawnee,40.1783,-96.0888,260,260,171,polygon,TRUE,America/Chicago,68447
+Verdel-NE,1840011066,Verdel,Verdel,NE,Verdel-NE,Nebraska,31107,Knox,42.8114,-98.1933,30,30,67,polygon,TRUE,America/Chicago,68760
+Dannebrog-NE,1840011662,Dannebrog,Dannebrog,NE,Dannebrog-NE,Nebraska,31093,Howard,41.1185,-98.5456,301,301,318,polygon,TRUE,America/Chicago,68831
+Lexington-NE,1840008285,Lexington,Lexington,NE,Lexington-NE,Nebraska,31047,Dawson,40.778,-99.7462,10232,10004,858,polygon,TRUE,America/Chicago,68850
+Stella-NE,1840012348,Stella,Stella,NE,Stella-NE,Nebraska,31147,Richardson,40.2323,-95.7736,146,146,318,polygon,TRUE,America/Chicago,68442
+Cedar Rapids-NE,1840010176,Cedar Rapids,Cedar Rapids,NE,Cedar Rapids-NE,Nebraska,31011,Boone,41.5589,-98.1493,369,369,397,polygon,TRUE,America/Chicago,68627
+Newport-NE,1840011077,Newport,Newport,NE,Newport-NE,Nebraska,31149,Rock,42.6002,-99.3283,89,89,108,polygon,TRUE,America/Chicago,68759
+Hooper-NE,1840007087,Hooper,Hooper,NE,Hooper-NE,Nebraska,31053,Dodge,41.6117,-96.5486,834,834,495,polygon,TRUE,America/Chicago,68031
+Holstein-NE,1840012039,Holstein,Holstein,NE,Holstein-NE,Nebraska,31001,Adams,40.4649,-98.6509,230,230,394,polygon,TRUE,America/Chicago,68950
+Keene-NE,1840033192,Keene,Keene,NE,Keene-NE,Nebraska,31099,Kearney,40.4253,-99.0659,,,1.4,point,FALSE,America/Chicago,68924
+Endicott-NE,1840012288,Endicott,Endicott,NE,Endicott-NE,Nebraska,31095,Jefferson,40.0814,-97.0954,126,126,106,polygon,TRUE,America/Chicago,68350
+Alliance-NE,1840006975,Alliance,Alliance,NE,Alliance-NE,Nebraska,31013,Box Butte,42.1021,-102.8768,8397,8403,647,polygon,TRUE,America/Denver,69301
+Humboldt-NE,1840007256,Humboldt,Humboldt,NE,Humboldt-NE,Nebraska,31147,Richardson,40.1659,-95.9443,838,838,242,polygon,TRUE,America/Chicago,68376
+Pauline-NE,1840033167,Pauline,Pauline,NE,Pauline-NE,Nebraska,31001,Adams,40.4164,-98.3456,,,22.4,point,FALSE,America/Chicago,68941
+Carlson-NE,1840033188,Carlson,Carlson,NE,Carlson-NE,Nebraska,31157,Scotts Bluff,41.873,-103.5149,,,13.1,point,FALSE,America/Denver,69356
+Hendley-NE,1840012275,Hendley,Hendley,NE,Hendley-NE,Nebraska,31065,Furnas,40.1313,-99.9711,23,23,41,polygon,TRUE,America/Chicago,68926 68946
+Dunning-NE,1840011369,Dunning,Dunning,NE,Dunning-NE,Nebraska,31009,Blaine,41.8271,-100.1046,106,106,179,polygon,TRUE,America/Chicago,68833
+Marion-NE,1840033159,Marion,Marion,NE,Marion-NE,Nebraska,31145,Red Willow,40.0158,-100.4804,,,3.2,point,FALSE,America/Chicago,69026
+Gurley-NE,1840011640,Gurley,Gurley,NE,Gurley-NE,Nebraska,31033,Cheyenne,41.3215,-102.9745,211,211,436,polygon,TRUE,America/Denver,69141
+Bradshaw-NE,1840011820,Bradshaw,Bradshaw,NE,Bradshaw-NE,Nebraska,31185,York,40.8835,-97.747,270,270,313,polygon,TRUE,America/Chicago,68319
+Tryon-NE,1840024136,Tryon,Tryon,NE,Tryon-NE,Nebraska,31117,McPherson,41.5584,-100.9536,,,103.6,polygon,FALSE,America/Chicago,69167
+Dalton-NE,1840011642,Dalton,Dalton,NE,Dalton-NE,Nebraska,31033,Cheyenne,41.4083,-102.9709,311,311,349,polygon,TRUE,America/Denver,69131
+Allen-NE,1840010093,Allen,Allen,NE,Allen-NE,Nebraska,31051,Dixon,42.4144,-96.8432,362,362,375,polygon,TRUE,America/Chicago,68710
+Halsey-NE,1840011364,Halsey,Halsey,NE,Halsey-NE,Nebraska,31171,Thomas,41.9033,-100.2698,81,81,158,polygon,TRUE,America/Chicago,69142 68833
+Minden-NE,1840008337,Minden,Minden,NE,Minden-NE,Nebraska,31099,Kearney,40.498,-98.9675,2963,2996,538,polygon,TRUE,America/Chicago,68959
+Bellwood-NE,1840011621,Bellwood,Bellwood,NE,Bellwood-NE,Nebraska,31023,Butler,41.342,-97.2399,405,405,657,polygon,TRUE,America/Chicago,68624
+Greeley-NE,1840033147,Greeley,Greeley,NE,Greeley-NE,Nebraska,31077,Greeley,41.5486,-98.5312,,,349.8,point,TRUE,America/Chicago,68842
+Blue Hill-NE,1840007245,Blue Hill,Blue Hill,NE,Blue Hill-NE,Nebraska,31181,Webster,40.3329,-98.4483,894,894,472,polygon,TRUE,America/Chicago,68930
+Grant-NE,1840008289,Grant,Grant,NE,Grant-NE,Nebraska,31135,Perkins,40.8444,-101.7263,1115,1115,611,polygon,TRUE,America/Denver,69140
+Hartington-NE,1840006918,Hartington,Hartington,NE,Hartington-NE,Nebraska,31027,Cedar,42.6207,-97.2669,1523,1523,604,polygon,TRUE,America/Chicago,68739
+Bennington-NE,1840007137,Bennington,Bennington,NE,Bennington-NE,Nebraska,31055,Douglas,41.3682,-96.1617,1510,1510,698,polygon,TRUE,America/Chicago,68007
+Foster-NE,1840011186,Foster,Foster,NE,Foster-NE,Nebraska,31139,Pierce,42.2747,-97.6651,50,50,86,polygon,TRUE,America/Chicago,68765
+Surprise-NE,1840011628,Surprise,Surprise,NE,Surprise-NE,Nebraska,31023,Butler,41.1047,-97.3086,41,41,40,polygon,TRUE,America/Chicago,68667
+Winslow-NE,1840011460,Winslow,Winslow,NE,Winslow-NE,Nebraska,31053,Dodge,41.6101,-96.5047,106,106,283,polygon,TRUE,America/Chicago,68031 68072
+Monowi-NE,1840011034,Monowi,Monowi,NE,Monowi-NE,Nebraska,31015,Boyd,42.8307,-98.3296,1,1,1,polygon,TRUE,America/Chicago,68746
+Johnson-NE,1840012146,Johnson,Johnson,NE,Johnson-NE,Nebraska,31127,Nemaha,40.4106,-95.9995,326,326,572,polygon,TRUE,America/Chicago,68378
+Pleasant Dale-NE,1840011841,Pleasant Dale,Pleasant Dale,NE,Pleasant Dale-NE,Nebraska,31159,Seward,40.7913,-96.933,215,215,737,polygon,TRUE,America/Chicago,68423
+Aurora-NE,1840007144,Aurora,Aurora,NE,Aurora-NE,Nebraska,31081,Hamilton,40.8643,-98.0072,4471,4484,589,polygon,TRUE,America/Chicago,68818
+Blair-NE,1840007094,Blair,Blair,NE,Blair-NE,Nebraska,31177,Washington,41.5417,-96.1361,7941,8089,566,polygon,TRUE,America/Chicago,68008 68009
+Brownson-NE,1840033139,Brownson,Brownson,NE,Brownson-NE,Nebraska,31033,Cheyenne,41.1875,-103.113,,,19.3,point,FALSE,America/Denver,69162
+Merna-NE,1840011471,Merna,Merna,NE,Merna-NE,Nebraska,31041,Custer,41.4851,-99.7611,364,364,262,polygon,TRUE,America/Chicago,68856
+Harvard-NE,1840007216,Harvard,Harvard,NE,Harvard-NE,Nebraska,31035,Clay,40.6201,-98.0961,954,954,571,polygon,TRUE,America/Chicago,68944
+Hyannis-NE,1840011358,Hyannis,Hyannis,NE,Hyannis-NE,Nebraska,31075,Grant,42.0005,-101.762,190,190,140,polygon,TRUE,America/Denver,69350
+Glenvil-NE,1840012061,Glenvil,Glenvil,NE,Glenvil-NE,Nebraska,31035,Clay,40.5027,-98.2547,288,288,641,polygon,TRUE,America/Chicago,68941
+Mascot-NE,1840033161,Mascot,Mascot,NE,Mascot-NE,Nebraska,31083,Harlan,40.2645,-99.5462,,,1.6,point,FALSE,America/Chicago,68967
+Rockford-NE,1840033173,Rockford,Rockford,NE,Rockford-NE,Nebraska,31067,Gage,40.2517,-96.6003,,,6.5,point,FALSE,America/Chicago,68310
+McLean-NE,1840011187,McLean,McLean,NE,McLean-NE,Nebraska,31139,Pierce,42.3861,-97.4681,35,35,142,polygon,TRUE,America/Chicago,68747
+La Platte-NE,1840024198,La Platte,La Platte,NE,La Platte-NE,Nebraska,31153,Sarpy,41.0718,-95.9255,,,159.4,polygon,FALSE,America/Chicago,68123
+La Vista-NE,1840008263,La Vista,La Vista,NE,La Vista-NE,Nebraska,31153,Sarpy,41.1816,-96.0665,17143,17143,1218,polygon,TRUE,America/Chicago,68128
+Waverly-NE,1840010333,Waverly,Waverly,NE,Waverly-NE,Nebraska,31109,Lancaster,40.9109,-96.5341,3620,3786,624,polygon,TRUE,America/Chicago,68462
+Bridgeport-NE,1840004795,Bridgeport,Bridgeport,NE,Bridgeport-NE,Nebraska,31123,Morrill,41.6639,-103.0962,1497,1497,503,polygon,TRUE,America/Denver,69336
+Overland-NE,1840024206,Overland,Overland,NE,Overland-NE,Nebraska,31081,Hamilton,41.0808,-97.9784,,,134.9,polygon,FALSE,America/Chicago,68854
+Edgar-NE,1840008335,Edgar,Edgar,NE,Edgar-NE,Nebraska,31035,Clay,40.3683,-97.971,470,470,229,polygon,TRUE,America/Chicago,68935
+Loretto-NE,1840025513,Loretto,Loretto,NE,Loretto-NE,Nebraska,31011,Boone,41.7635,-98.0817,,,53.6,polygon,FALSE,America/Chicago,68652 68620
+Overton-NE,1840011829,Overton,Overton,NE,Overton-NE,Nebraska,31047,Dawson,40.7406,-99.5374,563,563,402,polygon,TRUE,America/Chicago,68863
+Hansen-NE,1840033149,Hansen,Hansen,NE,Hansen-NE,Nebraska,31001,Adams,40.6964,-98.3703,,,104.3,point,FALSE,America/Chicago,68901
+Battle Creek-NE,1840007036,Battle Creek,Battle Creek,NE,Battle Creek-NE,Nebraska,31119,Madison,41.9981,-97.5994,1194,1194,653,polygon,TRUE,America/Chicago,68701 68715
+Clearwater-NE,1840010117,Clearwater,Clearwater,NE,Clearwater-NE,Nebraska,31003,Antelope,42.1706,-98.1898,406,406,427,polygon,TRUE,America/Chicago,68726
+Farnam-NE,1840011828,Farnam,Farnam,NE,Farnam-NE,Nebraska,31047,Dawson,40.7065,-100.2155,165,165,94,polygon,TRUE,America/Chicago,69029
+Melbeta-NE,1840011395,Melbeta,Melbeta,NE,Melbeta-NE,Nebraska,31157,Scotts Bluff,41.7822,-103.5173,111,111,503,polygon,TRUE,America/Denver,69355
+Shubert-NE,1840012347,Shubert,Shubert,NE,Shubert-NE,Nebraska,31147,Richardson,40.236,-95.6836,144,144,264,polygon,TRUE,America/Chicago,68437
+Irvington-NE,1840033151,Irvington,Irvington,NE,Irvington-NE,Nebraska,31055,Douglas,41.3211,-96.0547,,,977.2,point,FALSE,America/Chicago,68122
+Pender-NE,1840011219,Pender,Pender,NE,Pender-NE,Nebraska,31173,Thurston,42.1106,-96.7114,1055,1055,576,polygon,TRUE,America/Chicago,68047
+Dawson-NE,1840012343,Dawson,Dawson,NE,Dawson-NE,Nebraska,31147,Richardson,40.1306,-95.8298,140,140,253,polygon,TRUE,America/Chicago,68337
+Abie-NE,1840010271,Abie,Abie,NE,Abie-NE,Nebraska,31023,Butler,41.3339,-96.9494,66,66,238,polygon,TRUE,America/Chicago,68001
+Almeria-NE,1840033186,Almeria,Almeria,NE,Almeria-NE,Nebraska,31115,Loup,41.8258,-99.5221,,,1.1,point,FALSE,America/Chicago,68879
+Brownlee-NE,1840024064,Brownlee,Brownlee,NE,Brownlee-NE,Nebraska,31031,Cherry,42.2893,-100.6242,,,15.8,polygon,FALSE,America/Chicago,69166
+Filley-NE,1840012163,Filley,Filley,NE,Filley-NE,Nebraska,31067,Gage,40.285,-96.5343,129,129,455,polygon,TRUE,America/Chicago,68357
+North Loup-NE,1840011476,North Loup,North Loup,NE,North Loup-NE,Nebraska,31175,Valley,41.4954,-98.7726,291,291,274,polygon,TRUE,America/Chicago,68859
+Sidney-NE,1840009309,Sidney,Sidney,NE,Sidney-NE,Nebraska,31033,Cheyenne,41.1343,-102.9686,6497,6888,383,polygon,TRUE,America/Denver,69162 69160
+Panama-NE,1840011852,Panama,Panama,NE,Panama-NE,Nebraska,31109,Lancaster,40.5998,-96.5111,279,279,379,polygon,TRUE,America/Chicago,68419
+Fullerton-NE,1840000638,Fullerton,Fullerton,NE,Fullerton-NE,Nebraska,31125,Nance,41.3648,-97.9725,1259,1259,372,polygon,TRUE,America/Chicago,68638
+Wynot-NE,1840011075,Wynot,Wynot,NE,Wynot-NE,Nebraska,31027,Cedar,42.7398,-97.1699,176,176,370,polygon,TRUE,America/Chicago,68792
+Wahoo-NE,1840003455,Wahoo,Wahoo,NE,Wahoo-NE,Nebraska,31155,Saunders,41.2153,-96.6165,4440,4499,654,polygon,TRUE,America/Chicago,68066
+Firth-NE,1840011848,Firth,Firth,NE,Firth-NE,Nebraska,31109,Lancaster,40.5349,-96.6052,582,582,797,polygon,TRUE,America/Chicago,68358
+Axtell-NE,1840012065,Axtell,Axtell,NE,Axtell-NE,Nebraska,31099,Kearney,40.4799,-99.1289,735,735,640,polygon,TRUE,America/Chicago,68924
+Perrin-NE,1840033195,Perrin,Perrin,NE,Perrin-NE,Nebraska,31123,Morrill,41.8125,-103.2463,,,2.4,point,FALSE,America/Denver,69334
+Oconto-NE,1840011472,Oconto,Oconto,NE,Oconto-NE,Nebraska,31041,Custer,41.1417,-99.7619,149,149,283,polygon,TRUE,America/Chicago,68860
+Cedar Bluffs-NE,1840010273,Cedar Bluffs,Cedar Bluffs,NE,Cedar Bluffs-NE,Nebraska,31155,Saunders,41.3971,-96.6098,589,589,587,polygon,TRUE,America/Chicago,68015
+Macy-NE,1840004693,Macy,Macy,NE,Macy-NE,Nebraska,31173,Thurston,42.116,-96.3668,,,307.9,polygon,FALSE,America/Chicago,68039
+Lynch-NE,1840011033,Lynch,Lynch,NE,Lynch-NE,Nebraska,31015,Boyd,42.8314,-98.467,226,226,163,polygon,TRUE,America/Chicago,68746
+Burwell-NE,1840007037,Burwell,Burwell,NE,Burwell-NE,Nebraska,31071,Garfield,41.78,-99.1341,1202,1202,447,polygon,TRUE,America/Chicago,68823
+Bazile Mills-NE,1840011062,Bazile Mills,Bazile Mills,NE,Bazile Mills-NE,Nebraska,31107,Knox,42.5124,-97.9083,28,28,22,polygon,TRUE,America/Chicago,68729
+Adams-NE,1840010436,Adams,Adams,NE,Adams-NE,Nebraska,31067,Gage,40.4572,-96.5127,607,607,394,polygon,TRUE,America/Chicago,68301
+Princeton-NE,1840033169,Princeton,Princeton,NE,Princeton-NE,Nebraska,31109,Lancaster,40.5736,-96.7047,,,25.9,point,FALSE,America/Chicago,68404
+Saint Paul-NE,1840009313,Saint Paul,Saint Paul,NE,Saint Paul-NE,Nebraska,31093,Howard,41.214,-98.46,2349,2349,765,polygon,TRUE,America/Chicago,68873
+Rosemont-NE,1840033197,Rosemont,Rosemont,NE,Rosemont-NE,Nebraska,31181,Webster,40.287,-98.3642,,,15.6,point,FALSE,America/Chicago,68930
+Burchard-NE,1840010493,Burchard,Burchard,NE,Burchard-NE,Nebraska,31133,Pawnee,40.1494,-96.3488,78,78,188,polygon,TRUE,America/Chicago,68323
+Stuart-NE,1840011048,Stuart,Stuart,NE,Stuart-NE,Nebraska,31089,Holt,42.6011,-99.1407,592,592,170,polygon,TRUE,America/Chicago,68780
+Stratton-NE,1840012297,Stratton,Stratton,NE,Stratton-NE,Nebraska,31087,Hitchcock,40.1502,-101.2278,331,331,296,polygon,TRUE,America/Chicago,69043
+Sumner-NE,1840011830,Sumner,Sumner,NE,Sumner-NE,Nebraska,31047,Dawson,40.949,-99.5081,228,228,298,polygon,TRUE,America/Chicago,68878
+Chappell-NE,1840007141,Chappell,Chappell,NE,Chappell-NE,Nebraska,31049,Deuel,41.0913,-102.4699,898,898,493,polygon,TRUE,America/Denver,69129
+Davenport-NE,1840012282,Davenport,Davenport,NE,Davenport-NE,Nebraska,31169,Thayer,40.3123,-97.8115,286,286,169,polygon,TRUE,America/Chicago,68335
+Stromsburg-NE,1840009311,Stromsburg,Stromsburg,NE,Stromsburg-NE,Nebraska,31143,Polk,41.116,-97.591,1140,1140,434,polygon,TRUE,America/Chicago,68666
+Elgin-NE,1840008088,Elgin,Elgin,NE,Elgin-NE,Nebraska,31003,Antelope,41.9832,-98.0826,623,623,336,polygon,TRUE,America/Chicago,68636
+Daykin-NE,1840012286,Daykin,Daykin,NE,Daykin-NE,Nebraska,31095,Jefferson,40.3217,-97.2983,161,161,378,polygon,TRUE,America/Chicago,68338
+Fort Calhoun-NE,1840008196,Fort Calhoun,Fort Calhoun,NE,Fort Calhoun-NE,Nebraska,31177,Washington,41.4563,-96.0262,935,935,549,polygon,TRUE,America/Chicago,68023
+Newman Grove-NE,1840003225,Newman Grove,Newman Grove,NE,Newman Grove-NE,Nebraska,31119,Madison,41.7469,-97.7767,720,720,509,polygon,TRUE,America/Chicago,68758
+Saint Mary-NE,1840033175,Saint Mary,Saint Mary,NE,Saint Mary-NE,Nebraska,31097,Johnson,40.4242,-96.29,,,49.4,point,FALSE,America/Chicago,68443
+Salem-NE,1840012346,Salem,Salem,NE,Salem-NE,Nebraska,31147,Richardson,40.0769,-95.7285,107,107,66,polygon,TRUE,America/Chicago,68433
+Eustis-NE,1840012032,Eustis,Eustis,NE,Eustis-NE,Nebraska,31063,Frontier,40.6645,-100.0296,373,373,340,polygon,TRUE,America/Chicago,69028
+Harrison-NE,1840011028,Harrison,Harrison,NE,Harrison-NE,Nebraska,31165,Sioux,42.688,-103.8824,238,238,300,polygon,TRUE,America/Denver,69346
+Campbell-NE,1840010470,Campbell,Campbell,NE,Campbell-NE,Nebraska,31061,Franklin,40.2963,-98.7315,328,328,306,polygon,TRUE,America/Chicago,68932
+Laurel-NE,1840008042,Laurel,Laurel,NE,Laurel-NE,Nebraska,31027,Cedar,42.4285,-97.0951,950,950,372,polygon,TRUE,America/Chicago,68745
+Palmyra-NE,1840011967,Palmyra,Palmyra,NE,Palmyra-NE,Nebraska,31131,Otoe,40.7056,-96.3923,565,565,641,polygon,TRUE,America/Chicago,68418
+Elk City-NE,1840033142,Elk City,Elk City,NE,Elk City-NE,Nebraska,31055,Douglas,41.3717,-96.2678,,,22.7,point,FALSE,America/Chicago,68064
+West Lincoln-NE,1840033181,West Lincoln,West Lincoln,NE,West Lincoln-NE,Nebraska,31109,Lancaster,40.8378,-96.7311,,,1812.2,point,FALSE,America/Chicago,68521
+Gross-NE,1840011032,Gross,Gross,NE,Gross-NE,Nebraska,31015,Boyd,42.9461,-98.5697,2,2,6,polygon,TRUE,America/Chicago,68719
+Venice-NE,1840024170,Venice,Venice,NE,Venice-NE,Nebraska,31055,Douglas,41.239,-96.3526,,,53.5,polygon,FALSE,America/Chicago,68069
+Trumbull-NE,1840012064,Trumbull,Trumbull,NE,Trumbull-NE,Nebraska,31035,Clay,40.6801,-98.2734,194,194,173,polygon,TRUE,America/Chicago,68980
+Ellis-NE,1840033143,Ellis,Ellis,NE,Ellis-NE,Nebraska,31067,Gage,40.2183,-96.8759,,,20.3,point,FALSE,America/Chicago,68310
+Primrose-NE,1840011424,Primrose,Primrose,NE,Primrose-NE,Nebraska,31011,Boone,41.6238,-98.2377,60,60,83,polygon,TRUE,America/Chicago,68655
+Ravenna-NE,1840000958,Ravenna,Ravenna,NE,Ravenna-NE,Nebraska,31019,Buffalo,41.0275,-98.8945,1373,1373,319,polygon,TRUE,America/Chicago,68869
+Inglewood-NE,1840011457,Inglewood,Inglewood,NE,Inglewood-NE,Nebraska,31053,Dodge,41.416,-96.5021,322,322,518,polygon,TRUE,America/Chicago,68025
+Benedict-NE,1840011819,Benedict,Benedict,NE,Benedict-NE,Nebraska,31185,York,41.0063,-97.6073,236,236,474,polygon,TRUE,America/Chicago,68316
+Berwyn-NE,1840011468,Berwyn,Berwyn,NE,Berwyn-NE,Nebraska,31041,Custer,41.3508,-99.5006,82,82,123,polygon,TRUE,America/Chicago,68814
+Oak-NE,1840012273,Oak,Oak,NE,Oak-NE,Nebraska,31129,Nuckolls,40.2382,-97.9036,63,63,160,polygon,TRUE,America/Chicago,68964
+Fontanelle-NE,1840024138,Fontanelle,Fontanelle,NE,Fontanelle-NE,Nebraska,31177,Washington,41.5382,-96.4272,,,63,polygon,FALSE,America/Chicago,68044
+Imperial-NE,1840007214,Imperial,Imperial,NE,Imperial-NE,Nebraska,31029,Chase,40.5146,-101.6382,2047,2047,267,polygon,TRUE,America/Denver,69033
+Atkinson-NE,1840006917,Atkinson,Atkinson,NE,Atkinson-NE,Nebraska,31089,Holt,42.5309,-98.9747,1249,1249,295,polygon,TRUE,America/Chicago,68713
+Touhy-NE,1840033178,Touhy,Touhy,NE,Touhy-NE,Nebraska,31155,Saunders,41.1331,-96.8231,,,10.8,point,FALSE,America/Chicago,68065
+Norfolk-NE,1840008136,Norfolk,Norfolk,NE,Norfolk-NE,Nebraska,31119,Madison,42.0349,-97.4209,26921,24348,879,polygon,TRUE,America/Chicago,68701 68702
+Cordova-NE,1840011839,Cordova,Cordova,NE,Cordova-NE,Nebraska,31159,Seward,40.7164,-97.3516,137,137,212,polygon,TRUE,America/Chicago,68359 68330
+Juniata-NE,1840012037,Juniata,Juniata,NE,Juniata-NE,Nebraska,31001,Adams,40.5905,-98.5068,823,823,469,polygon,TRUE,America/Chicago,68955
+Elsmere-NE,1840033190,Elsmere,Elsmere,NE,Elsmere-NE,Nebraska,31031,Cherry,42.1653,-100.1854,,,2.1,point,FALSE,America/Chicago,69135
+Lowell-NE,1840033157,Lowell,Lowell,NE,Lowell-NE,Nebraska,31099,Kearney,40.6475,-98.8473,,,6.8,point,FALSE,America/Chicago,68840
+Thurston-NE,1840011221,Thurston,Thurston,NE,Thurston-NE,Nebraska,31173,Thurston,42.177,-96.7002,136,136,451,polygon,TRUE,America/Chicago,68062
+Harrisburg-NE,1840004835,Harrisburg,Harrisburg,NE,Harrisburg-NE,Nebraska,31007,Banner,41.5505,-103.7267,,,59.2,polygon,FALSE,America/Denver,69345
+Oshkosh-NE,1840009196,Oshkosh,Oshkosh,NE,Oshkosh-NE,Nebraska,31069,Garden,41.408,-102.3452,832,832,480,polygon,TRUE,America/Denver,69154 69190
+Oxford-NE,1840012278,Oxford,Oxford,NE,Oxford-NE,Nebraska,31065,Furnas,40.253,-99.6322,755,755,320,polygon,TRUE,America/Chicago,68967
+Amelia-NE,1840033129,Amelia,Amelia,NE,Amelia-NE,Nebraska,31089,Holt,42.2356,-98.912,,,7.2,point,FALSE,America/Chicago,68711
+Falls City-NE,1840008380,Falls City,Falls City,NE,Falls City-NE,Nebraska,31147,Richardson,40.0623,-95.599,4027,4214,488,polygon,TRUE,America/Chicago,68355
+Nebraska City-NE,1840008324,Nebraska City,Nebraska City,NE,Nebraska City-NE,Nebraska,31131,Otoe,40.6766,-95.8613,7122,7347,580,polygon,TRUE,America/Chicago,68410
+Bristow-NE,1840010077,Bristow,Bristow,NE,Bristow-NE,Nebraska,31015,Boyd,42.8409,-98.5835,62,62,147,polygon,TRUE,America/Chicago,68719
+Purdum-NE,1840033170,Purdum,Purdum,NE,Purdum-NE,Nebraska,31009,Blaine,42.065,-100.2585,,,2.8,point,FALSE,America/Chicago,69157
+Papillion-NE,1840009328,Papillion,Papillion,NE,Papillion-NE,Nebraska,31153,Sarpy,41.1531,-96.045,19597,19597,1130,polygon,TRUE,America/Chicago,68046
+Ashland-NE,1840007132,Ashland,Ashland,NE,Ashland-NE,Nebraska,31155,Saunders,41.0404,-96.3707,2752,2566,900,polygon,TRUE,America/Chicago,68003
+Garrison-NE,1840011625,Garrison,Garrison,NE,Garrison-NE,Nebraska,31023,Butler,41.1754,-97.1633,52,52,175,polygon,TRUE,America/Chicago,68632
+Mitchell-NE,1840008141,Mitchell,Mitchell,NE,Mitchell-NE,Nebraska,31157,Scotts Bluff,41.9427,-103.8097,1669,1669,959,polygon,TRUE,America/Denver,69357
+Davey-NE,1840011846,Davey,Davey,NE,Davey-NE,Nebraska,31109,Lancaster,40.9838,-96.6692,157,157,392,polygon,TRUE,America/Chicago,68336
+O'Neill-NE,1840000406,O'Neill,O'Neill,NE,O'Neill-NE,Nebraska,31089,Holt,42.461,-98.6465,3607,3631,587,polygon,TRUE,America/Chicago,68763
+Hampton-NE,1840011732,Hampton,Hampton,NE,Hampton-NE,Nebraska,31081,Hamilton,40.8812,-97.8875,432,432,482,polygon,TRUE,America/Chicago,68843
+Bruning-NE,1840010471,Bruning,Bruning,NE,Bruning-NE,Nebraska,31169,Thayer,40.3357,-97.5648,271,271,367,polygon,TRUE,America/Chicago,68322
+Garland-NE,1840011840,Garland,Garland,NE,Garland-NE,Nebraska,31159,Seward,40.9446,-96.9855,220,220,506,polygon,TRUE,America/Chicago,68360
+Spalding-NE,1840011466,Spalding,Spalding,NE,Spalding-NE,Nebraska,31077,Greeley,41.6893,-98.3626,452,452,543,polygon,TRUE,America/Chicago,68665
+Miller-NE,1840011834,Miller,Miller,NE,Miller-NE,Nebraska,31019,Buffalo,40.9276,-99.3901,138,138,140,polygon,TRUE,America/Chicago,68858
+Gresham-NE,1840011821,Gresham,Gresham,NE,Gresham-NE,Nebraska,31185,York,41.0284,-97.4011,222,222,318,polygon,TRUE,America/Chicago,68367
+Tarnov-NE,1840011456,Tarnov,Tarnov,NE,Tarnov-NE,Nebraska,31141,Platte,41.6148,-97.5025,46,46,559,polygon,TRUE,America/Chicago,68642
+Max-NE,1840024326,Max,Max,NE,Max-NE,Nebraska,31057,Dundy,40.1143,-101.4045,,,76.5,polygon,FALSE,America/Denver,69037
+Sunol-NE,1840024157,Sunol,Sunol,NE,Sunol-NE,Nebraska,31033,Cheyenne,41.1539,-102.763,,,84.5,polygon,FALSE,America/Denver,69162 69149
+Randolph-NE,1840009092,Randolph,Randolph,NE,Randolph-NE,Nebraska,31027,Cedar,42.3775,-97.3577,928,928,380,polygon,TRUE,America/Chicago,68771
+Kronborg-NE,1840033153,Kronborg,Kronborg,NE,Kronborg-NE,Nebraska,31081,Hamilton,41.0028,-97.9401,,,7,point,FALSE,America/Chicago,68854
+Richland-NE,1840011448,Richland,Richland,NE,Richland-NE,Nebraska,31037,Colfax,41.4367,-97.2152,72,72,129,polygon,TRUE,America/Chicago,68601
+Tecumseh-NE,1840009428,Tecumseh,Tecumseh,NE,Tecumseh-NE,Nebraska,31097,Johnson,40.3718,-96.189,1631,1631,418,polygon,TRUE,America/Chicago,68450
+Elk Creek-NE,1840012169,Elk Creek,Elk Creek,NE,Elk Creek-NE,Nebraska,31097,Johnson,40.2883,-96.1268,97,97,288,polygon,TRUE,America/Chicago,68348
+Nickerson-NE,1840011459,Nickerson,Nickerson,NE,Nickerson-NE,Nebraska,31053,Dodge,41.5349,-96.4708,353,353,359,polygon,TRUE,America/Chicago,68044
+Sargent-NE,1840009253,Sargent,Sargent,NE,Sargent-NE,Nebraska,31041,Custer,41.64,-99.3688,507,507,182,polygon,TRUE,America/Chicago,68874
+Saint Edward-NE,1840009203,Saint Edward,Saint Edward,NE,Saint Edward-NE,Nebraska,31011,Boone,41.5715,-97.8611,681,681,399,polygon,TRUE,America/Chicago,68660
+Red Cloud-NE,1840009445,Red Cloud,Red Cloud,NE,Red Cloud-NE,Nebraska,31181,Webster,40.0863,-98.5223,948,948,358,polygon,TRUE,America/Chicago,68970
+Lorenzo-NE,1840024156,Lorenzo,Lorenzo,NE,Lorenzo-NE,Nebraska,31033,Cheyenne,41.0576,-103.0821,,,32.4,polygon,FALSE,America/Denver,69162
+Bloomington-NE,1840012264,Bloomington,Bloomington,NE,Bloomington-NE,Nebraska,31061,Franklin,40.0938,-99.0384,97,97,47,polygon,TRUE,America/Chicago,68929 68939
+Stockham-NE,1840011737,Stockham,Stockham,NE,Stockham-NE,Nebraska,31081,Hamilton,40.7164,-97.9432,43,43,97,polygon,TRUE,America/Chicago,68818
+Sterling-NE,1840012170,Sterling,Sterling,NE,Sterling-NE,Nebraska,31097,Johnson,40.4613,-96.3775,458,458,434,polygon,TRUE,America/Chicago,68443
+Mullen-NE,1840011359,Mullen,Mullen,NE,Mullen-NE,Nebraska,31091,Hooker,42.0432,-101.0445,481,481,395,polygon,TRUE,America/Denver,69152
+Milford-NE,1840008287,Milford,Milford,NE,Milford-NE,Nebraska,31159,Seward,40.7724,-97.0537,2112,2112,1046,polygon,TRUE,America/Chicago,68405
+Bellevue-NE,1840007142,Bellevue,Bellevue,NE,Bellevue-NE,Nebraska,31153,Sarpy,41.1536,-95.9357,53505,53505,1248,polygon,TRUE,America/Chicago,68147 68123 68157 68005
+Ewing-NE,1840011046,Ewing,Ewing,NE,Ewing-NE,Nebraska,31089,Holt,42.2594,-98.3438,372,372,322,polygon,TRUE,America/Chicago,68735
+Yankee Hill-NE,1840033202,Yankee Hill,Yankee Hill,NE,Yankee Hill-NE,Nebraska,31109,Lancaster,40.7674,-96.7364,,,18.3,polygon,FALSE,America/Chicago,68522 68523
+Odell-NE,1840012164,Odell,Odell,NE,Odell-NE,Nebraska,31067,Gage,40.0503,-96.8016,300,300,440,polygon,TRUE,America/Chicago,68415
+Long Pine-NE,1840009093,Long Pine,Long Pine,NE,Long Pine-NE,Nebraska,31017,Brown,42.5353,-99.7027,286,286,190,polygon,TRUE,America/Chicago,69217
+Wakefield-NE,1840010092,Wakefield,Wakefield,NE,Wakefield-NE,Nebraska,31051,Dixon,42.2668,-96.8631,1389,1389,519,polygon,TRUE,America/Chicago,68784
+Kenesaw-NE,1840012038,Kenesaw,Kenesaw,NE,Kenesaw-NE,Nebraska,31001,Adams,40.6192,-98.6579,945,945,459,polygon,TRUE,America/Chicago,68956
+Newcastle-NE,1840011099,Newcastle,Newcastle,NE,Newcastle-NE,Nebraska,31051,Dixon,42.6524,-96.874,326,326,372,polygon,TRUE,America/Chicago,68757
+Wymore-NE,1840010434,Wymore,Wymore,NE,Wymore-NE,Nebraska,31067,Gage,40.1221,-96.6642,1401,1401,288,polygon,TRUE,America/Chicago,68466
+Angora-NE,1840033130,Angora,Angora,NE,Angora-NE,Nebraska,31123,Morrill,41.8519,-103.1252,,,3.9,point,FALSE,America/Denver,69331
+De Witt-NE,1840012055,De Witt,De Witt,NE,De Witt-NE,Nebraska,31151,Saline,40.3953,-96.9222,504,504,466,polygon,TRUE,America/Chicago,68341
+Yutan-NE,1840010272,Yutan,Yutan,NE,Yutan-NE,Nebraska,31155,Saunders,41.2429,-96.3962,1235,1235,873,polygon,TRUE,America/Chicago,68073
+Greenwood-NE,1840011810,Greenwood,Greenwood,NE,Greenwood-NE,Nebraska,31025,Cass,40.9614,-96.4433,579,579,543,polygon,TRUE,America/Chicago,68366
+Farwell-NE,1840011664,Farwell,Farwell,NE,Farwell-NE,Nebraska,31093,Howard,41.2156,-98.628,120,120,268,polygon,TRUE,America/Chicago,68838
+Neligh-NE,1840000458,Neligh,Neligh,NE,Neligh-NE,Nebraska,31003,Antelope,42.1291,-98.0291,1527,1527,487,polygon,TRUE,America/Chicago,68756
+Skyline-NE,1840033201,Skyline,Skyline,NE,Skyline-NE,Nebraska,31055,Douglas,41.2497,-96.2495,,,290.5,point,FALSE,America/Chicago,68022
+Silver Creek-NE,1840011658,Silver Creek,Silver Creek,NE,Silver Creek-NE,Nebraska,31121,Merrick,41.3153,-97.6651,361,361,506,polygon,TRUE,America/Chicago,68663
+Dix-NE,1840011656,Dix,Dix,NE,Dix-NE,Nebraska,31105,Kimball,41.2343,-103.4866,249,249,437,polygon,TRUE,America/Denver,69133
+Nelson-NE,1840008367,Nelson,Nelson,NE,Nelson-NE,Nebraska,31129,Nuckolls,40.2011,-98.0687,457,457,216,polygon,TRUE,America/Chicago,68961
+Plainview-NE,1840009136,Plainview,Plainview,NE,Plainview-NE,Nebraska,31139,Pierce,42.3534,-97.7871,1204,1204,429,polygon,TRUE,America/Chicago,68769
+Jansen-NE,1840012285,Jansen,Jansen,NE,Jansen-NE,Nebraska,31095,Jefferson,40.1861,-97.0834,113,113,190,polygon,TRUE,America/Chicago,68377
+Alexandria-NE,1840010475,Alexandria,Alexandria,NE,Alexandria-NE,Nebraska,31169,Thayer,40.2475,-97.3877,172,172,164,polygon,TRUE,America/Chicago,68303
+Saint Libory-NE,1840024168,Saint Libory,Saint Libory,NE,Saint Libory-NE,Nebraska,31093,Howard,41.0822,-98.359,,,108.8,polygon,FALSE,America/Chicago,68872
+Bloomfield-NE,1840000415,Bloomfield,Bloomfield,NE,Bloomfield-NE,Nebraska,31107,Knox,42.5984,-97.648,985,985,465,polygon,TRUE,America/Chicago,68718
+Osmond-NE,1840009134,Osmond,Osmond,NE,Osmond-NE,Nebraska,31139,Pierce,42.3583,-97.599,756,756,366,polygon,TRUE,America/Chicago,68765
+Ithaca-NE,1840011630,Ithaca,Ithaca,NE,Ithaca-NE,Nebraska,31155,Saunders,41.1593,-96.5394,150,150,248,polygon,TRUE,America/Chicago,68033
+Verdigre-NE,1840011067,Verdigre,Verdigre,NE,Verdigre-NE,Nebraska,31107,Knox,42.5973,-98.0357,557,557,392,polygon,TRUE,America/Chicago,68783
+Santee-NE,1840011063,Santee,Santee,NE,Santee-NE,Nebraska,31107,Knox,42.8388,-97.8491,347,347,237,polygon,TRUE,America/Chicago,68760
+Raeville-NE,1840025514,Raeville,Raeville,NE,Raeville-NE,Nebraska,31011,Boone,41.8954,-98.0537,,,36.2,polygon,FALSE,America/Chicago,68652
+Brandon-NE,1840033138,Brandon,Brandon,NE,Brandon-NE,Nebraska,31135,Perkins,40.8033,-101.9124,,,21.6,point,FALSE,America/Denver,69140
+Assumption-NE,1840033133,Assumption,Assumption,NE,Assumption-NE,Nebraska,31001,Adams,40.51,-98.5723,,,3.7,point,FALSE,America/Chicago,68973
+Ericson-NE,1840011368,Ericson,Ericson,NE,Ericson-NE,Nebraska,31183,Wheeler,41.7803,-98.6785,90,90,92,polygon,TRUE,America/Chicago,68637
+Belvidere-NE,1840012280,Belvidere,Belvidere,NE,Belvidere-NE,Nebraska,31169,Thayer,40.2546,-97.5577,47,47,37,polygon,TRUE,America/Chicago,68315
+Friend-NE,1840008334,Friend,Friend,NE,Friend-NE,Nebraska,31151,Saline,40.6505,-97.2837,992,992,463,polygon,TRUE,America/Chicago,68359
+Cedar Creek-NE,1840010326,Cedar Creek,Cedar Creek,NE,Cedar Creek-NE,Nebraska,31025,Cass,41.0451,-96.1016,400,400,269,polygon,TRUE,America/Chicago,68016
+Roseland-NE,1840012041,Roseland,Roseland,NE,Roseland-NE,Nebraska,31001,Adams,40.4698,-98.5585,254,254,368,polygon,TRUE,America/Chicago,68973
+Clay Center-NE,1840003617,Clay Center,Clay Center,NE,Clay Center-NE,Nebraska,31035,Clay,40.5256,-98.055,717,717,378,polygon,TRUE,America/Chicago,68933
+Dakota City-NE,1840006968,Dakota City,Dakota City,NE,Dakota City-NE,Nebraska,31043,Dakota,42.4184,-96.4202,1880,1880,503,polygon,TRUE,America/Chicago,68731
+Ruby-NE,1840033198,Ruby,Ruby,NE,Ruby-NE,Nebraska,31159,Seward,40.8314,-97.077,,,6.5,point,FALSE,America/Chicago,68405
+Strang-NE,1840012054,Strang,Strang,NE,Strang-NE,Nebraska,31059,Fillmore,40.4149,-97.5871,28,28,86,polygon,TRUE,America/Chicago,68444
+Funk-NE,1840012078,Funk,Funk,NE,Funk-NE,Nebraska,31137,Phelps,40.463,-99.2508,193,193,283,polygon,TRUE,America/Chicago,68940
+Syracuse-NE,1840009400,Syracuse,Syracuse,NE,Syracuse-NE,Nebraska,31131,Otoe,40.6636,-96.1827,2007,2007,610,polygon,TRUE,America/Chicago,68446
+Arcadia-NE,1840010212,Arcadia,Arcadia,NE,Arcadia-NE,Nebraska,31175,Valley,41.425,-99.126,305,305,206,polygon,TRUE,America/Chicago,68815
+Brady-NE,1840011648,Brady,Brady,NE,Brady-NE,Nebraska,31111,Lincoln,41.0223,-100.3675,413,413,485,polygon,TRUE,America/Chicago,69123
+Orchard-NE,1840011191,Orchard,Orchard,NE,Orchard-NE,Nebraska,31003,Antelope,42.3369,-98.2411,349,349,300,polygon,TRUE,America/Chicago,68764
+Chester-NE,1840010474,Chester,Chester,NE,Chester-NE,Nebraska,31169,Thayer,40.0101,-97.6181,225,225,148,polygon,TRUE,America/Chicago,68327
+Saint Bernard-NE,1840033174,Saint Bernard,Saint Bernard,NE,Saint Bernard-NE,Nebraska,31141,Platte,41.722,-97.6289,,,5.5,point,FALSE,America/Chicago,68644
+Kilgore-NE,1840011038,Kilgore,Kilgore,NE,Kilgore-NE,Nebraska,31031,Cherry,42.9391,-100.9574,79,79,68,polygon,TRUE,America/Denver,69216
+Goehner-NE,1840011838,Goehner,Goehner,NE,Goehner-NE,Nebraska,31159,Seward,40.8327,-97.2196,158,158,351,polygon,TRUE,America/Chicago,68434 68364
+Roca-NE,1840011850,Roca,Roca,NE,Roca-NE,Nebraska,31109,Lancaster,40.6584,-96.6615,283,283,787,polygon,TRUE,America/Chicago,68430
+Macon-NE,1840033158,Macon,Macon,NE,Macon-NE,Nebraska,31061,Franklin,40.205,-98.9526,,,17,point,FALSE,America/Chicago,68939
+Seneca-NE,1840011365,Seneca,Seneca,NE,Seneca-NE,Nebraska,31171,Thomas,42.0424,-100.8311,,,13.3,polygon,FALSE,America/Denver,69161
+Madison-NE,1840009191,Madison,Madison,NE,Madison-NE,Nebraska,31119,Madison,41.8286,-97.4567,2364,2364,792,polygon,TRUE,America/Chicago,68748
+Rushville-NE,1840009069,Rushville,Rushville,NE,Rushville-NE,Nebraska,31161,Sheridan,42.7134,-102.4666,851,851,285,polygon,TRUE,America/Denver,69360
+Brule-NE,1840010283,Brule,Brule,NE,Brule-NE,Nebraska,31101,Keith,41.0946,-101.8884,306,306,382,polygon,TRUE,America/Denver,69127
+Beaver Crossing-NE,1840011836,Beaver Crossing,Beaver Crossing,NE,Beaver Crossing-NE,Nebraska,31159,Seward,40.7782,-97.2825,407,407,239,polygon,TRUE,America/Chicago,68313
+Shickley-NE,1840012053,Shickley,Shickley,NE,Shickley-NE,Nebraska,31059,Fillmore,40.4163,-97.7241,337,337,440,polygon,TRUE,America/Chicago,68436
+Elmwood-NE,1840011812,Elmwood,Elmwood,NE,Elmwood-NE,Nebraska,31025,Cass,40.8426,-96.2947,649,649,667,polygon,TRUE,America/Chicago,68349
+Westerville-NE,1840024137,Westerville,Westerville,NE,Westerville-NE,Nebraska,31041,Custer,41.3962,-99.3817,,,44.7,polygon,FALSE,America/Chicago,68814 68881
+Valentine-NE,1840010081,Valentine,Valentine,NE,Valentine-NE,Nebraska,31031,Cherry,42.8739,-100.5498,2777,2803,473,polygon,TRUE,America/Chicago,69201
+Lorton-NE,1840011963,Lorton,Lorton,NE,Lorton-NE,Nebraska,31131,Otoe,40.5973,-96.0242,41,41,371,polygon,TRUE,America/Chicago,68382
+Amherst-NE,1840010332,Amherst,Amherst,NE,Amherst-NE,Nebraska,31019,Buffalo,40.8385,-99.2693,253,253,447,polygon,TRUE,America/Chicago,68812
+Steele City-NE,1840012291,Steele City,Steele City,NE,Steele City-NE,Nebraska,31095,Jefferson,40.0368,-97.0229,58,58,96,polygon,TRUE,America/Chicago,68440
+Gibbon-NE,1840008286,Gibbon,Gibbon,NE,Gibbon-NE,Nebraska,31019,Buffalo,40.746,-98.8458,1909,1909,848,polygon,TRUE,America/Chicago,68840
+Wallace-NE,1840011652,Wallace,Wallace,NE,Wallace-NE,Nebraska,31111,Lincoln,40.8376,-101.1645,360,360,195,polygon,TRUE,America/Chicago,69169
+Superior-NE,1840009446,Superior,Superior,NE,Superior-NE,Nebraska,31129,Nuckolls,40.023,-98.0663,1856,1856,380,polygon,TRUE,America/Chicago,68978
+Saint Stephens-NE,1840033176,Saint Stephens,Saint Stephens,NE,Saint Stephens-NE,Nebraska,31129,Nuckolls,40.2536,-98.2562,,,4.8,point,FALSE,America/Chicago,68957
+Ponca-NE,1840000422,Ponca,Ponca,NE,Ponca-NE,Nebraska,31051,Dixon,42.5649,-96.7096,937,937,497,polygon,TRUE,America/Chicago,68770
+Bennet-NE,1840011844,Bennet,Bennet,NE,Bennet-NE,Nebraska,31109,Lancaster,40.6818,-96.504,854,854,649,polygon,TRUE,America/Chicago,68317
+Fairfield-NE,1840008336,Fairfield,Fairfield,NE,Fairfield-NE,Nebraska,31035,Clay,40.4323,-98.1033,364,364,194,polygon,TRUE,America/Chicago,68938
+Keystone-NE,1840024160,Keystone,Keystone,NE,Keystone-NE,Nebraska,31101,Keith,41.2187,-101.5841,,,7.9,polygon,FALSE,America/Denver,69144
+Hazard-NE,1840011667,Hazard,Hazard,NE,Hazard-NE,Nebraska,31163,Sherman,41.0914,-99.0772,68,68,102,polygon,TRUE,America/Chicago,68844
+Bingham-NE,1840033134,Bingham,Bingham,NE,Bingham-NE,Nebraska,31161,Sheridan,42.0211,-102.0885,,,28.2,point,FALSE,America/Denver,69335
+Ogallala-NE,1840008250,Ogallala,Ogallala,NE,Ogallala-NE,Nebraska,31101,Keith,41.1293,-101.721,4243,4543,353,polygon,TRUE,America/Denver,69153
+Wood River-NE,1840010329,Wood River,Wood River,NE,Wood River-NE,Nebraska,31079,Hall,40.8208,-98.6003,1354,1354,658,polygon,TRUE,America/Chicago,68883
+Norman-NE,1840012067,Norman,Norman,NE,Norman-NE,Nebraska,31099,Kearney,40.479,-98.7921,43,43,179,polygon,TRUE,America/Chicago,68959
+Lawrence-NE,1840012270,Lawrence,Lawrence,NE,Lawrence-NE,Nebraska,31129,Nuckolls,40.2902,-98.2596,291,291,270,polygon,TRUE,America/Chicago,68957
+Ohiowa-NE,1840012052,Ohiowa,Ohiowa,NE,Ohiowa-NE,Nebraska,31059,Fillmore,40.4136,-97.4523,112,112,173,polygon,TRUE,America/Chicago,68416
+South Sioux City-NE,1840009129,South Sioux City,South Sioux City,NE,South Sioux City-NE,Nebraska,31043,Dakota,42.4636,-96.4149,13120,13120,887,polygon,TRUE,America/Chicago,68776
+Page-NE,1840011047,Page,Page,NE,Page-NE,Nebraska,31089,Holt,42.4,-98.4177,163,163,257,polygon,TRUE,America/Chicago,68766
+Grainton-NE,1840033146,Grainton,Grainton,NE,Grainton-NE,Nebraska,31135,Perkins,40.8231,-101.2874,,,23,point,FALSE,America/Denver,69169
+Bartlett-NE,1840011367,Bartlett,Bartlett,NE,Bartlett-NE,Nebraska,31183,Wheeler,41.8839,-98.5527,113,113,307,polygon,TRUE,America/Chicago,68622
+Ames-NE,1840026263,Ames,Ames,NE,Ames-NE,Nebraska,31053,Dodge,41.4491,-96.6262,,,12.6,polygon,FALSE,America/Chicago,68621
+Herman-NE,1840011528,Herman,Herman,NE,Herman-NE,Nebraska,31177,Washington,41.674,-96.2167,268,268,723,polygon,TRUE,America/Chicago,68029
+Chalco-NE,1840005176,Chalco,Chalco,NE,Chalco-NE,Nebraska,31153,Sarpy,41.1817,-96.1353,,,2118.8,polygon,FALSE,America/Chicago,68138
+Naper-NE,1840011035,Naper,Naper,NE,Naper-NE,Nebraska,31015,Boyd,42.9642,-99.097,80,80,228,polygon,TRUE,America/Chicago,68755
+Sutton-NE,1840003618,Sutton,Sutton,NE,Sutton-NE,Nebraska,31035,Clay,40.6064,-97.8795,1411,1411,273,polygon,TRUE,America/Chicago,68944 68979
+Belden-NE,1840011069,Belden,Belden,NE,Belden-NE,Nebraska,31027,Cedar,42.4117,-97.2073,113,113,293,polygon,TRUE,America/Chicago,68717
+Mills-NE,1840033164,Mills,Mills,NE,Mills-NE,Nebraska,31103,Keya Paha,42.9406,-99.444,,,5.1,point,FALSE,America/Chicago,68753
+Meadow Grove-NE,1840011362,Meadow Grove,Meadow Grove,NE,Meadow Grove-NE,Nebraska,31119,Madison,42.029,-97.736,301,301,380,polygon,TRUE,America/Chicago,68752
+Barneston-NE,1840012160,Barneston,Barneston,NE,Barneston-NE,Nebraska,31067,Gage,40.0488,-96.5736,114,114,180,polygon,TRUE,America/Chicago,68309
+Poole-NE,1840024237,Poole,Poole,NE,Poole-NE,Nebraska,31019,Buffalo,40.9871,-98.9655,,,4.8,polygon,FALSE,America/Chicago,68869
+Osceola-NE,1840009312,Osceola,Osceola,NE,Osceola-NE,Nebraska,31143,Polk,41.1781,-97.5498,843,843,353,polygon,TRUE,America/Chicago,68651
+Holdrege-NE,1840001131,Holdrege,Holdrege,NE,Holdrege-NE,Nebraska,31137,Phelps,40.4392,-99.3751,5398,5555,546,polygon,TRUE,America/Chicago,68949
+Franklin-NE,1840003710,Franklin,Franklin,NE,Franklin-NE,Nebraska,31061,Franklin,40.0966,-98.9514,929,929,361,polygon,TRUE,America/Chicago,68939
+Howe-NE,1840033150,Howe,Howe,NE,Howe-NE,Nebraska,31127,Nemaha,40.3219,-95.8192,,,13.3,point,FALSE,America/Chicago,68305
+Ashton-NE,1840011665,Ashton,Ashton,NE,Ashton-NE,Nebraska,31163,Sherman,41.2478,-98.7951,189,189,123,polygon,TRUE,America/Chicago,68817
+Ruskin-NE,1840012271,Ruskin,Ruskin,NE,Ruskin-NE,Nebraska,31129,Nuckolls,40.144,-97.867,118,118,108,polygon,TRUE,America/Chicago,68974
+Obert-NE,1840011074,Obert,Obert,NE,Obert-NE,Nebraska,31027,Cedar,42.6895,-97.0274,23,23,121,polygon,TRUE,America/Chicago,68757
+Weston-NE,1840011639,Weston,Weston,NE,Weston-NE,Nebraska,31155,Saunders,41.1931,-96.7422,326,326,564,polygon,TRUE,America/Chicago,68070
+Stamford-NE,1840012303,Stamford,Stamford,NE,Stamford-NE,Nebraska,31083,Harlan,40.1313,-99.5945,186,186,151,polygon,TRUE,America/Chicago,68977
+Harbine-NE,1840012284,Harbine,Harbine,NE,Harbine-NE,Nebraska,31095,Jefferson,40.1917,-96.9742,47,47,173,polygon,TRUE,America/Chicago,68377
+Haigler-NE,1840012274,Haigler,Haigler,NE,Haigler-NE,Nebraska,31057,Dundy,40.0122,-101.9387,150,150,238,polygon,TRUE,America/Denver,69030
+Murray-NE,1840011815,Murray,Murray,NE,Murray-NE,Nebraska,31025,Cass,40.9163,-95.9267,475,475,490,polygon,TRUE,America/Chicago,68409
+Hebron-NE,1840007250,Hebron,Hebron,NE,Hebron-NE,Nebraska,31169,Thayer,40.1681,-97.5872,1537,1537,422,polygon,TRUE,America/Chicago,68370
+Pleasanton-NE,1840011832,Pleasanton,Pleasanton,NE,Pleasanton-NE,Nebraska,31019,Buffalo,40.9698,-99.0876,350,350,400,polygon,TRUE,America/Chicago,68866
+Nehawka-NE,1840011816,Nehawka,Nehawka,NE,Nehawka-NE,Nebraska,31025,Cass,40.8295,-95.9901,206,206,351,polygon,TRUE,America/Chicago,68413
+Benkelman-NE,1840007246,Benkelman,Benkelman,NE,Benkelman-NE,Nebraska,31057,Dundy,40.0517,-101.5354,857,857,412,polygon,TRUE,America/Denver,69021
+Berea-NE,1840024099,Berea,Berea,NE,Berea-NE,Nebraska,31013,Box Butte,42.2123,-102.983,,,41.6,polygon,FALSE,America/Denver,69301
+Cushing-NE,1840011661,Cushing,Cushing,NE,Cushing-NE,Nebraska,31093,Howard,41.2949,-98.3691,32,32,40,polygon,TRUE,America/Chicago,68873
+Lindy-NE,1840024089,Lindy,Lindy,NE,Lindy-NE,Nebraska,31107,Knox,42.7351,-97.7499,,,8.5,polygon,FALSE,America/Chicago,68718
+Hubbard-NE,1840011103,Hubbard,Hubbard,NE,Hubbard-NE,Nebraska,31043,Dakota,42.3861,-96.5914,231,231,538,polygon,TRUE,America/Chicago,68741
+Dickens-NE,1840033189,Dickens,Dickens,NE,Dickens-NE,Nebraska,31111,Lincoln,40.8261,-100.9929,,,7.3,point,FALSE,America/Chicago,69132
+Parks-NE,1840024327,Parks,Parks,NE,Parks-NE,Nebraska,31057,Dundy,40.0437,-101.7251,,,0.7,polygon,FALSE,America/Denver,69041
+Central City-NE,1840003466,Central City,Central City,NE,Central City-NE,Nebraska,31121,Merrick,41.1132,-98.0002,2793,2905,483,polygon,TRUE,America/Chicago,68826
+Loup City-NE,1840009314,Loup City,Loup City,NE,Loup City-NE,Nebraska,31163,Sherman,41.2766,-98.9678,1000,1000,409,polygon,TRUE,America/Chicago,68853
+Cortland-NE,1840012162,Cortland,Cortland,NE,Cortland-NE,Nebraska,31067,Gage,40.5059,-96.7063,472,472,693,polygon,TRUE,America/Chicago,68331
+Moorefield-NE,1840012034,Moorefield,Moorefield,NE,Moorefield-NE,Nebraska,31063,Frontier,40.6899,-100.4004,31,31,71,polygon,TRUE,America/Chicago,69039
+Center-NE,1840010090,Center,Center,NE,Center-NE,Nebraska,31107,Knox,42.609,-97.8761,93,93,343,polygon,TRUE,America/Chicago,68724 68789
+Merriman-NE,1840011041,Merriman,Merriman,NE,Merriman-NE,Nebraska,31031,Cherry,42.923,-101.6997,131,131,49,polygon,TRUE,America/Denver,69218
+Curtis-NE,1840007213,Curtis,Curtis,NE,Curtis-NE,Nebraska,31063,Frontier,40.6335,-100.5112,896,896,288,polygon,TRUE,America/Chicago,69025
+David City-NE,1840003454,David City,David City,NE,David City-NE,Nebraska,31023,Butler,41.2601,-97.1295,2789,2815,526,polygon,TRUE,America/Chicago,68632
+Geneva-NE,1840008333,Geneva,Geneva,NE,Geneva-NE,Nebraska,31059,Fillmore,40.5295,-97.5991,2162,2162,408,polygon,TRUE,America/Chicago,68361
+Belmar-NE,1840024159,Belmar,Belmar,NE,Belmar-NE,Nebraska,31101,Keith,41.3055,-101.9346,,,16.9,polygon,FALSE,America/Denver,69147
+Darr-NE,1840033140,Darr,Darr,NE,Darr-NE,Nebraska,31047,Dawson,40.8208,-99.8837,,,6.3,point,FALSE,America/Chicago,69130
+Mynard-NE,1840033165,Mynard,Mynard,NE,Mynard-NE,Nebraska,31025,Cass,40.9736,-95.9239,,,15.2,point,FALSE,America/Chicago,68048
+Tekamah-NE,1840003263,Tekamah,Tekamah,NE,Tekamah-NE,Nebraska,31021,Burt,41.7779,-96.2248,1730,1730,418,polygon,TRUE,America/Chicago,68061
+Arapahoe-NE,1840007248,Arapahoe,Arapahoe,NE,Arapahoe-NE,Nebraska,31065,Furnas,40.3049,-99.898,997,997,389,polygon,TRUE,America/Chicago,68922
+Johnstown-NE,1840011076,Johnstown,Johnstown,NE,Johnstown-NE,Nebraska,31017,Brown,42.5721,-100.0563,61,61,44,polygon,TRUE,America/Chicago,69214
+Omaha-NE,1840009315,Omaha,Omaha,NE,Omaha-NE,Nebraska,31055,Douglas,41.2634,-96.0453,792463,446970,1295,polygon,TRUE,America/Chicago,68116 68118 68106 68107 68105 68108 68178 68111 68122 68127 68124 68110 68112 68114 68117 68022 68132 68144 68137 68135 68134 68131 68130 68102 68104 68164 68152 68154 68101 68103 68109 68119 68139 68145 68172 68175 68176 68179 68180 68182 68183 68198
+Winside-NE,1840011215,Winside,Winside,NE,Winside-NE,Nebraska,31179,Wayne,42.1774,-97.1752,407,407,602,polygon,TRUE,America/Chicago,68790
+Roscoe-NE,1840024163,Roscoe,Roscoe,NE,Roscoe-NE,Nebraska,31101,Keith,41.1317,-101.5853,,,82.5,polygon,FALSE,America/Denver,69153
+Wellfleet-NE,1840011653,Wellfleet,Wellfleet,NE,Wellfleet-NE,Nebraska,31111,Lincoln,40.7539,-100.7318,76,76,108,polygon,TRUE,America/Chicago,69170
+Arnold-NE,1840011467,Arnold,Arnold,NE,Arnold-NE,Nebraska,31041,Custer,41.4232,-100.1936,578,578,333,polygon,TRUE,America/Chicago,69120
+Crete-NE,1840007215,Crete,Crete,NE,Crete-NE,Nebraska,31151,Saline,40.6256,-96.957,7047,7059,932,polygon,TRUE,America/Chicago,68333
+Plymouth-NE,1840012289,Plymouth,Plymouth,NE,Plymouth-NE,Nebraska,31095,Jefferson,40.3023,-96.9886,382,382,467,polygon,TRUE,America/Chicago,68424
+Brownville-NE,1840010433,Brownville,Brownville,NE,Brownville-NE,Nebraska,31127,Nemaha,40.3975,-95.6608,127,127,74,polygon,TRUE,America/Chicago,68321
+Riverdale-NE,1840011833,Riverdale,Riverdale,NE,Riverdale-NE,Nebraska,31019,Buffalo,40.7839,-99.1605,185,185,270,polygon,TRUE,America/Chicago,68870
+Leshara-NE,1840011631,Leshara,Leshara,NE,Leshara-NE,Nebraska,31155,Saunders,41.3298,-96.4292,110,110,615,polygon,TRUE,America/Chicago,68064
+Dorchester-NE,1840012056,Dorchester,Dorchester,NE,Dorchester-NE,Nebraska,31151,Saline,40.6476,-97.1152,576,576,467,polygon,TRUE,America/Chicago,68343
+Malcolm-NE,1840011851,Malcolm,Malcolm,NE,Malcolm-NE,Nebraska,31109,Lancaster,40.9088,-96.8655,403,403,1107,polygon,TRUE,America/Chicago,68402
+Mintle-NE,1840033193,Mintle,Mintle,NE,Mintle-NE,Nebraska,31157,Scotts Bluff,41.9458,-103.6805,,,6.5,point,FALSE,America/Denver,69357
+Rosalie-NE,1840011218,Rosalie,Rosalie,NE,Rosalie-NE,Nebraska,31173,Thurston,42.0574,-96.5128,164,164,323,polygon,TRUE,America/Chicago,68055
+Elwood-NE,1840012042,Elwood,Elwood,NE,Elwood-NE,Nebraska,31073,Gosper,40.5897,-99.8616,682,682,508,polygon,TRUE,America/Chicago,68937
+Colon-NE,1840011632,Colon,Colon,NE,Colon-NE,Nebraska,31155,Saunders,41.298,-96.607,108,108,319,polygon,TRUE,America/Chicago,68018
+Hallam-NE,1840011845,Hallam,Hallam,NE,Hallam-NE,Nebraska,31109,Lancaster,40.5374,-96.7866,236,236,535,polygon,TRUE,America/Chicago,68368
+Blue Springs-NE,1840007234,Blue Springs,Blue Springs,NE,Blue Springs-NE,Nebraska,31067,Gage,40.1375,-96.663,319,319,160,polygon,TRUE,America/Chicago,68318
+Chambers-NE,1840010089,Chambers,Chambers,NE,Chambers-NE,Nebraska,31089,Holt,42.2048,-98.7486,263,263,99,polygon,TRUE,America/Chicago,68725
+Oakland-NE,1840000501,Oakland,Oakland,NE,Oakland-NE,Nebraska,31021,Burt,41.8354,-96.4667,1192,1192,495,polygon,TRUE,America/Chicago,68045

@@ -1,0 +1,763 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Delta-AL,1840022972,Delta,Delta,AL,Delta-AL,Alabama,1027,Clay,33.447,-85.6746,,,15.5,polygon,FALSE,America/Chicago,36258
+Hendrix-AL,1840025220,Hendrix,Hendrix,AL,Hendrix-AL,Alabama,1009,Blount,34.0382,-86.4533,,,39.4,point,FALSE,America/Chicago,35031
+Shelby-AL,1840022965,Shelby,Shelby,AL,Shelby-AL,Alabama,1117,Shelby,33.1068,-86.5825,,,188.6,polygon,FALSE,America/Chicago,35051 35143
+Natural Bridge-AL,1840016711,Natural Bridge,Natural Bridge,AL,Natural Bridge-AL,Alabama,1133,Winston,34.0904,-87.6014,36,36,32,polygon,TRUE,America/Chicago,35575 35577
+Ohatchee-AL,1840016782,Ohatchee,Ohatchee,AL,Ohatchee-AL,Alabama,1015,Calhoun,33.7878,-86.0278,1138,1138,74,polygon,TRUE,America/Chicago,36271
+Abernant-AL,1840023696,Abernant,Abernant,AL,Abernant-AL,Alabama,1125,Tuscaloosa,33.2904,-87.1981,,,140.8,point,FALSE,America/Chicago,35444
+Suttle-AL,1840027545,Suttle,Suttle,AL,Suttle-AL,Alabama,1105,Perry,32.5362,-87.1797,,,7.2,point,FALSE,America/Chicago,36701
+Pinson-AL,1840022941,Pinson,Pinson,AL,Pinson-AL,Alabama,1073,Jefferson,33.7064,-86.6654,7426,7426,253,polygon,TRUE,America/Chicago,35215 35126 35123
+Snow Hill-AL,1840027568,Snow Hill,Snow Hill,AL,Snow Hill-AL,Alabama,1131,Wilcox,32.0046,-87.0072,,,8.9,point,FALSE,America/Chicago,36768
+Vincent-AL,1840016848,Vincent,Vincent,AL,Vincent-AL,Alabama,1117,Shelby,33.3848,-86.4086,2118,2118,39,polygon,TRUE,America/Chicago,35178
+Minor-AL,1840013726,Minor,Minor,AL,Minor-AL,Alabama,1073,Jefferson,33.539,-86.9402,,,498.1,polygon,FALSE,America/Chicago,35224
+Hoover-AL,1840014795,Hoover,Hoover,AL,Hoover-AL,Alabama,1073,Jefferson,33.3761,-86.8065,84978,84978,698,polygon,TRUE,America/Chicago,35216 35242 35244 35226
+Columbia-AL,1840017129,Columbia,Columbia,AL,Columbia-AL,Alabama,1069,Houston,31.2968,-85.1103,729,729,71,polygon,TRUE,America/New_York,36319
+Trussville-AL,1840015672,Trussville,Trussville,AL,Trussville-AL,Alabama,1073,Jefferson,33.6389,-86.5832,21422,21422,248,polygon,TRUE,America/Chicago,35235 35173 35015
+Bessemer-AL,1840013732,Bessemer,Bessemer,AL,Bessemer-AL,Alabama,1073,Jefferson,33.3709,-86.9713,26511,26511,252,polygon,TRUE,America/Chicago,35022 35020 35021
+Spanish Fort-AL,1840015879,Spanish Fort,Spanish Fort,AL,Spanish Fort-AL,Alabama,1003,Baldwin,30.7257,-87.8602,8327,8327,106,polygon,TRUE,America/Chicago,36507 36527 36578 36577
+Silas-AL,1840018123,Silas,Silas,AL,Silas-AL,Alabama,1023,Choctaw,31.7678,-88.3258,426,426,31,polygon,TRUE,America/Chicago,36919
+Verbena-AL,1840027549,Verbena,Verbena,AL,Verbena-AL,Alabama,1021,Chilton,32.7499,-86.5114,,,65.1,point,FALSE,America/Chicago,36091
+Tennant-AL,1840027593,Tennant,Tennant,AL,Tennant-AL,Alabama,1111,Randolph,33.2682,-85.4569,,,6,point,FALSE,America/Chicago,36274
+Hokes Bluff-AL,1840014733,Hokes Bluff,Hokes Bluff,AL,Hokes Bluff-AL,Alabama,1055,Etowah,33.9902,-85.8639,4277,4277,138,polygon,TRUE,America/Chicago,35903 35905
+Union-AL,1840016909,Union,Union,AL,Union-AL,Alabama,1063,Greene,32.9938,-87.9071,221,221,103,polygon,TRUE,America/Chicago,35462
+Reeltown-AL,1840023018,Reeltown,Reeltown,AL,Reeltown-AL,Alabama,1123,Tallapoosa,32.5788,-85.8189,,,25.8,polygon,FALSE,America/Chicago,36078 36866
+Argo-AL,1840015668,Argo,Argo,AL,Argo-AL,Alabama,1073,Jefferson,33.6962,-86.5066,4213,4213,151,polygon,TRUE,America/Chicago,35173 35120
+Eoline-AL,1840027610,Eoline,Eoline,AL,Eoline-AL,Alabama,1007,Bibb,32.9951,-87.2322,,,27.7,point,FALSE,America/Chicago,35042
+Batesville-AL,1840027572,Batesville,Batesville,AL,Batesville-AL,Alabama,1005,Barbour,32.009,-85.311,,,12.3,point,FALSE,America/Chicago,36053
+Waterloo-AL,1840016505,Waterloo,Waterloo,AL,Waterloo-AL,Alabama,1077,Lauderdale,34.9172,-88.0655,198,198,102,polygon,TRUE,America/Chicago,35677
+Aliceville-AL,1840013758,Aliceville,Aliceville,AL,Aliceville-AL,Alabama,1107,Pickens,33.1237,-88.1594,2357,2357,199,polygon,TRUE,America/Chicago,35442
+Monroeville-AL,1840005191,Monroeville,Monroeville,AL,Monroeville-AL,Alabama,1099,Monroe,31.5164,-87.328,4503,6072,175,polygon,TRUE,America/Chicago,36460 36461
+Triana-AL,1840016520,Triana,Triana,AL,Triana-AL,Alabama,1089,Madison,34.5904,-86.7418,529,529,166,polygon,TRUE,America/Chicago,35756
+Goshen-AL,1840003403,Goshen,Goshen,AL,Goshen-AL,Alabama,1109,Pike,31.7182,-86.1242,255,255,38,polygon,TRUE,America/Chicago,36035
+Smoke Rise-AL,1840013654,Smoke Rise,Smoke Rise,AL,Smoke Rise-AL,Alabama,1009,Blount,33.879,-86.8241,,,53.3,polygon,FALSE,America/Chicago,35180
+Hacoda-AL,1840025216,Hacoda,Hacoda,AL,Hacoda-AL,Alabama,1061,Geneva,31.0749,-86.1663,,,17.5,point,FALSE,America/Chicago,36453
+Brundidge-AL,1840013848,Brundidge,Brundidge,AL,Brundidge-AL,Alabama,1109,Pike,31.7182,-85.8177,1972,1972,78,polygon,TRUE,America/Chicago,36010
+Wren-AL,1840027624,Wren,Wren,AL,Wren-AL,Alabama,1079,Lawrence,34.4343,-87.2936,,,47.4,point,FALSE,America/Chicago,35650
+Magnolia Springs-AL,1840017124,Magnolia Springs,Magnolia Springs,AL,Magnolia Springs-AL,Alabama,1003,Baldwin,30.4002,-87.7749,802,802,344,polygon,TRUE,America/Chicago,36535 36555
+Center Point-AL,1840014789,Center Point,Center Point,AL,Center Point-AL,Alabama,1073,Jefferson,33.6447,-86.6851,16496,16496,1026,polygon,TRUE,America/Chicago,35215
+Snowdoun-AL,1840027495,Snowdoun,Snowdoun,AL,Snowdoun-AL,Alabama,1101,Montgomery,32.2415,-86.2964,,,17.2,point,FALSE,America/Chicago,36105
+Guin-AL,1840013640,Guin,Guin,AL,Guin-AL,Alabama,1093,Marion,33.983,-87.9017,2305,2305,59,polygon,TRUE,America/Chicago,35563
+Lakeview-AL,1840016551,Lakeview,Lakeview,AL,Lakeview-AL,Alabama,1049,DeKalb,34.3917,-85.9757,143,143,87,polygon,TRUE,America/Chicago,35971
+Libertyville-AL,1840017094,Libertyville,Libertyville,AL,Libertyville-AL,Alabama,1039,Covington,31.2428,-86.46,114,114,84,polygon,TRUE,America/Chicago,36420
+Cottondale-AL,1840023723,Cottondale,Cottondale,AL,Cottondale-AL,Alabama,1125,Tuscaloosa,33.1921,-87.4544,,,628.7,polygon,FALSE,America/Chicago,35404 35453
+Pittsview-AL,1840027538,Pittsview,Pittsview,AL,Pittsview-AL,Alabama,1113,Russell,32.1882,-85.1633,,,37.8,point,FALSE,America/Chicago,36871
+Kinsey-AL,1840017127,Kinsey,Kinsey,AL,Kinsey-AL,Alabama,1069,Houston,31.2926,-85.3354,3223,2187,69,polygon,TRUE,America/Chicago,36303 36345
+Hobson-AL,1840025959,Hobson,Hobson,AL,Hobson-AL,Alabama,1129,Washington,31.4724,-88.1533,,,43.5,point,FALSE,America/Chicago,36748 36742
+Lanett-AL,1840014858,Lanett,Lanett,AL,Lanett-AL,Alabama,1017,Chambers,32.8572,-85.2082,6393,6393,395,polygon,TRUE,America/Chicago,36863
+Piedmont-AL,1840014781,Piedmont,Piedmont,AL,Piedmont-AL,Alabama,1015,Calhoun,33.9267,-85.6157,3507,4666,183,polygon,TRUE,America/Chicago,36272
+Valley Grande-AL,1840015794,Valley Grande,Valley Grande,AL,Valley Grande-AL,Alabama,1047,Dallas,32.4862,-87.0305,3741,3741,43,polygon,TRUE,America/Chicago,36703 36701
+Crossville-AL,1840016554,Crossville,Crossville,AL,Crossville-AL,Alabama,1049,DeKalb,34.2853,-85.9996,1841,1841,84,polygon,TRUE,America/Chicago,35962
+McIntosh-AL,1840005189,McIntosh,McIntosh,AL,McIntosh-AL,Alabama,1129,Washington,31.265,-88.0284,225,225,87,polygon,TRUE,America/Chicago,36553
+Wilton-AL,1840016851,Wilton,Wilton,AL,Wilton-AL,Alabama,1117,Shelby,33.0813,-86.8799,682,682,275,polygon,TRUE,America/Chicago,35187 35115
+Highland Lake-AL,1840015602,Highland Lake,Highland Lake,AL,Highland Lake-AL,Alabama,1009,Blount,33.8876,-86.4244,425,425,100,polygon,TRUE,America/Chicago,35121
+Phenix City-AL,1840006012,Phenix City,Phenix City,AL,Phenix City-AL,Alabama,1113,Russell,32.4586,-85.025,37132,37132,513,polygon,TRUE,America/Chicago,36869 36867 36868
+Newbern-AL,1840016943,Newbern,Newbern,AL,Newbern-AL,Alabama,1065,Hale,32.592,-87.5331,178,178,59,polygon,TRUE,America/Chicago,36765
+Cullomburg-AL,1840025919,Cullomburg,Cullomburg,AL,Cullomburg-AL,Alabama,1023,Choctaw,31.7131,-88.2917,,,16,polygon,FALSE,America/Chicago,36919
+Brooksville-AL,1840023710,Brooksville,Brooksville,AL,Brooksville-AL,Alabama,1009,Blount,34.162,-86.4755,,,16.4,point,FALSE,America/Chicago,35031
+Walnut Grove-AL,1840016722,Walnut Grove,Walnut Grove,AL,Walnut Grove-AL,Alabama,1055,Etowah,34.0641,-86.2863,681,681,52,polygon,TRUE,America/Chicago,35952 35990
+Sheffield-AL,1840015537,Sheffield,Sheffield,AL,Sheffield-AL,Alabama,1033,Colbert,34.7556,-87.7008,9025,9025,547,polygon,TRUE,America/Chicago,35660
+Sumiton-AL,1840015640,Sumiton,Sumiton,AL,Sumiton-AL,Alabama,1127,Walker,33.7503,-87.0483,3862,2407,177,polygon,TRUE,America/Chicago,35062 35148
+Altoona-AL,1840000720,Altoona,Altoona,AL,Altoona-AL,Alabama,1055,Etowah,34.031,-86.3181,919,919,82,polygon,TRUE,America/Chicago,35952
+Hamilton-AL,1840003629,Hamilton,Hamilton,AL,Hamilton-AL,Alabama,1093,Marion,34.1346,-87.9755,6739,6739,68,polygon,TRUE,America/Chicago,35570
+Lamison-AL,1840025225,Lamison,Lamison,AL,Lamison-AL,Alabama,1131,Wilcox,32.1213,-87.5667,,,7.1,point,FALSE,America/Chicago,36728
+Silverhill-AL,1840018194,Silverhill,Silverhill,AL,Silverhill-AL,Alabama,1003,Baldwin,30.5455,-87.7494,802,802,258,polygon,TRUE,America/Chicago,36576
+Sunny South-AL,1840027501,Sunny South,Sunny South,AL,Sunny South-AL,Alabama,1131,Wilcox,31.9649,-87.64,,,17.1,point,FALSE,America/Chicago,36769
+Rock Creek-AL,1840027632,Rock Creek,Rock Creek,AL,Rock Creek-AL,Alabama,1073,Jefferson,33.4772,-87.0812,,,148.9,polygon,FALSE,America/Chicago,35023
+Vance-AL,1840016842,Vance,Vance,AL,Vance-AL,Alabama,1125,Tuscaloosa,33.1746,-87.2313,1501,1501,57,polygon,TRUE,America/Chicago,35188 35490
+Gadsden-AL,1840006332,Gadsden,Gadsden,AL,Gadsden-AL,Alabama,1055,Etowah,34.009,-86.0156,62402,35837,370,polygon,TRUE,America/Chicago,35901 35903 35904 35902
+Brilliant-AL,1840015586,Brilliant,Brilliant,AL,Brilliant-AL,Alabama,1093,Marion,34.0253,-87.7692,879,879,31,polygon,TRUE,America/Chicago,35594 35548
+Calera-AL,1840013757,Calera,Calera,AL,Calera-AL,Alabama,1117,Shelby,33.1249,-86.745,13489,13489,216,polygon,TRUE,America/Chicago,35040
+Pisgah-AL,1840016529,Pisgah,Pisgah,AL,Pisgah-AL,Alabama,1071,Jackson,34.6844,-85.846,707,707,56,polygon,TRUE,America/Chicago,35765
+Springville-AL,1840015642,Springville,Springville,AL,Springville-AL,Alabama,1115,St. Clair,33.7643,-86.4749,2891,4251,184,polygon,TRUE,America/Chicago,35146
+Berry-AL,1840015661,Berry,Berry,AL,Berry-AL,Alabama,1057,Fayette,33.6623,-87.6079,1099,1099,39,polygon,TRUE,America/Chicago,35546
+Clay-AL,1840014790,Clay,Clay,AL,Clay-AL,Alabama,1073,Jefferson,33.698,-86.6068,9587,9587,372,polygon,TRUE,America/Chicago,35173 35126 35048
+Opp-AL,1840014960,Opp,Opp,AL,Opp-AL,Alabama,1039,Covington,31.2848,-86.257,4753,6586,107,polygon,TRUE,America/Chicago,36467
+Trafford-AL,1840016804,Trafford,Trafford,AL,Trafford-AL,Alabama,1073,Jefferson,33.8194,-86.7467,627,627,99,polygon,TRUE,America/Chicago,35180 35172
+Wilmer-AL,1840027512,Wilmer,Wilmer,AL,Wilmer-AL,Alabama,1097,Mobile,30.8232,-88.3614,,,76.8,point,FALSE,America/Chicago,36587
+Webb-AL,1840017134,Webb,Webb,AL,Webb-AL,Alabama,1069,Houston,31.2572,-85.2898,1396,1396,48,polygon,TRUE,America/Chicago,36376 36321
+Camp Hill-AL,1840015761,Camp Hill,Camp Hill,AL,Camp Hill-AL,Alabama,1123,Tallapoosa,32.8002,-85.6536,975,975,41,polygon,TRUE,America/Chicago,36850
+Beatrice-AL,1840015858,Beatrice,Beatrice,AL,Beatrice-AL,Alabama,1099,Monroe,31.7332,-87.209,283,283,80,polygon,TRUE,America/Chicago,36425
+Fort Davis-AL,1840023732,Fort Davis,Fort Davis,AL,Fort Davis-AL,Alabama,1087,Macon,32.2432,-85.7097,,,39,point,FALSE,America/Chicago,36031
+Talladega-AL,1840008244,Talladega,Talladega,AL,Talladega-AL,Alabama,1121,Talladega,33.4329,-86.0976,13298,15451,233,polygon,TRUE,America/Chicago,35160 35161
+Grayson-AL,1840027611,Grayson,Grayson,AL,Grayson-AL,Alabama,1133,Winston,34.2804,-87.3195,,,18.4,point,FALSE,America/Chicago,35572
+Seale-AL,1840005555,Seale,Seale,AL,Seale-AL,Alabama,1113,Russell,32.2974,-85.1688,,,92.9,point,FALSE,America/Chicago,36875
+Scottsboro-AL,1840005605,Scottsboro,Scottsboro,AL,Scottsboro-AL,Alabama,1071,Jackson,34.6438,-86.0491,10006,14677,111,polygon,TRUE,America/Chicago,35768 35769
+Russellville-AL,1840004247,Russellville,Russellville,AL,Russellville-AL,Alabama,1059,Franklin,34.5056,-87.7282,9850,9815,282,polygon,TRUE,America/Chicago,35654 35653
+Collbran-AL,1840027576,Collbran,Collbran,AL,Collbran-AL,Alabama,1049,DeKalb,34.3759,-85.7786,,,26.7,point,FALSE,America/Chicago,35967
+Fort Morgan-AL,1840027579,Fort Morgan,Fort Morgan,AL,Fort Morgan-AL,Alabama,1003,Baldwin,30.2285,-88.0231,,,3.6,point,FALSE,America/Chicago,36542
+Reform-AL,1840018010,Reform,Reform,AL,Reform-AL,Alabama,1107,Pickens,33.3788,-88.0173,1616,1616,77,polygon,TRUE,America/Chicago,35481
+Providence-AL,1840018105,Providence,Providence,AL,Providence-AL,Alabama,1091,Marengo,32.3424,-87.7761,210,210,46,polygon,TRUE,America/Chicago,36748 36742
+Louisville-AL,1840003795,Louisville,Louisville,AL,Louisville-AL,Alabama,1005,Barbour,31.781,-85.5583,477,477,67,polygon,TRUE,America/Chicago,36048
+Selmont-AL,1840027489,Selmont,Selmont,AL,Selmont-AL,Alabama,1047,Dallas,32.3951,-87.0083,,,224.8,point,FALSE,America/Chicago,36703
+Alberta-AL,1840027555,Alberta,Alberta,AL,Alberta-AL,Alabama,1131,Wilcox,32.2321,-87.41,,,62.7,point,FALSE,America/Chicago,36720
+Centreville-AL,1840007089,Centreville,Centreville,AL,Centreville-AL,Alabama,1007,Bibb,32.9597,-87.1334,2708,2708,110,polygon,TRUE,America/Chicago,35042
+Alabaster-AL,1840013756,Alabaster,Alabaster,AL,Alabaster-AL,Alabama,1117,Shelby,33.2197,-86.8233,32948,32948,511,polygon,TRUE,America/Chicago,35114 35007 35137 35144
+Childersburg-AL,1840014813,Childersburg,Childersburg,AL,Childersburg-AL,Alabama,1121,Talladega,33.2961,-86.3457,4997,4997,156,polygon,TRUE,America/Chicago,35044 35014
+Vernon-AL,1840005593,Vernon,Vernon,AL,Vernon-AL,Alabama,1075,Lamar,33.7589,-88.1144,1896,1896,124,polygon,TRUE,America/Chicago,35592
+Wagarville-AL,1840027508,Wagarville,Wagarville,AL,Wagarville-AL,Alabama,1129,Washington,31.4363,-88.0283,,,76.2,point,FALSE,America/Chicago,36585
+Needham-AL,1840017018,Needham,Needham,AL,Needham-AL,Alabama,1023,Choctaw,31.987,-88.3366,89,89,60,polygon,TRUE,America/Chicago,36915 36921
+Akron-AL,1840015775,Akron,Akron,AL,Akron-AL,Alabama,1065,Hale,32.8785,-87.7429,334,334,188,polygon,TRUE,America/Chicago,35441
+Ranburne-AL,1840017996,Ranburne,Ranburne,AL,Ranburne-AL,Alabama,1029,Cleburne,33.5259,-85.339,407,407,99,polygon,TRUE,America/Chicago,36273
+Memphis-AL,1840016852,Memphis,Memphis,AL,Memphis-AL,Alabama,1107,Pickens,33.1369,-88.3008,28,28,27,polygon,TRUE,America/Chicago,35442
+Brighton-AL,1840013734,Brighton,Brighton,AL,Brighton-AL,Alabama,1073,Jefferson,33.4392,-86.9454,2833,2833,771,polygon,TRUE,America/Chicago,35020
+Land-AL,1840025226,Land,Land,AL,Land-AL,Alabama,1023,Choctaw,32.0288,-88.3284,,,6.2,point,FALSE,America/Chicago,36904
+Glencoe-AL,1840003257,Glencoe,Glencoe,AL,Glencoe-AL,Alabama,1055,Etowah,33.9447,-85.9319,5135,5135,117,polygon,TRUE,America/Chicago,35903 35905
+Boligee-AL,1840015759,Boligee,Boligee,AL,Boligee-AL,Alabama,1063,Greene,32.7699,-88.0264,306,306,29,polygon,TRUE,America/Chicago,35443
+Kennedy-AL,1840016755,Kennedy,Kennedy,AL,Kennedy-AL,Alabama,1075,Lamar,33.5809,-87.9862,429,429,53,polygon,TRUE,America/Chicago,35574
+Eva-AL,1840001840,Eva,Eva,AL,Eva-AL,Alabama,1103,Morgan,34.3271,-86.7616,508,508,48,polygon,TRUE,America/Chicago,35621
+Tanner-AL,1840027546,Tanner,Tanner,AL,Tanner-AL,Alabama,1083,Limestone,34.7315,-86.9706,,,305.5,point,FALSE,America/Chicago,35671
+West Jefferson-AL,1840016805,West Jefferson,West Jefferson,AL,West Jefferson-AL,Alabama,1073,Jefferson,33.6499,-87.0656,331,331,136,polygon,TRUE,America/Chicago,35130 35062
+Loxley-AL,1840017123,Loxley,Loxley,AL,Loxley-AL,Alabama,1003,Baldwin,30.6822,-87.7418,2017,2017,24,polygon,TRUE,America/Chicago,36551 36527 36578
+Dauphin Island-AL,1840017141,Dauphin Island,Dauphin Island,AL,Dauphin Island-AL,Alabama,1097,Mobile,30.2525,-88.1438,1261,1261,77,polygon,TRUE,America/Chicago,36528
+Taylor-AL,1840017133,Taylor,Taylor,AL,Taylor-AL,Alabama,1069,Houston,31.1657,-85.4697,2393,2393,125,polygon,TRUE,America/Chicago,36301 36305
+Hardaway-AL,1840025217,Hardaway,Hardaway,AL,Hardaway-AL,Alabama,1087,Macon,32.2865,-85.8488,,,11.8,point,FALSE,America/Chicago,36039
+Opelika-AL,1840005210,Opelika,Opelika,AL,Opelika-AL,Alabama,1081,Lee,32.6621,-85.3773,29869,29869,193,polygon,TRUE,America/Chicago,36801 36804 36802 36803
+Tillmans Corner-AL,1840013896,Tillmans Corner,Tillmans Corner,AL,Tillmans Corner-AL,Alabama,1097,Mobile,30.5818,-88.2128,,,207.3,polygon,FALSE,America/Chicago,36582 36619
+Hollis Crossroads-AL,1840022933,Hollis Crossroads,Hollis Crossroads,AL,Hollis Crossroads-AL,Alabama,1029,Cleburne,33.5231,-85.6437,,,33.5,polygon,FALSE,America/Chicago,36264 36258
+Frankville-AL,1840027601,Frankville,Frankville,AL,Frankville-AL,Alabama,1129,Washington,31.6465,-88.1475,,,17.4,point,FALSE,America/Chicago,36558
+Salitpa-AL,1840027542,Salitpa,Salitpa,AL,Salitpa-AL,Alabama,1025,Clarke,31.6296,-88.02,,,4.6,point,FALSE,America/Chicago,36545
+Fredonia-AL,1840023013,Fredonia,Fredonia,AL,Fredonia-AL,Alabama,1017,Chambers,32.9861,-85.2912,,,7.5,polygon,FALSE,America/Chicago,36855 36863
+Steele-AL,1840016773,Steele,Steele,AL,Steele-AL,Alabama,1115,St. Clair,33.937,-86.2004,1086,1086,62,polygon,TRUE,America/Chicago,35987
+Orion-AL,1840027533,Orion,Orion,AL,Orion-AL,Alabama,1109,Pike,31.9588,-86.0055,,,5.9,point,FALSE,America/Chicago,36081
+Petersville-AL,1840027037,Petersville,Petersville,AL,Petersville-AL,Alabama,1077,Lauderdale,34.8554,-87.6917,,,1047.9,point,FALSE,America/Chicago,35633
+Movico-AL,1840025983,Movico,Movico,AL,Movico-AL,Alabama,1097,Mobile,31.0628,-88.0266,,,188.2,polygon,FALSE,America/Chicago,36560
+Gordo-AL,1840003367,Gordo,Gordo,AL,Gordo-AL,Alabama,1107,Pickens,33.322,-87.904,1672,1672,198,polygon,TRUE,America/Chicago,35466
+Pike Road-AL,1840017000,Pike Road,Pike Road,AL,Pike Road-AL,Alabama,1101,Montgomery,32.2909,-86.0917,8777,8777,107,polygon,TRUE,America/Chicago,36064 36116 36013
+Forkland-AL,1840002097,Forkland,Forkland,AL,Forkland-AL,Alabama,1063,Greene,32.6489,-87.8671,597,597,65,polygon,TRUE,America/Chicago,36740
+Calhoun-AL,1840023712,Calhoun,Calhoun,AL,Calhoun-AL,Alabama,1085,Lowndes,32.0501,-86.545,,,15.8,point,FALSE,America/Chicago,36047
+Isbell-AL,1840027526,Isbell,Isbell,AL,Isbell-AL,Alabama,1059,Franklin,34.4554,-87.7539,,,49.2,point,FALSE,America/Chicago,35653
+The Colony-AL,1840027629,The Colony,The Colony,AL,The Colony-AL,Alabama,1043,Cullman,33.9457,-86.9017,,,37.8,point,TRUE,America/Chicago,35077
+Grayson Valley-AL,1840027631,Grayson Valley,Grayson Valley,AL,Grayson Valley-AL,Alabama,1073,Jefferson,33.647,-86.6414,,,1340.2,polygon,FALSE,America/Chicago,35235
+North Johns-AL,1840016806,North Johns,North Johns,AL,North Johns-AL,Alabama,1073,Jefferson,33.368,-87.1009,141,141,267,polygon,TRUE,America/Chicago,35006
+New Site-AL,1840016915,New Site,New Site,AL,New Site-AL,Alabama,1123,Tallapoosa,33.0283,-85.7801,754,754,29,polygon,TRUE,America/Chicago,36256
+Shopton-AL,1840027492,Shopton,Shopton,AL,Shopton-AL,Alabama,1011,Bullock,32.1171,-85.9422,,,1.6,point,FALSE,America/Chicago,36029
+North Bibb-AL,1840027630,North Bibb,North Bibb,AL,North Bibb-AL,Alabama,1007,Bibb,33.204,-87.1531,,,117.2,point,TRUE,America/Chicago,35188
+Clopton-AL,1840023719,Clopton,Clopton,AL,Clopton-AL,Alabama,1045,Dale,31.6085,-85.4299,,,4.3,point,FALSE,America/Chicago,36374
+Tuscaloosa-AL,1840005563,Tuscaloosa,Tuscaloosa,AL,Tuscaloosa-AL,Alabama,1125,Tuscaloosa,33.2349,-87.5268,153060,99543,623,polygon,TRUE,America/Chicago,35475 35476 35405 35404 35406 35401 35402 35403 35407 35486 35487
+Moores Bridge-AL,1840027603,Moores Bridge,Moores Bridge,AL,Moores Bridge-AL,Alabama,1125,Tuscaloosa,33.4487,-87.7936,,,8.3,point,FALSE,America/Chicago,35555
+Notasulga-AL,1840016981,Notasulga,Notasulga,AL,Notasulga-AL,Alabama,1087,Macon,32.5569,-85.6695,850,850,23,polygon,TRUE,America/Chicago,36866
+Bolling-AL,1840023705,Bolling,Bolling,AL,Bolling-AL,Alabama,1013,Butler,31.7254,-86.7058,,,4.7,point,FALSE,America/Chicago,36033
+Underwood-AL,1840027505,Underwood,Underwood,AL,Underwood-AL,Alabama,1077,Lauderdale,34.8712,-87.7009,,,197.4,point,FALSE,America/Chicago,35633
+Pinckard-AL,1840017089,Pinckard,Pinckard,AL,Pinckard-AL,Alabama,1045,Dale,31.3173,-85.543,627,627,45,polygon,TRUE,America/Chicago,36371
+Clayton-AL,1840001251,Clayton,Clayton,AL,Clayton-AL,Alabama,1005,Barbour,31.8824,-85.4606,2904,2904,167,polygon,TRUE,America/Chicago,36016
+Sylacauga-AL,1840015700,Sylacauga,Sylacauga,AL,Sylacauga-AL,Alabama,1121,Talladega,33.1779,-86.2606,17696,12540,239,polygon,TRUE,America/Chicago,35151 35150
+Carrollton-AL,1840004806,Carrollton,Carrollton,AL,Carrollton-AL,Alabama,1107,Pickens,33.2619,-88.0951,980,980,183,polygon,TRUE,America/Chicago,35447
+Goodwater-AL,1840007377,Goodwater,Goodwater,AL,Goodwater-AL,Alabama,1037,Coosa,33.0608,-86.0516,1324,1324,78,polygon,TRUE,America/Chicago,35072
+Hatchechubbee-AL,1840025218,Hatchechubbee,Hatchechubbee,AL,Hatchechubbee-AL,Alabama,1113,Russell,32.2707,-85.2758,,,9.9,point,FALSE,America/Chicago,36858
+Lowndesboro-AL,1840017005,Lowndesboro,Lowndesboro,AL,Lowndesboro-AL,Alabama,1085,Lowndes,32.2764,-86.6108,107,107,52,polygon,TRUE,America/Chicago,36752
+Arkadelphia-AL,1840023698,Arkadelphia,Arkadelphia,AL,Arkadelphia-AL,Alabama,1043,Cullman,33.9051,-86.9625,,,20.7,point,FALSE,America/Chicago,35077
+Fort Mitchell-AL,1840023733,Fort Mitchell,Fort Mitchell,AL,Fort Mitchell-AL,Alabama,1113,Russell,32.3415,-85.0216,,,46.6,point,FALSE,America/Chicago,36856
+Spring Hill-AL,1840027544,Spring Hill,Spring Hill,AL,Spring Hill-AL,Alabama,1109,Pike,31.691,-85.9605,,,25.5,point,FALSE,America/Chicago,36079
+Fitzpatrick-AL,1840025920,Fitzpatrick,Fitzpatrick,AL,Fitzpatrick-AL,Alabama,1011,Bullock,32.2114,-85.8784,,,11.9,polygon,FALSE,America/Chicago,36029
+County Line-AL,1840016719,County Line,County Line,AL,County Line-AL,Alabama,1009,Blount,33.821,-86.7198,260,260,103,polygon,TRUE,America/Chicago,35172
+Gulfcrest-AL,1840025982,Gulfcrest,Gulfcrest,AL,Gulfcrest-AL,Alabama,1097,Mobile,30.9955,-88.2375,,,66.2,point,FALSE,America/Chicago,35954
+Cowarts-AL,1840017131,Cowarts,Cowarts,AL,Cowarts-AL,Alabama,1069,Houston,31.204,-85.3062,1994,1994,103,polygon,TRUE,America/Chicago,36303 36321
+Plevna-AL,1840027040,Plevna,Plevna,AL,Plevna-AL,Alabama,1089,Madison,34.9618,-86.4167,,,63.2,point,FALSE,America/Chicago,35761
+Letohatchee-AL,1840025227,Letohatchee,Letohatchee,AL,Letohatchee-AL,Alabama,1085,Lowndes,32.1296,-86.4858,,,25.4,point,FALSE,America/Chicago,36047
+Millry-AL,1840017081,Millry,Millry,AL,Millry-AL,Alabama,1129,Washington,31.6256,-88.3191,522,522,26,polygon,TRUE,America/Chicago,36558
+Holtville-AL,1840023043,Holtville,Holtville,AL,Holtville-AL,Alabama,1051,Elmore,32.6314,-86.3267,,,83.3,polygon,FALSE,America/Chicago,36092 36022
+Long Island-AL,1840027554,Long Island,Long Island,AL,Long Island-AL,Alabama,1071,Jackson,34.9737,-85.6711,,,7.1,point,FALSE,America/Chicago,35958
+Headland-AL,1840014949,Headland,Headland,AL,Headland-AL,Alabama,1067,Henry,31.3501,-85.3523,4741,4741,60,polygon,TRUE,America/Chicago,36345
+Elmore-AL,1840016966,Elmore,Elmore,AL,Elmore-AL,Alabama,1051,Elmore,32.546,-86.3329,1307,1307,127,polygon,TRUE,America/Chicago,36025
+Our Town-AL,1840023017,Our Town,Our Town,AL,Our Town-AL,Alabama,1123,Tallapoosa,32.8304,-85.9687,,,37.6,polygon,FALSE,America/Chicago,35010
+Munford-AL,1840022952,Munford,Munford,AL,Munford-AL,Alabama,1121,Talladega,33.5287,-85.953,1249,1249,217,polygon,TRUE,America/Chicago,36268
+Gilbertown-AL,1840003209,Gilbertown,Gilbertown,AL,Gilbertown-AL,Alabama,1023,Choctaw,31.8758,-88.3195,203,203,100,polygon,TRUE,America/Chicago,36908
+New Market-AL,1840013548,New Market,New Market,AL,New Market-AL,Alabama,1089,Madison,34.8892,-86.4226,,,226.2,polygon,FALSE,America/Chicago,35761
+Owens Cross Roads-AL,1840016521,Owens Cross Roads,Owens Cross Roads,AL,Owens Cross Roads-AL,Alabama,1089,Madison,34.5846,-86.4574,1852,1852,86,polygon,TRUE,America/Chicago,35763
+Hytop-AL,1840016523,Hytop,Hytop,AL,Hytop-AL,Alabama,1071,Jackson,34.9064,-86.0853,346,346,58,polygon,TRUE,America/Chicago,35768
+Montgomery-AL,1840008353,Montgomery,Montgomery,AL,Montgomery-AL,Alabama,1101,Montgomery,32.347,-86.2663,256554,200022,483,polygon,TRUE,America/Chicago,36064 36112 36113 36110 36111 36116 36115 36117 36109 36105 36104 36106 36108 36107 36101 36102 36103 36114 36118 36119 36120 36121 36123 36124 36125 36130 36131 36132 36135 36140 36141 36142 36177 36191
+Fairhope-AL,1840002039,Fairhope,Fairhope,AL,Fairhope-AL,Alabama,1003,Baldwin,30.5235,-87.8827,19421,19421,622,polygon,TRUE,America/Chicago,36532 36533
+Dadeville-AL,1840001397,Dadeville,Dadeville,AL,Dadeville-AL,Alabama,1123,Tallapoosa,32.8326,-85.7675,3128,3128,75,polygon,TRUE,America/Chicago,36853
+Ariton-AL,1840004920,Ariton,Ariton,AL,Ariton-AL,Alabama,1045,Dale,31.5978,-85.7131,741,741,56,polygon,TRUE,America/Chicago,36311
+Pine Hill-AL,1840017026,Pine Hill,Pine Hill,AL,Pine Hill-AL,Alabama,1131,Wilcox,31.9858,-87.5875,912,912,92,polygon,TRUE,America/Chicago,36769
+Rainbow City-AL,1840014732,Rainbow City,Rainbow City,AL,Rainbow City-AL,Alabama,1055,Etowah,33.9337,-86.0923,9531,9531,144,polygon,TRUE,America/Chicago,35906
+Ragland-AL,1840017994,Ragland,Ragland,AL,Ragland-AL,Alabama,1115,St. Clair,33.7469,-86.1384,1697,1697,39,polygon,TRUE,America/Chicago,35131
+Cromwell-AL,1840027577,Cromwell,Cromwell,AL,Cromwell-AL,Alabama,1023,Choctaw,32.2288,-88.2745,,,9.8,point,FALSE,America/Chicago,36912
+Trinity-AL,1840016612,Trinity,Trinity,AL,Trinity-AL,Alabama,1103,Morgan,34.6005,-87.0838,2164,2164,189,polygon,TRUE,America/Chicago,35673
+Moundville-AL,1840016942,Moundville,Moundville,AL,Moundville-AL,Alabama,1065,Hale,32.997,-87.6272,2588,2436,205,polygon,TRUE,America/Chicago,35474
+Hartselle-AL,1840013593,Hartselle,Hartselle,AL,Hartselle-AL,Alabama,1103,Morgan,34.4392,-86.9399,14471,14471,341,polygon,TRUE,America/Chicago,35640
+Ashby-AL,1840027571,Ashby,Ashby,AL,Ashby-AL,Alabama,1007,Bibb,33.021,-86.9194,,,15.8,point,FALSE,America/Chicago,35035
+Borden Springs-AL,1840027604,Borden Springs,Borden Springs,AL,Borden Springs-AL,Alabama,1029,Cleburne,33.9298,-85.4702,,,4.2,point,FALSE,America/Chicago,36272
+Alexander City-AL,1840013788,Alexander City,Alexander City,AL,Alexander City-AL,Alabama,1123,Tallapoosa,32.924,-85.9353,9335,14773,139,polygon,TRUE,America/Chicago,35010 35011
+Cypress-AL,1840027558,Cypress,Cypress,AL,Cypress-AL,Alabama,1065,Hale,32.9479,-87.667,,,5,point,FALSE,America/Chicago,35474
+Forney-AL,1840023731,Forney,Forney,AL,Forney-AL,Alabama,1019,Cherokee,34.0862,-85.4619,,,34.6,point,FALSE,America/Chicago,35960
+Brooks-AL,1840023709,Brooks,Brooks,AL,Brooks-AL,Alabama,1039,Covington,31.4818,-86.685,,,7.9,point,FALSE,America/Chicago,36474
+Coosada-AL,1840016963,Coosada,Coosada,AL,Coosada-AL,Alabama,1051,Elmore,32.4979,-86.3282,1244,1244,67,polygon,TRUE,America/Chicago,36054 36020
+Cherokee-AL,1840016548,Cherokee,Cherokee,AL,Cherokee-AL,Alabama,1033,Colbert,34.7577,-87.967,1009,1009,175,polygon,TRUE,America/Chicago,35616
+Dora-AL,1840005829,Dora,Dora,AL,Dora-AL,Alabama,1127,Walker,33.7292,-87.085,1946,1946,100,polygon,TRUE,America/Chicago,35130 35062
+Ivalee-AL,1840022890,Ivalee,Ivalee,AL,Ivalee-AL,Alabama,1055,Etowah,34.0372,-86.1471,,,100.3,polygon,FALSE,America/Chicago,35954
+Saint Stephens-AL,1840004299,Saint Stephens,Saint Stephens,AL,Saint Stephens-AL,Alabama,1129,Washington,31.5472,-88.0558,,,39.7,polygon,FALSE,America/Chicago,36569
+Yarbo-AL,1840027514,Yarbo,Yarbo,AL,Yarbo-AL,Alabama,1129,Washington,31.5438,-88.2778,,,25.7,point,FALSE,America/Chicago,36558
+Hartford-AL,1840013892,Hartford,Hartford,AL,Hartford-AL,Alabama,1061,Geneva,31.1055,-85.6916,2638,2638,163,polygon,TRUE,America/Chicago,36344
+Avon-AL,1840015881,Avon,Avon,AL,Avon-AL,Alabama,1069,Houston,31.1806,-85.2795,505,505,73,polygon,TRUE,America/Chicago,36312
+Wilsonville-AL,1840016850,Wilsonville,Wilsonville,AL,Wilsonville-AL,Alabama,1117,Shelby,33.2356,-86.4881,1987,1987,74,polygon,TRUE,America/Chicago,35186
+Wetumpka-AL,1840006013,Wetumpka,Wetumpka,AL,Wetumpka-AL,Alabama,1051,Elmore,32.5406,-86.2054,8383,8219,300,polygon,TRUE,America/Chicago,36093 36092
+Leesburg-AL,1840016636,Leesburg,Leesburg,AL,Leesburg-AL,Alabama,1019,Cherokee,34.1838,-85.7753,1008,1008,60,polygon,TRUE,America/Chicago,35983
+Rutledge-AL,1840005396,Rutledge,Rutledge,AL,Rutledge-AL,Alabama,1041,Crenshaw,31.724,-86.302,458,458,30,polygon,TRUE,America/Chicago,36049 36071
+Portersville-AL,1840027539,Portersville,Portersville,AL,Portersville-AL,Alabama,1049,DeKalb,34.3212,-85.8208,,,12.4,point,FALSE,America/Chicago,35961
+Stapleton-AL,1840027497,Stapleton,Stapleton,AL,Stapleton-AL,Alabama,1003,Baldwin,30.7394,-87.7948,,,164.4,polygon,FALSE,America/Chicago,36578
+Mobile-AL,1840006009,Mobile,Mobile,AL,Mobile-AL,Alabama,1097,Mobile,30.6782,-88.1161,322496,192904,535,polygon,TRUE,America/Chicago,36606 36607 36604 36605 36602 36603 36608 36609 36688 36582 36615 36617 36611 36610 36619 36618 36695 36693 36571 36601 36628 36633 36640 36641 36644 36652 36660 36663 36670 36671 36675 36685 36689 36691
+Clanton-AL,1840006157,Clanton,Clanton,AL,Clanton-AL,Alabama,1021,Chilton,32.8417,-86.623,5936,8846,155,polygon,TRUE,America/Chicago,35045 35046
+Napier Field-AL,1840017085,Napier Field,Napier Field,AL,Napier Field-AL,Alabama,1045,Dale,31.3149,-85.455,344,344,519,polygon,TRUE,America/Chicago,36303
+Bear Creek-AL,1840015585,Bear Creek,Bear Creek,AL,Bear Creek-AL,Alabama,1093,Marion,34.2651,-87.7164,1041,1041,29,polygon,TRUE,America/Chicago,35581 35543
+Muscle Shoals-AL,1840014657,Muscle Shoals,Muscle Shoals,AL,Muscle Shoals-AL,Alabama,1033,Colbert,34.7426,-87.6336,13831,13831,343,polygon,TRUE,America/Chicago,35661 35662
+Oxford-AL,1840014780,Oxford,Oxford,AL,Oxford-AL,Alabama,1015,Calhoun,33.5963,-85.8718,21120,21120,264,polygon,TRUE,America/Chicago,36260 36203 36253
+Edwardsville-AL,1840007129,Edwardsville,Edwardsville,AL,Edwardsville-AL,Alabama,1029,Cleburne,33.8412,-85.4523,202,202,4,polygon,TRUE,America/Chicago,36262 36272 36261
+Columbiana-AL,1840006158,Columbiana,Columbiana,AL,Columbiana-AL,Alabama,1117,Shelby,33.1932,-86.6118,2857,4539,101,polygon,TRUE,America/Chicago,35051
+Tunnel Springs-AL,1840027548,Tunnel Springs,Tunnel Springs,AL,Tunnel Springs-AL,Alabama,1099,Monroe,31.6427,-87.24,,,16.3,point,FALSE,America/Chicago,36471
+Selma-AL,1840008329,Selma,Selma,AL,Selma-AL,Alabama,1047,Dallas,32.4166,-87.0336,21786,18983,530,polygon,TRUE,America/Chicago,36703 36701 36702
+Moores Mill-AL,1840013547,Moores Mill,Moores Mill,AL,Moores Mill-AL,Alabama,1089,Madison,34.8491,-86.5221,,,151.7,polygon,FALSE,America/Chicago,35759 35810 35811
+Shorterville-AL,1840027494,Shorterville,Shorterville,AL,Shorterville-AL,Alabama,1067,Henry,31.5702,-85.1013,,,22.7,point,FALSE,America/New_York,36373
+Baker Hill-AL,1840027556,Baker Hill,Baker Hill,AL,Baker Hill-AL,Alabama,1005,Barbour,31.7769,-85.2955,261,261,36,polygon,TRUE,America/Chicago,36027
+Panola-AL,1840025887,Panola,Panola,AL,Panola-AL,Alabama,1119,Sumter,32.9478,-88.2675,,,80,polygon,FALSE,America/Chicago,35477
+Meadowbrook-AL,1840027633,Meadowbrook,Meadowbrook,AL,Meadowbrook-AL,Alabama,1117,Shelby,33.3932,-86.7041,,,900.1,polygon,FALSE,America/Chicago,35242
+Lomax-AL,1840025230,Lomax,Lomax,AL,Lomax-AL,Alabama,1021,Chilton,32.879,-86.6608,,,97.3,point,FALSE,America/Chicago,35045
+Abanda-AL,1840023012,Abanda,Abanda,AL,Abanda-AL,Alabama,1017,Chambers,33.0926,-85.5253,,,51.2,polygon,FALSE,America/Chicago,36276
+Arley-AL,1840006641,Arley,Arley,AL,Arley-AL,Alabama,1133,Winston,34.0885,-87.2074,350,350,35,polygon,TRUE,America/Chicago,35541
+Tuscumbia-AL,1840005567,Tuscumbia,Tuscumbia,AL,Tuscumbia-AL,Alabama,1033,Colbert,34.7204,-87.7035,8434,8434,353,polygon,TRUE,America/Chicago,35674
+Deer Park-AL,1840025956,Deer Park,Deer Park,AL,Deer Park-AL,Alabama,1129,Washington,31.2198,-88.3226,,,16.2,polygon,FALSE,America/Chicago,36584 36529
+Lafayette-AL,1840008339,Lafayette,Lafayette,AL,Lafayette-AL,Alabama,1017,Chambers,32.8997,-85.4007,2968,2968,129,polygon,TRUE,America/Chicago,36862
+Ray-AL,1840023021,Ray,Ray,AL,Ray-AL,Alabama,1037,Coosa,32.879,-86.035,,,34.1,polygon,FALSE,America/Chicago,35010
+Gallant-AL,1840022889,Gallant,Gallant,AL,Gallant-AL,Alabama,1055,Etowah,34.0013,-86.2304,,,49.8,polygon,FALSE,America/Chicago,35972
+Satsuma-AL,1840015887,Satsuma,Satsuma,AL,Satsuma-AL,Alabama,1097,Mobile,30.8579,-88.0634,6193,6193,320,polygon,TRUE,America/Chicago,36572
+Red Bay-AL,1840014682,Red Bay,Red Bay,AL,Red Bay-AL,Alabama,1059,Franklin,34.4358,-88.1362,3119,3119,123,polygon,TRUE,America/Chicago,35582
+Nances Creek-AL,1840022931,Nances Creek,Nances Creek,AL,Nances Creek-AL,Alabama,1015,Calhoun,33.8588,-85.6733,,,31,polygon,FALSE,America/Chicago,36265 36272
+Odenville-AL,1840016774,Odenville,Odenville,AL,Odenville-AL,Alabama,1115,St. Clair,33.6979,-86.4228,3743,3743,103,polygon,TRUE,America/Chicago,35146 35120 35182
+Sand Rock-AL,1840017941,Sand Rock,Sand Rock,AL,Sand Rock-AL,Alabama,1019,Cherokee,34.2302,-85.7715,555,555,49,polygon,TRUE,America/Chicago,35983
+Rosa-AL,1840017963,Rosa,Rosa,AL,Rosa-AL,Alabama,1009,Blount,33.9885,-86.5036,318,318,32,polygon,TRUE,America/Chicago,35121
+Blountsville-AL,1840015600,Blountsville,Blountsville,AL,Blountsville-AL,Alabama,1009,Blount,34.0814,-86.5867,1694,1694,120,polygon,TRUE,America/Chicago,35031
+Shorter-AL,1840018092,Shorter,Shorter,AL,Shorter-AL,Alabama,1087,Macon,32.4076,-85.9412,427,427,36,polygon,TRUE,America/Chicago,36075
+Creola-AL,1840014988,Creola,Creola,AL,Creola-AL,Alabama,1097,Mobile,30.8902,-88.0101,1961,1961,53,polygon,TRUE,America/Chicago,36525
+Flomaton-AL,1840006309,Flomaton,Flomaton,AL,Flomaton-AL,Alabama,1053,Escambia,31.0127,-87.2541,1408,1408,106,polygon,TRUE,America/Chicago,36441
+Grand Bay-AL,1840013894,Grand Bay,Grand Bay,AL,Grand Bay-AL,Alabama,1097,Mobile,30.4717,-88.345,,,275.1,polygon,FALSE,America/Chicago,36541
+Knoxville-AL,1840027582,Knoxville,Knoxville,AL,Knoxville-AL,Alabama,1063,Greene,32.9923,-87.7906,,,2,point,FALSE,America/Chicago,35462
+Elrod-AL,1840001540,Elrod,Elrod,AL,Elrod-AL,Alabama,1125,Tuscaloosa,33.2562,-87.7922,,,130.3,point,FALSE,America/Chicago,35458
+Langston-AL,1840016524,Langston,Langston,AL,Langston-AL,Alabama,1071,Jackson,34.5374,-86.0899,264,264,20,polygon,TRUE,America/Chicago,35755
+Carolina-AL,1840015866,Carolina,Carolina,AL,Carolina-AL,Alabama,1039,Covington,31.2337,-86.5227,296,296,103,polygon,TRUE,America/Chicago,36420
+Evergreen-AL,1840001842,Evergreen,Evergreen,AL,Evergreen-AL,Alabama,1035,Conecuh,31.4379,-86.9584,2360,3693,91,polygon,TRUE,America/Chicago,36401
+Good Hope-AL,1840003328,Good Hope,Good Hope,AL,Good Hope-AL,Alabama,1043,Cullman,34.1098,-86.865,2288,2288,111,polygon,TRUE,America/Chicago,35057 35055 35077
+Chancellor-AL,1840023716,Chancellor,Chancellor,AL,Chancellor-AL,Alabama,1061,Geneva,31.1816,-85.8772,,,35.7,point,FALSE,America/Chicago,36316
+Holt-AL,1840013753,Holt,Holt,AL,Holt-AL,Alabama,1125,Tuscaloosa,33.2302,-87.4828,,,659,polygon,FALSE,America/Chicago,35404
+Northport-AL,1840014819,Northport,Northport,AL,Northport-AL,Alabama,1125,Tuscaloosa,33.2584,-87.5981,25045,25045,577,polygon,TRUE,America/Chicago,35473 35475 35476 35452
+Broomtown-AL,1840022843,Broomtown,Broomtown,AL,Broomtown-AL,Alabama,1019,Cherokee,34.3657,-85.5322,,,14.9,polygon,FALSE,America/Chicago,35973
+Marion-AL,1840008188,Marion,Marion,AL,Marion-AL,Alabama,1105,Perry,32.6318,-87.3172,3432,3432,125,polygon,TRUE,America/Chicago,36756
+Ward-AL,1840027550,Ward,Ward,AL,Ward-AL,Alabama,1119,Sumter,32.3621,-88.2781,,,15.6,point,FALSE,America/Chicago,36922
+Gordonville-AL,1840017008,Gordonville,Gordonville,AL,Gordonville-AL,Alabama,1085,Lowndes,32.1489,-86.6995,302,302,21,polygon,TRUE,America/Chicago,36040
+Addison-AL,1840015589,Addison,Addison,AL,Addison-AL,Alabama,1133,Winston,34.2017,-87.1765,738,738,75,polygon,TRUE,America/Chicago,35540
+Brantleyville-AL,1840022963,Brantleyville,Brantleyville,AL,Brantleyville-AL,Alabama,1117,Shelby,33.2196,-86.882,,,189.3,polygon,FALSE,America/Chicago,35114
+Pickensville-AL,1840005373,Pickensville,Pickensville,AL,Pickensville-AL,Alabama,1107,Pickens,33.2336,-88.2743,574,574,28,polygon,TRUE,America/Chicago,35447
+Bazemore-AL,1840023700,Bazemore,Bazemore,AL,Bazemore-AL,Alabama,1057,Fayette,33.8945,-87.7,,,27.7,point,FALSE,America/Chicago,35594
+Elberta-AL,1840017125,Elberta,Elberta,AL,Elberta-AL,Alabama,1003,Baldwin,30.3847,-87.5886,1679,1679,94,polygon,TRUE,America/Chicago,36530
+Jacksons Gap-AL,1840025222,Jacksons Gap,Jacksons Gap,AL,Jacksons Gap-AL,Alabama,1123,Tallapoosa,32.8831,-85.815,801,801,36,polygon,TRUE,America/Chicago,36861
+Haleyville-AL,1840013644,Haleyville,Haleyville,AL,Haleyville-AL,Alabama,1133,Winston,34.235,-87.6165,3829,4074,189,polygon,TRUE,America/Chicago,35565 35551
+Bellefontaine-AL,1840023701,Bellefontaine,Bellefontaine,AL,Bellefontaine-AL,Alabama,1097,Mobile,30.492,-88.1131,,,151,polygon,FALSE,America/Chicago,36582
+Daleville-AL,1840014955,Daleville,Daleville,AL,Daleville-AL,Alabama,1045,Dale,31.2914,-85.7114,5101,5101,139,polygon,TRUE,America/Chicago,36322
+Pelham-AL,1840014826,Pelham,Pelham,AL,Pelham-AL,Alabama,1117,Shelby,33.3117,-86.7569,23050,23050,229,polygon,TRUE,America/Chicago,35043 35124
+West Blocton-AL,1840016894,West Blocton,West Blocton,AL,West Blocton-AL,Alabama,1007,Bibb,33.1186,-87.1253,1263,1263,101,polygon,TRUE,America/Chicago,35184
+Mulga-AL,1840016802,Mulga,Mulga,AL,Mulga-AL,Alabama,1073,Jefferson,33.5528,-86.9735,822,822,516,polygon,TRUE,America/Chicago,35005 35118
+Summerdale-AL,1840017126,Summerdale,Summerdale,AL,Summerdale-AL,Alabama,1003,Baldwin,30.4785,-87.6905,1244,1244,47,polygon,TRUE,America/Chicago,36535 36580
+Clinton-AL,1840023718,Clinton,Clinton,AL,Clinton-AL,Alabama,1063,Greene,32.9137,-87.9925,,,22.9,point,FALSE,America/Chicago,35462
+Sulligent-AL,1840015636,Sulligent,Sulligent,AL,Sulligent-AL,Alabama,1075,Lamar,33.8912,-88.1266,1849,1849,91,polygon,TRUE,America/Chicago,35586
+Goldville-AL,1840006026,Goldville,Goldville,AL,Goldville-AL,Alabama,1123,Tallapoosa,33.0841,-85.7831,53,53,20,polygon,TRUE,America/Chicago,36255 36256
+Vina-AL,1840016625,Vina,Vina,AL,Vina-AL,Alabama,1059,Franklin,34.3757,-88.0602,356,356,28,polygon,TRUE,America/Chicago,35593
+Madrid-AL,1840017128,Madrid,Madrid,AL,Madrid-AL,Alabama,1069,Houston,31.0358,-85.3979,338,338,67,polygon,TRUE,America/Chicago,36375 36320
+Normal-AL,1840027589,Normal,Normal,AL,Normal-AL,Alabama,1089,Madison,34.789,-86.5719,,,2973.9,point,FALSE,America/Chicago,35811
+Eulaton-AL,1840023726,Eulaton,Eulaton,AL,Eulaton-AL,Alabama,1015,Calhoun,33.6457,-85.9125,,,179.7,point,FALSE,America/Chicago,36201
+Collinsville-AL,1840016553,Collinsville,Collinsville,AL,Collinsville-AL,Alabama,1049,DeKalb,34.267,-85.8652,1963,1963,193,polygon,TRUE,America/Chicago,35961
+Loachapoka-AL,1840016969,Loachapoka,Loachapoka,AL,Loachapoka-AL,Alabama,1081,Lee,32.6049,-85.5948,199,199,67,polygon,TRUE,America/Chicago,36832 36865
+Grady-AL,1840025215,Grady,Grady,AL,Grady-AL,Alabama,1101,Montgomery,31.9949,-86.2011,,,28.6,point,FALSE,America/Chicago,36036
+White Plains-AL,1840022932,White Plains,White Plains,AL,White Plains-AL,Alabama,1015,Calhoun,33.7603,-85.688,,,106.5,polygon,FALSE,America/Chicago,36207
+Calvert-AL,1840025955,Calvert,Calvert,AL,Calvert-AL,Alabama,1097,Mobile,31.1543,-88.0106,,,79.2,polygon,FALSE,America/Chicago,36513 36560
+Chase-AL,1840027574,Chase,Chase,AL,Chase-AL,Alabama,1089,Madison,34.7834,-86.5467,,,132.5,point,FALSE,America/Chicago,35811
+Epes-AL,1840016949,Epes,Epes,AL,Epes-AL,Alabama,1119,Sumter,32.6912,-88.1269,181,181,36,polygon,TRUE,America/Chicago,35460
+Gallion-AL,1840027559,Gallion,Gallion,AL,Gallion-AL,Alabama,1065,Hale,32.4968,-87.7161,,,35.2,point,FALSE,America/Chicago,36742
+Sanford-AL,1840018178,Sanford,Sanford,AL,Sanford-AL,Alabama,1039,Covington,31.3007,-86.3976,245,245,22,polygon,TRUE,America/Chicago,36420 36421
+Rehobeth-AL,1840018195,Rehobeth,Rehobeth,AL,Rehobeth-AL,Alabama,1069,Houston,31.1244,-85.4386,1482,1482,76,polygon,TRUE,America/Chicago,36301
+Cooper-AL,1840027598,Cooper,Cooper,AL,Cooper-AL,Alabama,1021,Chilton,32.7751,-86.5455,,,110.8,point,FALSE,America/Chicago,35046
+Prattville-AL,1840004086,Prattville,Prattville,AL,Prattville-AL,Alabama,1001,Autauga,32.4602,-86.4595,35606,35606,411,polygon,TRUE,America/Chicago,36066 36067 36008 36068
+Sprague-AL,1840027496,Sprague,Sprague,AL,Sprague-AL,Alabama,1101,Montgomery,32.1329,-86.27,,,4.4,point,FALSE,America/Chicago,36069
+Homewood-AL,1840014794,Homewood,Homewood,AL,Homewood-AL,Alabama,1073,Jefferson,33.4617,-86.8092,25613,25613,1182,polygon,TRUE,America/Chicago,35229 35209
+Choctaw Bluff-AL,1840027575,Choctaw Bluff,Choctaw Bluff,AL,Choctaw Bluff-AL,Alabama,1025,Clarke,31.3888,-87.7889,,,1.9,point,FALSE,America/Chicago,36545
+Choccolocco-AL,1840022930,Choccolocco,Choccolocco,AL,Choccolocco-AL,Alabama,1015,Calhoun,33.6683,-85.7129,,,144.4,polygon,FALSE,America/Chicago,36207
+Hybart-AL,1840027525,Hybart,Hybart,AL,Hybart-AL,Alabama,1099,Monroe,31.8265,-87.3819,,,11,point,FALSE,America/Chicago,36481
+Ashland-AL,1840006738,Ashland,Ashland,AL,Ashland-AL,Alabama,1027,Clay,33.2704,-85.8337,1971,1971,103,polygon,TRUE,America/Chicago,36251
+Black-AL,1840015882,Black,Black,AL,Black-AL,Alabama,1061,Geneva,31.0102,-85.7428,207,207,25,polygon,TRUE,America/Chicago,36314
+Montevallo-AL,1840014825,Montevallo,Montevallo,AL,Montevallo-AL,Alabama,1117,Shelby,33.1254,-86.848,6723,6723,208,polygon,TRUE,America/Chicago,35115
+Winfield-AL,1840015587,Winfield,Winfield,AL,Winfield-AL,Alabama,1093,Marion,33.9311,-87.797,4531,4531,99,polygon,TRUE,America/Chicago,35594
+Hollywood-AL,1840016522,Hollywood,Hollywood,AL,Hollywood-AL,Alabama,1071,Jackson,34.719,-85.965,970,970,42,polygon,TRUE,America/Chicago,35769 35752
+Wedowee-AL,1840005602,Wedowee,Wedowee,AL,Wedowee-AL,Alabama,1111,Randolph,33.3078,-85.4864,806,806,89,polygon,TRUE,America/Chicago,36278
+Centre-AL,1840001099,Centre,Centre,AL,Centre-AL,Alabama,1019,Cherokee,34.1554,-85.6707,3776,3555,119,polygon,TRUE,America/Chicago,35960
+Chandler Springs-AL,1840027606,Chandler Springs,Chandler Springs,AL,Chandler Springs-AL,Alabama,1121,Talladega,33.3307,-85.9983,,,7.7,point,FALSE,America/Chicago,35160
+Fayette-AL,1840006295,Fayette,Fayette,AL,Fayette-AL,Alabama,1057,Fayette,33.6943,-87.8307,3270,4432,200,polygon,TRUE,America/Chicago,35555
+Millerville-AL,1840022974,Millerville,Millerville,AL,Millerville-AL,Alabama,1027,Clay,33.1926,-85.9303,,,26.3,polygon,FALSE,America/Chicago,35072 36267 36251
+Wallsboro-AL,1840027509,Wallsboro,Wallsboro,AL,Wallsboro-AL,Alabama,1051,Elmore,32.5868,-86.2091,,,56.1,point,FALSE,America/Chicago,36092
+Westover-AL,1840016849,Westover,Westover,AL,Westover-AL,Alabama,1117,Shelby,33.3715,-86.5358,1542,1542,33,polygon,TRUE,America/Chicago,35078 35147
+Talladega Springs-AL,1840016829,Talladega Springs,Talladega Springs,AL,Talladega Springs-AL,Alabama,1121,Talladega,33.1191,-86.4421,162,162,50,polygon,TRUE,America/Chicago,35151
+Aberfoil-AL,1840023695,Aberfoil,Aberfoil,AL,Aberfoil-AL,Alabama,1011,Bullock,32.0704,-85.6877,,,20,point,FALSE,America/Chicago,36089
+Gulf Shores-AL,1840013886,Gulf Shores,Gulf Shores,AL,Gulf Shores-AL,Alabama,1003,Baldwin,30.2718,-87.708,11689,11689,170,polygon,TRUE,America/Chicago,36542 36547
+Lincoln-AL,1840015698,Lincoln,Lincoln,AL,Lincoln-AL,Alabama,1121,Talladega,33.5935,-86.1372,6491,6491,99,polygon,TRUE,America/Chicago,35160 35096
+Fosters-AL,1840027580,Fosters,Fosters,AL,Fosters-AL,Alabama,1125,Tuscaloosa,33.0948,-87.6858,,,30.1,point,FALSE,America/Chicago,35463
+Susan Moore-AL,1840016720,Susan Moore,Susan Moore,AL,Susan Moore-AL,Alabama,1009,Blount,34.0799,-86.4234,769,769,56,polygon,TRUE,America/Chicago,35952 35031 35121
+Rockville-AL,1840027002,Rockville,Rockville,AL,Rockville-AL,Alabama,1025,Clarke,31.4058,-87.8443,,,3,polygon,FALSE,America/Chicago,36545
+Stevenson-AL,1840016526,Stevenson,Stevenson,AL,Stevenson-AL,Alabama,1071,Jackson,34.8487,-85.8437,1977,1977,99,polygon,TRUE,America/Chicago,35772
+Seaboard-AL,1840027520,Seaboard,Seaboard,AL,Seaboard-AL,Alabama,1129,Washington,31.3213,-88.1886,,,5.2,point,FALSE,America/Chicago,36583
+Bleecker-AL,1840027552,Bleecker,Bleecker,AL,Bleecker-AL,Alabama,1081,Lee,32.5824,-85.1641,,,83.8,point,FALSE,America/Chicago,36874
+Hayneville-AL,1840003774,Hayneville,Hayneville,AL,Hayneville-AL,Alabama,1085,Lowndes,32.1822,-86.5787,853,853,176,polygon,TRUE,America/Chicago,36040
+Summit-AL,1840027500,Summit,Summit,AL,Summit-AL,Alabama,1009,Blount,34.2045,-86.4942,,,45.7,point,FALSE,America/Chicago,35031
+Dutton-AL,1840016525,Dutton,Dutton,AL,Dutton-AL,Alabama,1071,Jackson,34.6062,-85.9119,308,308,137,polygon,TRUE,America/Chicago,35744
+Newville-AL,1840017073,Newville,Newville,AL,Newville-AL,Alabama,1067,Henry,31.4206,-85.3367,517,517,49,polygon,TRUE,America/Chicago,36353
+Enterprise-AL,1840001548,Enterprise,Enterprise,AL,Enterprise-AL,Alabama,1031,Coffee,31.3276,-85.8459,38431,28024,353,polygon,TRUE,America/Chicago,36330 36331
+Belgreen-AL,1840005612,Belgreen,Belgreen,AL,Belgreen-AL,Alabama,1059,Franklin,34.4767,-87.8653,,,20.2,polygon,FALSE,America/Chicago,35653
+Coffeeville-AL,1840017049,Coffeeville,Coffeeville,AL,Coffeeville-AL,Alabama,1025,Clarke,31.7666,-88.0861,334,334,28,polygon,TRUE,America/Chicago,36524
+Florala-AL,1840007209,Florala,Florala,AL,Florala-AL,Alabama,1039,Covington,31.0176,-86.3138,1952,1952,71,polygon,TRUE,America/Chicago,36442
+Flat Rock-AL,1840023728,Flat Rock,Flat Rock,AL,Flat Rock-AL,Alabama,1071,Jackson,34.7698,-85.6944,,,56,point,FALSE,America/Chicago,35966
+Brook Highland-AL,1840027551,Brook Highland,Brook Highland,AL,Brook Highland-AL,Alabama,1117,Shelby,33.4359,-86.6849,,,1085,polygon,FALSE,America/Chicago,35242
+Ansley-AL,1840023697,Ansley,Ansley,AL,Ansley-AL,Alabama,1109,Pike,31.8863,-86.1158,,,11.8,point,FALSE,America/Chicago,36079
+Whatley-AL,1840025933,Whatley,Whatley,AL,Whatley-AL,Alabama,1025,Clarke,31.6463,-87.7108,,,17,polygon,FALSE,America/Chicago,36482
+Woodville-AL,1840016527,Woodville,Woodville,AL,Woodville-AL,Alabama,1071,Jackson,34.6256,-86.2792,730,730,42,polygon,TRUE,America/Chicago,35776
+Saint Florian-AL,1840017892,Saint Florian,Saint Florian,AL,Saint Florian-AL,Alabama,1077,Lauderdale,34.8702,-87.6239,591,591,62,polygon,TRUE,America/Chicago,35634
+Concord-AL,1840013094,Concord,Concord,AL,Concord-AL,Alabama,1073,Jefferson,33.4674,-87.0392,,,309.7,polygon,FALSE,America/Chicago,35023
+Lester-AL,1840016509,Lester,Lester,AL,Lester-AL,Alabama,1083,Limestone,34.9877,-87.1515,122,122,25,polygon,TRUE,America/Chicago,35647
+Thach-AL,1840027547,Thach,Thach,AL,Thach-AL,Alabama,1083,Limestone,34.9198,-86.8928,,,22.7,point,FALSE,America/Chicago,35620
+Onycha-AL,1840017098,Onycha,Onycha,AL,Onycha-AL,Alabama,1039,Covington,31.2246,-86.2785,183,183,89,polygon,TRUE,America/Chicago,36467
+Shiloh-AL,1840017915,Shiloh,Shiloh,AL,Shiloh-AL,Alabama,1049,DeKalb,34.4638,-85.878,274,274,61,polygon,TRUE,America/Chicago,35986
+Peterson-AL,1840027536,Peterson,Peterson,AL,Peterson-AL,Alabama,1125,Tuscaloosa,33.2326,-87.4236,,,47.4,point,FALSE,America/Chicago,35453
+Jacksonville-AL,1840007433,Jacksonville,Jacksonville,AL,Jacksonville-AL,Alabama,1015,Calhoun,33.8084,-85.7544,12657,12657,487,polygon,TRUE,America/Chicago,36265
+Cecil-AL,1840023715,Cecil,Cecil,AL,Cecil-AL,Alabama,1101,Montgomery,32.3026,-86.0086,,,20.9,point,FALSE,America/Chicago,36064
+Chatom-AL,1840001112,Chatom,Chatom,AL,Chatom-AL,Alabama,1129,Washington,31.4691,-88.246,1231,1231,44,polygon,TRUE,America/Chicago,36518
+Billingsley-AL,1840015798,Billingsley,Billingsley,AL,Billingsley-AL,Alabama,1001,Autauga,32.6606,-86.7104,141,141,41,polygon,TRUE,America/Chicago,36006
+Slocomb-AL,1840015884,Slocomb,Slocomb,AL,Slocomb-AL,Alabama,1061,Geneva,31.1103,-85.5954,1956,1956,79,polygon,TRUE,America/Chicago,36375
+Standing Rock-AL,1840023015,Standing Rock,Standing Rock,AL,Standing Rock-AL,Alabama,1017,Chambers,33.0863,-85.2449,,,28.6,polygon,FALSE,America/Chicago,36855
+Baileyton-AL,1840015588,Baileyton,Baileyton,AL,Baileyton-AL,Alabama,1043,Cullman,34.2609,-86.6082,627,627,46,polygon,TRUE,America/Chicago,35019
+Jones Chapel-AL,1840027615,Jones Chapel,Jones Chapel,AL,Jones Chapel-AL,Alabama,1043,Cullman,34.2104,-87.052,,,21.8,point,FALSE,America/Chicago,35057
+Roanoke-AL,1840014834,Roanoke,Roanoke,AL,Roanoke-AL,Alabama,1111,Randolph,33.1453,-85.3694,4212,5984,123,polygon,TRUE,America/Chicago,36274
+Douglas-AL,1840016619,Douglas,Douglas,AL,Douglas-AL,Alabama,1095,Marshall,34.1705,-86.3224,761,761,86,polygon,TRUE,America/Chicago,35957 35980 35964
+Robertsdale-AL,1840014981,Robertsdale,Robertsdale,AL,Robertsdale-AL,Alabama,1003,Baldwin,30.5533,-87.706,8629,5990,424,polygon,TRUE,America/Chicago,36567
+Fairford-AL,1840025957,Fairford,Fairford,AL,Fairford-AL,Alabama,1129,Washington,31.178,-88.0728,,,53.6,polygon,FALSE,America/Chicago,36553
+Gu-Win-AL,1840016696,Gu-Win,Gu-Win,AL,Gu-Win-AL,Alabama,1093,Marion,33.9443,-87.8704,170,170,33,polygon,TRUE,America/Chicago,35563 35594
+Wadley-AL,1840016864,Wadley,Wadley,AL,Wadley-AL,Alabama,1111,Randolph,33.1239,-85.5683,737,737,195,polygon,TRUE,America/Chicago,36276
+Overbrook-AL,1840027626,Overbrook,Overbrook,AL,Overbrook-AL,Alabama,1121,Talladega,33.1218,-86.1983,,,22.3,point,FALSE,America/Chicago,35150
+Vestavia Hills-AL,1840015673,Vestavia Hills,Vestavia Hills,AL,Vestavia Hills-AL,Alabama,1073,Jefferson,33.4516,-86.7443,34688,34688,681,polygon,TRUE,America/Chicago,35216 35242 35243
+Valley-AL,1840015760,Valley,Valley,AL,Valley-AL,Alabama,1017,Chambers,32.8088,-85.1771,20441,9377,329,polygon,TRUE,America/Chicago,36854 36872
+Crawford-AL,1840001330,Crawford,Crawford,AL,Crawford-AL,Alabama,1113,Russell,32.4568,-85.1897,,,41.4,point,FALSE,America/Chicago,36870
+Safford-AL,1840027566,Safford,Safford,AL,Safford-AL,Alabama,1047,Dallas,32.2879,-87.3714,,,6.9,point,FALSE,America/Chicago,36773
+Lisman-AL,1840017015,Lisman,Lisman,AL,Lisman-AL,Alabama,1023,Choctaw,32.1792,-88.3002,498,498,74,polygon,TRUE,America/Chicago,36912
+Hurtsboro-AL,1840016999,Hurtsboro,Hurtsboro,AL,Hurtsboro-AL,Alabama,1113,Russell,32.2401,-85.4147,593,593,221,polygon,TRUE,America/Chicago,36860
+Kimbrough-AL,1840027563,Kimbrough,Kimbrough,AL,Kimbrough-AL,Alabama,1131,Wilcox,32.0335,-87.5653,,,4.9,point,FALSE,America/Chicago,36722
+Stroud-AL,1840027499,Stroud,Stroud,AL,Stroud-AL,Alabama,1017,Chambers,33.0548,-85.3308,,,4.7,point,FALSE,America/Chicago,36855
+Hodges-AL,1840016624,Hodges,Hodges,AL,Hodges-AL,Alabama,1059,Franklin,34.334,-87.9299,284,284,26,polygon,TRUE,America/Chicago,35571
+Arab-AL,1840013600,Arab,Arab,AL,Arab-AL,Alabama,1095,Marshall,34.3309,-86.499,8300,8340,244,polygon,TRUE,America/Chicago,35016
+Highland Home-AL,1840027560,Highland Home,Highland Home,AL,Highland Home-AL,Alabama,1041,Crenshaw,31.9535,-86.3139,,,35.9,point,FALSE,America/Chicago,36041
+Putnam-AL,1840025911,Putnam,Putnam,AL,Putnam-AL,Alabama,1091,Marengo,32.0181,-88.0331,,,11.9,polygon,FALSE,America/Chicago,36784
+Dothan-AL,1840001518,Dothan,Dothan,AL,Dothan-AL,Alabama,1069,Houston,31.2335,-85.4066,71899,68468,295,polygon,TRUE,America/Chicago,36303 36301 36305 36321 36302 36304
+Decatur-AL,1840001403,Decatur,Decatur,AL,Decatur-AL,Alabama,1103,Morgan,34.5733,-86.9919,69660,55072,392,polygon,TRUE,America/Chicago,35603 35601 35602 35609 35699
+Jones-AL,1840027527,Jones,Jones,AL,Jones-AL,Alabama,1001,Autauga,32.584,-86.8975,,,31.4,point,FALSE,America/Chicago,36749
+Deatsville-AL,1840016964,Deatsville,Deatsville,AL,Deatsville-AL,Alabama,1051,Elmore,32.5865,-86.3916,1157,1157,95,polygon,TRUE,America/Chicago,36054 36022
+Sycamore-AL,1840027502,Sycamore,Sycamore,AL,Sycamore-AL,Alabama,1121,Talladega,33.2512,-86.2025,,,258.3,point,FALSE,America/Chicago,35149
+Benton-AL,1840015812,Benton,Benton,AL,Benton-AL,Alabama,1085,Lowndes,32.3078,-86.818,46,46,58,polygon,TRUE,America/Chicago,36785 36752
+Heath-AL,1840015867,Heath,Heath,AL,Heath-AL,Alabama,1039,Covington,31.3579,-86.4673,255,255,110,polygon,TRUE,America/Chicago,36421
+Newtonville-AL,1840027036,Newtonville,Newtonville,AL,Newtonville-AL,Alabama,1057,Fayette,33.5454,-87.8014,,,8.2,point,FALSE,America/Chicago,35555
+Pollard-AL,1840004074,Pollard,Pollard,AL,Pollard-AL,Alabama,1053,Escambia,31.0235,-87.1736,135,135,46,polygon,TRUE,America/Chicago,36441
+Bangor-AL,1840027597,Bangor,Bangor,AL,Bangor-AL,Alabama,1009,Blount,33.9745,-86.7567,,,27.3,point,FALSE,America/Chicago,35079
+Jenifer-AL,1840027614,Jenifer,Jenifer,AL,Jenifer-AL,Alabama,1121,Talladega,33.5493,-85.9364,,,109.1,point,FALSE,America/Chicago,36268
+Pleasant Grove-AL,1840014793,Pleasant Grove,Pleasant Grove,AL,Pleasant Grove-AL,Alabama,1073,Jefferson,33.4936,-86.9782,10177,10177,397,polygon,TRUE,America/Chicago,35127
+Comer-AL,1840023722,Comer,Comer,AL,Comer-AL,Alabama,1005,Barbour,32.0329,-85.3833,,,8.2,point,FALSE,America/Chicago,36053
+Pine Apple-AL,1840017025,Pine Apple,Pine Apple,AL,Pine Apple-AL,Alabama,1131,Wilcox,31.8722,-86.9891,125,125,15,polygon,TRUE,America/Chicago,36768
+Bay Minette-AL,1840000959,Bay Minette,Bay Minette,AL,Bay Minette-AL,Alabama,1003,Baldwin,30.8938,-87.7912,8665,9312,208,polygon,TRUE,America/Chicago,36507
+Egypt-AL,1840022888,Egypt,Egypt,AL,Egypt-AL,Alabama,1055,Etowah,34.0759,-86.1651,,,93,polygon,FALSE,America/Chicago,35952 35956
+Ballplay-AL,1840022887,Ballplay,Ballplay,AL,Ballplay-AL,Alabama,1055,Etowah,34.0179,-85.7852,,,18.6,polygon,FALSE,America/Chicago,35903 36272
+Perote-AL,1840027535,Perote,Perote,AL,Perote-AL,Alabama,1011,Bullock,31.9477,-85.7052,,,1.6,point,FALSE,America/Chicago,36005
+Orrville-AL,1840016970,Orrville,Orrville,AL,Orrville-AL,Alabama,1047,Dallas,32.3068,-87.2454,186,186,69,polygon,TRUE,America/Chicago,36767
+Heron Bay-AL,1840025221,Heron Bay,Heron Bay,AL,Heron Bay-AL,Alabama,1097,Mobile,30.3546,-88.1303,,,59.9,point,FALSE,America/Chicago,36523
+Weston-AL,1840027595,Weston,Weston,AL,Weston-AL,Alabama,1093,Marion,34.1598,-88.032,,,113.6,point,FALSE,America/Chicago,35570
+Mount Andrew-AL,1840027035,Mount Andrew,Mount Andrew,AL,Mount Andrew-AL,Alabama,1005,Barbour,31.9713,-85.5247,,,3.3,point,FALSE,America/Chicago,36053
+Glenwood-AL,1840003300,Glenwood,Glenwood,AL,Glenwood-AL,Alabama,1041,Crenshaw,31.6675,-86.173,188,188,99,polygon,TRUE,America/Chicago,36034
+Cottonwood-AL,1840017130,Cottonwood,Cottonwood,AL,Cottonwood-AL,Alabama,1069,Houston,31.0549,-85.301,1255,1255,83,polygon,TRUE,America/Chicago,36320
+Carbon Hill-AL,1840014766,Carbon Hill,Carbon Hill,AL,Carbon Hill-AL,Alabama,1127,Walker,33.8944,-87.5224,1964,1964,137,polygon,TRUE,America/Chicago,35549
+Honoraville-AL,1840027561,Honoraville,Honoraville,AL,Honoraville-AL,Alabama,1041,Crenshaw,31.8507,-86.4061,,,10.1,point,FALSE,America/Chicago,36042
+Maylene-AL,1840025232,Maylene,Maylene,AL,Maylene-AL,Alabama,1117,Shelby,33.2034,-86.8617,,,434.1,point,FALSE,America/Chicago,35114
+Duncanville-AL,1840027609,Duncanville,Duncanville,AL,Duncanville-AL,Alabama,1125,Tuscaloosa,33.0618,-87.4422,,,52,point,FALSE,America/Chicago,35456
+Saraland-AL,1840015886,Saraland,Saraland,AL,Saraland-AL,Alabama,1097,Mobile,30.8439,-88.0954,13942,13942,190,polygon,TRUE,America/Chicago,36571
+Clayhatchee-AL,1840017086,Clayhatchee,Clayhatchee,AL,Clayhatchee-AL,Alabama,1045,Dale,31.2435,-85.7136,573,573,81,polygon,TRUE,America/Chicago,36322
+Fruithurst-AL,1840002170,Fruithurst,Fruithurst,AL,Fruithurst-AL,Alabama,1029,Cleburne,33.7296,-85.4312,280,280,108,polygon,TRUE,America/Chicago,36262
+Village Springs-AL,1840027507,Village Springs,Village Springs,AL,Village Springs-AL,Alabama,1073,Jefferson,33.7584,-86.6386,,,53.9,point,FALSE,America/Chicago,35126
+Millers Ferry-AL,1840026088,Millers Ferry,Millers Ferry,AL,Millers Ferry-AL,Alabama,1131,Wilcox,32.0996,-87.3675,,,1.6,point,FALSE,America/Chicago,36726
+Red Hill-AL,1840027565,Red Hill,Red Hill,AL,Red Hill-AL,Alabama,1051,Elmore,32.6851,-85.943,,,67.7,point,FALSE,America/Chicago,36024
+Myrtlewood-AL,1840016994,Myrtlewood,Myrtlewood,AL,Myrtlewood-AL,Alabama,1091,Marengo,32.2521,-87.9492,122,122,18,polygon,TRUE,America/Chicago,36763
+South Vinemont-AL,1840017959,South Vinemont,South Vinemont,AL,South Vinemont-AL,Alabama,1043,Cullman,34.2347,-86.8642,758,758,336,polygon,TRUE,America/Chicago,35058 35179
+Repton-AL,1840018171,Repton,Repton,AL,Repton-AL,Alabama,1035,Conecuh,31.4097,-87.2394,266,266,107,polygon,TRUE,America/Chicago,36475
+Faunsdale-AL,1840002081,Faunsdale,Faunsdale,AL,Faunsdale-AL,Alabama,1091,Marengo,32.4577,-87.5939,92,92,128,polygon,TRUE,America/Chicago,36738
+Eldridge-AL,1840016767,Eldridge,Eldridge,AL,Eldridge-AL,Alabama,1127,Walker,33.922,-87.6201,127,127,70,polygon,TRUE,America/Chicago,35554
+Kent-AL,1840025224,Kent,Kent,AL,Kent-AL,Alabama,1051,Elmore,32.619,-85.9486,,,29.2,point,FALSE,America/Chicago,36078
+Samson-AL,1840015883,Samson,Samson,AL,Samson-AL,Alabama,1061,Geneva,31.1124,-86.0462,1912,1912,204,polygon,TRUE,America/Chicago,36477
+Maytown-AL,1840016800,Maytown,Maytown,AL,Maytown-AL,Alabama,1073,Jefferson,33.5489,-86.9999,371,371,53,polygon,TRUE,America/Chicago,35005 35118
+Powell-AL,1840017914,Powell,Powell,AL,Powell-AL,Alabama,1049,DeKalb,34.5325,-85.8979,954,954,74,polygon,TRUE,America/Chicago,35986 35971
+Flatwood-AL,1840023729,Flatwood,Flatwood,AL,Flatwood-AL,Alabama,1131,Wilcox,32.1493,-87.5231,,,19.6,point,FALSE,America/Chicago,36728
+Pennington-AL,1840017019,Pennington,Pennington,AL,Pennington-AL,Alabama,1023,Choctaw,32.1994,-88.0494,207,207,40,polygon,TRUE,America/Chicago,36916
+Brookwood-AL,1840015711,Brookwood,Brookwood,AL,Brookwood-AL,Alabama,1125,Tuscaloosa,33.2398,-87.3277,1827,1827,84,polygon,TRUE,America/Chicago,35444
+Theodore-AL,1840013895,Theodore,Theodore,AL,Theodore-AL,Alabama,1097,Mobile,30.5408,-88.1885,,,236.5,polygon,FALSE,America/Chicago,36590 36582
+Kansas-AL,1840016766,Kansas,Kansas,AL,Kansas-AL,Alabama,1127,Walker,33.9029,-87.5568,219,219,83,polygon,TRUE,America/Chicago,35549 35501 35573
+Weogufka-AL,1840023023,Weogufka,Weogufka,AL,Weogufka-AL,Alabama,1037,Coosa,33.0267,-86.3169,,,14.6,polygon,FALSE,America/Chicago,35183
+York-AL,1840015778,York,York,AL,York-AL,Alabama,1119,Sumter,32.4998,-88.2938,2373,2373,133,polygon,TRUE,America/Chicago,36925
+Leeds-AL,1840005106,Leeds,Leeds,AL,Leeds-AL,Alabama,1073,Jefferson,33.5429,-86.5636,11940,11940,205,polygon,TRUE,America/Chicago,35094 35173
+Coffee Springs-AL,1840017138,Coffee Springs,Coffee Springs,AL,Coffee Springs-AL,Alabama,1061,Geneva,31.1664,-85.9102,227,227,111,polygon,TRUE,America/Chicago,36318
+Spring Garden-AL,1840022844,Spring Garden,Spring Garden,AL,Spring Garden-AL,Alabama,1019,Cherokee,33.973,-85.5558,,,80.7,polygon,FALSE,America/Chicago,36272 36275
+Saginaw-AL,1840027486,Saginaw,Saginaw,AL,Saginaw-AL,Alabama,1117,Shelby,33.2162,-86.7919,,,46.4,point,FALSE,America/Chicago,35007
+Lillian-AL,1840025228,Lillian,Lillian,AL,Lillian-AL,Alabama,1003,Baldwin,30.4122,-87.432,,,353.2,polygon,FALSE,America/Chicago,36549
+Uriah-AL,1840025944,Uriah,Uriah,AL,Uriah-AL,Alabama,1099,Monroe,31.3074,-87.4992,,,148.7,polygon,FALSE,America/Chicago,36480
+Lexington-AL,1840016504,Lexington,Lexington,AL,Lexington-AL,Alabama,1077,Lauderdale,34.9652,-87.3735,718,718,85,polygon,TRUE,America/Chicago,35648
+Macedonia-AL,1840026992,Macedonia,Macedonia,AL,Macedonia-AL,Alabama,1107,Pickens,33.4031,-88.2393,,,49.2,polygon,FALSE,America/Chicago,35461
+Chickasaw-AL,1840014986,Chickasaw,Chickasaw,AL,Chickasaw-AL,Alabama,1097,Mobile,30.7715,-88.0794,5908,5908,542,polygon,TRUE,America/Chicago,36611
+Tarrant-AL,1840015671,Tarrant,Tarrant,AL,Tarrant-AL,Alabama,1073,Jefferson,33.5941,-86.7684,6268,6268,380,polygon,TRUE,America/Chicago,35217
+Dixie-AL,1840027625,Dixie,Dixie,AL,Dixie-AL,Alabama,1053,Escambia,31.1446,-86.7194,,,1.9,point,FALSE,America/Chicago,36420
+Oak Grove-AL,1840016831,Oak Grove,Oak Grove,AL,Oak Grove-AL,Alabama,1121,Talladega,33.1928,-86.3036,511,511,110,polygon,TRUE,America/Chicago,35151 35150
+Midway-AL,1840017020,Midway,Midway,AL,Midway-AL,Alabama,1011,Bullock,32.0764,-85.5244,476,476,55,polygon,TRUE,America/Chicago,36053
+Lockhart-AL,1840017095,Lockhart,Lockhart,AL,Lockhart-AL,Alabama,1039,Covington,31.0128,-86.3505,514,514,182,polygon,TRUE,America/Chicago,36442 36455
+Dodge City-AL,1840016700,Dodge City,Dodge City,AL,Dodge City-AL,Alabama,1043,Cullman,34.0452,-86.8837,606,606,67,polygon,TRUE,America/Chicago,35057 35077
+Bluff Park-AL,1840023704,Bluff Park,Bluff Park,AL,Bluff Park-AL,Alabama,1073,Jefferson,33.4015,-86.8561,,,633.9,point,FALSE,America/Chicago,35226
+Marion Junction-AL,1840027564,Marion Junction,Marion Junction,AL,Marion Junction-AL,Alabama,1047,Dallas,32.4374,-87.2389,,,25.3,point,FALSE,America/Chicago,36759
+Mosses-AL,1840017006,Mosses,Mosses,AL,Mosses-AL,Alabama,1085,Lowndes,32.1802,-86.6888,945,945,76,polygon,TRUE,America/Chicago,36040
+Hackleburg-AL,1840016697,Hackleburg,Hackleburg,AL,Hackleburg-AL,Alabama,1093,Marion,34.2693,-87.8303,1477,1477,37,polygon,TRUE,America/Chicago,35564
+Landersville-AL,1840027616,Landersville,Landersville,AL,Landersville-AL,Alabama,1079,Lawrence,34.469,-87.4009,,,23.5,point,FALSE,America/Chicago,35650
+Union Grove-AL,1840016621,Union Grove,Union Grove,AL,Union Grove-AL,Alabama,1095,Marshall,34.4025,-86.4483,79,79,54,polygon,TRUE,America/Chicago,35175
+Camden-AL,1840001060,Camden,Camden,AL,Camden-AL,Alabama,1131,Wilcox,32.0007,-87.2967,1919,1919,177,polygon,TRUE,America/Chicago,36726
+Blue Ridge-AL,1840013806,Blue Ridge,Blue Ridge,AL,Blue Ridge-AL,Alabama,1051,Elmore,32.5009,-86.1839,,,54.6,polygon,FALSE,America/Chicago,36093
+Anniston-AL,1840006563,Anniston,Anniston,AL,Anniston-AL,Alabama,1015,Calhoun,33.6713,-85.8137,76350,22112,187,polygon,TRUE,America/Chicago,36201 36206 36207 36205 36202 36204 36254 36257
+Brent-AL,1840013781,Brent,Brent,AL,Brent-AL,Alabama,1007,Bibb,32.9421,-87.1753,5494,4919,216,polygon,TRUE,America/Chicago,35042 35034
+Rockford-AL,1840005393,Rockford,Rockford,AL,Rockford-AL,Alabama,1037,Coosa,32.8896,-86.215,444,444,51,polygon,TRUE,America/Chicago,35136
+Jackson-AL,1840014935,Jackson,Jackson,AL,Jackson-AL,Alabama,1025,Clarke,31.5318,-87.8915,2741,4907,121,polygon,TRUE,America/Chicago,36545
+Grant-AL,1840016620,Grant,Grant,AL,Grant-AL,Alabama,1095,Marshall,34.519,-86.2492,907,907,189,polygon,TRUE,America/Chicago,35747
+Dozier-AL,1840017043,Dozier,Dozier,AL,Dozier-AL,Alabama,1041,Crenshaw,31.5031,-86.3694,331,331,43,polygon,TRUE,America/Chicago,36028
+Toxey-AL,1840017017,Toxey,Toxey,AL,Toxey-AL,Alabama,1023,Choctaw,31.9107,-88.3092,129,129,72,polygon,TRUE,America/Chicago,36921
+Cullman-AL,1840001354,Cullman,Cullman,AL,Cullman-AL,Alabama,1043,Cullman,34.1791,-86.8402,19252,15496,309,polygon,TRUE,America/Chicago,35058 35055 35056
+Semmes-AL,1840027491,Semmes,Semmes,AL,Semmes-AL,Alabama,1097,Mobile,30.7854,-88.2317,4155,4155,193,polygon,TRUE,America/Chicago,36613 36618 36575
+Anderson-AL,1840015513,Anderson,Anderson,AL,Anderson-AL,Alabama,1077,Lauderdale,34.9147,-87.2716,276,276,82,polygon,TRUE,America/Chicago,35610
+Morrison Crossroad-AL,1840027588,Morrison Crossroad,Morrison Crossroad,AL,Morrison Crossroad-AL,Alabama,1111,Randolph,33.4265,-85.4933,,,26.9,point,FALSE,America/Chicago,36280
+Seminole-AL,1840027490,Seminole,Seminole,AL,Seminole-AL,Alabama,1003,Baldwin,30.5152,-87.4739,,,174.5,point,FALSE,America/Chicago,36574
+Wattsville-AL,1840027628,Wattsville,Wattsville,AL,Wattsville-AL,Alabama,1115,St. Clair,33.6815,-86.2797,,,129.3,point,FALSE,America/Chicago,35131
+Butler-AL,1840015823,Butler,Butler,AL,Butler-AL,Alabama,1023,Choctaw,32.0951,-88.214,1773,1773,122,polygon,TRUE,America/Chicago,36904
+Auburn-AL,1840013810,Auburn,Auburn,AL,Auburn-AL,Alabama,1081,Lee,32.6084,-85.4897,88379,63118,414,polygon,TRUE,America/Chicago,36849 36832 36830 36831
+Birmingham-AL,1840006507,Birmingham,Birmingham,AL,Birmingham-AL,Alabama,1073,Jefferson,33.5276,-86.7986,749299,212157,560,polygon,TRUE,America/Chicago,35218 35214 35215 35217 35210 35211 35212 35213 35242 35224 35221 35222 35228 35203 35207 35206 35205 35204 35209 35208 35243 35254 35068 35061 35234 35235 35233 35142 35201 35202 35219 35220 35231 35232 35236 35237 35238 35246 35249 35253 35255 35259 35260 35261 35266 35270 35282 35283 35285 35287 35288 35290 35291 35292 35293 35294 35295 35296 35297 35298
+Dixons Mills-AL,1840027600,Dixons Mills,Dixons Mills,AL,Dixons Mills-AL,Alabama,1091,Marengo,32.0582,-87.7875,,,43,point,FALSE,America/Chicago,36736
+Burnt Corn-AL,1840023711,Burnt Corn,Burnt Corn,AL,Burnt Corn-AL,Alabama,1035,Conecuh,31.5535,-87.1603,,,3.5,point,FALSE,America/Chicago,36460
+Linden-AL,1840005138,Linden,Linden,AL,Linden-AL,Alabama,1091,Marengo,32.3001,-87.7926,1988,1988,214,polygon,TRUE,America/Chicago,36748
+Cloverdale-AL,1840023720,Cloverdale,Cloverdale,AL,Cloverdale-AL,Alabama,1077,Lauderdale,34.9387,-87.7714,,,26.9,point,FALSE,America/Chicago,35633
+Texasville-AL,1840027503,Texasville,Texasville,AL,Texasville-AL,Alabama,1005,Barbour,31.7152,-85.4244,,,4,point,FALSE,America/Chicago,36016
+Grove Hill-AL,1840005924,Grove Hill,Grove Hill,AL,Grove Hill-AL,Alabama,1025,Clarke,31.7033,-87.7759,1478,1478,114,polygon,TRUE,America/Chicago,36451
+Millbrook-AL,1840014877,Millbrook,Millbrook,AL,Millbrook-AL,Alabama,1051,Elmore,32.5033,-86.3729,15413,15413,464,polygon,TRUE,America/Chicago,36054 36022
+Helena-AL,1840014827,Helena,Helena,AL,Helena-AL,Alabama,1117,Shelby,33.2855,-86.8748,18673,18673,345,polygon,TRUE,America/Chicago,35022 35080
+Frisco City-AL,1840005003,Frisco City,Frisco City,AL,Frisco City-AL,Alabama,1099,Monroe,31.4353,-87.4037,1212,1212,116,polygon,TRUE,America/Chicago,36445
+Petrey-AL,1840017045,Petrey,Petrey,AL,Petrey-AL,Alabama,1041,Crenshaw,31.8495,-86.2057,58,58,30,polygon,TRUE,America/Chicago,36049 36062
+Lake View-AL,1840016839,Lake View,Lake View,AL,Lake View-AL,Alabama,1125,Tuscaloosa,33.2816,-87.1386,3937,2247,542,polygon,TRUE,America/Chicago,35111
+Joppa-AL,1840025862,Joppa,Joppa,AL,Joppa-AL,Alabama,1043,Cullman,34.2982,-86.5506,,,137.4,polygon,FALSE,America/Chicago,35016 35087
+Daviston-AL,1840016913,Daviston,Daviston,AL,Daviston-AL,Alabama,1123,Tallapoosa,33.0557,-85.6371,209,209,8,polygon,TRUE,America/Chicago,36256
+Chunchula-AL,1840025981,Chunchula,Chunchula,AL,Chunchula-AL,Alabama,1097,Mobile,30.9237,-88.2072,,,44.2,polygon,FALSE,America/Chicago,36521
+Pell City-AL,1840014771,Pell City,Pell City,AL,Pell City-AL,Alabama,1115,St. Clair,33.5609,-86.2669,12055,13794,214,polygon,TRUE,America/Chicago,35125 35128
+Crosby-AL,1840027578,Crosby,Crosby,AL,Crosby-AL,Alabama,1069,Houston,31.0388,-85.0863,,,2,point,FALSE,America/Chicago,36343
+Gurley-AL,1840016519,Gurley,Gurley,AL,Gurley-AL,Alabama,1089,Madison,34.7074,-86.3769,786,786,86,polygon,TRUE,America/Chicago,35748
+Eutaw-AL,1840001838,Eutaw,Eutaw,AL,Eutaw-AL,Alabama,1063,Greene,32.8436,-87.8987,2749,2749,88,polygon,TRUE,America/Chicago,35462
+Whitesboro-AL,1840022891,Whitesboro,Whitesboro,AL,Whitesboro-AL,Alabama,1055,Etowah,34.1682,-86.0572,,,96.6,polygon,FALSE,America/Chicago,35956
+Maplesville-AL,1840016919,Maplesville,Maplesville,AL,Maplesville-AL,Alabama,1021,Chilton,32.7867,-86.8783,703,703,83,polygon,TRUE,America/Chicago,36750
+Waverly-AL,1840016911,Waverly,Waverly,AL,Waverly-AL,Alabama,1017,Chambers,32.7333,-85.5761,148,148,20,polygon,TRUE,America/Chicago,36879
+Bridgeport-AL,1840001007,Bridgeport,Bridgeport,AL,Bridgeport-AL,Alabama,1071,Jackson,34.9495,-85.7243,2337,2337,208,polygon,TRUE,America/Chicago,35740
+Locust Fork-AL,1840016717,Locust Fork,Locust Fork,AL,Locust Fork-AL,Alabama,1009,Blount,33.8957,-86.6302,1192,1192,119,polygon,TRUE,America/Chicago,35097
+Cragford-AL,1840027627,Cragford,Cragford,AL,Cragford-AL,Alabama,1027,Clay,33.2509,-85.6725,,,24.7,point,FALSE,America/Chicago,36255
+Cochrane-AL,1840023721,Cochrane,Cochrane,AL,Cochrane-AL,Alabama,1107,Pickens,33.0654,-88.2511,,,1.1,point,FALSE,America/Chicago,35442
+Fackler-AL,1840023727,Fackler,Fackler,AL,Fackler-AL,Alabama,1071,Jackson,34.7926,-85.91,,,25.9,point,FALSE,America/Chicago,35746
+Midfield-AL,1840014791,Midfield,Midfield,AL,Midfield-AL,Alabama,1073,Jefferson,33.4552,-86.9226,5171,5171,752,polygon,TRUE,America/Chicago,35221 35228
+Tuskegee-AL,1840004337,Tuskegee,Tuskegee,AL,Tuskegee-AL,Alabama,1087,Macon,32.4395,-85.7139,8430,8722,209,polygon,TRUE,America/Chicago,36088 36083 36087
+Fulton-AL,1840002425,Fulton,Fulton,AL,Fulton-AL,Alabama,1025,Clarke,31.7916,-87.7397,258,258,40,polygon,TRUE,America/Chicago,36446 36451
+Mountain Creek-AL,1840027532,Mountain Creek,Mountain Creek,AL,Mountain Creek-AL,Alabama,1021,Chilton,32.7107,-86.4789,,,108.4,point,FALSE,America/Chicago,36051
+Point Clear-AL,1840013883,Point Clear,Point Clear,AL,Point Clear-AL,Alabama,1003,Baldwin,30.4903,-87.9095,,,144.4,polygon,FALSE,America/Chicago,36564 36532
+Castleberry-AL,1840017079,Castleberry,Castleberry,AL,Castleberry-AL,Alabama,1035,Conecuh,31.3001,-87.027,551,551,124,polygon,TRUE,America/Chicago,36432
+Ladonia-AL,1840013828,Ladonia,Ladonia,AL,Ladonia-AL,Alabama,1113,Russell,32.4609,-85.0877,,,528.9,polygon,FALSE,America/Chicago,36870 36869
+Sylvan Springs-AL,1840016803,Sylvan Springs,Sylvan Springs,AL,Sylvan Springs-AL,Alabama,1073,Jefferson,33.5287,-87.0312,1509,1509,67,polygon,TRUE,America/Chicago,35118
+Priceville-AL,1840017927,Priceville,Priceville,AL,Priceville-AL,Alabama,1103,Morgan,34.524,-86.8859,3729,3297,243,polygon,TRUE,America/Chicago,35603
+Lehigh-AL,1840027516,Lehigh,Lehigh,AL,Lehigh-AL,Alabama,1009,Blount,33.8543,-86.6839,,,10.7,point,FALSE,America/Chicago,35172
+Bayou La Batre-AL,1840013897,Bayou La Batre,Bayou La Batre,AL,Bayou La Batre-AL,Alabama,1097,Mobile,30.4128,-88.2609,2513,2513,129,polygon,TRUE,America/Chicago,36544 36509
+Graham-AL,1840022971,Graham,Graham,AL,Graham-AL,Alabama,1111,Randolph,33.4552,-85.323,,,8.5,polygon,FALSE,America/Chicago,36263
+Coker-AL,1840016841,Coker,Coker,AL,Coker-AL,Alabama,1125,Tuscaloosa,33.2448,-87.6802,985,985,186,polygon,TRUE,America/Chicago,35452
+Carlisle-AL,1840023714,Carlisle,Carlisle,AL,Carlisle-AL,Alabama,1055,Etowah,34.129,-86.1203,,,81.2,point,FALSE,America/Chicago,35956
+Sardis City-AL,1840017967,Sardis City,Sardis City,AL,Sardis City-AL,Alabama,1055,Etowah,34.1749,-86.1125,1771,1771,86,polygon,TRUE,America/Chicago,35956
+Pine Level-AL,1840023046,Pine Level,Pine Level,AL,Pine Level-AL,Alabama,1001,Autauga,32.5797,-86.4529,,,139.2,polygon,FALSE,America/Chicago,36067 36022
+Eunola-AL,1840001835,Eunola,Eunola,AL,Eunola-AL,Alabama,1061,Geneva,31.0326,-85.8409,,,88.1,polygon,FALSE,America/Chicago,36340
+Chastang-AL,1840023717,Chastang,Chastang,AL,Chastang-AL,Alabama,1097,Mobile,31.0377,-88.0233,,,2.4,point,FALSE,America/Chicago,36560
+Fort Payne-AL,1840004822,Fort Payne,Fort Payne,AL,Fort Payne-AL,Alabama,1049,DeKalb,34.4559,-85.6954,7062,14099,95,polygon,TRUE,America/Chicago,35967 35968
+Level Plains-AL,1840017083,Level Plains,Level Plains,AL,Level Plains-AL,Alabama,1045,Dale,31.3071,-85.7687,2006,2006,253,polygon,TRUE,America/Chicago,36330 36322
+Oakman-AL,1840016769,Oakman,Oakman,AL,Oakman-AL,Alabama,1127,Walker,33.7141,-87.389,754,754,94,polygon,TRUE,America/Chicago,35579
+Oneonta-AL,1840005206,Oneonta,Oneonta,AL,Oneonta-AL,Alabama,1009,Blount,33.9385,-86.4936,5482,6699,167,polygon,TRUE,America/Chicago,35121
+Stewartville-AL,1840023022,Stewartville,Stewartville,AL,Stewartville-AL,Alabama,1037,Coosa,33.0725,-86.2658,,,78.5,polygon,FALSE,America/Chicago,35151 35183
+Lim Rock-AL,1840027553,Lim Rock,Lim Rock,AL,Lim Rock-AL,Alabama,1071,Jackson,34.6723,-86.1883,,,17.1,point,FALSE,America/Chicago,35776
+Indian Springs Village-AL,1840014828,Indian Springs Village,Indian Springs Village,AL,Indian Springs Village-AL,Alabama,1117,Shelby,33.3589,-86.7493,2544,2544,255,polygon,TRUE,America/Chicago,35242 35124
+Bon Secour-AL,1840027557,Bon Secour,Bon Secour,AL,Bon Secour-AL,Alabama,1003,Baldwin,30.3222,-87.7271,,,81.2,polygon,FALSE,America/Chicago,36511 36535
+Riverside-AL,1840017995,Riverside,Riverside,AL,Riverside-AL,Alabama,1115,St. Clair,33.6171,-86.2042,2316,2316,103,polygon,TRUE,America/Chicago,35135 35125
+Elkmont-AL,1840016511,Elkmont,Elkmont,AL,Elkmont-AL,Alabama,1083,Limestone,34.9291,-86.9767,469,469,113,polygon,TRUE,America/Chicago,35620
+Ramer-AL,1840027540,Ramer,Ramer,AL,Ramer-AL,Alabama,1101,Montgomery,32.0504,-86.2214,,,50.2,point,FALSE,America/Chicago,36069
+Peachburg-AL,1840027590,Peachburg,Peachburg,AL,Peachburg-AL,Alabama,1011,Bullock,32.1638,-85.6241,,,2.7,point,FALSE,America/Chicago,36089
+Inverness-AL,1840027519,Inverness,Inverness,AL,Inverness-AL,Alabama,1117,Shelby,33.4071,-86.7111,,,1090,point,FALSE,America/Chicago,35242
+Curry-AL,1840027607,Curry,Curry,AL,Curry-AL,Alabama,1121,Talladega,33.4865,-86.0172,,,6.7,point,FALSE,America/Chicago,36268
+Emelle-AL,1840016948,Emelle,Emelle,AL,Emelle-AL,Alabama,1119,Sumter,32.7287,-88.3165,50,50,91,polygon,TRUE,America/Chicago,35459
+McWilliams-AL,1840026087,McWilliams,McWilliams,AL,McWilliams-AL,Alabama,1131,Wilcox,31.831,-87.0939,,,10.8,point,FALSE,America/Chicago,36753
+Fort Deposit-AL,1840002146,Fort Deposit,Fort Deposit,AL,Fort Deposit-AL,Alabama,1085,Lowndes,31.9863,-86.5664,1228,1228,83,polygon,TRUE,America/Chicago,36032
+Brooklyn-AL,1840023708,Brooklyn,Brooklyn,AL,Brooklyn-AL,Alabama,1035,Conecuh,31.2627,-86.7711,,,10.8,point,FALSE,America/Chicago,36401
+Heflin-AL,1840007380,Heflin,Heflin,AL,Heflin-AL,Alabama,1029,Cleburne,33.6471,-85.5698,3474,3474,83,polygon,TRUE,America/Chicago,36264
+Dolomite-AL,1840023724,Dolomite,Dolomite,AL,Dolomite-AL,Alabama,1073,Jefferson,33.4629,-86.9614,,,628,point,FALSE,America/Chicago,35061
+Nauvoo-AL,1840016768,Nauvoo,Nauvoo,AL,Nauvoo-AL,Alabama,1127,Walker,33.9873,-87.4876,211,211,82,polygon,TRUE,America/Chicago,35578
+Haleburg-AL,1840017072,Haleburg,Haleburg,AL,Haleburg-AL,Alabama,1067,Henry,31.4099,-85.1381,101,101,10,polygon,TRUE,America/Chicago,36319
+Lineville-AL,1840008076,Lineville,Lineville,AL,Lineville-AL,Alabama,1027,Clay,33.3123,-85.7508,2306,2306,99,polygon,TRUE,America/Chicago,36266
+Forestdale-AL,1840013723,Forestdale,Forestdale,AL,Forestdale-AL,Alabama,1073,Jefferson,33.5737,-86.9002,,,456.8,polygon,FALSE,America/Chicago,35214 35005
+Demopolis-AL,1840014897,Demopolis,Demopolis,AL,Demopolis-AL,Alabama,1091,Marengo,32.498,-87.8298,6052,7019,152,polygon,TRUE,America/Chicago,36732 36742
+New Hope-AL,1840014646,New Hope,New Hope,AL,New Hope-AL,Alabama,1089,Madison,34.537,-86.4128,2803,2803,125,polygon,TRUE,America/Chicago,35760
+East Brewton-AL,1840013889,East Brewton,East Brewton,AL,East Brewton-AL,Alabama,1053,Escambia,31.0906,-87.0556,2415,2415,273,polygon,TRUE,America/Chicago,36426
+Wellington-AL,1840027510,Wellington,Wellington,AL,Wellington-AL,Alabama,1015,Calhoun,33.8226,-85.8927,,,67.7,point,FALSE,America/Chicago,36279
+Livingston-AL,1840005153,Livingston,Livingston,AL,Livingston-AL,Alabama,1119,Sumter,32.5982,-88.1891,3454,3454,187,polygon,TRUE,America/Chicago,35470
+Caffee Junction-AL,1840027602,Caffee Junction,Caffee Junction,AL,Caffee Junction-AL,Alabama,1125,Tuscaloosa,33.2454,-87.1378,,,77.6,point,FALSE,America/Chicago,35111
+Fayetteville-AL,1840022953,Fayetteville,Fayetteville,AL,Fayetteville-AL,Alabama,1121,Talladega,33.1643,-86.4411,,,30.3,polygon,FALSE,America/Chicago,35151 35044
+Gorgas-AL,1840023736,Gorgas,Gorgas,AL,Gorgas-AL,Alabama,1127,Walker,33.6493,-87.2081,,,1.5,point,FALSE,America/Chicago,35580
+Boykin-AL,1840025922,Boykin,Boykin,AL,Boykin-AL,Alabama,1131,Wilcox,32.0701,-87.2915,,,47,polygon,FALSE,America/Chicago,36720 36723
+West Selmont-AL,1840027511,West Selmont,West Selmont,AL,West Selmont-AL,Alabama,1047,Dallas,32.3912,-87.0172,,,105,point,FALSE,America/Chicago,36701
+Atmore-AL,1840013888,Atmore,Atmore,AL,Atmore-AL,Alabama,1053,Escambia,31.0927,-87.4763,6453,10022,177,polygon,TRUE,America/Chicago,36502 36503 36504
+Kimberly-AL,1840016799,Kimberly,Kimberly,AL,Kimberly-AL,Alabama,1073,Jefferson,33.7758,-86.7971,2964,2964,195,polygon,TRUE,America/Chicago,35071 35091 35116
+Luverne-AL,1840004042,Luverne,Luverne,AL,Luverne-AL,Alabama,1041,Crenshaw,31.7186,-86.2687,2825,2825,69,polygon,TRUE,America/Chicago,36049
+Guntersville-AL,1840006456,Guntersville,Guntersville,AL,Guntersville-AL,Alabama,1095,Marshall,34.3674,-86.2634,8437,8437,128,polygon,TRUE,America/Chicago,35976
+Salem-AL,1840027487,Salem,Salem,AL,Salem-AL,Alabama,1081,Lee,32.5968,-85.2386,,,47.7,point,FALSE,America/Chicago,36874
+Booth-AL,1840023706,Booth,Booth,AL,Booth-AL,Alabama,1001,Autauga,32.5004,-86.5719,,,56.4,point,FALSE,America/Chicago,36067
+Cleveland-AL,1840016718,Cleveland,Cleveland,AL,Cleveland-AL,Alabama,1009,Blount,33.9965,-86.5671,1313,1313,64,polygon,TRUE,America/Chicago,35049 35121
+Campbell-AL,1840023713,Campbell,Campbell,AL,Campbell-AL,Alabama,1025,Clarke,31.9235,-87.9811,,,3.1,point,FALSE,America/Chicago,36727
+Moulton Heights-AL,1840027034,Moulton Heights,Moulton Heights,AL,Moulton Heights-AL,Alabama,1103,Morgan,34.5973,-87.0145,,,641.6,point,FALSE,America/Chicago,35601
+Moody-AL,1840014770,Moody,Moody,AL,Moody-AL,Alabama,1115,St. Clair,33.5986,-86.4963,12823,12823,202,polygon,TRUE,America/Chicago,35094 35173 35004 35120
+Somerville-AL,1840004313,Somerville,Somerville,AL,Somerville-AL,Alabama,1103,Morgan,34.4687,-86.7956,712,712,100,polygon,TRUE,America/Chicago,35670 35640
+Attalla-AL,1840013655,Attalla,Attalla,AL,Attalla-AL,Alabama,1055,Etowah,34.0049,-86.104,5865,5865,324,polygon,TRUE,America/Chicago,35954
+Graysville-AL,1840003493,Graysville,Graysville,AL,Graysville-AL,Alabama,1073,Jefferson,33.6582,-86.9673,2107,2107,48,polygon,TRUE,America/Chicago,35073
+Harpersville-AL,1840016847,Harpersville,Harpersville,AL,Harpersville-AL,Alabama,1117,Shelby,33.3185,-86.4285,1680,1680,30,polygon,TRUE,America/Chicago,35078
+Elba-AL,1840001532,Elba,Elba,AL,Elba-AL,Alabama,1031,Coffee,31.4172,-86.0759,3893,3893,97,polygon,TRUE,America/Chicago,36323
+Kinston-AL,1840017090,Kinston,Kinston,AL,Kinston-AL,Alabama,1031,Coffee,31.2199,-86.1704,539,539,42,polygon,TRUE,America/Chicago,36453
+Orange Beach-AL,1840014980,Orange Beach,Orange Beach,AL,Orange Beach-AL,Alabama,1003,Baldwin,30.2941,-87.5851,5981,5981,157,polygon,TRUE,America/Chicago,36561 36530
+Athens-AL,1840000935,Athens,Athens,AL,Athens-AL,Alabama,1083,Limestone,34.7846,-86.9516,28938,25393,248,polygon,TRUE,America/Chicago,35611 35613 35612
+Lipscomb-AL,1840015667,Lipscomb,Lipscomb,AL,Lipscomb-AL,Alabama,1073,Jefferson,33.4261,-86.926,2133,2133,701,polygon,TRUE,America/Chicago,35020
+Ashford-AL,1840000737,Ashford,Ashford,AL,Ashford-AL,Alabama,1069,Houston,31.1859,-85.2363,2149,2149,132,polygon,TRUE,America/Chicago,36312
+Burnsville-AL,1840027521,Burnsville,Burnsville,AL,Burnsville-AL,Alabama,1047,Dallas,32.4746,-86.8917,,,111.4,point,FALSE,America/Chicago,36703
+Horn Hill-AL,1840017093,Horn Hill,Horn Hill,AL,Horn Hill-AL,Alabama,1039,Covington,31.2382,-86.3211,227,227,34,polygon,TRUE,America/Chicago,36467
+Cordova-AL,1840014767,Cordova,Cordova,AL,Cordova-AL,Alabama,1127,Walker,33.7613,-87.1926,2014,2014,133,polygon,TRUE,America/Chicago,35550
+Paint Rock-AL,1840016528,Paint Rock,Paint Rock,AL,Paint Rock-AL,Alabama,1071,Jackson,34.6602,-86.3307,205,205,182,polygon,TRUE,America/Chicago,35764 35776
+Saks-AL,1840013708,Saks,Saks,AL,Saks-AL,Alabama,1015,Calhoun,33.7119,-85.8535,,,895.1,polygon,FALSE,America/Chicago,36201 36206
+Edgewater-AL,1840013093,Edgewater,Edgewater,AL,Edgewater-AL,Alabama,1073,Jefferson,33.5286,-86.9574,,,18.3,polygon,FALSE,America/Chicago,35224
+Foley-AL,1840002084,Foley,Foley,AL,Foley-AL,Alabama,1003,Baldwin,30.3994,-87.6645,31880,17607,217,polygon,TRUE,America/Chicago,36535 36530 36536
+Snead-AL,1840017964,Snead,Snead,AL,Snead-AL,Alabama,1009,Blount,34.1163,-86.3897,841,841,59,polygon,TRUE,America/Chicago,35952
+Oak Hill-AL,1840017024,Oak Hill,Oak Hill,AL,Oak Hill-AL,Alabama,1131,Wilcox,31.9216,-87.0852,25,25,17,polygon,TRUE,America/Chicago,36768 36766
+Huntsville-AL,1840005061,Huntsville,Huntsville,AL,Huntsville-AL,Alabama,1089,Madison,34.699,-86.6412,307319,193079,349,polygon,TRUE,America/Chicago,35801 35803 35802 35805 35806 35741 35824 35763 35757 35756 35810 35811 35816 35896 35767 35804 35807 35809 35812 35813 35814 35815 35893 35894 35895 35897 35898 35899
+Hunter-AL,1840027523,Hunter,Hunter,AL,Hunter-AL,Alabama,1101,Montgomery,32.3957,-86.3955,,,63.5,point,FALSE,America/Chicago,36108
+Citronelle-AL,1840014987,Citronelle,Citronelle,AL,Citronelle-AL,Alabama,1097,Mobile,31.0952,-88.2467,3885,3885,58,polygon,TRUE,America/Chicago,36522
+Tensaw-AL,1840027594,Tensaw,Tensaw,AL,Tensaw-AL,Alabama,1003,Baldwin,31.1568,-87.7992,,,12.8,point,FALSE,America/Chicago,36579
+Brantley-AL,1840015844,Brantley,Brantley,AL,Brantley-AL,Alabama,1041,Crenshaw,31.5823,-86.2569,801,801,99,polygon,TRUE,America/Chicago,36009
+Kellyton-AL,1840016916,Kellyton,Kellyton,AL,Kellyton-AL,Alabama,1037,Coosa,32.979,-86.0358,197,197,78,polygon,TRUE,America/Chicago,35089
+Fairview-AL,1840002078,Fairview,Fairview,AL,Fairview-AL,Alabama,1043,Cullman,34.2477,-86.6843,458,458,65,polygon,TRUE,America/Chicago,35058
+Garden City-AL,1840002685,Garden City,Garden City,AL,Garden City-AL,Alabama,1043,Cullman,34.0152,-86.752,498,498,63,polygon,TRUE,America/Chicago,35077 35070
+Uniontown-AL,1840016959,Uniontown,Uniontown,AL,Uniontown-AL,Alabama,1105,Perry,32.449,-87.4958,2388,2388,60,polygon,TRUE,America/Chicago,36786
+Beaverton-AL,1840015635,Beaverton,Beaverton,AL,Beaverton-AL,Alabama,1075,Lamar,33.9354,-88.0218,187,187,15,polygon,TRUE,America/Chicago,35544
+Smiths Station-AL,1840015792,Smiths Station,Smiths Station,AL,Smiths Station-AL,Alabama,1081,Lee,32.5285,-85.096,5341,5341,307,polygon,TRUE,America/Chicago,36877
+Holly Pond-AL,1840016698,Holly Pond,Holly Pond,AL,Holly Pond-AL,Alabama,1043,Cullman,34.1696,-86.6125,815,815,70,polygon,TRUE,America/Chicago,35055 35083
+Brewton-AL,1840006146,Brewton,Brewton,AL,Brewton-AL,Alabama,1053,Escambia,31.1111,-87.0737,6896,5432,187,polygon,TRUE,America/Chicago,36426 36427
+Red Level-AL,1840018176,Red Level,Red Level,AL,Red Level-AL,Alabama,1039,Covington,31.4055,-86.6084,485,485,97,polygon,TRUE,America/Chicago,36474
+Yellow Bluff-AL,1840017023,Yellow Bluff,Yellow Bluff,AL,Yellow Bluff-AL,Alabama,1131,Wilcox,31.9622,-87.4808,176,176,146,polygon,TRUE,America/Chicago,36769
+Leroy-AL,1840025960,Leroy,Leroy,AL,Leroy-AL,Alabama,1129,Washington,31.4952,-87.969,,,12.3,polygon,FALSE,America/Chicago,36548
+Geraldine-AL,1840004919,Geraldine,Geraldine,AL,Geraldine-AL,Alabama,1049,DeKalb,34.3577,-86.0037,898,898,88,polygon,TRUE,America/Chicago,35974
+Rogersville-AL,1840017891,Rogersville,Rogersville,AL,Rogersville-AL,Alabama,1077,Lauderdale,34.8251,-87.2821,1220,1220,155,polygon,TRUE,America/Chicago,35652
+Malone-AL,1840027584,Malone,Malone,AL,Malone-AL,Alabama,1111,Randolph,33.1987,-85.5841,,,3.3,point,FALSE,America/Chicago,36276
+Morris-AL,1840016801,Morris,Morris,AL,Morris-AL,Alabama,1073,Jefferson,33.7467,-86.8039,1933,1933,246,polygon,TRUE,America/Chicago,35071 35116
+Courtland-AL,1840016590,Courtland,Courtland,AL,Courtland-AL,Alabama,1079,Lawrence,34.6704,-87.3262,599,599,78,polygon,TRUE,America/Chicago,35618
+Hobson City-AL,1840016781,Hobson City,Hobson City,AL,Hobson City-AL,Alabama,1015,Calhoun,33.6149,-85.856,761,761,281,polygon,TRUE,America/Chicago,36203 36201
+Banks-AL,1840015841,Banks,Banks,AL,Banks-AL,Alabama,1109,Pike,31.8132,-85.8364,173,173,33,polygon,TRUE,America/Chicago,36005
+Prichard-AL,1840014990,Prichard,Prichard,AL,Prichard-AL,Alabama,1097,Mobile,30.7735,-88.1301,22185,22185,338,polygon,TRUE,America/Chicago,36616 36610 36613 36612
+Mitchell-AL,1840027587,Mitchell,Mitchell,AL,Mitchell-AL,Alabama,1011,Bullock,32.2463,-85.9377,,,1.7,point,FALSE,America/Chicago,36029
+Hanceville-AL,1840013642,Hanceville,Hanceville,AL,Hanceville-AL,Alabama,1043,Cullman,34.0631,-86.7636,3251,3288,300,polygon,TRUE,America/Chicago,35077
+Blue Springs-AL,1840015839,Blue Springs,Blue Springs,AL,Blue Springs-AL,Alabama,1005,Barbour,31.6635,-85.5035,91,91,12,polygon,TRUE,America/Chicago,36374 36017
+Grimes-AL,1840003500,Grimes,Grimes,AL,Grimes-AL,Alabama,1045,Dale,31.2999,-85.4502,542,542,167,polygon,TRUE,America/Chicago,36303 36350
+Gasque-AL,1840027581,Gasque,Gasque,AL,Gasque-AL,Alabama,1003,Baldwin,30.2533,-87.8197,,,120.3,point,FALSE,America/Chicago,36542
+New Brockton-AL,1840017091,New Brockton,New Brockton,AL,New Brockton-AL,Alabama,1031,Coffee,31.3784,-85.9228,1157,1157,55,polygon,TRUE,America/Chicago,36351
+Geneva-AL,1840003161,Geneva,Geneva,AL,Geneva-AL,Alabama,1061,Geneva,31.0437,-85.8764,2637,4424,107,polygon,TRUE,America/Chicago,36340
+Miller-AL,1840027585,Miller,Miller,AL,Miller-AL,Alabama,1091,Marengo,32.1565,-87.7856,,,5.2,point,FALSE,America/Chicago,36748
+Sawyerville-AL,1840027567,Sawyerville,Sawyerville,AL,Sawyerville-AL,Alabama,1065,Hale,32.7518,-87.7295,,,26.7,point,FALSE,America/Chicago,36776
+Carlton-AL,1840025932,Carlton,Carlton,AL,Carlton-AL,Alabama,1025,Clarke,31.343,-87.8378,,,22.5,polygon,FALSE,America/Chicago,36545
+Forest Home-AL,1840023730,Forest Home,Forest Home,AL,Forest Home-AL,Alabama,1013,Butler,31.8624,-86.8428,,,3.7,point,FALSE,America/Chicago,36030
+Mount Olive-AL,1840013727,Mount Olive,Mount Olive,AL,Mount Olive-AL,Alabama,1073,Jefferson,33.6778,-86.8726,,,196.8,polygon,FALSE,America/Chicago,35117
+Axis-AL,1840025979,Axis,Axis,AL,Axis-AL,Alabama,1097,Mobile,30.9295,-88.0181,,,99.6,polygon,FALSE,America/Chicago,36505
+Randolph-AL,1840027621,Randolph,Randolph,AL,Randolph-AL,Alabama,1007,Bibb,32.8996,-86.9108,,,29.3,point,FALSE,America/Chicago,36792
+Vandiver-AL,1840022967,Vandiver,Vandiver,AL,Vandiver-AL,Alabama,1117,Shelby,33.4601,-86.5251,,,159.6,polygon,FALSE,America/Chicago,35147 35176
+Ider-AL,1840016550,Ider,Ider,AL,Ider-AL,Alabama,1049,DeKalb,34.7022,-85.6691,711,711,50,polygon,TRUE,America/Chicago,35981 35978
+Gordon-AL,1840006413,Gordon,Gordon,AL,Gordon-AL,Alabama,1069,Houston,31.1439,-85.0932,327,327,39,polygon,TRUE,America/Chicago,36343
+Jemison-AL,1840014862,Jemison,Jemison,AL,Jemison-AL,Alabama,1021,Chilton,32.9696,-86.7339,2616,2616,89,polygon,TRUE,America/Chicago,35085
+Tibbie-AL,1840025963,Tibbie,Tibbie,AL,Tibbie-AL,Alabama,1129,Washington,31.3628,-88.2471,,,11,polygon,FALSE,America/Chicago,36583
+Sweet Water-AL,1840016997,Sweet Water,Sweet Water,AL,Sweet Water-AL,Alabama,1091,Marengo,32.1049,-87.8612,242,242,46,polygon,TRUE,America/Chicago,36782
+Bucks-AL,1840025980,Bucks,Bucks,AL,Bucks-AL,Alabama,1097,Mobile,31.0169,-88.025,,,17.4,polygon,FALSE,America/Chicago,36512 36560
+Woodland-AL,1840016866,Woodland,Woodland,AL,Woodland-AL,Alabama,1111,Randolph,33.3756,-85.3975,183,183,45,polygon,TRUE,America/Chicago,36280
+Bremen-AL,1840023707,Bremen,Bremen,AL,Bremen-AL,Alabama,1043,Cullman,33.9945,-86.97,,,56.3,point,FALSE,America/Chicago,35057
+Georgiana-AL,1840003191,Georgiana,Georgiana,AL,Georgiana-AL,Alabama,1013,Butler,31.6391,-86.7468,1653,1653,102,polygon,TRUE,America/Chicago,36033
+Stanton-AL,1840027623,Stanton,Stanton,AL,Stanton-AL,Alabama,1021,Chilton,32.7357,-86.8997,,,44.7,point,FALSE,America/Chicago,36790
+Hayden-AL,1840015601,Hayden,Hayden,AL,Hayden-AL,Alabama,1009,Blount,33.8818,-86.7838,1338,1338,128,polygon,TRUE,America/Chicago,35180 35079
+Tyler-AL,1840027504,Tyler,Tyler,AL,Tyler-AL,Alabama,1047,Dallas,32.3393,-86.8797,,,2,point,FALSE,America/Chicago,36785
+Megargel-AL,1840025942,Megargel,Megargel,AL,Megargel-AL,Alabama,1099,Monroe,31.3781,-87.4307,,,63.3,polygon,FALSE,America/Chicago,36445
+Glen Allen-AL,1840005839,Glen Allen,Glen Allen,AL,Glen Allen-AL,Alabama,1093,Marion,33.8923,-87.7329,492,492,28,polygon,TRUE,America/Chicago,35559 35594 35554
+Minter-AL,1840027032,Minter,Minter,AL,Minter-AL,Alabama,1047,Dallas,32.0779,-86.9936,,,6.4,point,FALSE,America/Chicago,36761
+Town Creek-AL,1840016591,Town Creek,Town Creek,AL,Town Creek-AL,Alabama,1079,Lawrence,34.6718,-87.4063,1069,1069,153,polygon,TRUE,America/Chicago,35672
+Flint City-AL,1840005002,Flint City,Flint City,AL,Flint City-AL,Alabama,1103,Morgan,34.5231,-86.9703,,,141.1,point,FALSE,America/Chicago,35603
+Wilsonia-AL,1840027596,Wilsonia,Wilsonia,AL,Wilsonia-AL,Alabama,1055,Etowah,34.0998,-85.9041,,,30.2,point,FALSE,America/Chicago,35901
+Rockledge-AL,1840027485,Rockledge,Rockledge,AL,Rockledge-AL,Alabama,1055,Etowah,34.0893,-86.1128,,,158.6,point,FALSE,America/Chicago,35954
+Samantha-AL,1840027592,Samantha,Samantha,AL,Samantha-AL,Alabama,1125,Tuscaloosa,33.4223,-87.6053,,,51.8,point,FALSE,America/Chicago,35475
+Ridgeville-AL,1840017966,Ridgeville,Ridgeville,AL,Ridgeville-AL,Alabama,1055,Etowah,34.0569,-86.1029,105,105,49,polygon,TRUE,America/Chicago,35954
+Margaret-AL,1840016772,Margaret,Margaret,AL,Margaret-AL,Alabama,1115,St. Clair,33.6735,-86.468,4633,4633,182,polygon,TRUE,America/Chicago,35112 35120
+Fruitdale-AL,1840025958,Fruitdale,Fruitdale,AL,Fruitdale-AL,Alabama,1129,Washington,31.3429,-88.4108,,,41.5,polygon,FALSE,America/Chicago,36539
+Andalusia-AL,1840004591,Andalusia,Andalusia,AL,Andalusia-AL,Alabama,1039,Covington,31.3101,-86.4781,6619,8968,176,polygon,TRUE,America/Chicago,36420 36421
+Harvest-AL,1840013544,Harvest,Harvest,AL,Harvest-AL,Alabama,1089,Madison,34.8558,-86.7521,,,552.3,polygon,FALSE,America/Chicago,35749
+Little River-AL,1840025229,Little River,Little River,AL,Little River-AL,Alabama,1019,Cherokee,34.2815,-85.6733,,,5.3,point,FALSE,America/Chicago,35959
+Tallassee-AL,1840015790,Tallassee,Tallassee,AL,Tallassee-AL,Alabama,1051,Elmore,32.5314,-85.8912,3989,4759,171,polygon,TRUE,America/Chicago,36078
+Lawley-AL,1840027617,Lawley,Lawley,AL,Lawley-AL,Alabama,1007,Bibb,32.8596,-86.9514,,,43.2,point,FALSE,America/Chicago,36793
+Mountain Brook-AL,1840014792,Mountain Brook,Mountain Brook,AL,Mountain Brook-AL,Alabama,1073,Jefferson,33.4871,-86.7401,20590,20590,619,polygon,TRUE,America/Chicago,35213 35223 35243
+Spruce Pine-AL,1840025850,Spruce Pine,Spruce Pine,AL,Spruce Pine-AL,Alabama,1059,Franklin,34.3928,-87.7294,,,116.8,polygon,FALSE,America/Chicago,35585 35581
+White Hall-AL,1840017009,White Hall,White Hall,AL,White Hall-AL,Alabama,1085,Lowndes,32.2993,-86.7148,804,804,20,polygon,TRUE,America/Chicago,36785 36752 36040
+Sardis-AL,1840027488,Sardis,Sardis,AL,Sardis-AL,Alabama,1047,Dallas,32.2876,-86.9858,,,9.3,point,FALSE,America/Chicago,36701
+Skyline-AL,1840017900,Skyline,Skyline,AL,Skyline-AL,Alabama,1071,Jackson,34.7987,-86.1229,833,833,80,polygon,TRUE,America/Chicago,35768 35776
+Hatton-AL,1840025845,Hatton,Hatton,AL,Hatton-AL,Alabama,1079,Lawrence,34.5611,-87.4136,,,158.3,polygon,FALSE,America/Chicago,35672
+Chrysler-AL,1840027522,Chrysler,Chrysler,AL,Chrysler-AL,Alabama,1099,Monroe,31.3052,-87.7011,,,6,point,FALSE,America/Chicago,36480
+Greensboro-AL,1840006442,Greensboro,Greensboro,AL,Greensboro-AL,Alabama,1065,Hale,32.7014,-87.595,2365,2365,384,polygon,TRUE,America/Chicago,36744
+Daphne-AL,1840006178,Daphne,Daphne,AL,Daphne-AL,Alabama,1003,Baldwin,30.6291,-87.8872,68940,25913,608,polygon,TRUE,America/Chicago,36527 36526
+Alexandria-AL,1840013707,Alexandria,Alexandria,AL,Alexandria-AL,Alabama,1015,Calhoun,33.7675,-85.8792,,,121.9,polygon,FALSE,America/Chicago,36265 36250
+Brookside-AL,1840015669,Brookside,Brookside,AL,Brookside-AL,Alabama,1073,Jefferson,33.638,-86.9013,1323,1323,79,polygon,TRUE,America/Chicago,35214 35117 35036
+Pleasant Site-AL,1840027038,Pleasant Site,Pleasant Site,AL,Pleasant Site-AL,Alabama,1059,Franklin,34.542,-88.0653,,,1.9,point,FALSE,America/Chicago,35582
+Echo-AL,1840023725,Echo,Echo,AL,Echo-AL,Alabama,1045,Dale,31.4757,-85.4658,,,26,point,FALSE,America/Chicago,36360
+Bradley-AL,1840027605,Bradley,Bradley,AL,Bradley-AL,Alabama,1053,Escambia,31.0335,-86.7255,,,2.5,point,FALSE,America/Chicago,36483
+Sylvania-AL,1840016558,Sylvania,Sylvania,AL,Sylvania-AL,Alabama,1049,DeKalb,34.5621,-85.8048,1850,1850,82,polygon,TRUE,America/Chicago,35988 35968
+Troy-AL,1840005558,Troy,Troy,AL,Troy-AL,Alabama,1109,Pike,31.8021,-85.9665,16918,19191,262,polygon,TRUE,America/Chicago,36079 36081 36082
+Jasper-AL,1840003778,Jasper,Jasper,AL,Jasper-AL,Alabama,1127,Walker,33.8514,-87.2719,13812,14003,189,polygon,TRUE,America/Chicago,35503 35504 35501 35502
+Marbury-AL,1840023045,Marbury,Marbury,AL,Marbury-AL,Alabama,1001,Autauga,32.6793,-86.4607,,,52.4,polygon,FALSE,America/Chicago,36022 36051
+Newton-AL,1840017088,Newton,Newton,AL,Newton-AL,Alabama,1045,Dale,31.3423,-85.5893,1459,1459,39,polygon,TRUE,America/Chicago,36371 36352 36360
+Eufaula-AL,1840001685,Eufaula,Eufaula,AL,Eufaula-AL,Alabama,1005,Barbour,31.9102,-85.1505,8988,12404,80,polygon,TRUE,America/Chicago,36027 36072
+Gaylesville-AL,1840002987,Gaylesville,Gaylesville,AL,Gaylesville-AL,Alabama,1019,Cherokee,34.2681,-85.5585,143,143,161,polygon,TRUE,America/Chicago,35973
+Lynn-AL,1840016709,Lynn,Lynn,AL,Lynn-AL,Alabama,1133,Winston,34.0548,-87.5555,638,638,23,polygon,TRUE,America/Chicago,35565 35575
+Section-AL,1840017899,Section,Section,AL,Section-AL,Alabama,1071,Jackson,34.5816,-85.9849,754,754,63,polygon,TRUE,America/Chicago,35771
+Sipsey-AL,1840017992,Sipsey,Sipsey,AL,Sipsey-AL,Alabama,1127,Walker,33.8225,-87.0834,424,424,340,polygon,TRUE,America/Chicago,35584 35063
+Excel-AL,1840004979,Excel,Excel,AL,Excel-AL,Alabama,1099,Monroe,31.4264,-87.3433,665,665,155,polygon,TRUE,America/Chicago,36460 36439
+Leighton-AL,1840016546,Leighton,Leighton,AL,Leighton-AL,Alabama,1033,Colbert,34.6986,-87.5291,707,707,277,polygon,TRUE,America/Chicago,35646
+Pyriton-AL,1840027620,Pyriton,Pyriton,AL,Pyriton-AL,Alabama,1027,Clay,33.3632,-85.8339,,,7.1,point,FALSE,America/Chicago,36266
+Riverview-AL,1840018196,Riverview,Riverview,AL,Riverview-AL,Alabama,1053,Escambia,31.0586,-87.0708,182,182,48,polygon,TRUE,America/Chicago,36426
+East Point-AL,1840025861,East Point,East Point,AL,East Point-AL,Alabama,1043,Cullman,34.1856,-86.7926,,,10.5,polygon,FALSE,America/Chicago,35058 35055
+North Courtland-AL,1840016592,North Courtland,North Courtland,AL,North Courtland-AL,Alabama,1079,Lawrence,34.6788,-87.3083,614,614,359,polygon,TRUE,America/Chicago,35618
+Warrior-AL,1840015674,Warrior,Warrior,AL,Warrior-AL,Alabama,1073,Jefferson,33.8152,-86.8153,3192,3192,126,polygon,TRUE,America/Chicago,35180
+Double Springs-AL,1840007127,Double Springs,Double Springs,AL,Double Springs-AL,Alabama,1133,Winston,34.1496,-87.4028,1051,1051,98,polygon,TRUE,America/Chicago,35553
+Cuba-AL,1840016947,Cuba,Cuba,AL,Cuba-AL,Alabama,1119,Sumter,32.441,-88.3755,317,317,30,polygon,TRUE,America/Chicago,36907
+Huguley-AL,1840013787,Huguley,Huguley,AL,Huguley-AL,Alabama,1017,Chambers,32.843,-85.2394,,,288.9,polygon,FALSE,America/Chicago,36863
+Pletcher-AL,1840027039,Pletcher,Pletcher,AL,Pletcher-AL,Alabama,1021,Chilton,32.7029,-86.785,,,21.1,point,FALSE,America/Chicago,36750
+Killen-AL,1840016503,Killen,Killen,AL,Killen-AL,Alabama,1077,Lauderdale,34.8607,-87.5269,977,977,186,polygon,TRUE,America/Chicago,35645
+Midland City-AL,1840017084,Midland City,Midland City,AL,Midland City-AL,Alabama,1045,Dale,31.3157,-85.4937,2366,2366,150,polygon,TRUE,America/Chicago,36350
+Valley Head-AL,1840016559,Valley Head,Valley Head,AL,Valley Head-AL,Alabama,1049,DeKalb,34.5575,-85.6214,550,550,61,polygon,TRUE,America/Chicago,35989
+Ashville-AL,1840013697,Ashville,Ashville,AL,Ashville-AL,Alabama,1115,St. Clair,33.8331,-86.2698,2275,2275,45,polygon,TRUE,America/Chicago,35953 35987
+McMullen-AL,1840027517,McMullen,McMullen,AL,McMullen-AL,Alabama,1107,Pickens,33.1481,-88.1757,9,9,31,polygon,TRUE,America/Chicago,35442
+Nectar-AL,1840016721,Nectar,Nectar,AL,Nectar-AL,Alabama,1009,Blount,33.9686,-86.6346,344,344,73,polygon,TRUE,America/Chicago,35049 35079
+Rosalie-AL,1840027541,Rosalie,Rosalie,AL,Rosalie-AL,Alabama,1071,Jackson,34.6998,-85.7686,,,75.3,point,FALSE,America/Chicago,35765
+Vinegar Bend-AL,1840025964,Vinegar Bend,Vinegar Bend,AL,Vinegar Bend-AL,Alabama,1129,Washington,31.2594,-88.3712,,,6.7,polygon,FALSE,America/Chicago,36584
+Yellow Pine-AL,1840027570,Yellow Pine,Yellow Pine,AL,Yellow Pine-AL,Alabama,1129,Washington,31.4057,-88.4297,,,36.4,point,FALSE,America/Chicago,36539
+Mooresville-AL,1840016510,Mooresville,Mooresville,AL,Mooresville-AL,Alabama,1083,Limestone,34.627,-86.88,58,58,188,polygon,TRUE,America/Chicago,35649
+Barton-AL,1840023699,Barton,Barton,AL,Barton-AL,Alabama,1033,Colbert,34.7387,-87.8911,,,64.2,point,FALSE,America/Chicago,35616
+Adamsville-AL,1840013724,Adamsville,Adamsville,AL,Adamsville-AL,Alabama,1073,Jefferson,33.6064,-86.9745,4360,4360,67,polygon,TRUE,America/Chicago,35214 35005 35060 35073
+Mentone-AL,1840016552,Mentone,Mentone,AL,Mentone-AL,Alabama,1049,DeKalb,34.5663,-85.5842,366,366,30,polygon,TRUE,America/Chicago,35984
+Range-AL,1840027484,Range,Range,AL,Range-AL,Alabama,1035,Conecuh,31.3127,-87.2355,,,9.7,point,FALSE,America/Chicago,36475
+Gardendale-AL,1840002820,Gardendale,Gardendale,AL,Gardendale-AL,Alabama,1073,Jefferson,33.6677,-86.8069,13783,13783,232,polygon,TRUE,America/Chicago,35071 35119 35181
+Gantt-AL,1840002554,Gantt,Gantt,AL,Gantt-AL,Alabama,1039,Covington,31.4092,-86.4842,221,221,131,polygon,TRUE,America/Chicago,36038 36421
+Albertville-AL,1840013599,Albertville,Albertville,AL,Albertville-AL,Alabama,1095,Marshall,34.2631,-86.2106,37451,21525,313,polygon,TRUE,America/Chicago,35951 35950
+West Point-AL,1840016704,West Point,West Point,AL,West Point-AL,Alabama,1043,Cullman,34.2401,-86.9625,596,596,67,polygon,TRUE,America/Chicago,35057 35179
+Madison-AL,1840015524,Madison,Madison,AL,Madison-AL,Alabama,1089,Madison,34.7113,-86.7617,47959,47959,625,polygon,TRUE,America/Chicago,35756 35758
+Hackneyville-AL,1840023016,Hackneyville,Hackneyville,AL,Hackneyville-AL,Alabama,1123,Tallapoosa,33.0567,-85.9312,,,40,polygon,FALSE,America/Chicago,35072 35010
+Catherine-AL,1840025923,Catherine,Catherine,AL,Catherine-AL,Alabama,1131,Wilcox,32.1861,-87.4699,,,5.7,polygon,FALSE,America/Chicago,36728
+Meridianville-AL,1840013546,Meridianville,Meridianville,AL,Meridianville-AL,Alabama,1089,Madison,34.8729,-86.5722,,,497.7,polygon,FALSE,America/Chicago,35773 35750 35759
+Reece City-AL,1840017965,Reece City,Reece City,AL,Reece City-AL,Alabama,1055,Etowah,34.0772,-86.0346,628,628,68,polygon,TRUE,America/Chicago,35954
+Blanche-AL,1840023703,Blanche,Blanche,AL,Blanche-AL,Alabama,1019,Cherokee,34.3634,-85.61,,,10.2,point,FALSE,America/Chicago,35973
+Cusseta-AL,1840023011,Cusseta,Cusseta,AL,Cusseta-AL,Alabama,1017,Chambers,32.7876,-85.3058,123,123,18,polygon,TRUE,America/Chicago,36852
+Babbie-AL,1840015865,Babbie,Babbie,AL,Babbie-AL,Alabama,1039,Covington,31.3022,-86.3229,600,600,20,polygon,TRUE,America/Chicago,36467 36421
+Clio-AL,1840014926,Clio,Clio,AL,Clio-AL,Alabama,1005,Barbour,31.7085,-85.6109,1470,1470,56,polygon,TRUE,America/Chicago,36017
+Bexar-AL,1840023702,Bexar,Bexar,AL,Bexar-AL,Alabama,1093,Marion,34.1909,-88.1473,,,7,point,FALSE,America/Chicago,35570
+Short Creek-AL,1840027493,Short Creek,Short Creek,AL,Short Creek-AL,Alabama,1073,Jefferson,33.5512,-87.1014,,,132.6,point,FALSE,America/Chicago,35118
+Greenville-AL,1840003498,Greenville,Greenville,AL,Greenville-AL,Alabama,1013,Butler,31.8437,-86.6379,5763,7781,140,polygon,TRUE,America/Chicago,36037
+Woodstock-AL,1840016895,Woodstock,Woodstock,AL,Woodstock-AL,Alabama,1007,Bibb,33.2194,-87.1489,4025,1569,85,polygon,TRUE,America/Chicago,35188 35111
+Fairfield-AL,1840001883,Fairfield,Fairfield,AL,Fairfield-AL,Alabama,1073,Jefferson,33.4747,-86.9194,10807,10807,1202,polygon,TRUE,America/Chicago,35064
+Eclectic-AL,1840016965,Eclectic,Eclectic,AL,Eclectic-AL,Alabama,1051,Elmore,32.639,-86.0383,1026,1026,94,polygon,TRUE,America/Chicago,36024
+Shady Grove-AL,1840027543,Shady Grove,Shady Grove,AL,Shady Grove-AL,Alabama,1109,Pike,31.9096,-86.1625,,,6.5,point,FALSE,America/Chicago,36035
+Thomasville-AL,1840015849,Thomasville,Thomasville,AL,Thomasville-AL,Alabama,1025,Clarke,31.9111,-87.7418,3122,4002,176,polygon,TRUE,America/Chicago,36784
+Lilita-AL,1840027583,Lilita,Lilita,AL,Lilita-AL,Alabama,1119,Sumter,32.4837,-88.1284,,,1.5,point,FALSE,America/Chicago,35470
+Dayton-AL,1840016995,Dayton,Dayton,AL,Dayton-AL,Alabama,1091,Marengo,32.3509,-87.6416,49,49,18,polygon,TRUE,America/Chicago,36738 36748
+Falkville-AL,1840002079,Falkville,Falkville,AL,Falkville-AL,Alabama,1103,Morgan,34.3793,-86.9086,1260,1260,128,polygon,TRUE,America/Chicago,35622
+Five Points-AL,1840016910,Five Points,Five Points,AL,Five Points-AL,Alabama,1017,Chambers,33.0173,-85.3516,140,140,52,polygon,TRUE,America/Chicago,36855
+Hissop-AL,1840023019,Hissop,Hissop,AL,Hissop-AL,Alabama,1037,Coosa,32.8746,-86.1159,,,7.1,polygon,FALSE,America/Chicago,35010 35089
+Vredenburgh-AL,1840017067,Vredenburgh,Vredenburgh,AL,Vredenburgh-AL,Alabama,1099,Monroe,31.8237,-87.3178,293,293,75,polygon,TRUE,America/Chicago,36481
+Parrish-AL,1840016770,Parrish,Parrish,AL,Parrish-AL,Alabama,1127,Walker,33.7323,-87.2802,960,960,177,polygon,TRUE,America/Chicago,35580
+Ozark-AL,1840005283,Ozark,Ozark,AL,Ozark-AL,Alabama,1045,Dale,31.4508,-85.6473,11826,14610,165,polygon,TRUE,America/Chicago,36360 36361
+Bon Air-AL,1840015699,Bon Air,Bon Air,AL,Bon Air-AL,Alabama,1121,Talladega,33.2621,-86.3318,113,113,32,polygon,TRUE,America/Chicago,35150 35044 35032
+Abbeville-AL,1840000552,Abbeville,Abbeville,AL,Abbeville-AL,Alabama,1067,Henry,31.5664,-85.2528,2603,2603,64,polygon,TRUE,America/Chicago,36310
+Waldo-AL,1840016830,Waldo,Waldo,AL,Waldo-AL,Alabama,1121,Talladega,33.3892,-86.036,276,276,37,polygon,TRUE,America/Chicago,35160
+Hueytown-AL,1840014796,Hueytown,Hueytown,AL,Hueytown-AL,Alabama,1073,Jefferson,33.4237,-87.0223,15561,15561,309,polygon,TRUE,America/Chicago,35023 35061
+Rock Mills-AL,1840013762,Rock Mills,Rock Mills,AL,Rock Mills-AL,Alabama,1111,Randolph,33.1563,-85.2861,,,75.7,polygon,FALSE,America/Chicago,36274
+Gainesville-AL,1840006339,Gainesville,Gainesville,AL,Gainesville-AL,Alabama,1119,Sumter,32.8149,-88.1608,195,195,43,polygon,TRUE,America/Chicago,35464
+Southside-AL,1840015604,Southside,Southside,AL,Southside-AL,Alabama,1055,Etowah,33.9007,-86.0237,8600,8600,174,polygon,TRUE,America/Chicago,35907
+Detroit-AL,1840016757,Detroit,Detroit,AL,Detroit-AL,Alabama,1075,Lamar,34.0274,-88.1678,227,227,66,polygon,TRUE,America/Chicago,35552
+DeArmanville-AL,1840027608,DeArmanville,DeArmanville,AL,DeArmanville-AL,Alabama,1015,Calhoun,33.6265,-85.7514,,,149,point,FALSE,America/Chicago,36207
+Franklin-AL,1840016980,Franklin,Franklin,AL,Franklin-AL,Alabama,1087,Macon,32.4551,-85.8066,132,132,11,polygon,TRUE,America/Chicago,36083
+Irondale-AL,1840014797,Irondale,Irondale,AL,Irondale-AL,Alabama,1073,Jefferson,33.544,-86.6599,12359,12359,275,polygon,TRUE,America/Chicago,35210
+Chelsea-AL,1840014823,Chelsea,Chelsea,AL,Chelsea-AL,Alabama,1117,Shelby,33.3258,-86.6287,12341,12341,217,polygon,TRUE,America/Chicago,35051 35043
+Morgan City-AL,1840027033,Morgan City,Morgan City,AL,Morgan City-AL,Alabama,1103,Morgan,34.472,-86.5697,,,201.7,point,FALSE,America/Chicago,35754
+Marvel-AL,1840025231,Marvel,Marvel,AL,Marvel-AL,Alabama,1007,Bibb,33.1468,-87.003,,,22,point,FALSE,America/Chicago,35115
+Belk-AL,1840015660,Belk,Belk,AL,Belk-AL,Alabama,1057,Fayette,33.6516,-87.9286,207,207,57,polygon,TRUE,America/Chicago,35545 35574 35555
+Bellamy-AL,1840025886,Bellamy,Bellamy,AL,Bellamy-AL,Alabama,1119,Sumter,32.4582,-88.1277,,,34.8,polygon,FALSE,America/Chicago,35470 36901
+Perdido-AL,1840027534,Perdido,Perdido,AL,Perdido-AL,Alabama,1003,Baldwin,31.0034,-87.6323,,,86.9,polygon,FALSE,America/Chicago,36562
+Stockton-AL,1840027498,Stockton,Stockton,AL,Stockton-AL,Alabama,1003,Baldwin,30.9946,-87.86,,,35,polygon,FALSE,America/Chicago,36507 36579
+Ardmore-AL,1840015515,Ardmore,Ardmore,AL,Ardmore-AL,Alabama,1083,Limestone,34.9847,-86.8374,1382,1382,261,polygon,TRUE,America/Chicago,35739
+Boaz-AL,1840013602,Boaz,Boaz,AL,Boaz-AL,Alabama,1095,Marshall,34.1985,-86.1529,9710,9710,257,polygon,TRUE,America/Chicago,35957 35956
+Rainsville-AL,1840014658,Rainsville,Rainsville,AL,Rainsville-AL,Alabama,1049,DeKalb,34.4939,-85.8435,5015,5015,93,polygon,TRUE,America/Chicago,35986
+Twin-AL,1840022874,Twin,Twin,AL,Twin-AL,Alabama,1093,Marion,33.9978,-87.8497,387,387,44,polygon,TRUE,America/Chicago,35563 35548
+Mignon-AL,1840027518,Mignon,Mignon,AL,Mignon-AL,Alabama,1121,Talladega,33.1948,-86.265,,,417.4,polygon,FALSE,America/Chicago,35150
+Claiborne-AL,1840001120,Claiborne,Claiborne,AL,Claiborne-AL,Alabama,1099,Monroe,31.5402,-87.5155,,,4.9,point,FALSE,America/Chicago,36470
+Valley Creek-AL,1840027506,Valley Creek,Valley Creek,AL,Valley Creek-AL,Alabama,1073,Jefferson,33.3876,-87.0722,,,23.5,point,FALSE,America/Chicago,35023
+Florence-AL,1840002083,Florence,Florence,AL,Florence-AL,Alabama,1077,Lauderdale,34.83,-87.6658,78321,39959,591,polygon,TRUE,America/Chicago,35633 35630 35631 35632
+Union Springs-AL,1840004415,Union Springs,Union Springs,AL,Union Springs-AL,Alabama,1011,Bullock,32.1395,-85.7141,4999,3749,218,polygon,TRUE,America/Chicago,36089
+Pine Ridge-AL,1840016560,Pine Ridge,Pine Ridge,AL,Pine Ridge-AL,Alabama,1049,DeKalb,34.449,-85.7808,282,282,83,polygon,TRUE,America/Chicago,35968
+Henagar-AL,1840014659,Henagar,Henagar,AL,Henagar-AL,Alabama,1049,DeKalb,34.631,-85.7405,2339,2339,40,polygon,TRUE,America/Chicago,35978
+Winterboro-AL,1840027513,Winterboro,Winterboro,AL,Winterboro-AL,Alabama,1121,Talladega,33.3215,-86.1969,,,15.4,point,FALSE,America/Chicago,35014
+Nanafalia-AL,1840025910,Nanafalia,Nanafalia,AL,Nanafalia-AL,Alabama,1091,Marengo,32.1114,-87.9957,,,26.2,polygon,FALSE,America/Chicago,36782 36764
+Thomaston-AL,1840016998,Thomaston,Thomaston,AL,Thomaston-AL,Alabama,1091,Marengo,32.2683,-87.6237,391,391,74,polygon,TRUE,America/Chicago,36783
+Perdido Beach-AL,1840023131,Perdido Beach,Perdido Beach,AL,Perdido Beach-AL,Alabama,1003,Baldwin,30.3555,-87.5041,641,641,198,polygon,TRUE,America/Chicago,36530
+McKenzie-AL,1840017055,McKenzie,McKenzie,AL,McKenzie-AL,Alabama,1013,Butler,31.5429,-86.7246,508,508,52,polygon,TRUE,America/Chicago,36456
+Sterrett-AL,1840022966,Sterrett,Sterrett,AL,Sterrett-AL,Alabama,1117,Shelby,33.4491,-86.4645,,,114.1,polygon,FALSE,America/Chicago,35147 35178
+Moulton-AL,1840008190,Moulton,Moulton,AL,Moulton-AL,Alabama,1079,Lawrence,34.4843,-87.2831,2811,3343,215,polygon,TRUE,America/Chicago,35650
+Hillsboro-AL,1840016589,Hillsboro,Hillsboro,AL,Hillsboro-AL,Alabama,1079,Lawrence,34.6408,-87.1837,521,521,106,polygon,TRUE,America/Chicago,35643
+Millport-AL,1840016756,Millport,Millport,AL,Millport-AL,Alabama,1075,Lamar,33.5586,-88.0817,999,999,70,polygon,TRUE,America/Chicago,35576
+Coaling-AL,1840016840,Coaling,Coaling,AL,Coaling-AL,Alabama,1125,Tuscaloosa,33.1642,-87.3533,1642,1642,126,polygon,TRUE,America/Chicago,35453 35449
+Penton-AL,1840023014,Penton,Penton,AL,Penton-AL,Alabama,1017,Chambers,33.009,-85.4721,,,33.4,polygon,FALSE,America/Chicago,36862
+Garland-AL,1840023734,Garland,Garland,AL,Garland-AL,Alabama,1013,Butler,31.5566,-86.8233,,,3.8,point,FALSE,America/Chicago,36456
+Hazel Green-AL,1840013545,Hazel Green,Hazel Green,AL,Hazel Green-AL,Alabama,1089,Madison,34.9237,-86.5671,,,226.2,polygon,FALSE,America/Chicago,35750
+Hazen-AL,1840025219,Hazen,Hazen,AL,Hazen-AL,Alabama,1047,Dallas,32.3401,-87.2039,,,31.9,point,FALSE,America/Chicago,36767
+Hollins-AL,1840022973,Hollins,Hollins,AL,Hollins-AL,Alabama,1027,Clay,33.1213,-86.129,,,36.2,polygon,FALSE,America/Chicago,35072
+Autaugaville-AL,1840015797,Autaugaville,Autaugaville,AL,Autaugaville-AL,Alabama,1001,Autauga,32.4321,-86.6582,854,854,42,polygon,TRUE,America/Chicago,36003
+River Falls-AL,1840018177,River Falls,River Falls,AL,River Falls-AL,Alabama,1039,Covington,31.3524,-86.5412,523,523,29,polygon,TRUE,America/Chicago,36474 36476 36421
+Hammondville-AL,1840016557,Hammondville,Hammondville,AL,Hammondville-AL,Alabama,1049,DeKalb,34.5685,-85.6397,485,485,38,polygon,TRUE,America/Chicago,35989
+Malvern-AL,1840017137,Malvern,Malvern,AL,Malvern-AL,Alabama,1061,Geneva,31.1428,-85.521,1437,1437,39,polygon,TRUE,America/Chicago,36375 36301 36305 36349
+Littleville-AL,1840016547,Littleville,Littleville,AL,Littleville-AL,Alabama,1033,Colbert,34.5951,-87.6719,981,981,76,polygon,TRUE,America/Chicago,35674 35654
+Ethelsville-AL,1840001617,Ethelsville,Ethelsville,AL,Ethelsville-AL,Alabama,1107,Pickens,33.4141,-88.2161,73,73,49,polygon,TRUE,America/Chicago,35461
+Mount Vernon-AL,1840017140,Mount Vernon,Mount Vernon,AL,Mount Vernon-AL,Alabama,1097,Mobile,31.089,-88.0137,1510,1510,106,polygon,TRUE,America/Chicago,36560
+Thorsby-AL,1840016920,Thorsby,Thorsby,AL,Thorsby-AL,Alabama,1021,Chilton,32.9169,-86.7202,2052,2052,136,polygon,TRUE,America/Chicago,35171
+Pleasant Gap-AL,1840027619,Pleasant Gap,Pleasant Gap,AL,Pleasant Gap-AL,Alabama,1019,Cherokee,33.9876,-85.52,,,23.2,point,FALSE,America/Chicago,36272
+Peterman-AL,1840025943,Peterman,Peterman,AL,Peterman-AL,Alabama,1099,Monroe,31.5837,-87.2631,,,74.5,polygon,FALSE,America/Chicago,36471
+Plantersville-AL,1840027618,Plantersville,Plantersville,AL,Plantersville-AL,Alabama,1047,Dallas,32.6568,-86.9244,,,62.8,point,FALSE,America/Chicago,36758
+Cedar Bluff-AL,1840005812,Cedar Bluff,Cedar Bluff,AL,Cedar Bluff-AL,Alabama,1019,Cherokee,34.2215,-85.5887,1790,1790,135,polygon,TRUE,America/Chicago,35959
+Society Hill-AL,1840027569,Society Hill,Society Hill,AL,Society Hill-AL,Alabama,1087,Macon,32.4265,-85.4452,,,3.7,point,FALSE,America/Chicago,36804
+Fyffe-AL,1840004830,Fyffe,Fyffe,AL,Fyffe-AL,Alabama,1049,DeKalb,34.4496,-85.905,1017,1017,89,polygon,TRUE,America/Chicago,35971
+Weaver-AL,1840015646,Weaver,Weaver,AL,Weaver-AL,Alabama,1015,Calhoun,33.7602,-85.8117,3076,3076,342,polygon,TRUE,America/Chicago,36277
+Sims Chapel-AL,1840027005,Sims Chapel,Sims Chapel,AL,Sims Chapel-AL,Alabama,1129,Washington,31.2365,-88.1435,,,25.2,polygon,FALSE,America/Chicago,36553
+Phil Campbell-AL,1840016626,Phil Campbell,Phil Campbell,AL,Phil Campbell-AL,Alabama,1059,Franklin,34.3519,-87.7062,1273,1273,121,polygon,TRUE,America/Chicago,35581
+Melvin-AL,1840027531,Melvin,Melvin,AL,Melvin-AL,Alabama,1023,Choctaw,31.9304,-88.4589,,,8.7,point,FALSE,America/Chicago,36908
+Fultondale-AL,1840002481,Fultondale,Fultondale,AL,Fultondale-AL,Alabama,1073,Jefferson,33.6177,-86.8015,9084,9084,287,polygon,TRUE,America/Chicago,35217 35119 35068
+Heiberger-AL,1840027612,Heiberger,Heiberger,AL,Heiberger-AL,Alabama,1105,Perry,32.7582,-87.2867,,,5.2,point,FALSE,America/Chicago,36756
+Malcolm-AL,1840025961,Malcolm,Malcolm,AL,Malcolm-AL,Alabama,1129,Washington,31.1946,-88.0015,,,43.5,polygon,FALSE,America/Chicago,36553 36556
+McDonald Chapel-AL,1840013725,McDonald Chapel,McDonald Chapel,AL,McDonald Chapel-AL,Alabama,1073,Jefferson,33.5189,-86.9384,,,480.8,polygon,FALSE,America/Chicago,35224
+Allgood-AL,1840015599,Allgood,Allgood,AL,Allgood-AL,Alabama,1009,Blount,33.9064,-86.5178,627,627,233,polygon,TRUE,America/Chicago,35013 35121
+Geiger-AL,1840003029,Geiger,Geiger,AL,Geiger-AL,Alabama,1119,Sumter,32.8698,-88.313,159,159,64,polygon,TRUE,America/Chicago,35459
+Cardiff-AL,1840015670,Cardiff,Cardiff,AL,Cardiff-AL,Alabama,1073,Jefferson,33.6472,-86.9307,54,54,83,polygon,TRUE,America/Chicago,35073
+Keener-AL,1840025223,Keener,Keener,AL,Keener-AL,Alabama,1055,Etowah,34.1562,-85.9511,,,51.7,point,FALSE,America/Chicago,35954
+Huxford-AL,1840027524,Huxford,Huxford,AL,Huxford-AL,Alabama,1053,Escambia,31.2202,-87.4619,,,85.7,point,FALSE,America/Chicago,36543

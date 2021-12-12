@@ -1,0 +1,476 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Frontier-ND,1840000178,Frontier,Frontier,ND,Frontier-ND,North Dakota,38017,Cass,46.8004,-96.8332,208,208,431,polygon,TRUE,America/Chicago,58104
+Pisek-ND,1840000086,Pisek,Pisek,ND,Pisek-ND,North Dakota,38099,Walsh,48.311,-97.7109,104,104,344,polygon,TRUE,America/Chicago,58273
+Leal-ND,1840000164,Leal,Leal,ND,Leal-ND,North Dakota,38003,Barnes,47.105,-98.3154,19,19,53,polygon,TRUE,America/Chicago,58479
+Cooperstown-ND,1840001905,Cooperstown,Cooperstown,ND,Cooperstown-ND,North Dakota,38039,Griggs,47.4449,-98.1257,928,928,368,polygon,TRUE,America/Chicago,58425
+Selz-ND,1840023767,Selz,Selz,ND,Selz-ND,North Dakota,38069,Pierce,47.8594,-99.8934,,,3.3,polygon,FALSE,America/Chicago,58341
+Lark-ND,1840033072,Lark,Lark,ND,Lark-ND,North Dakota,38037,Grant,46.4531,-101.3963,,,2,point,FALSE,America/Denver,58535
+Antler-ND,1840000002,Antler,Antler,ND,Antler-ND,North Dakota,38009,Bottineau,48.9712,-101.2829,27,27,63,polygon,TRUE,America/Chicago,58711
+Mooreton-ND,1840000235,Mooreton,Mooreton,ND,Mooreton-ND,North Dakota,38077,Richland,46.269,-96.8759,194,194,282,polygon,TRUE,America/Chicago,58061
+Dodge-ND,1840000124,Dodge,Dodge,ND,Dodge-ND,North Dakota,38025,Dunn,47.3057,-102.2028,101,101,83,polygon,TRUE,America/Denver,58625
+New Rockford-ND,1840000115,New Rockford,New Rockford,ND,New Rockford-ND,North Dakota,38027,Eddy,47.6791,-99.1348,1390,1390,354,polygon,TRUE,America/Chicago,58356
+Walum-ND,1840033102,Walum,Walum,ND,Walum-ND,North Dakota,38039,Griggs,47.2697,-98.1945,,,11.5,point,FALSE,America/Chicago,58448
+Buford-ND,1840033039,Buford,Buford,ND,Buford-ND,North Dakota,38105,Williams,47.9986,-103.9913,,,1.7,point,FALSE,America/Chicago,58801
+Burt-ND,1840033041,Burt,Burt,ND,Burt-ND,North Dakota,38041,Hettinger,46.3653,-102.1552,,,6.1,point,FALSE,America/Denver,58646
+Lansford-ND,1840000007,Lansford,Lansford,ND,Lansford-ND,North Dakota,38009,Bottineau,48.627,-101.3761,249,249,277,polygon,TRUE,America/Chicago,58750
+Saint Thomas-ND,1840001858,Saint Thomas,Saint Thomas,ND,Saint Thomas-ND,North Dakota,38067,Pembina,48.6194,-97.4471,316,316,115,polygon,TRUE,America/Chicago,58276
+Hampden-ND,1840000074,Hampden,Hampden,ND,Hampden-ND,North Dakota,38071,Ramsey,48.5396,-98.6544,47,47,105,polygon,TRUE,America/Chicago,58338
+Roseglen-ND,1840033089,Roseglen,Roseglen,ND,Roseglen-ND,North Dakota,38055,McLean,47.7514,-101.8363,,,3,point,FALSE,America/Chicago,58775
+Scranton-ND,1840001989,Scranton,Scranton,ND,Scranton-ND,North Dakota,38011,Bowman,46.1467,-103.1427,284,284,122,polygon,TRUE,America/Denver,58653
+Noonan-ND,1840000036,Noonan,Noonan,ND,Noonan-ND,North Dakota,38023,Divide,48.89,-103.0103,125,125,162,polygon,TRUE,America/Chicago,58765
+Calvin-ND,1840000025,Calvin,Calvin,ND,Calvin-ND,North Dakota,38019,Cavalier,48.8518,-98.9381,19,19,33,polygon,TRUE,America/Chicago,58323
+Emerado-ND,1840000099,Emerado,Emerado,ND,Emerado-ND,North Dakota,38035,Grand Forks,47.9243,-97.3653,428,428,540,polygon,TRUE,America/Chicago,58228
+Cando-ND,1840000018,Cando,Cando,ND,Cando-ND,North Dakota,38095,Towner,48.4873,-99.203,1116,1116,681,polygon,TRUE,America/Chicago,58324
+Galesburg-ND,1840000133,Galesburg,Galesburg,ND,Galesburg-ND,North Dakota,38097,Traill,47.2702,-97.4087,106,106,237,polygon,TRUE,America/Chicago,58035
+Wellsburg-ND,1840033104,Wellsburg,Wellsburg,ND,Wellsburg-ND,North Dakota,38103,Wells,47.8317,-99.7615,,,16.6,point,FALSE,America/Chicago,58341
+Knox-ND,1840000089,Knox,Knox,ND,Knox-ND,North Dakota,38005,Benson,48.344,-99.6912,25,25,19,polygon,TRUE,America/Chicago,58343
+Dickey-ND,1840000215,Dickey,Dickey,ND,Dickey-ND,North Dakota,38045,LaMoure,46.5367,-98.4682,41,41,72,polygon,TRUE,America/Chicago,58431
+Gascoyne-ND,1840000258,Gascoyne,Gascoyne,ND,Gascoyne-ND,North Dakota,38011,Bowman,46.119,-103.0788,16,16,6,polygon,TRUE,America/Denver,58653
+Oakes-ND,1840000256,Oakes,Oakes,ND,Oakes-ND,North Dakota,38021,Dickey,46.1392,-98.0877,1781,1781,421,polygon,TRUE,America/Chicago,58474
+Kathryn-ND,1840000163,Kathryn,Kathryn,ND,Kathryn-ND,North Dakota,38003,Barnes,46.6817,-97.9707,50,50,32,polygon,TRUE,America/Chicago,58049
+Manning-ND,1840025250,Manning,Manning,ND,Manning-ND,North Dakota,38025,Dunn,47.231,-102.7702,,,102.1,polygon,FALSE,America/Denver,58642
+Briarwood-ND,1840000173,Briarwood,Briarwood,ND,Briarwood-ND,North Dakota,38017,Cass,46.7871,-96.7953,75,75,190,polygon,TRUE,America/Chicago,58104
+Powers Lake-ND,1840000041,Powers Lake,Powers Lake,ND,Powers Lake-ND,North Dakota,38013,Burke,48.5631,-102.6434,293,293,114,polygon,TRUE,America/Chicago,58773
+Gilby-ND,1840000100,Gilby,Gilby,ND,Gilby-ND,North Dakota,38035,Grand Forks,48.0837,-97.4678,231,231,520,polygon,TRUE,America/Chicago,58235
+Wilton-ND,1840001894,Wilton,Wilton,ND,Wilton-ND,North Dakota,38055,McLean,47.1584,-100.7851,727,727,443,polygon,TRUE,America/Chicago,58579
+Lakota-ND,1840000095,Lakota,Lakota,ND,Lakota-ND,North Dakota,38063,Nelson,48.0427,-98.3468,644,644,240,polygon,TRUE,America/Chicago,58344
+Minot-ND,1840000053,Minot,Minot,ND,Minot-ND,North Dakota,38101,Ward,48.2375,-101.2779,50845,48743,700,polygon,TRUE,America/Chicago,58707 58703 58702 58701
+Streeter-ND,1840001925,Streeter,Streeter,ND,Streeter-ND,North Dakota,38093,Stutsman,46.6576,-99.3571,166,166,181,polygon,TRUE,America/Chicago,58483
+Arnegard-ND,1840000109,Arnegard,Arnegard,ND,Arnegard-ND,North Dakota,38053,McKenzie,47.8084,-103.4388,153,153,232,polygon,TRUE,America/Chicago,58835
+Tolley-ND,1840001865,Tolley,Tolley,ND,Tolley-ND,North Dakota,38075,Renville,48.7303,-101.8272,47,47,142,polygon,TRUE,America/Chicago,58787
+Brooktree Park-ND,1840023846,Brooktree Park,Brooktree Park,ND,Brooktree Park-ND,North Dakota,38017,Cass,47.0038,-96.8961,,,124.4,polygon,FALSE,America/Chicago,58042
+Flaxton-ND,1840000038,Flaxton,Flaxton,ND,Flaxton-ND,North Dakota,38013,Burke,48.8974,-102.3933,69,69,94,polygon,TRUE,America/Chicago,58737
+Amidon-ND,1840000212,Amidon,Amidon,ND,Amidon-ND,North Dakota,38087,Slope,46.4822,-103.3195,21,21,12,polygon,TRUE,America/Denver,58620
+Grassy Butte-ND,1840033117,Grassy Butte,Grassy Butte,ND,Grassy Butte-ND,North Dakota,38053,McKenzie,47.3925,-103.248,,,7.4,point,FALSE,America/Denver,58634
+Hamilton-ND,1840000014,Hamilton,Hamilton,ND,Hamilton-ND,North Dakota,38067,Pembina,48.8081,-97.4527,59,59,85,polygon,TRUE,America/Chicago,58238
+Butte-ND,1840000110,Butte,Butte,ND,Butte-ND,North Dakota,38055,McLean,47.837,-100.6659,78,78,118,polygon,TRUE,America/Chicago,58723
+Barlow-ND,1840033030,Barlow,Barlow,ND,Barlow-ND,North Dakota,38031,Foster,47.5697,-99.1379,,,25.3,point,FALSE,America/Chicago,58421
+Porcupine-ND,1840023874,Porcupine,Porcupine,ND,Porcupine-ND,North Dakota,38085,Sioux,46.2218,-101.0999,,,145.7,polygon,FALSE,America/Chicago,58568
+Ruso-ND,1840001896,Ruso,Ruso,ND,Ruso-ND,North Dakota,38055,McLean,47.8373,-100.9344,4,4,6,polygon,TRUE,America/Chicago,58778
+Arthur-ND,1840000172,Arthur,Arthur,ND,Arthur-ND,North Dakota,38017,Cass,47.1043,-97.2186,363,363,92,polygon,TRUE,America/Chicago,58006
+Sykeston-ND,1840001902,Sykeston,Sykeston,ND,Sykeston-ND,North Dakota,38103,Wells,47.4661,-99.3993,113,113,114,polygon,TRUE,America/Chicago,58486
+Ruthville-ND,1840023763,Ruthville,Ruthville,ND,Ruthville-ND,North Dakota,38101,Ward,48.3708,-101.3003,,,140.2,polygon,FALSE,America/Chicago,58703
+Verona-ND,1840000214,Verona,Verona,ND,Verona-ND,North Dakota,38045,LaMoure,46.366,-98.0713,86,86,132,polygon,TRUE,America/Chicago,58490
+Blanchard-ND,1840023809,Blanchard,Blanchard,ND,Blanchard-ND,North Dakota,38097,Traill,47.3431,-97.2229,,,27,polygon,FALSE,America/Chicago,58009
+McLeod-ND,1840023871,McLeod,McLeod,ND,McLeod-ND,North Dakota,38073,Ransom,46.3887,-97.2987,,,20.5,polygon,FALSE,America/Chicago,58057
+Strasburg-ND,1840001943,Strasburg,Strasburg,ND,Strasburg-ND,North Dakota,38029,Emmons,46.1337,-100.1621,385,385,499,polygon,TRUE,America/Chicago,58573
+Southam-ND,1840033093,Southam,Southam,ND,Southam-ND,North Dakota,38071,Ramsey,48.1583,-98.5521,,,21.9,point,FALSE,America/Chicago,58327
+Almont-ND,1840000195,Almont,Almont,ND,Almont-ND,North Dakota,38059,Morton,46.7284,-101.5019,123,123,18,polygon,TRUE,America/North_Dakota/New_Salem,58520
+Baldwin-ND,1840033029,Baldwin,Baldwin,ND,Baldwin-ND,North Dakota,38015,Burleigh,47.0267,-100.7496,,,37.1,point,FALSE,America/Chicago,58521
+Bottineau-ND,1840000003,Bottineau,Bottineau,ND,Bottineau-ND,North Dakota,38009,Bottineau,48.825,-100.444,2284,2284,765,polygon,TRUE,America/Chicago,58318
+Forest River-ND,1840000080,Forest River,Forest River,ND,Forest River-ND,North Dakota,38099,Walsh,48.2165,-97.4705,123,123,94,polygon,TRUE,America/Chicago,58233
+Makoti-ND,1840000052,Makoti,Makoti,ND,Makoti-ND,North Dakota,38101,Ward,47.9605,-101.8046,148,148,283,polygon,TRUE,America/Chicago,58756
+Harvey-ND,1840000119,Harvey,Harvey,ND,Harvey-ND,North Dakota,38103,Wells,47.7771,-99.929,1743,1743,357,polygon,TRUE,America/Chicago,58341
+Cannon Ball-ND,1840004004,Cannon Ball,Cannon Ball,ND,Cannon Ball-ND,North Dakota,38085,Sioux,46.3173,-100.6358,,,514.7,polygon,FALSE,America/Chicago,58528 58538
+Wales-ND,1840001862,Wales,Wales,ND,Wales-ND,North Dakota,38019,Cavalier,48.8952,-98.6008,29,29,47,polygon,TRUE,America/Chicago,58281
+New Salem-ND,1840000200,New Salem,New Salem,ND,New Salem-ND,North Dakota,38059,Morton,46.8438,-101.4176,922,922,245,polygon,TRUE,America/North_Dakota/New_Salem,58563
+Mandaree-ND,1840003997,Mandaree,Mandaree,ND,Mandaree-ND,North Dakota,38053,McKenzie,47.7358,-102.6755,,,142.6,polygon,FALSE,America/Chicago,58757
+Columbus-ND,1840001863,Columbus,Columbus,ND,Columbus-ND,North Dakota,38013,Burke,48.9049,-102.7814,147,147,210,polygon,TRUE,America/Chicago,58727
+Fairdale-ND,1840000078,Fairdale,Fairdale,ND,Fairdale-ND,North Dakota,38099,Walsh,48.4899,-98.2311,37,37,46,polygon,TRUE,America/Chicago,58229
+Denhoff-ND,1840023802,Denhoff,Denhoff,ND,Denhoff-ND,North Dakota,38083,Sheridan,47.4786,-100.2592,,,16.8,polygon,FALSE,America/Chicago,58430
+Guthrie-ND,1840033061,Guthrie,Guthrie,ND,Guthrie-ND,North Dakota,38049,McHenry,48.0011,-100.3774,,,2.3,point,FALSE,America/Chicago,58736
+Hurdsfield-ND,1840000120,Hurdsfield,Hurdsfield,ND,Hurdsfield-ND,North Dakota,38103,Wells,47.4468,-99.9306,81,81,115,polygon,TRUE,America/Chicago,58451
+Northwood-ND,1840000106,Northwood,Northwood,ND,Northwood-ND,North Dakota,38035,Grand Forks,47.7389,-97.5708,917,917,278,polygon,TRUE,America/Chicago,58267
+Bismarck-ND,1840001926,Bismarck,Bismarck,ND,Bismarck-ND,North Dakota,38015,Burleigh,46.8127,-100.7694,96857,72417,849,polygon,TRUE,America/Chicago,58505 58504 58501 58503 58502 58506 58507
+Pingree-ND,1840000157,Pingree,Pingree,ND,Pingree-ND,North Dakota,38093,Stutsman,47.1638,-98.9089,59,59,124,polygon,TRUE,America/Chicago,58476
+Carrington-ND,1840000138,Carrington,Carrington,ND,Carrington-ND,North Dakota,38031,Foster,47.4508,-99.13,2043,2043,373,polygon,TRUE,America/Chicago,58421
+York-ND,1840001888,York,York,ND,York-ND,North Dakota,38005,Benson,48.3131,-99.5736,23,23,37,polygon,TRUE,America/Chicago,58346 58386
+Christine-ND,1840001949,Christine,Christine,ND,Christine-ND,North Dakota,38077,Richland,46.5751,-96.8063,157,157,317,polygon,TRUE,America/Chicago,58015
+Olga-ND,1840033123,Olga,Olga,ND,Olga-ND,North Dakota,38019,Cavalier,48.7983,-98.0379,,,1.3,point,FALSE,America/Chicago,58249
+Cogswell-ND,1840001984,Cogswell,Cogswell,ND,Cogswell-ND,North Dakota,38081,Sargent,46.1069,-97.7844,97,97,112,polygon,TRUE,America/Chicago,58017
+Nash-ND,1840023769,Nash,Nash,ND,Nash-ND,North Dakota,38099,Walsh,48.4778,-97.5245,,,14.6,polygon,FALSE,America/Chicago,58237
+Mekinock-ND,1840033081,Mekinock,Mekinock,ND,Mekinock-ND,North Dakota,38035,Grand Forks,48.0128,-97.3634,,,20.8,point,FALSE,America/Chicago,58258
+Fredonia-ND,1840000209,Fredonia,Fredonia,ND,Fredonia-ND,North Dakota,38047,Logan,46.3291,-99.0957,44,44,69,polygon,TRUE,America/Chicago,58440
+Steele-ND,1840001918,Steele,Steele,ND,Steele-ND,North Dakota,38043,Kidder,46.8559,-99.9174,709,709,482,polygon,TRUE,America/Chicago,58482
+Hannaford-ND,1840000131,Hannaford,Hannaford,ND,Hannaford-ND,North Dakota,38039,Griggs,47.3141,-98.1889,123,123,216,polygon,TRUE,America/Chicago,58448
+Forbes-ND,1840000252,Forbes,Forbes,ND,Forbes-ND,North Dakota,38021,Dickey,45.9425,-98.7822,53,53,82,polygon,TRUE,America/Chicago,58439
+Alsen-ND,1840016544,Alsen,Alsen,ND,Alsen-ND,North Dakota,38019,Cavalier,48.6303,-98.7048,33,33,0,polygon,TRUE,America/Chicago,58311 58352 58338
+Hankinson-ND,1840000232,Hankinson,Hankinson,ND,Hankinson-ND,North Dakota,38077,Richland,46.0717,-96.8919,899,899,217,polygon,TRUE,America/Chicago,58041
+Donnybrook-ND,1840000049,Donnybrook,Donnybrook,ND,Donnybrook-ND,North Dakota,38101,Ward,48.5077,-101.8876,54,54,29,polygon,TRUE,America/Chicago,58734
+Turtle Lake-ND,1840001897,Turtle Lake,Turtle Lake,ND,Turtle Lake-ND,North Dakota,38055,McLean,47.5216,-100.8908,585,585,442,polygon,TRUE,America/Chicago,58575
+Sharon-ND,1840001903,Sharon,Sharon,ND,Sharon-ND,North Dakota,38091,Steele,47.5975,-97.8997,95,95,23,polygon,TRUE,America/Chicago,58277
+Hettinger-ND,1840000243,Hettinger,Hettinger,ND,Hettinger-ND,North Dakota,38001,Adams,46.0034,-102.6349,1226,1226,556,polygon,TRUE,America/Denver,58639
+Regent-ND,1840000223,Regent,Regent,ND,Regent-ND,North Dakota,38041,Hettinger,46.4222,-102.5582,169,169,116,polygon,TRUE,America/Denver,58650
+Hensler-ND,1840033067,Hensler,Hensler,ND,Hensler-ND,North Dakota,38065,Oliver,47.2603,-101.0849,,,28.2,point,FALSE,America/North_Dakota/Center,58530
+Balfour-ND,1840001873,Balfour,Balfour,ND,Balfour-ND,North Dakota,38049,McHenry,47.9518,-100.5343,27,27,21,polygon,TRUE,America/Chicago,58712
+Manvel-ND,1840000104,Manvel,Manvel,ND,Manvel-ND,North Dakota,38035,Grand Forks,48.0723,-97.1781,375,375,492,polygon,TRUE,America/Chicago,58256
+Calio-ND,1840016555,Calio,Calio,ND,Calio-ND,North Dakota,38019,Cavalier,48.6238,-98.938,21,21,0,polygon,TRUE,America/Chicago,58352
+Buxton-ND,1840000132,Buxton,Buxton,ND,Buxton-ND,North Dakota,38097,Traill,47.6023,-97.0999,316,316,618,polygon,TRUE,America/Chicago,58218
+Thompson-ND,1840001891,Thompson,Thompson,ND,Thompson-ND,North Dakota,38035,Grand Forks,47.7754,-97.1062,1011,1011,853,polygon,TRUE,America/Chicago,58278
+Mandan-ND,1840000199,Mandan,Mandan,ND,Mandan-ND,North Dakota,38059,Morton,46.8267,-100.8846,21769,21769,757,polygon,TRUE,America/North_Dakota/New_Salem,58554
+Loraine-ND,1840000044,Loraine,Loraine,ND,Loraine-ND,North Dakota,38075,Renville,48.8683,-101.5678,9,9,14,polygon,TRUE,America/Chicago,58761
+Oberon-ND,1840000093,Oberon,Oberon,ND,Oberon-ND,North Dakota,38005,Benson,47.9241,-99.2059,104,104,117,polygon,TRUE,America/Chicago,58357
+Hamberg-ND,1840000118,Hamberg,Hamberg,ND,Hamberg-ND,North Dakota,38103,Wells,47.7628,-99.5155,20,20,19,polygon,TRUE,America/Chicago,58341
+Underwood-ND,1840001898,Underwood,Underwood,ND,Underwood-ND,North Dakota,38055,McLean,47.4551,-101.1416,771,771,325,polygon,TRUE,America/Chicago,58576
+Gardner-ND,1840000179,Gardner,Gardner,ND,Gardner-ND,North Dakota,38017,Cass,47.1445,-96.9686,75,75,58,polygon,TRUE,America/Chicago,58036
+White Earth-ND,1840001877,White Earth,White Earth,ND,White Earth-ND,North Dakota,38061,Mountrail,48.3798,-102.7718,90,90,23,polygon,TRUE,America/Chicago,58794
+Karlsruhe-ND,1840000065,Karlsruhe,Karlsruhe,ND,Karlsruhe-ND,North Dakota,38049,McHenry,48.091,-100.616,91,91,46,polygon,TRUE,America/Chicago,58744
+Minnewaukan-ND,1840000092,Minnewaukan,Minnewaukan,ND,Minnewaukan-ND,North Dakota,38005,Benson,48.0769,-99.262,224,224,200,polygon,TRUE,America/Chicago,58351
+Forman-ND,1840000245,Forman,Forman,ND,Forman-ND,North Dakota,38081,Sargent,46.1037,-97.6365,528,528,292,polygon,TRUE,America/Chicago,58032
+Brinsmade-ND,1840000087,Brinsmade,Brinsmade,ND,Brinsmade-ND,North Dakota,38005,Benson,48.1836,-99.324,35,35,59,polygon,TRUE,America/Chicago,58351
+Juanita-ND,1840033069,Juanita,Juanita,ND,Juanita-ND,North Dakota,38031,Foster,47.5022,-98.684,,,9.3,point,FALSE,America/Chicago,58443
+Nortonville-ND,1840033109,Nortonville,Nortonville,ND,Nortonville-ND,North Dakota,38045,LaMoure,46.5583,-98.7387,,,16.8,point,FALSE,America/Chicago,58454
+McVille-ND,1840000096,McVille,McVille,ND,McVille-ND,North Dakota,38063,Nelson,47.7652,-98.1755,336,336,90,polygon,TRUE,America/Chicago,58254
+Fort Yates-ND,1840000236,Fort Yates,Fort Yates,ND,Fort Yates-ND,North Dakota,38085,Sioux,46.0866,-100.6301,210,210,1285,polygon,TRUE,America/Chicago,58538
+Anamoose-ND,1840000058,Anamoose,Anamoose,ND,Anamoose-ND,North Dakota,38049,McHenry,47.8828,-100.242,253,253,156,polygon,TRUE,America/Chicago,58710
+Pillsbury-ND,1840000168,Pillsbury,Pillsbury,ND,Pillsbury-ND,North Dakota,38003,Barnes,47.2071,-97.7959,12,12,18,polygon,TRUE,America/Chicago,58065 58046
+Kintyre-ND,1840033071,Kintyre,Kintyre,ND,Kintyre-ND,North Dakota,38029,Emmons,46.5497,-99.9496,,,3.5,point,FALSE,America/Chicago,58549
+Logan-ND,1840023762,Logan,Logan,ND,Logan-ND,North Dakota,38101,Ward,48.1557,-101.1664,,,80.9,polygon,FALSE,America/Chicago,58701
+Hague-ND,1840000206,Hague,Hague,ND,Hague-ND,North Dakota,38029,Emmons,46.0289,-99.999,66,66,93,polygon,TRUE,America/Chicago,58542
+Barney-ND,1840001947,Barney,Barney,ND,Barney-ND,North Dakota,38077,Richland,46.2659,-96.9993,51,51,122,polygon,TRUE,America/Chicago,58008
+Fingal-ND,1840000162,Fingal,Fingal,ND,Fingal-ND,North Dakota,38003,Barnes,46.7625,-97.7932,94,94,87,polygon,TRUE,America/Chicago,58031
+Heimdal-ND,1840023801,Heimdal,Heimdal,ND,Heimdal-ND,North Dakota,38103,Wells,47.7926,-99.6528,,,11.4,polygon,FALSE,America/Chicago,58341
+Enderlin-ND,1840000225,Enderlin,Enderlin,ND,Enderlin-ND,North Dakota,38073,Ransom,46.6206,-97.5935,868,868,232,polygon,TRUE,America/Chicago,58027
+Perth-ND,1840000021,Perth,Perth,ND,Perth-ND,North Dakota,38095,Towner,48.7149,-99.458,9,9,26,polygon,TRUE,America/Chicago,58363
+Munich-ND,1840000030,Munich,Munich,ND,Munich-ND,North Dakota,38019,Cavalier,48.6729,-98.8385,202,202,54,polygon,TRUE,America/Chicago,58352
+Warwick-ND,1840001889,Warwick,Warwick,ND,Warwick-ND,North Dakota,38005,Benson,47.8547,-98.7057,66,66,39,polygon,TRUE,America/Chicago,58381
+Ayr-ND,1840001934,Ayr,Ayr,ND,Ayr-ND,North Dakota,38017,Cass,47.0411,-97.491,17,17,78,polygon,TRUE,America/Chicago,58007
+Tioga-ND,1840001872,Tioga,Tioga,ND,Tioga-ND,North Dakota,38105,Williams,48.397,-102.9377,1547,1547,374,polygon,TRUE,America/Chicago,58852
+Walhalla-ND,1840001859,Walhalla,Walhalla,ND,Walhalla-ND,North Dakota,38067,Pembina,48.921,-97.9176,950,950,338,polygon,TRUE,America/Chicago,58282
+Esmond-ND,1840000088,Esmond,Esmond,ND,Esmond-ND,North Dakota,38005,Benson,48.0332,-99.765,99,99,83,polygon,TRUE,America/Chicago,58332
+Larimore-ND,1840000103,Larimore,Larimore,ND,Larimore-ND,North Dakota,38035,Grand Forks,47.9091,-97.6272,1304,1304,847,polygon,TRUE,America/Chicago,58251
+Dore-ND,1840033053,Dore,Dore,ND,Dore-ND,North Dakota,38053,McKenzie,47.9206,-104.031,,,5.7,point,FALSE,America/Denver,59221
+Kenmare-ND,1840000051,Kenmare,Kenmare,ND,Kenmare-ND,North Dakota,38101,Ward,48.673,-102.0721,1059,1059,329,polygon,TRUE,America/Chicago,58746
+New Hradec-ND,1840033084,New Hradec,New Hradec,ND,New Hradec-ND,North Dakota,38025,Dunn,46.9995,-102.8843,,,22,point,FALSE,America/Denver,58601
+Litchville-ND,1840000165,Litchville,Litchville,ND,Litchville-ND,North Dakota,38003,Barnes,46.6576,-98.1918,168,168,43,polygon,TRUE,America/Chicago,58461
+Loma-ND,1840016556,Loma,Loma,ND,Loma-ND,North Dakota,38019,Cavalier,48.6418,-98.5248,15,15,0,polygon,TRUE,America/Chicago,58311
+Ashley-ND,1840001986,Ashley,Ashley,ND,Ashley-ND,North Dakota,38051,McIntosh,46.0349,-99.3736,699,699,425,polygon,TRUE,America/Chicago,58413
+Pick City-ND,1840000144,Pick City,Pick City,ND,Pick City-ND,North Dakota,38057,Mercer,47.5116,-101.4572,136,136,299,polygon,TRUE,America/North_Dakota/Beulah,58545
+Rogers-ND,1840001930,Rogers,Rogers,ND,Rogers-ND,North Dakota,38003,Barnes,47.074,-98.2031,44,44,17,polygon,TRUE,America/Chicago,58479
+Edinburg-ND,1840000077,Edinburg,Edinburg,ND,Edinburg-ND,North Dakota,38099,Walsh,48.4955,-97.8628,189,189,235,polygon,TRUE,America/Chicago,58227
+Bathgate-ND,1840001856,Bathgate,Bathgate,ND,Bathgate-ND,North Dakota,38067,Pembina,48.8807,-97.4732,41,41,58,polygon,TRUE,America/Chicago,58216
+Mohall-ND,1840000045,Mohall,Mohall,ND,Mohall-ND,North Dakota,38075,Renville,48.7661,-101.5169,799,799,286,polygon,TRUE,America/Chicago,58761
+Webster-ND,1840033103,Webster,Webster,ND,Webster-ND,North Dakota,38071,Ramsey,48.2822,-98.8762,,,25.3,point,FALSE,America/Chicago,58382
+Woodworth-ND,1840001921,Woodworth,Woodworth,ND,Woodworth-ND,North Dakota,38093,Stutsman,47.1421,-99.3046,49,49,85,polygon,TRUE,America/Chicago,58496
+Dwight-ND,1840000229,Dwight,Dwight,ND,Dwight-ND,North Dakota,38077,Richland,46.3037,-96.7401,80,80,155,polygon,TRUE,America/Chicago,58075
+Sentinel Butte-ND,1840001917,Sentinel Butte,Sentinel Butte,ND,Sentinel Butte-ND,North Dakota,38033,Golden Valley,46.9193,-103.8403,64,64,23,polygon,TRUE,America/Denver,58654
+Bowdon-ND,1840000116,Bowdon,Bowdon,ND,Bowdon-ND,North Dakota,38103,Wells,47.4686,-99.7088,130,130,201,polygon,TRUE,America/Chicago,58418
+Falkirk-ND,1840033056,Falkirk,Falkirk,ND,Falkirk-ND,North Dakota,38055,McLean,47.3619,-101.0946,,,9.9,point,FALSE,America/Chicago,58577
+Montpelier-ND,1840000156,Montpelier,Montpelier,ND,Montpelier-ND,North Dakota,38093,Stutsman,46.6989,-98.589,85,85,182,polygon,TRUE,America/Chicago,58472
+Stanley-ND,1840001879,Stanley,Stanley,ND,Stanley-ND,North Dakota,38061,Mountrail,48.3164,-102.3874,2686,2686,569,polygon,TRUE,America/Chicago,58784
+Englevale-ND,1840023870,Englevale,Englevale,ND,Englevale-ND,North Dakota,38073,Ransom,46.3912,-97.9038,,,36.4,polygon,FALSE,America/Chicago,58033
+Ray-ND,1840000057,Ray,Ray,ND,Ray-ND,North Dakota,38105,Williams,48.3416,-103.1633,796,796,231,polygon,TRUE,America/Chicago,58849
+Larson-ND,1840023758,Larson,Larson,ND,Larson-ND,North Dakota,38013,Burke,48.8916,-102.8626,,,3.1,polygon,FALSE,America/Chicago,58727
+Chaffee-ND,1840033044,Chaffee,Chaffee,ND,Chaffee-ND,North Dakota,38017,Cass,46.7744,-97.3526,,,36.7,point,FALSE,America/Chicago,58079
+Burnstad-ND,1840033040,Burnstad,Burnstad,ND,Burnstad-ND,North Dakota,38047,Logan,46.3855,-99.6326,,,4.8,point,FALSE,America/Chicago,58495
+East Dunseith-ND,1840033126,East Dunseith,East Dunseith,ND,East Dunseith-ND,North Dakota,38079,Rolette,48.8546,-100.0285,,,60.6,polygon,FALSE,America/Chicago,58329
+De Lamere-ND,1840023879,De Lamere,De Lamere,ND,De Lamere-ND,North Dakota,38081,Sargent,46.2668,-97.3332,,,11.4,polygon,FALSE,America/Chicago,58060
+Petersburg-ND,1840000098,Petersburg,Petersburg,ND,Petersburg-ND,North Dakota,38063,Nelson,48.0132,-98.0004,180,180,67,polygon,TRUE,America/Chicago,58272
+Granville-ND,1840000064,Granville,Granville,ND,Granville-ND,North Dakota,38049,McHenry,48.2663,-100.8448,273,273,383,polygon,TRUE,America/Chicago,58741
+Jamestown-ND,1840000153,Jamestown,Jamestown,ND,Jamestown-ND,North Dakota,38093,Stutsman,46.9065,-98.6927,15297,15440,465,polygon,TRUE,America/Chicago,58401 58402 58405
+Sarles-ND,1840001861,Sarles,Sarles,ND,Sarles-ND,North Dakota,38019,Cavalier,48.9451,-98.9958,27,27,47,polygon,TRUE,America/Chicago,58372
+Ross-ND,1840001878,Ross,Ross,ND,Ross-ND,North Dakota,38061,Mountrail,48.3129,-102.5434,110,110,149,polygon,TRUE,America/Chicago,58776
+Watford City-ND,1840001892,Watford City,Watford City,ND,Watford City-ND,North Dakota,38053,McKenzie,47.8021,-103.2748,6390,6390,1758,polygon,TRUE,America/Chicago,58854
+Maxbass-ND,1840000008,Maxbass,Maxbass,ND,Maxbass-ND,North Dakota,38009,Bottineau,48.7225,-101.1425,85,85,198,polygon,TRUE,America/Chicago,58760
+Upham-ND,1840000059,Upham,Upham,ND,Upham-ND,North Dakota,38049,McHenry,48.5813,-100.7286,145,145,172,polygon,TRUE,America/Chicago,58789
+Michigan-ND,1840033122,Michigan,Michigan,ND,Michigan-ND,North Dakota,38063,Nelson,48.025,-98.117,,,150.4,point,TRUE,America/Chicago,58259
+Eckman-ND,1840033054,Eckman,Eckman,ND,Eckman-ND,North Dakota,38009,Bottineau,48.6581,-101.0579,,,8.2,point,FALSE,America/Chicago,58760
+Kindred-ND,1840000184,Kindred,Kindred,ND,Kindred-ND,North Dakota,38017,Cass,46.6495,-97.0169,755,755,200,polygon,TRUE,America/Chicago,58051
+Heil-ND,1840023863,Heil,Heil,ND,Heil-ND,North Dakota,38037,Grant,46.3892,-101.7011,,,7.3,polygon,FALSE,America/Denver,58533
+Washburn-ND,1840001899,Washburn,Washburn,ND,Washburn-ND,North Dakota,38055,McLean,47.2928,-101.0275,1303,1303,280,polygon,TRUE,America/Chicago,58577
+Deering-ND,1840000062,Deering,Deering,ND,Deering-ND,North Dakota,38049,McHenry,48.3957,-101.0494,119,119,621,polygon,TRUE,America/Chicago,58731
+Edmore-ND,1840000073,Edmore,Edmore,ND,Edmore-ND,North Dakota,38071,Ramsey,48.4122,-98.4532,176,176,254,polygon,TRUE,America/Chicago,58330
+Napoleon-ND,1840000211,Napoleon,Napoleon,ND,Napoleon-ND,North Dakota,38047,Logan,46.5039,-99.7684,787,787,216,polygon,TRUE,America/Chicago,58561
+Moffit-ND,1840033082,Moffit,Moffit,ND,Moffit-ND,North Dakota,38015,Burleigh,46.6772,-100.2912,,,21.1,point,FALSE,America/Chicago,58560
+Erie-ND,1840004000,Erie,Erie,ND,Erie-ND,North Dakota,38017,Cass,47.1154,-97.3879,,,46.2,polygon,FALSE,America/Chicago,58029
+Plaza-ND,1840000070,Plaza,Plaza,ND,Plaza-ND,North Dakota,38061,Mountrail,48.0259,-101.9593,199,199,68,polygon,TRUE,America/Chicago,58771
+Bowesmont-ND,1840033035,Bowesmont,Bowesmont,ND,Bowesmont-ND,North Dakota,38067,Pembina,48.69,-97.1781,,,1.3,point,FALSE,America/Chicago,58225
+Tagus-ND,1840033097,Tagus,Tagus,ND,Tagus-ND,North Dakota,38061,Mountrail,48.3464,-101.9341,,,19.4,point,FALSE,America/Chicago,58718
+Westfield-ND,1840033105,Westfield,Westfield,ND,Westfield-ND,North Dakota,38029,Emmons,46.0294,-100.2023,,,1.2,point,FALSE,America/Chicago,58542
+Buffalo-ND,1840000174,Buffalo,Buffalo,ND,Buffalo-ND,North Dakota,38017,Cass,46.9203,-97.5505,191,191,324,polygon,TRUE,America/Chicago,58011
+Halliday-ND,1840000126,Halliday,Halliday,ND,Halliday-ND,North Dakota,38025,Dunn,47.3522,-102.3389,205,205,173,polygon,TRUE,America/Denver,58636
+Spiritwood-ND,1840023844,Spiritwood,Spiritwood,ND,Spiritwood-ND,North Dakota,38093,Stutsman,46.9343,-98.4933,,,15.5,polygon,FALSE,America/Chicago,58481
+Brampton-ND,1840033036,Brampton,Brampton,ND,Brampton-ND,North Dakota,38081,Sargent,45.9947,-97.7762,,,7.1,point,FALSE,America/Chicago,58017
+Berthold-ND,1840001866,Berthold,Berthold,ND,Berthold-ND,North Dakota,38101,Ward,48.3153,-101.7344,495,495,514,polygon,TRUE,America/Chicago,58718
+Reeder-ND,1840000244,Reeder,Reeder,ND,Reeder-ND,North Dakota,38001,Adams,46.1071,-102.9425,158,158,98,polygon,TRUE,America/Denver,58649
+Langdon-ND,1840000027,Langdon,Langdon,ND,Langdon-ND,North Dakota,38019,Cavalier,48.7624,-98.3731,1780,1780,416,polygon,TRUE,America/Chicago,58249
+Cathay-ND,1840001901,Cathay,Cathay,ND,Cathay-ND,North Dakota,38103,Wells,47.5541,-99.4109,42,42,90,polygon,TRUE,America/Chicago,58422
+Souris-ND,1840001855,Souris,Souris,ND,Souris-ND,North Dakota,38009,Bottineau,48.9101,-100.6826,59,59,223,polygon,TRUE,America/Chicago,58783
+Binford-ND,1840001904,Binford,Binford,ND,Binford-ND,North Dakota,38039,Griggs,47.5604,-98.3457,172,172,192,polygon,TRUE,America/Chicago,58416
+Wildrose-ND,1840001870,Wildrose,Wildrose,ND,Wildrose-ND,North Dakota,38105,Williams,48.6299,-103.1837,132,132,175,polygon,TRUE,America/Chicago,58795
+Newburg-ND,1840000009,Newburg,Newburg,ND,Newburg-ND,North Dakota,38009,Bottineau,48.7141,-100.9127,113,113,330,polygon,TRUE,America/Chicago,58762
+Martin-ND,1840000123,Martin,Martin,ND,Martin-ND,North Dakota,38083,Sheridan,47.8267,-100.115,77,77,333,polygon,TRUE,America/Chicago,58758
+Overly-ND,1840000010,Overly,Overly,ND,Overly-ND,North Dakota,38009,Bottineau,48.6811,-100.151,18,18,19,polygon,TRUE,America/Chicago,58384
+Westhope-ND,1840001853,Westhope,Westhope,ND,Westhope-ND,North Dakota,38009,Bottineau,48.9111,-101.0176,419,419,492,polygon,TRUE,America/Chicago,58793
+Dickinson-ND,1840000192,Dickinson,Dickinson,ND,Dickinson-ND,North Dakota,38089,Stark,46.8907,-102.7891,22733,22993,687,polygon,TRUE,America/Denver,58601 58602
+Balta-ND,1840001880,Balta,Balta,ND,Balta-ND,North Dakota,38069,Pierce,48.1666,-100.0369,63,63,110,polygon,TRUE,America/Chicago,58368 58313
+New England-ND,1840000222,New England,New England,ND,New England-ND,North Dakota,38041,Hettinger,46.5408,-102.867,633,633,496,polygon,TRUE,America/Denver,58647
+Voss-ND,1840033101,Voss,Voss,ND,Voss-ND,North Dakota,38099,Walsh,48.2964,-97.4554,,,15,point,FALSE,America/Chicago,58261
+Medina-ND,1840000155,Medina,Medina,ND,Medina-ND,North Dakota,38093,Stutsman,46.8952,-99.2999,302,302,114,polygon,TRUE,America/Chicago,58467
+Raub-ND,1840033088,Raub,Raub,ND,Raub-ND,North Dakota,38055,McLean,47.7464,-102.0432,,,1.6,point,FALSE,America/Chicago,58779
+Venturia-ND,1840000249,Venturia,Venturia,ND,Venturia-ND,North Dakota,38051,McIntosh,45.9971,-99.5479,12,12,41,polygon,TRUE,America/Chicago,58413
+Alexander-ND,1840000108,Alexander,Alexander,ND,Alexander-ND,North Dakota,38053,McKenzie,47.839,-103.6413,303,303,81,polygon,TRUE,America/Chicago,58831
+Fortuna-ND,1840000035,Fortuna,Fortuna,ND,Fortuna-ND,North Dakota,38023,Divide,48.9099,-103.7783,22,22,8,polygon,TRUE,America/Chicago,58844
+Palermo-ND,1840000068,Palermo,Palermo,ND,Palermo-ND,North Dakota,38061,Mountrail,48.3379,-102.23,84,84,14,polygon,TRUE,America/Chicago,58769
+Lincoln-ND,1840000158,Lincoln,Lincoln,ND,Lincoln-ND,North Dakota,38015,Burleigh,46.7677,-100.7001,4578,3683,1111,polygon,TRUE,America/Chicago,58504
+Rolette-ND,1840001850,Rolette,Rolette,ND,Rolette-ND,North Dakota,38079,Rolette,48.6609,-99.8418,611,611,237,polygon,TRUE,America/Chicago,58366
+Casselton-ND,1840000175,Casselton,Casselton,ND,Casselton-ND,North Dakota,38017,Cass,46.8973,-97.2124,2513,2513,514,polygon,TRUE,America/Chicago,58012
+Foxholm-ND,1840023761,Foxholm,Foxholm,ND,Foxholm-ND,North Dakota,38101,Ward,48.3654,-101.5721,,,52.6,polygon,FALSE,America/Chicago,58718
+Lawton-ND,1840000075,Lawton,Lawton,ND,Lawton-ND,North Dakota,38071,Ramsey,48.3036,-98.3685,29,29,12,polygon,TRUE,America/Chicago,58345
+East Fairview-ND,1840023780,East Fairview,East Fairview,ND,East Fairview-ND,North Dakota,38053,McKenzie,47.8554,-104.0375,,,93.7,polygon,FALSE,America/Denver,59221
+Surrey-ND,1840001869,Surrey,Surrey,ND,Surrey-ND,North Dakota,38101,Ward,48.2365,-101.1336,1365,1365,538,polygon,TRUE,America/Chicago,58785
+Dunn Center-ND,1840000125,Dunn Center,Dunn Center,ND,Dunn Center-ND,North Dakota,38025,Dunn,47.3526,-102.6234,186,186,185,polygon,TRUE,America/Denver,58626
+Fort Totten-ND,1840003996,Fort Totten,Fort Totten,ND,Fort Totten-ND,North Dakota,38005,Benson,47.9716,-98.9971,,,615.1,polygon,FALSE,America/Chicago,58374 58335
+Fryburg-ND,1840033116,Fryburg,Fryburg,ND,Fryburg-ND,North Dakota,38007,Billings,46.8706,-103.303,,,9.1,point,FALSE,America/Denver,58622
+Kramer-ND,1840000005,Kramer,Kramer,ND,Kramer-ND,North Dakota,38009,Bottineau,48.6911,-100.7076,29,29,72,polygon,TRUE,America/Chicago,58748
+Carbury-ND,1840033042,Carbury,Carbury,ND,Carbury-ND,North Dakota,38009,Bottineau,48.8908,-100.5446,,,5.7,point,FALSE,America/Chicago,58783
+Auburn-ND,1840023768,Auburn,Auburn,ND,Auburn-ND,North Dakota,38099,Walsh,48.5066,-97.4368,,,13,polygon,FALSE,America/Chicago,58237
+Burlington-ND,1840000046,Burlington,Burlington,ND,Burlington-ND,North Dakota,38101,Ward,48.2761,-101.4248,1191,1191,718,polygon,TRUE,America/Chicago,58722
+Richardton-ND,1840000194,Richardton,Richardton,ND,Richardton-ND,North Dakota,38089,Stark,46.8842,-102.3336,543,543,153,polygon,TRUE,America/Denver,58652
+Bergen-ND,1840001875,Bergen,Bergen,ND,Bergen-ND,North Dakota,38049,McHenry,48.0038,-100.72,7,7,3,polygon,TRUE,America/Chicago,58792
+Sydney-ND,1840033096,Sydney,Sydney,ND,Sydney-ND,North Dakota,38093,Stutsman,46.7308,-98.7698,,,1.4,point,FALSE,America/Chicago,58401
+Reiles Acres-ND,1840033125,Reiles Acres,Reiles Acres,ND,Reiles Acres-ND,North Dakota,38017,Cass,46.9269,-96.8665,594,594,473,polygon,TRUE,America/Chicago,58102
+Orrin-ND,1840023766,Orrin,Orrin,ND,Orrin-ND,North Dakota,38069,Pierce,48.091,-100.167,,,38.7,polygon,FALSE,America/Chicago,58368
+Fessenden-ND,1840000117,Fessenden,Fessenden,ND,Fessenden-ND,North Dakota,38103,Wells,47.6494,-99.6269,464,464,395,polygon,TRUE,America/Chicago,58438
+Fort Ransom-ND,1840000226,Fort Ransom,Fort Ransom,ND,Fort Ransom-ND,North Dakota,38073,Ransom,46.5245,-97.9311,77,77,98,polygon,TRUE,America/Chicago,58033
+Dunseith-ND,1840000000,Dunseith,Dunseith,ND,Dunseith-ND,North Dakota,38079,Rolette,48.813,-100.0625,799,799,308,polygon,TRUE,America/Chicago,58329
+Abercrombie-ND,1840001946,Abercrombie,Abercrombie,ND,Abercrombie-ND,North Dakota,38077,Richland,46.447,-96.7293,259,259,310,polygon,TRUE,America/Chicago,58075 58001
+New Town-ND,1840000067,New Town,New Town,ND,New Town-ND,North Dakota,38061,Mountrail,47.9847,-102.4823,2528,2528,761,polygon,TRUE,America/Chicago,58763
+Cayuga-ND,1840001983,Cayuga,Cayuga,ND,Cayuga-ND,North Dakota,38081,Sargent,46.0761,-97.3844,26,26,10,polygon,TRUE,America/Chicago,58013
+Grafton-ND,1840000081,Grafton,Grafton,ND,Grafton-ND,North Dakota,38099,Walsh,48.4147,-97.4064,4181,4245,522,polygon,TRUE,America/Chicago,58237
+Rhame-ND,1840000259,Rhame,Rhame,ND,Rhame-ND,North Dakota,38011,Bowman,46.2346,-103.6552,175,175,44,polygon,TRUE,America/Denver,58651
+Caledonia-ND,1840023810,Caledonia,Caledonia,ND,Caledonia-ND,North Dakota,38097,Traill,47.4577,-96.8891,,,10.1,polygon,FALSE,America/Chicago,58219
+Rugby-ND,1840001882,Rugby,Rugby,ND,Rugby-ND,North Dakota,38069,Pierce,48.3665,-99.992,2764,2815,552,polygon,TRUE,America/Chicago,58368
+Argusville-ND,1840000171,Argusville,Argusville,ND,Argusville-ND,North Dakota,38017,Cass,47.0501,-96.9431,474,474,45,polygon,TRUE,America/Chicago,58005
+Des Lacs-ND,1840000048,Des Lacs,Des Lacs,ND,Des Lacs-ND,North Dakota,38101,Ward,48.2564,-101.5634,199,199,144,polygon,TRUE,America/Chicago,58733
+Ryder-ND,1840001867,Ryder,Ryder,ND,Ryder-ND,North Dakota,38101,Ward,47.9177,-101.6737,80,80,93,polygon,TRUE,America/Chicago,58779
+Starkweather-ND,1840001885,Starkweather,Starkweather,ND,Starkweather-ND,North Dakota,38071,Ramsey,48.4523,-98.8788,115,115,322,polygon,TRUE,America/Chicago,58377
+Trenton-ND,1840033100,Trenton,Trenton,ND,Trenton-ND,North Dakota,38105,Williams,48.0706,-103.8369,,,245.5,point,FALSE,America/Chicago,58853
+Bisbee-ND,1840001860,Bisbee,Bisbee,ND,Bisbee-ND,North Dakota,38095,Towner,48.6263,-99.3788,128,128,188,polygon,TRUE,America/Chicago,58317
+LaMoure-ND,1840000219,LaMoure,LaMoure,ND,LaMoure-ND,North Dakota,38045,LaMoure,46.3572,-98.296,909,909,266,polygon,TRUE,America/Chicago,58458
+Landa-ND,1840000006,Landa,Landa,ND,Landa-ND,North Dakota,38009,Bottineau,48.8958,-100.9119,38,38,193,polygon,TRUE,America/Chicago,58783
+Lisbon-ND,1840000227,Lisbon,Lisbon,ND,Lisbon-ND,North Dakota,38073,Ransom,46.4382,-97.6841,2124,2124,364,polygon,TRUE,America/Chicago,58054
+Robinson-ND,1840000151,Robinson,Robinson,ND,Robinson-ND,North Dakota,38043,Kidder,47.1424,-99.7805,37,37,86,polygon,TRUE,America/Chicago,58478
+Sibley-ND,1840001932,Sibley,Sibley,ND,Sibley-ND,North Dakota,38003,Barnes,47.2186,-97.9653,30,30,257,polygon,TRUE,America/Chicago,58429
+Colfax-ND,1840001950,Colfax,Colfax,ND,Colfax-ND,North Dakota,38077,Richland,46.4709,-96.8725,145,145,54,polygon,TRUE,America/Chicago,58018
+Ypsilanti-ND,1840023845,Ypsilanti,Ypsilanti,ND,Ypsilanti-ND,North Dakota,38093,Stutsman,46.7834,-98.561,,,75.7,polygon,FALSE,America/Chicago,58497
+Bonetraill-ND,1840033033,Bonetraill,Bonetraill,ND,Bonetraill-ND,North Dakota,38105,Williams,48.4164,-103.8385,,,4.2,point,FALSE,America/Chicago,58801
+Hoople-ND,1840000082,Hoople,Hoople,ND,Hoople-ND,North Dakota,38099,Walsh,48.5351,-97.6375,233,233,249,polygon,TRUE,America/Chicago,58243
+Eldridge-ND,1840033055,Eldridge,Eldridge,ND,Eldridge-ND,North Dakota,38093,Stutsman,46.9025,-98.8518,,,20.1,point,FALSE,America/Chicago,58401
+Kief-ND,1840000066,Kief,Kief,ND,Kief-ND,North Dakota,38049,McHenry,47.86,-100.5133,14,14,4,polygon,TRUE,America/Chicago,58712 58723
+Tappen-ND,1840001919,Tappen,Tappen,ND,Tappen-ND,North Dakota,38043,Kidder,46.8716,-99.6273,201,201,73,polygon,TRUE,America/Chicago,58487
+Tolna-ND,1840001890,Tolna,Tolna,ND,Tolna-ND,North Dakota,38063,Nelson,47.8259,-98.4385,157,157,79,polygon,TRUE,America/Chicago,58380
+Regan-ND,1840000159,Regan,Regan,ND,Regan-ND,North Dakota,38015,Burleigh,47.1568,-100.5273,44,44,16,polygon,TRUE,America/Chicago,58477
+Coleharbor-ND,1840001895,Coleharbor,Coleharbor,ND,Coleharbor-ND,North Dakota,38055,McLean,47.5424,-101.2212,85,85,177,polygon,TRUE,America/Chicago,58531
+Menoken-ND,1840025257,Menoken,Menoken,ND,Menoken-ND,North Dakota,38015,Burleigh,46.8149,-100.5338,,,30.6,polygon,FALSE,America/Chicago,58558
+Bantry-ND,1840001874,Bantry,Bantry,ND,Bantry-ND,North Dakota,38049,McHenry,48.4977,-100.6098,15,15,33,polygon,TRUE,America/Chicago,58713
+Beulah-ND,1840001907,Beulah,Beulah,ND,Beulah-ND,North Dakota,38057,Mercer,47.2672,-101.7738,3189,3376,523,polygon,TRUE,America/North_Dakota/Beulah,58523
+Grandin-ND,1840000180,Grandin,Grandin,ND,Grandin-ND,North Dakota,38017,Cass,47.2367,-97.003,174,174,398,polygon,TRUE,America/Chicago,58038
+Havana-ND,1840000247,Havana,Havana,ND,Havana-ND,North Dakota,38081,Sargent,45.9517,-97.6184,71,71,73,polygon,TRUE,America/Chicago,58043
+Golden Valley-ND,1840000142,Golden Valley,Golden Valley,ND,Golden Valley-ND,North Dakota,38057,Mercer,47.2902,-102.0655,178,178,93,polygon,TRUE,America/North_Dakota/Beulah,58541
+Niobe-ND,1840033085,Niobe,Niobe,ND,Niobe-ND,North Dakota,38101,Ward,48.6889,-102.2157,,,15.7,point,FALSE,America/Chicago,58746
+Crystal-ND,1840000012,Crystal,Crystal,ND,Crystal-ND,North Dakota,38067,Pembina,48.5982,-97.6689,131,131,77,polygon,TRUE,America/Chicago,58222
+Osnabrock-ND,1840000032,Osnabrock,Osnabrock,ND,Osnabrock-ND,North Dakota,38019,Cavalier,48.6699,-98.1489,125,125,160,polygon,TRUE,America/Chicago,58269
+Gladstone-ND,1840000193,Gladstone,Gladstone,ND,Gladstone-ND,North Dakota,38089,Stark,46.8594,-102.5694,357,357,404,polygon,TRUE,America/Denver,58630
+Keene-ND,1840033118,Keene,Keene,ND,Keene-ND,North Dakota,38053,McKenzie,47.927,-102.9416,,,43.8,point,FALSE,America/Chicago,58847
+Nekoma-ND,1840000031,Nekoma,Nekoma,ND,Nekoma-ND,North Dakota,38019,Cavalier,48.5762,-98.3753,49,49,52,polygon,TRUE,America/Chicago,58355
+Buchanan-ND,1840000152,Buchanan,Buchanan,ND,Buchanan-ND,North Dakota,38093,Stutsman,47.0626,-98.8291,111,111,528,polygon,TRUE,America/Chicago,58420
+Haynes-ND,1840000242,Haynes,Haynes,ND,Haynes-ND,North Dakota,38001,Adams,45.9739,-102.471,22,22,62,polygon,TRUE,America/Denver,58639
+Marion-ND,1840000220,Marion,Marion,ND,Marion-ND,North Dakota,38045,LaMoure,46.6091,-98.3375,133,133,61,polygon,TRUE,America/Chicago,58466
+Hansboro-ND,1840000020,Hansboro,Hansboro,ND,Hansboro-ND,North Dakota,38095,Towner,48.9525,-99.3808,12,12,24,polygon,TRUE,America/Chicago,58365 58339
+Clifford-ND,1840001906,Clifford,Clifford,ND,Clifford-ND,North Dakota,38097,Traill,47.3483,-97.4102,43,43,117,polygon,TRUE,America/Chicago,58016
+Carpio-ND,1840000047,Carpio,Carpio,ND,Carpio-ND,North Dakota,38101,Ward,48.4431,-101.7153,148,148,97,polygon,TRUE,America/Chicago,58725
+Cavalier-ND,1840001857,Cavalier,Cavalier,ND,Cavalier-ND,North Dakota,38067,Pembina,48.7947,-97.6234,1241,1241,584,polygon,TRUE,America/Chicago,58220
+Nome-ND,1840000166,Nome,Nome,ND,Nome-ND,North Dakota,38003,Barnes,46.6757,-97.8164,60,60,56,polygon,TRUE,America/Chicago,58062
+Driscoll-ND,1840025256,Driscoll,Driscoll,ND,Driscoll-ND,North Dakota,38015,Burleigh,46.8427,-100.1439,,,21.3,polygon,FALSE,America/Chicago,58532
+Mylo-ND,1840000001,Mylo,Mylo,ND,Mylo-ND,North Dakota,38079,Rolette,48.6359,-99.6178,20,20,8,polygon,TRUE,America/Chicago,58353
+Grand Forks-ND,1840000101,Grand Forks,Grand Forks,ND,Grand Forks-ND,North Dakota,38035,Grand Forks,47.912,-97.0751,66487,57339,1097,polygon,TRUE,America/Chicago,58202 58203 58201 58206 58207 58208
+Chaseley-ND,1840033045,Chaseley,Chaseley,ND,Chaseley-ND,North Dakota,38103,Wells,47.4503,-99.8201,,,7,point,FALSE,America/Chicago,58423
+Grano-ND,1840000043,Grano,Grano,ND,Grano-ND,North Dakota,38075,Renville,48.6153,-101.5887,7,7,8,polygon,TRUE,America/Chicago,58750
+Valley City-ND,1840000160,Valley City,Valley City,ND,Valley City-ND,North Dakota,38003,Barnes,46.9225,-98.0071,6670,6566,644,polygon,TRUE,America/Chicago,58072
+Pettibone-ND,1840000150,Pettibone,Pettibone,ND,Pettibone-ND,North Dakota,38043,Kidder,47.1168,-99.5209,69,69,153,polygon,TRUE,America/Chicago,58475
+Amenia-ND,1840000170,Amenia,Amenia,ND,Amenia-ND,North Dakota,38017,Cass,47.0068,-97.2242,96,96,25,polygon,TRUE,America/Chicago,58004
+Kensal-ND,1840000154,Kensal,Kensal,ND,Kensal-ND,North Dakota,38093,Stutsman,47.3,-98.7322,159,159,101,polygon,TRUE,America/Chicago,58455
+Berlin-ND,1840001944,Berlin,Berlin,ND,Berlin-ND,North Dakota,38045,LaMoure,46.3783,-98.4885,35,35,137,polygon,TRUE,America/Chicago,58415
+Leeds-ND,1840000090,Leeds,Leeds,ND,Leeds-ND,North Dakota,38005,Benson,48.2887,-99.4388,447,447,363,polygon,TRUE,America/Chicago,58346
+Gardar-ND,1840033060,Gardar,Gardar,ND,Gardar-ND,North Dakota,38067,Pembina,48.5892,-97.874,,,6.2,point,FALSE,America/Chicago,58227
+Lehr-ND,1840000250,Lehr,Lehr,ND,Lehr-ND,North Dakota,38051,McIntosh,46.2825,-99.3527,77,77,157,polygon,TRUE,America/Chicago,58460
+Harlow-ND,1840033064,Harlow,Harlow,ND,Harlow-ND,North Dakota,38005,Benson,48.1636,-99.519,,,16.5,point,FALSE,America/Chicago,58346
+Sterling-ND,1840033095,Sterling,Sterling,ND,Sterling-ND,North Dakota,38015,Burleigh,46.8139,-100.2915,,,22.4,point,FALSE,America/Chicago,58572
+Glenfield-ND,1840000139,Glenfield,Glenfield,ND,Glenfield-ND,North Dakota,38031,Foster,47.4548,-98.5664,89,89,242,polygon,TRUE,America/Chicago,58443
+Churchs Ferry-ND,1840001884,Churchs Ferry,Churchs Ferry,ND,Churchs Ferry-ND,North Dakota,38071,Ramsey,48.2687,-99.1944,12,12,10,polygon,TRUE,America/Chicago,58325
+Judson-ND,1840033070,Judson,Judson,ND,Judson-ND,North Dakota,38059,Morton,46.8264,-101.2785,,,16.3,point,FALSE,America/North_Dakota/New_Salem,58563
+Selfridge-ND,1840001967,Selfridge,Selfridge,ND,Selfridge-ND,North Dakota,38085,Sioux,46.0419,-100.9242,176,176,255,polygon,TRUE,America/Chicago,58568
+Bowbells-ND,1840000037,Bowbells,Bowbells,ND,Bowbells-ND,North Dakota,38013,Burke,48.8036,-102.2475,359,359,174,polygon,TRUE,America/Chicago,58721
+Sheyenne-ND,1840001900,Sheyenne,Sheyenne,ND,Sheyenne-ND,North Dakota,38027,Eddy,47.8273,-99.117,198,198,492,polygon,TRUE,America/Chicago,58374
+Gackle-ND,1840000210,Gackle,Gackle,ND,Gackle-ND,North Dakota,38047,Logan,46.6264,-99.1414,291,291,207,polygon,TRUE,America/Chicago,58442
+Spring Brook-ND,1840033094,Spring Brook,Spring Brook,ND,Spring Brook-ND,North Dakota,38105,Williams,48.2521,-103.4617,34,34,35,polygon,TRUE,America/Chicago,58843
+Rolla-ND,1840001851,Rolla,Rolla,ND,Rolla-ND,North Dakota,38079,Rolette,48.8532,-99.6144,1325,1325,356,polygon,TRUE,America/Chicago,58367
+Leith-ND,1840000203,Leith,Leith,ND,Leith-ND,North Dakota,38037,Grant,46.3627,-101.6386,16,16,5,polygon,TRUE,America/Denver,58529
+Dawson-ND,1840000149,Dawson,Dawson,ND,Dawson-ND,North Dakota,38043,Kidder,46.8679,-99.7536,61,61,69,polygon,TRUE,America/Chicago,58428
+Zap-ND,1840001908,Zap,Zap,ND,Zap-ND,North Dakota,38057,Mercer,47.2847,-101.9233,242,242,89,polygon,TRUE,America/North_Dakota/Beulah,58580
+Parshall-ND,1840000069,Parshall,Parshall,ND,Parshall-ND,North Dakota,38061,Mountrail,47.9556,-102.1342,1253,1253,877,polygon,TRUE,America/Chicago,58770
+Fullerton-ND,1840000253,Fullerton,Fullerton,ND,Fullerton-ND,North Dakota,38021,Dickey,46.1632,-98.4272,52,52,51,polygon,TRUE,America/Chicago,58441
+Sherwood-ND,1840001864,Sherwood,Sherwood,ND,Sherwood-ND,North Dakota,38075,Renville,48.9619,-101.6329,249,249,305,polygon,TRUE,America/Chicago,58782
+Killdeer-ND,1840000127,Killdeer,Killdeer,ND,Killdeer-ND,North Dakota,38025,Dunn,47.3671,-102.7535,1173,1173,482,polygon,TRUE,America/Denver,58640
+Clyde-ND,1840033046,Clyde,Clyde,ND,Clyde-ND,North Dakota,38019,Cavalier,48.77,-98.899,,,5.1,point,FALSE,America/Chicago,58352
+Harwood-ND,1840000181,Harwood,Harwood,ND,Harwood-ND,North Dakota,38017,Cass,46.976,-96.8794,807,807,246,polygon,TRUE,America/Chicago,58042
+Solen-ND,1840001968,Solen,Solen,ND,Solen-ND,North Dakota,38085,Sioux,46.3877,-100.7957,89,89,113,polygon,TRUE,America/Chicago,58570
+Medora-ND,1840000147,Medora,Medora,ND,Medora-ND,North Dakota,38007,Billings,46.9128,-103.5249,132,132,141,polygon,TRUE,America/Denver,58645
+Portal-ND,1840000040,Portal,Portal,ND,Portal-ND,North Dakota,38013,Burke,48.9957,-102.5474,150,150,102,polygon,TRUE,America/Regina,58772 58737
+Lignite-ND,1840000039,Lignite,Lignite,ND,Lignite-ND,North Dakota,38013,Burke,48.8774,-102.5643,240,240,655,polygon,TRUE,America/Chicago,58752
+Belcourt-ND,1840003990,Belcourt,Belcourt,ND,Belcourt-ND,North Dakota,38079,Rolette,48.8417,-99.7447,,,407.7,polygon,FALSE,America/Chicago,58316
+Golva-ND,1840000148,Golva,Golva,ND,Golva-ND,North Dakota,38033,Golden Valley,46.7347,-103.9831,70,70,82,polygon,TRUE,America/Denver,58632
+Simcoe-ND,1840033092,Simcoe,Simcoe,ND,Simcoe-ND,North Dakota,38049,McHenry,48.1564,-100.8668,,,2.5,point,FALSE,America/Chicago,58741
+Lostwood-ND,1840033075,Lostwood,Lostwood,ND,Lostwood-ND,North Dakota,38061,Mountrail,48.4756,-102.4241,,,2.5,point,FALSE,America/Chicago,58784
+Center-ND,1840001928,Center,Center,ND,Center-ND,North Dakota,38065,Oliver,47.1148,-101.2978,563,563,475,polygon,TRUE,America/North_Dakota/Center,58530
+Glen Ullin-ND,1840000197,Glen Ullin,Glen Ullin,ND,Glen Ullin-ND,North Dakota,38059,Morton,46.8121,-101.8331,741,741,276,polygon,TRUE,America/North_Dakota/New_Salem,58631
+Embden-ND,1840023847,Embden,Embden,ND,Embden-ND,North Dakota,38017,Cass,46.805,-97.4395,,,32.4,polygon,FALSE,America/Chicago,58079
+Maddock-ND,1840000091,Maddock,Maddock,ND,Maddock-ND,North Dakota,38005,Benson,47.9624,-99.5292,380,380,165,polygon,TRUE,America/Chicago,58348
+Hickson-ND,1840033068,Hickson,Hickson,ND,Hickson-ND,North Dakota,38017,Cass,46.6694,-96.8104,,,149.1,point,FALSE,America/Chicago,58047
+Velva-ND,1840000060,Velva,Velva,ND,Velva-ND,North Dakota,38049,McHenry,48.0577,-100.9325,1265,1265,483,polygon,TRUE,America/Chicago,58790
+Douglas-ND,1840000050,Douglas,Douglas,ND,Douglas-ND,North Dakota,38101,Ward,47.8579,-101.5017,61,61,80,polygon,TRUE,America/Chicago,58735
+Flasher-ND,1840000196,Flasher,Flasher,ND,Flasher-ND,North Dakota,38059,Morton,46.4521,-101.2327,215,215,118,polygon,TRUE,America/North_Dakota/New_Salem,58535
+Rutland-ND,1840001985,Rutland,Rutland,ND,Rutland-ND,North Dakota,38081,Sargent,46.0543,-97.5068,159,159,160,polygon,TRUE,America/Chicago,58067
+Lidgerwood-ND,1840000233,Lidgerwood,Lidgerwood,ND,Lidgerwood-ND,North Dakota,38077,Richland,46.0737,-97.1451,628,628,371,polygon,TRUE,America/Chicago,58053
+Davenport-ND,1840000176,Davenport,Davenport,ND,Davenport-ND,North Dakota,38017,Cass,46.7149,-97.0649,257,257,363,polygon,TRUE,America/Chicago,58021
+Grenora-ND,1840000056,Grenora,Grenora,ND,Grenora-ND,North Dakota,38105,Williams,48.6192,-103.937,294,294,197,polygon,TRUE,America/Chicago,58845
+Elgin-ND,1840000202,Elgin,Elgin,ND,Elgin-ND,North Dakota,38037,Grant,46.4024,-101.8428,634,634,233,polygon,TRUE,America/Denver,58533
+Goodrich-ND,1840000121,Goodrich,Goodrich,ND,Goodrich-ND,North Dakota,38083,Sheridan,47.476,-100.1248,97,97,131,polygon,TRUE,America/Chicago,58444
+Conway-ND,1840001887,Conway,Conway,ND,Conway-ND,North Dakota,38099,Walsh,48.2344,-97.6752,22,22,38,polygon,TRUE,America/Chicago,58233
+Marshall-ND,1840033078,Marshall,Marshall,ND,Marshall-ND,North Dakota,38025,Dunn,47.1381,-102.333,,,2.2,point,FALSE,America/Denver,58636
+South Heart-ND,1840001938,South Heart,South Heart,ND,South Heart-ND,North Dakota,38089,Stark,46.8678,-102.9894,423,423,172,polygon,TRUE,America/Denver,58655
+Niagara-ND,1840000105,Niagara,Niagara,ND,Niagara-ND,North Dakota,38035,Grand Forks,47.9983,-97.8717,51,51,20,polygon,TRUE,America/Chicago,58266
+Cleveland-ND,1840001922,Cleveland,Cleveland,ND,Cleveland-ND,North Dakota,38093,Stutsman,46.8904,-99.12,81,81,176,polygon,TRUE,America/Chicago,58424
+Mercer-ND,1840000113,Mercer,Mercer,ND,Mercer-ND,North Dakota,38055,McLean,47.4905,-100.7106,97,97,170,polygon,TRUE,America/Chicago,58559
+Four Bears Village-ND,1840033113,Four Bears Village,Four Bears Village,ND,Four Bears Village-ND,North Dakota,38053,McKenzie,47.9871,-102.594,,,80,polygon,FALSE,America/Chicago,58763
+Benedict-ND,1840001893,Benedict,Benedict,ND,Benedict-ND,North Dakota,38055,McLean,47.8302,-101.0843,74,74,115,polygon,TRUE,America/Chicago,58716
+Coulee-ND,1840033049,Coulee,Coulee,ND,Coulee-ND,North Dakota,38061,Mountrail,48.5453,-102.0116,,,27.7,point,FALSE,America/Chicago,58734
+Hensel-ND,1840033121,Hensel,Hensel,ND,Hensel-ND,North Dakota,38067,Pembina,48.6883,-97.6665,,,20,point,TRUE,America/Chicago,58241
+Ardoch-ND,1840000076,Ardoch,Ardoch,ND,Ardoch-ND,North Dakota,38099,Walsh,48.2055,-97.3408,66,66,98,polygon,TRUE,America/Chicago,58261
+Elliott-ND,1840000224,Elliott,Elliott,ND,Elliott-ND,North Dakota,38073,Ransom,46.4023,-97.8149,25,25,63,polygon,TRUE,America/Chicago,58054
+Beach-ND,1840001916,Beach,Beach,ND,Beach-ND,North Dakota,38033,Golden Valley,46.9189,-104.0083,1094,1094,175,polygon,TRUE,America/Denver,58621
+Hope-ND,1840000129,Hope,Hope,ND,Hope-ND,North Dakota,38091,Steele,47.3243,-97.7193,265,265,166,polygon,TRUE,America/Chicago,58046
+Gwinner-ND,1840000246,Gwinner,Gwinner,ND,Gwinner-ND,North Dakota,38081,Sargent,46.2358,-97.6696,853,853,158,polygon,TRUE,America/Chicago,58040
+Great Bend-ND,1840000231,Great Bend,Great Bend,ND,Great Bend-ND,North Dakota,38077,Richland,46.1546,-96.801,58,58,40,polygon,TRUE,America/Chicago,58075
+Hunter-ND,1840000183,Hunter,Hunter,ND,Hunter-ND,North Dakota,38017,Cass,47.1904,-97.2132,260,260,66,polygon,TRUE,America/Chicago,58048
+Prairie Rose-ND,1840000189,Prairie Rose,Prairie Rose,ND,Prairie Rose-ND,North Dakota,38017,Cass,46.8171,-96.8351,72,72,678,polygon,TRUE,America/Chicago,58104
+Tower City-ND,1840001936,Tower City,Tower City,ND,Tower City-ND,North Dakota,38017,Cass,46.9263,-97.6759,258,258,47,polygon,TRUE,America/Chicago,58071
+Lefor-ND,1840033073,Lefor,Lefor,ND,Lefor-ND,North Dakota,38089,Stark,46.6817,-102.5596,,,32.2,point,FALSE,America/Denver,58641
+White Shield-ND,1840006615,White Shield,White Shield,ND,White Shield-ND,North Dakota,38055,McLean,47.6601,-101.8436,,,72.3,polygon,FALSE,America/Chicago,58775 58540
+Williston-ND,1840001871,Williston,Williston,ND,Williston-ND,North Dakota,38105,Williams,48.1834,-103.633,27164,26426,501,polygon,TRUE,America/Chicago,58801 58802 58803
+Mapleton-ND,1840000186,Mapleton,Mapleton,ND,Mapleton-ND,North Dakota,38017,Cass,46.8913,-97.053,946,946,91,polygon,TRUE,America/Chicago,58059
+Leroy-ND,1840033074,Leroy,Leroy,ND,Leroy-ND,North Dakota,38067,Pembina,48.9233,-97.7526,,,2.9,point,FALSE,America/Chicago,58282
+Raleigh-ND,1840023864,Raleigh,Raleigh,ND,Raleigh-ND,North Dakota,38037,Grant,46.3572,-101.3054,,,12.8,polygon,FALSE,America/Denver,58564
+Garrison-ND,1840000111,Garrison,Garrison,ND,Garrison-ND,North Dakota,38055,McLean,47.653,-101.4218,1532,1532,427,polygon,TRUE,America/Chicago,58540
+Wolford-ND,1840001881,Wolford,Wolford,ND,Wolford-ND,North Dakota,38069,Pierce,48.4979,-99.7044,35,35,84,polygon,TRUE,America/Chicago,58385
+Hannah-ND,1840000026,Hannah,Hannah,ND,Hannah-ND,North Dakota,38019,Cavalier,48.9726,-98.6904,14,14,28,polygon,TRUE,America/Chicago,58239
+Wheatland-ND,1840006628,Wheatland,Wheatland,ND,Wheatland-ND,North Dakota,38017,Cass,46.9049,-97.3455,,,69.9,polygon,FALSE,America/Chicago,58079
+Max-ND,1840000112,Max,Max,ND,Max-ND,North Dakota,38055,McLean,47.8205,-101.2916,354,354,176,polygon,TRUE,America/Chicago,58759
+Portland-ND,1840000137,Portland,Portland,ND,Portland-ND,North Dakota,38097,Traill,47.4993,-97.3694,593,593,266,polygon,TRUE,America/Chicago,58274
+Sheldon-ND,1840001945,Sheldon,Sheldon,ND,Sheldon-ND,North Dakota,38073,Ransom,46.5874,-97.492,123,123,212,polygon,TRUE,America/Chicago,58068
+Mountain-ND,1840000015,Mountain,Mountain,ND,Mountain-ND,North Dakota,38067,Pembina,48.6841,-97.8649,85,85,241,polygon,TRUE,America/Chicago,58262
+Stanton-ND,1840001909,Stanton,Stanton,ND,Stanton-ND,North Dakota,38057,Mercer,47.3169,-101.3844,361,361,294,polygon,TRUE,America/North_Dakota/Beulah,58571
+Shell Valley-ND,1840033127,Shell Valley,Shell Valley,ND,Shell Valley-ND,North Dakota,38079,Rolette,48.8108,-99.8273,,,162.8,polygon,FALSE,America/Chicago,58316
+Saint John-ND,1840001852,Saint John,Saint John,ND,Saint John-ND,North Dakota,38079,Rolette,48.9437,-99.7132,361,361,313,polygon,TRUE,America/Chicago,58369
+Neche-ND,1840000016,Neche,Neche,ND,Neche-ND,North Dakota,38067,Pembina,48.983,-97.5517,358,358,395,polygon,TRUE,America/Chicago,58265
+Leonard-ND,1840000185,Leonard,Leonard,ND,Leonard-ND,North Dakota,38017,Cass,46.6523,-97.2499,228,228,118,polygon,TRUE,America/Chicago,58052
+Wing-ND,1840001927,Wing,Wing,ND,Wing-ND,North Dakota,38015,Burleigh,47.1425,-100.2832,155,155,102,polygon,TRUE,America/Chicago,58494
+Luverne-ND,1840000130,Luverne,Luverne,ND,Luverne-ND,North Dakota,38091,Steele,47.2515,-97.9351,31,31,46,polygon,TRUE,America/Chicago,58056
+West Fargo-ND,1840001935,West Fargo,West Fargo,ND,West Fargo-ND,North Dakota,38017,Cass,46.8565,-96.9048,34858,34858,866,polygon,TRUE,America/Chicago,58078
+Harmon-ND,1840023859,Harmon,Harmon,ND,Harmon-ND,North Dakota,38059,Morton,46.9443,-100.9526,,,15,polygon,FALSE,America/North_Dakota/New_Salem,58554
+Breien-ND,1840033038,Breien,Breien,ND,Breien-ND,North Dakota,38059,Morton,46.38,-100.9424,,,6.9,point,FALSE,America/North_Dakota/New_Salem,58570
+Bowman-ND,1840000257,Bowman,Bowman,ND,Bowman-ND,North Dakota,38011,Bowman,46.1841,-103.3992,1713,1713,399,polygon,TRUE,America/Denver,58623
+Voltaire-ND,1840000061,Voltaire,Voltaire,ND,Voltaire-ND,North Dakota,38049,McHenry,48.0193,-100.8449,42,42,40,polygon,TRUE,America/Chicago,58792
+Alice-ND,1840000169,Alice,Alice,ND,Alice-ND,North Dakota,38017,Cass,46.76,-97.556,40,40,16,polygon,TRUE,America/Chicago,58027 58031
+Drake-ND,1840000063,Drake,Drake,ND,Drake-ND,North Dakota,38049,McHenry,47.9226,-100.3746,288,288,56,polygon,TRUE,America/Chicago,58736
+Sawyer-ND,1840001868,Sawyer,Sawyer,ND,Sawyer-ND,North Dakota,38101,Ward,48.0894,-101.0533,338,338,272,polygon,TRUE,America/Chicago,58781
+Alamo-ND,1840000054,Alamo,Alamo,ND,Alamo-ND,North Dakota,38105,Williams,48.5825,-103.4675,68,68,48,polygon,TRUE,America/Chicago,58830
+Hatton-ND,1840000134,Hatton,Hatton,ND,Hatton-ND,North Dakota,38097,Traill,47.637,-97.4586,765,765,482,polygon,TRUE,America/Chicago,58240
+Lucca-ND,1840033076,Lucca,Lucca,ND,Lucca-ND,North Dakota,38003,Barnes,46.7069,-97.7198,,,9.3,point,FALSE,America/Chicago,58027
+Inkster-ND,1840000102,Inkster,Inkster,ND,Inkster-ND,North Dakota,38035,Grand Forks,48.1515,-97.6442,48,48,18,polygon,TRUE,America/Chicago,58244
+Akra-ND,1840033025,Akra,Akra,ND,Akra-ND,North Dakota,38067,Pembina,48.7753,-97.727,,,10,point,FALSE,America/Chicago,58220
+Cartwright-ND,1840033114,Cartwright,Cartwright,ND,Cartwright-ND,North Dakota,38053,McKenzie,47.8597,-103.9263,,,10.3,point,FALSE,America/Denver,58838
+Egeland-ND,1840000019,Egeland,Egeland,ND,Egeland-ND,North Dakota,38095,Towner,48.6276,-99.0979,28,28,28,polygon,TRUE,America/Chicago,58331
+Ludden-ND,1840000254,Ludden,Ludden,ND,Ludden-ND,North Dakota,38021,Dickey,46.0081,-98.1255,22,22,11,polygon,TRUE,America/Chicago,58474
+Lakewood Park-ND,1840033120,Lakewood Park,Lakewood Park,ND,Lakewood Park-ND,North Dakota,38071,Ramsey,48.0717,-98.9296,,,160,point,FALSE,America/Chicago,58301
+Aneta-ND,1840000094,Aneta,Aneta,ND,Aneta-ND,North Dakota,38063,Nelson,47.6796,-97.9897,207,207,81,polygon,TRUE,America/Chicago,58212
+Pembina-ND,1840000017,Pembina,Pembina,ND,Pembina-ND,North Dakota,38067,Pembina,48.9667,-97.2472,563,563,284,polygon,TRUE,America/Chicago,58271
+Alfred-ND,1840033108,Alfred,Alfred,ND,Alfred-ND,North Dakota,38045,LaMoure,46.603,-98.9993,,,7,point,FALSE,America/Chicago,58454
+McHenry-ND,1840000141,McHenry,McHenry,ND,McHenry-ND,North Dakota,38031,Foster,47.5764,-98.5912,55,55,83,polygon,TRUE,America/Chicago,58464
+Fargo-ND,1840000177,Fargo,Fargo,ND,Fargo-ND,North Dakota,38017,Cass,46.8654,-96.829,202146,120762,952,polygon,TRUE,America/Chicago,58102 58103 58105 58104 58106 58107 58108 58109 58121 58122 58124 58125 58126
+Zeeland-ND,1840001988,Zeeland,Zeeland,ND,Zeeland-ND,North Dakota,38051,McIntosh,45.973,-99.8325,81,81,104,polygon,TRUE,America/Chicago,58581
+New Leipzig-ND,1840000204,New Leipzig,New Leipzig,ND,New Leipzig-ND,North Dakota,38037,Grant,46.3758,-101.9517,219,219,95,polygon,TRUE,America/Denver,58562
+Wishek-ND,1840001987,Wishek,Wishek,ND,Wishek-ND,North Dakota,38051,McIntosh,46.2552,-99.5547,952,952,254,polygon,TRUE,America/Chicago,58495
+Wahpeton-ND,1840000228,Wahpeton,Wahpeton,ND,Wahpeton-ND,North Dakota,38077,Richland,46.2719,-96.6118,11205,7830,571,polygon,TRUE,America/Chicago,58075 58076 58074
+Tuttle-ND,1840001920,Tuttle,Tuttle,ND,Tuttle-ND,North Dakota,38043,Kidder,47.1445,-99.9934,80,80,123,polygon,TRUE,America/Chicago,58488
+Maida-ND,1840033077,Maida,Maida,ND,Maida-ND,North Dakota,38019,Cavalier,48.9986,-98.3648,,,1.6,point,FALSE,America/Winnipeg,58249
+Braddock-ND,1840000205,Braddock,Braddock,ND,Braddock-ND,North Dakota,38029,Emmons,46.5639,-100.0898,20,20,30,polygon,TRUE,America/Chicago,58524
+Bucyrus-ND,1840000241,Bucyrus,Bucyrus,ND,Bucyrus-ND,North Dakota,38001,Adams,46.0648,-102.7884,26,26,28,polygon,TRUE,America/Denver,58639
+Baker-ND,1840033028,Baker,Baker,ND,Baker-ND,North Dakota,38005,Benson,48.1606,-99.6476,,,3.4,point,FALSE,America/Chicago,58386
+Barton-ND,1840023765,Barton,Barton,ND,Barton-ND,North Dakota,38069,Pierce,48.5093,-100.1734,,,13.9,polygon,FALSE,America/Chicago,58384
+Spiritwood Lake-ND,1840001924,Spiritwood Lake,Spiritwood Lake,ND,Spiritwood Lake-ND,North Dakota,38093,Stutsman,47.074,-98.5866,96,96,34,polygon,TRUE,America/Chicago,58401
+Oriska-ND,1840000167,Oriska,Oriska,ND,Oriska-ND,North Dakota,38003,Barnes,46.9315,-97.791,123,123,170,polygon,TRUE,America/Chicago,58063
+Oxbow-ND,1840001933,Oxbow,Oxbow,ND,Oxbow-ND,North Dakota,38017,Cass,46.6675,-96.8067,311,311,116,polygon,TRUE,America/Chicago,58047
+Towner-ND,1840001876,Towner,Towner,ND,Towner-ND,North Dakota,38049,McHenry,48.3471,-100.4069,563,563,267,polygon,TRUE,America/Chicago,58788
+Ellendale-ND,1840000251,Ellendale,Ellendale,ND,Ellendale-ND,North Dakota,38021,Dickey,46.0048,-98.5251,1286,1286,327,polygon,TRUE,America/Chicago,58436
+Wyndmere-ND,1840001948,Wyndmere,Wyndmere,ND,Wyndmere-ND,North Dakota,38077,Richland,46.264,-97.1309,418,418,182,polygon,TRUE,America/Chicago,58081
+Taylor-ND,1840001939,Taylor,Taylor,ND,Taylor-ND,North Dakota,38089,Stark,46.9018,-102.4222,170,170,131,polygon,TRUE,America/Denver,58656
+Jud-ND,1840000217,Jud,Jud,ND,Jud-ND,North Dakota,38045,LaMoure,46.5259,-98.8978,72,72,111,polygon,TRUE,America/Chicago,58454
+Epping-ND,1840000055,Epping,Epping,ND,Epping-ND,North Dakota,38105,Williams,48.2817,-103.3578,112,112,115,polygon,TRUE,America/Chicago,58843
+Fordville-ND,1840000079,Fordville,Fordville,ND,Fordville-ND,North Dakota,38099,Walsh,48.2166,-97.7956,204,204,78,polygon,TRUE,America/Chicago,58231
+Kelvin-ND,1840033112,Kelvin,Kelvin,ND,Kelvin-ND,North Dakota,38079,Rolette,48.9372,-100.051,,,1.2,point,FALSE,America/Chicago,58329
+McClusky-ND,1840000122,McClusky,McClusky,ND,McClusky-ND,North Dakota,38083,Sheridan,47.484,-100.4428,378,378,376,polygon,TRUE,America/Chicago,58463
+Rock Lake-ND,1840033124,Rock Lake,Rock Lake,ND,Rock Lake-ND,North Dakota,38095,Towner,48.7903,-99.2462,,,123.5,point,TRUE,America/Chicago,58365
+Linton-ND,1840000208,Linton,Linton,ND,Linton-ND,North Dakota,38029,Emmons,46.2685,-100.2334,1022,1022,528,polygon,TRUE,America/Chicago,58552
+Fairfield-ND,1840033115,Fairfield,Fairfield,ND,Fairfield-ND,North Dakota,38007,Billings,47.1895,-103.2221,,,5.5,point,FALSE,America/Denver,58627
+Cashel-ND,1840033043,Cashel,Cashel,ND,Cashel-ND,North Dakota,38099,Walsh,48.4847,-97.2987,,,1.5,point,FALSE,America/Chicago,58225
+Mantador-ND,1840000234,Mantador,Mantador,ND,Mantador-ND,North Dakota,38077,Richland,46.1657,-96.978,64,64,179,polygon,TRUE,America/Chicago,58058
+Hazelton-ND,1840000207,Hazelton,Hazelton,ND,Hazelton-ND,North Dakota,38029,Emmons,46.4854,-100.2807,221,221,237,polygon,TRUE,America/Chicago,58544
+Finley-ND,1840000128,Finley,Finley,ND,Finley-ND,North Dakota,38091,Steele,47.5125,-97.8373,437,437,48,polygon,TRUE,America/Chicago,58230
+Saint Anthony-ND,1840033090,Saint Anthony,Saint Anthony,ND,Saint Anthony-ND,North Dakota,38059,Morton,46.6169,-100.9132,,,9.2,point,FALSE,America/North_Dakota/New_Salem,58566
+Denbigh-ND,1840033051,Denbigh,Denbigh,ND,Denbigh-ND,North Dakota,38049,McHenry,48.3153,-100.5871,,,6.4,point,FALSE,America/Chicago,58788
+Lankin-ND,1840000083,Lankin,Lankin,ND,Lankin-ND,North Dakota,38099,Walsh,48.3146,-97.9213,95,95,106,polygon,TRUE,America/Chicago,58250
+Sutton-ND,1840023808,Sutton,Sutton,ND,Sutton-ND,North Dakota,38039,Griggs,47.4038,-98.4411,,,24.5,polygon,FALSE,America/Chicago,58484
+Ambrose-ND,1840000033,Ambrose,Ambrose,ND,Ambrose-ND,North Dakota,38023,Divide,48.956,-103.481,26,26,9,polygon,TRUE,America/Chicago,58833
+Hannover-ND,1840033063,Hannover,Hannover,ND,Hannover-ND,North Dakota,38065,Oliver,47.1114,-101.4265,,,3.6,point,FALSE,America/North_Dakota/Center,58563
+Tokio-ND,1840033099,Tokio,Tokio,ND,Tokio-ND,North Dakota,38005,Benson,47.9247,-98.8162,,,15.7,point,FALSE,America/Chicago,58379
+Devils Lake-ND,1840033052,Devils Lake,Devils Lake,ND,Devils Lake-ND,North Dakota,38071,Ramsey,48.1122,-98.876,,,5.6,point,TRUE,America/Chicago,58301
+Horace-ND,1840000182,Horace,Horace,ND,Horace-ND,North Dakota,38017,Cass,46.7558,-96.9072,2652,2652,93,polygon,TRUE,America/Chicago,58047
+Brocket-ND,1840000071,Brocket,Brocket,ND,Brocket-ND,North Dakota,38071,Ramsey,48.2106,-98.3555,55,55,27,polygon,TRUE,America/Chicago,58321
+McGregor-ND,1840033079,McGregor,McGregor,ND,McGregor-ND,North Dakota,38105,Williams,48.5953,-102.9282,,,39.4,point,FALSE,America/Chicago,58755
+Edgeley-ND,1840000216,Edgeley,Edgeley,ND,Edgeley-ND,North Dakota,38045,LaMoure,46.3624,-98.7124,550,550,281,polygon,TRUE,America/Chicago,58433
+Bordulac-ND,1840033034,Bordulac,Bordulac,ND,Bordulac-ND,North Dakota,38031,Foster,47.3878,-98.964,,,24,point,FALSE,America/Chicago,58421
+Sanborn-ND,1840001931,Sanborn,Sanborn,ND,Sanborn-ND,North Dakota,38003,Barnes,46.9422,-98.2239,188,188,133,polygon,TRUE,America/Chicago,58480
+Milnor-ND,1840000248,Milnor,Milnor,ND,Milnor-ND,North Dakota,38081,Sargent,46.2609,-97.4573,644,644,264,polygon,TRUE,America/Chicago,58060
+Haley-ND,1840033062,Haley,Haley,ND,Haley-ND,North Dakota,38011,Bowman,45.9614,-103.1193,,,2.3,point,FALSE,America/Denver,58653
+Hebron-ND,1840000198,Hebron,Hebron,ND,Hebron-ND,North Dakota,38059,Morton,46.9023,-102.0442,692,692,179,polygon,TRUE,America/North_Dakota/New_Salem,58638
+Crosby-ND,1840000034,Crosby,Crosby,ND,Crosby-ND,North Dakota,38023,Divide,48.9164,-103.2969,1406,1406,395,polygon,TRUE,America/Chicago,58730
+Crary-ND,1840000072,Crary,Crary,ND,Crary-ND,North Dakota,38071,Ramsey,48.0719,-98.6387,141,141,61,polygon,TRUE,America/Chicago,58327
+Colgate-ND,1840033047,Colgate,Colgate,ND,Colgate-ND,North Dakota,38091,Steele,47.2447,-97.6565,,,18.1,point,FALSE,America/Chicago,58046
+Jessie-ND,1840023807,Jessie,Jessie,ND,Jessie-ND,North Dakota,38039,Griggs,47.5402,-98.2291,,,21.2,polygon,FALSE,America/Chicago,58452
+Minto-ND,1840000084,Minto,Minto,ND,Minto-ND,North Dakota,38099,Walsh,48.2924,-97.373,610,610,166,polygon,TRUE,America/Chicago,58261
+North River-ND,1840000187,North River,North River,ND,North River-ND,North Dakota,38017,Cass,46.9503,-96.8019,55,55,376,polygon,TRUE,America/Chicago,58102
+Glenburn-ND,1840000042,Glenburn,Glenburn,ND,Glenburn-ND,North Dakota,38075,Renville,48.5134,-101.2212,462,462,668,polygon,TRUE,America/Chicago,58740
+Carson-ND,1840000201,Carson,Carson,ND,Carson-ND,North Dakota,38037,Grant,46.4223,-101.5706,288,288,27,polygon,TRUE,America/Denver,58529
+Willow City-ND,1840001854,Willow City,Willow City,ND,Willow City-ND,North Dakota,38009,Bottineau,48.6044,-100.2934,164,164,139,polygon,TRUE,America/Chicago,58384
+McKenzie-ND,1840033080,McKenzie,McKenzie,ND,McKenzie-ND,North Dakota,38015,Burleigh,46.8242,-100.4134,,,32.4,point,FALSE,America/Chicago,58558
+Marmarth-ND,1840000213,Marmarth,Marmarth,ND,Marmarth-ND,North Dakota,38087,Slope,46.2961,-103.9332,144,144,22,polygon,TRUE,America/Denver,58643
+Hillsboro-ND,1840000135,Hillsboro,Hillsboro,ND,Hillsboro-ND,North Dakota,38097,Traill,47.403,-97.0633,1586,1586,559,polygon,TRUE,America/Chicago,58045
+Wimbledon-ND,1840001929,Wimbledon,Wimbledon,ND,Wimbledon-ND,North Dakota,38003,Barnes,47.1696,-98.4587,209,209,151,polygon,TRUE,America/Chicago,58492
+Adams-ND,1840001886,Adams,Adams,ND,Adams-ND,North Dakota,38099,Walsh,48.4202,-98.0737,124,124,47,polygon,TRUE,America/Chicago,58210
+Zahl-ND,1840033107,Zahl,Zahl,ND,Zahl-ND,North Dakota,38105,Williams,48.5734,-103.6921,,,6.9,point,FALSE,America/Chicago,58856
+Mayville-ND,1840000136,Mayville,Mayville,ND,Mayville-ND,North Dakota,38097,Traill,47.498,-97.3261,1830,1830,368,polygon,TRUE,America/Chicago,58257
+Hazen-ND,1840000143,Hazen,Hazen,ND,Hazen-ND,North Dakota,38057,Mercer,47.2995,-101.626,2422,2422,721,polygon,TRUE,America/North_Dakota/Beulah,58545
+Courtenay-ND,1840001923,Courtenay,Courtenay,ND,Courtenay-ND,North Dakota,38093,Stutsman,47.2242,-98.5686,44,44,38,polygon,TRUE,America/Chicago,58426
+Northgate-ND,1840033086,Northgate,Northgate,ND,Northgate-ND,North Dakota,38013,Burke,48.9909,-102.2621,,,3.9,point,FALSE,America/Chicago,58737
+Dahlen-ND,1840023778,Dahlen,Dahlen,ND,Dahlen-ND,North Dakota,38063,Nelson,48.1588,-97.932,,,29.6,polygon,FALSE,America/Chicago,58224
+Dazey-ND,1840000161,Dazey,Dazey,ND,Dazey-ND,North Dakota,38003,Barnes,47.1883,-98.2007,101,101,103,polygon,TRUE,America/Chicago,58429
+Milton-ND,1840000029,Milton,Milton,ND,Milton-ND,North Dakota,38019,Cavalier,48.6264,-98.0459,55,55,41,polygon,TRUE,America/Chicago,58260
+Walcott-ND,1840001951,Walcott,Walcott,ND,Walcott-ND,North Dakota,38077,Richland,46.5505,-96.9375,236,236,89,polygon,TRUE,America/Chicago,58077
+Temvik-ND,1840033098,Temvik,Temvik,ND,Temvik-ND,North Dakota,38029,Emmons,46.3697,-100.2584,,,1,point,FALSE,America/Chicago,58552
+Drayton-ND,1840000013,Drayton,Drayton,ND,Drayton-ND,North Dakota,38067,Pembina,48.5622,-97.1792,781,781,461,polygon,TRUE,America/Chicago,58225
+Gardena-ND,1840000004,Gardena,Gardena,ND,Gardena-ND,North Dakota,38009,Bottineau,48.7013,-100.4985,29,29,33,polygon,TRUE,America/Chicago,58318 58748
+Pekin-ND,1840000097,Pekin,Pekin,ND,Pekin-ND,North Dakota,38063,Nelson,47.7919,-98.3278,66,66,101,polygon,TRUE,America/Chicago,58361
+Kulm-ND,1840000218,Kulm,Kulm,ND,Kulm-ND,North Dakota,38045,LaMoure,46.3022,-98.9466,343,343,344,polygon,TRUE,America/Chicago,58456
+Riverdale-ND,1840000114,Riverdale,Riverdale,ND,Riverdale-ND,North Dakota,38055,McLean,47.497,-101.3654,228,228,65,polygon,TRUE,America/Chicago,58531 58565
+Page-ND,1840000188,Page,Page,ND,Page-ND,North Dakota,38017,Cass,47.1592,-97.5681,239,239,91,polygon,TRUE,America/Chicago,58064
+Monango-ND,1840000255,Monango,Monango,ND,Monango-ND,North Dakota,38021,Dickey,46.1734,-98.5952,35,35,36,polygon,TRUE,America/Chicago,58436
+Fairmount-ND,1840000230,Fairmount,Fairmount,ND,Fairmount-ND,North Dakota,38077,Richland,46.0545,-96.6027,365,365,438,polygon,TRUE,America/Chicago,58030
+Grace City-ND,1840000140,Grace City,Grace City,ND,Grace City-ND,North Dakota,38031,Foster,47.5528,-98.8042,62,62,59,polygon,TRUE,America/Chicago,58445
+Reynolds-ND,1840000107,Reynolds,Reynolds,ND,Reynolds-ND,North Dakota,38097,Traill,47.6701,-97.1089,300,300,171,polygon,TRUE,America/Chicago,58275
+Belfield-ND,1840001937,Belfield,Belfield,ND,Belfield-ND,North Dakota,38089,Stark,46.8861,-103.1986,1013,1013,362,polygon,TRUE,America/Denver,58622
+Mott-ND,1840000221,Mott,Mott,ND,Mott-ND,North Dakota,38041,Hettinger,46.3741,-102.3198,773,773,332,polygon,TRUE,America/Denver,58646
+Crete-ND,1840033050,Crete,Crete,ND,Crete-ND,North Dakota,38081,Sargent,46.2002,-97.9629,,,8.1,point,FALSE,America/Chicago,58040
+Park River-ND,1840000085,Park River,Park River,ND,Park River-ND,North Dakota,38099,Walsh,48.3936,-97.7443,1373,1373,244,polygon,TRUE,America/Chicago,58270
+Coteau-ND,1840033048,Coteau,Coteau,ND,Coteau-ND,North Dakota,38013,Burke,48.7567,-102.3191,,,33.5,point,FALSE,America/Chicago,58721

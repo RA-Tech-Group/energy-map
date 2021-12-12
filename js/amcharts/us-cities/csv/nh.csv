@@ -1,0 +1,102 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+New London-NH,1840026155,New London,New London,NH,New London-NH,New Hampshire,33013,Merrimack,43.4139,-71.9844,,,281.5,polygon,FALSE,America/New_York,3257
+Peterborough-NH,1840002990,Peterborough,Peterborough,NH,Peterborough-NH,New Hampshire,33011,Hillsborough,42.879,-71.9593,,,380,polygon,FALSE,America/New_York,3458
+Union-NH,1840026137,Union,Union,NH,Union-NH,New Hampshire,33003,Carroll,43.4913,-71.0233,,,135.3,polygon,FALSE,America/New_York,3887
+Walpole-NH,1840026183,Walpole,Walpole,NH,Walpole-NH,New Hampshire,33005,Cheshire,43.0792,-72.4236,,,421.7,polygon,FALSE,America/New_York,3608
+Enfield-NH,1840002194,Enfield,Enfield,NH,Enfield-NH,New Hampshire,33009,Grafton,43.6448,-72.148,,,608.6,polygon,FALSE,America/New_York,3748
+Suncook-NH,1840002804,Suncook,Suncook,NH,Suncook-NH,New Hampshire,33013,Merrimack,43.1382,-71.4528,,,2002.5,polygon,FALSE,America/New_York,3275
+Sanbornville-NH,1840026135,Sanbornville,Sanbornville,NH,Sanbornville-NH,New Hampshire,33003,Carroll,43.5524,-71.03,,,418,polygon,FALSE,America/New_York,3872
+Blodgett Landing-NH,1840026152,Blodgett Landing,Blodgett Landing,NH,Blodgett Landing-NH,New Hampshire,33013,Merrimack,43.3757,-72.0392,,,264.6,polygon,FALSE,America/New_York,3255
+Milford-NH,1840002989,Milford,Milford,NH,Milford-NH,New Hampshire,33011,Hillsborough,42.8327,-71.6612,,,1667.5,polygon,FALSE,America/New_York,3055
+Marlborough-NH,1840003053,Marlborough,Marlborough,NH,Marlborough-NH,New Hampshire,33005,Cheshire,42.905,-72.2116,,,378.4,polygon,FALSE,America/New_York,3455
+Contoocook-NH,1840002749,Contoocook,Contoocook,NH,Contoocook-NH,New Hampshire,33013,Merrimack,43.2232,-71.7129,,,483.6,polygon,FALSE,America/New_York,3229
+Newfields-NH,1840026175,Newfields,Newfields,NH,Newfields-NH,New Hampshire,33015,Rockingham,43.0354,-70.9391,,,355.1,polygon,FALSE,America/New_York,3856
+Pinardville-NH,1840002991,Pinardville,Pinardville,NH,Pinardville-NH,New Hampshire,33011,Hillsborough,43.001,-71.5171,,,1253.4,polygon,FALSE,America/New_York,03045 03102
+North Sutton-NH,1840033206,North Sutton,North Sutton,NH,North Sutton-NH,New Hampshire,33013,Merrimack,43.364,-71.9395,,,80.8,point,FALSE,America/New_York,3260
+Exeter-NH,1840002935,Exeter,Exeter,NH,Exeter-NH,New Hampshire,33015,Rockingham,42.9776,-70.9466,,,1382.2,polygon,FALSE,America/New_York,3833
+South Hooksett-NH,1840002803,South Hooksett,South Hooksett,NH,South Hooksett-NH,New Hampshire,33013,Merrimack,43.0337,-71.4254,,,910.1,polygon,FALSE,America/New_York,3106
+Center Sandwich-NH,1840026133,Center Sandwich,Center Sandwich,NH,Center Sandwich-NH,New Hampshire,33003,Carroll,43.8085,-71.4396,,,52.7,polygon,FALSE,America/New_York,3227
+Hancock-NH,1840026180,Hancock,Hancock,NH,Hancock-NH,New Hampshire,33011,Hillsborough,42.974,-71.9807,,,213.7,polygon,FALSE,America/New_York,3449
+Antrim-NH,1840002985,Antrim,Antrim,NH,Antrim-NH,New Hampshire,33011,Hillsborough,43.0379,-71.946,,,569.4,polygon,FALSE,America/New_York,3440
+Newport-NH,1840002807,Newport,Newport,NH,Newport-NH,New Hampshire,33019,Sullivan,43.367,-72.1766,,,1169,polygon,FALSE,America/New_York,3773
+West Stewartstown-NH,1840026108,West Stewartstown,West Stewartstown,NH,West Stewartstown-NH,New Hampshire,33007,Coos,44.9906,-71.5309,,,360.4,polygon,FALSE,America/New_York,3597
+Keene-NH,1840003050,Keene,Keene,NH,Keene-NH,New Hampshire,33005,Cheshire,42.9496,-72.2997,22507,23406,242,polygon,TRUE,America/New_York,03431 03435
+Georges Mills-NH,1840033203,Georges Mills,Georges Mills,NH,Georges Mills-NH,New Hampshire,33019,Sullivan,43.4317,-72.0673,,,224,point,FALSE,America/New_York,3751
+Concord-NH,1840002747,Concord,Concord,NH,Concord-NH,New Hampshire,33013,Merrimack,43.2307,-71.5595,42821,42904,257,polygon,TRUE,America/New_York,03303 03301 03302 03305
+Belmont-NH,1840026148,Belmont,Belmont,NH,Belmont-NH,New Hampshire,33001,Belknap,43.443,-71.478,,,517.2,polygon,FALSE,America/New_York,3220
+Twin Mountain-NH,1840033208,Twin Mountain,Twin Mountain,NH,Twin Mountain-NH,New Hampshire,33007,Coos,44.2723,-71.539,,,20.7,point,FALSE,America/New_York,3595
+Durham-NH,1840002811,Durham,Durham,NH,Durham-NH,New Hampshire,33017,Strafford,43.1413,-70.9228,,,6317.6,polygon,FALSE,America/New_York,3824
+Manchester-NH,1840002983,Manchester,Manchester,NH,Manchester-NH,New Hampshire,33011,Hillsborough,42.9844,-71.4445,159744,110506,1288,polygon,TRUE,America/New_York,03109 03104 03101 03103 03102 03105 03108 03111
+Glen-NH,1840033210,Glen,Glen,NH,Glen-NH,New Hampshire,33003,Carroll,44.1101,-71.1826,,,42.6,point,FALSE,America/New_York,3838
+North Haverhill-NH,1840033204,North Haverhill,North Haverhill,NH,North Haverhill-NH,New Hampshire,33009,Grafton,44.0938,-72.0272,,,155.1,polygon,FALSE,America/New_York,3774
+Rochester-NH,1840002809,Rochester,Rochester,NH,Rochester-NH,New Hampshire,33017,Strafford,43.2991,-70.9791,30345,30345,258,polygon,TRUE,America/New_York,03839 03868 03867 03866
+Winchester-NH,1840003055,Winchester,Winchester,NH,Winchester-NH,New Hampshire,33005,Cheshire,42.777,-72.3851,,,384.5,polygon,FALSE,America/New_York,3470
+Wilton-NH,1840002992,Wilton,Wilton,NH,Wilton-NH,New Hampshire,33011,Hillsborough,42.847,-71.7359,,,649.7,polygon,FALSE,America/New_York,03055 03086
+Bennington-NH,1840026178,Bennington,Bennington,NH,Bennington-NH,New Hampshire,33011,Hillsborough,43.0035,-71.9207,,,342.7,polygon,FALSE,America/New_York,3442
+Melvin Village-NH,1840026134,Melvin Village,Melvin Village,NH,Melvin Village-NH,New Hampshire,33003,Carroll,43.6894,-71.3033,,,169.7,polygon,FALSE,America/New_York,3850
+Pittsfield-NH,1840002802,Pittsfield,Pittsfield,NH,Pittsfield-NH,New Hampshire,33013,Merrimack,43.3001,-71.3314,,,784.7,polygon,FALSE,America/New_York,3263
+Wolfeboro-NH,1840002223,Wolfeboro,Wolfeboro,NH,Wolfeboro-NH,New Hampshire,33003,Carroll,43.5913,-71.2092,,,454.6,polygon,FALSE,America/New_York,3894
+Claremont-NH,1840002805,Claremont,Claremont,NH,Claremont-NH,New Hampshire,33019,Sullivan,43.379,-72.3368,9312,12957,116,polygon,TRUE,America/New_York,3743
+Troy-NH,1840026182,Troy,Troy,NH,Troy-NH,New Hampshire,33005,Cheshire,42.8258,-72.1828,,,454.4,polygon,FALSE,America/New_York,3465
+East Merrimack-NH,1840033211,East Merrimack,East Merrimack,NH,East Merrimack-NH,New Hampshire,33011,Hillsborough,42.8669,-71.484,,,682.3,polygon,FALSE,America/New_York,3054
+Berlin-NH,1840002100,Berlin,Berlin,NH,Berlin-NH,New Hampshire,33007,Coos,44.4871,-71.2601,11560,10413,65,polygon,TRUE,America/New_York,3570
+Newmarket-NH,1840002938,Newmarket,Newmarket,NH,Newmarket-NH,New Hampshire,33015,Rockingham,43.0754,-70.9392,,,2345.5,polygon,FALSE,America/New_York,3857
+Milton Mills-NH,1840026159,Milton Mills,Milton Mills,NH,Milton Mills-NH,New Hampshire,33017,Strafford,43.5037,-70.9654,,,243.9,polygon,FALSE,America/New_York,3852
+Hooksett-NH,1840002801,Hooksett,Hooksett,NH,Hooksett-NH,New Hampshire,33013,Merrimack,43.0942,-71.4571,,,520.2,polygon,FALSE,America/New_York,3106
+North Conway-NH,1840002222,North Conway,North Conway,NH,North Conway-NH,New Hampshire,33003,Carroll,44.0525,-71.1248,,,337.6,polygon,FALSE,America/New_York,03860 03847
+Hinsdale-NH,1840003051,Hinsdale,Hinsdale,NH,Hinsdale-NH,New Hampshire,33005,Cheshire,42.7888,-72.4888,,,727.4,polygon,FALSE,America/New_York,3451
+Warner-NH,1840026156,Warner,Warner,NH,Warner-NH,New Hampshire,33013,Merrimack,43.2843,-71.824,,,177.5,polygon,FALSE,America/New_York,3278
+Portsmouth-NH,1840002932,Portsmouth,Portsmouth,NH,Portsmouth-NH,New Hampshire,33015,Rockingham,43.058,-70.7826,91193,21485,530,polygon,TRUE,America/New_York,03801 03802 03803 03804
+Groveton-NH,1840002102,Groveton,Groveton,NH,Groveton-NH,New Hampshire,33007,Coos,44.6048,-71.5201,,,516.6,polygon,FALSE,America/New_York,3582
+Londonderry-NH,1840002937,Londonderry,Londonderry,NH,Londonderry-NH,New Hampshire,33015,Rockingham,42.8508,-71.3617,,,463.4,polygon,FALSE,America/New_York,3053
+Epping-NH,1840002934,Epping,Epping,NH,Epping-NH,New Hampshire,33015,Rockingham,43.0345,-71.0902,,,618.8,polygon,FALSE,America/New_York,3042
+Whitefield-NH,1840002104,Whitefield,Whitefield,NH,Whitefield-NH,New Hampshire,33007,Coos,44.3715,-71.6104,,,579,polygon,FALSE,America/New_York,3598
+Amherst-NH,1840026177,Amherst,Amherst,NH,Amherst-NH,New Hampshire,33011,Hillsborough,42.8637,-71.6239,,,476.2,polygon,FALSE,America/New_York,3031
+Derry-NH,1840002933,Derry,Derry,NH,Derry-NH,New Hampshire,33015,Rockingham,42.8942,-71.2845,,,2202.5,polygon,FALSE,America/New_York,03038 03041
+Greenville-NH,1840002986,Greenville,Greenville,NH,Greenville-NH,New Hampshire,33011,Hillsborough,42.7728,-71.8013,,,746.1,polygon,FALSE,America/New_York,3048
+Center Ossipee-NH,1840026132,Center Ossipee,Center Ossipee,NH,Center Ossipee-NH,New Hampshire,33003,Carroll,43.7543,-71.1514,,,318.6,polygon,FALSE,America/New_York,3814
+Hampton Beach-NH,1840026174,Hampton Beach,Hampton Beach,NH,Hampton Beach-NH,New Hampshire,33015,Rockingham,42.9142,-70.8128,,,1990.4,polygon,FALSE,America/New_York,3842
+Somersworth-NH,1840002810,Somersworth,Somersworth,NH,Somersworth-NH,New Hampshire,33017,Strafford,43.2534,-70.8856,11791,11791,465,polygon,TRUE,America/New_York,3878
+Winona-NH,1840033209,Winona,Winona,NH,Winona-NH,New Hampshire,33001,Belknap,43.6662,-71.5581,,,33.1,point,FALSE,America/New_York,3256
+Littleton-NH,1840002197,Littleton,Littleton,NH,Littleton-NH,New Hampshire,33009,Grafton,44.3211,-71.7637,,,1160,polygon,FALSE,America/New_York,3561
+Bartlett-NH,1840026131,Bartlett,Bartlett,NH,Bartlett-NH,New Hampshire,33003,Carroll,44.0734,-71.282,,,166.9,polygon,FALSE,America/New_York,3812
+Colebrook-NH,1840026107,Colebrook,Colebrook,NH,Colebrook-NH,New Hampshire,33007,Coos,44.8945,-71.4952,,,639.7,polygon,FALSE,America/New_York,3576
+Dover-NH,1840002808,Dover,Dover,NH,Dover-NH,New Hampshire,33017,Strafford,43.1887,-70.8845,91514,31153,450,polygon,TRUE,America/New_York,03820 03821 03822
+Bradford-NH,1840026153,Bradford,Bradford,NH,Bradford-NH,New Hampshire,33013,Merrimack,43.2716,-71.9628,,,242,polygon,FALSE,America/New_York,3221
+Lincoln-NH,1840026128,Lincoln,Lincoln,NH,Lincoln-NH,New Hampshire,33009,Grafton,44.0555,-71.6706,,,501.5,polygon,FALSE,America/New_York,3251
+Meredith-NH,1840002684,Meredith,Meredith,NH,Meredith-NH,New Hampshire,33001,Belknap,43.6581,-71.5044,,,752.3,polygon,FALSE,America/New_York,3253
+Laconia-NH,1840002683,Laconia,Laconia,NH,Laconia-NH,New Hampshire,33001,Belknap,43.5727,-71.4777,19241,16470,320,polygon,TRUE,America/New_York,03246 03247
+New Hampton-NH,1840026149,New Hampton,New Hampton,NH,New Hampton-NH,New Hampshire,33001,Belknap,43.6096,-71.6509,,,201.8,polygon,FALSE,America/New_York,3256
+Franklin-NH,1840002748,Franklin,Franklin,NH,Franklin-NH,New Hampshire,33013,Merrimack,43.45,-71.6689,9547,8447,119,polygon,TRUE,America/New_York,3235
+Charlestown-NH,1840002806,Charlestown,Charlestown,NH,Charlestown-NH,New Hampshire,33019,Sullivan,43.2366,-72.4242,,,700,polygon,FALSE,America/New_York,3603
+Conway-NH,1840002221,Conway,Conway,NH,Conway-NH,New Hampshire,33003,Carroll,43.9846,-71.1182,,,732.3,polygon,FALSE,America/New_York,03860 03813 03818
+North Woodstock-NH,1840026130,North Woodstock,North Woodstock,NH,North Woodstock-NH,New Hampshire,33009,Grafton,44.0364,-71.6895,,,473.3,polygon,FALSE,America/New_York,3262
+Lebanon-NH,1840002192,Lebanon,Lebanon,NH,Lebanon-NH,New Hampshire,33009,Grafton,43.6353,-72.2531,26396,13513,129,polygon,TRUE,America/New_York,03766 03784 03756
+Canaan-NH,1840026127,Canaan,Canaan,NH,Canaan-NH,New Hampshire,33009,Grafton,43.6503,-72.0159,,,373.5,polygon,FALSE,America/New_York,3741
+Seabrook Beach-NH,1840026176,Seabrook Beach,Seabrook Beach,NH,Seabrook Beach-NH,New Hampshire,33015,Rockingham,42.8852,-70.8236,,,1472.8,polygon,FALSE,America/New_York,3874
+Bethlehem-NH,1840026126,Bethlehem,Bethlehem,NH,Bethlehem-NH,New Hampshire,33009,Grafton,44.2792,-71.6881,,,475.7,polygon,FALSE,America/New_York,3574
+Lancaster-NH,1840002103,Lancaster,Lancaster,NH,Lancaster-NH,New Hampshire,33007,Coos,44.4894,-71.575,,,1005.7,polygon,FALSE,America/New_York,3584
+Farmington-NH,1840002812,Farmington,Farmington,NH,Farmington-NH,New Hampshire,33017,Strafford,43.3999,-71.0727,,,1181.2,polygon,FALSE,America/New_York,3835
+Hudson-NH,1840002988,Hudson,Hudson,NH,Hudson-NH,New Hampshire,33011,Hillsborough,42.7639,-71.4314,,,1317.9,polygon,FALSE,America/New_York,3051
+North Walpole-NH,1840026181,North Walpole,North Walpole,NH,North Walpole-NH,New Hampshire,33005,Cheshire,43.1469,-72.4459,,,1372,polygon,FALSE,America/New_York,3609
+Henniker-NH,1840002750,Henniker,Henniker,NH,Henniker-NH,New Hampshire,33013,Merrimack,43.1815,-71.8188,,,1172.8,polygon,FALSE,America/New_York,3242
+Plainfield-NH,1840026157,Plainfield,Plainfield,NH,Plainfield-NH,New Hampshire,33019,Sullivan,43.5343,-72.3536,,,122.8,polygon,FALSE,America/New_York,3781
+Goffstown-NH,1840026179,Goffstown,Goffstown,NH,Goffstown-NH,New Hampshire,33011,Hillsborough,43.0212,-71.5993,,,1006.4,polygon,FALSE,America/New_York,3045
+Loudon-NH,1840026154,Loudon,Loudon,NH,Loudon-NH,New Hampshire,33013,Merrimack,43.2828,-71.4647,,,172.4,polygon,FALSE,America/New_York,3307
+Jaffrey-NH,1840003052,Jaffrey,Jaffrey,NH,Jaffrey-NH,New Hampshire,33005,Cheshire,42.8125,-72.0237,,,1060.8,polygon,FALSE,America/New_York,3452
+West Swanzey-NH,1840003054,West Swanzey,West Swanzey,NH,West Swanzey-NH,New Hampshire,33005,Cheshire,42.871,-72.3225,,,326.7,polygon,FALSE,America/New_York,03446 03469
+Raymond-NH,1840002939,Raymond,Raymond,NH,Raymond-NH,New Hampshire,33015,Rockingham,43.0333,-71.1714,,,534.9,polygon,FALSE,America/New_York,3077
+Alton-NH,1840026147,Alton,Alton,NH,Alton-NH,New Hampshire,33001,Belknap,43.4565,-71.2217,,,482.3,polygon,FALSE,America/New_York,3809
+Milton-NH,1840026158,Milton,Milton,NH,Milton-NH,New Hampshire,33017,Strafford,43.4036,-70.9899,,,508.4,polygon,FALSE,America/New_York,3851
+Hanover-NH,1840002195,Hanover,Hanover,NH,Hanover-NH,New Hampshire,33009,Grafton,43.7068,-72.2774,,,4271.9,polygon,FALSE,America/New_York,3755
+Woodsville-NH,1840002199,Woodsville,Woodsville,NH,Woodsville-NH,New Hampshire,33009,Grafton,44.1452,-72.0287,,,764.2,polygon,FALSE,America/New_York,3785
+Plymouth-NH,1840002198,Plymouth,Plymouth,NH,Plymouth-NH,New Hampshire,33009,Grafton,43.7413,-71.6935,,,2157,polygon,FALSE,America/New_York,3264
+Bristol-NH,1840002193,Bristol,Bristol,NH,Bristol-NH,New Hampshire,33009,Grafton,43.6005,-71.7404,,,643.9,polygon,FALSE,America/New_York,3222
+Ashland-NH,1840026125,Ashland,Ashland,NH,Ashland-NH,New Hampshire,33009,Grafton,43.6961,-71.6335,,,826.7,polygon,FALSE,America/New_York,3217
+North Stratford-NH,1840033205,North Stratford,North Stratford,NH,North Stratford-NH,New Hampshire,33007,Coos,44.7517,-71.6287,,,63,point,FALSE,America/New_York,3590
+Hampton-NH,1840002936,Hampton,Hampton,NH,Hampton-NH,New Hampshire,33015,Rockingham,42.9428,-70.8261,,,915.1,polygon,FALSE,America/New_York,03842 03843
+Nashua-NH,1840002984,Nashua,Nashua,NH,Nashua-NH,New Hampshire,33011,Hillsborough,42.7492,-71.491,230061,87882,1099,polygon,TRUE,America/New_York,03062 03063 03060 03064 03061
+Mountain Lakes-NH,1840026129,Mountain Lakes,Mountain Lakes,NH,Mountain Lakes-NH,New Hampshire,33009,Grafton,44.1206,-71.958,,,111.9,polygon,FALSE,America/New_York,03774 03785
+Lisbon-NH,1840002196,Lisbon,Lisbon,NH,Lisbon-NH,New Hampshire,33009,Grafton,44.2125,-71.9087,,,674.6,polygon,FALSE,America/New_York,3585
+Rye Beach-NH,1840033207,Rye Beach,Rye Beach,NH,Rye Beach-NH,New Hampshire,33015,Rockingham,42.9768,-70.7656,,,239.9,point,FALSE,America/New_York,3870
+Gorham-NH,1840002101,Gorham,Gorham,NH,Gorham-NH,New Hampshire,33007,Coos,44.3922,-71.1851,,,774.9,polygon,FALSE,America/New_York,3581

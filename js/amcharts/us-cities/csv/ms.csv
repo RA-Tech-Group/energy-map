@@ -1,0 +1,643 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Holmesville-MS,1840032337,Holmesville,Holmesville,MS,Holmesville-MS,Mississippi,28113,Pike,31.2035,-90.3087,,,12.6,point,FALSE,America/Chicago,39648
+Leaf-MS,1840032531,Leaf,Leaf,MS,Leaf-MS,Mississippi,28041,Greene,31.0257,-88.7956,,,24.6,point,FALSE,America/Chicago,39456
+Metcalfe-MS,1840016858,Metcalfe,Metcalfe,MS,Metcalfe-MS,Mississippi,28151,Washington,33.4505,-91.0018,1008,1008,388,polygon,TRUE,America/Chicago,38760 38703
+Meadville-MS,1840017092,Meadville,Meadville,MS,Meadville-MS,Mississippi,28037,Franklin,31.4721,-90.893,432,432,151,polygon,TRUE,America/Chicago,39653
+Dundee-MS,1840032308,Dundee,Dundee,MS,Dundee-MS,Mississippi,28143,Tunica,34.5243,-90.4557,,,31.6,point,FALSE,America/Chicago,38626
+Bolivar-MS,1840032284,Bolivar,Bolivar,MS,Bolivar-MS,Mississippi,28011,Bolivar,33.6598,-91.0532,,,71,point,FALSE,America/Chicago,38725
+Crandall-MS,1840032296,Crandall,Crandall,MS,Crandall-MS,Mississippi,28023,Clarke,31.9746,-88.5323,,,9.9,point,FALSE,America/Chicago,39355
+Bailey-MS,1840032267,Bailey,Bailey,MS,Bailey-MS,Mississippi,28075,Lauderdale,32.4676,-88.7228,,,34.8,point,FALSE,America/Chicago,39320
+Harperville-MS,1840032525,Harperville,Harperville,MS,Harperville-MS,Mississippi,28123,Scott,32.4943,-89.4895,,,49.5,point,FALSE,America/Chicago,39074
+Vancleave-MS,1840013934,Vancleave,Vancleave,MS,Vancleave-MS,Mississippi,28059,Jackson,30.5483,-88.6675,,,74.5,polygon,FALSE,America/Chicago,39565
+Boyle-MS,1840015627,Boyle,Boyle,MS,Boyle-MS,Mississippi,28011,Bolivar,33.7065,-90.7249,610,610,167,polygon,TRUE,America/Chicago,38730
+Columbia-MS,1840014970,Columbia,Columbia,MS,Columbia-MS,Mississippi,28091,Marion,31.2564,-89.8266,6807,6143,351,polygon,TRUE,America/Chicago,39429
+State Line-MS,1840017061,State Line,State Line,MS,State Line-MS,Mississippi,28041,Greene,31.436,-88.4738,551,551,49,polygon,TRUE,America/Chicago,39362
+Verona-MS,1840015562,Verona,Verona,MS,Verona-MS,Mississippi,28081,Lee,34.1909,-88.7204,3019,3019,313,polygon,TRUE,America/Chicago,38801 38879
+Sledge-MS,1840017942,Sledge,Sledge,MS,Sledge-MS,Mississippi,28119,Quitman,34.4327,-90.2213,510,510,378,polygon,TRUE,America/Chicago,38670
+Shelby-MS,1840015629,Shelby,Shelby,MS,Shelby-MS,Mississippi,28011,Bolivar,33.9508,-90.7653,2083,2083,294,polygon,TRUE,America/Chicago,38774
+Weir-MS,1840016857,Weir,Weir,MS,Weir-MS,Mississippi,28019,Choctaw,33.2635,-89.2905,441,441,161,polygon,TRUE,America/Chicago,39772
+Harrisville-MS,1840032329,Harrisville,Harrisville,MS,Harrisville-MS,Mississippi,28127,Simpson,31.9724,-90.0779,,,24.6,point,FALSE,America/Chicago,39082
+Polkville-MS,1840018132,Polkville,Polkville,MS,Polkville-MS,Mississippi,28129,Smith,32.1909,-89.696,803,803,18,polygon,TRUE,America/Chicago,39117
+Sanatorium-MS,1840032419,Sanatorium,Sanatorium,MS,Sanatorium-MS,Mississippi,28127,Simpson,31.8988,-89.7776,,,94.8,point,FALSE,America/Chicago,39114
+Batesville-MS,1840013607,Batesville,Batesville,MS,Batesville-MS,Mississippi,28107,Panola,34.3148,-89.9249,7237,7391,143,polygon,TRUE,America/Chicago,38606
+Black Hawk-MS,1840032281,Black Hawk,Black Hawk,MS,Black Hawk-MS,Mississippi,28015,Carroll,33.3262,-90.0118,,,24.4,point,FALSE,America/Chicago,38923
+Montrose-MS,1840017036,Montrose,Montrose,MS,Montrose-MS,Mississippi,28061,Jasper,32.1256,-89.2344,136,136,19,polygon,TRUE,America/Chicago,39338
+De Lisle-MS,1840032300,De Lisle,De Lisle,MS,De Lisle-MS,Mississippi,28047,Harrison,30.3848,-89.2746,,,179,polygon,FALSE,America/Chicago,39571
+Gloster-MS,1840017115,Gloster,Gloster,MS,Gloster-MS,Mississippi,28005,Amite,31.1951,-91.0177,898,898,190,polygon,TRUE,America/Chicago,39638
+Okolona-MS,1840014759,Okolona,Okolona,MS,Okolona-MS,Mississippi,28017,Chickasaw,34.0053,-88.7479,2618,2618,140,polygon,TRUE,America/Chicago,38860
+Tunica-MS,1840016549,Tunica,Tunica,MS,Tunica-MS,Mississippi,28143,Tunica,34.6881,-90.3809,968,968,563,polygon,TRUE,America/Chicago,38676
+Glancy-MS,1840032500,Glancy,Glancy,MS,Glancy-MS,Mississippi,28029,Copiah,31.8185,-90.4965,,,8,point,FALSE,America/Chicago,39083
+Barnett-MS,1840032490,Barnett,Barnett,MS,Barnett-MS,Mississippi,28023,Clarke,31.9868,-88.9051,,,24,point,FALSE,America/Chicago,39347
+Midnight-MS,1840032370,Midnight,Midnight,MS,Midnight-MS,Mississippi,28053,Humphreys,33.0496,-90.5734,,,114.6,point,FALSE,America/Chicago,39097
+Mooreville-MS,1840025853,Mooreville,Mooreville,MS,Mooreville-MS,Mississippi,28081,Lee,34.2648,-88.5769,,,104,polygon,FALSE,America/Chicago,38857
+Hudsonville-MS,1840032529,Hudsonville,Hudsonville,MS,Hudsonville-MS,Mississippi,28093,Marshall,34.8612,-89.3751,,,4.5,point,FALSE,America/Chicago,38635
+Kiln-MS,1840013949,Kiln,Kiln,MS,Kiln-MS,Mississippi,28045,Hancock,30.4171,-89.4322,,,100.9,polygon,FALSE,America/Chicago,39556
+Soso-MS,1840018163,Soso,Soso,MS,Soso-MS,Mississippi,28067,Jones,31.7535,-89.2759,401,401,76,polygon,TRUE,America/Chicago,39480
+Lynchburg-MS,1840013543,Lynchburg,Lynchburg,MS,Lynchburg-MS,Mississippi,28033,DeSoto,34.9623,-90.1052,,,778.7,polygon,FALSE,America/Chicago,38680
+Flowood-MS,1840013824,Flowood,Flowood,MS,Flowood-MS,Mississippi,28121,Rankin,32.3359,-90.0802,8859,8859,119,polygon,TRUE,America/Chicago,39047 39208 39232
+Durant-MS,1840013775,Durant,Durant,MS,Durant-MS,Mississippi,28051,Holmes,33.0799,-89.8566,2296,2431,419,polygon,TRUE,America/Chicago,39063
+Derma-MS,1840016743,Derma,Derma,MS,Derma-MS,Mississippi,28013,Calhoun,33.8589,-89.2879,1000,1000,218,polygon,TRUE,America/Chicago,38916 38839
+Howard-MS,1840032340,Howard,Howard,MS,Howard-MS,Mississippi,28051,Holmes,33.1229,-90.1909,,,2,point,FALSE,America/Chicago,39095
+Chicora-MS,1840032495,Chicora,Chicora,MS,Chicora-MS,Mississippi,28153,Wayne,31.5638,-88.5753,,,7.9,point,FALSE,America/Chicago,39322
+Marks-MS,1840015558,Marks,Marks,MS,Marks-MS,Mississippi,28119,Quitman,34.2535,-90.2722,3161,1551,466,polygon,TRUE,America/Chicago,38646
+Bentonia-MS,1840015765,Bentonia,Bentonia,MS,Bentonia-MS,Mississippi,28163,Yazoo,32.6437,-90.3692,423,423,114,polygon,TRUE,America/Chicago,39040
+Crystal Springs-MS,1840014932,Crystal Springs,Crystal Springs,MS,Crystal Springs-MS,Mississippi,28029,Copiah,31.9903,-90.354,5107,4889,347,polygon,TRUE,America/Chicago,39059
+Tishomingo-MS,1840016515,Tishomingo,Tishomingo,MS,Tishomingo-MS,Mississippi,28141,Tishomingo,34.634,-88.2287,336,336,234,polygon,TRUE,America/Chicago,38873
+Rich-MS,1840032413,Rich,Rich,MS,Rich-MS,Mississippi,28027,Coahoma,34.4162,-90.4448,,,36.6,point,FALSE,America/Chicago,38617
+Cruger-MS,1840016879,Cruger,Cruger,MS,Cruger-MS,Mississippi,28051,Holmes,33.323,-90.2355,354,354,141,polygon,TRUE,America/Chicago,38924
+Collins-MS,1840014948,Collins,Collins,MS,Collins-MS,Mississippi,28031,Covington,31.6469,-89.5669,2569,2569,124,polygon,TRUE,America/Chicago,39428
+Abbeville-MS,1840015557,Abbeville,Abbeville,MS,Abbeville-MS,Mississippi,28071,Lafayette,34.5034,-89.5025,430,430,47,polygon,TRUE,America/Chicago,38601
+Diamondhead-MS,1840013106,Diamondhead,Diamondhead,MS,Diamondhead-MS,Mississippi,28045,Hancock,30.3791,-89.3707,7661,8217,313,polygon,TRUE,America/Chicago,39525
+Tuscola-MS,1840032549,Tuscola,Tuscola,MS,Tuscola-MS,Mississippi,28079,Leake,32.6201,-89.5278,,,14.1,point,FALSE,America/Chicago,39094
+Sebastopol-MS,1840018090,Sebastopol,Sebastopol,MS,Sebastopol-MS,Mississippi,28123,Scott,32.5679,-89.334,278,278,68,polygon,TRUE,America/Chicago,39359
+Sandersville-MS,1840018162,Sandersville,Sandersville,MS,Sandersville-MS,Mississippi,28067,Jones,31.7879,-89.0362,719,719,56,polygon,TRUE,America/Chicago,39477
+Brooksville-MS,1840015744,Brooksville,Brooksville,MS,Brooksville-MS,Mississippi,28103,Noxubee,33.2367,-88.5781,1169,1169,284,polygon,TRUE,America/Chicago,39739
+Bruce-MS,1840015617,Bruce,Bruce,MS,Bruce-MS,Mississippi,28013,Calhoun,33.991,-89.3454,1887,1887,299,polygon,TRUE,America/Chicago,38915
+Sherman-MS,1840017951,Sherman,Sherman,MS,Sherman-MS,Mississippi,28115,Pontotoc,34.3611,-88.8387,687,687,152,polygon,TRUE,America/Chicago,38828 38869
+Standing Pine-MS,1840013801,Standing Pine,Standing Pine,MS,Standing Pine-MS,Mississippi,28079,Leake,32.6749,-89.4529,,,61,polygon,FALSE,America/Chicago,39051 39189
+Tucker-MS,1840013799,Tucker,Tucker,MS,Tucker-MS,Mississippi,28099,Neshoba,32.7081,-89.05,,,21,polygon,FALSE,America/Chicago,39350
+Hamilton-MS,1840025864,Hamilton,Hamilton,MS,Hamilton-MS,Mississippi,28095,Monroe,33.746,-88.4095,,,59.9,polygon,FALSE,America/Chicago,39746
+Buckatunna-MS,1840025936,Buckatunna,Buckatunna,MS,Buckatunna-MS,Mississippi,28153,Wayne,31.5423,-88.5293,,,59.1,polygon,FALSE,America/Chicago,39322
+Redwater-MS,1840013802,Redwater,Redwater,MS,Redwater-MS,Mississippi,28079,Leake,32.7835,-89.5559,,,36.4,polygon,FALSE,America/Chicago,39051
+Sherard-MS,1840032427,Sherard,Sherard,MS,Sherard-MS,Mississippi,28027,Coahoma,34.2157,-90.7062,,,4.8,point,FALSE,America/Chicago,38614
+Vance-MS,1840032459,Vance,Vance,MS,Vance-MS,Mississippi,28119,Quitman,34.0729,-90.3509,,,8.8,point,FALSE,America/Chicago,38964
+Toomsuba-MS,1840025907,Toomsuba,Toomsuba,MS,Toomsuba-MS,Mississippi,28075,Lauderdale,32.4267,-88.51,,,43.5,polygon,FALSE,America/Chicago,39364
+Lena-MS,1840016952,Lena,Lena,MS,Lena-MS,Mississippi,28079,Leake,32.5938,-89.5949,141,141,32,polygon,TRUE,America/Chicago,39094
+Albin-MS,1840032262,Albin,Albin,MS,Albin-MS,Mississippi,28135,Tallahatchie,33.9134,-90.3298,,,10.8,point,FALSE,America/Chicago,38966
+Snell-MS,1840032434,Snell,Snell,MS,Snell-MS,Mississippi,28023,Clarke,32.1918,-88.5017,,,14.7,point,FALSE,America/Chicago,39301
+Mize-MS,1840017037,Mize,Mize,MS,Mize-MS,Mississippi,28129,Smith,31.8672,-89.5541,327,327,54,polygon,TRUE,America/Chicago,39116
+Baird-MS,1840032558,Baird,Baird,MS,Baird-MS,Mississippi,28133,Sunflower,33.4251,-90.5834,,,18.3,point,FALSE,America/Chicago,38751
+Gallman-MS,1840032320,Gallman,Gallman,MS,Gallman-MS,Mississippi,28029,Copiah,31.9321,-90.3893,,,33.3,point,FALSE,America/Chicago,39083
+Gunn-MS,1840032556,Gunn,Gunn,MS,Gunn-MS,Mississippi,28129,Smith,32.0835,-89.7001,,,26.3,point,FALSE,America/Chicago,39117
+Webb-MS,1840016742,Webb,Webb,MS,Webb-MS,Mississippi,28135,Tallahatchie,33.9478,-90.3463,519,519,475,polygon,TRUE,America/Chicago,38966
+Merrill-MS,1840032369,Merrill,Merrill,MS,Merrill-MS,Mississippi,28039,George,30.9791,-88.7206,,,11,point,FALSE,America/Chicago,39452
+New Hebron-MS,1840017078,New Hebron,New Hebron,MS,New Hebron-MS,Mississippi,28077,Lawrence,31.7332,-89.9833,445,445,256,polygon,TRUE,America/Chicago,39140
+Clara-MS,1840025937,Clara,Clara,MS,Clara-MS,Mississippi,28153,Wayne,31.5831,-88.6916,,,33.8,polygon,FALSE,America/Chicago,39367 39324
+Percy-MS,1840032504,Percy,Percy,MS,Percy-MS,Mississippi,28151,Washington,33.109,-90.8795,,,4.9,point,FALSE,America/Chicago,38748
+McLain-MS,1840017105,McLain,McLain,MS,McLain-MS,Mississippi,28041,Greene,31.1037,-88.8239,427,427,48,polygon,TRUE,America/Chicago,39456
+Pearl River-MS,1840013800,Pearl River,Pearl River,MS,Pearl River-MS,Mississippi,28099,Neshoba,32.7889,-89.2384,,,286.5,polygon,FALSE,America/Chicago,39350
+Hattiesburg-MS,1840013878,Hattiesburg,Hattiesburg,MS,Hattiesburg-MS,Mississippi,28035,Forrest,31.3073,-89.3169,81995,46926,340,polygon,TRUE,America/Chicago,39401 39402 39406 39403 39404 39407
+Clarksdale-MS,1840014696,Clarksdale,Clarksdale,MS,Clarksdale-MS,Mississippi,28027,Coahoma,34.1971,-90.5729,16109,16272,452,polygon,TRUE,America/Chicago,38614
+Saint Martin-MS,1840032563,Saint Martin,Saint Martin,MS,Saint Martin-MS,Mississippi,28059,Jackson,30.4399,-88.8651,,,303.1,polygon,FALSE,America/Chicago,39532
+Lyon-MS,1840016641,Lyon,Lyon,MS,Lyon-MS,Mississippi,28027,Coahoma,34.2168,-90.5426,319,319,264,polygon,TRUE,America/Chicago,38614 38645
+Quincy-MS,1840032507,Quincy,Quincy,MS,Quincy-MS,Mississippi,28095,Monroe,33.9098,-88.367,,,8.1,point,FALSE,America/Chicago,38821
+Ocean Springs-MS,1840015017,Ocean Springs,Ocean Springs,MS,Ocean Springs-MS,Mississippi,28059,Jackson,30.4082,-88.7861,17652,17652,591,polygon,TRUE,America/Chicago,39564 39566
+Magnolia-MS,1840015876,Magnolia,Magnolia,MS,Magnolia-MS,Mississippi,28113,Pike,31.1619,-90.467,2330,2330,146,polygon,TRUE,America/Chicago,39652 39648
+Mount Pleasant-MS,1840032378,Mount Pleasant,Mount Pleasant,MS,Mount Pleasant-MS,Mississippi,28093,Marshall,34.9559,-89.5159,,,43.5,point,FALSE,America/Chicago,38635
+Tie Plant-MS,1840032451,Tie Plant,Tie Plant,MS,Tie Plant-MS,Mississippi,28043,Grenada,33.7415,-89.7901,,,80.2,point,FALSE,America/Chicago,38901
+Canton-MS,1840014872,Canton,Canton,MS,Canton-MS,Mississippi,28089,Madison,32.5976,-90.0329,15847,13643,246,polygon,TRUE,America/Chicago,39046
+Guntown-MS,1840016649,Guntown,Guntown,MS,Guntown-MS,Mississippi,28081,Lee,34.4447,-88.6641,2720,2720,225,polygon,TRUE,America/Chicago,38849
+Louisville-MS,1840015745,Louisville,Louisville,MS,Louisville-MS,Mississippi,28159,Winston,33.1224,-89.0553,4409,6324,161,polygon,TRUE,America/Chicago,39339
+Basic-MS,1840032271,Basic,Basic,MS,Basic-MS,Mississippi,28023,Clarke,32.2185,-88.7692,,,14.5,point,FALSE,America/Chicago,39330
+Water Valley-MS,1840015606,Water Valley,Water Valley,MS,Water Valley-MS,Mississippi,28161,Yalobusha,34.1622,-89.6301,2623,3393,186,polygon,TRUE,America/Chicago,38965
+Algoma-MS,1840015577,Algoma,Algoma,MS,Algoma-MS,Mississippi,28115,Pontotoc,34.1788,-89.0336,613,613,35,polygon,TRUE,America/Chicago,38863 38820
+Centreville-MS,1840017108,Centreville,Centreville,MS,Centreville-MS,Mississippi,28157,Wilkinson,31.087,-91.0654,1542,1542,257,polygon,TRUE,America/Chicago,39631
+Michigan City-MS,1840032538,Michigan City,Michigan City,MS,Michigan City-MS,Mississippi,28009,Benton,34.9809,-89.2506,,,5,point,FALSE,America/Chicago,38647
+Darlove-MS,1840032299,Darlove,Darlove,MS,Darlove-MS,Mississippi,28151,Washington,33.2321,-90.7845,,,3.4,point,FALSE,America/Chicago,38748
+Hazlehurst-MS,1840014933,Hazlehurst,Hazlehurst,MS,Hazlehurst-MS,Mississippi,28029,Copiah,31.8645,-90.3926,4714,3883,342,polygon,TRUE,America/Chicago,39083
+Star-MS,1840032439,Star,Star,MS,Star-MS,Mississippi,28121,Rankin,32.094,-90.0462,,,222.8,point,FALSE,America/Chicago,39073
+De Kalb-MS,1840016954,De Kalb,De Kalb,MS,De Kalb-MS,Mississippi,28069,Kemper,32.7707,-88.656,1045,1045,121,polygon,TRUE,America/Chicago,39328
+Beatty-MS,1840032480,Beatty,Beatty,MS,Beatty-MS,Mississippi,28015,Carroll,33.2698,-89.739,,,4.4,point,FALSE,America/Chicago,39176
+Waltersville-MS,1840032463,Waltersville,Waltersville,MS,Waltersville-MS,Mississippi,28149,Warren,32.3796,-90.8679,,,6.1,point,FALSE,America/Chicago,39183
+Poplar Creek-MS,1840032400,Poplar Creek,Poplar Creek,MS,Poplar Creek-MS,Mississippi,28097,Montgomery,33.3521,-89.5556,,,15.2,point,FALSE,America/Chicago,39747
+Beauregard-MS,1840018148,Beauregard,Beauregard,MS,Beauregard-MS,Mississippi,28029,Copiah,31.721,-90.3859,322,322,135,polygon,TRUE,America/Chicago,39191
+Prentiss-MS,1840018168,Prentiss,Prentiss,MS,Prentiss-MS,Mississippi,28065,Jefferson Davis,31.597,-89.8713,982,982,199,polygon,TRUE,America/Chicago,39474
+Tilden-MS,1840032452,Tilden,Tilden,MS,Tilden-MS,Mississippi,28057,Itawamba,34.1868,-88.352,,,22.6,point,FALSE,America/Chicago,38843
+Shivers-MS,1840032428,Shivers,Shivers,MS,Shivers-MS,Mississippi,28127,Simpson,31.7966,-89.9876,,,9.1,point,FALSE,America/Chicago,39149
+West Point-MS,1840015681,West Point,West Point,MS,West Point-MS,Mississippi,28025,Clay,33.6064,-88.6571,8827,10880,201,polygon,TRUE,America/Chicago,39773
+Denmark-MS,1840032519,Denmark,Denmark,MS,Denmark-MS,Mississippi,28071,Lafayette,34.3109,-89.3467,,,13.7,point,FALSE,America/Chicago,38655
+Vardaman-MS,1840016744,Vardaman,Vardaman,MS,Vardaman-MS,Mississippi,28013,Calhoun,33.8822,-89.1778,1291,1291,367,polygon,TRUE,America/Chicago,38878
+Waynesboro-MS,1840015853,Waynesboro,Waynesboro,MS,Waynesboro-MS,Mississippi,28153,Wayne,31.6773,-88.6353,4141,4944,150,polygon,TRUE,America/Chicago,39367
+Taylor-MS,1840017935,Taylor,Taylor,MS,Taylor-MS,Mississippi,28071,Lafayette,34.2691,-89.5833,372,372,49,polygon,TRUE,America/Chicago,38655 38673
+Velma-MS,1840032461,Velma,Velma,MS,Velma-MS,Mississippi,28161,Yalobusha,34.0604,-89.6445,,,11.3,point,FALSE,America/Chicago,38922
+Forkville-MS,1840032559,Forkville,Forkville,MS,Forkville-MS,Mississippi,28123,Scott,32.4607,-89.6609,,,28.4,point,FALSE,America/Chicago,39117
+Strong-MS,1840032443,Strong,Strong,MS,Strong-MS,Mississippi,28095,Monroe,33.6954,-88.6045,,,2.8,point,FALSE,America/Chicago,39730
+Pope-MS,1840017937,Pope,Pope,MS,Pope-MS,Mississippi,28107,Panola,34.2146,-89.9481,209,209,78,polygon,TRUE,America/Chicago,38658
+Wyatte-MS,1840032264,Wyatte,Wyatte,MS,Wyatte-MS,Mississippi,28137,Tate,34.6418,-89.6943,,,30.9,point,FALSE,America/Chicago,38668
+Stovall-MS,1840032510,Stovall,Stovall,MS,Stovall-MS,Mississippi,28027,Coahoma,34.2968,-90.6448,,,2.2,point,FALSE,America/Chicago,38614
+Friars Point-MS,1840016643,Friars Point,Friars Point,MS,Friars Point-MS,Mississippi,28027,Coahoma,34.368,-90.6379,1082,1082,379,polygon,TRUE,America/Chicago,38631
+Chunky-MS,1840016987,Chunky,Chunky,MS,Chunky-MS,Mississippi,28101,Newton,32.3275,-88.9302,324,324,150,polygon,TRUE,America/Chicago,39323
+Morgantown-MS,1840032375,Morgantown,Morgantown,MS,Morgantown-MS,Mississippi,28091,Marion,31.3124,-89.9159,,,58.1,point,FALSE,America/Chicago,39483
+Money-MS,1840032373,Money,Money,MS,Money-MS,Mississippi,28083,Leflore,33.6512,-90.2093,,,8.9,point,FALSE,America/Chicago,38930
+Wade-MS,1840013935,Wade,Wade,MS,Wade-MS,Mississippi,28059,Jackson,30.64,-88.5579,,,54.7,polygon,FALSE,America/Chicago,39562
+Cockrum-MS,1840032476,Cockrum,Cockrum,MS,Cockrum-MS,Mississippi,28033,DeSoto,34.8029,-89.812,,,38.6,point,FALSE,America/Chicago,38632
+Nellieburg-MS,1840013826,Nellieburg,Nellieburg,MS,Nellieburg-MS,Mississippi,28075,Lauderdale,32.3973,-88.783,,,102.9,polygon,FALSE,America/Chicago,39307
+Sharon-MS,1840025945,Sharon,Sharon,MS,Sharon-MS,Mississippi,28067,Jones,31.7922,-89.0983,,,103.6,polygon,FALSE,America/Chicago,39443
+Kossuth-MS,1840017895,Kossuth,Kossuth,MS,Kossuth-MS,Mississippi,28003,Alcorn,34.8726,-88.6428,208,208,83,polygon,TRUE,America/Chicago,38834
+Gattman-MS,1840017980,Gattman,Gattman,MS,Gattman-MS,Mississippi,28095,Monroe,33.8849,-88.2367,87,87,59,polygon,TRUE,America/Chicago,38844 39740
+McAdams-MS,1840032363,McAdams,McAdams,MS,McAdams-MS,Mississippi,28007,Attala,33.0212,-89.6884,,,119.6,point,FALSE,America/Chicago,39160
+New Hamilton-MS,1840025865,New Hamilton,New Hamilton,MS,New Hamilton-MS,Mississippi,28095,Monroe,33.7435,-88.4389,,,128.5,polygon,FALSE,America/Chicago,39746
+New Augusta-MS,1840017107,New Augusta,New Augusta,MS,New Augusta-MS,Mississippi,28111,Perry,31.2036,-89.0272,638,638,47,polygon,TRUE,America/Chicago,39462
+Mayersville-MS,1840016940,Mayersville,Mayersville,MS,Mayersville-MS,Mississippi,28055,Issaquena,32.8964,-91.0467,541,541,189,polygon,TRUE,America/Chicago,39113 39159
+Utica-MS,1840016993,Utica,Utica,MS,Utica-MS,Mississippi,28049,Hinds,32.1061,-90.6221,869,869,112,polygon,TRUE,America/Chicago,39175
+Orange Grove-MS,1840032385,Orange Grove,Orange Grove,MS,Orange Grove-MS,Mississippi,28047,Harrison,30.4546,-89.0884,,,1063.8,point,FALSE,America/Chicago,39503
+Thompson-MS,1840032512,Thompson,Thompson,MS,Thompson-MS,Mississippi,28005,Amite,31.2568,-90.6382,,,8.2,point,FALSE,America/Chicago,39664
+Hushpuckena-MS,1840015809,Hushpuckena,Hushpuckena,MS,Hushpuckena-MS,Mississippi,28011,Bolivar,34.0048,-90.7532,,,13.6,point,FALSE,America/Chicago,38774
+Agricola-MS,1840032261,Agricola,Agricola,MS,Agricola-MS,Mississippi,28039,George,30.8077,-88.52,,,40.5,point,FALSE,America/Chicago,39452
+Raymond-MS,1840014894,Raymond,Raymond,MS,Raymond-MS,Mississippi,28049,Hinds,32.2609,-90.4083,3649,2220,285,polygon,TRUE,America/Chicago,39154
+Phoenix-MS,1840032485,Phoenix,Phoenix,MS,Phoenix-MS,Mississippi,28163,Yazoo,32.5813,-90.5629,,,4.3,point,FALSE,America/Chicago,39040
+Benoit-MS,1840015625,Benoit,Benoit,MS,Benoit-MS,Mississippi,28011,Bolivar,33.6517,-91.0087,448,448,177,polygon,TRUE,America/Chicago,38725
+Red Lick-MS,1840032409,Red Lick,Red Lick,MS,Red Lick-MS,Mississippi,28063,Jefferson,31.7924,-90.9793,,,50.3,point,FALSE,America/Chicago,39096
+North Tunica-MS,1840013565,North Tunica,North Tunica,MS,North Tunica-MS,Mississippi,28143,Tunica,34.7032,-90.3796,,,1268.1,polygon,FALSE,America/Chicago,38676
+Falkner-MS,1840016517,Falkner,Falkner,MS,Falkner-MS,Mississippi,28139,Tippah,34.8381,-88.9424,510,510,38,polygon,TRUE,America/Chicago,38629
+Carpenter-MS,1840032290,Carpenter,Carpenter,MS,Carpenter-MS,Mississippi,28029,Copiah,32.034,-90.6804,,,1.6,point,FALSE,America/Chicago,39175
+Mendenhall-MS,1840015846,Mendenhall,Mendenhall,MS,Mendenhall-MS,Mississippi,28127,Simpson,31.9609,-89.8694,2457,2457,177,polygon,TRUE,America/Chicago,39114
+Carrollton-MS,1840016834,Carrollton,Carrollton,MS,Carrollton-MS,Mississippi,28015,Carroll,33.5061,-89.9218,182,182,90,polygon,TRUE,America/Chicago,38917
+Scooba-MS,1840018083,Scooba,Scooba,MS,Scooba-MS,Mississippi,28069,Kemper,32.8302,-88.4771,697,697,108,polygon,TRUE,America/Chicago,39358
+Hillhouse-MS,1840032332,Hillhouse,Hillhouse,MS,Hillhouse-MS,Mississippi,28027,Coahoma,34.1257,-90.8182,,,4.6,point,FALSE,America/Chicago,38614
+Falcon-MS,1840016647,Falcon,Falcon,MS,Falcon-MS,Mississippi,28119,Quitman,34.3911,-90.2557,150,150,148,polygon,TRUE,America/Chicago,38670 38628
+Foxworth-MS,1840025972,Foxworth,Foxworth,MS,Foxworth-MS,Mississippi,28091,Marion,31.2386,-89.8829,,,285.7,polygon,FALSE,America/Chicago,39483
+Philipp-MS,1840032395,Philipp,Philipp,MS,Philipp-MS,Mississippi,28135,Tallahatchie,33.7576,-90.2043,,,60.6,point,FALSE,America/Chicago,38950
+Lucas-MS,1840032357,Lucas,Lucas,MS,Lucas-MS,Mississippi,28065,Jefferson Davis,31.5879,-89.9584,,,4,point,FALSE,America/Chicago,39663
+Georgetown-MS,1840017046,Georgetown,Georgetown,MS,Georgetown-MS,Mississippi,28029,Copiah,31.8698,-90.1648,281,281,161,polygon,TRUE,America/Chicago,39078
+Mattson-MS,1840032361,Mattson,Mattson,MS,Mattson-MS,Mississippi,28027,Coahoma,34.0979,-90.5101,,,32.2,point,FALSE,America/Chicago,38614
+Bay Saint Louis-MS,1840013951,Bay Saint Louis,Bay Saint Louis,MS,Bay Saint Louis-MS,Mississippi,28045,Hancock,30.3281,-89.3774,12667,12667,332,polygon,TRUE,America/Chicago,39520
+Deeson-MS,1840032303,Deeson,Deeson,MS,Deeson-MS,Mississippi,28011,Bolivar,34.0232,-90.8595,,,10.7,point,FALSE,America/Chicago,38740
+Paris-MS,1840032388,Paris,Paris,MS,Paris-MS,Mississippi,28071,Lafayette,34.1787,-89.4598,,,18.3,point,FALSE,America/Chicago,38965
+McVille-MS,1840032368,McVille,McVille,MS,McVille-MS,Mississippi,28007,Attala,32.9315,-89.622,,,6.4,point,FALSE,America/Chicago,39090
+Isola-MS,1840016887,Isola,Isola,MS,Isola-MS,Mississippi,28053,Humphreys,33.2634,-90.5923,652,652,340,polygon,TRUE,America/Chicago,38754
+Jonestown-MS,1840016639,Jonestown,Jonestown,MS,Jonestown-MS,Mississippi,28027,Coahoma,34.3222,-90.4542,1172,1172,1168,polygon,TRUE,America/Chicago,38639 38645
+Farrell-MS,1840025851,Farrell,Farrell,MS,Farrell-MS,Mississippi,28027,Coahoma,34.2617,-90.675,,,167.9,polygon,FALSE,America/Chicago,38630 38614
+Savage-MS,1840032508,Savage,Savage,MS,Savage-MS,Mississippi,28137,Tate,34.6298,-90.2232,,,33.2,point,FALSE,America/Chicago,38665
+White Apple-MS,1840032553,White Apple,White Apple,MS,White Apple-MS,Mississippi,28037,Franklin,31.4571,-91.0743,,,6.4,point,FALSE,America/Chicago,39661
+Stampley-MS,1840032438,Stampley,Stampley,MS,Stampley-MS,Mississippi,28063,Jefferson,31.6371,-91.1312,,,5.7,point,FALSE,America/Chicago,39069
+Maben-MS,1840016843,Maben,Maben,MS,Maben-MS,Mississippi,28105,Oktibbeha,33.5544,-89.0805,864,864,171,polygon,TRUE,America/Chicago,39750
+Morton-MS,1840014886,Morton,Morton,MS,Morton-MS,Mississippi,28123,Scott,32.3498,-89.6541,2954,3434,184,polygon,TRUE,America/Chicago,39117
+Nettleton-MS,1840014754,Nettleton,Nettleton,MS,Nettleton-MS,Mississippi,28081,Lee,34.0853,-88.6248,1952,1952,187,polygon,TRUE,America/Chicago,38858
+Lyman-MS,1840013946,Lyman,Lyman,MS,Lyman-MS,Mississippi,28047,Harrison,30.5044,-89.1348,,,56.1,polygon,FALSE,America/Chicago,39503
+Bogue Chitto-MS,1840025952,Bogue Chitto,Bogue Chitto,MS,Bogue Chitto-MS,Mississippi,28085,Lincoln,31.4294,-90.4619,,,209,polygon,FALSE,America/Chicago,39629
+Tuckers Crossing-MS,1840032489,Tuckers Crossing,Tuckers Crossing,MS,Tuckers Crossing-MS,Mississippi,28067,Jones,31.6274,-89.0901,,,38.5,point,FALSE,America/Chicago,39443
+Escatawpa-MS,1840013105,Escatawpa,Escatawpa,MS,Escatawpa-MS,Mississippi,28059,Jackson,30.4912,-88.5495,,,143.5,polygon,FALSE,America/Chicago,39562 39552
+Pickens-MS,1840016883,Pickens,Pickens,MS,Pickens-MS,Mississippi,28051,Holmes,32.8913,-89.9696,1054,1054,318,polygon,TRUE,America/Chicago,39146
+McNair-MS,1840032366,McNair,McNair,MS,McNair-MS,Mississippi,28063,Jefferson,31.6385,-91.042,,,20.7,point,FALSE,America/Chicago,39069
+Lakeshore-MS,1840032561,Lakeshore,Lakeshore,MS,Lakeshore-MS,Mississippi,28045,Hancock,30.2466,-89.4359,,,9.8,point,FALSE,America/Chicago,39520
+Pinola-MS,1840032398,Pinola,Pinola,MS,Pinola-MS,Mississippi,28127,Simpson,31.8771,-89.962,,,29.2,point,FALSE,America/Chicago,39149
+Stanton-MS,1840032545,Stanton,Stanton,MS,Stanton-MS,Mississippi,28001,Adams,31.616,-91.2404,,,3,point,FALSE,America/Chicago,39120
+Kirby-MS,1840032530,Kirby,Kirby,MS,Kirby-MS,Mississippi,28037,Franklin,31.5116,-90.9809,,,21.4,point,FALSE,America/Chicago,39661
+Monticello-MS,1840017077,Monticello,Monticello,MS,Monticello-MS,Mississippi,28077,Lawrence,31.5525,-90.1145,1552,1552,143,polygon,TRUE,America/Chicago,39654
+Red Banks-MS,1840032408,Red Banks,Red Banks,MS,Red Banks-MS,Mississippi,28093,Marshall,34.8282,-89.5645,,,57.9,point,FALSE,America/Chicago,38635
+Drew-MS,1840013698,Drew,Drew,MS,Drew-MS,Mississippi,28133,Sunflower,33.8101,-90.5304,1731,1731,598,polygon,TRUE,America/Chicago,38737
+Bigbee-MS,1840032277,Bigbee,Bigbee,MS,Bigbee-MS,Mississippi,28095,Monroe,34.0162,-88.5192,,,10.1,point,FALSE,America/Chicago,38821
+Marietta-MS,1840016600,Marietta,Marietta,MS,Marietta-MS,Mississippi,28117,Prentiss,34.4998,-88.4726,255,255,55,polygon,TRUE,America/Chicago,38856
+Hopewell-MS,1840032338,Hopewell,Hopewell,MS,Hopewell-MS,Mississippi,28029,Copiah,31.9474,-90.2154,,,17.5,point,FALSE,America/Chicago,39059
+Hamburg-MS,1840032524,Hamburg,Hamburg,MS,Hamburg-MS,Mississippi,28037,Franklin,31.5788,-91.0668,,,51.5,point,FALSE,America/Chicago,39661
+Snow Lake Shores-MS,1840017897,Snow Lake Shores,Snow Lake Shores,MS,Snow Lake Shores-MS,Mississippi,28009,Benton,34.8239,-89.2385,301,301,170,polygon,TRUE,America/Chicago,38603
+Winterville-MS,1840032474,Winterville,Winterville,MS,Winterville-MS,Mississippi,28151,Washington,33.5018,-91.0584,,,17.5,point,FALSE,America/Chicago,38703
+Burns-MS,1840032516,Burns,Burns,MS,Burns-MS,Mississippi,28129,Smith,32.1354,-89.5478,,,11.1,point,FALSE,America/Chicago,39153
+Grace-MS,1840032326,Grace,Grace,MS,Grace-MS,Mississippi,28055,Issaquena,32.9996,-90.9565,,,21.2,point,FALSE,America/Chicago,38745
+Hickory-MS,1840015806,Hickory,Hickory,MS,Hickory-MS,Mississippi,28101,Newton,32.3167,-89.0217,526,526,217,polygon,TRUE,America/Chicago,39332
+Edinburg-MS,1840032481,Edinburg,Edinburg,MS,Edinburg-MS,Mississippi,28079,Leake,32.7993,-89.3362,,,26.3,point,FALSE,America/Chicago,39051
+Pricedale-MS,1840032405,Pricedale,Pricedale,MS,Pricedale-MS,Mississippi,28113,Pike,31.2905,-90.2948,,,24.3,point,FALSE,America/Chicago,39667
+Booneville-MS,1840013591,Booneville,Booneville,MS,Booneville-MS,Mississippi,28117,Prentiss,34.6643,-88.5684,6051,8744,131,polygon,TRUE,America/Chicago,38829
+Oxford-MS,1840014688,Oxford,Oxford,MS,Oxford-MS,Mississippi,28071,Lafayette,34.3613,-89.5289,31728,23290,567,polygon,TRUE,America/Chicago,38655
+Rome-MS,1840032417,Rome,Rome,MS,Rome-MS,Mississippi,28133,Sunflower,33.9632,-90.4784,,,89,point,FALSE,America/Chicago,38768
+Ozona-MS,1840032386,Ozona,Ozona,MS,Ozona-MS,Mississippi,28109,Pearl River,30.5846,-89.6637,,,211.1,point,FALSE,America/Chicago,39426
+Brookhaven-MS,1840013862,Brookhaven,Brookhaven,MS,Brookhaven-MS,Mississippi,28085,Lincoln,31.5803,-90.4432,10504,12359,220,polygon,TRUE,America/Chicago,39601 39602 39603
+Vossburg-MS,1840032483,Vossburg,Vossburg,MS,Vossburg-MS,Mississippi,28061,Jasper,31.9288,-88.9409,,,28.2,point,FALSE,America/Chicago,39366
+Yazoo City-MS,1840015766,Yazoo City,Yazoo City,MS,Yazoo City-MS,Mississippi,28163,Yazoo,32.8618,-90.4067,15241,11180,438,polygon,TRUE,America/Chicago,39194
+Petal-MS,1840014968,Petal,Petal,MS,Petal-MS,Mississippi,28035,Forrest,31.3477,-89.2359,10704,10704,246,polygon,TRUE,America/Chicago,39465
+Newton-MS,1840014892,Newton,Newton,MS,Newton-MS,Mississippi,28101,Newton,32.3296,-89.1534,2762,3317,179,polygon,TRUE,America/Chicago,39345
+Montpelier-MS,1840032374,Montpelier,Montpelier,MS,Montpelier-MS,Mississippi,28025,Clay,33.7179,-88.9478,,,12.8,point,FALSE,America/Chicago,39741
+Ingomar-MS,1840032342,Ingomar,Ingomar,MS,Ingomar-MS,Mississippi,28145,Union,34.4093,-89.0367,,,49.8,point,FALSE,America/Chicago,38652
+Toccopola-MS,1840016680,Toccopola,Toccopola,MS,Toccopola-MS,Mississippi,28115,Pontotoc,34.2561,-89.2211,255,255,11,polygon,TRUE,America/Chicago,38871 38863 38874
+Hinchcliff-MS,1840032333,Hinchcliff,Hinchcliff,MS,Hinchcliff-MS,Mississippi,28119,Quitman,34.3098,-90.2737,,,3.5,point,FALSE,America/Chicago,38646
+White Oak-MS,1840025842,White Oak,White Oak,MS,White Oak-MS,Mississippi,28143,Tunica,34.6438,-90.3495,,,779.2,polygon,FALSE,America/Chicago,38676
+Southaven-MS,1840015519,Southaven,Southaven,MS,Southaven-MS,Mississippi,28033,DeSoto,34.9514,-89.9787,53214,53214,497,polygon,TRUE,America/Chicago,38651 38671 38672
+Beaumont-MS,1840015874,Beaumont,Beaumont,MS,Beaumont-MS,Mississippi,28111,Perry,31.1707,-88.9252,938,938,105,polygon,TRUE,America/Chicago,39423
+Ashland-MS,1840015520,Ashland,Ashland,MS,Ashland-MS,Mississippi,28009,Benton,34.8341,-89.1778,543,543,114,polygon,TRUE,America/Chicago,38603
+Perkinston-MS,1840032393,Perkinston,Perkinston,MS,Perkinston-MS,Mississippi,28131,Stone,30.7821,-89.1381,,,94.8,point,FALSE,America/Chicago,39573
+Duncan-MS,1840016746,Duncan,Duncan,MS,Duncan-MS,Mississippi,28011,Bolivar,34.0418,-90.7459,401,401,169,polygon,TRUE,America/Chicago,38774 38740
+Gulf Hills-MS,1840013930,Gulf Hills,Gulf Hills,MS,Gulf Hills-MS,Mississippi,28059,Jackson,30.4364,-88.8148,,,353.3,polygon,FALSE,America/Chicago,39564
+Shuqualak-MS,1840018044,Shuqualak,Shuqualak,MS,Shuqualak-MS,Mississippi,28103,Noxubee,32.9793,-88.5693,483,483,165,polygon,TRUE,America/Chicago,39361
+Madden-MS,1840032358,Madden,Madden,MS,Madden-MS,Mississippi,28079,Leake,32.679,-89.3481,,,40.9,point,FALSE,America/Chicago,39051
+Liberty-MS,1840017113,Liberty,Liberty,MS,Liberty-MS,Mississippi,28005,Amite,31.1611,-90.8006,688,688,128,polygon,TRUE,America/Chicago,39645
+Lucedale-MS,1840015901,Lucedale,Lucedale,MS,Lucedale-MS,Mississippi,28039,George,30.9312,-88.5959,2744,3043,183,polygon,TRUE,America/Chicago,39452
+Learned-MS,1840016990,Learned,Learned,MS,Learned-MS,Mississippi,28049,Hinds,32.1972,-90.5486,93,93,106,polygon,TRUE,America/Chicago,39154
+Oma-MS,1840032502,Oma,Oma,MS,Oma-MS,Mississippi,28077,Lawrence,31.7268,-90.1448,,,38.5,point,FALSE,America/Chicago,39654
+Jumpertown-MS,1840016599,Jumpertown,Jumpertown,MS,Jumpertown-MS,Mississippi,28117,Prentiss,34.708,-88.662,482,482,104,polygon,TRUE,America/Chicago,38865 38829
+Quitman-MS,1840014920,Quitman,Quitman,MS,Quitman-MS,Mississippi,28023,Clarke,32.0417,-88.7203,2189,2189,163,polygon,TRUE,America/Chicago,39355
+Martin Bluff-MS,1840032562,Martin Bluff,Martin Bluff,MS,Martin Bluff-MS,Mississippi,28059,Jackson,30.4569,-88.6395,,,665.4,point,FALSE,America/Chicago,39553
+Wenasoga-MS,1840032469,Wenasoga,Wenasoga,MS,Wenasoga-MS,Mississippi,28003,Alcorn,34.987,-88.5906,,,46.5,point,FALSE,America/Chicago,38834
+Summerland-MS,1840032444,Summerland,Summerland,MS,Summerland-MS,Mississippi,28129,Smith,31.7993,-89.3603,,,12.2,point,FALSE,America/Chicago,39168
+Camden-MS,1840032289,Camden,Camden,MS,Camden-MS,Mississippi,28089,Madison,32.7824,-89.8387,,,11.8,point,FALSE,America/Chicago,39045
+Chatham-MS,1840032293,Chatham,Chatham,MS,Chatham-MS,Mississippi,28151,Washington,33.1007,-91.0979,,,2.8,point,FALSE,America/Chicago,38748
+Holly Springs-MS,1840014644,Holly Springs,Holly Springs,MS,Holly Springs-MS,Mississippi,28093,Marshall,34.7768,-89.4466,6146,7682,232,polygon,TRUE,America/Chicago,38635 38634
+Kosciusko-MS,1840014848,Kosciusko,Kosciusko,MS,Kosciusko-MS,Mississippi,28007,Attala,33.0585,-89.5893,6735,7139,365,polygon,TRUE,America/Chicago,39090
+Renova-MS,1840017977,Renova,Renova,MS,Renova-MS,Mississippi,28011,Bolivar,33.7804,-90.7232,734,734,326,polygon,TRUE,America/Chicago,38732
+University-MS,1840032487,University,University,MS,University-MS,Mississippi,28071,Lafayette,34.365,-89.5383,,,560.3,polygon,FALSE,America/Chicago,38677
+Arnold Line-MS,1840025971,Arnold Line,Arnold Line,MS,Arnold Line-MS,Mississippi,28073,Lamar,31.3371,-89.3772,,,546.5,polygon,FALSE,America/Chicago,39402
+Crowder-MS,1840016646,Crowder,Crowder,MS,Crowder-MS,Mississippi,28119,Quitman,34.1729,-90.1377,663,663,560,polygon,TRUE,America/Chicago,38622
+Bellefontaine-MS,1840032275,Bellefontaine,Bellefontaine,MS,Bellefontaine-MS,Mississippi,28155,Webster,33.6487,-89.3101,,,16,point,FALSE,America/Chicago,39737
+Daleville-MS,1840032297,Daleville,Daleville,MS,Daleville-MS,Mississippi,28075,Lauderdale,32.5699,-88.6762,,,19.8,point,FALSE,America/Chicago,39326
+Clinton-MS,1840014893,Clinton,Clinton,MS,Clinton-MS,Mississippi,28049,Hinds,32.354,-90.3403,25211,25211,232,polygon,TRUE,America/Chicago,39056 39058 39060
+Kilmichael-MS,1840016832,Kilmichael,Kilmichael,MS,Kilmichael-MS,Mississippi,28097,Montgomery,33.4404,-89.5673,595,595,82,polygon,TRUE,America/Chicago,39747
+Indianola-MS,1840014774,Indianola,Indianola,MS,Indianola-MS,Mississippi,28133,Sunflower,33.4492,-90.6447,9406,9655,434,polygon,TRUE,America/Chicago,38751
+Collinsville-MS,1840013101,Collinsville,Collinsville,MS,Collinsville-MS,Mississippi,28075,Lauderdale,32.4912,-88.8452,,,172,polygon,FALSE,America/Chicago,39325
+Longview-MS,1840032355,Longview,Longview,MS,Longview-MS,Mississippi,28105,Oktibbeha,33.404,-88.9212,,,111.3,point,FALSE,America/Chicago,39759
+Lessley-MS,1840032352,Lessley,Lessley,MS,Lessley-MS,Mississippi,28157,Wilkinson,31.1613,-91.4296,,,3,point,FALSE,America/Chicago,39669
+Sanford-MS,1840032421,Sanford,Sanford,MS,Sanford-MS,Mississippi,28031,Covington,31.4868,-89.427,,,57.9,point,FALSE,America/Chicago,39479
+Sweatman-MS,1840032447,Sweatman,Sweatman,MS,Sweatman-MS,Mississippi,28097,Montgomery,33.6343,-89.5798,,,5.4,point,FALSE,America/Chicago,38925
+Port Gibson-MS,1840014921,Port Gibson,Port Gibson,MS,Port Gibson-MS,Mississippi,28021,Claiborne,31.9558,-90.9834,1430,1430,314,polygon,TRUE,America/Chicago,39150
+Wiggins-MS,1840015904,Wiggins,Wiggins,MS,Wiggins-MS,Mississippi,28131,Stone,30.8557,-89.1386,3900,4545,163,polygon,TRUE,America/Chicago,39577
+Ackerman-MS,1840015717,Ackerman,Ackerman,MS,Ackerman-MS,Mississippi,28019,Choctaw,33.311,-89.1711,1469,1469,252,polygon,TRUE,America/Chicago,39735
+Kendrick-MS,1840032345,Kendrick,Kendrick,MS,Kendrick-MS,Mississippi,28003,Alcorn,34.9704,-88.3817,,,21.9,point,FALSE,America/Chicago,38834
+Banks-MS,1840032268,Banks,Banks,MS,Banks-MS,Mississippi,28143,Tunica,34.8259,-90.2298,,,4.4,point,FALSE,America/Chicago,38664
+Bigbee Valley-MS,1840032278,Bigbee Valley,Bigbee Valley,MS,Bigbee Valley-MS,Mississippi,28103,Noxubee,33.2482,-88.3498,,,23.4,point,FALSE,America/Chicago,39739
+Waterford-MS,1840032552,Waterford,Waterford,MS,Waterford-MS,Mississippi,28093,Marshall,34.6476,-89.4573,,,16.5,point,FALSE,America/Chicago,38635
+Hollywood-MS,1840032336,Hollywood,Hollywood,MS,Hollywood-MS,Mississippi,28143,Tunica,34.7454,-90.3582,,,70.7,point,FALSE,America/Chicago,38676
+Hatley-MS,1840016750,Hatley,Hatley,MS,Hatley-MS,Mississippi,28095,Monroe,33.9773,-88.4184,467,467,131,polygon,TRUE,America/Chicago,38821
+Stringer-MS,1840032442,Stringer,Stringer,MS,Stringer-MS,Mississippi,28061,Jasper,31.8668,-89.2634,,,38.5,point,FALSE,America/Chicago,39481
+West Hattiesburg-MS,1840032564,West Hattiesburg,West Hattiesburg,MS,West Hattiesburg-MS,Mississippi,28073,Lamar,31.3112,-89.3738,,,204,polygon,FALSE,America/Chicago,39402
+Winchester-MS,1840032473,Winchester,Winchester,MS,Winchester-MS,Mississippi,28153,Wayne,31.6177,-88.5906,,,19.1,point,FALSE,America/Chicago,39367
+Anding-MS,1840032484,Anding,Anding,MS,Anding-MS,Mississippi,28163,Yazoo,32.6921,-90.3979,,,20,point,FALSE,America/Chicago,39040
+Fayette-MS,1840013853,Fayette,Fayette,MS,Fayette-MS,Mississippi,28063,Jefferson,31.7123,-91.062,1527,1527,501,polygon,TRUE,America/Chicago,39069
+Springville-MS,1840032436,Springville,Springville,MS,Springville-MS,Mississippi,28115,Pontotoc,34.2318,-89.1037,,,32.3,point,FALSE,America/Chicago,38863
+Gatesville-MS,1840032499,Gatesville,Gatesville,MS,Gatesville-MS,Mississippi,28029,Copiah,31.9979,-90.2434,,,11.7,point,FALSE,America/Chicago,39059
+Rolling Fork-MS,1840014860,Rolling Fork,Rolling Fork,MS,Rolling Fork-MS,Mississippi,28125,Sharkey,32.9073,-90.8769,2025,2025,553,polygon,TRUE,America/Chicago,39159
+Clarkson-MS,1840032294,Clarkson,Clarkson,MS,Clarkson-MS,Mississippi,28155,Webster,33.6354,-89.1495,,,20.4,point,FALSE,America/Chicago,39752
+Mantee-MS,1840018005,Mantee,Mantee,MS,Mantee-MS,Mississippi,28155,Webster,33.7226,-89.0597,221,221,19,polygon,TRUE,America/Chicago,39751
+Sumrall-MS,1840017106,Sumrall,Sumrall,MS,Sumrall-MS,Mississippi,28073,Lamar,31.4171,-89.5423,1728,1728,178,polygon,TRUE,America/Chicago,39482
+Cleary-MS,1840025905,Cleary,Cleary,MS,Cleary-MS,Mississippi,28121,Rankin,32.1635,-90.182,,,301.1,polygon,FALSE,America/Chicago,39073
+Prairie Point-MS,1840032403,Prairie Point,Prairie Point,MS,Prairie Point-MS,Mississippi,28103,Noxubee,33.1473,-88.3936,,,3.8,point,FALSE,America/Chicago,39341
+Enterprise-MS,1840017032,Enterprise,Enterprise,MS,Enterprise-MS,Mississippi,28023,Clarke,32.1731,-88.8162,499,499,79,polygon,TRUE,America/Chicago,39330
+Charleston-MS,1840014746,Charleston,Charleston,MS,Charleston-MS,Mississippi,28135,Tallahatchie,34.0075,-90.0552,2685,2010,574,polygon,TRUE,America/Chicago,38921
+Tremont-MS,1840016670,Tremont,Tremont,MS,Tremont-MS,Mississippi,28057,Itawamba,34.2327,-88.2507,464,464,36,polygon,TRUE,America/Chicago,38876
+Coffeeville-MS,1840016732,Coffeeville,Coffeeville,MS,Coffeeville-MS,Mississippi,28161,Yalobusha,33.9765,-89.6845,871,871,156,polygon,TRUE,America/Chicago,38922
+Bolton-MS,1840015807,Bolton,Bolton,MS,Bolton-MS,Mississippi,28049,Hinds,32.3546,-90.4586,543,543,137,polygon,TRUE,America/Chicago,39041
+Bonhomie-MS,1840032285,Bonhomie,Bonhomie,MS,Bonhomie-MS,Mississippi,28035,Forrest,31.2891,-89.3098,,,164.4,point,FALSE,America/Chicago,39401
+Ansley-MS,1840032560,Ansley,Ansley,MS,Ansley-MS,Mississippi,28045,Hancock,30.2252,-89.4837,,,21.6,point,FALSE,America/Chicago,39520
+Thomastown-MS,1840032448,Thomastown,Thomastown,MS,Thomastown-MS,Mississippi,28079,Leake,32.864,-89.6695,,,22.8,point,FALSE,America/Chicago,39090
+Woodville-MS,1840017109,Woodville,Woodville,MS,Woodville-MS,Mississippi,28157,Wilkinson,31.1029,-91.2992,986,986,367,polygon,TRUE,America/Chicago,39669
+Maxie-MS,1840032533,Maxie,Maxie,MS,Maxie-MS,Mississippi,28035,Forrest,30.978,-89.1959,,,24.1,point,FALSE,America/Chicago,39425
+Union Church-MS,1840032550,Union Church,Union Church,MS,Union Church-MS,Mississippi,28063,Jefferson,31.6829,-90.7876,,,3,point,FALSE,America/Chicago,39668
+Auburn-MS,1840032265,Auburn,Auburn,MS,Auburn-MS,Mississippi,28085,Lincoln,31.3593,-90.6079,,,18.2,point,FALSE,America/Chicago,39666
+Bay Springs-MS,1840013843,Bay Springs,Bay Springs,MS,Bay Springs-MS,Mississippi,28061,Jasper,31.9772,-89.2792,1738,1738,44,polygon,TRUE,America/Chicago,39422
+Vaiden-MS,1840016835,Vaiden,Vaiden,MS,Vaiden-MS,Mississippi,28015,Carroll,33.3332,-89.7533,980,980,176,polygon,TRUE,America/Chicago,39176
+Tula-MS,1840032456,Tula,Tula,MS,Tula-MS,Mississippi,28071,Lafayette,34.2329,-89.3623,,,7.9,point,FALSE,America/Chicago,38655
+Bude-MS,1840015862,Bude,Bude,MS,Bude-MS,Mississippi,28037,Franklin,31.463,-90.8509,1017,1017,275,polygon,TRUE,America/Chicago,39630
+Howison-MS,1840032528,Howison,Howison,MS,Howison-MS,Mississippi,28047,Harrison,30.6655,-89.1384,,,51.6,point,FALSE,America/Chicago,39574
+Denham-MS,1840032497,Denham,Denham,MS,Denham-MS,Mississippi,28153,Wayne,31.6538,-88.5256,,,7.7,point,FALSE,America/Chicago,39367
+Farmington-MS,1840016512,Farmington,Farmington,MS,Farmington-MS,Mississippi,28003,Alcorn,34.9224,-88.4432,2189,2189,132,polygon,TRUE,America/Chicago,38834
+Hide-A-Way Lake-MS,1840032566,Hide-A-Way Lake,Hide-A-Way Lake,MS,Hide-A-Way Lake-MS,Mississippi,28109,Pearl River,30.574,-89.6417,,,236.9,polygon,FALSE,America/Chicago,39426
+New Hope-MS,1840013745,New Hope,New Hope,MS,New Hope-MS,Mississippi,28087,Lowndes,33.4521,-88.3399,,,74.3,polygon,FALSE,America/Chicago,39702
+Philadelphia-MS,1840014869,Philadelphia,Philadelphia,MS,Philadelphia-MS,Mississippi,28099,Neshoba,32.7761,-89.1221,7639,7361,232,polygon,TRUE,America/Chicago,39350
+Battles-MS,1840032491,Battles,Battles,MS,Battles-MS,Mississippi,28153,Wayne,31.5018,-88.5095,,,39.5,point,FALSE,America/Chicago,39362
+Tutwiler-MS,1840016741,Tutwiler,Tutwiler,MS,Tutwiler-MS,Mississippi,28135,Tallahatchie,34.0121,-90.4301,1111,1111,322,polygon,TRUE,America/Chicago,38963
+Goodman-MS,1840016880,Goodman,Goodman,MS,Goodman-MS,Mississippi,28051,Holmes,32.9677,-89.9128,1313,1313,616,polygon,TRUE,America/Chicago,39079
+Coila-MS,1840032295,Coila,Coila,MS,Coila-MS,Mississippi,28015,Carroll,33.3954,-89.9712,,,7.9,point,FALSE,America/Chicago,38923
+Renfroe-MS,1840032412,Renfroe,Renfroe,MS,Renfroe-MS,Mississippi,28079,Leake,32.8596,-89.4512,,,19.1,point,FALSE,America/Chicago,39051
+Crawford-MS,1840016815,Crawford,Crawford,MS,Crawford-MS,Mississippi,28087,Lowndes,33.3023,-88.6253,650,650,179,polygon,TRUE,America/Chicago,39743
+De Soto-MS,1840032301,De Soto,De Soto,MS,De Soto-MS,Mississippi,28023,Clarke,31.9738,-88.7134,,,49.3,point,FALSE,America/Chicago,39360
+Starkville-MS,1840015713,Starkville,Starkville,MS,Starkville-MS,Mississippi,28105,Oktibbeha,33.4608,-88.8297,32441,25570,386,polygon,TRUE,America/Chicago,39759 39762
+Matherville-MS,1840032360,Matherville,Matherville,MS,Matherville-MS,Mississippi,28153,Wayne,31.8657,-88.5656,,,5,point,FALSE,America/Chicago,39360
+Amory-MS,1840013686,Amory,Amory,MS,Amory-MS,Mississippi,28095,Monroe,33.9813,-88.4823,6343,7067,217,polygon,TRUE,America/Chicago,38821
+Tamola-MS,1840032511,Tamola,Tamola,MS,Tamola-MS,Mississippi,28069,Kemper,32.5868,-88.477,,,13.9,point,FALSE,America/Chicago,39335
+Roxie-MS,1840018175,Roxie,Roxie,MS,Roxie-MS,Mississippi,28037,Franklin,31.5046,-91.0676,475,475,162,polygon,TRUE,America/Chicago,39661
+Kearney Park-MS,1840025892,Kearney Park,Kearney Park,MS,Kearney Park-MS,Mississippi,28089,Madison,32.5897,-90.3158,,,204.3,polygon,FALSE,America/Chicago,39071
+Caledonia-MS,1840015690,Caledonia,Caledonia,MS,Caledonia-MS,Mississippi,28087,Lowndes,33.6836,-88.326,1050,1050,143,polygon,TRUE,America/Chicago,39740
+Decatur-MS,1840016988,Decatur,Decatur,MS,Decatur-MS,Mississippi,28101,Newton,32.4339,-89.1092,1788,1788,125,polygon,TRUE,America/Chicago,39327
+Eupora-MS,1840013746,Eupora,Eupora,MS,Eupora-MS,Mississippi,28155,Webster,33.5436,-89.2766,2075,2075,241,polygon,TRUE,America/Chicago,39744
+Hiwannee-MS,1840032334,Hiwannee,Hiwannee,MS,Hiwannee-MS,Mississippi,28153,Wayne,31.8102,-88.6906,,,14.9,point,FALSE,America/Chicago,39367
+Thorn-MS,1840032449,Thorn,Thorn,MS,Thorn-MS,Mississippi,28017,Chickasaw,33.9426,-89.1026,,,12,point,FALSE,America/Chicago,38851
+Pheba-MS,1840032394,Pheba,Pheba,MS,Pheba-MS,Mississippi,28025,Clay,33.5843,-88.9498,,,25.4,point,FALSE,America/Chicago,39755
+Benton-MS,1840032276,Benton,Benton,MS,Benton-MS,Mississippi,28163,Yazoo,32.8265,-90.2595,,,25.3,point,FALSE,America/Chicago,39039
+Leflore-MS,1840032351,Leflore,Leflore,MS,Leflore-MS,Mississippi,28043,Grenada,33.6937,-90.0548,,,4.1,point,FALSE,America/Chicago,38940
+Freeny-MS,1840032319,Freeny,Freeny,MS,Freeny-MS,Mississippi,28079,Leake,32.701,-89.4815,,,18.6,point,FALSE,America/Chicago,39051
+Natchez-MS,1840014951,Natchez,Natchez,MS,Natchez-MS,Mississippi,28001,Adams,31.5437,-91.3869,26977,15109,368,polygon,TRUE,America/Chicago,39120 39121 39122
+Satartia-MS,1840018054,Satartia,Satartia,MS,Satartia-MS,Mississippi,28163,Yazoo,32.672,-90.5445,53,53,142,polygon,TRUE,America/Chicago,39162
+Leland-MS,1840014831,Leland,Leland,MS,Leland-MS,Mississippi,28151,Washington,33.4051,-90.891,4157,4104,441,polygon,TRUE,America/Chicago,38756
+Bond-MS,1840032514,Bond,Bond,MS,Bond-MS,Mississippi,28131,Stone,30.8944,-89.1687,,,194.3,point,FALSE,America/Chicago,39577
+Winborn-MS,1840032555,Winborn,Winborn,MS,Winborn-MS,Mississippi,28009,Benton,34.6312,-89.2731,,,41.2,point,FALSE,America/Chicago,38659
+Wesson-MS,1840017047,Wesson,Wesson,MS,Wesson-MS,Mississippi,28029,Copiah,31.6999,-90.3958,1891,1891,164,polygon,TRUE,America/Chicago,39191
+Biggersville-MS,1840032279,Biggersville,Biggersville,MS,Biggersville-MS,Mississippi,28003,Alcorn,34.8356,-88.5587,,,72.4,point,FALSE,America/Chicago,38834
+Egypt-MS,1840032312,Egypt,Egypt,MS,Egypt-MS,Mississippi,28017,Chickasaw,33.8984,-88.7298,,,14.3,point,FALSE,America/Chicago,38860
+Johns-MS,1840032344,Johns,Johns,MS,Johns-MS,Mississippi,28121,Rankin,32.131,-89.8381,,,38,point,FALSE,America/Chicago,39042
+Doddsville-MS,1840016776,Doddsville,Doddsville,MS,Doddsville-MS,Mississippi,28133,Sunflower,33.6599,-90.5214,89,89,44,polygon,TRUE,America/Chicago,38736
+Eagle Bend-MS,1840032309,Eagle Bend,Eagle Bend,MS,Eagle Bend-MS,Mississippi,28149,Warren,32.5204,-91.0068,,,19,point,FALSE,America/Chicago,39183
+Walnut Grove-MS,1840016953,Walnut Grove,Walnut Grove,MS,Walnut Grove-MS,Mississippi,28079,Leake,32.5932,-89.4578,1608,1608,384,polygon,TRUE,America/Chicago,39189
+Summit-MS,1840017116,Summit,Summit,MS,Summit-MS,Mississippi,28113,Pike,31.2808,-90.467,1651,1651,281,polygon,TRUE,America/Chicago,39666
+Sibley-MS,1840032429,Sibley,Sibley,MS,Sibley-MS,Mississippi,28001,Adams,31.3793,-91.3987,,,7,point,FALSE,America/Chicago,39120
+Sunflower-MS,1840016777,Sunflower,Sunflower,MS,Sunflower-MS,Mississippi,28133,Sunflower,33.5444,-90.5373,1049,1049,663,polygon,TRUE,America/Chicago,38778
+Burnsville-MS,1840015517,Burnsville,Burnsville,MS,Burnsville-MS,Mississippi,28141,Tishomingo,34.8348,-88.3178,930,930,75,polygon,TRUE,America/Chicago,38833
+Pontotoc-MS,1840014705,Pontotoc,Pontotoc,MS,Pontotoc-MS,Mississippi,28115,Pontotoc,34.2532,-89.0091,5221,6109,210,polygon,TRUE,America/Chicago,38863
+Wanilla-MS,1840032464,Wanilla,Wanilla,MS,Wanilla-MS,Mississippi,28077,Lawrence,31.6429,-90.1318,,,27.5,point,FALSE,America/Chicago,39654
+Glendora-MS,1840017973,Glendora,Glendora,MS,Glendora-MS,Mississippi,28135,Tallahatchie,33.8276,-90.2927,139,139,371,polygon,TRUE,America/Chicago,38928
+Gulf Park Estates-MS,1840032475,Gulf Park Estates,Gulf Park Estates,MS,Gulf Park Estates-MS,Mississippi,28059,Jackson,30.3801,-88.7581,,,639.2,polygon,FALSE,America/Chicago,39564
+Carriere-MS,1840032291,Carriere,Carriere,MS,Carriere-MS,Mississippi,28109,Pearl River,30.6169,-89.6526,,,211,point,FALSE,America/Chicago,39426
+Gunnison-MS,1840016747,Gunnison,Gunnison,MS,Gunnison-MS,Mississippi,28011,Bolivar,33.9437,-90.9468,422,422,166,polygon,TRUE,America/Chicago,38746
+Wilkinson-MS,1840032554,Wilkinson,Wilkinson,MS,Wilkinson-MS,Mississippi,28157,Wilkinson,31.2224,-91.239,,,14,point,FALSE,America/Chicago,39669
+Independence-MS,1840032341,Independence,Independence,MS,Independence-MS,Mississippi,28137,Tate,34.7051,-89.809,,,45.7,point,FALSE,America/Chicago,38618
+Holcut-MS,1840032335,Holcut,Holcut,MS,Holcut-MS,Mississippi,28141,Tishomingo,34.7298,-88.3059,,,1.2,point,FALSE,America/Chicago,38852
+Moselle-MS,1840032376,Moselle,Moselle,MS,Moselle-MS,Mississippi,28067,Jones,31.5024,-89.2789,,,142.4,point,FALSE,America/Chicago,39459
+Bissell-MS,1840032280,Bissell,Bissell,MS,Bissell-MS,Mississippi,28081,Lee,34.2462,-88.7828,,,70.5,point,FALSE,America/Chicago,38801
+McNeill-MS,1840032367,McNeill,McNeill,MS,McNeill-MS,Mississippi,28109,Pearl River,30.6688,-89.6384,,,60.1,point,FALSE,America/Chicago,39426
+Beulah-MS,1840015626,Beulah,Beulah,MS,Beulah-MS,Mississippi,28011,Bolivar,33.7905,-90.9802,325,325,270,polygon,TRUE,America/Chicago,38726
+Winstonville-MS,1840016748,Winstonville,Winstonville,MS,Winstonville-MS,Mississippi,28011,Bolivar,33.9123,-90.7529,178,178,232,polygon,TRUE,America/Chicago,38762 38781
+Biloxi-MS,1840013948,Biloxi,Biloxi,MS,Biloxi-MS,Mississippi,28047,Harrison,30.4393,-88.9542,45975,45975,464,polygon,TRUE,America/Chicago,39531 39530 39532 39534 39533 39535
+Coldwater-MS,1840016596,Coldwater,Coldwater,MS,Coldwater-MS,Mississippi,28137,Tate,34.6902,-89.9757,1585,1585,257,polygon,TRUE,America/Chicago,38618
+Kolola Springs-MS,1840032347,Kolola Springs,Kolola Springs,MS,Kolola Springs-MS,Mississippi,28087,Lowndes,33.654,-88.4089,,,27.7,point,FALSE,America/Chicago,39740
+Pascagoula-MS,1840015018,Pascagoula,Pascagoula,MS,Pascagoula-MS,Mississippi,28059,Jackson,30.3665,-88.5507,49504,21981,551,polygon,TRUE,America/Chicago,39581 39567 39568 39569 39595
+Byhalia-MS,1840015522,Byhalia,Byhalia,MS,Byhalia-MS,Mississippi,28093,Marshall,34.869,-89.689,1245,1245,67,polygon,TRUE,America/Chicago,38611
+Wallerville-MS,1840032462,Wallerville,Wallerville,MS,Wallerville-MS,Mississippi,28145,Union,34.4418,-88.9459,,,21.4,point,FALSE,America/Chicago,38652
+Dublin-MS,1840032307,Dublin,Dublin,MS,Dublin-MS,Mississippi,28027,Coahoma,34.0723,-90.4907,,,22.3,point,FALSE,America/Chicago,38614
+Lexington-MS,1840014845,Lexington,Lexington,MS,Lexington-MS,Mississippi,28051,Holmes,33.1163,-90.0498,1573,1573,251,polygon,TRUE,America/Chicago,39095
+Value-MS,1840032458,Value,Value,MS,Value-MS,Mississippi,28121,Rankin,32.2876,-89.9956,,,311.2,point,FALSE,America/Chicago,39042
+Williamsburg-MS,1840032472,Williamsburg,Williamsburg,MS,Williamsburg-MS,Mississippi,28031,Covington,31.6193,-89.6106,,,26.7,point,FALSE,America/Chicago,39428
+Louin-MS,1840017035,Louin,Louin,MS,Louin-MS,Mississippi,28061,Jasper,32.0722,-89.2626,268,268,17,polygon,TRUE,America/Chicago,39338
+Rodney-MS,1840032416,Rodney,Rodney,MS,Rodney-MS,Mississippi,28063,Jefferson,31.8613,-91.1998,,,1,point,FALSE,America/Chicago,39096
+Midway-MS,1840032371,Midway,Midway,MS,Midway-MS,Mississippi,28163,Yazoo,32.8865,-90.1923,,,1.6,point,FALSE,America/Chicago,39039
+New Albany-MS,1840014678,New Albany,New Albany,MS,New Albany-MS,Mississippi,28145,Union,34.4909,-89.0201,7253,8786,186,polygon,TRUE,America/Chicago,38652
+Goss-MS,1840032325,Goss,Goss,MS,Goss-MS,Mississippi,28091,Marion,31.3555,-89.8887,,,45.3,point,FALSE,America/Chicago,39429
+Washington-MS,1840032465,Washington,Washington,MS,Washington-MS,Mississippi,28001,Adams,31.5788,-91.2993,,,64.4,point,FALSE,America/Chicago,39120
+Prairie-MS,1840032402,Prairie,Prairie,MS,Prairie-MS,Mississippi,28095,Monroe,33.7968,-88.6675,,,32.2,point,FALSE,America/Chicago,39756
+Marion-MS,1840016986,Marion,Marion,MS,Marion-MS,Mississippi,28075,Lauderdale,32.4272,-88.6502,1555,1555,206,polygon,TRUE,America/Chicago,39342 39305
+Rockport-MS,1840032415,Rockport,Rockport,MS,Rockport-MS,Mississippi,28029,Copiah,31.7949,-90.1568,,,13.4,point,FALSE,America/Chicago,39083
+Ebenezer-MS,1840032311,Ebenezer,Ebenezer,MS,Ebenezer-MS,Mississippi,28051,Holmes,32.9707,-90.0909,,,15.4,point,FALSE,America/Chicago,39095
+Baxterville-MS,1840032272,Baxterville,Baxterville,MS,Baxterville-MS,Mississippi,28073,Lamar,31.0841,-89.5903,,,25.5,point,FALSE,America/Chicago,39455
+Gulfport-MS,1840013947,Gulfport,Gulfport,MS,Gulfport-MS,Mississippi,28047,Harrison,30.4271,-89.0703,222131,72076,500,polygon,TRUE,America/Chicago,39501 39503 39507 39502 39505 39506
+Jackson-MS,1840014895,Jackson,Jackson,MS,Jackson-MS,Mississippi,28049,Hinds,32.3163,-90.2124,342607,169148,588,polygon,TRUE,America/Chicago,39272 39206 39204 39203 39202 39201 39209 39269 39174 39211 39212 39213 39216 39217 39205 39207 39210 39215 39225 39236 39250 39271 39282 39283 39284 39286 39288 39289 39296 39298
+Merigold-MS,1840016745,Merigold,Merigold,MS,Merigold-MS,Mississippi,28011,Bolivar,33.8392,-90.7264,410,410,163,polygon,TRUE,America/Chicago,38759
+Mashulaville-MS,1840032359,Mashulaville,Mashulaville,MS,Mashulaville-MS,Mississippi,28103,Noxubee,33.0868,-88.7442,,,11.8,point,FALSE,America/Chicago,39341
+Kokomo-MS,1840032346,Kokomo,Kokomo,MS,Kokomo-MS,Mississippi,28091,Marion,31.1974,-90.0029,,,37.9,point,FALSE,America/Chicago,39643
+Evansville-MS,1840032315,Evansville,Evansville,MS,Evansville-MS,Mississippi,28143,Tunica,34.6404,-90.3887,,,1.3,point,FALSE,America/Chicago,38676
+Electric Mills-MS,1840032313,Electric Mills,Electric Mills,MS,Electric Mills-MS,Mississippi,28069,Kemper,32.7693,-88.4639,,,20.6,point,FALSE,America/Chicago,39358
+Bobo-MS,1840032283,Bobo,Bobo,MS,Bobo-MS,Mississippi,28027,Coahoma,34.1321,-90.6757,,,88,point,FALSE,America/Chicago,38614
+Cloverdale-MS,1840025950,Cloverdale,Cloverdale,MS,Cloverdale-MS,Mississippi,28001,Adams,31.496,-91.4152,,,140.4,polygon,FALSE,America/Chicago,39120
+Dossville-MS,1840032305,Dossville,Dossville,MS,Dossville-MS,Mississippi,28079,Leake,32.9307,-89.5498,,,20.3,point,FALSE,America/Chicago,39051
+Taylorsville-MS,1840017038,Taylorsville,Taylorsville,MS,Taylorsville-MS,Mississippi,28129,Smith,31.8322,-89.4342,1286,1286,128,polygon,TRUE,America/Chicago,39168
+McCall Creek-MS,1840032364,McCall Creek,McCall Creek,MS,McCall Creek-MS,Mississippi,28037,Franklin,31.5127,-90.6987,,,50.6,point,FALSE,America/Chicago,39647
+Baldwyn-MS,1840013590,Baldwyn,Baldwyn,MS,Baldwyn-MS,Mississippi,28081,Lee,34.5071,-88.6416,3332,3332,110,polygon,TRUE,America/Chicago,38824
+Lauderdale-MS,1840025906,Lauderdale,Lauderdale,MS,Lauderdale-MS,Mississippi,28075,Lauderdale,32.5104,-88.5264,,,79.4,polygon,FALSE,America/Chicago,39335
+Terry-MS,1840016992,Terry,Terry,MS,Terry-MS,Mississippi,28049,Hinds,32.1047,-90.298,1112,1112,112,polygon,TRUE,America/Chicago,39170
+Runnelstown-MS,1840032544,Runnelstown,Runnelstown,MS,Runnelstown-MS,Mississippi,28111,Perry,31.3757,-89.1117,,,55.9,point,FALSE,America/Chicago,39465
+Leedy-MS,1840032350,Leedy,Leedy,MS,Leedy-MS,Mississippi,28141,Tishomingo,34.7954,-88.3612,,,39.6,point,FALSE,America/Chicago,38833
+Eddiceton-MS,1840032520,Eddiceton,Eddiceton,MS,Eddiceton-MS,Mississippi,28037,Franklin,31.5021,-90.7915,,,27.9,point,FALSE,America/Chicago,39647
+Crenshaw-MS,1840016645,Crenshaw,Crenshaw,MS,Crenshaw-MS,Mississippi,28119,Quitman,34.5047,-90.1946,853,853,801,polygon,TRUE,America/Chicago,38621
+Paden-MS,1840017896,Paden,Paden,MS,Paden-MS,Mississippi,28141,Tishomingo,34.6604,-88.2605,115,115,49,polygon,TRUE,America/Chicago,38873
+Coahoma-MS,1840016642,Coahoma,Coahoma,MS,Coahoma-MS,Mississippi,28027,Coahoma,34.3664,-90.522,343,343,677,polygon,TRUE,America/Chicago,38617
+Stonewall-MS,1840017033,Stonewall,Stonewall,MS,Stonewall-MS,Mississippi,28023,Clarke,32.1364,-88.7958,1021,1021,148,polygon,TRUE,America/Chicago,39330 39363
+Big Creek-MS,1840017974,Big Creek,Big Creek,MS,Big Creek-MS,Mississippi,28013,Calhoun,33.8464,-89.4159,150,150,51,polygon,TRUE,America/Chicago,38914
+Ecru-MS,1840016678,Ecru,Ecru,MS,Ecru-MS,Mississippi,28115,Pontotoc,34.355,-89.0222,982,982,80,polygon,TRUE,America/Chicago,38841
+Belzoni-MS,1840013777,Belzoni,Belzoni,MS,Belzoni-MS,Mississippi,28053,Humphreys,33.1804,-90.4863,4269,2029,769,polygon,TRUE,America/Chicago,39038
+Belen-MS,1840032274,Belen,Belen,MS,Belen-MS,Mississippi,28119,Quitman,34.2732,-90.3543,,,8.2,point,FALSE,America/Chicago,38646
+Blue Mountain-MS,1840015518,Blue Mountain,Blue Mountain,MS,Blue Mountain-MS,Mississippi,28139,Tippah,34.6739,-89.0262,954,954,224,polygon,TRUE,America/Chicago,38610
+Mount Carmel-MS,1840032377,Mount Carmel,Mount Carmel,MS,Mount Carmel-MS,Mississippi,28065,Jefferson Davis,31.6452,-89.7898,,,7.9,point,FALSE,America/Chicago,39474
+Talowah-MS,1840032546,Talowah,Talowah,MS,Talowah-MS,Mississippi,28073,Lamar,31.076,-89.4303,,,28.8,point,FALSE,America/Chicago,39455
+Fulton-MS,1840013619,Fulton,Fulton,MS,Fulton-MS,Mississippi,28057,Itawamba,34.2616,-88.4021,3302,4066,184,polygon,TRUE,America/Chicago,38843
+Calhoun City-MS,1840015618,Calhoun City,Calhoun City,MS,Calhoun City-MS,Mississippi,28013,Calhoun,33.8588,-89.3145,1725,1725,282,polygon,TRUE,America/Chicago,38916
+McDonald-MS,1840032365,McDonald,McDonald,MS,McDonald-MS,Mississippi,28099,Neshoba,32.6604,-89.1328,,,13.7,point,FALSE,America/Chicago,39365
+Etta-MS,1840032522,Etta,Etta,MS,Etta-MS,Mississippi,28145,Union,34.4704,-89.2276,,,18,point,FALSE,America/Chicago,38627
+McMillan-MS,1840032537,McMillan,McMillan,MS,McMillan-MS,Mississippi,28159,Winston,33.1701,-89.1092,,,9.3,point,FALSE,America/Chicago,39339
+Harriston-MS,1840032328,Harriston,Harriston,MS,Harriston-MS,Mississippi,28063,Jefferson,31.7252,-91.0323,,,26.3,point,FALSE,America/Chicago,39069
+Darbun-MS,1840032298,Darbun,Darbun,MS,Darbun-MS,Mississippi,28147,Walthall,31.2763,-90.047,,,8.2,point,FALSE,America/Chicago,39643
+Smithville-MS,1840017979,Smithville,Smithville,MS,Smithville-MS,Mississippi,28095,Monroe,34.068,-88.3983,913,913,237,polygon,TRUE,America/Chicago,38870
+Aberdeen-MS,1840013685,Aberdeen,Aberdeen,MS,Aberdeen-MS,Mississippi,28095,Monroe,33.8287,-88.5539,4482,5391,172,polygon,TRUE,America/Chicago,39730
+Ellisville-MS,1840013856,Ellisville,Ellisville,MS,Ellisville-MS,Mississippi,28067,Jones,31.5969,-89.2091,4567,4567,168,polygon,TRUE,America/Chicago,39437
+Vaughan-MS,1840032460,Vaughan,Vaughan,MS,Vaughan-MS,Mississippi,28163,Yazoo,32.8065,-90.0418,,,17.7,point,FALSE,America/Chicago,39179
+Rosetta-MS,1840032543,Rosetta,Rosetta,MS,Rosetta-MS,Mississippi,28157,Wilkinson,31.3166,-91.1009,,,3.9,point,FALSE,America/Chicago,39633
+Geeville-MS,1840032321,Geeville,Geeville,MS,Geeville-MS,Mississippi,28117,Prentiss,34.5762,-88.6909,,,13.6,point,FALSE,America/Chicago,38824
+Pearl-MS,1840014888,Pearl,Pearl,MS,Pearl-MS,Mississippi,28121,Rankin,32.273,-90.0918,26485,26485,401,polygon,TRUE,America/Chicago,39208
+Vicksburg-MS,1840015802,Vicksburg,Vicksburg,MS,Vicksburg-MS,Mississippi,28149,Warren,32.3173,-90.8868,27887,22925,268,polygon,TRUE,America/Chicago,39180 39183 39181 39182
+Forest-MS,1840013822,Forest,Forest,MS,Forest-MS,Mississippi,28123,Scott,32.3595,-89.4761,4877,5672,167,polygon,TRUE,America/Chicago,39074
+Union-MS,1840016989,Union,Union,MS,Union-MS,Mississippi,28101,Newton,32.5711,-89.1152,1971,1971,222,polygon,TRUE,America/Chicago,39365
+McHenry-MS,1840032535,McHenry,McHenry,MS,McHenry-MS,Mississippi,28131,Stone,30.7077,-89.1384,,,97.8,point,FALSE,America/Chicago,39561
+Trebloc-MS,1840032455,Trebloc,Trebloc,MS,Trebloc-MS,Mississippi,28017,Chickasaw,33.8412,-88.8303,,,11.1,point,FALSE,America/Chicago,38851
+Senatobia-MS,1840015545,Senatobia,Senatobia,MS,Senatobia-MS,Mississippi,28137,Tate,34.6081,-89.9762,6325,7909,196,polygon,TRUE,America/Chicago,38668
+Eastport-MS,1840032310,Eastport,Eastport,MS,Eastport-MS,Mississippi,28141,Tishomingo,34.8856,-88.1006,,,22.3,point,FALSE,America/Chicago,38852
+Cary-MS,1840016918,Cary,Cary,MS,Cary-MS,Mississippi,28125,Sharkey,32.8056,-90.9246,285,285,155,polygon,TRUE,America/Chicago,39054 39159
+Stafford Springs-MS,1840032437,Stafford Springs,Stafford Springs,MS,Stafford Springs-MS,Mississippi,28061,Jasper,31.9049,-88.9334,,,5.6,point,FALSE,America/Chicago,39439
+Lambert-MS,1840016644,Lambert,Lambert,MS,Lambert-MS,Mississippi,28119,Quitman,34.2006,-90.2845,1462,1462,667,polygon,TRUE,America/Chicago,38643
+Winona-MS,1840015702,Winona,Winona,MS,Winona-MS,Mississippi,28097,Montgomery,33.4899,-89.728,3813,4383,125,polygon,TRUE,America/Chicago,38967
+Brooklyn-MS,1840032515,Brooklyn,Brooklyn,MS,Brooklyn-MS,Mississippi,28035,Forrest,31.0563,-89.1862,,,109.8,point,FALSE,America/Chicago,39425
+Deemer-MS,1840032302,Deemer,Deemer,MS,Deemer-MS,Mississippi,28099,Neshoba,32.7454,-89.1181,,,27,point,FALSE,America/Chicago,39350
+Big Point-MS,1840013933,Big Point,Big Point,MS,Big Point-MS,Mississippi,28059,Jackson,30.5905,-88.4846,,,99.3,polygon,FALSE,America/Chicago,39562
+Flora-MS,1840016958,Flora,Flora,MS,Flora-MS,Mississippi,28089,Madison,32.5435,-90.3132,1884,1884,240,polygon,TRUE,America/Chicago,39071
+Schlater-MS,1840018002,Schlater,Schlater,MS,Schlater-MS,Mississippi,28083,Leflore,33.6397,-90.3494,295,295,98,polygon,TRUE,America/Chicago,38952
+Adams-MS,1840032260,Adams,Adams,MS,Adams-MS,Mississippi,28049,Hinds,32.1599,-90.5607,,,37.6,point,FALSE,America/Chicago,39175
+Magee-MS,1840015845,Magee,Magee,MS,Magee-MS,Mississippi,28127,Simpson,31.873,-89.734,4081,4315,316,polygon,TRUE,America/Chicago,39111
+Ethel-MS,1840016893,Ethel,Ethel,MS,Ethel-MS,Mississippi,28007,Attala,33.122,-89.465,404,404,267,polygon,TRUE,America/Chicago,39067
+Tomnolen-MS,1840032453,Tomnolen,Tomnolen,MS,Tomnolen-MS,Mississippi,28019,Choctaw,33.4848,-89.3606,,,12.6,point,FALSE,America/Chicago,39744
+Sumner-MS,1840016740,Sumner,Sumner,MS,Sumner-MS,Mississippi,28135,Tallahatchie,33.9694,-90.3694,296,296,207,polygon,TRUE,America/Chicago,38957
+Fitler-MS,1840032498,Fitler,Fitler,MS,Fitler-MS,Mississippi,28055,Issaquena,32.7254,-91.0337,,,1.1,point,FALSE,America/Chicago,39159
+Canaan-MS,1840032517,Canaan,Canaan,MS,Canaan-MS,Mississippi,28009,Benton,34.9304,-89.1267,,,3.9,point,FALSE,America/Chicago,38603
+Cleveland-MS,1840014748,Cleveland,Cleveland,MS,Cleveland-MS,Mississippi,28011,Bolivar,33.7431,-90.729,15424,12101,639,polygon,TRUE,America/Chicago,38732 38733
+Laurel-MS,1840014945,Laurel,Laurel,MS,Laurel-MS,Mississippi,28067,Jones,31.6956,-89.1448,26433,18756,446,polygon,TRUE,America/Chicago,39440 39443 39441 39442
+Shannon-MS,1840017943,Shannon,Shannon,MS,Shannon-MS,Mississippi,28081,Lee,34.1144,-88.6932,1772,1772,168,polygon,TRUE,America/Chicago,38868
+Conehatta-MS,1840013102,Conehatta,Conehatta,MS,Conehatta-MS,Mississippi,28101,Newton,32.4601,-89.2785,,,25.2,polygon,FALSE,America/Chicago,39057
+Braxton-MS,1840018149,Braxton,Braxton,MS,Braxton-MS,Mississippi,28127,Simpson,32.0264,-89.9715,179,179,117,polygon,TRUE,America/Chicago,39044
+Prismatic-MS,1840032506,Prismatic,Prismatic,MS,Prismatic-MS,Mississippi,28069,Kemper,32.5918,-88.7384,,,13.3,point,FALSE,America/Chicago,39320
+Edwards-MS,1840016991,Edwards,Edwards,MS,Edwards-MS,Mississippi,28049,Hinds,32.3326,-90.6055,1006,1006,233,polygon,TRUE,America/Chicago,39066
+Oakley-MS,1840032383,Oakley,Oakley,MS,Oakley-MS,Mississippi,28049,Hinds,32.2176,-90.5032,,,187.3,point,FALSE,America/Chicago,39154
+Benndale-MS,1840032492,Benndale,Benndale,MS,Benndale-MS,Mississippi,28039,George,30.8716,-88.807,,,12.3,point,FALSE,America/Chicago,39452
+Pulaski-MS,1840032541,Pulaski,Pulaski,MS,Pulaski-MS,Mississippi,28123,Scott,32.2721,-89.6023,,,19.5,point,FALSE,America/Chicago,39152
+Tchula-MS,1840016881,Tchula,Tchula,MS,Tchula-MS,Mississippi,28051,Holmes,33.1831,-90.2232,1981,1981,543,polygon,TRUE,America/Chicago,39169
+North Carrollton-MS,1840016836,North Carrollton,North Carrollton,MS,North Carrollton-MS,Mississippi,28015,Carroll,33.5186,-89.9193,454,454,556,polygon,TRUE,America/Chicago,38947 38917
+Nitta Yuma-MS,1840032381,Nitta Yuma,Nitta Yuma,MS,Nitta Yuma-MS,Mississippi,28125,Sharkey,33.0243,-90.8493,,,1.6,point,FALSE,America/Chicago,38721
+Elliott-MS,1840025873,Elliott,Elliott,MS,Elliott-MS,Mississippi,28043,Grenada,33.6913,-89.7525,,,70.1,polygon,FALSE,America/Chicago,38925 38901
+Anguilla-MS,1840015762,Anguilla,Anguilla,MS,Anguilla-MS,Mississippi,28125,Sharkey,32.9719,-90.8284,661,661,246,polygon,TRUE,America/Chicago,38721
+Heidelberg-MS,1840015833,Heidelberg,Heidelberg,MS,Heidelberg-MS,Mississippi,28061,Jasper,31.8898,-88.9879,684,684,51,polygon,TRUE,America/Chicago,39439
+Fort Adams-MS,1840032318,Fort Adams,Fort Adams,MS,Fort Adams-MS,Mississippi,28157,Wilkinson,31.0866,-91.5482,,,3.7,point,FALSE,America/Chicago,39669
+Suqualena-MS,1840032445,Suqualena,Suqualena,MS,Suqualena-MS,Mississippi,28075,Lauderdale,32.4435,-88.8264,,,44.4,point,FALSE,America/Chicago,39325
+Hillsboro-MS,1840025903,Hillsboro,Hillsboro,MS,Hillsboro-MS,Mississippi,28123,Scott,32.4491,-89.4889,,,75.8,polygon,FALSE,America/Chicago,39074 39087
+Martinsville-MS,1840032501,Martinsville,Martinsville,MS,Martinsville-MS,Mississippi,28029,Copiah,31.791,-90.407,,,29.8,point,FALSE,America/Chicago,39083
+Kreole-MS,1840032348,Kreole,Kreole,MS,Kreole-MS,Mississippi,28059,Jackson,30.406,-88.4947,,,484.3,point,FALSE,America/Chicago,39563
+Fairview-MS,1840032316,Fairview,Fairview,MS,Fairview-MS,Mississippi,28057,Itawamba,34.3645,-88.3173,,,15.1,point,FALSE,America/Chicago,38847
+Piney Woods-MS,1840032397,Piney Woods,Piney Woods,MS,Piney Woods-MS,Mississippi,28121,Rankin,32.0627,-89.9929,,,163.8,point,FALSE,America/Chicago,39044
+Garden City-MS,1840032523,Garden City,Garden City,MS,Garden City-MS,Mississippi,28037,Franklin,31.3671,-91.1279,,,3.4,point,FALSE,America/Chicago,39661
+Waveland-MS,1840015918,Waveland,Waveland,MS,Waveland-MS,Mississippi,28045,Hancock,30.293,-89.3904,6428,6428,292,polygon,TRUE,America/Chicago,39576 39520
+Tunica Resorts-MS,1840032567,Tunica Resorts,Tunica Resorts,MS,Tunica Resorts-MS,Mississippi,28143,Tunica,34.8298,-90.3218,,,0,polygon,FALSE,America/Chicago,38664
+Pearlington-MS,1840013950,Pearlington,Pearlington,MS,Pearlington-MS,Mississippi,28045,Hancock,30.2492,-89.6047,,,129.1,polygon,FALSE,America/Chicago,39572
+Beechwood-MS,1840025904,Beechwood,Beechwood,MS,Beechwood-MS,Mississippi,28149,Warren,32.3303,-90.819,,,184.2,polygon,FALSE,America/Chicago,39180
+Iuka-MS,1840014639,Iuka,Iuka,MS,Iuka-MS,Mississippi,28141,Tishomingo,34.8077,-88.1978,2989,2989,119,polygon,TRUE,America/Chicago,38852
+Chatawa-MS,1840032494,Chatawa,Chatawa,MS,Chatawa-MS,Mississippi,28113,Pike,31.0605,-90.4723,,,29.1,point,FALSE,America/Chicago,39652
+Richton-MS,1840018181,Richton,Richton,MS,Richton-MS,Mississippi,28111,Perry,31.3495,-88.9407,1062,1062,178,polygon,TRUE,America/Chicago,39476
+Courtland-MS,1840016630,Courtland,Courtland,MS,Courtland-MS,Mississippi,28107,Panola,34.2409,-89.9433,508,508,173,polygon,TRUE,America/Chicago,38620
+Raleigh-MS,1840018131,Raleigh,Raleigh,MS,Raleigh-MS,Mississippi,28129,Smith,32.0322,-89.5247,1416,1416,107,polygon,TRUE,America/Chicago,39153
+Glendale-MS,1840025969,Glendale,Glendale,MS,Glendale-MS,Mississippi,28035,Forrest,31.368,-89.3086,,,248,polygon,FALSE,America/Chicago,39401
+Prichard-MS,1840032505,Prichard,Prichard,MS,Prichard-MS,Mississippi,28143,Tunica,34.6995,-90.2443,,,1,point,FALSE,America/Chicago,38676
+Houlka-MS,1840032339,Houlka,Houlka,MS,Houlka-MS,Mississippi,28017,Chickasaw,34.0382,-89.022,,,327.1,point,TRUE,America/Chicago,38850
+Blue Springs-MS,1840017931,Blue Springs,Blue Springs,MS,Blue Springs-MS,Mississippi,28145,Union,34.4013,-88.8721,232,232,88,polygon,TRUE,America/Chicago,38828
+Steens-MS,1840032440,Steens,Steens,MS,Steens-MS,Mississippi,28087,Lowndes,33.5634,-88.3161,,,29.9,point,FALSE,America/Chicago,39766
+Houston-MS,1840014760,Houston,Houston,MS,Houston-MS,Mississippi,28017,Chickasaw,33.8963,-89.0032,2487,3524,184,polygon,TRUE,America/Chicago,38851
+Osyka-MS,1840017117,Osyka,Osyka,MS,Osyka-MS,Mississippi,28113,Pike,31.0072,-90.4719,427,427,155,polygon,TRUE,America/Chicago,39657
+Carter-MS,1840032292,Carter,Carter,MS,Carter-MS,Mississippi,28163,Yazoo,32.989,-90.4493,,,10.9,point,FALSE,America/Chicago,39166
+Miller-MS,1840032477,Miller,Miller,MS,Miller-MS,Mississippi,28033,DeSoto,34.9176,-89.7687,,,125.6,point,FALSE,America/Chicago,38654
+Mayhew-MS,1840032362,Mayhew,Mayhew,MS,Mayhew-MS,Mississippi,28087,Lowndes,33.4848,-88.6345,,,13.3,point,FALSE,America/Chicago,39759
+Tiplersville-MS,1840032547,Tiplersville,Tiplersville,MS,Tiplersville-MS,Mississippi,28139,Tippah,34.8956,-88.9076,,,12.7,point,FALSE,America/Chicago,38674
+Pachuta-MS,1840017034,Pachuta,Pachuta,MS,Pachuta-MS,Mississippi,28023,Clarke,32.0441,-88.8844,248,248,39,polygon,TRUE,America/Chicago,39347
+Nesbit-MS,1840032478,Nesbit,Nesbit,MS,Nesbit-MS,Mississippi,28033,DeSoto,34.8818,-90.0087,,,69.1,point,FALSE,America/Chicago,38651
+Sontag-MS,1840032435,Sontag,Sontag,MS,Sontag-MS,Mississippi,28077,Lawrence,31.6524,-90.2043,,,39.2,point,FALSE,America/Chicago,39665
+Mount Olive-MS,1840017071,Mount Olive,Mount Olive,MS,Mount Olive-MS,Mississippi,28031,Covington,31.7538,-89.656,975,975,121,polygon,TRUE,America/Chicago,39119
+Shubuta-MS,1840018130,Shubuta,Shubuta,MS,Shubuta-MS,Mississippi,28023,Clarke,31.862,-88.7021,418,418,66,polygon,TRUE,America/Chicago,39360
+Lula-MS,1840016640,Lula,Lula,MS,Lula-MS,Mississippi,28027,Coahoma,34.4545,-90.4778,272,272,251,polygon,TRUE,America/Chicago,38617 38644
+Dennis-MS,1840032304,Dennis,Dennis,MS,Dennis-MS,Mississippi,28141,Tishomingo,34.5587,-88.2262,,,48.5,point,FALSE,America/Chicago,38838
+Randolph-MS,1840032407,Randolph,Randolph,MS,Randolph-MS,Mississippi,28115,Pontotoc,34.1815,-89.1684,,,25.8,point,FALSE,America/Chicago,38864
+Grand Gulf-MS,1840032327,Grand Gulf,Grand Gulf,MS,Grand Gulf-MS,Mississippi,28021,Claiborne,32.0332,-91.0526,,,4.8,point,FALSE,America/Chicago,39150
+Sarah-MS,1840032423,Sarah,Sarah,MS,Sarah-MS,Mississippi,28137,Tate,34.5695,-90.2104,,,4.9,point,FALSE,America/Chicago,38665
+Richland-MS,1840014889,Richland,Richland,MS,Richland-MS,Mississippi,28121,Rankin,32.2309,-90.1592,7111,7111,219,polygon,TRUE,America/Chicago,39073 39218
+Alligator-MS,1840015624,Alligator,Alligator,MS,Alligator-MS,Mississippi,28011,Bolivar,34.0899,-90.7206,194,194,76,polygon,TRUE,America/Chicago,38720
+Paulding-MS,1840032390,Paulding,Paulding,MS,Paulding-MS,Mississippi,28061,Jasper,32.0307,-89.0376,,,10.6,point,FALSE,America/Chicago,39348
+Mound Bayou-MS,1840014749,Mound Bayou,Mound Bayou,MS,Mound Bayou-MS,Mississippi,28011,Bolivar,33.8808,-90.728,1446,1446,636,polygon,TRUE,America/Chicago,38762
+Lumberton-MS,1840015873,Lumberton,Lumberton,MS,Lumberton-MS,Mississippi,28073,Lamar,31.0065,-89.4613,2226,2226,118,polygon,TRUE,America/Chicago,39455
+Branch-MS,1840032557,Branch,Branch,MS,Branch-MS,Mississippi,28123,Scott,32.4304,-89.7115,,,16.8,point,FALSE,America/Chicago,39117
+Bourbon-MS,1840032286,Bourbon,Bourbon,MS,Bourbon-MS,Mississippi,28151,Washington,33.3243,-90.7987,,,1.9,point,FALSE,America/Chicago,38756
+Avalon-MS,1840032266,Avalon,Avalon,MS,Avalon-MS,Mississippi,28015,Carroll,33.6551,-90.0856,,,3,point,FALSE,America/Chicago,38930
+Tyro-MS,1840032457,Tyro,Tyro,MS,Tyro-MS,Mississippi,28137,Tate,34.5837,-89.7054,,,20.5,point,FALSE,America/Chicago,38668
+Horn Lake-MS,1840014643,Horn Lake,Horn Lake,MS,Horn Lake-MS,Mississippi,28033,DeSoto,34.9512,-90.0501,27042,27042,650,polygon,TRUE,America/Chicago,38637
+Hollandale-MS,1840014830,Hollandale,Hollandale,MS,Hollandale-MS,Mississippi,28151,Washington,33.1761,-90.8529,2413,2496,434,polygon,TRUE,America/Chicago,38748
+Latimer-MS,1840013936,Latimer,Latimer,MS,Latimer-MS,Mississippi,28059,Jackson,30.4972,-88.8607,,,67.9,polygon,FALSE,America/Chicago,39532 39565
+Tillman-MS,1840032482,Tillman,Tillman,MS,Tillman-MS,Mississippi,28021,Claiborne,31.8546,-90.9162,,,12,point,FALSE,America/Chicago,39144
+Thornton-MS,1840032450,Thornton,Thornton,MS,Thornton-MS,Mississippi,28051,Holmes,33.0793,-90.3226,,,14.1,point,FALSE,America/Chicago,39169
+Greenwood-MS,1840013739,Greenwood,Greenwood,MS,Greenwood-MS,Mississippi,28083,Leflore,33.5126,-90.1993,21218,14415,451,polygon,TRUE,America/Chicago,38930 38935
+DeWeese-MS,1840032496,DeWeese,DeWeese,MS,DeWeese-MS,Mississippi,28099,Neshoba,32.7101,-88.9376,,,6,point,FALSE,America/Chicago,39350
+James-MS,1840032343,James,James,MS,James-MS,Mississippi,28151,Washington,33.2037,-91.0573,,,2.8,point,FALSE,America/Chicago,38748
+Coles-MS,1840032518,Coles,Coles,MS,Coles-MS,Mississippi,28005,Amite,31.2774,-91.0318,,,39.7,point,FALSE,America/Chicago,39633
+Sturgis-MS,1840016844,Sturgis,Sturgis,MS,Sturgis-MS,Mississippi,28105,Oktibbeha,33.3452,-89.0458,265,265,79,polygon,TRUE,America/Chicago,39769
+Sallis-MS,1840018045,Sallis,Sallis,MS,Sallis-MS,Mississippi,28007,Attala,33.0215,-89.7647,129,129,121,polygon,TRUE,America/Chicago,39160
+Sardis-MS,1840017936,Sardis,Sardis,MS,Sardis-MS,Mississippi,28107,Panola,34.4355,-89.9114,1655,1655,319,polygon,TRUE,America/Chicago,38666
+Sidon-MS,1840018003,Sidon,Sidon,MS,Sidon-MS,Mississippi,28083,Leflore,33.4079,-90.2081,484,484,1506,polygon,TRUE,America/Chicago,38954
+Ridgeland-MS,1840014873,Ridgeland,Ridgeland,MS,Ridgeland-MS,Mississippi,28089,Madison,32.4225,-90.1456,24483,24483,473,polygon,TRUE,America/Chicago,39157 39158
+Reganton-MS,1840032411,Reganton,Reganton,MS,Reganton-MS,Mississippi,28021,Claiborne,32.1418,-90.7487,,,2,point,FALSE,America/Chicago,39175
+Tinsley-MS,1840032486,Tinsley,Tinsley,MS,Tinsley-MS,Mississippi,28163,Yazoo,32.7321,-90.4604,,,7.8,point,FALSE,America/Chicago,39194
+Thaxton-MS,1840016679,Thaxton,Thaxton,MS,Thaxton-MS,Mississippi,28115,Pontotoc,34.3071,-89.1745,668,668,24,polygon,TRUE,America/Chicago,38871
+Silver Creek-MS,1840018170,Silver Creek,Silver Creek,MS,Silver Creek-MS,Mississippi,28077,Lawrence,31.6048,-90.0022,206,206,53,polygon,TRUE,America/Chicago,39663
+McComb-MS,1840015877,McComb,McComb,MS,McComb-MS,Mississippi,28113,Pike,31.2449,-90.4714,16413,12811,427,polygon,TRUE,America/Chicago,39648 39649
+McCool-MS,1840016892,McCool,McCool,MS,McCool-MS,Mississippi,28007,Attala,33.1995,-89.3418,130,130,53,polygon,TRUE,America/Chicago,39108
+Banner-MS,1840032269,Banner,Banner,MS,Banner-MS,Mississippi,28013,Calhoun,34.0887,-89.3848,,,24.6,point,FALSE,America/Chicago,38965
+Potts Camp-MS,1840017898,Potts Camp,Potts Camp,MS,Potts Camp-MS,Mississippi,28093,Marshall,34.6492,-89.3065,497,497,197,polygon,TRUE,America/Chicago,38659
+Belmont-MS,1840015516,Belmont,Belmont,MS,Belmont-MS,Mississippi,28141,Tishomingo,34.5046,-88.208,2032,2032,165,polygon,TRUE,America/Chicago,38827 38847
+Long Beach-MS,1840015914,Long Beach,Long Beach,MS,Long Beach-MS,Mississippi,28047,Harrison,30.3605,-89.1645,15677,15677,604,polygon,TRUE,America/Chicago,39560
+Troy-MS,1840032548,Troy,Troy,MS,Troy-MS,Mississippi,28115,Pontotoc,34.119,-88.8851,,,26.5,point,FALSE,America/Chicago,38863
+Itta Bena-MS,1840014803,Itta Bena,Itta Bena,MS,Itta Bena-MS,Mississippi,28083,Leflore,33.5003,-90.3256,3979,1931,526,polygon,TRUE,America/Chicago,38941
+Arm-MS,1840032263,Arm,Arm,MS,Arm-MS,Mississippi,28077,Lawrence,31.5029,-90.0162,,,35.4,point,FALSE,America/Chicago,39663
+Enid-MS,1840032521,Enid,Enid,MS,Enid-MS,Mississippi,28135,Tallahatchie,34.1165,-89.9398,,,17.5,point,FALSE,America/Chicago,38927
+Gholson-MS,1840032322,Gholson,Gholson,MS,Gholson-MS,Mississippi,28103,Noxubee,32.9365,-88.7339,,,4.5,point,FALSE,America/Chicago,39361
+Sylvarena-MS,1840018133,Sylvarena,Sylvarena,MS,Sylvarena-MS,Mississippi,28129,Smith,32.0144,-89.3818,105,105,15,polygon,TRUE,America/Chicago,39422 39153
+Way-MS,1840032466,Way,Way,MS,Way-MS,Mississippi,28089,Madison,32.744,-90.0331,,,5.3,point,FALSE,America/Chicago,39046
+West-MS,1840016882,West,West,MS,West-MS,Mississippi,28051,Holmes,33.1978,-89.7821,169,169,117,polygon,TRUE,America/Chicago,39192
+Holcomb-MS,1840025874,Holcomb,Holcomb,MS,Holcomb-MS,Mississippi,28043,Grenada,33.7643,-89.9731,,,193.5,polygon,FALSE,America/Chicago,38940
+Brandon-MS,1840013825,Brandon,Brandon,MS,Brandon-MS,Mississippi,28121,Rankin,32.2778,-89.9896,23826,23826,358,polygon,TRUE,America/Chicago,39042 39043
+Puckett-MS,1840018093,Puckett,Puckett,MS,Puckett-MS,Mississippi,28121,Rankin,32.0858,-89.7819,336,336,59,polygon,TRUE,America/Chicago,39042 39114 39151
+Smithdale-MS,1840032433,Smithdale,Smithdale,MS,Smithdale-MS,Mississippi,28005,Amite,31.3396,-90.6829,,,15.4,point,FALSE,America/Chicago,39664
+Meridian-MS,1840014891,Meridian,Meridian,MS,Meridian-MS,Mississippi,28075,Lauderdale,32.3846,-88.6896,39478,39113,281,polygon,TRUE,America/Chicago,39307 39305 39301 39302 39303 39304
+Tougaloo-MS,1840032454,Tougaloo,Tougaloo,MS,Tougaloo-MS,Mississippi,28049,Hinds,32.3976,-90.159,,,952.5,point,FALSE,America/Chicago,39174
+Mantachie-MS,1840016669,Mantachie,Mantachie,MS,Mantachie-MS,Mississippi,28057,Itawamba,34.3251,-88.4961,1132,1132,111,polygon,TRUE,America/Chicago,38855
+Neely-MS,1840032539,Neely,Neely,MS,Neely-MS,Mississippi,28041,Greene,31.1649,-88.7548,,,9.2,point,FALSE,America/Chicago,39461
+Saltillo-MS,1840015560,Saltillo,Saltillo,MS,Saltillo-MS,Mississippi,28081,Lee,34.379,-88.6939,4535,5008,236,polygon,TRUE,America/Chicago,38866
+Quito-MS,1840032406,Quito,Quito,MS,Quito-MS,Mississippi,28083,Leflore,33.4387,-90.3012,,,30.9,point,FALSE,America/Chicago,38941
+Peoria-MS,1840032503,Peoria,Peoria,MS,Peoria-MS,Mississippi,28005,Amite,31.1416,-90.6809,,,6.2,point,FALSE,America/Chicago,39645
+Lamont-MS,1840032349,Lamont,Lamont,MS,Lamont-MS,Mississippi,28011,Bolivar,33.5354,-91.0762,,,33,point,FALSE,America/Chicago,38703
+Sarepta-MS,1840032424,Sarepta,Sarepta,MS,Sarepta-MS,Mississippi,28013,Calhoun,34.1246,-89.2876,,,6.7,point,FALSE,America/Chicago,38864
+Henderson Point-MS,1840026003,Henderson Point,Henderson Point,MS,Henderson Point-MS,Mississippi,28047,Harrison,30.3154,-89.2863,,,69.4,polygon,FALSE,America/Chicago,39571
+Burnside-MS,1840032288,Burnside,Burnside,MS,Burnside-MS,Mississippi,28099,Neshoba,32.8535,-89.1034,,,22.3,point,FALSE,America/Chicago,39350
+Saucier-MS,1840013945,Saucier,Saucier,MS,Saucier-MS,Mississippi,28047,Harrison,30.6239,-89.1432,,,146.7,polygon,FALSE,America/Chicago,39574
+Pocahontas-MS,1840032399,Pocahontas,Pocahontas,MS,Pocahontas-MS,Mississippi,28049,Hinds,32.4743,-90.2862,,,13.5,point,FALSE,America/Chicago,39071
+Weathersby-MS,1840032468,Weathersby,Weathersby,MS,Weathersby-MS,Mississippi,28127,Simpson,31.9393,-89.8317,,,44.5,point,FALSE,America/Chicago,39114
+Lorman-MS,1840032356,Lorman,Lorman,MS,Lorman-MS,Mississippi,28063,Jefferson,31.8204,-91.0501,,,18,point,FALSE,America/Chicago,39096
+McLaurin-MS,1840032536,McLaurin,McLaurin,MS,McLaurin-MS,Mississippi,28035,Forrest,31.168,-89.2173,,,49.6,point,FALSE,America/Chicago,39401
+Zama-MS,1840032488,Zama,Zama,MS,Zama-MS,Mississippi,28007,Attala,32.9751,-89.3801,,,15.8,point,FALSE,America/Chicago,39090
+Eden-MS,1840018053,Eden,Eden,MS,Eden-MS,Mississippi,28163,Yazoo,32.9837,-90.324,99,99,80,polygon,TRUE,America/Chicago,39194
+Leakesville-MS,1840017104,Leakesville,Leakesville,MS,Leakesville-MS,Mississippi,28041,Greene,31.1545,-88.558,921,921,224,polygon,TRUE,America/Chicago,39451
+D'Lo-MS,1840017048,D'Lo,D'Lo,MS,D'Lo-MS,Mississippi,28127,Simpson,31.9869,-89.9011,447,447,248,polygon,TRUE,America/Chicago,39062
+Nicholson-MS,1840025991,Nicholson,Nicholson,MS,Nicholson-MS,Mississippi,28109,Pearl River,30.4863,-89.6995,,,304.3,polygon,FALSE,America/Chicago,39466 39463
+Columbus-MS,1840014807,Columbus,Columbus,MS,Columbus-MS,Mississippi,28087,Lowndes,33.5086,-88.4134,32386,24561,429,polygon,TRUE,America/Chicago,39702 39701 39705 39703 39704 39710
+Ludlow-MS,1840032532,Ludlow,Ludlow,MS,Ludlow-MS,Mississippi,28123,Scott,32.5718,-89.7129,,,17.5,point,FALSE,America/Chicago,39094
+Pace-MS,1840016749,Pace,Pace,MS,Pace-MS,Mississippi,28011,Bolivar,33.7921,-90.8592,256,256,644,polygon,TRUE,America/Chicago,38764
+Ripley-MS,1840014640,Ripley,Ripley,MS,Ripley-MS,Mississippi,28139,Tippah,34.7321,-88.9445,3576,5373,181,polygon,TRUE,America/Chicago,38663
+Rienzi-MS,1840017894,Rienzi,Rienzi,MS,Rienzi-MS,Mississippi,28003,Alcorn,34.7633,-88.534,315,315,122,polygon,TRUE,America/Chicago,38865
+Seminary-MS,1840018167,Seminary,Seminary,MS,Seminary-MS,Mississippi,28031,Covington,31.5581,-89.4987,313,313,79,polygon,TRUE,America/Chicago,39479
+Brownsville-MS,1840032287,Brownsville,Brownsville,MS,Brownsville-MS,Mississippi,28049,Hinds,32.4488,-90.437,,,6.1,point,FALSE,America/Chicago,39041
+Macon-MS,1840015743,Macon,Macon,MS,Macon-MS,Mississippi,28103,Noxubee,33.1217,-88.5564,2831,2614,263,polygon,TRUE,America/Chicago,39341
+Duck Hill-MS,1840016833,Duck Hill,Duck Hill,MS,Duck Hill-MS,Mississippi,28097,Montgomery,33.6316,-89.7153,1348,1348,503,polygon,TRUE,America/Chicago,38925
+Madison-MS,1840015782,Madison,Madison,MS,Madison-MS,Mississippi,28089,Madison,32.4738,-90.13,26031,26031,398,polygon,TRUE,America/Chicago,39110 39130
+Barr-MS,1840032270,Barr,Barr,MS,Barr-MS,Mississippi,28137,Tate,34.6245,-89.7801,,,19.8,point,FALSE,America/Chicago,38668
+Holly Bluff-MS,1840032527,Holly Bluff,Holly Bluff,MS,Holly Bluff-MS,Mississippi,28163,Yazoo,32.8215,-90.709,,,43.7,point,FALSE,America/Chicago,39088
+Slate Spring-MS,1840032431,Slate Spring,Slate Spring,MS,Slate Spring-MS,Mississippi,28013,Calhoun,33.7407,-89.3712,,,52.9,point,TRUE,America/Chicago,38916
+Wool Market-MS,1840032565,Wool Market,Wool Market,MS,Wool Market-MS,Mississippi,28047,Harrison,30.4677,-88.9959,,,290,point,FALSE,America/Chicago,39532
+Wayside-MS,1840032467,Wayside,Wayside,MS,Wayside-MS,Mississippi,28151,Washington,33.269,-91.0337,,,19.1,point,FALSE,America/Chicago,38701
+Mathiston-MS,1840016817,Mathiston,Mathiston,MS,Mathiston-MS,Mississippi,28155,Webster,33.539,-89.1277,666,666,104,polygon,TRUE,America/Chicago,39752
+Inverness-MS,1840016775,Inverness,Inverness,MS,Inverness-MS,Mississippi,28133,Sunflower,33.3543,-90.5913,927,927,248,polygon,TRUE,America/Chicago,38753
+Fernwood-MS,1840032317,Fernwood,Fernwood,MS,Fernwood-MS,Mississippi,28113,Pike,31.1855,-90.449,,,120.4,point,FALSE,America/Chicago,39635
+Blaine-MS,1840032282,Blaine,Blaine,MS,Blaine-MS,Mississippi,28133,Sunflower,33.6079,-90.5226,,,19.9,point,FALSE,America/Chicago,38778
+Noxapater-MS,1840016891,Noxapater,Noxapater,MS,Noxapater-MS,Mississippi,28159,Winston,32.9936,-89.0636,443,443,169,polygon,TRUE,America/Chicago,39346
+Glens-MS,1840032324,Glens,Glens,MS,Glens-MS,Mississippi,28003,Alcorn,34.8662,-88.4139,,,52.5,point,TRUE,America/Chicago,38846
+Hickory Flat-MS,1840015521,Hickory Flat,Hickory Flat,MS,Hickory Flat-MS,Mississippi,28009,Benton,34.616,-89.1913,562,562,226,polygon,TRUE,America/Chicago,38633
+Heads-MS,1840032330,Heads,Heads,MS,Heads-MS,Mississippi,28151,Washington,33.4707,-90.8465,,,4.9,point,FALSE,America/Chicago,38756
+Shaw-MS,1840015628,Shaw,Shaw,MS,Shaw-MS,Mississippi,28011,Bolivar,33.6015,-90.772,1803,1803,625,polygon,TRUE,America/Chicago,38773
+Carthage-MS,1840014870,Carthage,Carthage,MS,Carthage-MS,Mississippi,28079,Leake,32.7431,-89.5337,4288,4860,202,polygon,TRUE,America/Chicago,39051
+Greenville-MS,1840013759,Greenville,Greenville,MS,Greenville-MS,Mississippi,28151,Washington,33.385,-91.0514,32089,31517,452,polygon,TRUE,America/Chicago,38701 38703
+Highpoint-MS,1840032526,Highpoint,Highpoint,MS,Highpoint-MS,Mississippi,28159,Winston,33.1882,-89.1462,,,38.5,point,FALSE,America/Chicago,39339
+Arcola-MS,1840015718,Arcola,Arcola,MS,Arcola-MS,Mississippi,28151,Washington,33.2705,-90.88,352,352,619,polygon,TRUE,America/Chicago,38722
+Poplarville-MS,1840015003,Poplarville,Poplarville,MS,Poplarville-MS,Mississippi,28109,Pearl River,30.8391,-89.5306,2977,2977,212,polygon,TRUE,America/Chicago,39470
+Tylertown-MS,1840017118,Tylertown,Tylertown,MS,Tylertown-MS,Mississippi,28147,Walthall,31.1173,-90.1444,1508,1508,177,polygon,TRUE,America/Chicago,39667
+Ruth-MS,1840032418,Ruth,Ruth,MS,Ruth-MS,Mississippi,28085,Lincoln,31.3816,-90.3165,,,24.2,point,FALSE,America/Chicago,39662
+Carlisle-MS,1840032493,Carlisle,Carlisle,MS,Carlisle-MS,Mississippi,28021,Claiborne,32.0027,-90.7845,,,1.1,point,FALSE,America/Chicago,39086
+Pattison-MS,1840032389,Pattison,Pattison,MS,Pattison-MS,Mississippi,28021,Claiborne,31.8885,-90.8873,,,95.1,point,FALSE,America/Chicago,39144
+Betheden-MS,1840032513,Betheden,Betheden,MS,Betheden-MS,Mississippi,28159,Winston,33.2198,-88.9409,,,2.4,point,FALSE,America/Chicago,39339
+Wheeler-MS,1840032470,Wheeler,Wheeler,MS,Wheeler-MS,Mississippi,28117,Prentiss,34.5804,-88.6076,,,106.6,point,FALSE,America/Chicago,38829
+Walls-MS,1840001788,Walls,Walls,MS,Walls-MS,Mississippi,28033,DeSoto,34.9251,-90.1555,1295,1295,50,polygon,TRUE,America/Chicago,38641 38680
+Minter City-MS,1840032372,Minter City,Minter City,MS,Minter City-MS,Mississippi,28083,Leflore,33.7534,-90.2945,,,10.8,point,FALSE,America/Chicago,38944
+Como-MS,1840016629,Como,Como,MS,Como-MS,Mississippi,28107,Panola,34.5134,-89.9391,1240,1240,253,polygon,TRUE,America/Chicago,38619
+Picayune-MS,1840015002,Picayune,Picayune,MS,Picayune-MS,Mississippi,28109,Pearl River,30.5289,-89.6788,16401,10625,316,polygon,TRUE,America/Chicago,39466
+Stewart-MS,1840032441,Stewart,Stewart,MS,Stewart-MS,Mississippi,28097,Montgomery,33.4507,-89.4362,,,43.8,point,FALSE,America/Chicago,39767
+Sandy Hook-MS,1840032420,Sandy Hook,Sandy Hook,MS,Sandy Hook-MS,Mississippi,28091,Marion,31.0363,-89.8048,,,28.9,point,FALSE,America/Chicago,39478
+Hermanville-MS,1840032331,Hermanville,Hermanville,MS,Hermanville-MS,Mississippi,28021,Claiborne,31.9593,-90.8401,,,101.7,point,FALSE,America/Chicago,39086
+Oak Vale-MS,1840032382,Oak Vale,Oak Vale,MS,Oak Vale-MS,Mississippi,28077,Lawrence,31.4385,-89.9645,,,35.9,point,FALSE,America/Chicago,39656
+Belden-MS,1840032273,Belden,Belden,MS,Belden-MS,Mississippi,28081,Lee,34.3104,-88.7884,,,57.1,point,FALSE,America/Chicago,38826
+Artesia-MS,1840015689,Artesia,Artesia,MS,Artesia-MS,Mississippi,28087,Lowndes,33.4163,-88.6424,429,429,225,polygon,TRUE,America/Chicago,39701 39736
+Ovett-MS,1840032540,Ovett,Ovett,MS,Ovett-MS,Mississippi,28067,Jones,31.4854,-89.0328,,,84.4,point,FALSE,America/Chicago,39464
+D'Iberville-MS,1840015023,D'Iberville,D'Iberville,MS,D'Iberville-MS,Mississippi,28047,Harrison,30.4545,-88.8982,11503,11503,627,polygon,TRUE,America/Chicago,39532 39540
+Hurley-MS,1840013932,Hurley,Hurley,MS,Hurley-MS,Mississippi,28059,Jackson,30.6638,-88.4994,,,127.9,polygon,FALSE,America/Chicago,39562 39555
+Little Rock-MS,1840032354,Little Rock,Little Rock,MS,Little Rock-MS,Mississippi,28101,Newton,32.526,-89.0253,,,19.4,point,FALSE,America/Chicago,39337
+Gautier-MS,1840013937,Gautier,Gautier,MS,Gautier-MS,Mississippi,28059,Jackson,30.4106,-88.6568,18471,18471,235,polygon,TRUE,America/Chicago,39553 39564
+Rosedale-MS,1840014750,Rosedale,Rosedale,MS,Rosedale-MS,Mississippi,28011,Bolivar,33.8525,-91.0339,1727,1727,123,polygon,TRUE,America/Chicago,38769
+Woodland-MS,1840017991,Woodland,Woodland,MS,Woodland-MS,Mississippi,28017,Chickasaw,33.7797,-89.0508,122,122,83,polygon,TRUE,America/Chicago,39776
+Bassfield-MS,1840015860,Bassfield,Bassfield,MS,Bassfield-MS,Mississippi,28065,Jefferson Davis,31.4961,-89.745,222,222,85,polygon,TRUE,America/Chicago,39421
+Porterville-MS,1840032401,Porterville,Porterville,MS,Porterville-MS,Mississippi,28069,Kemper,32.6879,-88.4723,,,13.6,point,FALSE,America/Chicago,39352
+Grenada-MS,1840013717,Grenada,Grenada,MS,Grenada-MS,Mississippi,28043,Grenada,33.7816,-89.813,10174,12708,163,polygon,TRUE,America/Chicago,38901 38902 38960
+Walnut-MS,1840016518,Walnut,Walnut,MS,Walnut-MS,Mississippi,28139,Tippah,34.9497,-88.9236,765,765,54,polygon,TRUE,America/Chicago,38683
+Morgan City-MS,1840016809,Morgan City,Morgan City,MS,Morgan City-MS,Mississippi,28083,Leflore,33.3787,-90.3461,242,242,159,polygon,TRUE,America/Chicago,38946
+Golden-MS,1840016514,Golden,Golden,MS,Golden-MS,Mississippi,28141,Tishomingo,34.4866,-88.1863,189,189,125,polygon,TRUE,America/Chicago,38847
+Pinckneyville-MS,1840032396,Pinckneyville,Pinckneyville,MS,Pinckneyville-MS,Mississippi,28157,Wilkinson,31.016,-91.4809,,,3.8,point,FALSE,America/Chicago,39669
+Preston-MS,1840032404,Preston,Preston,MS,Preston-MS,Mississippi,28069,Kemper,32.8826,-88.8289,,,7.6,point,FALSE,America/Chicago,39354
+Robinsonville-MS,1840032414,Robinsonville,Robinsonville,MS,Robinsonville-MS,Mississippi,28143,Tunica,34.8173,-90.3162,,,545.6,point,FALSE,America/Chicago,38664
+Silver City-MS,1840018043,Silver City,Silver City,MS,Silver City-MS,Mississippi,28053,Humphreys,33.0952,-90.4967,295,295,188,polygon,TRUE,America/Chicago,39166
+Helena-MS,1840013931,Helena,Helena,MS,Helena-MS,Mississippi,28059,Jackson,30.4881,-88.5056,,,83.4,polygon,FALSE,America/Chicago,39562
+Crosby-MS,1840017114,Crosby,Crosby,MS,Crosby-MS,Mississippi,28005,Amite,31.2791,-91.063,294,294,53,polygon,TRUE,America/Chicago,39633
+Florence-MS,1840016982,Florence,Florence,MS,Florence-MS,Mississippi,28121,Rankin,32.1557,-90.1224,4396,4396,208,polygon,TRUE,America/Chicago,39073 39218
+Louise-MS,1840016888,Louise,Louise,MS,Louise-MS,Mississippi,28053,Humphreys,32.9814,-90.5904,182,182,397,polygon,TRUE,America/Chicago,39097
+Myrtle-MS,1840016618,Myrtle,Myrtle,MS,Myrtle-MS,Mississippi,28145,Union,34.5605,-89.1179,499,499,92,polygon,TRUE,America/Chicago,38650
+Purvis-MS,1840014969,Purvis,Purvis,MS,Purvis-MS,Mississippi,28073,Lamar,31.1428,-89.4045,2341,2341,232,polygon,TRUE,America/Chicago,39475
+Lake-MS,1840016979,Lake,Lake,MS,Lake-MS,Mississippi,28123,Scott,32.3406,-89.3295,322,322,112,polygon,TRUE,America/Chicago,39092
+Tillatoba-MS,1840016733,Tillatoba,Tillatoba,MS,Tillatoba-MS,Mississippi,28161,Yalobusha,33.9851,-89.896,,,35.5,polygon,TRUE,America/Chicago,38961
+Pittsboro-MS,1840017975,Pittsboro,Pittsboro,MS,Pittsboro-MS,Mississippi,28013,Calhoun,33.94,-89.3373,197,197,77,polygon,TRUE,America/Chicago,38951
+Pass Christian-MS,1840015024,Pass Christian,Pass Christian,MS,Pass Christian-MS,Mississippi,28047,Harrison,30.3271,-89.2432,5701,5701,265,polygon,TRUE,America/Chicago,39571
+Darling-MS,1840025852,Darling,Darling,MS,Darling-MS,Mississippi,28119,Quitman,34.3591,-90.2754,,,121.5,polygon,FALSE,America/Chicago,38623
+Slayden-MS,1840032432,Slayden,Slayden,MS,Slayden-MS,Mississippi,28093,Marshall,34.947,-89.4409,,,14.4,point,FALSE,America/Chicago,38642
+Dubbs-MS,1840032306,Dubbs,Dubbs,MS,Dubbs-MS,Mississippi,28143,Tunica,34.5684,-90.3737,,,7.8,point,FALSE,America/Chicago,38626
+McCallum-MS,1840032534,McCallum,McCallum,MS,McCallum-MS,Mississippi,28035,Forrest,31.2377,-89.2126,,,3.2,point,FALSE,America/Chicago,39401
+Lexie-MS,1840032353,Lexie,Lexie,MS,Lexie-MS,Mississippi,28147,Walthall,31.0788,-90.1709,,,12.1,point,FALSE,America/Chicago,39667
+Paynes-MS,1840032392,Paynes,Paynes,MS,Paynes-MS,Mississippi,28135,Tallahatchie,33.9209,-90.0695,,,5.1,point,FALSE,America/Chicago,38920
+Myrick-MS,1840032379,Myrick,Myrick,MS,Myrick-MS,Mississippi,28067,Jones,31.661,-88.9942,,,27.8,point,FALSE,America/Chicago,39443
+Hernando-MS,1840014642,Hernando,Hernando,MS,Hernando-MS,Mississippi,28033,DeSoto,34.8496,-89.992,15631,15631,234,polygon,TRUE,America/Chicago,38632 38651
+Walthall-MS,1840018006,Walthall,Walthall,MS,Walthall-MS,Mississippi,28155,Webster,33.6069,-89.2787,137,137,54,polygon,TRUE,America/Chicago,39771 39744
+Pelahatchie-MS,1840016983,Pelahatchie,Pelahatchie,MS,Pelahatchie-MS,Mississippi,28121,Rankin,32.3148,-89.8082,1353,1353,87,polygon,TRUE,America/Chicago,39145
+French Camp-MS,1840016856,French Camp,French Camp,MS,French Camp-MS,Mississippi,28019,Choctaw,33.2931,-89.3993,169,169,66,polygon,TRUE,America/Chicago,39745
+Palmers Crossing-MS,1840032387,Palmers Crossing,Palmers Crossing,MS,Palmers Crossing-MS,Mississippi,28035,Forrest,31.2824,-89.2756,,,439.9,point,FALSE,America/Chicago,39401
+Moss Point-MS,1840015016,Moss Point,Moss Point,MS,Moss Point-MS,Mississippi,28059,Jackson,30.4241,-88.5289,13570,13570,216,polygon,TRUE,America/Chicago,39563
+Byram-MS,1840023049,Byram,Byram,MS,Byram-MS,Mississippi,28049,Hinds,32.189,-90.2861,11545,11545,242,polygon,TRUE,America/Chicago,39272 39170 39212
+Plantersville-MS,1840016650,Plantersville,Plantersville,MS,Plantersville-MS,Mississippi,28081,Lee,34.2103,-88.6654,1161,1161,214,polygon,TRUE,America/Chicago,38862
+Rawls Springs-MS,1840025970,Rawls Springs,Rawls Springs,MS,Rawls Springs-MS,Mississippi,28035,Forrest,31.3797,-89.3878,,,136.7,polygon,FALSE,America/Chicago,39402
+Corinth-MS,1840014638,Corinth,Corinth,MS,Corinth-MS,Mississippi,28003,Alcorn,34.9474,-88.5143,12678,14818,189,polygon,TRUE,America/Chicago,38834 38835
+Olive Branch-MS,1840014641,Olive Branch,Olive Branch,MS,Olive Branch-MS,Mississippi,28033,DeSoto,34.9608,-89.8478,36699,36699,385,polygon,TRUE,America/Chicago,38654
+Redwood-MS,1840032410,Redwood,Redwood,MS,Redwood-MS,Mississippi,28149,Warren,32.4776,-90.8037,,,10.7,point,FALSE,America/Chicago,39183
+Skene-MS,1840032430,Skene,Skene,MS,Skene-MS,Mississippi,28011,Bolivar,33.7037,-90.7943,,,34.4,point,FALSE,America/Chicago,38730
+Tupelo-MS,1840015561,Tupelo,Tupelo,MS,Tupelo-MS,Mississippi,28081,Lee,34.2637,-88.7298,46095,38842,293,polygon,TRUE,America/Chicago,38804 38801 38826 38802 38803
+Stallo-MS,1840032509,Stallo,Stallo,MS,Stallo-MS,Mississippi,28099,Neshoba,32.9201,-89.1006,,,11.8,point,FALSE,America/Chicago,39350
+Glen Allan-MS,1840032323,Glen Allan,Glen Allan,MS,Glen Allan-MS,Mississippi,28151,Washington,33.024,-91.0301,,,208.5,point,FALSE,America/Chicago,38744
+Dumas-MS,1840016516,Dumas,Dumas,MS,Dumas-MS,Mississippi,28139,Tippah,34.638,-88.8431,467,467,46,polygon,TRUE,America/Chicago,38663 38625
+Scott-MS,1840032425,Scott,Scott,MS,Scott-MS,Mississippi,28011,Bolivar,33.5918,-91.0743,,,7.6,point,FALSE,America/Chicago,38772
+Moorhead-MS,1840014772,Moorhead,Moorhead,MS,Moorhead-MS,Mississippi,28133,Sunflower,33.4494,-90.5063,2363,2215,660,polygon,TRUE,America/Chicago,38761
+Oakland-MS,1840016734,Oakland,Oakland,MS,Oakland-MS,Mississippi,28161,Yalobusha,34.0557,-89.9151,514,514,145,polygon,TRUE,America/Chicago,38948
+Neshoba-MS,1840032380,Neshoba,Neshoba,MS,Neshoba-MS,Mississippi,28099,Neshoba,32.6235,-89.1381,,,73.8,point,FALSE,America/Chicago,39365
+Ruleville-MS,1840014773,Ruleville,Ruleville,MS,Ruleville-MS,Mississippi,28133,Sunflower,33.7246,-90.55,2718,2727,418,polygon,TRUE,America/Chicago,38771

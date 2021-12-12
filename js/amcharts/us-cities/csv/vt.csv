@@ -1,0 +1,128 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Albany-VT,1840004046,Albany,Albany,VT,Albany-VT,Vermont,50019,Orleans,44.7302,-72.381,184,184,46,polygon,TRUE,America/New_York,5820
+Arlington-VT,1840002897,Arlington,Arlington,VT,Arlington-VT,Vermont,50003,Bennington,43.0691,-73.1475,,,243.9,polygon,FALSE,America/New_York,05252 05250
+Barnet-VT,1840025345,Barnet,Barnet,VT,Barnet-VT,Vermont,50005,Caledonia,44.2956,-72.0496,,,85,polygon,FALSE,America/New_York,5821
+Groton-VT,1840025348,Groton,Groton,VT,Groton-VT,Vermont,50005,Caledonia,44.214,-72.1968,,,112.2,polygon,FALSE,America/New_York,5046
+Barre-VT,1840002186,Barre,Barre,VT,Barre-VT,Vermont,50023,Washington,44.1997,-72.5083,20857,8710,852,polygon,TRUE,America/New_York,5641
+Shelburne-VT,1840025352,Shelburne,Shelburne,VT,Shelburne-VT,Vermont,50007,Chittenden,44.3759,-73.2265,,,300,polygon,FALSE,America/New_York,5482
+West Pawlet-VT,1840037485,West Pawlet,West Pawlet,VT,West Pawlet-VT,Vermont,50021,Rutland,43.3537,-73.2521,,,121.8,point,FALSE,America/New_York,5775
+Chelsea-VT,1840037480,Chelsea,Chelsea,VT,Chelsea-VT,Vermont,50017,Orange,43.9871,-72.4522,,,115.9,polygon,FALSE,America/New_York,5038
+Irasburg-VT,1840025332,Irasburg,Irasburg,VT,Irasburg-VT,Vermont,50019,Orleans,44.8002,-72.2849,,,82.3,polygon,FALSE,America/New_York,5845
+Waterbury-VT,1840004103,Waterbury,Waterbury,VT,Waterbury-VT,Vermont,50023,Washington,44.3429,-72.7429,3092,1835,375,polygon,TRUE,America/New_York,05676 05671
+East Montpelier-VT,1840023972,East Montpelier,East Montpelier,VT,East Montpelier-VT,Vermont,50023,Washington,44.2695,-72.4881,,,140.8,polygon,FALSE,America/New_York,5651
+Saxtons River-VT,1840004338,Saxtons River,Saxtons River,VT,Saxtons River-VT,Vermont,50025,Windham,43.139,-72.5101,545,545,448,polygon,TRUE,America/New_York,5154
+Winooski-VT,1840002312,Winooski,Winooski,VT,Winooski-VT,Vermont,50007,Chittenden,44.4951,-73.1842,7128,7128,1922,polygon,TRUE,America/New_York,5404
+Island Pond-VT,1840002269,Island Pond,Island Pond,VT,Island Pond-VT,Vermont,50009,Essex,44.8125,-71.8862,,,370.6,polygon,FALSE,America/New_York,5846
+Manchester Center-VT,1840002899,Manchester Center,Manchester Center,VT,Manchester Center-VT,Vermont,50003,Bennington,43.1822,-73.0362,,,173.2,polygon,FALSE,America/New_York,5255
+Cavendish-VT,1840025405,Cavendish,Cavendish,VT,Cavendish-VT,Vermont,50027,Windsor,43.3863,-72.6065,,,58.8,polygon,FALSE,America/New_York,5142
+West Topsham-VT,1840037486,West Topsham,West Topsham,VT,West Topsham-VT,Vermont,50017,Orange,44.1151,-72.3118,,,64.8,point,FALSE,America/New_York,5086
+Newport-VT,1840002270,Newport,Newport,VT,Newport-VT,Vermont,50019,Orleans,44.9375,-72.2088,3776,4328,286,polygon,TRUE,America/New_York,5855
+Northfield-VT,1840004102,Northfield,Northfield,VT,Northfield-VT,Vermont,50023,Washington,44.1531,-72.6557,,,475.7,polygon,FALSE,America/New_York,5663
+North Bennington-VT,1840004301,North Bennington,North Bennington,VT,North Bennington-VT,Vermont,50003,Bennington,42.924,-73.2411,1619,1619,335,polygon,TRUE,America/New_York,5257
+Perkinsville-VT,1840004160,Perkinsville,Perkinsville,VT,Perkinsville-VT,Vermont,50027,Windsor,43.3708,-72.5159,123,123,260,polygon,TRUE,America/New_York,5151
+Concord-VT,1840025327,Concord,Concord,VT,Concord-VT,Vermont,50009,Essex,44.4323,-71.8863,,,166,polygon,FALSE,America/New_York,5824
+Montpelier-VT,1840002187,Montpelier,Montpelier,VT,Montpelier-VT,Vermont,50023,Washington,44.2658,-72.5717,7535,7535,289,polygon,TRUE,America/New_York,05602 05601 05603 05604 05609 05620 05633
+Plainfield-VT,1840023974,Plainfield,Plainfield,VT,Plainfield-VT,Vermont,50023,Washington,44.2766,-72.427,,,284.3,polygon,FALSE,America/New_York,5667
+Troy-VT,1840025335,Troy,Troy,VT,Troy-VT,Vermont,50019,Orleans,44.909,-72.4046,,,116.6,polygon,FALSE,America/New_York,05868 05859
+Manchester-VT,1840004300,Manchester,Manchester,VT,Manchester-VT,Vermont,50003,Bennington,43.161,-73.0709,737,737,80,polygon,TRUE,America/New_York,05255 05254
+North Wolcott-VT,1840037488,North Wolcott,North Wolcott,VT,North Wolcott-VT,Vermont,50015,Lamoille,44.6112,-72.4604,,,46.1,point,FALSE,America/New_York,5680
+Windsor-VT,1840025414,Windsor,Windsor,VT,Windsor-VT,Vermont,50027,Windsor,43.4799,-72.3936,,,1438.7,polygon,FALSE,America/New_York,5089
+Brattleboro-VT,1840002940,Brattleboro,Brattleboro,VT,Brattleboro-VT,Vermont,50025,Windham,42.8588,-72.5628,,,566.7,polygon,FALSE,America/New_York,05301 05302 05303 05304
+Rochester-VT,1840025412,Rochester,Rochester,VT,Rochester-VT,Vermont,50027,Windsor,43.8743,-72.8052,,,157.1,polygon,FALSE,America/New_York,5767
+Jeffersonville-VT,1840004078,Jeffersonville,Jeffersonville,VT,Jeffersonville-VT,Vermont,50015,Lamoille,44.6427,-72.8282,765,765,380,polygon,TRUE,America/New_York,5464
+Beecher Falls-VT,1840025316,Beecher Falls,Beecher Falls,VT,Beecher Falls-VT,Vermont,50009,Essex,45.009,-71.4935,,,54.3,polygon,FALSE,America/New_York,05903 05902
+Bennington-VT,1840002898,Bennington,Bennington,VT,Bennington-VT,Vermont,50003,Bennington,42.8746,-73.1852,,,2061.3,polygon,FALSE,America/New_York,5201
+Brandon-VT,1840002633,Brandon,Brandon,VT,Brandon-VT,Vermont,50021,Rutland,43.8011,-73.0843,,,620.8,polygon,FALSE,America/New_York,5733
+East Barre-VT,1840023971,East Barre,East Barre,VT,East Barre-VT,Vermont,50023,Washington,44.1498,-72.4498,,,196.1,polygon,FALSE,America/New_York,5641
+Williamstown-VT,1840025394,Williamstown,Williamstown,VT,Williamstown-VT,Vermont,50017,Orange,44.1218,-72.5427,,,369.1,polygon,FALSE,America/New_York,5679
+Burlington-VT,1840002310,Burlington,Burlington,VT,Burlington-VT,Vermont,50007,Chittenden,44.4877,-73.2314,108331,42260,1583,polygon,TRUE,America/New_York,05405 05401 05408 05402 05406
+South Shaftsbury-VT,1840004303,South Shaftsbury,South Shaftsbury,VT,South Shaftsbury-VT,Vermont,50003,Bennington,42.9411,-73.202,,,490.3,polygon,FALSE,America/New_York,5262
+Lyndonville-VT,1840004081,Lyndonville,Lyndonville,VT,Lyndonville-VT,Vermont,50005,Caledonia,44.5352,-72.0016,2838,1172,639,polygon,TRUE,America/New_York,5851
+Waitsfield-VT,1840025371,Waitsfield,Waitsfield,VT,Waitsfield-VT,Vermont,50023,Washington,44.19,-72.8246,,,104,polygon,FALSE,America/New_York,5673
+Stowe-VT,1840025344,Stowe,Stowe,VT,Stowe-VT,Vermont,50015,Lamoille,44.4662,-72.6853,,,376.3,polygon,FALSE,America/New_York,5672
+Websterville-VT,1840023975,Websterville,Websterville,VT,Websterville-VT,Vermont,50023,Washington,44.1617,-72.4722,,,234.6,polygon,FALSE,America/New_York,05641 05678
+Saint Albans-VT,1840002267,Saint Albans,Saint Albans,VT,Saint Albans-VT,Vermont,50011,Franklin,44.8119,-73.0846,8888,6792,1294,polygon,TRUE,America/New_York,05478 05479
+Wilder-VT,1840004163,Wilder,Wilder,VT,Wilder-VT,Vermont,50027,Windsor,43.673,-72.3109,,,877.7,polygon,FALSE,America/New_York,05001 05088
+South Royalton-VT,1840025413,South Royalton,South Royalton,VT,South Royalton-VT,Vermont,50027,Windsor,43.8123,-72.5156,,,323.6,polygon,FALSE,America/New_York,5068
+East Burke-VT,1840025347,East Burke,East Burke,VT,East Burke-VT,Vermont,50005,Caledonia,44.5875,-71.9403,,,65.8,polygon,FALSE,America/New_York,5832
+Jericho-VT,1840004084,Jericho,Jericho,VT,Jericho-VT,Vermont,50007,Chittenden,44.5049,-72.9878,,,380.2,polygon,TRUE,America/New_York,5465
+Johnson-VT,1840004079,Johnson,Johnson,VT,Johnson-VT,Vermont,50015,Lamoille,44.6366,-72.6786,1462,1462,483,polygon,TRUE,America/New_York,5656
+West Burke-VT,1840004082,West Burke,West Burke,VT,West Burke-VT,Vermont,50005,Caledonia,44.6431,-71.9792,334,334,271,polygon,TRUE,America/New_York,5871
+Castleton-VT,1840025426,Castleton,Castleton,VT,Castleton-VT,Vermont,50021,Rutland,43.6054,-73.1853,,,568,polygon,FALSE,America/New_York,5735
+Morrisville-VT,1840004080,Morrisville,Morrisville,VT,Morrisville-VT,Vermont,50015,Lamoille,44.5583,-72.5933,2050,2050,404,polygon,TRUE,America/New_York,5661
+Barton-VT,1840004047,Barton,Barton,VT,Barton-VT,Vermont,50019,Orleans,44.7481,-72.1753,673,673,218,polygon,TRUE,America/New_York,5822
+Chester-VT,1840002598,Chester,Chester,VT,Chester-VT,Vermont,50027,Windsor,43.2648,-72.5935,,,315.4,polygon,FALSE,America/New_York,5143
+Derby Line-VT,1840004049,Derby Line,Derby Line,VT,Derby Line-VT,Vermont,50019,Orleans,45.0008,-72.1034,629,629,335,polygon,TRUE,America/Montreal,5830
+Cambridge-VT,1840004076,Cambridge,Cambridge,VT,Cambridge-VT,Vermont,50015,Lamoille,44.639,-72.8788,242,242,75,polygon,TRUE,America/New_York,05464 05444
+Derby Center-VT,1840004048,Derby Center,Derby Center,VT,Derby Center-VT,Vermont,50019,Orleans,44.955,-72.1361,559,559,154,polygon,TRUE,America/New_York,5829
+South Burlington-VT,1840002311,South Burlington,South Burlington,VT,South Burlington-VT,Vermont,50007,Chittenden,44.4622,-73.2203,18971,18971,444,polygon,TRUE,America/New_York,05403 05407
+Newport Center-VT,1840025334,Newport Center,Newport Center,VT,Newport Center-VT,Vermont,50019,Orleans,44.9509,-72.3042,,,304.6,polygon,FALSE,America/New_York,5857
+Glover-VT,1840025329,Glover,Glover,VT,Glover-VT,Vermont,50019,Orleans,44.7077,-72.1934,,,255.6,polygon,FALSE,America/New_York,5839
+Orleans-VT,1840004051,Orleans,Orleans,VT,Orleans-VT,Vermont,50019,Orleans,44.8092,-72.2013,749,749,318,polygon,TRUE,America/New_York,5860
+Hinesburg-VT,1840023901,Hinesburg,Hinesburg,VT,Hinesburg-VT,Vermont,50007,Chittenden,44.3299,-73.1062,,,354.1,polygon,FALSE,America/New_York,5461
+Quechee-VT,1840025411,Quechee,Quechee,VT,Quechee-VT,Vermont,50027,Windsor,43.6445,-72.4184,,,229.7,polygon,FALSE,America/New_York,05059 05001
+Middlebury-VT,1840002220,Middlebury,Middlebury,VT,Middlebury-VT,Vermont,50001,Addison,44.0079,-73.1575,,,962,polygon,FALSE,America/New_York,5753
+West Brattleboro-VT,1840002941,West Brattleboro,West Brattleboro,VT,West Brattleboro-VT,Vermont,50025,Windham,42.8558,-72.6017,,,618.3,polygon,FALSE,America/New_York,5301
+Woodstock-VT,1840004161,Woodstock,Woodstock,VT,Woodstock-VT,Vermont,50027,Windsor,43.6257,-72.5167,861,861,333,polygon,TRUE,America/New_York,5091
+Fairfield-VT,1840037483,Fairfield,Fairfield,VT,Fairfield-VT,Vermont,50011,Franklin,44.802,-72.9457,,,20,point,FALSE,America/New_York,5455
+Richmond-VT,1840025351,Richmond,Richmond,VT,Richmond-VT,Vermont,50007,Chittenden,44.4076,-72.9965,,,395.2,polygon,FALSE,America/New_York,5477
+Enosburg Falls-VT,1840004032,Enosburg Falls,Enosburg Falls,VT,Enosburg Falls-VT,Vermont,50011,Franklin,44.9083,-72.8029,1299,1299,140,polygon,TRUE,America/New_York,5450
+Fairlee-VT,1840025392,Fairlee,Fairlee,VT,Fairlee-VT,Vermont,50017,Orange,43.899,-72.1546,,,148.6,polygon,FALSE,America/New_York,5045
+South Barre-VT,1840002188,South Barre,South Barre,VT,South Barre-VT,Vermont,50023,Washington,44.1646,-72.5038,,,227.4,polygon,FALSE,America/New_York,05641 05670
+North Westminster-VT,1840037484,North Westminster,North Westminster,VT,North Westminster-VT,Vermont,50025,Windham,43.1219,-72.4555,,,292.2,polygon,FALSE,America/New_York,05101 05158
+Essex Junction-VT,1840004083,Essex Junction,Essex Junction,VT,Essex Junction-VT,Vermont,50007,Chittenden,44.4903,-73.114,10412,10412,880,polygon,TRUE,America/New_York,05452 05453
+White River Junction-VT,1840004162,White River Junction,White River Junction,VT,White River Junction-VT,Vermont,50027,Windsor,43.6496,-72.3239,,,1149.2,polygon,FALSE,America/New_York,05001 05009 05047
+Newbury-VT,1840004131,Newbury,Newbury,VT,Newbury-VT,Vermont,50017,Orange,44.0812,-72.0594,357,357,27,polygon,TRUE,America/New_York,5051
+North Hartland-VT,1840025407,North Hartland,North Hartland,VT,North Hartland-VT,Vermont,50027,Windsor,43.5936,-72.3578,,,166.4,polygon,FALSE,America/New_York,5052
+Bethel-VT,1840025404,Bethel,Bethel,VT,Bethel-VT,Vermont,50027,Windsor,43.8312,-72.6365,,,172.1,polygon,FALSE,America/New_York,5032
+Poultney-VT,1840004166,Poultney,Poultney,VT,Poultney-VT,Vermont,50021,Rutland,43.5182,-73.2361,1608,1608,981,polygon,TRUE,America/New_York,5764
+Alburg-VT,1840004034,Alburg,Alburg,VT,Alburg-VT,Vermont,50013,Grand Isle,44.975,-73.3001,,,173.8,point,TRUE,America/New_York,5440
+Readsboro-VT,1840024049,Readsboro,Readsboro,VT,Readsboro-VT,Vermont,50003,Bennington,42.7683,-72.949,,,266.3,polygon,FALSE,America/New_York,5350
+North Springfield-VT,1840025408,North Springfield,North Springfield,VT,North Springfield-VT,Vermont,50027,Windsor,43.33,-72.5263,,,133,polygon,FALSE,America/New_York,05150 05156
+East Middlebury-VT,1840025378,East Middlebury,East Middlebury,VT,East Middlebury-VT,Vermont,50001,Addison,43.9747,-73.1056,,,198.1,polygon,FALSE,America/New_York,05740 05753
+Benson-VT,1840025425,Benson,Benson,VT,Benson-VT,Vermont,50021,Rutland,43.7072,-73.3094,,,56,polygon,FALSE,America/New_York,05743 05731
+Bradford-VT,1840002524,Bradford,Bradford,VT,Bradford-VT,Vermont,50017,Orange,43.9961,-72.1265,,,523.5,polygon,FALSE,America/New_York,5033
+East Randolph-VT,1840037481,East Randolph,East Randolph,VT,East Randolph-VT,Vermont,50017,Orange,43.9401,-72.5551,,,96.6,point,FALSE,America/New_York,5061
+Proctorsville-VT,1840025410,Proctorsville,Proctorsville,VT,Proctorsville-VT,Vermont,50027,Windsor,43.3824,-72.6415,,,235.3,polygon,FALSE,America/New_York,5153
+Rutland-VT,1840002632,Rutland,Rutland,VT,Rutland-VT,Vermont,50021,Rutland,43.6091,-72.9782,18765,15601,797,polygon,TRUE,America/New_York,05701 05702
+Fairfax-VT,1840037482,Fairfax,Fairfax,VT,Fairfax-VT,Vermont,50011,Franklin,44.6695,-73.0106,,,279.6,polygon,FALSE,America/New_York,5454
+Greensboro-VT,1840025330,Greensboro,Greensboro,VT,Greensboro-VT,Vermont,50019,Orleans,44.577,-72.3021,,,45.5,polygon,FALSE,America/New_York,5841
+Dorset-VT,1840025445,Dorset,Dorset,VT,Dorset-VT,Vermont,50003,Bennington,43.2551,-73.101,,,76.8,polygon,FALSE,America/New_York,5251
+Hyde Park-VT,1840004077,Hyde Park,Hyde Park,VT,Hyde Park-VT,Vermont,50015,Lamoille,44.596,-72.6123,494,494,164,polygon,TRUE,America/New_York,5655
+Worcester-VT,1840023976,Worcester,Worcester,VT,Worcester-VT,Vermont,50023,Washington,44.3716,-72.5497,,,96.3,polygon,FALSE,America/New_York,5682
+Canaan-VT,1840025326,Canaan,Canaan,VT,Canaan-VT,Vermont,50009,Essex,45.0044,-71.5344,,,274.1,polygon,FALSE,America/New_York,5903
+West Dover-VT,1840037487,West Dover,West Dover,VT,West Dover-VT,Vermont,50025,Windham,42.9392,-72.8529,,,18.5,point,FALSE,America/New_York,5356
+West Rutland-VT,1840002636,West Rutland,West Rutland,VT,West Rutland-VT,Vermont,50021,Rutland,43.5972,-73.0451,,,679.8,polygon,FALSE,America/New_York,5777
+Putney-VT,1840024050,Putney,Putney,VT,Putney-VT,Vermont,50025,Windham,42.9757,-72.5255,,,185.2,polygon,FALSE,America/New_York,5346
+Newfane-VT,1840004336,Newfane,Newfane,VT,Newfane-VT,Vermont,50025,Windham,42.9875,-72.6549,113,113,248,polygon,TRUE,America/New_York,5345
+Westminster-VT,1840004339,Westminster,Westminster,VT,Westminster-VT,Vermont,50025,Windham,43.0739,-72.4551,278,278,80,polygon,TRUE,America/New_York,5158
+Cabot-VT,1840037479,Cabot,Cabot,VT,Cabot-VT,Vermont,50023,Washington,44.4049,-72.3116,,,121.8,polygon,FALSE,America/New_York,5647
+Danville-VT,1840025346,Danville,Danville,VT,Danville-VT,Vermont,50005,Caledonia,44.4105,-72.1409,,,239.5,polygon,FALSE,America/New_York,5828
+Fair Haven-VT,1840002634,Fair Haven,Fair Haven,VT,Fair Haven-VT,Vermont,50021,Rutland,43.5928,-73.2694,,,639.5,polygon,FALSE,America/New_York,5743
+Springfield-VT,1840002599,Springfield,Springfield,VT,Springfield-VT,Vermont,50027,Windsor,43.2888,-72.4758,,,955.1,polygon,FALSE,America/New_York,5156
+Lowell-VT,1840025333,Lowell,Lowell,VT,Lowell-VT,Vermont,50019,Orleans,44.7951,-72.4449,,,60,polygon,FALSE,America/New_York,5847
+Old Bennington-VT,1840004302,Old Bennington,Old Bennington,VT,Old Bennington-VT,Vermont,50003,Bennington,42.8848,-73.2143,137,137,143,polygon,TRUE,America/New_York,5201
+Hartland-VT,1840025406,Hartland,Hartland,VT,Hartland-VT,Vermont,50027,Windsor,43.5425,-72.4001,,,163.1,polygon,FALSE,America/New_York,5048
+Marshfield-VT,1840004101,Marshfield,Marshfield,VT,Marshfield-VT,Vermont,50023,Washington,44.3519,-72.3521,261,261,390,polygon,TRUE,America/New_York,5658
+Norwich-VT,1840025409,Norwich,Norwich,VT,Norwich-VT,Vermont,50027,Windsor,43.7202,-72.3018,,,225.5,polygon,FALSE,America/New_York,5055
+Ascutney-VT,1840025403,Ascutney,Ascutney,VT,Ascutney-VT,Vermont,50027,Windsor,43.4079,-72.407,,,95.6,polygon,FALSE,America/New_York,05151 05089
+Wells-VT,1840025428,Wells,Wells,VT,Wells-VT,Vermont,50021,Rutland,43.4209,-73.2074,,,218.5,polygon,FALSE,America/New_York,5774
+North Troy-VT,1840004050,North Troy,North Troy,VT,North Troy-VT,Vermont,50019,Orleans,44.9963,-72.4038,573,573,118,polygon,TRUE,America/New_York,5859
+Vergennes-VT,1840002218,Vergennes,Vergennes,VT,Vergennes-VT,Vermont,50001,Addison,44.1664,-73.2555,2602,2599,405,polygon,TRUE,America/New_York,5491
+Jacksonville-VT,1840004335,Jacksonville,Jacksonville,VT,Jacksonville-VT,Vermont,50025,Windham,42.7976,-72.8192,216,216,73,polygon,TRUE,America/New_York,5342
+Milton-VT,1840002313,Milton,Milton,VT,Milton-VT,Vermont,50007,Chittenden,44.6352,-73.1155,,,778.7,polygon,FALSE,America/New_York,5468
+Hardwick-VT,1840025349,Hardwick,Hardwick,VT,Hardwick-VT,Vermont,50005,Caledonia,44.5022,-72.3653,,,888.4,polygon,FALSE,America/New_York,5843
+Swanton-VT,1840004033,Swanton,Swanton,VT,Swanton-VT,Vermont,50011,Franklin,44.9213,-73.1201,3047,2380,1208,polygon,TRUE,America/New_York,5488
+Coventry-VT,1840025328,Coventry,Coventry,VT,Coventry-VT,Vermont,50019,Orleans,44.866,-72.2679,,,60.1,polygon,FALSE,America/New_York,5825
+Wilmington-VT,1840025446,Wilmington,Wilmington,VT,Wilmington-VT,Vermont,50025,Windham,42.8717,-72.8677,,,216.2,polygon,FALSE,America/New_York,5363
+Ludlow-VT,1840004159,Ludlow,Ludlow,VT,Ludlow-VT,Vermont,50027,Windsor,43.3973,-72.6969,781,781,225,polygon,TRUE,America/New_York,5149
+Bellows Falls-VT,1840004334,Bellows Falls,Bellows Falls,VT,Bellows Falls-VT,Vermont,50025,Windham,43.1344,-72.455,5473,3016,847,polygon,TRUE,America/New_York,5101
+Bristol-VT,1840002219,Bristol,Bristol,VT,Bristol-VT,Vermont,50001,Addison,44.1383,-73.0874,,,1019.1,polygon,FALSE,America/New_York,5443
+Richford-VT,1840002268,Richford,Richford,VT,Richford-VT,Vermont,50011,Franklin,44.9952,-72.6648,,,823,polygon,FALSE,America/Montreal,5476
+Saint Johnsbury-VT,1840002305,Saint Johnsbury,Saint Johnsbury,VT,Saint Johnsbury-VT,Vermont,50005,Caledonia,44.4287,-72.0116,,,1528.5,polygon,FALSE,America/New_York,5819
+Wallingford-VT,1840002635,Wallingford,Wallingford,VT,Wallingford-VT,Vermont,50021,Rutland,43.4749,-72.9675,,,549.6,polygon,FALSE,America/New_York,5773
+Pittsford-VT,1840025427,Pittsford,Pittsford,VT,Pittsford-VT,Vermont,50021,Rutland,43.7068,-73.029,,,138,polygon,FALSE,America/New_York,5763
+Graniteville-VT,1840023973,Graniteville,Graniteville,VT,Graniteville-VT,Vermont,50023,Washington,44.1463,-72.4818,,,233.7,polygon,FALSE,America/New_York,5654
+Greensboro Bend-VT,1840025331,Greensboro Bend,Greensboro Bend,VT,Greensboro Bend-VT,Vermont,50019,Orleans,44.5583,-72.2642,,,169,polygon,FALSE,America/New_York,5842
+Randolph-VT,1840025393,Randolph,Randolph,VT,Randolph-VT,Vermont,50017,Orange,43.9273,-72.6728,,,433.6,polygon,FALSE,America/New_York,5060
+Wells River-VT,1840004132,Wells River,Wells River,VT,Wells River-VT,Vermont,50017,Orange,44.1537,-72.0617,389,389,80,polygon,TRUE,America/New_York,5081

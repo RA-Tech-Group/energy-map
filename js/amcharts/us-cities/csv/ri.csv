@@ -1,0 +1,47 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Manville-RI,1840035719,Manville,Manville,RI,Manville-RI,Rhode Island,44007,Providence,41.9698,-71.4737,,,2286.4,point,FALSE,America/New_York,2838
+Harrisville-RI,1840003293,Harrisville,Harrisville,RI,Harrisville-RI,Rhode Island,44007,Providence,41.9687,-71.6767,,,465.4,polygon,FALSE,America/New_York,2830
+Hopkinton-RI,1840035709,Hopkinton,Hopkinton,RI,Hopkinton-RI,Rhode Island,44009,Washington,41.4622,-71.7783,,,108,polygon,FALSE,America/New_York,02833 02804
+Wyoming-RI,1840026288,Wyoming,Wyoming,RI,Wyoming-RI,Rhode Island,44009,Washington,41.5143,-71.6902,,,128.6,polygon,FALSE,America/New_York,2898
+Central Falls-RI,1840003286,Central Falls,Central Falls,RI,Central Falls-RI,Rhode Island,44007,Providence,41.89,-71.3933,19347,19347,6234,polygon,TRUE,America/New_York,2863
+Greenville-RI,1840003292,Greenville,Greenville,RI,Greenville-RI,Rhode Island,44007,Providence,41.8799,-71.555,,,832.4,polygon,FALSE,America/New_York,02917 02828
+Providence-RI,1840003289,Providence,Providence,RI,Providence-RI,Rhode Island,44007,Providence,41.8229,-71.4186,1198789,179219,3760,polygon,TRUE,America/New_York,02903 02906 02907 02904 02905 02908 02909 02912 02901 02902 02918 02940
+Harmony-RI,1840026228,Harmony,Harmony,RI,Harmony-RI,Rhode Island,44007,Providence,41.8965,-71.6053,,,225.6,polygon,FALSE,America/New_York,2814
+Warwick-RI,1840003344,Warwick,Warwick,RI,Warwick-RI,Rhode Island,44003,Kent,41.7061,-71.4334,81579,81579,898,polygon,TRUE,America/New_York,02818 02886 02889 02888 02887
+Saunderstown-RI,1840035712,Saunderstown,Saunderstown,RI,Saunderstown-RI,Rhode Island,44009,Washington,41.5079,-71.4245,,,352.5,point,FALSE,America/New_York,2874
+Carolina-RI,1840026289,Carolina,Carolina,RI,Carolina-RI,Rhode Island,44009,Washington,41.4625,-71.6585,,,169.2,polygon,FALSE,America/New_York,02812 02813
+Cranston-RI,1840003287,Cranston,Cranston,RI,Cranston-RI,Rhode Island,44007,Providence,41.7658,-71.4858,81034,81034,1103,polygon,TRUE,America/New_York,02905 02831 02920 02910 02921
+East Providence-RI,1840003288,East Providence,East Providence,RI,East Providence-RI,Rhode Island,44007,Providence,41.8064,-71.3565,47337,47337,1380,polygon,TRUE,America/New_York,02915 02914 02916
+Cumberland Hill-RI,1840003291,Cumberland Hill,Cumberland Hill,RI,Cumberland Hill-RI,Rhode Island,44007,Providence,41.9736,-71.4605,,,2286.4,polygon,FALSE,America/New_York,2864
+Esmond-RI,1840035717,Esmond,Esmond,RI,Esmond-RI,Rhode Island,44007,Providence,41.8723,-71.4945,,,1260,point,FALSE,America/New_York,2917
+Misquamicut-RI,1840026290,Misquamicut,Misquamicut,RI,Misquamicut-RI,Rhode Island,44009,Washington,41.3237,-71.822,,,153.3,polygon,FALSE,America/New_York,2891
+Valley Falls-RI,1840003295,Valley Falls,Valley Falls,RI,Valley Falls-RI,Rhode Island,44007,Providence,41.9234,-71.3923,,,1536.4,polygon,FALSE,America/New_York,2864
+Coventry-RI,1840035720,Coventry,Coventry,RI,Coventry-RI,Rhode Island,44003,Kent,41.7001,-71.6828,,,63.9,point,FALSE,America/New_York,2827
+Charlestown-RI,1840035710,Charlestown,Charlestown,RI,Charlestown-RI,Rhode Island,44009,Washington,41.3783,-71.6285,,,193.7,polygon,FALSE,America/New_York,02813 02879
+Bradford-RI,1840003363,Bradford,Bradford,RI,Bradford-RI,Rhode Island,44009,Washington,41.3944,-71.7541,,,303.3,polygon,FALSE,America/New_York,2808
+Clayville-RI,1840026230,Clayville,Clayville,RI,Clayville-RI,Rhode Island,44007,Providence,41.7734,-71.6854,,,92.7,polygon,FALSE,America/New_York,02815 02825
+Union Village-RI,1840035721,Union Village,Union Village,RI,Union Village-RI,Rhode Island,44007,Providence,41.9912,-71.5392,,,700.7,point,FALSE,America/New_York,2896
+Chepachet-RI,1840026229,Chepachet,Chepachet,RI,Chepachet-RI,Rhode Island,44007,Providence,41.9105,-71.6653,,,148.8,polygon,FALSE,America/New_York,2814
+Wakefield-RI,1840035722,Wakefield,Wakefield,RI,Wakefield-RI,Rhode Island,44009,Washington,41.4373,-71.5014,,,976.5,point,FALSE,America/New_York,2879
+Greene-RI,1840026257,Greene,Greene,RI,Greene-RI,Rhode Island,44003,Kent,41.6988,-71.7339,,,76.2,polygon,FALSE,America/New_York,2827
+Ashaway-RI,1840003362,Ashaway,Ashaway,RI,Ashaway-RI,Rhode Island,44009,Washington,41.4259,-71.7852,,,323.2,polygon,FALSE,America/New_York,2804
+North Foster-RI,1840035715,North Foster,North Foster,RI,North Foster-RI,Rhode Island,44007,Providence,41.8315,-71.7506,,,65.9,point,FALSE,America/New_York,2825
+Narragansett Pier-RI,1840003366,Narragansett Pier,Narragansett Pier,RI,Narragansett Pier-RI,Rhode Island,44009,Washington,41.428,-71.467,,,926.3,polygon,FALSE,America/New_York,2882
+Newport-RI,1840003355,Newport,Newport,RI,Newport-RI,Rhode Island,44005,Newport,41.4803,-71.3205,24779,24779,1246,polygon,TRUE,America/New_York,02841 02840
+Pascoag-RI,1840003294,Pascoag,Pascoag,RI,Pascoag-RI,Rhode Island,44007,Providence,41.9519,-71.704,,,869.4,polygon,FALSE,America/New_York,2859
+Hope Valley-RI,1840003364,Hope Valley,Hope Valley,RI,Hope Valley-RI,Rhode Island,44009,Washington,41.5151,-71.72,,,136,polygon,FALSE,America/New_York,2832
+Melville-RI,1840003356,Melville,Melville,RI,Melville-RI,Rhode Island,44005,Newport,41.5587,-71.2953,,,8.8,polygon,FALSE,America/New_York,02842 02871
+Weekapaug-RI,1840026293,Weekapaug,Weekapaug,RI,Weekapaug-RI,Rhode Island,44009,Washington,41.3359,-71.7633,,,90.3,polygon,FALSE,America/New_York,2891
+Westerly-RI,1840003368,Westerly,Westerly,RI,Westerly-RI,Rhode Island,44009,Washington,41.3723,-71.8069,,,1430.2,polygon,FALSE,America/New_York,2891
+Quonochontaug-RI,1840026291,Quonochontaug,Quonochontaug,RI,Quonochontaug-RI,Rhode Island,44009,Washington,41.3447,-71.7061,,,97.8,polygon,FALSE,America/New_York,2813
+Tiverton-RI,1840003357,Tiverton,Tiverton,RI,Tiverton-RI,Rhode Island,44005,Newport,41.6471,-71.1971,,,929.3,polygon,FALSE,America/New_York,2878
+West Kingston-RI,1840035711,West Kingston,West Kingston,RI,West Kingston-RI,Rhode Island,44009,Washington,41.4832,-71.5514,,,131.1,point,FALSE,America/New_York,2892
+Kingston-RI,1840003365,Kingston,Kingston,RI,Kingston-RI,Rhode Island,44009,Washington,41.4738,-71.5236,,,498.5,polygon,FALSE,America/New_York,02879 02881
+Washington-RI,1840035714,Washington,Washington,RI,Washington-RI,Rhode Island,44003,Kent,41.6884,-71.5667,,,584.2,point,FALSE,America/New_York,2816
+Belleville-RI,1840035713,Belleville,Belleville,RI,Belleville-RI,Rhode Island,44009,Washington,41.554,-71.4687,,,315.4,point,FALSE,America/New_York,2852
+Woonsocket-RI,1840003290,Woonsocket,Woonsocket,RI,Woonsocket-RI,Rhode Island,44007,Providence,42.001,-71.4993,41406,41406,2065,polygon,TRUE,America/New_York,2895
+Centerdale-RI,1840035716,Centerdale,Centerdale,RI,Centerdale-RI,Rhode Island,44007,Providence,41.8565,-71.4787,,,2610.5,point,FALSE,America/New_York,2911
+Watch Hill-RI,1840026292,Watch Hill,Watch Hill,RI,Watch Hill-RI,Rhode Island,44009,Washington,41.3157,-71.8487,,,64.9,polygon,FALSE,America/New_York,2891
+Foster Center-RI,1840026231,Foster Center,Foster Center,RI,Foster Center-RI,Rhode Island,44007,Providence,41.7898,-71.7328,,,85.5,polygon,FALSE,America/New_York,2825
+Georgiaville-RI,1840035718,Georgiaville,Georgiaville,RI,Georgiaville-RI,Rhode Island,44007,Providence,41.887,-71.5084,,,823.1,point,FALSE,America/New_York,2917
+Pawtucket-RI,1840003285,Pawtucket,Pawtucket,RI,Pawtucket-RI,Rhode Island,44007,Providence,41.8743,-71.3744,71427,71427,3176,polygon,TRUE,America/New_York,02861 02860 02862

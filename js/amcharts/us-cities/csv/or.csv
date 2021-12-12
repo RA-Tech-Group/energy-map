@@ -1,0 +1,484 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Scotts Mills-OR,1840021225,Scotts Mills,Scotts Mills,OR,Scotts Mills-OR,Oregon,41047,Marion,45.041,-122.669,372,372,404,polygon,TRUE,America/Los_Angeles,97375
+Tumalo-OR,1840023977,Tumalo,Tumalo,OR,Tumalo-OR,Oregon,41017,Deschutes,44.1561,-121.328,,,344.8,polygon,FALSE,America/Los_Angeles,97701
+Pistol River-OR,1840025466,Pistol River,Pistol River,OR,Pistol River-OR,Oregon,41015,Curry,42.2838,-124.3991,,,27.4,polygon,FALSE,America/Los_Angeles,97444
+Harper-OR,1840025375,Harper,Harper,OR,Harper-OR,Oregon,41045,Malheur,43.857,-117.6265,,,62.7,polygon,FALSE,America/Boise,97906
+Tutuilla-OR,1840034835,Tutuilla,Tutuilla,OR,Tutuilla-OR,Oregon,41059,Umatilla,45.6142,-118.7065,,,95.9,polygon,FALSE,America/Los_Angeles,97801
+Dundee-OR,1840018575,Dundee,Dundee,OR,Dundee-OR,Oregon,41071,Yamhill,45.2759,-123.0072,3257,3257,944,polygon,TRUE,America/Los_Angeles,97115
+Saint Helens-OR,1840021185,Saint Helens,Saint Helens,OR,Saint Helens-OR,Oregon,41009,Columbia,45.8572,-122.8163,26929,13526,1098,polygon,TRUE,America/Los_Angeles,97051
+Toledo-OR,1840021234,Toledo,Toledo,OR,Toledo-OR,Oregon,41041,Lincoln,44.6196,-123.934,3679,3560,630,polygon,TRUE,America/Los_Angeles,97391
+Raleigh Hills-OR,1840034810,Raleigh Hills,Raleigh Hills,OR,Raleigh Hills-OR,Oregon,41067,Washington,45.4852,-122.7567,,,1088.4,polygon,FALSE,America/Los_Angeles,97225 97223
+Madras-OR,1840019987,Madras,Madras,OR,Madras-OR,Oregon,41031,Jefferson,44.6384,-121.1268,8914,6729,502,polygon,TRUE,America/Los_Angeles,97741
+Rockaway Beach-OR,1840019927,Rockaway Beach,Rockaway Beach,OR,Rockaway Beach-OR,Oregon,41057,Tillamook,45.6186,-123.9398,1376,1376,332,polygon,TRUE,America/Los_Angeles,97136
+Scottsburg-OR,1840034795,Scottsburg,Scottsburg,OR,Scottsburg-OR,Oregon,41019,Douglas,43.654,-123.8168,,,19.4,point,FALSE,America/Los_Angeles,97473
+Chiloquin-OR,1840018651,Chiloquin,Chiloquin,OR,Chiloquin-OR,Oregon,41035,Klamath,42.5764,-121.8678,726,726,342,polygon,TRUE,America/Los_Angeles,97624
+Coos Bay-OR,1840018653,Coos Bay,Coos Bay,OR,Coos Bay-OR,Oregon,41011,Coos,43.3789,-124.233,32024,16292,593,polygon,TRUE,America/Los_Angeles,97459 97420
+Chenoweth-OR,1840017417,Chenoweth,Chenoweth,OR,Chenoweth-OR,Oregon,41065,Wasco,45.6207,-121.2363,,,386.3,polygon,FALSE,America/Los_Angeles,97058
+Mount Hood-OR,1840025300,Mount Hood,Mount Hood,OR,Mount Hood-OR,Oregon,41027,Hood River,45.5339,-121.5662,,,202.1,polygon,FALSE,America/Los_Angeles,97041
+Rieth-OR,1840034700,Rieth,Rieth,OR,Rieth-OR,Oregon,41059,Umatilla,45.661,-118.8714,,,87.7,point,FALSE,America/Los_Angeles,97801
+Estacada-OR,1840019948,Estacada,Estacada,OR,Estacada-OR,Oregon,41005,Clackamas,45.2987,-122.3338,4717,3313,575,polygon,TRUE,America/Los_Angeles,97023
+Oakridge-OR,1840020010,Oakridge,Oakridge,OR,Oakridge-OR,Oregon,41039,Lane,43.745,-122.4638,3255,3246,584,polygon,TRUE,America/Los_Angeles,97463
+Walterville-OR,1840034709,Walterville,Walterville,OR,Walterville-OR,Oregon,41039,Lane,44.0687,-122.804,,,67.1,point,FALSE,America/Los_Angeles,97478
+Holland-OR,1840034778,Holland,Holland,OR,Holland-OR,Oregon,41033,Josephine,42.1276,-123.539,,,19.6,point,FALSE,America/Los_Angeles,97523
+Crabtree-OR,1840023939,Crabtree,Crabtree,OR,Crabtree-OR,Oregon,41043,Linn,44.6377,-122.9059,,,139.5,polygon,FALSE,America/Los_Angeles,97374 97335
+North Bend-OR,1840020057,North Bend,North Bend,OR,North Bend-OR,Oregon,41011,Coos,43.4075,-124.2364,9789,9789,964,polygon,TRUE,America/Los_Angeles,97459
+Elgin-OR,1840019922,Elgin,Elgin,OR,Elgin-OR,Oregon,41061,Union,45.5644,-117.9214,1756,1756,685,polygon,TRUE,America/Los_Angeles,97827
+Shedd-OR,1840023944,Shedd,Shedd,OR,Shedd-OR,Oregon,41043,Linn,44.458,-123.112,,,93.2,polygon,FALSE,America/Los_Angeles,97377
+Happy Valley-OR,1840019950,Happy Valley,Happy Valley,OR,Happy Valley-OR,Oregon,41005,Clackamas,45.4383,-122.5142,19704,19704,858,polygon,TRUE,America/Los_Angeles,97015 97086
+Medford-OR,1840020076,Medford,Medford,OR,Medford-OR,Oregon,41029,Jackson,42.3372,-122.8537,167922,81636,1223,polygon,TRUE,America/Los_Angeles,97504 97501
+Goshen-OR,1840034724,Goshen,Goshen,OR,Goshen-OR,Oregon,41039,Lane,43.9954,-123.0115,,,98.3,point,FALSE,America/Los_Angeles,97405
+Deschutes River Woods-OR,1840034826,Deschutes River Woods,Deschutes River Woods,OR,Deschutes River Woods-OR,Oregon,41017,Deschutes,43.9887,-121.3608,,,672.4,polygon,FALSE,America/Los_Angeles,97702
+Independence-OR,1840018589,Independence,Independence,OR,Independence-OR,Oregon,41053,Polk,44.8551,-123.1948,9666,9666,1307,polygon,TRUE,America/Los_Angeles,97351
+Lakeview-OR,1840021284,Lakeview,Lakeview,OR,Lakeview-OR,Oregon,41037,Lake,42.1914,-120.3522,2929,2321,384,polygon,TRUE,America/Los_Angeles,97630
+Forest Grove-OR,1840019930,Forest Grove,Forest Grove,OR,Forest Grove-OR,Oregon,41067,Washington,45.5244,-123.11,24058,24058,1583,polygon,TRUE,America/Los_Angeles,97116
+Sandy-OR,1840021217,Sandy,Sandy,OR,Sandy-OR,Oregon,41005,Clackamas,45.3986,-122.269,11445,11005,1268,polygon,TRUE,America/Los_Angeles,97055
+Canyon City-OR,1840022349,Canyon City,Canyon City,OR,Canyon City-OR,Oregon,41023,Grant,44.393,-118.9494,670,670,183,polygon,TRUE,America/Los_Angeles,97820
+Knappa-OR,1840034731,Knappa,Knappa,OR,Knappa-OR,Oregon,41007,Clatsop,46.1851,-123.586,,,29.3,point,FALSE,America/Los_Angeles,97103
+Bly-OR,1840034756,Bly,Bly,OR,Bly-OR,Oregon,41035,Klamath,42.3977,-121.0417,,,56.5,point,FALSE,America/Los_Angeles,97622
+Winchester-OR,1840034710,Winchester,Winchester,OR,Winchester-OR,Oregon,41019,Douglas,43.2801,-123.3537,,,805.7,point,FALSE,America/Los_Angeles,97495
+Gold Beach-OR,1840020078,Gold Beach,Gold Beach,OR,Gold Beach-OR,Oregon,41015,Curry,42.3974,-124.4171,2851,2305,352,polygon,TRUE,America/Los_Angeles,97444
+Yamhill-OR,1840021222,Yamhill,Yamhill,OR,Yamhill-OR,Oregon,41071,Yamhill,45.3412,-123.1851,1145,1145,1045,polygon,TRUE,America/Los_Angeles,97148
+Wood Village-OR,1840021210,Wood Village,Wood Village,OR,Wood Village-OR,Oregon,41051,Multnomah,45.5358,-122.4205,4016,4016,1645,polygon,TRUE,America/Los_Angeles,97060
+Newberg-OR,1840019957,Newberg,Newberg,OR,Newberg-OR,Oregon,41071,Yamhill,45.3071,-122.9598,28516,23306,1550,polygon,TRUE,America/Los_Angeles,97132
+Burlington-OR,1840034676,Burlington,Burlington,OR,Burlington-OR,Oregon,41051,Multnomah,45.6462,-122.8426,,,79,point,FALSE,America/Los_Angeles,97231
+Days Creek-OR,1840025415,Days Creek,Days Creek,OR,Days Creek-OR,Oregon,41019,Douglas,42.9705,-123.1657,,,90.3,polygon,FALSE,America/Los_Angeles,97417 97429
+Norway-OR,1840034738,Norway,Norway,OR,Norway-OR,Oregon,41011,Coos,43.1009,-124.1568,,,39.1,point,FALSE,America/Los_Angeles,97458
+Culp Creek-OR,1840034761,Culp Creek,Culp Creek,OR,Culp Creek-OR,Oregon,41039,Lane,43.7035,-122.8476,,,22,point,FALSE,America/Los_Angeles,97434
+Cushman-OR,1840034762,Cushman,Cushman,OR,Cushman-OR,Oregon,41039,Lane,43.9857,-124.0443,,,12.1,point,FALSE,America/Los_Angeles,97439
+Cedar Hills-OR,1840034716,Cedar Hills,Cedar Hills,OR,Cedar Hills-OR,Oregon,41067,Washington,45.5047,-122.8052,,,847.4,polygon,FALSE,America/Los_Angeles,97225 97005
+Hammond-OR,1840034684,Hammond,Hammond,OR,Hammond-OR,Oregon,41007,Clatsop,46.2001,-123.9515,,,279.8,point,FALSE,America/Los_Angeles,97121
+Oatfield-OR,1840034837,Oatfield,Oatfield,OR,Oatfield-OR,Oregon,41005,Clackamas,45.4127,-122.5942,,,1764.7,polygon,FALSE,America/Los_Angeles,97222 97267
+Umpqua-OR,1840034706,Umpqua,Umpqua,OR,Umpqua-OR,Oregon,41019,Douglas,43.3654,-123.4684,,,5.8,point,FALSE,America/Los_Angeles,97486
+Juntura-OR,1840025376,Juntura,Juntura,OR,Juntura-OR,Oregon,41045,Malheur,43.7487,-118.0789,,,32.5,polygon,FALSE,America/Boise,97911
+Barlow-OR,1840034812,Barlow,Barlow,OR,Barlow-OR,Oregon,41005,Clackamas,45.2525,-122.7216,140,140,1036,polygon,TRUE,America/Los_Angeles,97002 97013
+Klamath Falls-OR,1840020054,Klamath Falls,Klamath Falls,OR,Klamath Falls-OR,Oregon,41035,Klamath,42.2193,-121.7755,42791,21524,416,polygon,TRUE,America/Los_Angeles,97603 97601
+Perrydale-OR,1840034698,Perrydale,Perrydale,OR,Perrydale-OR,Oregon,41053,Polk,45.0426,-123.2557,,,18.9,point,FALSE,America/Los_Angeles,97101
+Silver Lake-OR,1840025438,Silver Lake,Silver Lake,OR,Silver Lake-OR,Oregon,41037,Lake,43.1264,-121.0496,,,101.7,polygon,FALSE,America/Los_Angeles,97638
+Green-OR,1840017439,Green,Green,OR,Green-OR,Oregon,41019,Douglas,43.1509,-123.3854,,,446.7,polygon,FALSE,America/Los_Angeles,97471
+Umatilla-OR,1840021195,Umatilla,Umatilla,OR,Umatilla-OR,Oregon,41059,Umatilla,45.9128,-119.3142,6997,6997,608,polygon,TRUE,America/Los_Angeles,97882
+Idleyld Park-OR,1840034687,Idleyld Park,Idleyld Park,OR,Idleyld Park-OR,Oregon,41019,Douglas,43.3237,-123.024,,,22,point,FALSE,America/Los_Angeles,97447
+Lyons-OR,1840019992,Lyons,Lyons,OR,Lyons-OR,Oregon,41043,Linn,44.7776,-122.6098,1204,1204,535,polygon,TRUE,America/Los_Angeles,97358
+Long Creek-OR,1840019980,Long Creek,Long Creek,OR,Long Creek-OR,Oregon,41023,Grant,44.7142,-119.1043,192,192,72,polygon,TRUE,America/Los_Angeles,97856
+Gold Hill-OR,1840020074,Gold Hill,Gold Hill,OR,Gold Hill-OR,Oregon,41029,Jackson,42.4358,-123.0526,1280,1280,646,polygon,TRUE,America/Los_Angeles,97525
+Seal Rock-OR,1840034796,Seal Rock,Seal Rock,OR,Seal Rock-OR,Oregon,41041,Lincoln,44.499,-124.084,,,49.2,point,FALSE,America/Los_Angeles,97376
+Eddyville-OR,1840034682,Eddyville,Eddyville,OR,Eddyville-OR,Oregon,41041,Lincoln,44.6346,-123.7765,,,17.8,point,FALSE,America/Los_Angeles,97343
+Olene-OR,1840034696,Olene,Olene,OR,Olene-OR,Oregon,41035,Klamath,42.1718,-121.6308,,,27,point,FALSE,America/Los_Angeles,97603
+Dexter-OR,1840034681,Dexter,Dexter,OR,Dexter-OR,Oregon,41039,Lane,43.916,-122.8229,,,304.1,point,FALSE,America/Los_Angeles,97431
+Glendale-OR,1840020031,Glendale,Glendale,OR,Glendale-OR,Oregon,41019,Douglas,42.7381,-123.4294,887,887,866,polygon,TRUE,America/Los_Angeles,97442
+Glide-OR,1840017438,Glide,Glide,OR,Glide-OR,Oregon,41019,Douglas,43.3029,-123.0666,,,34.4,polygon,FALSE,America/Los_Angeles,97443 97447
+Pendleton-OR,1840019917,Pendleton,Pendleton,OR,Pendleton-OR,Oregon,41059,Umatilla,45.6747,-118.8173,17445,16834,603,polygon,TRUE,America/Los_Angeles,97801
+Westfir-OR,1840021265,Westfir,Westfir,OR,Westfir-OR,Oregon,41039,Lane,43.7579,-122.5095,258,258,316,polygon,TRUE,America/Los_Angeles,97492
+Molalla-OR,1840019953,Molalla,Molalla,OR,Molalla-OR,Oregon,41005,Clackamas,45.1502,-122.5844,9865,9139,1449,polygon,TRUE,America/Los_Angeles,97038
+Pine-OR,1840034739,Pine,Pine,OR,Pine-OR,Oregon,41001,Baker,44.8613,-117.0891,,,5.4,point,FALSE,America/Los_Angeles,97834
+Irrigon-OR,1840018542,Irrigon,Irrigon,OR,Irrigon-OR,Oregon,41049,Morrow,45.8959,-119.4883,2658,1807,537,polygon,TRUE,America/Los_Angeles,97844
+Rockcreek-OR,1840034833,Rockcreek,Rockcreek,OR,Rockcreek-OR,Oregon,41067,Washington,45.5525,-122.8757,,,1093.6,polygon,FALSE,America/Los_Angeles,97229
+Labish Village-OR,1840034732,Labish Village,Labish Village,OR,Labish Village-OR,Oregon,41047,Marion,45.0191,-122.9736,,,689.7,polygon,FALSE,America/Los_Angeles,97305
+Beatty-OR,1840034754,Beatty,Beatty,OR,Beatty-OR,Oregon,41035,Klamath,42.4419,-121.2716,,,5.4,polygon,FALSE,America/Los_Angeles,97621
+Junction City-OR,1840018623,Junction City,Junction City,OR,Junction City-OR,Oregon,41039,Lane,44.2068,-123.2097,6695,6052,729,polygon,TRUE,America/Los_Angeles,97448
+Beaver Creek-OR,1840034713,Beaver Creek,Beaver Creek,OR,Beaver Creek-OR,Oregon,41005,Clackamas,45.2757,-122.5136,,,249.7,polygon,FALSE,America/Los_Angeles,97045 97004
+Sweet Home-OR,1840021253,Sweet Home,Sweet Home,OR,Sweet Home-OR,Oregon,41043,Linn,44.4023,-122.7028,10098,9418,686,polygon,TRUE,America/Los_Angeles,97386
+Whiteson-OR,1840034817,Whiteson,Whiteson,OR,Whiteson-OR,Oregon,41071,Yamhill,45.1515,-123.1968,,,281.8,point,FALSE,America/Los_Angeles,97128
+Pacific City-OR,1840018551,Pacific City,Pacific City,OR,Pacific City-OR,Oregon,41057,Tillamook,45.2054,-123.9536,,,568.8,polygon,FALSE,America/Los_Angeles,97135 97112
+Prineville-OR,1840019999,Prineville,Prineville,OR,Prineville-OR,Oregon,41013,Crook,44.2989,-120.8594,11701,9928,331,polygon,TRUE,America/Los_Angeles,97754
+Government Camp-OR,1840023908,Government Camp,Government Camp,OR,Government Camp-OR,Oregon,41005,Clackamas,45.3023,-121.7526,,,162.2,polygon,FALSE,America/Los_Angeles,97028
+Pondosa-OR,1840034740,Pondosa,Pondosa,OR,Pondosa-OR,Oregon,41061,Union,45.0079,-117.6427,,,5.4,point,FALSE,America/Los_Angeles,97814
+Adel-OR,1840034663,Adel,Adel,OR,Adel-OR,Oregon,41037,Lake,42.1774,-119.8986,,,1.4,point,FALSE,America/Los_Angeles,97620
+Cannon Beach-OR,1840018505,Cannon Beach,Cannon Beach,OR,Cannon Beach-OR,Oregon,41007,Clatsop,45.8897,-123.9604,1705,1705,427,polygon,TRUE,America/Los_Angeles,97110 97145
+Gearhart-OR,1840019905,Gearhart,Gearhart,OR,Gearhart-OR,Oregon,41007,Clatsop,46.0294,-123.9174,1562,1562,316,polygon,TRUE,America/Los_Angeles,97138
+Lebanon-OR,1840019991,Lebanon,Lebanon,OR,Lebanon-OR,Oregon,41043,Linn,44.5314,-122.9075,21165,16635,962,polygon,TRUE,America/Los_Angeles,97355
+O'Brien-OR,1840025486,O'Brien,O'Brien,OR,O'Brien-OR,Oregon,41033,Josephine,42.0702,-123.7077,,,41.1,polygon,FALSE,America/Los_Angeles,97534
+Brogan-OR,1840025374,Brogan,Brogan,OR,Brogan-OR,Oregon,41045,Malheur,44.2475,-117.5186,,,51.5,polygon,FALSE,America/Boise,97903
+Kings Valley-OR,1840023952,Kings Valley,Kings Valley,OR,Kings Valley-OR,Oregon,41003,Benton,44.698,-123.4265,,,17.9,polygon,FALSE,America/Los_Angeles,97361 97370
+North Albany-OR,1840034695,North Albany,North Albany,OR,North Albany-OR,Oregon,41003,Benton,44.6529,-123.1018,,,665.3,point,FALSE,America/Los_Angeles,97321
+Condon-OR,1840018547,Condon,Condon,OR,Condon-OR,Oregon,41021,Gilliam,45.2366,-120.1858,678,678,317,polygon,TRUE,America/Los_Angeles,97823
+Willamina-OR,1840021221,Willamina,Willamina,OR,Willamina-OR,Oregon,41071,Yamhill,45.0788,-123.4843,2167,2167,907,polygon,TRUE,America/Los_Angeles,97396
+Wamic-OR,1840018565,Wamic,Wamic,OR,Wamic-OR,Oregon,41065,Wasco,45.2256,-121.2927,,,62.7,polygon,FALSE,America/Los_Angeles,97063
+Bay City-OR,1840018552,Bay City,Bay City,OR,Bay City-OR,Oregon,41057,Tillamook,45.5216,-123.8858,1360,1360,416,polygon,TRUE,America/Los_Angeles,97107
+Glasgow-OR,1840025440,Glasgow,Glasgow,OR,Glasgow-OR,Oregon,41011,Coos,43.4371,-124.1961,,,174.1,polygon,FALSE,America/Los_Angeles,97459
+Waterloo-OR,1840022350,Waterloo,Waterloo,OR,Waterloo-OR,Oregon,41043,Linn,44.4948,-122.8243,239,239,749,polygon,TRUE,America/Los_Angeles,97355
+Paisley-OR,1840020055,Paisley,Paisley,OR,Paisley-OR,Oregon,41037,Lake,42.6927,-120.5454,241,241,209,polygon,TRUE,America/Los_Angeles,97636
+Mehama-OR,1840018576,Mehama,Mehama,OR,Mehama-OR,Oregon,41047,Marion,44.7914,-122.6305,,,436.6,polygon,FALSE,America/Los_Angeles,97383 97384
+Phoenix-OR,1840020077,Phoenix,Phoenix,OR,Phoenix-OR,Oregon,41029,Jackson,42.2748,-122.8151,4587,4587,1232,polygon,TRUE,America/Los_Angeles,97535
+Tidewater-OR,1840034803,Tidewater,Tidewater,OR,Tidewater-OR,Oregon,41041,Lincoln,44.4112,-123.9004,,,30,point,FALSE,America/Los_Angeles,97390
+Spray-OR,1840022339,Spray,Spray,OR,Spray-OR,Oregon,41069,Wheeler,44.8331,-119.7941,150,150,196,polygon,TRUE,America/Los_Angeles,97874
+Sprague River-OR,1840034800,Sprague River,Sprague River,OR,Sprague River-OR,Oregon,41035,Klamath,42.4554,-121.5042,,,33.5,point,FALSE,America/Los_Angeles,97639
+Summerville-OR,1840022334,Summerville,Summerville,OR,Summerville-OR,Oregon,41061,Union,45.4896,-118.004,136,136,199,polygon,TRUE,America/Los_Angeles,97876
+Ukiah-OR,1840021194,Ukiah,Ukiah,OR,Ukiah-OR,Oregon,41059,Umatilla,45.1343,-118.9335,189,189,299,polygon,TRUE,America/Los_Angeles,97880
+Coquille-OR,1840018654,Coquille,Coquille,OR,Coquille-OR,Oregon,41011,Coos,43.1801,-124.1841,4402,3905,546,polygon,TRUE,America/Los_Angeles,97423
+Hoskins-OR,1840034728,Hoskins,Hoskins,OR,Hoskins-OR,Oregon,41003,Benton,44.6768,-123.4687,,,3.8,point,FALSE,America/Los_Angeles,97326
+Three Rivers-OR,1840034834,Three Rivers,Three Rivers,OR,Three Rivers-OR,Oregon,41017,Deschutes,43.8366,-121.4646,,,114.4,polygon,FALSE,America/Los_Angeles,97707
+Elkhorn-OR,1840034768,Elkhorn,Elkhorn,OR,Elkhorn-OR,Oregon,41047,Marion,44.8357,-122.362,,,7.5,point,FALSE,America/Los_Angeles,97358
+Stafford-OR,1840023910,Stafford,Stafford,OR,Stafford-OR,Oregon,41005,Clackamas,45.3786,-122.6822,,,116.6,polygon,FALSE,America/Los_Angeles,97068 97034
+Drain-OR,1840018640,Drain,Drain,OR,Drain-OR,Oregon,41019,Douglas,43.662,-123.3142,1164,1164,738,polygon,TRUE,America/Los_Angeles,97435
+Neskowin-OR,1840018548,Neskowin,Neskowin,OR,Neskowin-OR,Oregon,41057,Tillamook,45.1208,-123.9766,,,99.2,polygon,FALSE,America/Los_Angeles,97149
+South Lebanon-OR,1840018604,South Lebanon,South Lebanon,OR,South Lebanon-OR,Oregon,41043,Linn,44.5055,-122.896,,,308,polygon,FALSE,America/Los_Angeles,97355
+Riverton-OR,1840034743,Riverton,Riverton,OR,Riverton-OR,Oregon,41011,Coos,43.1573,-124.2746,,,37,point,FALSE,America/Los_Angeles,97423
+Arch Cape-OR,1840034668,Arch Cape,Arch Cape,OR,Arch Cape-OR,Oregon,41007,Clatsop,45.829,-123.9621,,,19.1,point,FALSE,America/Los_Angeles,97102
+Sublimity-OR,1840021228,Sublimity,Sublimity,OR,Sublimity-OR,Oregon,41047,Marion,44.8293,-122.7924,2912,2912,1207,polygon,TRUE,America/Los_Angeles,97385
+Gilchrist-OR,1840034773,Gilchrist,Gilchrist,OR,Gilchrist-OR,Oregon,41035,Klamath,43.4771,-121.6853,,,104.4,point,FALSE,America/Los_Angeles,97737
+Mount Angel-OR,1840019962,Mount Angel,Mount Angel,OR,Mount Angel-OR,Oregon,41047,Marion,45.0694,-122.7965,3845,3541,1295,polygon,TRUE,America/Los_Angeles,97362
+Lookingglass-OR,1840025419,Lookingglass,Lookingglass,OR,Lookingglass-OR,Oregon,41019,Douglas,43.1848,-123.4999,,,51.9,polygon,FALSE,America/Los_Angeles,97471
+Bunker Hill-OR,1840017442,Bunker Hill,Bunker Hill,OR,Bunker Hill-OR,Oregon,41011,Coos,43.3502,-124.2082,,,1041.1,polygon,FALSE,America/Los_Angeles,97420
+Powers-OR,1840020058,Powers,Powers,OR,Powers-OR,Oregon,41011,Coos,42.8859,-124.0734,678,678,447,polygon,TRUE,America/Los_Angeles,97466
+Stanfield-OR,1840021193,Stanfield,Stanfield,OR,Stanfield-OR,Oregon,41059,Umatilla,45.7849,-119.219,2078,2078,523,polygon,TRUE,America/Los_Angeles,97875
+Cave Junction-OR,1840018681,Cave Junction,Cave Junction,OR,Cave Junction-OR,Oregon,41033,Josephine,42.1672,-123.6473,1954,1954,417,polygon,TRUE,America/Los_Angeles,97523
+White City-OR,1840018673,White City,White City,OR,White City-OR,Oregon,41029,Jackson,42.4317,-122.8322,,,0,polygon,FALSE,America/Los_Angeles,97503
+Kerby-OR,1840025483,Kerby,Kerby,OR,Kerby-OR,Oregon,41033,Josephine,42.2046,-123.6489,,,94.8,polygon,FALSE,America/Los_Angeles,97531
+Monroe-OR,1840019997,Monroe,Monroe,OR,Monroe-OR,Oregon,41003,Benton,44.3168,-123.2989,631,631,482,polygon,TRUE,America/Los_Angeles,97456
+Manzanita-OR,1840019928,Manzanita,Manzanita,OR,Manzanita-OR,Oregon,41057,Tillamook,45.7165,-123.9352,639,639,300,polygon,TRUE,America/Los_Angeles,97130
+Arlington-OR,1840018546,Arlington,Arlington,OR,Arlington-OR,Oregon,41021,Gilliam,45.7207,-120.1888,581,581,87,polygon,TRUE,America/Los_Angeles,97843 97812 97861
+Ironside-OR,1840034729,Ironside,Ironside,OR,Ironside-OR,Oregon,41045,Malheur,44.3243,-117.9446,,,1.8,point,FALSE,America/Boise,97908
+Broadbent-OR,1840034675,Broadbent,Broadbent,OR,Broadbent-OR,Oregon,41011,Coos,43.009,-124.1465,,,19.1,point,FALSE,America/Los_Angeles,97414
+McMinnville-OR,1840019956,McMinnville,McMinnville,OR,McMinnville-OR,Oregon,41071,Yamhill,45.211,-123.1918,41998,34690,1266,polygon,TRUE,America/Los_Angeles,97128
+Simnasho-OR,1840034703,Simnasho,Simnasho,OR,Simnasho-OR,Oregon,41065,Wasco,44.9729,-121.3501,,,3.3,point,FALSE,America/Los_Angeles,97761
+Cove-OR,1840018545,Cove,Cove,OR,Cove-OR,Oregon,41061,Union,45.2964,-117.8105,625,625,315,polygon,TRUE,America/Los_Angeles,97824
+Brooks-OR,1840017420,Brooks,Brooks,OR,Brooks-OR,Oregon,41047,Marion,45.0508,-122.9576,,,31.9,polygon,FALSE,America/Los_Angeles,97305
+Maywood Park-OR,1840019940,Maywood Park,Maywood Park,OR,Maywood Park-OR,Oregon,41051,Multnomah,45.5524,-122.5617,828,828,1853,polygon,TRUE,America/Los_Angeles,97220
+Dora-OR,1840034719,Dora,Dora,OR,Dora-OR,Oregon,41011,Coos,43.1559,-123.9562,,,36.4,point,FALSE,America/Los_Angeles,97458
+Meacham-OR,1840034786,Meacham,Meacham,OR,Meacham-OR,Oregon,41059,Umatilla,45.5065,-118.4213,,,3.2,point,FALSE,America/Los_Angeles,97859
+Burns-OR,1840018632,Burns,Burns,OR,Burns-OR,Oregon,41025,Harney,43.5883,-119.0613,4104,2788,303,polygon,TRUE,America/Los_Angeles,97720
+Ashwood-OR,1840034670,Ashwood,Ashwood,OR,Ashwood-OR,Oregon,41031,Jefferson,44.7337,-120.7545,,,13.2,point,FALSE,America/Los_Angeles,97711
+Tualatin-OR,1840021207,Tualatin,Tualatin,OR,Tualatin-OR,Oregon,41067,Washington,45.3771,-122.7743,27545,27545,1294,polygon,TRUE,America/Los_Angeles,97062
+Columbia City-OR,1840018513,Columbia City,Columbia City,OR,Columbia City-OR,Oregon,41009,Columbia,45.895,-122.8115,1996,1996,997,polygon,TRUE,America/Los_Angeles,97018
+Arock-OR,1840034669,Arock,Arock,OR,Arock-OR,Oregon,41045,Malheur,42.914,-117.5252,,,3.1,point,FALSE,America/Boise,97910
+Siltcoos-OR,1840034816,Siltcoos,Siltcoos,OR,Siltcoos-OR,Oregon,41039,Lane,43.889,-124.0637,,,9.4,point,FALSE,America/Los_Angeles,97493
+Vernonia-OR,1840021187,Vernonia,Vernonia,OR,Vernonia-OR,Oregon,41009,Columbia,45.8611,-123.1834,2194,2194,514,polygon,TRUE,America/Los_Angeles,97064
+Milo-OR,1840034787,Milo,Milo,OR,Milo-OR,Oregon,41019,Douglas,42.9307,-123.0498,,,17.3,point,FALSE,America/Los_Angeles,97429
+Timber-OR,1840034705,Timber,Timber,OR,Timber-OR,Oregon,41067,Washington,45.7198,-123.2946,,,95.3,point,FALSE,America/Los_Angeles,97116
+Elkton-OR,1840020030,Elkton,Elkton,OR,Elkton-OR,Oregon,41019,Douglas,43.6378,-123.5687,200,200,336,polygon,TRUE,America/Los_Angeles,97436
+Silverton-OR,1840021226,Silverton,Silverton,OR,Silverton-OR,Oregon,41047,Marion,45.003,-122.7806,10426,10002,1127,polygon,TRUE,America/Los_Angeles,97381
+Damascus-OR,1840018571,Damascus,Damascus,OR,Damascus-OR,Oregon,41005,Clackamas,45.4299,-122.4462,11084,11084,266,polygon,TRUE,America/Los_Angeles,97089
+Joseph-OR,1840018537,Joseph,Joseph,OR,Joseph-OR,Oregon,41063,Wallowa,45.3527,-117.2304,1089,1089,475,polygon,TRUE,America/Los_Angeles,97846
+Moro-OR,1840019937,Moro,Moro,OR,Moro-OR,Oregon,41055,Sherman,45.4838,-120.7334,316,316,250,polygon,TRUE,America/Los_Angeles,97039
+Myrtle Creek-OR,1840020035,Myrtle Creek,Myrtle Creek,OR,Myrtle Creek-OR,Oregon,41019,Douglas,43.0226,-123.2812,3484,3484,537,polygon,TRUE,America/Los_Angeles,97457
+Cedar Mill-OR,1840034678,Cedar Mill,Cedar Mill,OR,Cedar Mill-OR,Oregon,41067,Washington,45.5355,-122.8007,,,2509.4,polygon,FALSE,America/Los_Angeles,97229
+Millersburg-OR,1840019994,Millersburg,Millersburg,OR,Millersburg-OR,Oregon,41043,Linn,44.6779,-123.0691,1674,1674,145,polygon,TRUE,America/Los_Angeles,97321
+Mill City-OR,1840019993,Mill City,Mill City,OR,Mill City-OR,Oregon,41043,Linn,44.7519,-122.478,1899,1899,880,polygon,TRUE,America/Los_Angeles,97360
+Sutherlin-OR,1840021274,Sutherlin,Sutherlin,OR,Sutherlin-OR,Oregon,41019,Douglas,43.3885,-123.323,8864,8000,502,polygon,TRUE,America/Los_Angeles,97479 97462
+Tiller-OR,1840034804,Tiller,Tiller,OR,Tiller-OR,Oregon,41019,Douglas,42.9285,-122.9512,,,12.8,point,FALSE,America/Los_Angeles,97484
+Lincoln Beach-OR,1840018591,Lincoln Beach,Lincoln Beach,OR,Lincoln Beach-OR,Oregon,41041,Lincoln,44.8746,-124.031,,,594.8,polygon,FALSE,America/Los_Angeles,97341 97367 97388
+Alpine-OR,1840023948,Alpine,Alpine,OR,Alpine-OR,Oregon,41003,Benton,44.3307,-123.3625,,,87.1,polygon,FALSE,America/Los_Angeles,97456
+Dufur-OR,1840018567,Dufur,Dufur,OR,Dufur-OR,Oregon,41065,Wasco,45.4531,-121.1288,632,632,415,polygon,TRUE,America/Los_Angeles,97021
+West Slope-OR,1840018554,West Slope,West Slope,OR,West Slope-OR,Oregon,41067,Washington,45.4962,-122.7731,,,1630.4,polygon,FALSE,America/Los_Angeles,97225 97005 97298
+Placer-OR,1840034699,Placer,Placer,OR,Placer-OR,Oregon,41033,Josephine,42.6321,-123.3153,,,16.1,point,FALSE,America/Los_Angeles,97497
+West Scio-OR,1840034748,West Scio,West Scio,OR,West Scio-OR,Oregon,41043,Linn,44.7098,-122.8812,,,97.4,polygon,FALSE,America/Los_Angeles,97374
+Grass Valley-OR,1840019935,Grass Valley,Grass Valley,OR,Grass Valley-OR,Oregon,41055,Sherman,45.3591,-120.7842,160,160,121,polygon,TRUE,America/Los_Angeles,97029
+Yoncalla-OR,1840021276,Yoncalla,Yoncalla,OR,Yoncalla-OR,Oregon,41019,Douglas,43.6004,-123.2876,1060,1060,611,polygon,TRUE,America/Los_Angeles,97499
+Port Orford-OR,1840020079,Port Orford,Port Orford,OR,Port Orford-OR,Oregon,41015,Curry,42.7497,-124.4973,1159,1159,287,polygon,TRUE,America/Los_Angeles,97465
+Canby-OR,1840018569,Canby,Canby,OR,Canby-OR,Oregon,41005,Clackamas,45.2653,-122.687,19092,17653,1560,polygon,TRUE,America/Los_Angeles,97013
+Fair Oaks-OR,1840025417,Fair Oaks,Fair Oaks,OR,Fair Oaks-OR,Oregon,41019,Douglas,43.4109,-123.2194,,,16.3,polygon,FALSE,America/Los_Angeles,97479 97462
+Jennings Lodge-OR,1840017419,Jennings Lodge,Jennings Lodge,OR,Jennings Lodge-OR,Oregon,41005,Clackamas,45.3926,-122.6153,,,1880,polygon,FALSE,America/Los_Angeles,97267
+Lake Oswego-OR,1840019955,Lake Oswego,Lake Oswego,OR,Lake Oswego-OR,Oregon,41005,Clackamas,45.4129,-122.7002,38945,38945,1407,polygon,TRUE,America/Los_Angeles,97034 97035 97036
+Pine Grove-OR,1840018562,Pine Grove,Pine Grove,OR,Pine Grove-OR,Oregon,41065,Wasco,45.1135,-121.3553,,,61.8,polygon,FALSE,America/Los_Angeles,97037
+Chemult-OR,1840034813,Chemult,Chemult,OR,Chemult-OR,Oregon,41035,Klamath,43.2165,-121.7828,,,63,point,FALSE,America/Los_Angeles,97731
+Idanha-OR,1840018579,Idanha,Idanha,OR,Idanha-OR,Oregon,41047,Marion,44.7049,-122.0877,144,144,51,polygon,TRUE,America/Los_Angeles,97350
+Bandon-OR,1840018652,Bandon,Bandon,OR,Bandon-OR,Oregon,41011,Coos,43.1142,-124.4158,3188,3134,436,polygon,TRUE,America/Los_Angeles,97411
+Huntington-OR,1840019968,Huntington,Huntington,OR,Huntington-OR,Oregon,41001,Baker,44.3502,-117.2668,440,440,227,polygon,TRUE,America/Los_Angeles,97907
+Holley-OR,1840023941,Holley,Holley,OR,Holley-OR,Oregon,41043,Linn,44.349,-122.7855,,,90.3,polygon,FALSE,America/Los_Angeles,97386
+Brightwood-OR,1840034822,Brightwood,Brightwood,OR,Brightwood-OR,Oregon,41005,Clackamas,45.3762,-122.0167,,,92.4,point,FALSE,America/Los_Angeles,97011
+Ontario-OR,1840020002,Ontario,Ontario,OR,Ontario-OR,Oregon,41045,Malheur,44.0259,-116.976,24778,11027,824,polygon,TRUE,America/Boise,97914
+Banks-OR,1840018555,Banks,Banks,OR,Banks-OR,Oregon,41067,Washington,45.6145,-123.1114,1987,1987,2078,polygon,TRUE,America/Los_Angeles,97106
+McKenzie Bridge-OR,1840034693,McKenzie Bridge,McKenzie Bridge,OR,McKenzie Bridge-OR,Oregon,41039,Lane,44.1751,-122.1639,,,27.4,point,FALSE,America/Los_Angeles,97413
+Merlin-OR,1840025484,Merlin,Merlin,OR,Merlin-OR,Oregon,41033,Josephine,42.5204,-123.4252,,,268.4,polygon,FALSE,America/Los_Angeles,97532 97526
+Helix-OR,1840019914,Helix,Helix,OR,Helix-OR,Oregon,41059,Umatilla,45.8506,-118.659,181,181,542,polygon,TRUE,America/Los_Angeles,97835
+Winchester Bay-OR,1840018638,Winchester Bay,Winchester Bay,OR,Winchester Bay-OR,Oregon,41019,Douglas,43.6729,-124.1828,,,161.2,polygon,FALSE,America/Los_Angeles,97467 97459
+Cape Meares-OR,1840034758,Cape Meares,Cape Meares,OR,Cape Meares-OR,Oregon,41057,Tillamook,45.5153,-123.9536,,,3.2,polygon,FALSE,America/Los_Angeles,97141
+Jamieson-OR,1840034730,Jamieson,Jamieson,OR,Jamieson-OR,Oregon,41045,Malheur,44.1821,-117.438,,,24.6,point,FALSE,America/Boise,97918
+Selma-OR,1840025487,Selma,Selma,OR,Selma-OR,Oregon,41033,Josephine,42.2797,-123.6151,,,51.6,polygon,FALSE,America/Los_Angeles,97538
+Vale-OR,1840021261,Vale,Vale,OR,Vale-OR,Oregon,41045,Malheur,43.984,-117.2418,1814,1814,616,polygon,TRUE,America/Boise,97918
+Parkdale-OR,1840018560,Parkdale,Parkdale,OR,Parkdale-OR,Oregon,41027,Hood River,45.5131,-121.5921,,,204.4,polygon,FALSE,America/Los_Angeles,97041
+Wolf Creek-OR,1840034818,Wolf Creek,Wolf Creek,OR,Wolf Creek-OR,Oregon,41033,Josephine,42.6954,-123.3953,,,100.4,point,FALSE,America/Los_Angeles,97497
+Pilot Rock-OR,1840019918,Pilot Rock,Pilot Rock,OR,Pilot Rock-OR,Oregon,41059,Umatilla,45.4961,-118.8332,1508,1508,397,polygon,TRUE,America/Los_Angeles,97868
+Boardman-OR,1840018540,Boardman,Boardman,OR,Boardman-OR,Oregon,41049,Morrow,45.8372,-119.6957,3531,3383,344,polygon,TRUE,America/Los_Angeles,97818
+Ophir-OR,1840034790,Ophir,Ophir,OR,Ophir-OR,Oregon,41015,Curry,42.5632,-124.3829,,,7.5,point,FALSE,America/Los_Angeles,97444
+Adair Village-OR,1840018610,Adair Village,Adair Village,OR,Adair Village-OR,Oregon,41003,Benton,44.6708,-123.2158,843,843,745,polygon,TRUE,America/Los_Angeles,97330
+Allegany-OR,1840034666,Allegany,Allegany,OR,Allegany-OR,Oregon,41011,Coos,43.4259,-124.0323,,,22.8,point,FALSE,America/Los_Angeles,97420
+Malin-OR,1840020052,Malin,Malin,OR,Malin-OR,Oregon,41035,Klamath,42.0133,-121.4097,809,809,625,polygon,TRUE,America/Los_Angeles,97632
+Summit-OR,1840023953,Summit,Summit,OR,Summit-OR,Oregon,41003,Benton,44.6362,-123.5769,,,82.5,polygon,FALSE,America/Los_Angeles,97326
+Enterprise-OR,1840019919,Enterprise,Enterprise,OR,Enterprise-OR,Oregon,41063,Wallowa,45.4259,-117.2785,1916,1916,485,polygon,TRUE,America/Los_Angeles,97828
+Charleston-OR,1840034717,Charleston,Charleston,OR,Charleston-OR,Oregon,41011,Coos,43.3401,-124.3301,,,124.1,point,FALSE,America/Los_Angeles,97420
+Wilderville-OR,1840034807,Wilderville,Wilderville,OR,Wilderville-OR,Oregon,41033,Josephine,42.3823,-123.467,,,33.2,point,FALSE,America/Los_Angeles,97543
+Harney-OR,1840034776,Harney,Harney,OR,Harney-OR,Oregon,41025,Harney,43.6432,-118.8227,,,1.4,point,FALSE,America/Los_Angeles,97720
+Shady Cove-OR,1840021299,Shady Cove,Shady Cove,OR,Shady Cove-OR,Oregon,41029,Jackson,42.6115,-122.8178,3555,3055,616,polygon,TRUE,America/Los_Angeles,97539
+Rowena-OR,1840018563,Rowena,Rowena,OR,Rowena-OR,Oregon,41065,Wasco,45.6701,-121.2749,,,57.1,polygon,FALSE,America/Los_Angeles,97058
+Gervais-OR,1840019960,Gervais,Gervais,OR,Gervais-OR,Oregon,41047,Marion,45.1078,-122.8962,2675,2675,2675,polygon,TRUE,America/Los_Angeles,97026
+Agness-OR,1840034752,Agness,Agness,OR,Agness-OR,Oregon,41015,Curry,42.5565,-124.069,,,5,point,FALSE,America/Los_Angeles,97406
+Saint Paul-OR,1840021223,Saint Paul,Saint Paul,OR,Saint Paul-OR,Oregon,41047,Marion,45.2122,-122.9772,447,447,586,polygon,TRUE,America/Los_Angeles,97137
+Jordan Valley-OR,1840018617,Jordan Valley,Jordan Valley,OR,Jordan Valley-OR,Oregon,41045,Malheur,42.9792,-117.0573,175,175,32,polygon,TRUE,America/Boise,97910
+Prairie City-OR,1840019983,Prairie City,Prairie City,OR,Prairie City-OR,Oregon,41023,Grant,44.4611,-118.7094,876,876,341,polygon,TRUE,America/Los_Angeles,97869
+Vida-OR,1840034708,Vida,Vida,OR,Vida-OR,Oregon,41039,Lane,44.146,-122.5698,,,42.5,point,FALSE,America/Los_Angeles,97488
+New Hope-OR,1840025485,New Hope,New Hope,OR,New Hope-OR,Oregon,41033,Josephine,42.3693,-123.359,,,209.7,polygon,FALSE,America/Los_Angeles,97527
+Wasco-OR,1840021208,Wasco,Wasco,OR,Wasco-OR,Oregon,41055,Sherman,45.5917,-120.6975,395,395,151,polygon,TRUE,America/Los_Angeles,97065
+Kimberly-OR,1840034780,Kimberly,Kimberly,OR,Kimberly-OR,Oregon,41023,Grant,44.7593,-119.6444,,,1.3,point,FALSE,America/Los_Angeles,97848
+Lonerock-OR,1840019925,Lonerock,Lonerock,OR,Lonerock-OR,Oregon,41021,Gilliam,45.0887,-119.8841,21,21,8,polygon,TRUE,America/Los_Angeles,97823
+Four Corners-OR,1840034722,Four Corners,Four Corners,OR,Four Corners-OR,Oregon,41047,Marion,44.9292,-122.9731,,,1208.5,polygon,FALSE,America/Los_Angeles,97301 97317
+Westport-OR,1840025278,Westport,Westport,OR,Westport-OR,Oregon,41007,Clatsop,46.1303,-123.3714,,,361,polygon,FALSE,America/Los_Angeles,97016
+Williams-OR,1840025489,Williams,Williams,OR,Williams-OR,Oregon,41033,Josephine,42.2194,-123.2922,,,72.1,polygon,FALSE,America/Los_Angeles,97544
+Murphy-OR,1840034789,Murphy,Murphy,OR,Murphy-OR,Oregon,41033,Josephine,42.3476,-123.3334,,,69.9,point,FALSE,America/Los_Angeles,97527
+Tangent-OR,1840021254,Tangent,Tangent,OR,Tangent-OR,Oregon,41043,Linn,44.5477,-123.1111,1243,1243,127,polygon,TRUE,America/Los_Angeles,97389
+Metolius-OR,1840019988,Metolius,Metolius,OR,Metolius-OR,Oregon,41031,Jefferson,44.5874,-121.1761,755,755,612,polygon,TRUE,America/Los_Angeles,97741
+Sheridan-OR,1840021220,Sheridan,Sheridan,OR,Sheridan-OR,Oregon,41071,Yamhill,45.0956,-123.3972,8439,6106,1200,polygon,TRUE,America/Los_Angeles,97378
+Camas Valley-OR,1840034677,Camas Valley,Camas Valley,OR,Camas Valley-OR,Oregon,41019,Douglas,43.0343,-123.674,,,74.8,point,FALSE,America/Los_Angeles,97416
+Worden-OR,1840034751,Worden,Worden,OR,Worden-OR,Oregon,41035,Klamath,42.0454,-121.8664,,,9.5,point,FALSE,America/Los_Angeles,97603
+Yachats-OR,1840021236,Yachats,Yachats,OR,Yachats-OR,Oregon,41041,Lincoln,44.3126,-124.1023,742,742,314,polygon,TRUE,America/Los_Angeles,97498
+Prescott-OR,1840019907,Prescott,Prescott,OR,Prescott-OR,Oregon,41009,Columbia,46.0487,-122.8879,50,50,279,polygon,TRUE,America/Los_Angeles,97048
+John Day-OR,1840018598,John Day,John Day,OR,John Day-OR,Oregon,41023,Grant,44.4181,-118.9535,1674,1674,300,polygon,TRUE,America/Los_Angeles,97845
+Leland-OR,1840034815,Leland,Leland,OR,Leland-OR,Oregon,41033,Josephine,42.6384,-123.4409,,,18.9,point,FALSE,America/Los_Angeles,97497
+Bridge-OR,1840034674,Bridge,Bridge,OR,Bridge-OR,Oregon,41011,Coos,43.024,-124.007,,,29.7,point,FALSE,America/Los_Angeles,97458
+Oceanside-OR,1840018550,Oceanside,Oceanside,OR,Oceanside-OR,Oregon,41057,Tillamook,45.4549,-123.961,,,338.9,polygon,FALSE,America/Los_Angeles,97134 97141
+Lakeside-OR,1840020059,Lakeside,Lakeside,OR,Lakeside-OR,Oregon,41011,Coos,43.5795,-124.1733,1761,1761,340,polygon,TRUE,America/Los_Angeles,97449
+Central Point-OR,1840018672,Central Point,Central Point,OR,Central Point-OR,Oregon,41029,Jackson,42.3764,-122.911,18328,18328,1812,polygon,TRUE,America/Los_Angeles,97502
+Weston-OR,1840021196,Weston,Weston,OR,Weston-OR,Oregon,41059,Umatilla,45.8165,-118.4258,645,645,366,polygon,TRUE,America/Los_Angeles,97886
+Donald-OR,1840018583,Donald,Donald,OR,Donald-OR,Oregon,41047,Marion,45.2222,-122.8382,1011,1011,1766,polygon,TRUE,America/Los_Angeles,97002 97020 97032
+Glenwood-OR,1840034823,Glenwood,Glenwood,OR,Glenwood-OR,Oregon,41067,Washington,45.6493,-123.2709,,,37.3,point,FALSE,America/Los_Angeles,97117
+Bend-OR,1840018618,Bend,Bend,OR,Bend-OR,Oregon,41017,Deschutes,44.0562,-121.3087,99634,91122,1065,polygon,TRUE,America/Los_Angeles,97702 97701 97703 97708 97709
+Westfall-OR,1840034749,Westfall,Westfall,OR,Westfall-OR,Oregon,41045,Malheur,43.9918,-117.7091,,,2.1,point,FALSE,America/Boise,97920
+Milton-Freewater-OR,1840019916,Milton-Freewater,Milton-Freewater,OR,Milton-Freewater-OR,Oregon,41059,Umatilla,45.9348,-118.3913,7019,7019,1361,polygon,TRUE,America/Los_Angeles,97862
+Halfway-OR,1840019967,Halfway,Halfway,OR,Halfway-OR,Oregon,41001,Baker,44.878,-117.1096,293,293,301,polygon,TRUE,America/Los_Angeles,97834
+Baker City-OR,1840018587,Baker City,Baker City,OR,Baker City-OR,Oregon,41001,Baker,44.7749,-117.832,9461,9770,526,polygon,TRUE,America/Los_Angeles,97814
+Union-OR,1840021200,Union,Union,OR,Union-OR,Oregon,41061,Union,45.2089,-117.8679,2142,2142,331,polygon,TRUE,America/Los_Angeles,97883
+Keno-OR,1840034689,Keno,Keno,OR,Keno-OR,Oregon,41035,Klamath,42.1265,-121.93,,,219.8,point,FALSE,America/Los_Angeles,97627
+Ruch-OR,1840025461,Ruch,Ruch,OR,Ruch-OR,Oregon,41029,Jackson,42.2314,-123.0403,,,51.5,polygon,FALSE,America/Los_Angeles,97530
+Kent-OR,1840034690,Kent,Kent,OR,Kent-OR,Oregon,41055,Sherman,45.1951,-120.6942,,,13.7,point,FALSE,America/Los_Angeles,97033
+Keating-OR,1840034688,Keating,Keating,OR,Keating-OR,Oregon,41001,Baker,44.874,-117.5905,,,5.2,point,FALSE,America/Los_Angeles,97814
+Deer Island-OR,1840025279,Deer Island,Deer Island,OR,Deer Island-OR,Oregon,41009,Columbia,45.9329,-122.8497,,,250.2,polygon,FALSE,America/Los_Angeles,97054
+Scio-OR,1840021251,Scio,Scio,OR,Scio-OR,Oregon,41043,Linn,44.7046,-122.8508,929,929,873,polygon,TRUE,America/Los_Angeles,97374
+Veneta-OR,1840021264,Veneta,Veneta,OR,Veneta-OR,Oregon,41039,Lane,44.0471,-123.3514,6447,4918,738,polygon,TRUE,America/Los_Angeles,97487
+Lacomb-OR,1840023942,Lacomb,Lacomb,OR,Lacomb-OR,Oregon,41043,Linn,44.5844,-122.7417,,,51,polygon,FALSE,America/Los_Angeles,97355
+Terrebonne-OR,1840018619,Terrebonne,Terrebonne,OR,Terrebonne-OR,Oregon,41017,Deschutes,44.3533,-121.1808,,,617.4,polygon,FALSE,America/Los_Angeles,97760
+Creswell-OR,1840018625,Creswell,Creswell,OR,Creswell-OR,Oregon,41039,Lane,43.9212,-123.0159,6648,5292,1199,polygon,TRUE,America/Los_Angeles,97426
+Redmond-OR,1840020003,Redmond,Redmond,OR,Redmond-OR,Oregon,41017,Deschutes,44.2632,-121.1798,30967,29322,674,polygon,TRUE,America/Los_Angeles,97756
+Fort Hill Census Designated Place-OR,1840026116,Fort Hill Census Designated Place,Fort Hill Census Designated Place,OR,Fort Hill Census Designated Place-OR,Oregon,41053,Polk,45.0671,-123.5606,,,65.9,polygon,FALSE,America/Los_Angeles,97396 97347
+Dorena-OR,1840034767,Dorena,Dorena,OR,Dorena-OR,Oregon,41039,Lane,43.7198,-122.862,,,44,point,FALSE,America/Los_Angeles,97434
+Butte Falls-OR,1840021298,Butte Falls,Butte Falls,OR,Butte Falls-OR,Oregon,41029,Jackson,42.5414,-122.5692,439,439,396,polygon,TRUE,America/Los_Angeles,97522
+Sixes-OR,1840034798,Sixes,Sixes,OR,Sixes-OR,Oregon,41015,Curry,42.8201,-124.4832,,,10.8,point,FALSE,America/Los_Angeles,97476
+Butteville-OR,1840017421,Butteville,Butteville,OR,Butteville-OR,Oregon,41047,Marion,45.2562,-122.8357,,,204.8,polygon,FALSE,America/Los_Angeles,97002
+King City-OR,1840019934,King City,King City,OR,King City-OR,Oregon,41067,Washington,45.401,-122.8068,3817,3817,2013,polygon,TRUE,America/Los_Angeles,97224
+Grizzly-OR,1840034774,Grizzly,Grizzly,OR,Grizzly-OR,Oregon,41031,Jefferson,44.4979,-120.9198,,,1.6,point,FALSE,America/Los_Angeles,97741
+Seaside-OR,1840021182,Seaside,Seaside,OR,Seaside-OR,Oregon,41007,Clatsop,45.9894,-123.9213,8788,6685,655,polygon,TRUE,America/Los_Angeles,97138
+Lexington-OR,1840021199,Lexington,Lexington,OR,Lexington-OR,Oregon,41049,Morrow,45.4462,-119.688,237,237,209,polygon,TRUE,America/Los_Angeles,97839
+Newport-OR,1840019975,Newport,Newport,OR,Newport-OR,Oregon,41041,Lincoln,44.6231,-124.0524,11639,10393,448,polygon,TRUE,America/Los_Angeles,97365 97366
+Clatskanie-OR,1840018512,Clatskanie,Clatskanie,OR,Clatskanie-OR,Oregon,41009,Columbia,46.1047,-123.2045,1792,1792,533,polygon,TRUE,America/Los_Angeles,97016
+Gladstone-OR,1840019949,Gladstone,Gladstone,OR,Gladstone-OR,Oregon,41005,Clackamas,45.3864,-122.5933,12116,12116,1953,polygon,TRUE,America/Los_Angeles,97027
+La Grande-OR,1840019924,La Grande,La Grande,OR,La Grande-OR,Oregon,41061,Union,45.3243,-118.0865,15077,13229,1114,polygon,TRUE,America/Los_Angeles,97850
+Oak Grove-OR,1840018568,Oak Grove,Oak Grove,OR,Oak Grove-OR,Oregon,41005,Clackamas,45.4155,-122.6349,,,2930,polygon,FALSE,America/Los_Angeles,97222 97267 97268
+Carpenterville-OR,1840034759,Carpenterville,Carpenterville,OR,Carpenterville-OR,Oregon,41015,Curry,42.2201,-124.3395,,,3.6,point,FALSE,America/Los_Angeles,97415
+Riddle-OR,1840020033,Riddle,Riddle,OR,Riddle-OR,Oregon,41019,Douglas,42.9542,-123.3646,1201,1201,737,polygon,TRUE,America/Los_Angeles,97469
+Paulina-OR,1840034792,Paulina,Paulina,OR,Paulina-OR,Oregon,41013,Crook,44.1338,-119.9628,,,1.6,point,FALSE,America/Los_Angeles,97751
+Disston-OR,1840034766,Disston,Disston,OR,Disston-OR,Oregon,41039,Lane,43.6982,-122.7701,,,27.9,point,FALSE,America/Los_Angeles,97434
+Warrenton-OR,1840021183,Warrenton,Warrenton,OR,Warrenton-OR,Oregon,41007,Clatsop,46.1689,-123.9309,5469,5469,165,polygon,TRUE,America/Los_Angeles,97146 97121
+Hazelwood-OR,1840034827,Hazelwood,Hazelwood,OR,Hazelwood-OR,Oregon,41051,Multnomah,45.5165,-122.524,,,2720.3,point,FALSE,America/Los_Angeles,97233
+Marion-OR,1840017422,Marion,Marion,OR,Marion-OR,Oregon,41047,Marion,44.7512,-122.9277,,,71.5,polygon,FALSE,America/Los_Angeles,97392
+Halsey-OR,1840019989,Halsey,Halsey,OR,Halsey-OR,Oregon,41043,Linn,44.3831,-123.1091,956,956,658,polygon,TRUE,America/Los_Angeles,97348
+South Beach-OR,1840034799,South Beach,South Beach,OR,South Beach-OR,Oregon,41041,Lincoln,44.6126,-124.0487,,,170.2,point,FALSE,America/Los_Angeles,97366
+Oak Hills-OR,1840034830,Oak Hills,Oak Hills,OR,Oak Hills-OR,Oregon,41067,Washington,45.5403,-122.8413,,,2350.7,polygon,FALSE,America/Los_Angeles,97229 97006
+Alsea-OR,1840023949,Alsea,Alsea,OR,Alsea-OR,Oregon,41003,Benton,44.3818,-123.5957,,,214.6,polygon,FALSE,America/Los_Angeles,97324
+Rhododendron-OR,1840034793,Rhododendron,Rhododendron,OR,Rhododendron-OR,Oregon,41005,Clackamas,45.3296,-121.9112,,,151.9,point,FALSE,America/Los_Angeles,97049
+Crawfordsville-OR,1840023940,Crawfordsville,Crawfordsville,OR,Crawfordsville-OR,Oregon,41043,Linn,44.3561,-122.865,,,132.4,polygon,FALSE,America/Los_Angeles,97386 97327 97336
+Fox-OR,1840034771,Fox,Fox,OR,Fox-OR,Oregon,41023,Grant,44.6488,-119.1441,,,3.1,point,FALSE,America/Los_Angeles,97865
+Telocaset-OR,1840034745,Telocaset,Telocaset,OR,Telocaset-OR,Oregon,41061,Union,45.101,-117.8263,,,2.4,point,FALSE,America/Los_Angeles,97883
+Unity-OR,1840021232,Unity,Unity,OR,Unity-OR,Oregon,41001,Baker,44.449,-118.188,68,68,41,polygon,TRUE,America/Los_Angeles,97884
+Foster-OR,1840034721,Foster,Foster,OR,Foster-OR,Oregon,41043,Linn,44.4104,-122.6723,,,465.9,point,FALSE,America/Los_Angeles,97386
+Grand Ronde-OR,1840017424,Grand Ronde,Grand Ronde,OR,Grand Ronde-OR,Oregon,41053,Polk,45.0738,-123.6211,,,199.9,polygon,FALSE,America/Los_Angeles,97347
+Plush-OR,1840025437,Plush,Plush,OR,Plush-OR,Oregon,41037,Lake,42.4051,-119.8993,,,44.5,polygon,FALSE,America/Los_Angeles,97637 97620
+Cloverdale-OR,1840017411,Cloverdale,Cloverdale,OR,Cloverdale-OR,Oregon,41057,Tillamook,45.2006,-123.8842,,,5.2,polygon,FALSE,America/Los_Angeles,97112
+Aurora-OR,1840018578,Aurora,Aurora,OR,Aurora-OR,Oregon,41047,Marion,45.2286,-122.7572,1008,1008,812,polygon,TRUE,America/Los_Angeles,97002
+Sodaville-OR,1840021252,Sodaville,Sodaville,OR,Sodaville-OR,Oregon,41043,Linn,44.4831,-122.8691,323,323,403,polygon,TRUE,America/Los_Angeles,97355
+Grants Pass-OR,1840020087,Grants Pass,Grants Pass,OR,Grants Pass-OR,Oregon,41033,Josephine,42.4334,-123.3318,55265,37779,1272,polygon,TRUE,America/Los_Angeles,97526 97527 97528
+Swisshome-OR,1840034802,Swisshome,Swisshome,OR,Swisshome-OR,Oregon,41039,Lane,44.0579,-123.7993,,,40.8,point,FALSE,America/Los_Angeles,97480
+Black Butte Ranch-OR,1840034755,Black Butte Ranch,Black Butte Ranch,OR,Black Butte Ranch-OR,Oregon,41017,Deschutes,44.3577,-121.6589,,,11.4,polygon,FALSE,America/Los_Angeles,97759
+Harbor-OR,1840017458,Harbor,Harbor,OR,Harbor-OR,Oregon,41015,Curry,42.0385,-124.2516,,,485.8,polygon,FALSE,America/Los_Angeles,97415
+Lostine-OR,1840019920,Lostine,Lostine,OR,Lostine-OR,Oregon,41063,Wallowa,45.4872,-117.4297,213,213,275,polygon,TRUE,America/Los_Angeles,97857
+Cottage Grove-OR,1840018624,Cottage Grove,Cottage Grove,OR,Cottage Grove-OR,Oregon,41039,Lane,43.7958,-123.0581,11488,10109,1035,polygon,TRUE,America/Los_Angeles,97424
+North Powder-OR,1840019923,North Powder,North Powder,OR,North Powder-OR,Oregon,41061,Union,45.0298,-117.9205,439,439,263,polygon,TRUE,America/Los_Angeles,97867
+Powellhurst-OR,1840034741,Powellhurst,Powellhurst,OR,Powellhurst-OR,Oregon,41051,Multnomah,45.504,-122.5376,,,3835.1,point,FALSE,America/Los_Angeles,97236
+Mosier-OR,1840019944,Mosier,Mosier,OR,Mosier-OR,Oregon,41065,Wasco,45.685,-121.3951,451,451,372,polygon,TRUE,America/Los_Angeles,97040
+Ione-OR,1840018541,Ione,Ione,OR,Ione-OR,Oregon,41049,Morrow,45.503,-119.8207,333,333,185,polygon,TRUE,America/Los_Angeles,97843
+Beaver-OR,1840017412,Beaver,Beaver,OR,Beaver-OR,Oregon,41057,Tillamook,45.278,-123.8221,,,119.1,polygon,FALSE,America/Los_Angeles,97108 97112
+Cornelius-OR,1840018557,Cornelius,Cornelius,OR,Cornelius-OR,Oregon,41067,Washington,45.5198,-123.0529,12414,12414,2390,polygon,TRUE,America/Los_Angeles,97113
+Eola-OR,1840017423,Eola,Eola,OR,Eola-OR,Oregon,41053,Polk,44.9313,-123.1205,,,25,polygon,FALSE,America/Los_Angeles,97304
+Amity-OR,1840018572,Amity,Amity,OR,Amity-OR,Oregon,41071,Yamhill,45.1154,-123.2034,1667,1667,1076,polygon,TRUE,America/Los_Angeles,97101
+Santa Clara-OR,1840034702,Santa Clara,Santa Clara,OR,Santa Clara-OR,Oregon,41039,Lane,44.1035,-123.1312,,,1714.5,point,FALSE,America/Los_Angeles,97404
+Biggs Junction-OR,1840017416,Biggs Junction,Biggs Junction,OR,Biggs Junction-OR,Oregon,41055,Sherman,45.664,-120.8389,,,5.8,polygon,FALSE,America/Los_Angeles,97065
+Sherwood-OR,1840021205,Sherwood,Sherwood,OR,Sherwood-OR,Oregon,41067,Washington,45.3598,-122.843,19294,19294,1728,polygon,TRUE,America/Los_Angeles,97140
+Applegate-OR,1840034667,Applegate,Applegate,OR,Applegate-OR,Oregon,41029,Jackson,42.2571,-123.1684,,,35.4,point,FALSE,America/Los_Angeles,97530
+Fossil-OR,1840019972,Fossil,Fossil,OR,Fossil-OR,Oregon,41069,Wheeler,44.998,-120.2147,446,446,218,polygon,TRUE,America/Los_Angeles,97830
+Riverside-OR,1840018193,Riverside,Riverside,OR,Riverside-OR,Oregon,41059,Umatilla,45.6768,-118.7368,,,133,polygon,FALSE,America/Los_Angeles,97801
+Johnson City-OR,1840018570,Johnson City,Johnson City,OR,Johnson City-OR,Oregon,41005,Clackamas,45.4045,-122.5795,586,586,3247,polygon,TRUE,America/Los_Angeles,97267
+Monmouth-OR,1840019971,Monmouth,Monmouth,OR,Monmouth-OR,Oregon,41053,Polk,44.8506,-123.2283,19387,10174,1820,polygon,TRUE,America/Los_Angeles,97361 97351
+Gardiner-OR,1840025418,Gardiner,Gardiner,OR,Gardiner-OR,Oregon,41019,Douglas,43.7327,-124.1067,,,500,polygon,FALSE,America/Los_Angeles,97441
+Shaniko-OR,1840021211,Shaniko,Shaniko,OR,Shaniko-OR,Oregon,41065,Wasco,45.0036,-120.7522,37,37,28,polygon,TRUE,America/Los_Angeles,97057
+Trail-OR,1840025462,Trail,Trail,OR,Trail-OR,Oregon,41029,Jackson,42.6568,-122.8135,,,115.8,polygon,FALSE,America/Los_Angeles,97539 97541
+Adams-OR,1840018535,Adams,Adams,OR,Adams-OR,Oregon,41059,Umatilla,45.7663,-118.5642,347,347,377,polygon,TRUE,America/Los_Angeles,97810
+Agate Beach-OR,1840034664,Agate Beach,Agate Beach,OR,Agate Beach-OR,Oregon,41041,Lincoln,44.6773,-124.0618,,,973,point,FALSE,America/Los_Angeles,97365
+Siletz-OR,1840021233,Siletz,Siletz,OR,Siletz-OR,Oregon,41041,Lincoln,44.7219,-123.9187,1241,1241,760,polygon,TRUE,America/Los_Angeles,97380
+Lawen-OR,1840034733,Lawen,Lawen,OR,Lawen-OR,Oregon,41025,Harney,43.4429,-118.801,,,1.7,point,FALSE,America/Los_Angeles,97720
+Bethany-OR,1840034671,Bethany,Bethany,OR,Bethany-OR,Oregon,41067,Washington,45.5613,-122.8371,,,1573.3,polygon,FALSE,America/Los_Angeles,97229
+Bonanza-OR,1840021283,Bonanza,Bonanza,OR,Bonanza-OR,Oregon,41035,Klamath,42.2003,-121.4066,414,414,194,polygon,TRUE,America/Los_Angeles,97623
+Sunriver-OR,1840034819,Sunriver,Sunriver,OR,Sunriver-OR,Oregon,41017,Deschutes,43.8815,-121.4368,,,122.1,polygon,FALSE,America/Los_Angeles,97707
+Merrill-OR,1840020053,Merrill,Merrill,OR,Merrill-OR,Oregon,41035,Klamath,42.026,-121.6008,830,830,698,polygon,TRUE,America/Los_Angeles,97633
+Maupin-OR,1840019943,Maupin,Maupin,OR,Maupin-OR,Oregon,41065,Wasco,45.1731,-121.0883,434,434,119,polygon,TRUE,America/Los_Angeles,97037
+Sumpter-OR,1840021231,Sumpter,Sumpter,OR,Sumpter-OR,Oregon,41001,Baker,44.7435,-118.1975,204,204,36,polygon,TRUE,America/Los_Angeles,97877
+Rufus-OR,1840019936,Rufus,Rufus,OR,Rufus-OR,Oregon,41055,Sherman,45.6914,-120.7432,242,242,78,polygon,TRUE,America/Los_Angeles,97050
+Antelope-OR,1840018566,Antelope,Antelope,OR,Antelope-OR,Oregon,41065,Wasco,44.9113,-120.7239,48,48,38,polygon,TRUE,America/Los_Angeles,97001
+Wilsonville-OR,1840021219,Wilsonville,Wilsonville,OR,Wilsonville-OR,Oregon,41005,Clackamas,45.3107,-122.7706,23768,23768,1261,polygon,TRUE,America/Los_Angeles,97070
+Winston-OR,1840021275,Winston,Winston,OR,Winston-OR,Oregon,41019,Douglas,43.12,-123.4242,5428,5428,792,polygon,TRUE,America/Los_Angeles,97496
+Salem-OR,1840021224,Salem,Salem,OR,Salem-OR,Oregon,41047,Marion,44.9231,-123.0245,256175,167419,1330,polygon,TRUE,America/Los_Angeles,97302 97301 97306 97304 97317 97309 97310 97311 97312 97313 97314
+Oregon City-OR,1840019954,Oregon City,Oregon City,OR,Oregon City-OR,Oregon,41005,Clackamas,45.3418,-122.5938,36286,36286,1450,polygon,TRUE,America/Los_Angeles,97045
+Tigard-OR,1840021206,Tigard,Tigard,OR,Tigard-OR,Oregon,41067,Washington,45.4243,-122.7827,51902,51902,1631,polygon,TRUE,America/Los_Angeles,97224 97223 97281
+Rogue River-OR,1840020075,Rogue River,Rogue River,OR,Rogue River-OR,Oregon,41029,Jackson,42.4354,-123.1683,2266,2266,906,polygon,TRUE,America/Los_Angeles,97537 97525
+Mist-OR,1840034737,Mist,Mist,OR,Mist-OR,Oregon,41009,Columbia,45.9962,-123.2565,,,26.1,point,FALSE,America/Los_Angeles,97016
+Troutdale-OR,1840021209,Troutdale,Troutdale,OR,Troutdale-OR,Oregon,41051,Multnomah,45.5372,-122.3955,16617,16617,1080,polygon,TRUE,America/Los_Angeles,97060
+Bayside Gardens-OR,1840034711,Bayside Gardens,Bayside Gardens,OR,Bayside Gardens-OR,Oregon,41057,Tillamook,45.7143,-123.9166,,,508.2,polygon,FALSE,America/Los_Angeles,97131 97130
+Otis-OR,1840034791,Otis,Otis,OR,Otis-OR,Oregon,41041,Lincoln,45.0243,-123.9465,,,35.7,point,FALSE,America/Los_Angeles,97368
+Brookings-OR,1840018677,Brookings,Brookings,OR,Brookings-OR,Oregon,41015,Curry,42.0691,-124.3004,11241,6526,652,polygon,TRUE,America/Los_Angeles,97415
+Wallowa-OR,1840021197,Wallowa,Wallowa,OR,Wallowa-OR,Oregon,41063,Wallowa,45.5703,-117.5286,810,810,512,polygon,TRUE,America/Los_Angeles,97885
+Rickreall-OR,1840018588,Rickreall,Rickreall,OR,Rickreall-OR,Oregon,41053,Polk,44.9319,-123.2344,,,67.8,polygon,FALSE,America/Los_Angeles,97371
+Athena-OR,1840018536,Athena,Athena,OR,Athena-OR,Oregon,41059,Umatilla,45.8132,-118.4924,1136,1136,771,polygon,TRUE,America/Los_Angeles,97813
+Lowell-OR,1840020009,Lowell,Lowell,OR,Lowell-OR,Oregon,41039,Lane,43.9208,-122.7819,1095,1095,488,polygon,TRUE,America/Los_Angeles,97452
+Nesika Beach-OR,1840025465,Nesika Beach,Nesika Beach,OR,Nesika Beach-OR,Oregon,41015,Curry,42.5045,-124.4065,,,315.7,polygon,FALSE,America/Los_Angeles,97444 97464
+Culver-OR,1840018603,Culver,Culver,OR,Culver-OR,Oregon,41031,Jefferson,44.5232,-121.211,1474,1474,822,polygon,TRUE,America/Los_Angeles,97734
+Cascade Locks-OR,1840018561,Cascade Locks,Cascade Locks,OR,Cascade Locks-OR,Oregon,41027,Hood River,45.6765,-121.8718,1158,1158,214,polygon,TRUE,America/Los_Angeles,97014
+Harrisburg-OR,1840019990,Harrisburg,Harrisburg,OR,Harrisburg-OR,Oregon,41043,Linn,44.2719,-123.1657,3827,3754,1036,polygon,TRUE,America/Los_Angeles,97446
+Fairview-OR,1840019938,Fairview,Fairview,OR,Fairview-OR,Oregon,41051,Multnomah,45.5471,-122.4391,9290,9290,1161,polygon,TRUE,America/Los_Angeles,97024
+Blue River-OR,1840034672,Blue River,Blue River,OR,Blue River-OR,Oregon,41039,Lane,44.1546,-122.3412,,,103.6,point,FALSE,America/Los_Angeles,97413
+Beaverton-OR,1840018556,Beaverton,Beaverton,OR,Beaverton-OR,Oregon,41067,Washington,45.4779,-122.8168,97590,97590,1930,polygon,TRUE,America/Los_Angeles,97225 97005 97007 97006 97008 97075 97076 97077 97078 97079
+River Road-OR,1840034832,River Road,River Road,OR,River Road-OR,Oregon,41039,Lane,44.084,-123.1337,,,1771.6,point,FALSE,America/Los_Angeles,97404
+Greenhorn-OR,1840019965,Greenhorn,Greenhorn,OR,Greenhorn-OR,Oregon,41001,Baker,44.7087,-118.4968,,,0,polygon,TRUE,America/Los_Angeles,97817 97877
+Falls City-OR,1840019970,Falls City,Falls City,OR,Falls City-OR,Oregon,41053,Polk,44.8648,-123.4372,1000,1000,321,polygon,TRUE,America/Los_Angeles,97344
+Mapleton-OR,1840034784,Mapleton,Mapleton,OR,Mapleton-OR,Oregon,41039,Lane,44.0312,-123.8582,,,77.9,point,FALSE,America/Los_Angeles,97453
+Rainier-OR,1840019908,Rainier,Rainier,OR,Rainier-OR,Oregon,41009,Columbia,46.0768,-122.9404,1960,1960,185,polygon,TRUE,America/Los_Angeles,97048
+Ashland-OR,1840018674,Ashland,Ashland,OR,Ashland-OR,Oregon,41029,Jackson,42.1905,-122.6992,21639,21639,1258,polygon,TRUE,America/Los_Angeles,97520
+Depoe Bay-OR,1840018593,Depoe Bay,Depoe Bay,OR,Depoe Bay-OR,Oregon,41041,Lincoln,44.8091,-124.0599,1448,1448,308,polygon,TRUE,America/Los_Angeles,97341
+Mitchell-OR,1840019973,Mitchell,Mitchell,OR,Mitchell-OR,Oregon,41069,Wheeler,44.5702,-120.1536,121,121,37,polygon,TRUE,America/Los_Angeles,97750
+Idaville-OR,1840034811,Idaville,Idaville,OR,Idaville-OR,Oregon,41057,Tillamook,45.5097,-123.8633,,,226.9,polygon,FALSE,America/Los_Angeles,97141
+Gates-OR,1840019959,Gates,Gates,OR,Gates-OR,Oregon,41047,Marion,44.756,-122.4202,489,489,291,polygon,TRUE,America/Los_Angeles,97346
+Nyssa-OR,1840020001,Nyssa,Nyssa,OR,Nyssa-OR,Oregon,41045,Malheur,43.8776,-116.9951,3390,3188,794,polygon,TRUE,America/Boise,97913
+Canyonville-OR,1840018639,Canyonville,Canyonville,OR,Canyonville-OR,Oregon,41019,Douglas,42.927,-123.2805,1922,1922,765,polygon,TRUE,America/Los_Angeles,97417
+Gresham-OR,1840019939,Gresham,Gresham,OR,Gresham-OR,Oregon,41051,Multnomah,45.5023,-122.4414,111523,111523,1849,polygon,TRUE,America/Los_Angeles,97233 97230 97030 97080
+Rivergrove-OR,1840019951,Rivergrove,Rivergrove,OR,Rivergrove-OR,Oregon,41005,Clackamas,45.3852,-122.7333,372,372,908,polygon,TRUE,America/Los_Angeles,97035
+Hauser-OR,1840034777,Hauser,Hauser,OR,Hauser-OR,Oregon,41011,Coos,43.4929,-124.2187,,,42.6,point,FALSE,America/Los_Angeles,97459
+Pine Hollow-OR,1840034825,Pine Hollow,Pine Hollow,OR,Pine Hollow-OR,Oregon,41065,Wasco,45.242,-121.2909,,,127.8,polygon,FALSE,America/Los_Angeles,97063
+Tillamook-OR,1840021203,Tillamook,Tillamook,OR,Tillamook-OR,Oregon,41057,Tillamook,45.4561,-123.8346,8061,5183,1131,polygon,TRUE,America/Los_Angeles,97141
+Carlton-OR,1840018573,Carlton,Carlton,OR,Carlton-OR,Oregon,41071,Yamhill,45.2945,-123.1753,3378,2134,936,polygon,TRUE,America/Los_Angeles,97111
+Portland-OR,1840019941,Portland,Portland,OR,Portland-OR,Oregon,41051,Multnomah,45.5372,-122.65,2027629,639863,1851,polygon,TRUE,America/Los_Angeles,97227 97221 97220 97229 97203 97202 97201 97206 97205 97204 97209 97208 97266 97219 97212 97236 97232 97233 97230 97239 97218 97214 97215 97216 97217 97210 97211 97213 97207 97228 97238 97240 97242 97250 97251 97252 97253 97254 97256 97258 97280 97282 97283 97286 97290 97291 97292 97293 97294 97296
+Roseburg-OR,1840020034,Roseburg,Roseburg,OR,Roseburg-OR,Oregon,41019,Douglas,43.2228,-123.3519,44176,22437,830,polygon,TRUE,America/Los_Angeles,97470 97471
+Scappoose-OR,1840021186,Scappoose,Scappoose,OR,Scappoose-OR,Oregon,41009,Columbia,45.7563,-122.8771,7158,7158,1027,polygon,TRUE,America/Los_Angeles,97056
+Albany-OR,1840018605,Albany,Albany,OR,Albany-OR,Oregon,41043,Linn,44.6274,-123.0966,60463,53211,1171,polygon,TRUE,America/Los_Angeles,97321 97322
+Richland-OR,1840019969,Richland,Richland,OR,Richland-OR,Oregon,41001,Baker,44.7683,-117.1664,177,177,636,polygon,TRUE,America/Los_Angeles,97870
+Dayville-OR,1840021248,Dayville,Dayville,OR,Dayville-OR,Oregon,41023,Grant,44.4667,-119.5322,145,145,106,polygon,TRUE,America/Los_Angeles,97825
+Rockwood-OR,1840034744,Rockwood,Rockwood,OR,Rockwood-OR,Oregon,41051,Multnomah,45.519,-122.477,,,4548.4,point,FALSE,America/Los_Angeles,97233
+Aloha-OR,1840017414,Aloha,Aloha,OR,Aloha-OR,Oregon,41067,Washington,45.492,-122.8726,,,3601.8,polygon,FALSE,America/Los_Angeles,97007 97006 97003
+Metzger-OR,1840018553,Metzger,Metzger,OR,Metzger-OR,Oregon,41067,Washington,45.4491,-122.7623,,,1996.7,polygon,FALSE,America/Los_Angeles,97223
+Hebo-OR,1840017413,Hebo,Hebo,OR,Hebo-OR,Oregon,41057,Tillamook,45.226,-123.8586,,,97.6,polygon,FALSE,America/Los_Angeles,97122
+The Dalles-OR,1840021212,The Dalles,The Dalles,OR,The Dalles-OR,Oregon,41065,Wasco,45.6049,-121.1819,20197,15572,915,polygon,TRUE,America/Los_Angeles,97058
+New Pine Creek-OR,1840025439,New Pine Creek,New Pine Creek,OR,New Pine Creek-OR,Oregon,41037,Lake,41.9941,-120.2972,,,92.1,point,FALSE,America/Los_Angeles,97635
+Odell-OR,1840018559,Odell,Odell,OR,Odell-OR,Oregon,41027,Hood River,45.6354,-121.5522,,,1101.3,polygon,FALSE,America/Los_Angeles,97031 97044
+Wimer-OR,1840025463,Wimer,Wimer,OR,Wimer-OR,Oregon,41029,Jackson,42.5445,-123.148,,,36.4,polygon,FALSE,America/Los_Angeles,97537
+Astoria-OR,1840018504,Astoria,Astoria,OR,Astoria-OR,Oregon,41007,Clatsop,46.1856,-123.8047,14599,9802,614,polygon,TRUE,America/Los_Angeles,97103
+Warm Springs-OR,1840018602,Warm Springs,Warm Springs,OR,Warm Springs-OR,Oregon,41031,Jefferson,44.7669,-121.2899,,,35,polygon,FALSE,America/Los_Angeles,97761
+Crane-OR,1840025400,Crane,Crane,OR,Crane-OR,Oregon,41025,Harney,43.4179,-118.5874,,,51.3,polygon,FALSE,America/Los_Angeles,97732 97720
+Marcola-OR,1840034735,Marcola,Marcola,OR,Marcola-OR,Oregon,41039,Lane,44.1723,-122.8606,,,279.4,point,FALSE,America/Los_Angeles,97454
+Netarts-OR,1840018549,Netarts,Netarts,OR,Netarts-OR,Oregon,41057,Tillamook,45.4356,-123.9344,,,152.5,polygon,FALSE,America/Los_Angeles,97141 97143
+Mount Hood Village-OR,1840034828,Mount Hood Village,Mount Hood Village,OR,Mount Hood Village-OR,Oregon,41005,Clackamas,45.3433,-121.9832,,,232.3,polygon,FALSE,America/Los_Angeles,97011 97067 97049 97055
+Blodgett-OR,1840023951,Blodgett,Blodgett,OR,Blodgett-OR,Oregon,41003,Benton,44.5969,-123.521,,,46.9,polygon,FALSE,America/Los_Angeles,97326
+Sisters-OR,1840021262,Sisters,Sisters,OR,Sisters-OR,Oregon,41017,Deschutes,44.292,-121.5533,2573,2573,528,polygon,TRUE,America/Los_Angeles,97759
+Tri-City-OR,1840018637,Tri-City,Tri-City,OR,Tri-City-OR,Oregon,41019,Douglas,42.9893,-123.3,,,291.6,polygon,FALSE,America/Los_Angeles,97457
+Camp Sherman-OR,1840023936,Camp Sherman,Camp Sherman,OR,Camp Sherman-OR,Oregon,41031,Jefferson,44.4492,-121.6496,,,2.4,polygon,FALSE,America/Los_Angeles,97730
+Echo-OR,1840019913,Echo,Echo,OR,Echo-OR,Oregon,41059,Umatilla,45.7431,-119.1919,706,706,469,polygon,TRUE,America/Los_Angeles,97826
+Troy-OR,1840034746,Troy,Troy,OR,Troy-OR,Oregon,41063,Wallowa,45.9468,-117.4516,,,18.2,point,FALSE,America/Los_Angeles,97828
+Durham-OR,1840018558,Durham,Durham,OR,Durham-OR,Oregon,41067,Washington,45.3942,-122.758,1935,1935,1830,polygon,TRUE,America/Los_Angeles,97224
+Warren-OR,1840025280,Warren,Warren,OR,Warren-OR,Oregon,41009,Columbia,45.8133,-122.8797,,,142.8,polygon,FALSE,America/Los_Angeles,97056 97053
+Dillard-OR,1840025416,Dillard,Dillard,OR,Dillard-OR,Oregon,41019,Douglas,43.1082,-123.4262,,,468.1,polygon,FALSE,America/Los_Angeles,97496 97457
+Hermiston-OR,1840019915,Hermiston,Hermiston,OR,Hermiston-OR,Oregon,41059,Umatilla,45.8329,-119.2859,28704,17295,853,polygon,TRUE,America/Los_Angeles,97838
+Cayuse-OR,1840034715,Cayuse,Cayuse,OR,Cayuse-OR,Oregon,41059,Umatilla,45.6765,-118.5736,,,5.6,polygon,FALSE,America/Los_Angeles,97801
+Melrose-OR,1840025420,Melrose,Melrose,OR,Melrose-OR,Oregon,41019,Douglas,43.2529,-123.4574,,,88.4,polygon,FALSE,America/Los_Angeles,97471
+Hilgard-OR,1840034727,Hilgard,Hilgard,OR,Hilgard-OR,Oregon,41061,Union,45.3521,-118.228,,,12.9,point,FALSE,America/Los_Angeles,97850
+Eugene-OR,1840020007,Eugene,Eugene,OR,Eugene-OR,Oregon,41039,Lane,44.0562,-123.1172,263860,166575,1459,polygon,TRUE,America/Los_Angeles,97405 97404 97401 97403 97402 97440
+Redwood-OR,1840034831,Redwood,Redwood,OR,Redwood-OR,Oregon,41033,Josephine,42.4219,-123.3915,,,850.3,polygon,FALSE,America/Los_Angeles,97527
+Peoria-OR,1840023943,Peoria,Peoria,OR,Peoria-OR,Oregon,41043,Linn,44.4508,-123.2042,,,88.9,polygon,FALSE,America/Los_Angeles,97348 97377
+Leaburg-OR,1840034691,Leaburg,Leaburg,OR,Leaburg-OR,Oregon,41039,Lane,44.1073,-122.677,,,91.5,point,FALSE,America/Los_Angeles,97489
+Powell Butte-OR,1840034809,Powell Butte,Powell Butte,OR,Powell Butte-OR,Oregon,41013,Crook,44.2476,-121.0175,,,10.9,point,FALSE,America/Los_Angeles,97753
+Foots Creek-OR,1840025459,Foots Creek,Foots Creek,OR,Foots Creek-OR,Oregon,41029,Jackson,42.3845,-123.1408,,,139.7,polygon,FALSE,America/Los_Angeles,97525
+Heppner-OR,1840019921,Heppner,Heppner,OR,Heppner-OR,Oregon,41049,Morrow,45.3547,-119.556,1297,1297,407,polygon,TRUE,America/Los_Angeles,97836
+Milwaukie-OR,1840019952,Milwaukie,Milwaukie,OR,Milwaukie-OR,Oregon,41005,Clackamas,45.4445,-122.622,20929,20929,1674,polygon,TRUE,America/Los_Angeles,97222 97269
+Cheshire-OR,1840034814,Cheshire,Cheshire,OR,Cheshire-OR,Oregon,41039,Lane,44.1896,-123.2857,,,252.5,point,FALSE,America/Los_Angeles,97419
+Elsie-OR,1840034720,Elsie,Elsie,OR,Elsie-OR,Oregon,41007,Clatsop,45.8657,-123.5948,,,23.2,point,FALSE,America/Los_Angeles,97138
+Philomath-OR,1840019998,Philomath,Philomath,OR,Philomath-OR,Oregon,41003,Benton,44.5424,-123.3597,4676,4676,970,polygon,TRUE,America/Los_Angeles,97370
+Brownsville-OR,1840018606,Brownsville,Brownsville,OR,Brownsville-OR,Oregon,41043,Linn,44.3922,-122.9834,1762,1762,508,polygon,TRUE,America/Los_Angeles,97327
+Seneca-OR,1840021247,Seneca,Seneca,OR,Seneca-OR,Oregon,41023,Grant,44.1352,-118.9763,192,192,93,polygon,TRUE,America/Los_Angeles,97873
+Gaston-OR,1840019931,Gaston,Gaston,OR,Gaston-OR,Oregon,41067,Washington,45.4357,-123.1435,695,695,975,polygon,TRUE,America/Los_Angeles,97119
+Aumsville-OR,1840018577,Aumsville,Aumsville,OR,Aumsville-OR,Oregon,41047,Marion,44.8462,-122.8698,4181,4059,1392,polygon,TRUE,America/Los_Angeles,97325
+Waldport-OR,1840021235,Waldport,Waldport,OR,Waldport-OR,Oregon,41041,Lincoln,44.4173,-124.0665,3653,2163,307,polygon,TRUE,America/Los_Angeles,97394
+Lafayette-OR,1840019958,Lafayette,Lafayette,OR,Lafayette-OR,Oregon,41071,Yamhill,45.2462,-123.1115,4116,4116,1773,polygon,TRUE,America/Los_Angeles,97127
+Keizer-OR,1840018581,Keizer,Keizer,OR,Keizer-OR,Oregon,41047,Marion,45.0028,-123.0242,38980,38980,2104,polygon,TRUE,America/Los_Angeles,97303 97307
+Kirkpatrick-OR,1840034836,Kirkpatrick,Kirkpatrick,OR,Kirkpatrick-OR,Oregon,41059,Umatilla,45.6796,-118.6499,,,20.1,polygon,FALSE,America/Los_Angeles,97801
+West Linn-OR,1840021218,West Linn,West Linn,OR,West Linn-OR,Oregon,41005,Clackamas,45.3669,-122.6399,26859,26859,1405,polygon,TRUE,America/Los_Angeles,97068
+Garibaldi-OR,1840019926,Garibaldi,Garibaldi,OR,Garibaldi-OR,Oregon,41057,Tillamook,45.5607,-123.9111,801,801,313,polygon,TRUE,America/Los_Angeles,97118
+Gibbon-OR,1840034772,Gibbon,Gibbon,OR,Gibbon-OR,Oregon,41059,Umatilla,45.6996,-118.365,,,2.9,point,FALSE,America/Los_Angeles,97810
+Midland-OR,1840034736,Midland,Midland,OR,Midland-OR,Oregon,41035,Klamath,42.1307,-121.8203,,,178.8,point,FALSE,America/Los_Angeles,97634
+Dallas-OR,1840018590,Dallas,Dallas,OR,Dallas-OR,Oregon,41053,Polk,44.9221,-123.3136,16748,15923,1278,polygon,TRUE,America/Los_Angeles,97338
+Monument-OR,1840019981,Monument,Monument,OR,Monument-OR,Oregon,41023,Grant,44.8209,-119.4209,124,124,93,polygon,TRUE,America/Los_Angeles,97864
+Island City-OR,1840018544,Island City,Island City,OR,Island City-OR,Oregon,41061,Union,45.3359,-118.0493,1016,1016,395,polygon,TRUE,America/Los_Angeles,97850
+Dairy-OR,1840034680,Dairy,Dairy,OR,Dairy-OR,Oregon,41035,Klamath,42.2351,-121.5211,,,24.5,point,FALSE,America/Los_Angeles,97625
+Hood River-OR,1840019942,Hood River,Hood River,OR,Hood River-OR,Oregon,41027,Hood River,45.7092,-121.526,15747,7702,1156,polygon,TRUE,America/Los_Angeles,97031
+Myrtle Point-OR,1840020056,Myrtle Point,Myrtle Point,OR,Myrtle Point-OR,Oregon,41011,Coos,43.0617,-124.1326,2545,2545,611,polygon,TRUE,America/Los_Angeles,97458
+Corvallis-OR,1840018611,Corvallis,Corvallis,OR,Corvallis-OR,Oregon,41003,Benton,44.5697,-123.2781,65465,57110,1548,polygon,TRUE,America/Los_Angeles,97333 97331 97330 97339
+Barview-OR,1840017441,Barview,Barview,OR,Barview-OR,Oregon,41011,Coos,43.347,-124.3073,,,857.6,polygon,FALSE,America/Los_Angeles,97420
+Dayton-OR,1840018574,Dayton,Dayton,OR,Dayton-OR,Oregon,41071,Yamhill,45.2198,-123.0781,2636,2636,1215,polygon,TRUE,America/Los_Angeles,97114
+Jacksonville-OR,1840018675,Jacksonville,Jacksonville,OR,Jacksonville-OR,Oregon,41029,Jackson,42.3127,-122.9692,2898,2898,591,polygon,TRUE,America/Los_Angeles,97530
+Wheeler-OR,1840021204,Wheeler,Wheeler,OR,Wheeler-OR,Oregon,41057,Tillamook,45.6873,-123.8872,430,430,322,polygon,TRUE,America/Los_Angeles,97136 97147
+North Springfield-OR,1840034829,North Springfield,North Springfield,OR,North Springfield-OR,Oregon,41039,Lane,44.0748,-123.0031,,,1427.2,point,FALSE,America/Los_Angeles,97477
+Hines-OR,1840020025,Hines,Hines,OR,Hines-OR,Oregon,41025,Harney,43.557,-119.0804,1561,1561,289,polygon,TRUE,America/Los_Angeles,97738
+Prospect-OR,1840025460,Prospect,Prospect,OR,Prospect-OR,Oregon,41029,Jackson,42.7526,-122.4757,,,187.1,polygon,FALSE,America/Los_Angeles,97536
+Talent-OR,1840021300,Talent,Talent,OR,Talent-OR,Oregon,41029,Jackson,42.2405,-122.7808,6485,6485,1881,polygon,TRUE,America/Los_Angeles,97540
+Detroit-OR,1840018582,Detroit,Detroit,OR,Detroit-OR,Oregon,41047,Marion,44.7338,-122.1512,217,217,142,polygon,TRUE,America/Los_Angeles,97342
+Rose Lodge-OR,1840018592,Rose Lodge,Rose Lodge,OR,Rose Lodge-OR,Oregon,41041,Lincoln,45.0186,-123.8881,,,60.3,polygon,FALSE,America/Los_Angeles,97368
+Harlan-OR,1840034685,Harlan,Harlan,OR,Harlan-OR,Oregon,41041,Lincoln,44.5398,-123.6932,,,2.5,point,FALSE,America/Los_Angeles,97326
+Adrian-OR,1840018616,Adrian,Adrian,OR,Adrian-OR,Oregon,41045,Malheur,43.7408,-117.0709,172,172,271,polygon,TRUE,America/Boise,97913 97901
+North Plains-OR,1840019933,North Plains,North Plains,OR,North Plains-OR,Oregon,41067,Washington,45.5969,-122.9956,2128,2128,916,polygon,TRUE,America/Los_Angeles,97133
+Lake Creek-OR,1840034783,Lake Creek,Lake Creek,OR,Lake Creek-OR,Oregon,41029,Jackson,42.4208,-122.6228,,,13.6,point,FALSE,America/Los_Angeles,97524
+Dee-OR,1840034764,Dee,Dee,OR,Dee-OR,Oregon,41027,Hood River,45.5882,-121.6267,,,23.1,point,FALSE,America/Los_Angeles,97031
+Tygh Valley-OR,1840018564,Tygh Valley,Tygh Valley,OR,Tygh Valley-OR,Oregon,41065,Wasco,45.2417,-121.1694,,,145.4,polygon,FALSE,America/Los_Angeles,97063
+Cascadia-OR,1840023938,Cascadia,Cascadia,OR,Cascadia-OR,Oregon,41043,Linn,44.3931,-122.5027,,,9.4,polygon,FALSE,America/Los_Angeles,97345 97329
+Dunes City-OR,1840018626,Dunes City,Dunes City,OR,Dunes City-OR,Oregon,41039,Lane,43.9079,-124.0984,1362,1362,194,polygon,TRUE,America/Los_Angeles,97439
+Jefferson-OR,1840018580,Jefferson,Jefferson,OR,Jefferson-OR,Oregon,41047,Marion,44.7171,-123.007,3289,3289,1521,polygon,TRUE,America/Los_Angeles,97352
+Langlois-OR,1840025464,Langlois,Langlois,OR,Langlois-OR,Oregon,41015,Curry,42.9259,-124.4532,,,42,polygon,FALSE,America/Los_Angeles,97450
+Stayton-OR,1840021227,Stayton,Stayton,OR,Stayton-OR,Oregon,41047,Marion,44.803,-122.798,10877,8080,1047,polygon,TRUE,America/Los_Angeles,97383
+Florence-OR,1840020008,Florence,Florence,OR,Florence-OR,Oregon,41039,Lane,43.9916,-124.1065,10579,8800,641,polygon,TRUE,America/Los_Angeles,97439
+Tenmile-OR,1840034704,Tenmile,Tenmile,OR,Tenmile-OR,Oregon,41019,Douglas,43.0962,-123.5642,,,60.4,point,FALSE,America/Los_Angeles,97481
+Hubbard-OR,1840019961,Hubbard,Hubbard,OR,Hubbard-OR,Oregon,41047,Marion,45.1819,-122.8072,3386,3386,1833,polygon,TRUE,America/Los_Angeles,97032
+Silvies-OR,1840034797,Silvies,Silvies,OR,Silvies-OR,Oregon,41023,Grant,44.0329,-118.9352,,,1.5,point,FALSE,America/Los_Angeles,97873
+Coburg-OR,1840018622,Coburg,Coburg,OR,Coburg-OR,Oregon,41039,Lane,44.1393,-123.0588,1066,1066,399,polygon,TRUE,America/Los_Angeles,97408
+Altamont-OR,1840017440,Altamont,Altamont,OR,Altamont-OR,Oregon,41035,Klamath,42.198,-121.7249,,,805.9,polygon,FALSE,America/Los_Angeles,97603
+Granite-OR,1840019979,Granite,Granite,OR,Granite-OR,Oregon,41023,Grant,44.81,-118.4187,37,37,38,polygon,TRUE,America/Los_Angeles,97877
+Hillsboro-OR,1840019932,Hillsboro,Hillsboro,OR,Hillsboro-OR,Oregon,41067,Washington,45.5289,-122.9373,105164,105164,1671,polygon,TRUE,America/Los_Angeles,97006 97123 97124 97129
+Springfield-OR,1840021263,Springfield,Springfield,OR,Springfield-OR,Oregon,41039,Lane,44.0538,-122.981,61893,61893,1510,polygon,TRUE,America/Los_Angeles,97477 97403 97478 97475
+Haines-OR,1840019966,Haines,Haines,OR,Haines-OR,Oregon,41001,Baker,44.9123,-117.9396,420,420,214,polygon,TRUE,America/Los_Angeles,97833
+Annex-OR,1840025373,Annex,Annex,OR,Annex-OR,Oregon,41045,Malheur,44.2346,-116.9922,,,70.6,polygon,FALSE,America/Boise,97914
+La Pine-OR,1840020004,La Pine,La Pine,OR,La Pine-OR,Oregon,41017,Deschutes,43.6865,-121.4856,1815,1815,100,polygon,TRUE,America/Los_Angeles,97739
+Nehalem-OR,1840019929,Nehalem,Nehalem,OR,Nehalem-OR,Oregon,41057,Tillamook,45.7192,-123.8943,285,285,462,polygon,TRUE,America/Los_Angeles,97131
+Woodburn-OR,1840021230,Woodburn,Woodburn,OR,Woodburn-OR,Oregon,41047,Marion,45.1477,-122.8585,35007,25590,1842,polygon,TRUE,America/Los_Angeles,97071
+Diamond Lake-OR,1840034765,Diamond Lake,Diamond Lake,OR,Diamond Lake-OR,Oregon,41019,Douglas,43.1787,-122.1389,,,81.9,point,FALSE,America/Los_Angeles,97447
+Mulino-OR,1840023909,Mulino,Mulino,OR,Mulino-OR,Oregon,41005,Clackamas,45.2235,-122.5616,,,109.4,polygon,FALSE,America/Los_Angeles,97045 97042
+Curtin-OR,1840034679,Curtin,Curtin,OR,Curtin-OR,Oregon,41019,Douglas,43.7223,-123.212,,,71.9,point,FALSE,America/Los_Angeles,97424
+Mount Vernon-OR,1840019982,Mount Vernon,Mount Vernon,OR,Mount Vernon-OR,Oregon,41023,Grant,44.4169,-119.1132,504,504,285,polygon,TRUE,America/Los_Angeles,97865
+Wapinitia-OR,1840034806,Wapinitia,Wapinitia,OR,Wapinitia-OR,Oregon,41065,Wasco,45.1143,-121.2565,,,3,point,FALSE,America/Los_Angeles,97037
+Lincoln City-OR,1840019974,Lincoln City,Lincoln City,OR,Lincoln City-OR,Oregon,41041,Lincoln,44.975,-124.0073,11577,8722,556,polygon,TRUE,America/Los_Angeles,97364 97367
+Eagle Point-OR,1840018676,Eagle Point,Eagle Point,OR,Eagle Point-OR,Oregon,41029,Jackson,42.4677,-122.8016,9046,9046,1179,polygon,TRUE,America/Los_Angeles,97524
+Umapine-OR,1840025290,Umapine,Umapine,OR,Umapine-OR,Oregon,41059,Umatilla,45.976,-118.501,,,93.6,polygon,FALSE,America/Los_Angeles,97862
+Boring-OR,1840034673,Boring,Boring,OR,Boring-OR,Oregon,41005,Clackamas,45.4298,-122.3748,,,247,point,FALSE,America/Los_Angeles,97009
+Neahkahnie-OR,1840034839,Neahkahnie,Neahkahnie,OR,Neahkahnie-OR,Oregon,41057,Tillamook,45.7324,-123.9399,,,165.5,polygon,FALSE,America/Los_Angeles,97131
+Klamath Agency-OR,1840034782,Klamath Agency,Klamath Agency,OR,Klamath Agency-OR,Oregon,41035,Klamath,42.6182,-121.9339,,,2.7,point,FALSE,America/Los_Angeles,97624
+Imbler-OR,1840018543,Imbler,Imbler,OR,Imbler-OR,Oregon,41061,Union,45.4621,-117.9632,310,310,547,polygon,TRUE,America/Los_Angeles,97841
+Fort Klamath-OR,1840034770,Fort Klamath,Fort Klamath,OR,Fort Klamath-OR,Oregon,41035,Klamath,42.7046,-121.9959,,,33.4,point,FALSE,America/Los_Angeles,97626
+Alfalfa-OR,1840034665,Alfalfa,Alfalfa,OR,Alfalfa-OR,Oregon,41017,Deschutes,44.0773,-121.017,,,11.4,point,FALSE,America/Los_Angeles,97701
+Reedsport-OR,1840020032,Reedsport,Reedsport,OR,Reedsport-OR,Oregon,41019,Douglas,43.6983,-124.1122,4442,4112,776,polygon,TRUE,America/Los_Angeles,97467
+Mission-OR,1840018534,Mission,Mission,OR,Mission-OR,Oregon,41059,Umatilla,45.6585,-118.6655,,,61.3,polygon,FALSE,America/Los_Angeles,97801
+Takilma-OR,1840025488,Takilma,Takilma,OR,Takilma-OR,Oregon,41033,Josephine,42.0409,-123.6223,,,97.5,polygon,FALSE,America/Los_Angeles,97523
+Crescent-OR,1840034760,Crescent,Crescent,OR,Crescent-OR,Oregon,41035,Klamath,43.4623,-121.6956,,,114.3,point,FALSE,America/Los_Angeles,97733
+Logsden-OR,1840034734,Logsden,Logsden,OR,Logsden-OR,Oregon,41041,Lincoln,44.7432,-123.7943,,,25.6,point,FALSE,America/Los_Angeles,97357
+Turner-OR,1840021229,Turner,Turner,OR,Turner-OR,Oregon,41047,Marion,44.8489,-122.9518,2031,2031,548,polygon,TRUE,America/Los_Angeles,97392
+Oakland-OR,1840020036,Oakland,Oakland,OR,Oakland-OR,Oregon,41019,Douglas,43.4234,-123.2968,942,942,499,polygon,TRUE,America/Los_Angeles,97462
+Hayesville-OR,1840034726,Hayesville,Hayesville,OR,Hayesville-OR,Oregon,41047,Marion,44.9793,-122.9738,,,2519.6,polygon,FALSE,America/Los_Angeles,97305
+Bellfountain-OR,1840023950,Bellfountain,Bellfountain,OR,Bellfountain-OR,Oregon,41003,Benton,44.3654,-123.3559,,,28.1,polygon,FALSE,America/Los_Angeles,97456

@@ -1,0 +1,858 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Brethren-MI,1840023961,Brethren,Brethren,MI,Brethren-MI,Michigan,26101,Manistee,44.2989,-86.0185,,,184.7,polygon,FALSE,America/Detroit,49619
+White Pine-MI,1840025260,White Pine,White Pine,MI,White Pine-MI,Michigan,26131,Ontonagon,46.7402,-89.5813,,,235.1,polygon,FALSE,America/Detroit,49971
+Westphalia-MI,1840011027,Westphalia,Westphalia,MI,Westphalia-MI,Michigan,26037,Clinton,42.9303,-84.7978,936,936,324,polygon,TRUE,America/Detroit,48894
+Holt-MI,1840004501,Holt,Holt,MI,Holt-MI,Michigan,26065,Ingham,42.6416,-84.5308,,,1086,polygon,FALSE,America/Detroit,48842 48911
+Frontier-MI,1840031604,Frontier,Frontier,MI,Frontier-MI,Michigan,26059,Hillsdale,41.7817,-84.6047,,,101.6,point,FALSE,America/Detroit,49242
+Bay Shore-MI,1840025190,Bay Shore,Bay Shore,MI,Bay Shore-MI,Michigan,26029,Charlevoix,45.3609,-85.1117,,,163.9,polygon,FALSE,America/Detroit,49720
+Cutlerville-MI,1840004308,Cutlerville,Cutlerville,MI,Cutlerville-MI,Michigan,26081,Kent,42.8406,-85.6739,,,1246.4,polygon,FALSE,America/Detroit,49548 49315
+Zilwaukee-MI,1840000351,Zilwaukee,Zilwaukee,MI,Zilwaukee-MI,Michigan,26145,Saginaw,43.4809,-83.9223,1561,1561,272,polygon,TRUE,America/Detroit,48604
+Eckerman-MI,1840031593,Eckerman,Eckerman,MI,Eckerman-MI,Michigan,26033,Chippewa,46.3653,-85.0354,,,29.7,point,FALSE,America/Detroit,49728
+Dundee-MI,1840013156,Dundee,Dundee,MI,Dundee-MI,Michigan,26115,Monroe,41.9644,-83.6639,3842,4002,281,polygon,TRUE,America/Detroit,48131
+Wayland-MI,1840000421,Wayland,Wayland,MI,Wayland-MI,Michigan,26005,Allegan,42.6725,-85.6408,4658,4206,545,polygon,TRUE,America/Detroit,49348
+Ironton-MI,1840025192,Ironton,Ironton,MI,Ironton-MI,Michigan,26029,Charlevoix,45.2565,-85.1927,,,77.6,polygon,FALSE,America/Detroit,49720
+Wayne-MI,1840001846,Wayne,Wayne,MI,Wayne-MI,Michigan,26163,Wayne,42.2774,-83.3877,16954,16954,1087,polygon,TRUE,America/Detroit,48184
+Republic-MI,1840006570,Republic,Republic,MI,Republic-MI,Michigan,26103,Marquette,46.3956,-87.9819,,,114.6,polygon,FALSE,America/Detroit,49879
+Kaleva-MI,1840010937,Kaleva,Kaleva,MI,Kaleva-MI,Michigan,26101,Manistee,44.3723,-86.0135,463,463,162,polygon,TRUE,America/Detroit,49645
+Marcellus-MI,1840011387,Marcellus,Marcellus,MI,Marcellus-MI,Michigan,26027,Cass,42.0262,-85.8121,1151,1151,757,polygon,TRUE,America/Detroit,49067
+Millington-MI,1840010974,Millington,Millington,MI,Millington-MI,Michigan,26157,Tuscola,43.2786,-83.5273,1024,1024,293,polygon,TRUE,America/Detroit,48746
+Bessemer-MI,1840001941,Bessemer,Bessemer,MI,Bessemer-MI,Michigan,26053,Gogebic,46.4775,-90.0499,1754,1754,123,polygon,TRUE,America/Menominee,49911
+Grand Haven-MI,1840002995,Grand Haven,Grand Haven,MI,Grand Haven-MI,Michigan,26139,Ottawa,43.0553,-86.22,10911,10911,729,polygon,TRUE,America/Detroit,49417 49456
+Falmouth-MI,1840031599,Falmouth,Falmouth,MI,Falmouth-MI,Michigan,26113,Missaukee,44.2433,-85.087,,,104.4,point,FALSE,America/Detroit,49632
+Lake City-MI,1840002514,Lake City,Lake City,MI,Lake City-MI,Michigan,26113,Missaukee,44.3297,-85.2085,854,854,314,polygon,TRUE,America/Detroit,49651
+Fremont-MI,1840002680,Fremont,Fremont,MI,Fremont-MI,Michigan,26123,Newaygo,43.4632,-85.9535,4438,4029,436,polygon,TRUE,America/Detroit,49412 49413
+Alpena-MI,1840003947,Alpena,Alpena,MI,Alpena-MI,Michigan,26007,Alpena,45.0745,-83.4383,13767,10122,457,polygon,TRUE,America/Detroit,49707
+Alden-MI,1840023914,Alden,Alden,MI,Alden-MI,Michigan,26009,Antrim,44.8792,-85.273,,,137.3,polygon,FALSE,America/Detroit,49612
+Lapeer-MI,1840002896,Lapeer,Lapeer,MI,Lapeer-MI,Michigan,26087,Lapeer,43.0447,-83.3254,13283,8748,469,polygon,TRUE,America/Detroit,48446
+Pinckney-MI,1840011079,Pinckney,Pinckney,MI,Pinckney-MI,Michigan,26093,Livingston,42.4542,-83.9456,2457,2457,594,polygon,TRUE,America/Detroit,48169
+Kingsley-MI,1840013142,Kingsley,Kingsley,MI,Kingsley-MI,Michigan,26055,Grand Traverse,44.585,-85.5335,1567,1567,427,polygon,TRUE,America/Detroit,49649
+Atlanta-MI,1840004026,Atlanta,Atlanta,MI,Atlanta-MI,Michigan,26119,Montmorency,45.0017,-84.1535,,,184.3,polygon,FALSE,America/Detroit,49709
+Pelkie-MI,1840031733,Pelkie,Pelkie,MI,Pelkie-MI,Michigan,26013,Baraga,46.8133,-88.6365,,,9.7,point,FALSE,America/Detroit,49958
+Williamston-MI,1840000420,Williamston,Williamston,MI,Williamston-MI,Michigan,26065,Ingham,42.6836,-84.2837,6370,3887,613,polygon,TRUE,America/Detroit,48895
+Beecher-MI,1840004343,Beecher,Beecher,MI,Beecher-MI,Michigan,26049,Genesee,43.0903,-83.7039,,,843.2,polygon,FALSE,America/Detroit,48458 48505
+Holland-MI,1840002996,Holland,Holland,MI,Holland-MI,Michigan,26139,Ottawa,42.7676,-86.0984,101421,33543,775,polygon,TRUE,America/Detroit,49423 49422
+Topinabee-MI,1840031688,Topinabee,Topinabee,MI,Topinabee-MI,Michigan,26031,Cheboygan,45.4839,-84.5953,,,152.9,point,FALSE,America/Detroit,49791
+Montrose-MI,1840002942,Montrose,Montrose,MI,Montrose-MI,Michigan,26049,Genesee,43.1764,-83.8932,1573,1573,621,polygon,TRUE,America/Detroit,48457
+Rhodes-MI,1840031672,Rhodes,Rhodes,MI,Rhodes-MI,Michigan,26051,Gladwin,43.9017,-84.1761,,,38.2,point,FALSE,America/Detroit,48652
+Hancock-MI,1840003920,Hancock,Hancock,MI,Hancock-MI,Michigan,26061,Houghton,47.1346,-88.5993,4586,4586,681,polygon,TRUE,America/Detroit,49930
+Lake Leelanau-MI,1840025198,Lake Leelanau,Lake Leelanau,MI,Lake Leelanau-MI,Michigan,26089,Leelanau,44.9806,-85.7157,,,349.3,polygon,FALSE,America/Detroit,49653
+Fowler-MI,1840011024,Fowler,Fowler,MI,Fowler-MI,Michigan,26037,Clinton,43.0042,-84.7416,1223,1223,357,polygon,TRUE,America/Detroit,48835
+Jonesville-MI,1840011378,Jonesville,Jonesville,MI,Jonesville-MI,Michigan,26059,Hillsdale,41.9784,-84.6661,2215,2215,296,polygon,TRUE,America/Detroit,49250
+Galesburg-MI,1840003184,Galesburg,Galesburg,MI,Galesburg-MI,Michigan,26077,Kalamazoo,42.2911,-85.4183,2049,2049,562,polygon,TRUE,America/Detroit,49053
+Central Lake-MI,1840010002,Central Lake,Central Lake,MI,Central Lake-MI,Michigan,26009,Antrim,45.0693,-85.2617,932,932,336,polygon,TRUE,America/Detroit,49622
+Free Soil-MI,1840010947,Free Soil,Free Soil,MI,Free Soil-MI,Michigan,26105,Mason,44.1071,-86.2111,145,145,53,polygon,TRUE,America/Detroit,49411
+Charlotte-MI,1840003107,Charlotte,Charlotte,MI,Charlotte-MI,Michigan,26045,Eaton,42.5662,-84.8304,12654,9055,542,polygon,TRUE,America/Detroit,48813
+Bentley-MI,1840031567,Bentley,Bentley,MI,Bentley-MI,Michigan,26017,Bay,43.9481,-84.1344,,,106.3,point,FALSE,America/Detroit,48613
+Paw Paw-MI,1840011208,Paw Paw,Paw Paw,MI,Paw Paw-MI,Michigan,26159,Van Buren,42.2148,-85.892,8472,3448,497,polygon,TRUE,America/Detroit,49079
+Roosevelt Park-MI,1840002874,Roosevelt Park,Roosevelt Park,MI,Roosevelt Park-MI,Michigan,26121,Muskegon,43.1981,-86.2733,3826,3826,1437,polygon,TRUE,America/Detroit,49441
+Germfask-MI,1840031607,Germfask,Germfask,MI,Germfask-MI,Michigan,26153,Schoolcraft,46.2494,-85.926,,,57.4,point,FALSE,America/Detroit,49836
+Hudsonville-MI,1840002997,Hudsonville,Hudsonville,MI,Hudsonville-MI,Michigan,26139,Ottawa,42.8634,-85.8626,7285,7285,679,polygon,TRUE,America/Detroit,49426
+Lakeview-MI,1840010990,Lakeview,Lakeview,MI,Lakeview-MI,Michigan,26117,Montcalm,43.4432,-85.2733,1010,1010,255,polygon,TRUE,America/Detroit,48850
+Steuben-MI,1840031747,Steuben,Steuben,MI,Steuben-MI,Michigan,26153,Schoolcraft,46.1883,-86.4568,,,14.2,point,FALSE,America/Detroit,49854
+Marine City-MI,1840003956,Marine City,Marine City,MI,Marine City-MI,Michigan,26147,St. Clair,42.7152,-82.5023,4126,4126,741,polygon,TRUE,America/Detroit,48039
+Hazel Park-MI,1840002444,Hazel Park,Hazel Park,MI,Hazel Park-MI,Michigan,26125,Oakland,42.4619,-83.0977,16530,16530,2265,polygon,TRUE,America/Detroit,48030
+Lennon-MI,1840011012,Lennon,Lennon,MI,Lennon-MI,Michigan,26155,Shiawassee,42.9855,-83.9325,500,500,211,polygon,TRUE,America/Detroit,48449
+Frankenmuth-MI,1840002814,Frankenmuth,Frankenmuth,MI,Frankenmuth-MI,Michigan,26145,Saginaw,43.332,-83.7395,5160,5131,651,polygon,TRUE,America/Detroit,48734 48787
+Chase-MI,1840031716,Chase,Chase,MI,Chase-MI,Michigan,26085,Lake,43.8892,-85.6356,,,143.7,point,FALSE,America/Detroit,49623
+Novi-MI,1840002423,Novi,Novi,MI,Novi-MI,Michigan,26125,Oakland,42.4786,-83.4893,59211,59211,756,polygon,TRUE,America/Detroit,48377 48375 48374 48167 48376
+Pleasant Ridge-MI,1840002426,Pleasant Ridge,Pleasant Ridge,MI,Pleasant Ridge-MI,Michigan,26125,Oakland,42.4715,-83.1445,2551,2551,1731,polygon,TRUE,America/Detroit,48069
+Willow-MI,1840031698,Willow,Willow,MI,Willow-MI,Michigan,26163,Wayne,42.1153,-83.3955,,,418,point,FALSE,America/Detroit,48164
+Shoreham-MI,1840011229,Shoreham,Shoreham,MI,Shoreham-MI,Michigan,26021,Berrien,42.0604,-86.5115,848,848,562,polygon,TRUE,America/Detroit,49085
+Ewen-MI,1840031720,Ewen,Ewen,MI,Ewen-MI,Michigan,26131,Ontonagon,46.5352,-89.2813,,,165.9,point,FALSE,America/Detroit,49925
+Sand Lake-MI,1840011005,Sand Lake,Sand Lake,MI,Sand Lake-MI,Michigan,26081,Kent,43.29,-85.5192,523,523,284,polygon,TRUE,America/Detroit,49343
+Ludington-MI,1840002547,Ludington,Ludington,MI,Ludington-MI,Michigan,26105,Mason,43.9567,-86.4431,10702,8070,925,polygon,TRUE,America/Detroit,49431
+Durand-MI,1840003071,Durand,Durand,MI,Durand-MI,Michigan,26155,Shiawassee,42.9137,-83.9887,4690,3330,611,polygon,TRUE,America/Detroit,48429
+Burlington-MI,1840010119,Burlington,Burlington,MI,Burlington-MI,Michigan,26025,Calhoun,42.1048,-85.0783,260,260,154,polygon,TRUE,America/Detroit,49029
+Cohoctah-MI,1840031583,Cohoctah,Cohoctah,MI,Cohoctah-MI,Michigan,26093,Livingston,42.7598,-83.9486,,,133.1,point,FALSE,America/Detroit,48816
+Dimondale-MI,1840011084,Dimondale,Dimondale,MI,Dimondale-MI,Michigan,26045,Eaton,42.6484,-84.6474,1247,1247,537,polygon,TRUE,America/Detroit,48821
+Grosse Pointe Shores-MI,1840031616,Grosse Pointe Shores,Grosse Pointe Shores,MI,Grosse Pointe Shores-MI,Michigan,26163,Wayne,42.4367,-82.8769,,,1253.6,point,TRUE,America/Detroit,48236
+Norway-MI,1840001990,Norway,Norway,MI,Norway-MI,Michigan,26043,Dickinson,45.8019,-87.9132,2769,2769,122,polygon,TRUE,America/Menominee,49870
+South Haven-MI,1840003178,South Haven,South Haven,MI,South Haven-MI,Michigan,26159,Van Buren,42.4012,-86.2676,5742,4366,494,polygon,TRUE,America/Detroit,49090
+Onsted-MI,1840011374,Onsted,Onsted,MI,Onsted-MI,Michigan,26091,Lenawee,42.0068,-84.1892,903,903,361,polygon,TRUE,America/Detroit,49265
+Champion-MI,1840031577,Champion,Champion,MI,Champion-MI,Michigan,26103,Marquette,46.5138,-87.9635,,,42.8,point,FALSE,America/Detroit,49814
+Forest Hills-MI,1840004304,Forest Hills,Forest Hills,MI,Forest Hills-MI,Michigan,26081,Kent,42.9577,-85.4895,,,60,polygon,FALSE,America/Detroit,49301 49546 49355 49356 49357
+Saint James-MI,1840025195,Saint James,Saint James,MI,Saint James-MI,Michigan,26029,Charlevoix,45.7474,-85.5173,,,153.3,polygon,FALSE,America/Detroit,49782
+Rockland-MI,1840031736,Rockland,Rockland,MI,Rockland-MI,Michigan,26131,Ontonagon,46.738,-89.1796,,,168.6,point,FALSE,America/Detroit,49960
+Hamilton-MI,1840031618,Hamilton,Hamilton,MI,Hamilton-MI,Michigan,26005,Allegan,42.6772,-86.0061,,,431.8,point,FALSE,America/Detroit,49419
+Hooper-MI,1840031623,Hooper,Hooper,MI,Hooper-MI,Michigan,26005,Allegan,42.5103,-85.5628,,,40.8,point,FALSE,America/Detroit,49080
+Kalkaska-MI,1840010929,Kalkaska,Kalkaska,MI,Kalkaska-MI,Michigan,26079,Kalkaska,44.7323,-85.1781,2693,2039,252,polygon,TRUE,America/Detroit,49646
+Houghton-MI,1840003919,Houghton,Houghton,MI,Houghton-MI,Michigan,26061,Houghton,47.1122,-88.5696,16010,7987,694,polygon,TRUE,America/Detroit,49931
+Mancelona-MI,1840010925,Mancelona,Mancelona,MI,Mancelona-MI,Michigan,26009,Antrim,44.9024,-85.0613,1363,1363,524,polygon,TRUE,America/Detroit,49659
+Hopkins-MI,1840011092,Hopkins,Hopkins,MI,Hopkins-MI,Michigan,26005,Allegan,42.6251,-85.7633,609,609,491,polygon,TRUE,America/Detroit,49328
+Dowagiac-MI,1840003256,Dowagiac,Dowagiac,MI,Dowagiac-MI,Michigan,26027,Cass,41.9834,-86.1124,6026,5826,503,polygon,TRUE,America/Detroit,49047
+Kawkawlin-MI,1840031631,Kawkawlin,Kawkawlin,MI,Kawkawlin-MI,Michigan,26017,Bay,43.652,-83.943,,,346.1,point,FALSE,America/Detroit,48631
+Wetmore-MI,1840031743,Wetmore,Wetmore,MI,Wetmore-MI,Michigan,26003,Alger,46.3797,-86.6204,,,177.1,point,FALSE,America/Detroit,49895
+Brown City-MI,1840002699,Brown City,Brown City,MI,Brown City-MI,Michigan,26151,Sanilac,43.2114,-82.9881,1257,1257,443,polygon,TRUE,America/Detroit,48416
+West Ishpeming-MI,1840007674,West Ishpeming,West Ishpeming,MI,West Ishpeming-MI,Michigan,26103,Marquette,46.4884,-87.717,,,509,polygon,FALSE,America/Detroit,49849
+Nessen City-MI,1840023946,Nessen City,Nessen City,MI,Nessen City-MI,Michigan,26019,Benzie,44.5202,-85.8729,,,54.8,polygon,FALSE,America/Detroit,49683
+Delton-MI,1840024092,Delton,Delton,MI,Delton-MI,Michigan,26015,Barry,42.4954,-85.4103,,,229.6,polygon,FALSE,America/Detroit,49046
+Marlette-MI,1840002701,Marlette,Marlette,MI,Marlette-MI,Michigan,26151,Sanilac,43.3269,-83.081,1777,1777,417,polygon,TRUE,America/Detroit,48453
+Gwinn-MI,1840006567,Gwinn,Gwinn,MI,Gwinn-MI,Michigan,26103,Marquette,46.2912,-87.4371,,,546.2,polygon,FALSE,America/Detroit,49841
+Tekonsha-MI,1840011202,Tekonsha,Tekonsha,MI,Tekonsha-MI,Michigan,26025,Calhoun,42.0958,-84.9881,705,705,384,polygon,TRUE,America/Detroit,49092
+Lyons-MI,1840011019,Lyons,Lyons,MI,Lyons-MI,Michigan,26067,Ionia,42.9834,-84.9456,792,792,251,polygon,TRUE,America/Detroit,48851
+Woodbury-MI,1840031701,Woodbury,Woodbury,MI,Woodbury-MI,Michigan,26045,Eaton,42.7611,-85.0744,,,92.7,point,FALSE,America/Detroit,48849
+Clare-MI,1840002561,Clare,Clare,MI,Clare-MI,Michigan,26035,Clare,43.8245,-84.7628,5512,3071,349,polygon,TRUE,America/Detroit,48617
+Baie de Wasai-MI,1840031564,Baie de Wasai,Baie de Wasai,MI,Baie de Wasai-MI,Michigan,26033,Chippewa,46.4614,-84.2448,,,30.3,point,FALSE,America/Detroit,49783
+Woodland Beach-MI,1840007676,Woodland Beach,Woodland Beach,MI,Woodland Beach-MI,Michigan,26115,Monroe,41.9418,-83.3141,,,1581.3,polygon,FALSE,America/Detroit,48162
+Bach-MI,1840031562,Bach,Bach,MI,Bach-MI,Michigan,26063,Huron,43.6831,-83.3558,,,13.4,point,FALSE,America/Detroit,48759
+Houghton Lake-MI,1840004091,Houghton Lake,Houghton Lake,MI,Houghton Lake-MI,Michigan,26143,Roscommon,44.3124,-84.7625,,,559,polygon,FALSE,America/Detroit,48629 48651 48630
+Filer City-MI,1840023962,Filer City,Filer City,MI,Filer City-MI,Michigan,26101,Manistee,44.2149,-86.2889,,,129.3,polygon,FALSE,America/Detroit,49634 49660
+Marquette-MI,1840003923,Marquette,Marquette,MI,Marquette-MI,Michigan,26103,Marquette,46.544,-87.4082,25955,20570,695,polygon,TRUE,America/Detroit,49855
+Quinnesec-MI,1840004008,Quinnesec,Quinnesec,MI,Quinnesec-MI,Michigan,26043,Dickinson,45.803,-87.9958,,,471.6,polygon,FALSE,America/Menominee,49801 49876
+Almont-MI,1840010065,Almont,Almont,MI,Almont-MI,Michigan,26087,Lapeer,42.9206,-83.0429,2811,2764,749,polygon,TRUE,America/Detroit,48003
+Baldwin-MI,1840010948,Baldwin,Baldwin,MI,Baldwin-MI,Michigan,26085,Lake,43.8971,-85.853,1206,1206,368,polygon,TRUE,America/Detroit,49304
+Gardendale-MI,1840031752,Gardendale,Gardendale,MI,Gardendale-MI,Michigan,26147,St. Clair,43.0386,-82.4924,,,257.2,point,FALSE,America/Detroit,48059
+Hickory Corners-MI,1840024094,Hickory Corners,Hickory Corners,MI,Hickory Corners-MI,Michigan,26015,Barry,42.4363,-85.3793,,,38.3,polygon,FALSE,America/Detroit,49060
+Dexter-MI,1840011193,Dexter,Dexter,MI,Dexter-MI,Michigan,26161,Washtenaw,42.332,-83.88,4420,4420,893,polygon,TRUE,America/Detroit,48130
+Watersmeet-MI,1840025269,Watersmeet,Watersmeet,MI,Watersmeet-MI,Michigan,26053,Gogebic,46.2872,-89.1937,,,213,polygon,FALSE,America/Menominee,49969
+Quincy-MI,1840011375,Quincy,Quincy,MI,Quincy-MI,Michigan,26023,Branch,41.9432,-84.8845,1630,1630,516,polygon,TRUE,America/Detroit,49082
+Bergland-MI,1840031568,Bergland,Bergland,MI,Bergland-MI,Michigan,26131,Ontonagon,46.5924,-89.5732,,,112.6,point,FALSE,America/Detroit,49910
+Harvey-MI,1840006568,Harvey,Harvey,MI,Harvey-MI,Michigan,26103,Marquette,46.4882,-87.3511,,,625.4,polygon,FALSE,America/Detroit,49855
+Mount Pleasant-MI,1840002663,Mount Pleasant,Mount Pleasant,MI,Mount Pleasant-MI,Michigan,26073,Isabella,43.5966,-84.7758,37877,26313,1312,polygon,TRUE,America/Detroit,48858 48804 48859
+Michigamme-MI,1840006566,Michigamme,Michigamme,MI,Michigamme-MI,Michigan,26103,Marquette,46.5334,-88.0627,,,183.8,polygon,FALSE,America/Detroit,49861
+Holton-MI,1840031723,Holton,Holton,MI,Holton-MI,Michigan,26121,Muskegon,43.4133,-86.0795,,,303.5,point,FALSE,America/Detroit,49425
+Gladwin-MI,1840002564,Gladwin,Gladwin,MI,Gladwin-MI,Michigan,26051,Gladwin,43.9836,-84.4877,2876,2875,383,polygon,TRUE,America/Detroit,48624
+Milleville Beach-MI,1840031647,Milleville Beach,Milleville Beach,MI,Milleville Beach-MI,Michigan,26163,Wayne,42.0495,-83.1869,,,343,point,FALSE,America/Detroit,48173
+South Gull Lake-MI,1840031757,South Gull Lake,South Gull Lake,MI,South Gull Lake-MI,Michigan,26077,Kalamazoo,42.3901,-85.4008,,,25.1,polygon,FALSE,America/Detroit,49083 49012 49060
+Fountain-MI,1840010946,Fountain,Fountain,MI,Fountain-MI,Michigan,26105,Mason,44.0482,-86.1811,194,194,74,polygon,TRUE,America/Detroit,49410
+Boon-MI,1840023967,Boon,Boon,MI,Boon-MI,Michigan,26165,Wexford,44.288,-85.5975,,,106.7,polygon,FALSE,America/Detroit,49618
+Richland-MI,1840011211,Richland,Richland,MI,Richland-MI,Michigan,26077,Kalamazoo,42.3762,-85.4553,801,801,304,polygon,TRUE,America/Detroit,49083
+New Lothrop-MI,1840011014,New Lothrop,New Lothrop,MI,New Lothrop-MI,Michigan,26155,Shiawassee,43.1165,-83.9688,559,559,266,polygon,TRUE,America/Detroit,48460
+Centreville-MI,1840010158,Centreville,Centreville,MI,Centreville-MI,Michigan,26149,St. Joseph,41.9213,-85.5258,1409,1409,366,polygon,TRUE,America/Detroit,49032
+Northville-MI,1840003958,Northville,Northville,MI,Northville-MI,Michigan,26163,Wayne,42.4355,-83.489,5979,5979,1127,polygon,TRUE,America/Detroit,48167
+Clawson-MI,1840002440,Clawson,Clawson,MI,Clawson-MI,Michigan,26125,Oakland,42.5367,-83.1504,11970,11970,2101,polygon,TRUE,America/Detroit,48017
+Lake Odessa-MI,1840011016,Lake Odessa,Lake Odessa,MI,Lake Odessa-MI,Michigan,26067,Ionia,42.7824,-85.1375,2032,2032,878,polygon,TRUE,America/Detroit,48849
+Rochester-MI,1840002428,Rochester,Rochester,MI,Rochester-MI,Michigan,26125,Oakland,42.6867,-83.1197,13017,13017,1313,polygon,TRUE,America/Detroit,48307 48308
+Buena Vista-MI,1840004228,Buena Vista,Buena Vista,MI,Buena Vista-MI,Michigan,26145,Saginaw,43.4192,-83.8992,,,556.3,polygon,FALSE,America/Detroit,48601
+Mio-MI,1840004075,Mio,Mio,MI,Mio-MI,Michigan,26135,Oscoda,44.6605,-84.1418,,,259.1,polygon,FALSE,America/Detroit,48647
+Coloma-MI,1840003218,Coloma,Coloma,MI,Coloma-MI,Michigan,26021,Berrien,42.1864,-86.3083,1446,1446,629,polygon,TRUE,America/Detroit,49038
+Boyne Falls-MI,1840013138,Boyne Falls,Boyne Falls,MI,Boyne Falls-MI,Michigan,26029,Charlevoix,45.1676,-84.9125,292,292,203,polygon,TRUE,America/Detroit,49713
+Cadillac-MI,1840002512,Cadillac,Cadillac,MI,Cadillac-MI,Michigan,26165,Wexford,44.2494,-85.4137,11809,10460,534,polygon,TRUE,America/Detroit,49601
+Alabaster-MI,1840031559,Alabaster,Alabaster,MI,Alabaster-MI,Michigan,26069,Iosco,44.1864,-83.558,,,4.8,point,FALSE,America/Detroit,48763
+Vanderbilt-MI,1840010926,Vanderbilt,Vanderbilt,MI,Vanderbilt-MI,Michigan,26137,Otsego,45.1437,-84.6641,570,570,195,polygon,TRUE,America/Detroit,49795
+Trout Creek-MI,1840031741,Trout Creek,Trout Creek,MI,Trout Creek-MI,Michigan,26131,Ontonagon,46.4822,-89.0118,,,70.2,point,FALSE,America/Detroit,49967
+Deckerville-MI,1840010977,Deckerville,Deckerville,MI,Deckerville-MI,Michigan,26151,Sanilac,43.5265,-82.742,788,788,244,polygon,TRUE,America/Detroit,48427
+Vernon-MI,1840011015,Vernon,Vernon,MI,Vernon-MI,Michigan,26155,Shiawassee,42.9402,-84.0307,756,756,424,polygon,TRUE,America/Detroit,48429 48476
+East Grand Rapids-MI,1840002927,East Grand Rapids,East Grand Rapids,MI,East Grand Rapids-MI,Michigan,26081,Kent,42.9464,-85.6088,11637,11637,1532,polygon,TRUE,America/Detroit,49506
+Akron-MI,1840010050,Akron,Akron,MI,Akron-MI,Michigan,26157,Tuscola,43.5667,-83.5143,389,389,159,polygon,TRUE,America/Detroit,48701
+Chesaning-MI,1840010053,Chesaning,Chesaning,MI,Chesaning-MI,Michigan,26145,Saginaw,43.1849,-84.1201,2272,2272,287,polygon,TRUE,America/Detroit,48616
+Memphis-MI,1840002422,Memphis,Memphis,MI,Memphis-MI,Michigan,26099,Macomb,42.8957,-82.7689,1178,1178,406,polygon,TRUE,America/Detroit,48041
+Sandusky-MI,1840002698,Sandusky,Sandusky,MI,Sandusky-MI,Michigan,26151,Sanilac,43.421,-82.8335,2654,2563,460,polygon,TRUE,America/Detroit,48471
+South Lyon-MI,1840002432,South Lyon,South Lyon,MI,South Lyon-MI,Michigan,26125,Oakland,42.4613,-83.6526,123555,11713,1211,polygon,TRUE,America/Detroit,48178
+Brighton-MI,1840003099,Brighton,Brighton,MI,Brighton-MI,Michigan,26093,Livingston,42.5298,-83.7848,7604,7604,825,polygon,TRUE,America/Detroit,48116
+Ponshewaing-MI,1840025188,Ponshewaing,Ponshewaing,MI,Ponshewaing-MI,Michigan,26047,Emmet,45.4208,-84.806,,,182.5,polygon,FALSE,America/Detroit,49706
+Spring Arbor-MI,1840004654,Spring Arbor,Spring Arbor,MI,Spring Arbor-MI,Michigan,26075,Jackson,42.2055,-84.5551,,,1583.1,polygon,FALSE,America/Detroit,49283
+Birch Run-MI,1840010983,Birch Run,Birch Run,MI,Birch Run-MI,Michigan,26145,Saginaw,43.2503,-83.7911,1466,1466,300,polygon,TRUE,America/Detroit,48415
+Ubly-MI,1840013154,Ubly,Ubly,MI,Ubly-MI,Michigan,26063,Huron,43.7081,-82.9353,817,817,236,polygon,TRUE,America/Detroit,48475
+Oakley-MI,1840010986,Oakley,Oakley,MI,Oakley-MI,Michigan,26145,Saginaw,43.1434,-84.1685,276,276,104,polygon,TRUE,America/Detroit,48649
+Gagetown-MI,1840010971,Gagetown,Gagetown,MI,Gagetown-MI,Michigan,26157,Tuscola,43.6572,-83.2449,376,376,147,polygon,TRUE,America/Detroit,48735
+Weidman-MI,1840006844,Weidman,Weidman,MI,Weidman-MI,Michigan,26073,Isabella,43.7014,-84.9745,,,565.1,polygon,FALSE,America/Detroit,48893
+Big Rapids-MI,1840002678,Big Rapids,Big Rapids,MI,Big Rapids-MI,Michigan,26107,Mecosta,43.6992,-85.4802,14021,10437,925,polygon,TRUE,America/Detroit,49307
+Laingsburg-MI,1840003072,Laingsburg,Laingsburg,MI,Laingsburg-MI,Michigan,26155,Shiawassee,42.8905,-84.35,1284,1284,336,polygon,TRUE,America/Detroit,48848
+Sebewaing-MI,1840013153,Sebewaing,Sebewaing,MI,Sebewaing-MI,Michigan,26063,Huron,43.7322,-83.4512,1669,1669,408,polygon,TRUE,America/Detroit,48759
+Albion-MI,1840003175,Albion,Albion,MI,Albion-MI,Michigan,26025,Calhoun,42.2478,-84.7572,8920,8337,729,polygon,TRUE,America/Detroit,49224
+Anchorville-MI,1840031748,Anchorville,Anchorville,MI,Anchorville-MI,Michigan,26147,St. Clair,42.6911,-82.6885,,,692.4,point,FALSE,America/Detroit,48023
+Calumet-MI,1840010907,Calumet,Calumet,MI,Calumet-MI,Michigan,26061,Houghton,47.2477,-88.4535,706,706,1386,polygon,TRUE,America/Detroit,49913
+Lambertville-MI,1840006576,Lambertville,Lambertville,MI,Lambertville-MI,Michigan,26115,Monroe,41.7502,-83.625,,,671.2,polygon,FALSE,America/Detroit,48144
+Orchard Lake-MI,1840031660,Orchard Lake,Orchard Lake,MI,Orchard Lake-MI,Michigan,26125,Oakland,42.5831,-83.3594,,,532.7,point,TRUE,America/Detroit,48323
+Fraser-MI,1840002421,Fraser,Fraser,MI,Fraser-MI,Michigan,26099,Macomb,42.5388,-82.9496,14622,14622,1363,polygon,TRUE,America/Detroit,48026
+Byron-MI,1840010071,Byron,Byron,MI,Byron-MI,Michigan,26155,Shiawassee,42.8239,-83.9468,555,555,306,polygon,TRUE,America/Detroit,48418
+Kent City-MI,1840011004,Kent City,Kent City,MI,Kent City-MI,Michigan,26081,Kent,43.2203,-85.7538,1108,1108,322,polygon,TRUE,America/Detroit,49330
+Bath-MI,1840024058,Bath,Bath,MI,Bath-MI,Michigan,26037,Clinton,42.8203,-84.4546,,,231.7,polygon,FALSE,America/Detroit,48808
+Alanson-MI,1840010909,Alanson,Alanson,MI,Alanson-MI,Michigan,26047,Emmet,45.4425,-84.7871,743,743,290,polygon,TRUE,America/Detroit,49706
+Roseville-MI,1840003092,Roseville,Roseville,MI,Roseville-MI,Michigan,26099,Macomb,42.5074,-82.937,47602,47602,1869,polygon,TRUE,America/Detroit,48066
+Birmingham-MI,1840002438,Birmingham,Birmingham,MI,Birmingham-MI,Michigan,26125,Oakland,42.5447,-83.2167,21007,21007,1692,polygon,TRUE,America/Detroit,48009 48012
+Ontonagon-MI,1840010913,Ontonagon,Ontonagon,MI,Ontonagon-MI,Michigan,26131,Ontonagon,46.8665,-89.3125,1308,1308,136,polygon,TRUE,America/Detroit,49953
+New Era-MI,1840010957,New Era,New Era,MI,New Era-MI,Michigan,26127,Oceana,43.5595,-86.3477,444,444,204,polygon,TRUE,America/Detroit,49446
+Brevort-MI,1840031571,Brevort,Brevort,MI,Brevort-MI,Michigan,26097,Mackinac,46.0189,-85.0417,,,21.5,point,FALSE,America/Detroit,49760
+Homer-MI,1840011201,Homer,Homer,MI,Homer-MI,Michigan,26025,Calhoun,42.1461,-84.8103,1631,1631,451,polygon,TRUE,America/Detroit,49245
+Denton-MI,1840031588,Denton,Denton,MI,Denton-MI,Michigan,26163,Wayne,42.2578,-83.5241,,,139,point,FALSE,America/Detroit,48111
+Grosse Pointe-MI,1840003976,Grosse Pointe,Grosse Pointe,MI,Grosse Pointe-MI,Michigan,26163,Wayne,42.3915,-82.9118,5187,5187,1890,polygon,TRUE,America/Toronto,48230
+Kingsford-MI,1840001992,Kingsford,Kingsford,MI,Kingsford-MI,Michigan,26043,Dickinson,45.8062,-88.0994,5021,5021,448,polygon,TRUE,America/Menominee,49802
+Forestville-MI,1840010978,Forestville,Forestville,MI,Forestville-MI,Michigan,26151,Sanilac,43.66,-82.6125,130,130,63,polygon,TRUE,America/Detroit,48465 48434
+Munger-MI,1840031649,Munger,Munger,MI,Munger-MI,Michigan,26017,Bay,43.522,-83.7733,,,36.8,point,FALSE,America/Detroit,48747
+Luther-MI,1840010949,Luther,Luther,MI,Luther-MI,Michigan,26085,Lake,44.0388,-85.6826,316,316,132,polygon,TRUE,America/Detroit,49656
+Oden-MI,1840025187,Oden,Oden,MI,Oden-MI,Michigan,26047,Emmet,45.4251,-84.8257,,,619.1,polygon,FALSE,America/Detroit,49764 49706
+Hillman-MI,1840010927,Hillman,Hillman,MI,Hillman-MI,Michigan,26119,Montmorency,45.0644,-83.8975,664,664,155,polygon,TRUE,America/Detroit,49746
+Whittemore-MI,1840000316,Whittemore,Whittemore,MI,Whittemore-MI,Michigan,26069,Iosco,44.2337,-83.8032,376,376,147,polygon,TRUE,America/Detroit,48770
+Utica-MI,1840002417,Utica,Utica,MI,Utica-MI,Michigan,26099,Macomb,42.629,-83.0222,4930,4930,1113,polygon,TRUE,America/Detroit,48315 48317 48318
+Huntington Woods-MI,1840002445,Huntington Woods,Huntington Woods,MI,Huntington Woods-MI,Michigan,26125,Oakland,42.4817,-83.1686,6328,6328,1667,polygon,TRUE,America/Detroit,48070
+Cassopolis-MI,1840010159,Cassopolis,Cassopolis,MI,Cassopolis-MI,Michigan,26027,Cass,41.9112,-86.0096,1725,1725,333,polygon,TRUE,America/Detroit,49031
+Bay City-MI,1840002583,Bay City,Bay City,MI,Bay City-MI,Michigan,26017,Bay,43.5903,-83.8886,67712,33511,1272,polygon,TRUE,America/Detroit,48706 48708 48707
+Coleman-MI,1840002661,Coleman,Coleman,MI,Coleman-MI,Michigan,26111,Midland,43.7588,-84.5871,1198,1198,367,polygon,TRUE,America/Detroit,48618
+Spring Lake-MI,1840011010,Spring Lake,Spring Lake,MI,Spring Lake-MI,Michigan,26139,Ottawa,43.074,-86.194,2462,2462,805,polygon,TRUE,America/Detroit,49456
+Pilgrim-MI,1840023947,Pilgrim,Pilgrim,MI,Pilgrim-MI,Michigan,26019,Benzie,44.6646,-86.2498,,,15.8,polygon,FALSE,America/Detroit,49635
+Eagle-MI,1840011022,Eagle,Eagle,MI,Eagle-MI,Michigan,26037,Clinton,42.8096,-84.7907,125,125,402,polygon,TRUE,America/Detroit,48822
+Barton Hills-MI,1840011192,Barton Hills,Barton Hills,MI,Barton Hills-MI,Michigan,26161,Washtenaw,42.3167,-83.7559,303,303,156,polygon,TRUE,America/Detroit,48105
+Manton-MI,1840002513,Manton,Manton,MI,Manton-MI,Michigan,26165,Wexford,44.4115,-85.401,1415,1415,350,polygon,TRUE,America/Detroit,49663
+Roulo-MI,1840031675,Roulo,Roulo,MI,Roulo-MI,Michigan,26163,Wayne,42.19,-83.4833,,,272.4,point,FALSE,America/Detroit,48111
+Norton Shores-MI,1840002873,Norton Shores,Norton Shores,MI,Norton Shores-MI,Michigan,26121,Muskegon,43.1621,-86.2519,24340,24340,404,polygon,TRUE,America/Detroit,49441 49444
+Kentwood-MI,1840002930,Kentwood,Kentwood,MI,Kentwood-MI,Michigan,26081,Kent,42.8852,-85.5925,51689,51689,954,polygon,TRUE,America/Detroit,49546 49512 49548 49508
+Shields-MI,1840004226,Shields,Shields,MI,Shields-MI,Michigan,26145,Saginaw,43.4174,-84.0731,,,603.2,polygon,FALSE,America/Detroit,48609
+Clayton-MI,1840010153,Clayton,Clayton,MI,Clayton-MI,Michigan,26091,Lenawee,41.8649,-84.2347,338,338,183,polygon,TRUE,America/Detroit,49235
+Hartford-MI,1840003181,Hartford,Hartford,MI,Hartford-MI,Michigan,26159,Van Buren,42.2049,-86.166,2614,2614,758,polygon,TRUE,America/Detroit,49057
+Sidnaw-MI,1840031738,Sidnaw,Sidnaw,MI,Sidnaw-MI,Michigan,26061,Houghton,46.5047,-88.7085,,,51.4,point,FALSE,America/Detroit,49961
+Three Rivers-MI,1840003255,Three Rivers,Three Rivers,MI,Three Rivers-MI,Michigan,26149,St. Joseph,41.9466,-85.6279,10684,7713,551,polygon,TRUE,America/Detroit,49093
+Hanover-MI,1840011196,Hanover,Hanover,MI,Hanover-MI,Michigan,26075,Jackson,42.1002,-84.554,427,427,393,polygon,TRUE,America/Detroit,49241
+K I Sawyer-MI,1840031758,K I Sawyer,K I Sawyer,MI,K I Sawyer-MI,Michigan,26103,Marquette,46.3298,-87.3673,,,325.5,polygon,FALSE,America/Detroit,49841
+Melvindale-MI,1840003986,Melvindale,Melvindale,MI,Melvindale-MI,Michigan,26163,Wayne,42.2803,-83.1782,10322,10322,1464,polygon,TRUE,America/Detroit,48122
+Felch-MI,1840031600,Felch,Felch,MI,Felch-MI,Michigan,26043,Dickinson,45.9972,-87.8257,,,33.1,point,FALSE,America/Menominee,49831
+Au Sable-MI,1840004095,Au Sable,Au Sable,MI,Au Sable-MI,Michigan,26069,Iosco,44.4106,-83.3422,,,424.5,polygon,FALSE,America/Detroit,48750
+Bark River-MI,1840031565,Bark River,Bark River,MI,Bark River-MI,Michigan,26041,Delta,45.7102,-87.3049,,,65.9,point,FALSE,America/Menominee,49807
+Pointe Aux Pins-MI,1840031667,Pointe Aux Pins,Pointe Aux Pins,MI,Pointe Aux Pins-MI,Michigan,26097,Mackinac,45.7325,-84.4778,,,29.9,point,FALSE,America/Detroit,49775
+Plainwell-MI,1840003112,Plainwell,Plainwell,MI,Plainwell-MI,Michigan,26005,Allegan,42.4458,-85.6434,3822,3822,745,polygon,TRUE,America/Detroit,49080
+Oakville-MI,1840031659,Oakville,Oakville,MI,Oakville-MI,Michigan,26115,Monroe,42.0814,-83.5808,,,80.4,point,FALSE,America/Detroit,48191
+Mount Morris-MI,1840002943,Mount Morris,Mount Morris,MI,Mount Morris-MI,Michigan,26049,Genesee,43.1173,-83.6989,2941,2941,948,polygon,TRUE,America/Detroit,48458
+Howell-MI,1840003100,Howell,Howell,MI,Howell-MI,Michigan,26093,Livingston,42.6078,-83.9339,9527,9527,740,polygon,TRUE,America/Detroit,48843 48844
+Martin-MI,1840011093,Martin,Martin,MI,Martin-MI,Michigan,26005,Allegan,42.5371,-85.6389,420,420,208,polygon,TRUE,America/Detroit,49070
+New Baltimore-MI,1840003090,New Baltimore,New Baltimore,MI,New Baltimore-MI,Michigan,26099,Macomb,42.6903,-82.7398,12355,12355,1035,polygon,TRUE,America/Detroit,48047
+Oak Park-MI,1840002424,Oak Park,Oak Park,MI,Oak Park-MI,Michigan,26125,Oakland,42.465,-83.1823,29645,29645,2216,polygon,TRUE,America/Detroit,48237
+Powers-MI,1840010918,Powers,Powers,MI,Powers-MI,Michigan,26109,Menominee,45.6877,-87.5266,415,415,161,polygon,TRUE,America/Menominee,49874
+Le Roy-MI,1840010950,Le Roy,Le Roy,MI,Le Roy-MI,Michigan,26133,Osceola,44.0382,-85.4537,252,252,100,polygon,TRUE,America/Detroit,49655
+Scottville-MI,1840002546,Scottville,Scottville,MI,Scottville-MI,Michigan,26105,Mason,43.9517,-86.2795,1221,1221,317,polygon,TRUE,America/Detroit,49454
+Harbor Beach-MI,1840003952,Harbor Beach,Harbor Beach,MI,Harbor Beach-MI,Michigan,26063,Huron,43.8456,-82.6555,1616,1616,356,polygon,TRUE,America/Detroit,48441
+Croswell-MI,1840002700,Croswell,Croswell,MI,Croswell-MI,Michigan,26151,Sanilac,43.2737,-82.6178,2301,2301,387,polygon,TRUE,America/Detroit,48422
+Pinconning-MI,1840002581,Pinconning,Pinconning,MI,Pinconning-MI,Michigan,26017,Bay,43.8573,-83.9638,1257,1257,568,polygon,TRUE,America/Detroit,48650
+Port Austin-MI,1840013149,Port Austin,Port Austin,MI,Port Austin-MI,Michigan,26063,Huron,44.0431,-82.9946,633,633,237,polygon,TRUE,America/Detroit,48467
+White Pigeon-MI,1840011385,White Pigeon,White Pigeon,MI,White Pigeon-MI,Michigan,26149,St. Joseph,41.798,-85.6485,1511,1511,419,polygon,TRUE,America/Detroit,49099
+Leslie-MI,1840003103,Leslie,Leslie,MI,Leslie-MI,Michigan,26065,Ingham,42.4506,-84.4331,1872,1872,561,polygon,TRUE,America/Detroit,49251
+Evart-MI,1840002560,Evart,Evart,MI,Evart-MI,Michigan,26133,Osceola,43.9003,-85.2741,1864,1864,321,polygon,TRUE,America/Detroit,49631
+Swartz Creek-MI,1840002944,Swartz Creek,Swartz Creek,MI,Swartz Creek-MI,Michigan,26049,Genesee,42.9626,-83.826,5557,5557,530,polygon,TRUE,America/Detroit,48554 48473
+Skidway Lake-MI,1840004096,Skidway Lake,Skidway Lake,MI,Skidway Lake-MI,Michigan,26129,Ogemaw,44.1919,-84.0467,,,448.9,polygon,FALSE,America/Detroit,48610 48756
+Monroe-MI,1840003987,Monroe,Monroe,MI,Monroe-MI,Michigan,26115,Monroe,41.9157,-83.3852,49389,19986,841,polygon,TRUE,America/Detroit,48162 48161
+Munising-MI,1840003924,Munising,Munising,MI,Munising-MI,Michigan,26003,Alger,46.4172,-86.6441,2836,2247,165,polygon,TRUE,America/Detroit,49862
+Stony Point-MI,1840006578,Stony Point,Stony Point,MI,Stony Point-MI,Michigan,26115,Monroe,41.9448,-83.2731,,,920.9,polygon,FALSE,America/Detroit,48166
+Ishpeming-MI,1840003922,Ishpeming,Ishpeming,MI,Ishpeming-MI,Michigan,26103,Marquette,46.4861,-87.6658,12303,6471,285,polygon,TRUE,America/Detroit,49849
+Wyoming-MI,1840000374,Wyoming,Wyoming,MI,Wyoming-MI,Michigan,26081,Kent,42.8909,-85.7067,75567,75567,1185,polygon,TRUE,America/Detroit,49418 49519 49548 49509 49528
+Zeba-MI,1840026100,Zeba,Zeba,MI,Zeba-MI,Michigan,26013,Baraga,46.7928,-88.4133,,,65.5,polygon,FALSE,America/Detroit,49946
+Au Train-MI,1840031711,Au Train,Au Train,MI,Au Train-MI,Michigan,26003,Alger,46.4302,-86.8368,,,208,point,FALSE,America/Detroit,49806
+Oakley Park-MI,1840031658,Oakley Park,Oakley Park,MI,Oakley Park-MI,Michigan,26125,Oakland,42.5689,-83.4966,,,1122.1,point,FALSE,America/Detroit,48390
+Montgomery-MI,1840011379,Montgomery,Montgomery,MI,Montgomery-MI,Michigan,26059,Hillsdale,41.7775,-84.8064,336,336,129,polygon,TRUE,America/Detroit,49255
+Union Lake-MI,1840031691,Union Lake,Union Lake,MI,Union Lake-MI,Michigan,26125,Oakland,42.6148,-83.4469,,,1065.3,point,FALSE,America/Detroit,48386
+Covington-MI,1840031586,Covington,Covington,MI,Covington-MI,Michigan,26013,Baraga,46.5413,-88.5371,,,23.1,point,FALSE,America/Detroit,49919
+Allegan-MI,1840003114,Allegan,Allegan,MI,Allegan-MI,Michigan,26005,Allegan,42.5299,-85.8462,6416,5072,509,polygon,TRUE,America/Detroit,49010
+Dixboro-MI,1840031590,Dixboro,Dixboro,MI,Dixboro-MI,Michigan,26161,Washtenaw,42.3123,-83.6561,,,241.8,point,FALSE,America/Detroit,48105
+Addison-MI,1840010154,Addison,Addison,MI,Addison-MI,Michigan,26091,Lenawee,41.9862,-84.3493,593,593,236,polygon,TRUE,America/Detroit,49220
+Walhalla-MI,1840031746,Walhalla,Walhalla,MI,Walhalla-MI,Michigan,26105,Mason,43.9536,-86.1148,,,81.1,point,FALSE,America/Detroit,49410
+Stanton-MI,1840002875,Stanton,Stanton,MI,Stanton-MI,Michigan,26117,Montcalm,43.2928,-85.0789,1415,1415,254,polygon,TRUE,America/Detroit,48888
+Chilson-MI,1840031579,Chilson,Chilson,MI,Chilson-MI,Michigan,26093,Livingston,42.527,-83.8616,,,649,point,FALSE,America/Detroit,48843
+Saugatuck-MI,1840003113,Saugatuck,Saugatuck,MI,Saugatuck-MI,Michigan,26005,Allegan,42.6611,-86.2055,980,980,231,polygon,TRUE,America/Detroit,49453
+Escanaba-MI,1840003925,Escanaba,Escanaba,MI,Escanaba-MI,Michigan,26041,Delta,45.7478,-87.0905,20370,12327,369,polygon,TRUE,America/Detroit,49829
+Maple City-MI,1840025200,Maple City,Maple City,MI,Maple City-MI,Michigan,26089,Leelanau,44.8556,-85.8573,,,199,polygon,FALSE,America/Detroit,49664
+Ingalls-MI,1840031629,Ingalls,Ingalls,MI,Ingalls-MI,Michigan,26109,Menominee,45.3769,-87.6112,,,61.8,point,FALSE,America/Menominee,49848
+Montague-MI,1840002869,Montague,Montague,MI,Montague-MI,Michigan,26121,Muskegon,43.4117,-86.3642,2358,2358,348,polygon,TRUE,America/Detroit,49437
+Foster City-MI,1840031601,Foster City,Foster City,MI,Foster City-MI,Michigan,26043,Dickinson,45.9633,-87.744,,,38.9,point,FALSE,America/Menominee,49834
+Rochester Hills-MI,1840002429,Rochester Hills,Rochester Hills,MI,Rochester Hills-MI,Michigan,26125,Oakland,42.6645,-83.1563,73422,73422,863,polygon,TRUE,America/Detroit,48306 48307 48309
+Peshawbestown-MI,1840031665,Peshawbestown,Peshawbestown,MI,Peshawbestown-MI,Michigan,26089,Leelanau,45.0242,-85.6009,,,60.7,point,FALSE,America/Detroit,49682
+Fair Plain-MI,1840004697,Fair Plain,Fair Plain,MI,Fair Plain-MI,Michigan,26021,Berrien,42.0825,-86.452,,,1450.7,polygon,FALSE,America/Detroit,49022
+Vandalia-MI,1840011388,Vandalia,Vandalia,MI,Vandalia-MI,Michigan,26027,Cass,41.9189,-85.9143,295,295,115,polygon,TRUE,America/Detroit,49095
+Brutus-MI,1840025182,Brutus,Brutus,MI,Brutus-MI,Michigan,26047,Emmet,45.4942,-84.7818,,,103.2,polygon,FALSE,America/Detroit,49716 49706
+Bloomfield Hills-MI,1840002439,Bloomfield Hills,Bloomfield Hills,MI,Bloomfield Hills-MI,Michigan,26125,Oakland,42.578,-83.2457,3999,3999,311,polygon,TRUE,America/Detroit,48304 48303
+Wolverine Lake-MI,1840011061,Wolverine Lake,Wolverine Lake,MI,Wolverine Lake-MI,Michigan,26125,Oakland,42.555,-83.4883,4546,4546,1385,polygon,TRUE,America/Detroit,48390
+Harrietta-MI,1840010941,Harrietta,Harrietta,MI,Harrietta-MI,Michigan,26165,Wexford,44.3095,-85.7007,145,145,60,polygon,TRUE,America/Detroit,49638
+Ashley-MI,1840010996,Ashley,Ashley,MI,Ashley-MI,Michigan,26057,Gratiot,43.1877,-84.4765,553,553,332,polygon,TRUE,America/Detroit,48806
+Eastpointe-MI,1840002420,Eastpointe,Eastpointe,MI,Eastpointe-MI,Michigan,26099,Macomb,42.4657,-82.946,32673,32673,2452,polygon,TRUE,America/Detroit,48021
+Muskegon-MI,1840002870,Muskegon,Muskegon,MI,Muskegon-MI,Michigan,26121,Muskegon,43.228,-86.256,161058,38349,1041,polygon,TRUE,America/Detroit,49442 49440 49441 49443
+New Hudson-MI,1840031653,New Hudson,New Hudson,MI,New Hudson-MI,Michigan,26125,Oakland,42.5109,-83.6155,,,103.6,point,FALSE,America/Detroit,48165
+De Tour Village-MI,1840013136,De Tour Village,De Tour Village,MI,De Tour Village-MI,Michigan,26033,Chippewa,45.9891,-83.9146,320,320,34,polygon,TRUE,America/Detroit,49725
+Augusta-MI,1840011209,Augusta,Augusta,MI,Augusta-MI,Michigan,26077,Kalamazoo,42.3379,-85.3524,903,903,343,polygon,TRUE,America/Detroit,49012
+Oxford-MI,1840011060,Oxford,Oxford,MI,Oxford-MI,Michigan,26125,Oakland,42.8217,-83.2564,3532,3532,1089,polygon,TRUE,America/Detroit,48371
+North Muskegon-MI,1840002872,North Muskegon,North Muskegon,MI,North Muskegon-MI,Michigan,26121,Muskegon,43.2517,-86.2713,3792,3792,831,polygon,TRUE,America/Detroit,49445
+Harbor Springs-MI,1840003942,Harbor Springs,Harbor Springs,MI,Harbor Springs-MI,Michigan,26047,Emmet,45.4325,-84.9889,1206,1206,359,polygon,TRUE,America/Detroit,49740
+Thompsonville-MI,1840010935,Thompsonville,Thompsonville,MI,Thompsonville-MI,Michigan,26019,Benzie,44.5205,-85.9388,438,438,169,polygon,TRUE,America/Detroit,49683
+Tower-MI,1840031689,Tower,Tower,MI,Tower-MI,Michigan,26031,Cheboygan,45.3553,-84.3006,,,197.2,point,FALSE,America/Detroit,49765
+East Lansing-MI,1840003101,East Lansing,East Lansing,MI,East Lansing-MI,Michigan,26065,Ingham,42.7483,-84.4834,48870,48870,1392,polygon,TRUE,America/Detroit,48825 48823 48824 48826
+Edgemont Park-MI,1840031756,Edgemont Park,Edgemont Park,MI,Edgemont Park-MI,Michigan,26065,Ingham,42.7468,-84.5926,,,1721.3,polygon,FALSE,America/Detroit,48917
+Bear Lake-MI,1840010936,Bear Lake,Bear Lake,MI,Bear Lake-MI,Michigan,26101,Manistee,44.4203,-86.1454,282,282,353,polygon,TRUE,America/Detroit,49614
+Waverly-MI,1840006924,Waverly,Waverly,MI,Waverly-MI,Michigan,26045,Eaton,42.7401,-84.6353,,,1364.9,polygon,FALSE,America/Detroit,48917
+Metamora-MI,1840011001,Metamora,Metamora,MI,Metamora-MI,Michigan,26087,Lapeer,42.9422,-83.2895,568,568,263,polygon,TRUE,America/Detroit,48455
+Bancroft-MI,1840011011,Bancroft,Bancroft,MI,Bancroft-MI,Michigan,26155,Shiawassee,42.8767,-84.0661,519,519,347,polygon,TRUE,America/Detroit,48414
+Bingham Farms-MI,1840011053,Bingham Farms,Bingham Farms,MI,Bingham Farms-MI,Michigan,26125,Oakland,42.5177,-83.278,1133,1133,362,polygon,TRUE,America/Detroit,48025
+Morenci-MI,1840003227,Morenci,Morenci,MI,Morenci-MI,Michigan,26091,Lenawee,41.7226,-84.2169,2180,2180,396,polygon,TRUE,America/Detroit,49256
+Columbiaville-MI,1840010999,Columbiaville,Columbiaville,MI,Columbiaville-MI,Michigan,26087,Lapeer,43.1572,-83.4072,780,780,356,polygon,TRUE,America/Detroit,48421
+Rexton-MI,1840031671,Rexton,Rexton,MI,Rexton-MI,Michigan,26097,Mackinac,46.1586,-85.2401,,,26.5,point,FALSE,America/Detroit,49762
+Armada-MI,1840011049,Armada,Armada,MI,Armada-MI,Michigan,26099,Macomb,42.8424,-82.8828,1740,1740,882,polygon,TRUE,America/Detroit,48005
+Pearl Beach-MI,1840006575,Pearl Beach,Pearl Beach,MI,Pearl Beach-MI,Michigan,26147,St. Clair,42.626,-82.5944,,,270.1,polygon,FALSE,America/Detroit,48001
+Grand Marais-MI,1840031612,Grand Marais,Grand Marais,MI,Grand Marais-MI,Michigan,26003,Alger,46.6708,-85.9852,,,164.3,point,FALSE,America/Detroit,49839
+Gobles-MI,1840003180,Gobles,Gobles,MI,Gobles-MI,Michigan,26159,Van Buren,42.3617,-85.8774,805,805,300,polygon,TRUE,America/Detroit,49055
+Elkton-MI,1840013148,Elkton,Elkton,MI,Elkton-MI,Michigan,26063,Huron,43.8183,-83.1809,769,769,296,polygon,TRUE,America/Detroit,48731
+Paw Paw Lake-MI,1840004699,Paw Paw Lake,Paw Paw Lake,MI,Paw Paw Lake-MI,Michigan,26021,Berrien,42.2113,-86.2759,,,500.7,polygon,FALSE,America/Detroit,49098 49038
+Frankfort-MI,1840002304,Frankfort,Frankfort,MI,Frankfort-MI,Michigan,26019,Benzie,44.6361,-86.2332,1290,1290,359,polygon,TRUE,America/Detroit,49635
+Byron Center-MI,1840004306,Byron Center,Byron Center,MI,Byron Center-MI,Michigan,26081,Kent,42.8121,-85.7279,,,495.7,polygon,FALSE,America/Detroit,49315
+Bertrand-MI,1840031569,Bertrand,Bertrand,MI,Bertrand-MI,Michigan,26021,Berrien,41.7745,-86.2622,,,325.3,point,FALSE,America/Detroit,49120
+Marenisco-MI,1840025268,Marenisco,Marenisco,MI,Marenisco-MI,Michigan,26053,Gogebic,46.3737,-89.712,,,191.9,polygon,FALSE,America/Menominee,49947
+Wolverine-MI,1840010919,Wolverine,Wolverine,MI,Wolverine-MI,Michigan,26031,Cheboygan,45.2732,-84.6052,237,237,93,polygon,TRUE,America/Detroit,49799
+Petersburg-MI,1840003988,Petersburg,Petersburg,MI,Petersburg-MI,Michigan,26115,Monroe,41.8993,-83.7135,1128,1128,906,polygon,TRUE,America/Detroit,49270
+Hesperia-MI,1840010968,Hesperia,Hesperia,MI,Hesperia-MI,Michigan,26127,Oceana,43.5691,-86.0407,935,935,445,polygon,TRUE,America/Detroit,49421
+Jamestown-MI,1840031630,Jamestown,Jamestown,MI,Jamestown-MI,Michigan,26139,Ottawa,42.8256,-85.8425,,,317.8,point,FALSE,America/Detroit,49426
+Reading-MI,1840003251,Reading,Reading,MI,Reading-MI,Michigan,26059,Hillsdale,41.8396,-84.7478,1050,1050,400,polygon,TRUE,America/Detroit,49274
+Lum-MI,1840031640,Lum,Lum,MI,Lum-MI,Michigan,26087,Lapeer,43.0995,-83.1511,,,47.4,point,FALSE,America/Detroit,48412
+Shepherd-MI,1840010963,Shepherd,Shepherd,MI,Shepherd-MI,Michigan,26073,Isabella,43.5235,-84.6927,1516,1516,604,polygon,TRUE,America/Detroit,48883
+Michigan Center-MI,1840004652,Michigan Center,Michigan Center,MI,Michigan Center-MI,Michigan,26075,Jackson,42.2268,-84.323,,,595.5,polygon,FALSE,America/Detroit,49254 49201 49203
+Millersburg-MI,1840010921,Millersburg,Millersburg,MI,Millersburg-MI,Michigan,26141,Presque Isle,45.3344,-84.0601,197,197,76,polygon,TRUE,America/Detroit,49759
+Blissfield-MI,1840011371,Blissfield,Blissfield,MI,Blissfield-MI,Michigan,26091,Lenawee,41.8311,-83.8634,3207,3244,568,polygon,TRUE,America/Detroit,49228
+Westland-MI,1840001847,Westland,Westland,MI,Westland-MI,Michigan,26163,Wayne,42.3192,-83.3806,81545,81545,1541,polygon,TRUE,America/Detroit,48185 48186
+Brownlee Park-MI,1840004655,Brownlee Park,Brownlee Park,MI,Brownlee Park-MI,Michigan,26025,Calhoun,42.3255,-85.1355,,,124.3,polygon,FALSE,America/Detroit,49014
+Northport-MI,1840013140,Northport,Northport,MI,Northport-MI,Michigan,26089,Leelanau,45.1301,-85.6173,525,525,122,polygon,TRUE,America/Detroit,49670
+Romeo-MI,1840011050,Romeo,Romeo,MI,Romeo-MI,Michigan,26099,Macomb,42.8049,-83.0041,3613,3613,691,polygon,TRUE,America/Detroit,48065
+Saint Helen-MI,1840004093,Saint Helen,Saint Helen,MI,Saint Helen-MI,Michigan,26143,Roscommon,44.3579,-84.4134,,,385.7,polygon,FALSE,America/Detroit,48656
+Vulcan-MI,1840031693,Vulcan,Vulcan,MI,Vulcan-MI,Michigan,26043,Dickinson,45.7805,-87.8626,,,177.1,point,FALSE,America/Menominee,49892
+Avoca-MI,1840031749,Avoca,Avoca,MI,Avoca-MI,Michigan,26147,St. Clair,43.062,-82.691,,,81.6,point,FALSE,America/Detroit,48006
+Manchester-MI,1840011194,Manchester,Manchester,MI,Manchester-MI,Michigan,26161,Washtenaw,42.1486,-84.0346,2145,2145,390,polygon,TRUE,America/Detroit,48158
+Edmore-MI,1840010992,Edmore,Edmore,MI,Edmore-MI,Michigan,26117,Montcalm,43.4073,-85.0368,1195,1195,304,polygon,TRUE,America/Detroit,48829
+Chatham-MI,1840010908,Chatham,Chatham,MI,Chatham-MI,Michigan,26003,Alger,46.3441,-86.9313,207,207,32,polygon,TRUE,America/Detroit,49816
+Napoleon-MI,1840004653,Napoleon,Napoleon,MI,Napoleon-MI,Michigan,26075,Jackson,42.1658,-84.2416,,,289.4,polygon,FALSE,America/Detroit,49201 49261
+Bloomingdale-MI,1840011203,Bloomingdale,Bloomingdale,MI,Bloomingdale-MI,Michigan,26159,Van Buren,42.3833,-85.959,440,440,149,polygon,TRUE,America/Detroit,49026
+Highland Park-MI,1840003982,Highland Park,Highland Park,MI,Highland Park-MI,Michigan,26163,Wayne,42.4052,-83.0976,10883,10883,1414,polygon,TRUE,America/Detroit,48203
+Commerce-MI,1840031584,Commerce,Commerce,MI,Commerce-MI,Michigan,26125,Oakland,42.5911,-83.4908,,,1054.2,point,FALSE,America/Detroit,48382
+Lakewood Club-MI,1840010987,Lakewood Club,Lakewood Club,MI,Lakewood Club-MI,Michigan,26121,Muskegon,43.3761,-86.2563,1289,1289,260,polygon,TRUE,America/Detroit,49457
+Burr Oak-MI,1840010157,Burr Oak,Burr Oak,MI,Burr Oak-MI,Michigan,26149,St. Joseph,41.8472,-85.3212,814,814,313,polygon,TRUE,America/Detroit,49030
+Woodland Park-MI,1840031745,Woodland Park,Woodland Park,MI,Woodland Park-MI,Michigan,26123,Newaygo,43.7147,-85.8614,,,159.6,point,FALSE,America/Detroit,49309
+Moran-MI,1840031730,Moran,Moran,MI,Moran-MI,Michigan,26097,Mackinac,45.9942,-84.8309,,,53.8,point,FALSE,America/Detroit,49760
+Elberta-MI,1840010934,Elberta,Elberta,MI,Elberta-MI,Michigan,26019,Benzie,44.6209,-86.231,371,371,192,polygon,TRUE,America/Detroit,49628
+Mecosta-MI,1840010965,Mecosta,Mecosta,MI,Mecosta-MI,Michigan,26107,Mecosta,43.6211,-85.2305,455,455,157,polygon,TRUE,America/Detroit,49332
+Pierson-MI,1840010994,Pierson,Pierson,MI,Pierson-MI,Michigan,26117,Montcalm,43.3196,-85.4975,173,173,267,polygon,TRUE,America/Detroit,49339
+Canada Creek Ranch-MI,1840004027,Canada Creek Ranch,Canada Creek Ranch,MI,Canada Creek Ranch-MI,Michigan,26119,Montmorency,45.175,-84.2074,,,48.6,polygon,FALSE,America/Detroit,49709
+Fenton-MI,1840002948,Fenton,Fenton,MI,Fenton-MI,Michigan,26049,Genesee,42.7993,-83.7144,11367,11367,657,polygon,TRUE,America/Detroit,48430
+Newaygo-MI,1840002679,Newaygo,Newaygo,MI,Newaygo-MI,Michigan,26123,Newaygo,43.416,-85.8032,3436,2036,206,polygon,TRUE,America/Detroit,49337
+Crystal Falls-MI,1840001970,Crystal Falls,Crystal Falls,MI,Crystal Falls-MI,Michigan,26071,Iron,46.0968,-88.3265,1392,1392,154,polygon,TRUE,America/Menominee,49920
+Carleton-MI,1840010912,Carleton,Carleton,MI,Carleton-MI,Michigan,26115,Monroe,42.0572,-83.3898,2344,2344,912,polygon,TRUE,America/Detroit,48117
+Belding-MI,1840003074,Belding,Belding,MI,Belding-MI,Michigan,26067,Ionia,43.0968,-85.2331,5800,5769,471,polygon,TRUE,America/Detroit,48809
+Clinton-MI,1840011372,Clinton,Clinton,MI,Clinton-MI,Michigan,26091,Lenawee,42.0699,-83.9686,2264,2264,478,polygon,TRUE,America/Detroit,49236
+South Boardman-MI,1840023935,South Boardman,South Boardman,MI,South Boardman-MI,Michigan,26079,Kalkaska,44.64,-85.2864,,,226.9,polygon,FALSE,America/Detroit,49680
+Saint Clair Shores-MI,1840003093,Saint Clair Shores,Saint Clair Shores,MI,Saint Clair Shores-MI,Michigan,26099,Macomb,42.4922,-82.8957,59775,59775,1978,polygon,TRUE,America/Detroit,48081 48080 48082
+Mattawan-MI,1840011207,Mattawan,Mattawan,MI,Mattawan-MI,Michigan,26159,Van Buren,42.2165,-85.7858,1944,1944,196,polygon,TRUE,America/Detroit,49071
+Yale-MI,1840001845,Yale,Yale,MI,Yale-MI,Michigan,26147,St. Clair,43.1277,-82.7973,1898,1898,530,polygon,TRUE,America/Detroit,48097
+Middleton-MI,1840031644,Middleton,Middleton,MI,Middleton-MI,Michigan,26057,Gratiot,43.1834,-84.7089,,,92.7,point,FALSE,America/Detroit,48856
+Copemish-MI,1840010938,Copemish,Copemish,MI,Copemish-MI,Michigan,26101,Manistee,44.4804,-85.9242,191,191,78,polygon,TRUE,America/Detroit,49625
+Caseville-MI,1840010910,Caseville,Caseville,MI,Caseville-MI,Michigan,26063,Huron,43.9417,-83.274,738,738,260,polygon,TRUE,America/Detroit,48725
+Morrice-MI,1840011013,Morrice,Morrice,MI,Morrice-MI,Michigan,26155,Shiawassee,42.8361,-84.1833,896,896,265,polygon,TRUE,America/Detroit,48857
+Barryton-MI,1840010964,Barryton,Barryton,MI,Barryton-MI,Michigan,26107,Mecosta,43.7505,-85.1436,359,359,144,polygon,TRUE,America/Detroit,49305
+Parchment-MI,1840003182,Parchment,Parchment,MI,Parchment-MI,Michigan,26077,Kalamazoo,42.3276,-85.5667,1854,1854,777,polygon,TRUE,America/Detroit,49004
+Reese-MI,1840010972,Reese,Reese,MI,Reese-MI,Michigan,26157,Tuscola,43.4527,-83.6893,1394,1394,398,polygon,TRUE,America/Detroit,48757
+Sanford-MI,1840010955,Sanford,Sanford,MI,Sanford-MI,Michigan,26111,Midland,43.6777,-84.3804,846,846,256,polygon,TRUE,America/Detroit,48657
+Grind Stone City-MI,1840031615,Grind Stone City,Grind Stone City,MI,Grind Stone City-MI,Michigan,26063,Huron,44.0503,-82.9008,,,18,point,FALSE,America/Detroit,48467
+Harbert-MI,1840031619,Harbert,Harbert,MI,Harbert-MI,Michigan,26021,Berrien,41.872,-86.6289,,,79,point,FALSE,America/Detroit,49128
+Black River-MI,1840031714,Black River,Black River,MI,Black River-MI,Michigan,26001,Alcona,44.8172,-83.3033,,,17,point,FALSE,America/Detroit,48721
+Hubbell-MI,1840006565,Hubbell,Hubbell,MI,Hubbell-MI,Michigan,26061,Houghton,47.177,-88.436,,,816.6,polygon,FALSE,America/Detroit,49934
+Flushing-MI,1840002950,Flushing,Flushing,MI,Flushing-MI,Michigan,26049,Genesee,43.0637,-83.8403,8029,8029,857,polygon,TRUE,America/Detroit,48433
+Jackson-MI,1840003173,Jackson,Jackson,MI,Jackson-MI,Michigan,26075,Jackson,42.243,-84.4038,88394,32918,1172,polygon,TRUE,America/Detroit,49201 49202 49203 49204
+Minden City-MI,1840010981,Minden City,Minden City,MI,Minden City-MI,Michigan,26151,Sanilac,43.6715,-82.7768,188,188,66,polygon,TRUE,America/Detroit,48456
+Indian River-MI,1840004016,Indian River,Indian River,MI,Indian River-MI,Michigan,26031,Cheboygan,45.4236,-84.6236,,,324,polygon,FALSE,America/Detroit,49749
+Waltz-MI,1840031694,Waltz,Waltz,MI,Waltz-MI,Michigan,26163,Wayne,42.1003,-83.3922,,,121.4,point,FALSE,America/Detroit,48164
+Deerfield-MI,1840011373,Deerfield,Deerfield,MI,Deerfield-MI,Michigan,26091,Lenawee,41.8901,-83.779,870,870,350,polygon,TRUE,America/Detroit,49238
+Posen-MI,1840010920,Posen,Posen,MI,Posen-MI,Michigan,26141,Presque Isle,45.2622,-83.6989,224,224,86,polygon,TRUE,America/Detroit,49776
+Palmer-MI,1840006569,Palmer,Palmer,MI,Palmer-MI,Michigan,26103,Marquette,46.4436,-87.5816,,,208,polygon,FALSE,America/Detroit,49866 49871
+Comstock Park-MI,1840004307,Comstock Park,Comstock Park,MI,Comstock Park-MI,Michigan,26081,Kent,43.0438,-85.6779,,,833.4,polygon,FALSE,America/Detroit,49321
+Rogers City-MI,1840002065,Rogers City,Rogers City,MI,Rogers City-MI,Michigan,26141,Presque Isle,45.415,-83.8182,2440,2695,230,polygon,TRUE,America/Detroit,49779
+Jennings-MI,1840023970,Jennings,Jennings,MI,Jennings-MI,Michigan,26113,Missaukee,44.3325,-85.2969,,,153.8,polygon,FALSE,America/Detroit,49651
+Standish-MI,1840003949,Standish,Standish,MI,Standish-MI,Michigan,26011,Arenac,43.9792,-83.9631,1437,1437,257,polygon,TRUE,America/Detroit,48658
+Parkdale-MI,1840023964,Parkdale,Parkdale,MI,Parkdale-MI,Michigan,26101,Manistee,44.272,-86.2805,,,156.8,polygon,FALSE,America/Detroit,49660
+Hamtramck-MI,1840003980,Hamtramck,Hamtramck,MI,Hamtramck-MI,Michigan,26163,Wayne,42.3954,-83.056,21752,21752,4026,polygon,TRUE,America/Detroit,48211 48212
+Pickford-MI,1840031666,Pickford,Pickford,MI,Pickford-MI,Michigan,26033,Chippewa,46.1578,-84.3636,,,188.5,point,FALSE,America/Detroit,49774
+Lincoln-MI,1840010928,Lincoln,Lincoln,MI,Lincoln-MI,Michigan,26001,Alcona,44.6842,-83.4133,319,319,148,polygon,TRUE,America/Detroit,48742
+Owendale-MI,1840013151,Owendale,Owendale,MI,Owendale-MI,Michigan,26063,Huron,43.7273,-83.2671,229,229,118,polygon,TRUE,America/Detroit,48754
+Loomis-MI,1840026143,Loomis,Loomis,MI,Loomis-MI,Michigan,26073,Isabella,43.7882,-84.6659,,,56.9,polygon,FALSE,America/Detroit,48617
+Algonac-MI,1840003955,Algonac,Algonac,MI,Algonac-MI,Michigan,26147,St. Clair,42.6216,-82.5349,4056,4056,1094,polygon,TRUE,America/Detroit,48001
+Walled Lake-MI,1840002435,Walled Lake,Walled Lake,MI,Walled Lake-MI,Michigan,26125,Oakland,42.5379,-83.4786,7089,7089,1257,polygon,TRUE,America/Detroit,48390
+Grand Junction-MI,1840031611,Grand Junction,Grand Junction,MI,Grand Junction-MI,Michigan,26159,Van Buren,42.4042,-86.0731,,,155.9,point,FALSE,America/Detroit,49056
+Marne-MI,1840031642,Marne,Marne,MI,Marne-MI,Michigan,26139,Ottawa,43.0361,-85.8278,,,314.4,point,FALSE,America/Detroit,49435
+Paint Creek-MI,1840031664,Paint Creek,Paint Creek,MI,Paint Creek-MI,Michigan,26161,Washtenaw,42.1575,-83.5816,,,68.2,point,FALSE,America/Detroit,48197
+Sister Lakes-MI,1840031685,Sister Lakes,Sister Lakes,MI,Sister Lakes-MI,Michigan,26159,Van Buren,42.0723,-86.1997,,,123.6,point,FALSE,America/Detroit,49047
+River Rouge-MI,1840003960,River Rouge,River Rouge,MI,River Rouge-MI,Michigan,26163,Wayne,42.2731,-83.1246,7482,7482,1088,polygon,TRUE,America/Detroit,48218
+Gaines-MI,1840011008,Gaines,Gaines,MI,Gaines-MI,Michigan,26049,Genesee,42.8725,-83.9111,367,367,380,polygon,TRUE,America/Detroit,48436
+Lawton-MI,1840011205,Lawton,Lawton,MI,Lawton-MI,Michigan,26159,Van Buren,42.1678,-85.8459,1865,1865,310,polygon,TRUE,America/Detroit,49065
+Flat Rock-MI,1840003973,Flat Rock,Flat Rock,MI,Flat Rock-MI,Michigan,26163,Wayne,42.0991,-83.2715,9828,9828,580,polygon,TRUE,America/Detroit,48134
+Michiana-MI,1840011228,Michiana,Michiana,MI,Michiana-MI,Michigan,26021,Berrien,41.7637,-86.8112,181,181,190,polygon,TRUE,America/Detroit,49117
+Daggett-MI,1840010917,Daggett,Daggett,MI,Daggett-MI,Michigan,26109,Menominee,45.4619,-87.6044,251,251,87,polygon,TRUE,America/Menominee,49821
+Carney-MI,1840009988,Carney,Carney,MI,Carney-MI,Michigan,26109,Menominee,45.5935,-87.5548,187,187,51,polygon,TRUE,America/Menominee,49812
+Owosso-MI,1840003068,Owosso,Owosso,MI,Owosso-MI,Michigan,26155,Shiawassee,42.9956,-84.1763,21653,14670,1083,polygon,TRUE,America/Detroit,48867
+Essexville-MI,1840002584,Essexville,Essexville,MI,Essexville-MI,Michigan,26017,Bay,43.6123,-83.8424,3359,3359,999,polygon,TRUE,America/Detroit,48732
+Concord-MI,1840011197,Concord,Concord,MI,Concord-MI,Michigan,26075,Jackson,42.1762,-84.6457,1046,1046,269,polygon,TRUE,America/Detroit,49237
+Trufant-MI,1840031690,Trufant,Trufant,MI,Trufant-MI,Michigan,26117,Montcalm,43.3139,-85.3545,,,354.4,point,FALSE,America/Detroit,49347
+Shelby-MI,1840010959,Shelby,Shelby,MI,Shelby-MI,Michigan,26127,Oceana,43.6116,-86.3648,2008,2008,456,polygon,TRUE,America/Detroit,49455
+Lake Angelus-MI,1840002447,Lake Angelus,Lake Angelus,MI,Lake Angelus-MI,Michigan,26125,Oakland,42.6921,-83.3214,296,296,115,polygon,TRUE,America/Detroit,48326
+Auburn-MI,1840002582,Auburn,Auburn,MI,Auburn-MI,Michigan,26017,Bay,43.6022,-84.0758,2126,2126,785,polygon,TRUE,America/Detroit,48611
+Amasa-MI,1840025274,Amasa,Amasa,MI,Amasa-MI,Michigan,26071,Iron,46.2295,-88.4579,,,80.6,polygon,FALSE,America/Menominee,49920 49903
+White Cloud-MI,1840000344,White Cloud,White Cloud,MI,White Cloud-MI,Michigan,26123,Newaygo,43.5541,-85.7721,1377,1377,273,polygon,TRUE,America/Detroit,49349
+Grand Beach-MI,1840011225,Grand Beach,Grand Beach,MI,Grand Beach-MI,Michigan,26021,Berrien,41.774,-86.7887,278,278,118,polygon,TRUE,America/Detroit,49117
+Traverse City-MI,1840003946,Traverse City,Traverse City,MI,Traverse City-MI,Michigan,26055,Grand Traverse,44.7545,-85.6034,49690,15479,717,polygon,TRUE,America/Detroit,49686 49684 49685 49696
+New Boston-MI,1840031652,New Boston,New Boston,MI,New Boston-MI,Michigan,26163,Wayne,42.1625,-83.403,,,333.9,point,FALSE,America/Detroit,48164
+Olivet-MI,1840003105,Olivet,Olivet,MI,Olivet-MI,Michigan,26045,Eaton,42.444,-84.9246,1692,1692,640,polygon,TRUE,America/Detroit,49076
+Farmington-MI,1840002441,Farmington,Farmington,MI,Farmington-MI,Michigan,26125,Oakland,42.4614,-83.3784,10514,10514,1526,polygon,TRUE,America/Detroit,48336 48335 48332 48333
+Copper Harbor-MI,1840026076,Copper Harbor,Copper Harbor,MI,Copper Harbor-MI,Michigan,26083,Keweenaw,47.47,-87.8767,,,123.5,polygon,FALSE,America/Detroit,49918
+Muskegon Heights-MI,1840002871,Muskegon Heights,Muskegon Heights,MI,Muskegon Heights-MI,Michigan,26121,Muskegon,43.2024,-86.242,10795,10795,1308,polygon,TRUE,America/Detroit,49444
+Douglas-MI,1840006925,Douglas,Douglas,MI,Douglas-MI,Michigan,26005,Allegan,42.6411,-86.2084,2722,1305,288,polygon,TRUE,America/Detroit,49406 49408
+Jenison-MI,1840004344,Jenison,Jenison,MI,Jenison-MI,Michigan,26139,Ottawa,42.9063,-85.8269,,,870.3,polygon,FALSE,America/Detroit,49428 49429
+Corunna-MI,1840003070,Corunna,Corunna,MI,Corunna-MI,Michigan,26155,Shiawassee,42.9838,-84.1161,3401,3401,411,polygon,TRUE,America/Detroit,48817
+South Range-MI,1840013131,South Range,South Range,MI,South Range-MI,Michigan,26061,Houghton,47.0704,-88.6441,748,748,795,polygon,TRUE,America/Detroit,49963
+Lakeport-MI,1840031753,Lakeport,Lakeport,MI,Lakeport-MI,Michigan,26147,St. Clair,43.115,-82.4902,,,453.3,point,FALSE,America/Detroit,48059
+North Branch-MI,1840011002,North Branch,North Branch,MI,North Branch-MI,Michigan,26087,Lapeer,43.229,-83.1908,1021,1021,296,polygon,TRUE,America/Detroit,48461
+Holly-MI,1840011056,Holly,Holly,MI,Holly-MI,Michigan,26125,Oakland,42.7987,-83.6233,8309,6146,858,polygon,TRUE,America/Detroit,48442
+Grand Ledge-MI,1840003109,Grand Ledge,Grand Ledge,MI,Grand Ledge-MI,Michigan,26045,Eaton,42.7546,-84.7435,7807,7807,843,polygon,TRUE,America/Detroit,48837
+Saranac-MI,1840011018,Saranac,Saranac,MI,Saranac-MI,Michigan,26067,Ionia,42.9294,-85.2105,1335,1335,447,polygon,TRUE,America/Detroit,48881
+Potterville-MI,1840003106,Potterville,Potterville,MI,Potterville-MI,Michigan,26045,Eaton,42.6297,-84.743,2631,2631,603,polygon,TRUE,America/Detroit,48876
+Oscoda-MI,1840004094,Oscoda,Oscoda,MI,Oscoda-MI,Michigan,26069,Iosco,44.425,-83.3339,,,433.1,polygon,FALSE,America/Detroit,48750
+Unionville-MI,1840010975,Unionville,Unionville,MI,Unionville-MI,Michigan,26157,Tuscola,43.6533,-83.4671,492,492,202,polygon,TRUE,America/Detroit,48767
+Mackinac Island-MI,1840003939,Mackinac Island,Mackinac Island,MI,Mackinac Island-MI,Michigan,26097,Mackinac,45.8593,-84.6253,477,477,42,polygon,TRUE,America/Detroit,49757
+Cass City-MI,1840010049,Cass City,Cass City,MI,Cass City-MI,Michigan,26157,Tuscola,43.6006,-83.1767,2337,2337,507,polygon,TRUE,America/Detroit,48726
+Otsego Lake-MI,1840031662,Otsego Lake,Otsego Lake,MI,Otsego Lake-MI,Michigan,26137,Otsego,44.917,-84.6925,,,188.1,point,FALSE,America/Detroit,49735
+McBain-MI,1840002515,McBain,McBain,MI,McBain-MI,Michigan,26113,Missaukee,44.1961,-85.2154,669,669,206,polygon,TRUE,America/Detroit,49657
+Allendale-MI,1840004345,Allendale,Allendale,MI,Allendale-MI,Michigan,26139,Ottawa,42.9851,-85.9509,,,573,polygon,FALSE,America/Detroit,49460 49401
+Kinde-MI,1840013147,Kinde,Kinde,MI,Kinde-MI,Michigan,26063,Huron,43.9404,-82.9963,426,426,139,polygon,TRUE,America/Detroit,48445
+Grand Rapids-MI,1840002928,Grand Rapids,Grand Rapids,MI,Grand Rapids-MI,Michigan,26081,Kent,42.9615,-85.6557,595467,196445,1707,polygon,TRUE,America/Detroit,49546 49506 49505 49507 49504 49503 49508 49501 49502 49510 49514 49515 49516 49518 49523 49530 49555 49560 49588 49599
+Hale-MI,1840031617,Hale,Hale,MI,Hale-MI,Michigan,26069,Iosco,44.3778,-83.8047,,,98.2,point,FALSE,America/Detroit,48739
+Keego Harbor-MI,1840002446,Keego Harbor,Keego Harbor,MI,Keego Harbor-MI,Michigan,26125,Oakland,42.6086,-83.3443,3021,3021,2314,polygon,TRUE,America/Detroit,48320
+Alpha-MI,1840009980,Alpha,Alpha,MI,Alpha-MI,Michigan,26071,Iron,46.044,-88.3776,136,136,55,polygon,TRUE,America/Menominee,49920 49902
+Caledonia-MI,1840010066,Caledonia,Caledonia,MI,Caledonia-MI,Michigan,26081,Kent,42.7944,-85.5153,1618,1618,470,polygon,TRUE,America/Detroit,49316
+Decatur-MI,1840011206,Decatur,Decatur,MI,Decatur-MI,Michigan,26159,Van Buren,42.1076,-85.9747,1762,1762,506,polygon,TRUE,America/Detroit,49045
+Lupton-MI,1840025370,Lupton,Lupton,MI,Lupton-MI,Michigan,26129,Ogemaw,44.4297,-84.0225,,,179.2,polygon,FALSE,America/Detroit,48635
+Sheridan-MI,1840010995,Sheridan,Sheridan,MI,Sheridan-MI,Michigan,26117,Montcalm,43.2086,-85.0739,651,651,228,polygon,TRUE,America/Detroit,48884
+Hemlock-MI,1840004225,Hemlock,Hemlock,MI,Hemlock-MI,Michigan,26145,Saginaw,43.418,-84.2326,,,523.5,polygon,FALSE,America/Detroit,48626
+Dansville-MI,1840011080,Dansville,Dansville,MI,Dansville-MI,Michigan,26065,Ingham,42.5558,-84.303,555,555,213,polygon,TRUE,America/Detroit,48819
+Morley-MI,1840010966,Morley,Morley,MI,Morley-MI,Michigan,26107,Mecosta,43.4908,-85.4456,498,498,214,polygon,TRUE,America/Detroit,49336
+Worden-MI,1840031702,Worden,Worden,MI,Worden-MI,Michigan,26161,Washtenaw,42.3878,-83.6449,,,30.8,point,FALSE,America/Detroit,48168
+Port Hope-MI,1840013150,Port Hope,Port Hope,MI,Port Hope-MI,Michigan,26063,Huron,43.9395,-82.7149,254,254,96,polygon,TRUE,America/Detroit,48468
+Rothbury-MI,1840010956,Rothbury,Rothbury,MI,Rothbury-MI,Michigan,26127,Oceana,43.5076,-86.3477,426,426,182,polygon,TRUE,America/Detroit,49452
+Bangor-MI,1840003179,Bangor,Bangor,MI,Bangor-MI,Michigan,26159,Van Buren,42.312,-86.1133,1845,1845,390,polygon,TRUE,America/Detroit,49013
+Constantine-MI,1840011383,Constantine,Constantine,MI,Constantine-MI,Michigan,26149,St. Joseph,41.8379,-85.6649,4017,2047,490,polygon,TRUE,America/Detroit,49042
+Fruitport-MI,1840010988,Fruitport,Fruitport,MI,Fruitport-MI,Michigan,26121,Muskegon,43.1248,-86.1561,1130,1130,480,polygon,TRUE,America/Detroit,49415
+Rives Junction-MI,1840031673,Rives Junction,Rives Junction,MI,Rives Junction-MI,Michigan,26075,Jackson,42.3859,-84.4616,,,169.5,point,FALSE,America/Detroit,49277
+Prescott-MI,1840010944,Prescott,Prescott,MI,Prescott-MI,Michigan,26129,Ogemaw,44.1916,-83.9322,256,256,89,polygon,TRUE,America/Detroit,48756
+Gregory-MI,1840031614,Gregory,Gregory,MI,Gregory-MI,Michigan,26093,Livingston,42.4584,-84.0844,,,103.7,point,FALSE,America/Detroit,48137
+Leland-MI,1840025199,Leland,Leland,MI,Leland-MI,Michigan,26089,Leelanau,45.0214,-85.7576,,,197.9,polygon,FALSE,America/Detroit,49654
+Trenton-MI,1840003966,Trenton,Trenton,MI,Trenton-MI,Michigan,26163,Wayne,42.1394,-83.193,18253,18253,970,polygon,TRUE,America/Detroit,48183
+Beechwood-MI,1840004346,Beechwood,Beechwood,MI,Beechwood-MI,Michigan,26139,Ottawa,42.7962,-86.1273,,,805,polygon,FALSE,America/Detroit,49424
+Manitou Beach-MI,1840031641,Manitou Beach,Manitou Beach,MI,Manitou Beach-MI,Michigan,26091,Lenawee,41.9698,-84.3083,,,681.2,point,FALSE,America/Detroit,49253
+Sparlingville-MI,1840031754,Sparlingville,Sparlingville,MI,Sparlingville-MI,Michigan,26147,St. Clair,42.9645,-82.523,,,273,point,FALSE,America/Detroit,48074
+Beverly Hills-MI,1840011052,Beverly Hills,Beverly Hills,MI,Beverly Hills-MI,Michigan,26125,Oakland,42.522,-83.2424,10470,10470,1010,polygon,TRUE,America/Detroit,48025
+Kingston-MI,1840010969,Kingston,Kingston,MI,Kingston-MI,Michigan,26157,Tuscola,43.4128,-83.1863,426,426,161,polygon,TRUE,America/Detroit,48741
+Union City-MI,1840011377,Union City,Union City,MI,Union City-MI,Michigan,26023,Branch,42.0663,-85.143,1573,1573,418,polygon,TRUE,America/Detroit,49094
+Romulus-MI,1840003963,Romulus,Romulus,MI,Romulus-MI,Michigan,26163,Wayne,42.2237,-83.366,23281,23281,252,polygon,TRUE,America/Detroit,48174 48242
+Elmira-MI,1840031595,Elmira,Elmira,MI,Elmira-MI,Michigan,26137,Otsego,45.0645,-84.8562,,,100.4,point,FALSE,America/Detroit,49730
+Mayville-MI,1840010973,Mayville,Mayville,MI,Mayville-MI,Michigan,26157,Tuscola,43.3358,-83.3514,911,911,310,polygon,TRUE,America/Detroit,48744
+Rushton-MI,1840031676,Rushton,Rushton,MI,Rushton-MI,Michigan,26093,Livingston,42.452,-83.6961,,,593.7,point,FALSE,America/Detroit,48178
+Pentwater-MI,1840010958,Pentwater,Pentwater,MI,Pentwater-MI,Michigan,26127,Oceana,43.7799,-86.4302,841,841,253,polygon,TRUE,America/Detroit,49449
+Baroda-MI,1840011223,Baroda,Baroda,MI,Baroda-MI,Michigan,26021,Berrien,41.9542,-86.4879,846,846,455,polygon,TRUE,America/Detroit,49101
+Menominee-MI,1840002006,Menominee,Menominee,MI,Menominee-MI,Michigan,26109,Menominee,45.1219,-87.6235,8279,8279,620,polygon,TRUE,America/Menominee,49858
+Marion-MI,1840010952,Marion,Marion,MI,Marion-MI,Michigan,26133,Osceola,44.1005,-85.1432,853,853,243,polygon,TRUE,America/Detroit,49665
+West Monroe-MI,1840007675,West Monroe,West Monroe,MI,West Monroe-MI,Michigan,26115,Monroe,41.9142,-83.4318,,,2365.9,polygon,FALSE,America/Detroit,48161
+Ellsworth-MI,1840010924,Ellsworth,Ellsworth,MI,Ellsworth-MI,Michigan,26009,Antrim,45.1663,-85.2436,342,342,183,polygon,TRUE,America/Detroit,49729
+Franklin-MI,1840011057,Franklin,Franklin,MI,Franklin-MI,Michigan,26125,Oakland,42.5188,-83.303,3244,3244,470,polygon,TRUE,America/Detroit,48025
+Chums Corner-MI,1840025202,Chums Corner,Chums Corner,MI,Chums Corner-MI,Michigan,26055,Grand Traverse,44.6765,-85.6554,,,113.7,polygon,FALSE,America/Detroit,49684
+Ypsilanti-MI,1840000459,Ypsilanti,Ypsilanti,MI,Ypsilanti-MI,Michigan,26161,Washtenaw,42.2437,-83.6207,21018,21018,1874,polygon,TRUE,America/Detroit,48198 48197
+Madison Heights-MI,1840002449,Madison Heights,Madison Heights,MI,Madison Heights-MI,Michigan,26125,Oakland,42.5073,-83.1034,30088,30088,1639,polygon,TRUE,America/Detroit,48071
+Maybee-MI,1840013158,Maybee,Maybee,MI,Maybee-MI,Michigan,26115,Monroe,42.0063,-83.5153,541,541,207,polygon,TRUE,America/Detroit,48159 48162
+Harrisville-MI,1840002290,Harrisville,Harrisville,MI,Harrisville-MI,Michigan,26001,Alcona,44.6572,-83.2946,469,469,295,polygon,TRUE,America/Detroit,48740
+Saint Joseph-MI,1840003213,Saint Joseph,Saint Joseph,MI,Saint Joseph-MI,Michigan,26021,Berrien,42.0969,-86.4849,8288,8288,995,polygon,TRUE,America/Detroit,49085
+Whittaker-MI,1840031696,Whittaker,Whittaker,MI,Whittaker-MI,Michigan,26161,Washtenaw,42.1281,-83.5997,,,125.1,point,FALSE,America/Detroit,48191
+Clarksville-MI,1840010072,Clarksville,Clarksville,MI,Clarksville-MI,Michigan,26067,Ionia,42.8421,-85.2425,400,400,306,polygon,TRUE,America/Detroit,48815
+Presque Isle-MI,1840031668,Presque Isle,Presque Isle,MI,Presque Isle-MI,Michigan,26141,Presque Isle,45.3042,-83.4769,,,94,point,FALSE,America/Detroit,49777
+Nestoria-MI,1840031708,Nestoria,Nestoria,MI,Nestoria-MI,Michigan,26013,Baraga,46.5702,-88.2637,,,18.2,point,FALSE,America/Detroit,49861
+Dafter-MI,1840031587,Dafter,Dafter,MI,Dafter-MI,Michigan,26033,Chippewa,46.36,-84.4273,,,32.1,point,FALSE,America/Detroit,49724
+Omer-MI,1840003948,Omer,Omer,MI,Omer-MI,Michigan,26011,Arenac,44.0487,-83.8565,296,296,100,polygon,TRUE,America/Detroit,48749
+Henderson-MI,1840025452,Henderson,Henderson,MI,Henderson-MI,Michigan,26155,Shiawassee,43.0872,-84.1933,,,176.5,polygon,FALSE,America/Detroit,48867 48841
+Gaylord-MI,1840002148,Gaylord,Gaylord,MI,Gaylord-MI,Michigan,26137,Otsego,45.0211,-84.6799,8399,3690,293,polygon,TRUE,America/Detroit,49735 49734
+Tecumseh-MI,1840003228,Tecumseh,Tecumseh,MI,Tecumseh-MI,Michigan,26091,Lenawee,42.0066,-83.9451,8362,8362,569,polygon,TRUE,America/Detroit,49286
+Engadine-MI,1840031597,Engadine,Engadine,MI,Engadine-MI,Michigan,26097,Mackinac,46.1167,-85.5709,,,18.3,point,FALSE,America/Detroit,49827
+Ann Arbor-MI,1840003172,Ann Arbor,Ann Arbor,MI,Ann Arbor-MI,Michigan,26161,Washtenaw,42.2757,-83.7312,324421,120782,1672,polygon,TRUE,America/Detroit,48103 48104 48105 48108 48109 48106 48107 48113
+Beulah-MI,1840010931,Beulah,Beulah,MI,Beulah-MI,Michigan,26019,Benzie,44.6296,-86.0961,337,337,301,polygon,TRUE,America/Detroit,49617
+Benzonia-MI,1840010930,Benzonia,Benzonia,MI,Benzonia-MI,Michigan,26019,Benzie,44.6161,-86.0989,500,500,171,polygon,TRUE,America/Detroit,49616
+Hastings-MI,1840003110,Hastings,Hastings,MI,Hastings-MI,Michigan,26015,Barry,42.6498,-85.2886,7640,7281,539,polygon,TRUE,America/Detroit,49058
+Coldwater-MI,1840003250,Coldwater,Coldwater,MI,Coldwater-MI,Michigan,26023,Branch,41.9428,-85.0016,16613,10776,508,polygon,TRUE,America/Detroit,49036
+Beal City-MI,1840004172,Beal City,Beal City,MI,Beal City-MI,Michigan,26073,Isabella,43.6692,-84.9086,,,83.6,polygon,FALSE,America/Detroit,48893 48858
+Kalamazoo-MI,1840003185,Kalamazoo,Kalamazoo,MI,Kalamazoo-MI,Michigan,26077,Kalamazoo,42.2749,-85.5882,214583,75984,1188,polygon,TRUE,America/Detroit,49001 49006 49007 49008 49074 49003 49005 49019
+Lake Linden-MI,1840013132,Lake Linden,Lake Linden,MI,Lake Linden-MI,Michigan,26061,Houghton,47.1938,-88.4054,993,993,496,polygon,TRUE,America/Detroit,49945
+Saginaw-MI,1840002813,Saginaw,Saginaw,MI,Saginaw-MI,Michigan,26145,Saginaw,43.4199,-83.95,120088,48984,1105,polygon,TRUE,America/Detroit,48601 48602 48607 48605 48606 48608 48663
+Middleville-MI,1840011089,Middleville,Middleville,MI,Middleville-MI,Michigan,26015,Barry,42.7138,-85.4692,3259,3344,563,polygon,TRUE,America/Detroit,49333
+Williamsburg-MI,1840031697,Williamsburg,Williamsburg,MI,Williamsburg-MI,Michigan,26055,Grand Traverse,44.7736,-85.404,,,81.3,point,FALSE,America/Detroit,49690
+Fennville-MI,1840003115,Fennville,Fennville,MI,Fennville-MI,Michigan,26005,Allegan,42.5947,-86.1052,1401,1401,492,polygon,TRUE,America/Detroit,49408
+Lexington-MI,1840010976,Lexington,Lexington,MI,Lexington-MI,Michigan,26151,Sanilac,43.2673,-82.537,1111,1111,306,polygon,TRUE,America/Detroit,48450
+Dryden-MI,1840011000,Dryden,Dryden,MI,Dryden-MI,Michigan,26087,Lapeer,42.9456,-83.124,937,937,329,polygon,TRUE,America/Detroit,48428
+Capac-MI,1840010911,Capac,Capac,MI,Capac-MI,Michigan,26147,St. Clair,43.0077,-82.9271,1841,1841,387,polygon,TRUE,America/Detroit,48014
+Wellston-MI,1840023966,Wellston,Wellston,MI,Wellston-MI,Michigan,26101,Manistee,44.2179,-85.962,,,86.7,polygon,FALSE,America/Detroit,49689
+Webberville-MI,1840011082,Webberville,Webberville,MI,Webberville-MI,Michigan,26065,Ingham,42.6639,-84.1785,1281,1281,270,polygon,TRUE,America/Detroit,48892
+Lincoln Park-MI,1840003984,Lincoln Park,Lincoln Park,MI,Lincoln Park-MI,Michigan,26163,Wayne,42.2433,-83.181,36720,36720,2414,polygon,TRUE,America/Detroit,48146
+Gladstone-MI,1840003926,Gladstone,Gladstone,MI,Gladstone-MI,Michigan,26041,Delta,45.8522,-87.0354,4796,4796,370,polygon,TRUE,America/Detroit,49837
+Oak Grove-MI,1840031656,Oak Grove,Oak Grove,MI,Oak Grove-MI,Michigan,26137,Otsego,44.9725,-84.6825,,,73.2,point,FALSE,America/Detroit,49735
+Sault Sainte Marie-MI,1840003938,Sault Sainte Marie,Sault Sainte Marie,MI,Sault Sainte Marie-MI,Michigan,26033,Chippewa,46.4816,-84.372,12705,13704,358,polygon,TRUE,America/Detroit,49783
+Howard City-MI,1840010991,Howard City,Howard City,MI,Howard City-MI,Michigan,26117,Montcalm,43.3943,-85.4681,1803,1803,275,polygon,TRUE,America/Detroit,49329
+Hessel-MI,1840031722,Hessel,Hessel,MI,Hessel-MI,Michigan,26097,Mackinac,46.0042,-84.4259,,,239.8,point,FALSE,America/Detroit,49745
+Stanwood-MI,1840010967,Stanwood,Stanwood,MI,Stanwood-MI,Michigan,26107,Mecosta,43.5805,-85.4481,213,213,336,polygon,TRUE,America/Detroit,49346
+Omena-MI,1840025201,Omena,Omena,MI,Omena-MI,Michigan,26089,Leelanau,45.0598,-85.5951,,,125.8,polygon,FALSE,America/Detroit,49670 49674
+Three Oaks-MI,1840011231,Three Oaks,Three Oaks,MI,Three Oaks-MI,Michigan,26021,Berrien,41.7989,-86.6123,1569,1569,613,polygon,TRUE,America/Detroit,49128
+Buchanan-MI,1840003217,Buchanan,Buchanan,MI,Buchanan-MI,Michigan,26021,Berrien,41.8284,-86.3655,4334,4334,669,polygon,TRUE,America/Detroit,49107
+West Branch-MI,1840000317,West Branch,West Branch,MI,West Branch-MI,Michigan,26129,Ogemaw,44.2738,-84.2359,2063,2063,532,polygon,TRUE,America/Detroit,48661
+Mesick-MI,1840010942,Mesick,Mesick,MI,Mesick-MI,Michigan,26165,Wexford,44.4043,-85.7171,400,400,119,polygon,TRUE,America/Detroit,49668
+Livonia-MI,1840003985,Livonia,Livonia,MI,Livonia-MI,Michigan,26163,Wayne,42.3972,-83.3733,94041,94041,1017,polygon,TRUE,America/Detroit,48152 48150 48154 48151 48153
+Camden-MI,1840010155,Camden,Camden,MI,Camden-MI,Michigan,26059,Hillsdale,41.7552,-84.7563,501,501,229,polygon,TRUE,America/Detroit,49232
+Petoskey-MI,1840003941,Petoskey,Petoskey,MI,Petoskey-MI,Michigan,26047,Emmet,45.365,-84.9886,8323,5749,433,polygon,TRUE,America/Detroit,49770
+Rockport-MI,1840031706,Rockport,Rockport,MI,Rockport-MI,Michigan,26007,Alpena,45.2039,-83.3855,,,4.8,point,FALSE,America/Detroit,49707
+Negaunee-MI,1840003921,Negaunee,Negaunee,MI,Negaunee-MI,Michigan,26103,Marquette,46.4969,-87.5967,4575,4575,130,polygon,TRUE,America/Detroit,49866
+Allen-MI,1840010156,Allen,Allen,MI,Allen-MI,Michigan,26059,Hillsdale,41.9583,-84.7679,188,188,468,polygon,TRUE,America/Detroit,49227
+Saint Ignace-MI,1840003940,Saint Ignace,Saint Ignace,MI,Saint Ignace-MI,Michigan,26097,Mackinac,45.8694,-84.7256,2453,2377,342,polygon,TRUE,America/Detroit,49781
+Interlochen-MI,1840025204,Interlochen,Interlochen,MI,Interlochen-MI,Michigan,26055,Grand Traverse,44.6497,-85.7678,,,302.8,polygon,FALSE,America/Detroit,49643 49637
+Clifford-MI,1840010064,Clifford,Clifford,MI,Clifford-MI,Michigan,26087,Lapeer,43.3148,-83.1793,324,324,82,polygon,TRUE,America/Detroit,48727
+Backus Beach-MI,1840031563,Backus Beach,Backus Beach,MI,Backus Beach-MI,Michigan,26001,Alcona,44.76,-83.5461,,,259.7,point,FALSE,America/Detroit,48762
+Benton Heights-MI,1840004700,Benton Heights,Benton Heights,MI,Benton Heights-MI,Michigan,26021,Berrien,42.1211,-86.4137,,,675.5,polygon,FALSE,America/Detroit,49022
+Grant-MI,1840002681,Grant,Grant,MI,Grant-MI,Michigan,26123,Newaygo,43.3348,-85.8092,881,881,527,polygon,TRUE,America/Detroit,49327
+Harper Woods-MI,1840003981,Harper Woods,Harper Woods,MI,Harper Woods-MI,Michigan,26163,Wayne,42.439,-82.9294,13730,13730,2031,polygon,TRUE,America/Detroit,48225
+Bridgewater-MI,1840031572,Bridgewater,Bridgewater,MI,Bridgewater-MI,Michigan,26161,Washtenaw,42.1609,-83.9022,,,42.9,point,FALSE,America/Detroit,48176
+Dowling-MI,1840024093,Dowling,Dowling,MI,Dowling-MI,Michigan,26015,Barry,42.5227,-85.2531,,,34,polygon,FALSE,America/Detroit,49058 49050
+Rapid City-MI,1840023934,Rapid City,Rapid City,MI,Rapid City-MI,Michigan,26079,Kalkaska,44.8366,-85.2871,,,99.4,polygon,FALSE,America/Detroit,49676
+Little Lake-MI,1840031638,Little Lake,Little Lake,MI,Little Lake-MI,Michigan,26103,Marquette,46.2888,-87.3418,,,57.7,point,FALSE,America/Detroit,49833
+Clarenceville-MI,1840031580,Clarenceville,Clarenceville,MI,Clarenceville-MI,Michigan,26125,Oakland,42.4484,-83.3372,,,1162.7,point,FALSE,America/Detroit,48336
+Elwell-MI,1840031596,Elwell,Elwell,MI,Elwell-MI,Michigan,26057,Gratiot,43.3875,-84.7458,,,60.1,point,FALSE,America/Detroit,48832
+Copper City-MI,1840013134,Copper City,Copper City,MI,Copper City-MI,Michigan,26061,Houghton,47.2842,-88.3877,187,187,856,polygon,TRUE,America/Detroit,49917
+Boyne City-MI,1840003943,Boyne City,Boyne City,MI,Boyne City-MI,Michigan,26029,Charlevoix,45.2136,-85.0129,3506,3740,355,polygon,TRUE,America/Detroit,49712
+Watervliet-MI,1840003214,Watervliet,Watervliet,MI,Watervliet-MI,Michigan,26021,Berrien,42.1883,-86.2578,1680,1680,546,polygon,TRUE,America/Detroit,49098
+Linden-MI,1840002952,Linden,Linden,MI,Linden-MI,Michigan,26049,Genesee,42.8194,-83.7811,3862,3862,632,polygon,TRUE,America/Detroit,48451
+Bridgman-MI,1840003216,Bridgman,Bridgman,MI,Bridgman-MI,Michigan,26021,Berrien,41.9397,-86.5653,2253,2253,300,polygon,TRUE,America/Detroit,49106
+Saint Clair-MI,1840003954,Saint Clair,Saint Clair,MI,Saint Clair-MI,Michigan,26147,St. Clair,42.8262,-82.4929,5367,5367,707,polygon,TRUE,America/Detroit,48079
+Levering-MI,1840025186,Levering,Levering,MI,Levering-MI,Michigan,26047,Emmet,45.6348,-84.7837,,,182.9,polygon,FALSE,America/Detroit,49755
+Pontiac-MI,1840002427,Pontiac,Pontiac,MI,Pontiac-MI,Michigan,26125,Oakland,42.6493,-83.2878,59698,59698,1154,polygon,TRUE,America/Detroit,48342 48340 48341 48343
+Baraga-MI,1840010914,Baraga,Baraga,MI,Baraga-MI,Michigan,26013,Baraga,46.7768,-88.4959,1995,1995,355,polygon,TRUE,America/Detroit,49908
+Ossineke-MI,1840006574,Ossineke,Ossineke,MI,Ossineke-MI,Michigan,26007,Alpena,44.9072,-83.4287,,,138.9,polygon,FALSE,America/Detroit,49766
+Manistee-MI,1840002511,Manistee,Manistee,MI,Manistee-MI,Michigan,26101,Manistee,44.244,-86.3246,9345,6057,711,polygon,TRUE,America/Detroit,49660
+DeWitt-MI,1840003077,DeWitt,DeWitt,MI,DeWitt-MI,Michigan,26037,Clinton,42.8362,-84.575,4719,4719,637,polygon,TRUE,America/Detroit,48820
+Painesdale-MI,1840031663,Painesdale,Painesdale,MI,Painesdale-MI,Michigan,26061,Houghton,47.0433,-88.6723,,,292.6,point,FALSE,America/Detroit,49955
+Rock-MI,1840031674,Rock,Rock,MI,Rock-MI,Michigan,26041,Delta,46.0688,-87.166,,,34.9,point,FALSE,America/Detroit,49880
+Buckley-MI,1840010022,Buckley,Buckley,MI,Buckley-MI,Michigan,26165,Wexford,44.5033,-85.6717,705,705,153,polygon,TRUE,America/Detroit,49620
+Elk Rapids-MI,1840010923,Elk Rapids,Elk Rapids,MI,Elk Rapids-MI,Michigan,26009,Antrim,44.895,-85.4055,1614,1614,377,polygon,TRUE,America/Detroit,49629
+Eaton Rapids-MI,1840003108,Eaton Rapids,Eaton Rapids,MI,Eaton Rapids-MI,Michigan,26045,Eaton,42.5093,-84.6528,5423,5229,585,polygon,TRUE,America/Detroit,48827
+Vassar-MI,1840002686,Vassar,Vassar,MI,Vassar-MI,Michigan,26157,Tuscola,43.372,-83.5769,3574,2596,471,polygon,TRUE,America/Detroit,48768
+Peck-MI,1840010982,Peck,Peck,MI,Peck-MI,Michigan,26151,Sanilac,43.2587,-82.8169,603,603,221,polygon,TRUE,America/Detroit,48466
+Sparta-MI,1840011006,Sparta,Sparta,MI,Sparta-MI,Michigan,26081,Kent,43.1575,-85.7091,4232,4337,679,polygon,TRUE,America/Detroit,49345
+Kinross-MI,1840031633,Kinross,Kinross,MI,Kinross-MI,Michigan,26033,Chippewa,46.275,-84.5148,,,35.4,point,FALSE,America/Detroit,49752
+Rockford-MI,1840002924,Rockford,Rockford,MI,Rockford-MI,Michigan,26081,Kent,43.1267,-85.5582,6229,6229,740,polygon,TRUE,America/Detroit,49341 49351
+Central-MI,1840031576,Central,Central,MI,Central-MI,Michigan,26083,Keweenaw,47.4071,-88.2007,,,1,point,FALSE,America/Detroit,49950
+Waldron-MI,1840011381,Waldron,Waldron,MI,Waldron-MI,Michigan,26059,Hillsdale,41.7242,-84.4189,531,531,205,polygon,TRUE,America/Detroit,49288
+Idlewild-MI,1840031724,Idlewild,Idlewild,MI,Idlewild-MI,Michigan,26085,Lake,43.887,-85.8026,,,96.7,point,FALSE,America/Detroit,49304
+Imlay City-MI,1840002895,Imlay City,Imlay City,MI,Imlay City-MI,Michigan,26087,Lapeer,43.0168,-83.0765,3772,3579,583,polygon,TRUE,America/Detroit,48444
+Bridgeport-MI,1840004227,Bridgeport,Bridgeport,MI,Bridgeport-MI,Michigan,26145,Saginaw,43.3706,-83.8828,,,290.7,polygon,FALSE,America/Detroit,48722 48601
+Rudyard-MI,1840031737,Rudyard,Rudyard,MI,Rudyard-MI,Michigan,26033,Chippewa,46.2325,-84.6003,,,132.1,point,FALSE,America/Detroit,49780
+North Adams-MI,1840011380,North Adams,North Adams,MI,North Adams-MI,Michigan,26059,Hillsdale,41.9709,-84.5252,469,469,349,polygon,TRUE,America/Detroit,49262
+Coopersville-MI,1840002993,Coopersville,Coopersville,MI,Coopersville-MI,Michigan,26139,Ottawa,43.0658,-85.9341,3994,4321,346,polygon,TRUE,America/Detroit,49404
+Bruce Crossing-MI,1840031573,Bruce Crossing,Bruce Crossing,MI,Bruce Crossing-MI,Michigan,26131,Ontonagon,46.5349,-89.1788,,,54.8,point,FALSE,America/Detroit,49912
+Prudenville-MI,1840004092,Prudenville,Prudenville,MI,Prudenville-MI,Michigan,26143,Roscommon,44.3015,-84.6652,,,431.3,polygon,FALSE,America/Detroit,48651
+Port Sanilac-MI,1840010979,Port Sanilac,Port Sanilac,MI,Port Sanilac-MI,Michigan,26151,Sanilac,43.4286,-82.5446,595,595,286,polygon,TRUE,America/Detroit,48469
+Ionia-MI,1840003075,Ionia,Ionia,MI,Ionia-MI,Michigan,26067,Ionia,42.9772,-85.0725,14289,11300,815,polygon,TRUE,America/Detroit,48846
+Tustin-MI,1840010953,Tustin,Tustin,MI,Tustin-MI,Michigan,26133,Osceola,44.1007,-85.4588,227,227,226,polygon,TRUE,America/Detroit,49688
+Lake Ann-MI,1840010932,Lake Ann,Lake Ann,MI,Lake Ann-MI,Michigan,26019,Benzie,44.725,-85.8449,267,267,229,polygon,TRUE,America/Detroit,49650
+Honor-MI,1840010933,Honor,Honor,MI,Honor-MI,Michigan,26019,Benzie,44.6666,-86.0201,327,327,234,polygon,TRUE,America/Detroit,49640
+Woodland-MI,1840011091,Woodland,Woodland,MI,Woodland-MI,Michigan,26015,Barry,42.7271,-85.1352,426,426,201,polygon,TRUE,America/Detroit,48897
+Greilickville-MI,1840006573,Greilickville,Greilickville,MI,Greilickville-MI,Michigan,26089,Leelanau,44.8049,-85.663,,,149,polygon,FALSE,America/Detroit,49684
+Custer-MI,1840010945,Custer,Custer,MI,Custer-MI,Michigan,26105,Mason,43.9505,-86.2182,286,286,112,polygon,TRUE,America/Detroit,49405
+Battle Creek-MI,1840003176,Battle Creek,Battle Creek,MI,Battle Creek-MI,Michigan,26025,Calhoun,42.2985,-85.2295,77174,51534,467,polygon,TRUE,America/Detroit,49015 49037 49016 49018
+Covert-MI,1840031585,Covert,Covert,MI,Covert-MI,Michigan,26159,Van Buren,42.2936,-86.2622,,,280.2,point,FALSE,America/Detroit,49043
+McMillan-MI,1840031643,McMillan,McMillan,MI,McMillan-MI,Michigan,26095,Luce,46.3389,-85.6873,,,106.2,point,FALSE,America/Detroit,49853
+Grosse Pointe Woods-MI,1840003979,Grosse Pointe Woods,Grosse Pointe Woods,MI,Grosse Pointe Woods-MI,Michigan,26163,Wayne,42.4366,-82.8989,15639,15639,1858,polygon,TRUE,America/Detroit,48236
+Mikado-MI,1840031646,Mikado,Mikado,MI,Mikado-MI,Michigan,26001,Alcona,44.5908,-83.4227,,,39.4,point,FALSE,America/Detroit,48745
+Lansing-MI,1840003102,Lansing,Lansing,MI,Lansing-MI,Michigan,26065,Ingham,42.7142,-84.5598,318278,116020,1144,polygon,TRUE,America/Detroit,48933 48915 48912 48911 48910 48921 48906 48901 48908 48909 48913 48916 48918 48919 48922 48924 48929 48930 48937 48951 48956 48980
+Lake George-MI,1840031635,Lake George,Lake George,MI,Lake George-MI,Michigan,26035,Clare,43.9634,-84.947,,,145.4,point,FALSE,America/Detroit,48632
+Hart-MI,1840002662,Hart,Hart,MI,Hart-MI,Michigan,26127,Oceana,43.6949,-86.3696,2507,2086,421,polygon,TRUE,America/Detroit,49420
+Hermansville-MI,1840031622,Hermansville,Hermansville,MI,Hermansville-MI,Michigan,26109,Menominee,45.7111,-87.6021,,,427.9,point,FALSE,America/Menominee,49847
+Whitmore Lake-MI,1840006923,Whitmore Lake,Whitmore Lake,MI,Whitmore Lake-MI,Michigan,26093,Livingston,42.4235,-83.7524,,,798.6,polygon,FALSE,America/Detroit,48189
+Suttons Bay-MI,1840013141,Suttons Bay,Suttons Bay,MI,Suttons Bay-MI,Michigan,26089,Leelanau,44.9795,-85.6507,620,620,191,polygon,TRUE,America/Detroit,49682
+Walloon Lake-MI,1840025194,Walloon Lake,Walloon Lake,MI,Walloon Lake-MI,Michigan,26029,Charlevoix,45.2718,-84.9412,,,125,polygon,FALSE,America/Detroit,49796 49713
+Ferrysburg-MI,1840002994,Ferrysburg,Ferrysburg,MI,Ferrysburg-MI,Michigan,26139,Ottawa,43.085,-86.2221,3001,3001,387,polygon,TRUE,America/Detroit,49456 49409
+Bellaire-MI,1840010922,Bellaire,Bellaire,MI,Bellaire-MI,Michigan,26009,Antrim,44.9737,-85.2058,1064,1064,223,polygon,TRUE,America/Detroit,49615
+Bay View-MI,1840031566,Bay View,Bay View,MI,Bay View-MI,Michigan,26047,Emmet,45.3859,-84.9292,,,34.1,polygon,FALSE,America/Detroit,49770
+Horton Bay-MI,1840025191,Horton Bay,Horton Bay,MI,Horton Bay-MI,Michigan,26029,Charlevoix,45.2814,-85.0742,,,39.5,polygon,FALSE,America/Detroit,49720 49712
+Vicksburg-MI,1840011213,Vicksburg,Vicksburg,MI,Vicksburg-MI,Michigan,26077,Kalamazoo,42.1185,-85.5413,3283,3283,417,polygon,TRUE,America/Detroit,49097
+Applegate-MI,1840010052,Applegate,Applegate,MI,Applegate-MI,Michigan,26151,Sanilac,43.3554,-82.6371,237,237,91,polygon,TRUE,America/Detroit,48401
+Gibraltar-MI,1840003975,Gibraltar,Gibraltar,MI,Gibraltar-MI,Michigan,26163,Wayne,42.096,-83.2029,4496,4496,471,polygon,TRUE,America/Detroit,48183 48173
+Eagle River-MI,1840027031,Eagle River,Eagle River,MI,Eagle River-MI,Michigan,26083,Keweenaw,47.41,-88.2645,,,56.5,polygon,FALSE,America/Detroit,49950
+Stalwart-MI,1840031707,Stalwart,Stalwart,MI,Stalwart-MI,Michigan,26033,Chippewa,46.0981,-84.2386,,,6.2,point,FALSE,America/Detroit,49736
+Cedar Springs-MI,1840002926,Cedar Springs,Cedar Springs,MI,Cedar Springs-MI,Michigan,26081,Kent,43.2198,-85.553,3724,3651,694,polygon,TRUE,America/Detroit,49319
+Trenary-MI,1840031740,Trenary,Trenary,MI,Trenary-MI,Michigan,26003,Alger,46.1952,-86.9699,,,143.5,point,FALSE,America/Detroit,49891
+Eastport-MI,1840023915,Eastport,Eastport,MI,Eastport-MI,Michigan,26009,Antrim,45.1112,-85.3518,,,86.4,polygon,FALSE,America/Detroit,49627 49622
+Freda-MI,1840031602,Freda,Freda,MI,Freda-MI,Michigan,26061,Houghton,47.1352,-88.8187,,,53.7,point,FALSE,America/Detroit,49905
+Southgate-MI,1840003964,Southgate,Southgate,MI,Southgate-MI,Michigan,26163,Wayne,42.2047,-83.2058,29085,29085,1640,polygon,TRUE,America/Detroit,48195
+Mineral Hills-MI,1840031729,Mineral Hills,Mineral Hills,MI,Mineral Hills-MI,Michigan,26071,Iron,46.1133,-88.6479,,,59.4,point,FALSE,America/Menominee,49935
+Berrien Springs-MI,1840011224,Berrien Springs,Berrien Springs,MI,Berrien Springs-MI,Michigan,26021,Berrien,41.9474,-86.3406,7162,1752,721,polygon,TRUE,America/Detroit,49103
+Bitely-MI,1840031713,Bitely,Bitely,MI,Bitely-MI,Michigan,26123,Newaygo,43.747,-85.8617,,,218.5,point,FALSE,America/Detroit,49309
+Estral Beach-MI,1840013157,Estral Beach,Estral Beach,MI,Estral Beach-MI,Michigan,26115,Monroe,41.9864,-83.2361,407,407,341,polygon,TRUE,America/Detroit,48166
+Brooklyn-MI,1840010118,Brooklyn,Brooklyn,MI,Brooklyn-MI,Michigan,26075,Jackson,42.1057,-84.249,2740,1192,456,polygon,TRUE,America/Detroit,49230
+Indiantown-MI,1840031628,Indiantown,Indiantown,MI,Indiantown-MI,Michigan,26145,Saginaw,43.4722,-83.8366,,,61.4,point,FALSE,America/Detroit,48601
+Bete Grise-MI,1840031570,Bete Grise,Bete Grise,MI,Bete Grise-MI,Michigan,26083,Keweenaw,47.3888,-87.9551,,,1.7,point,FALSE,America/Detroit,49950
+Caro-MI,1840010048,Caro,Caro,MI,Caro-MI,Michigan,26157,Tuscola,43.4895,-83.4021,4913,4064,561,polygon,TRUE,America/Detroit,48723
+Sunfield-MI,1840011086,Sunfield,Sunfield,MI,Sunfield-MI,Michigan,26045,Eaton,42.7615,-84.9951,584,584,282,polygon,TRUE,America/Detroit,48890
+McBride-MI,1840010993,McBride,McBride,MI,McBride-MI,Michigan,26117,Montcalm,43.352,-85.0442,206,206,207,polygon,TRUE,America/Detroit,48829 48852
+Rawsonville-MI,1840031670,Rawsonville,Rawsonville,MI,Rawsonville-MI,Michigan,26161,Washtenaw,42.2153,-83.5516,,,658.4,point,FALSE,America/Detroit,48198
+Haslett-MI,1840004500,Haslett,Haslett,MI,Haslett-MI,Michigan,26065,Ingham,42.7525,-84.4019,,,689.6,polygon,FALSE,America/Detroit,48840 48823
+Niles-MI,1840003212,Niles,Niles,MI,Niles-MI,Michigan,26021,Berrien,41.8347,-86.2472,11257,11257,750,polygon,TRUE,America/Detroit,49120
+Mohawk-MI,1840031648,Mohawk,Mohawk,MI,Mohawk-MI,Michigan,26083,Keweenaw,47.3038,-88.3648,,,442.3,point,FALSE,America/Detroit,49950
+Eastlawn-MI,1840031592,Eastlawn,Eastlawn,MI,Eastlawn-MI,Michigan,26161,Washtenaw,42.2356,-83.588,,,1692.1,point,FALSE,America/Detroit,48198
+Princeton-MI,1840031669,Princeton,Princeton,MI,Princeton-MI,Michigan,26103,Marquette,46.2888,-87.4751,,,31.4,point,FALSE,America/Detroit,49841
+Ovid-MI,1840011026,Ovid,Ovid,MI,Ovid-MI,Michigan,26037,Clinton,43.0032,-84.3741,1613,1613,688,polygon,TRUE,America/Detroit,48866
+Grawn-MI,1840025203,Grawn,Grawn,MI,Grawn-MI,Michigan,26055,Grand Traverse,44.6611,-85.6881,,,397.8,polygon,FALSE,America/Detroit,49637
+Saint Louis-MI,1840002878,Saint Louis,Saint Louis,MI,Saint Louis-MI,Michigan,26057,Gratiot,43.4082,-84.6116,7060,7060,815,polygon,TRUE,America/Detroit,48880
+Merrill-MI,1840010985,Merrill,Merrill,MI,Merrill-MI,Michigan,26145,Saginaw,43.4091,-84.3346,738,738,407,polygon,TRUE,America/Detroit,48637
+Moddersville-MI,1840031704,Moddersville,Moddersville,MI,Moddersville-MI,Michigan,26113,Missaukee,44.2203,-84.9525,,,5.9,point,FALSE,America/Detroit,49632
+Trowbridge Park-MI,1840006571,Trowbridge Park,Trowbridge Park,MI,Trowbridge Park-MI,Michigan,26103,Marquette,46.5565,-87.4417,,,708.6,polygon,FALSE,America/Detroit,49855
+Brimley-MI,1840031715,Brimley,Brimley,MI,Brimley-MI,Michigan,26033,Chippewa,46.4053,-84.5723,,,252.6,point,FALSE,America/Detroit,49715
+Sterling Heights-MI,1840003094,Sterling Heights,Sterling Heights,MI,Sterling Heights-MI,Michigan,26099,Macomb,42.581,-83.0304,132427,132427,1400,polygon,TRUE,America/Detroit,48310 48313 48312 48314 48311
+Onekama-MI,1840010940,Onekama,Onekama,MI,Onekama-MI,Michigan,26101,Manistee,44.3656,-86.2021,405,405,268,polygon,TRUE,America/Detroit,49675
+Goodrich-MI,1840011007,Goodrich,Goodrich,MI,Goodrich-MI,Michigan,26049,Genesee,42.9147,-83.5092,5815,1846,324,polygon,TRUE,America/Detroit,48438
+Conway-MI,1840025184,Conway,Conway,MI,Conway-MI,Michigan,26047,Emmet,45.4189,-84.8633,,,43.3,polygon,FALSE,America/Detroit,49722 49770 49706
+Marshall-MI,1840003177,Marshall,Marshall,MI,Marshall-MI,Michigan,26025,Calhoun,42.2619,-84.9599,7625,7035,424,polygon,TRUE,America/Detroit,49068
+Grand Blanc-MI,1840002951,Grand Blanc,Grand Blanc,MI,Grand Blanc-MI,Michigan,26049,Genesee,42.9258,-83.6182,7954,7954,849,polygon,TRUE,America/Detroit,48439 48480
+Thomaston-MI,1840031739,Thomaston,Thomaston,MI,Thomaston-MI,Michigan,26053,Gogebic,46.5163,-89.9274,,,17,point,FALSE,America/Menominee,49968
+Whitehall-MI,1840000366,Whitehall,Whitehall,MI,Whitehall-MI,Michigan,26121,Muskegon,43.4004,-86.3406,10635,2723,328,polygon,TRUE,America/Detroit,49461
+Saint Clair Haven-MI,1840031678,Saint Clair Haven,Saint Clair Haven,MI,Saint Clair Haven-MI,Michigan,26099,Macomb,42.5834,-82.7902,,,1380.7,point,FALSE,America/Detroit,48045
+Salem-MI,1840031679,Salem,Salem,MI,Salem-MI,Michigan,26161,Washtenaw,42.4061,-83.5799,,,138.6,point,FALSE,America/Detroit,48168
+New Troy-MI,1840025506,New Troy,New Troy,MI,New Troy-MI,Michigan,26021,Berrien,41.879,-86.5474,,,243.4,polygon,FALSE,America/Detroit,49119 49125
+Naubinway-MI,1840031651,Naubinway,Naubinway,MI,Naubinway-MI,Michigan,26097,Mackinac,46.0925,-85.4476,,,145.1,point,FALSE,America/Detroit,49762
+Harrison-MI,1840002562,Harrison,Harrison,MI,Harrison-MI,Michigan,26035,Clare,44.0168,-84.808,3524,2076,215,polygon,TRUE,America/Detroit,48625
+Auburn Hills-MI,1840002436,Auburn Hills,Auburn Hills,MI,Auburn Hills-MI,Michigan,26125,Oakland,42.6734,-83.2447,22795,22795,530,polygon,TRUE,America/Detroit,48326 48321
+Edwardsburg-MI,1840011386,Edwardsburg,Edwardsburg,MI,Edwardsburg-MI,Michigan,26027,Cass,41.7965,-86.0835,1222,1222,516,polygon,TRUE,America/Detroit,49112
+Tawas City-MI,1840002516,Tawas City,Tawas City,MI,Tawas City-MI,Michigan,26069,Iosco,44.2677,-83.5248,1787,1787,401,polygon,TRUE,America/Detroit,48763 48764
+East Tawas-MI,1840002517,East Tawas,East Tawas,MI,East Tawas-MI,Michigan,26069,Iosco,44.2883,-83.4846,4281,2750,373,polygon,TRUE,America/Detroit,48730
+Alto-MI,1840031560,Alto,Alto,MI,Alto-MI,Michigan,26081,Kent,42.8567,-85.3803,,,105.9,point,FALSE,America/Detroit,49302
+South Monroe-MI,1840006577,South Monroe,South Monroe,MI,South Monroe-MI,Michigan,26115,Monroe,41.893,-83.4179,,,720.7,polygon,FALSE,America/Detroit,48161
+Breedsville-MI,1840010120,Breedsville,Breedsville,MI,Breedsville-MI,Michigan,26159,Van Buren,42.3489,-86.0718,197,197,116,polygon,TRUE,America/Detroit,49056 49027
+Ravenna-MI,1840010989,Ravenna,Ravenna,MI,Ravenna-MI,Michigan,26121,Muskegon,43.1888,-85.9415,1219,1219,387,polygon,TRUE,America/Detroit,49451
+Fowlerville-MI,1840011078,Fowlerville,Fowlerville,MI,Fowlerville-MI,Michigan,26093,Livingston,42.6595,-84.0744,3832,2916,480,polygon,TRUE,America/Detroit,48836
+Athens-MI,1840011200,Athens,Athens,MI,Athens-MI,Michigan,26025,Calhoun,42.0866,-85.2356,1005,1005,385,polygon,TRUE,America/Detroit,49011
+Iron River-MI,1840001972,Iron River,Iron River,MI,Iron River-MI,Michigan,26071,Iron,46.0966,-88.6396,3032,2864,164,polygon,TRUE,America/Menominee,49935 49964
+Springport-MI,1840011199,Springport,Springport,MI,Springport-MI,Michigan,26075,Jackson,42.3783,-84.6965,785,785,240,polygon,TRUE,America/Detroit,49284
+North Epworth-MI,1840031654,North Epworth,North Epworth,MI,North Epworth-MI,Michigan,26105,Mason,43.9781,-86.4668,,,51.5,point,FALSE,America/Detroit,49431
+Bad Axe-MI,1840003951,Bad Axe,Bad Axe,MI,Bad Axe-MI,Michigan,26063,Huron,43.804,-82.9984,3323,2980,508,polygon,TRUE,America/Detroit,48413
+Twin Lake-MI,1840004236,Twin Lake,Twin Lake,MI,Twin Lake-MI,Michigan,26121,Muskegon,43.3695,-86.1805,,,534.7,polygon,FALSE,America/Detroit,49457
+Mendon-MI,1840011384,Mendon,Mendon,MI,Mendon-MI,Michigan,26149,St. Joseph,42.0089,-85.4548,856,856,325,polygon,TRUE,America/Detroit,49072
+Stony Creek-MI,1840031687,Stony Creek,Stony Creek,MI,Stony Creek-MI,Michigan,26161,Washtenaw,42.1559,-83.6527,,,126.5,point,FALSE,America/Detroit,48197
+Temperance-MI,1840006579,Temperance,Temperance,MI,Temperance-MI,Michigan,26115,Monroe,41.7653,-83.5755,,,1309.6,polygon,FALSE,America/Detroit,48182
+Perrinton-MI,1840010998,Perrinton,Perrinton,MI,Perrinton-MI,Michigan,26057,Gratiot,43.1807,-84.6793,397,397,242,polygon,TRUE,America/Detroit,48871
+Hope-MI,1840031624,Hope,Hope,MI,Hope-MI,Michigan,26111,Midland,43.7645,-84.3381,,,31.7,point,FALSE,America/Detroit,48628
+Lowell-MI,1840002931,Lowell,Lowell,MI,Lowell-MI,Michigan,26081,Kent,42.9351,-85.3457,7272,4044,543,polygon,TRUE,America/Detroit,49331
+Midland Park-MI,1840031645,Midland Park,Midland Park,MI,Midland Park-MI,Michigan,26077,Kalamazoo,42.3909,-85.3856,,,387.5,point,FALSE,America/Detroit,49060
+Oak Hill-MI,1840023963,Oak Hill,Oak Hill,MI,Oak Hill-MI,Michigan,26101,Manistee,44.2197,-86.3031,,,574.5,polygon,FALSE,America/Detroit,49660
+Garden-MI,1840013135,Garden,Garden,MI,Garden-MI,Michigan,26041,Delta,45.7731,-86.553,216,216,102,polygon,TRUE,America/Detroit,49835
+Willow Run-MI,1840031699,Willow Run,Willow Run,MI,Willow Run-MI,Michigan,26161,Washtenaw,42.2573,-83.5744,,,296.8,point,FALSE,America/Detroit,48198
+Nashville-MI,1840011090,Nashville,Nashville,MI,Nashville-MI,Michigan,26015,Barry,42.6031,-85.094,1641,1641,298,polygon,TRUE,America/Detroit,49073
+Otisville-MI,1840011009,Otisville,Otisville,MI,Otisville-MI,Michigan,26049,Genesee,43.1661,-83.5247,827,827,362,polygon,TRUE,America/Detroit,48463
+Frederic-MI,1840031603,Frederic,Frederic,MI,Frederic-MI,Michigan,26039,Crawford,44.7786,-84.7545,,,279.5,point,FALSE,America/Detroit,49733
+Fairview-MI,1840031721,Fairview,Fairview,MI,Fairview-MI,Michigan,26135,Oscoda,44.725,-84.0511,,,108.3,point,FALSE,America/Detroit,48621
+Garden City-MI,1840003974,Garden City,Garden City,MI,Garden City-MI,Michigan,26163,Wayne,42.3244,-83.3412,26719,26719,1757,polygon,TRUE,America/Detroit,48135 48136
+East Rockwood-MI,1840031591,East Rockwood,East Rockwood,MI,East Rockwood-MI,Michigan,26163,Wayne,42.0484,-83.2108,,,322.5,point,FALSE,America/Detroit,48173
+Britton-MI,1840010151,Britton,Britton,MI,Britton-MI,Michigan,26091,Lenawee,41.9876,-83.8305,566,566,277,polygon,TRUE,America/Detroit,49229
+Beaverton-MI,1840002563,Beaverton,Beaverton,MI,Beaverton-MI,Michigan,26051,Gladwin,43.8811,-84.4886,1048,1048,393,polygon,TRUE,America/Detroit,48612
+Grosse Pointe Park-MI,1840003978,Grosse Pointe Park,Grosse Pointe Park,MI,Grosse Pointe Park-MI,Michigan,26163,Wayne,42.3794,-82.9288,11126,11126,1980,polygon,TRUE,America/Toronto,48230
+Snover-MI,1840025432,Snover,Snover,MI,Snover-MI,Michigan,26151,Sanilac,43.4653,-82.9709,,,171.3,polygon,FALSE,America/Detroit,48472
+Alma-MI,1840002879,Alma,Alma,MI,Alma-MI,Michigan,26057,Gratiot,43.38,-84.6556,16502,9149,596,polygon,TRUE,America/Detroit,48801
+Dollar Bay-MI,1840026078,Dollar Bay,Dollar Bay,MI,Dollar Bay-MI,Michigan,26061,Houghton,47.1264,-88.5079,,,109.8,polygon,FALSE,America/Detroit,49922 49930
+Edgewater Heights-MI,1840031594,Edgewater Heights,Edgewater Heights,MI,Edgewater Heights-MI,Michigan,26163,Wayne,42.2039,-83.5119,,,362.6,point,FALSE,America/Detroit,48111
+Freeport-MI,1840011088,Freeport,Freeport,MI,Freeport-MI,Michigan,26015,Barry,42.7642,-85.3158,484,484,240,polygon,TRUE,America/Detroit,49325
+Glennie-MI,1840031609,Glennie,Glennie,MI,Glennie-MI,Michigan,26001,Alcona,44.5606,-83.7258,,,13.8,point,FALSE,America/Detroit,48737
+Wakefield-MI,1840001940,Wakefield,Wakefield,MI,Wakefield-MI,Michigan,26053,Gogebic,46.4766,-89.934,1709,1709,82,polygon,TRUE,America/Menominee,49968
+Wyandotte-MI,1840001849,Wyandotte,Wyandotte,MI,Wyandotte-MI,Michigan,26163,Wayne,42.2114,-83.1558,24955,24955,1811,polygon,TRUE,America/Detroit,48192
+Kipling-MI,1840031726,Kipling,Kipling,MI,Kipling-MI,Michigan,26041,Delta,45.8733,-87.0118,,,203,point,FALSE,America/Detroit,49837
+New Buffalo-MI,1840003211,New Buffalo,New Buffalo,MI,New Buffalo-MI,Michigan,26021,Berrien,41.7922,-86.7422,1872,1872,288,polygon,TRUE,America/Detroit,49117
+Wixom-MI,1840000407,Wixom,Wixom,MI,Wixom-MI,Michigan,26125,Oakland,42.5244,-83.5347,13758,13758,580,polygon,TRUE,America/Detroit,48393
+Saint Johns-MI,1840003076,Saint Johns,Saint Johns,MI,Saint Johns-MI,Michigan,26037,Clinton,43.0008,-84.5557,8491,7928,790,polygon,TRUE,America/Detroit,48879
+East Jordan-MI,1840003945,East Jordan,East Jordan,MI,East Jordan-MI,Michigan,26029,Charlevoix,45.1547,-85.13,2348,2348,297,polygon,TRUE,America/Detroit,49727
+Fairport-MI,1840031598,Fairport,Fairport,MI,Fairport-MI,Michigan,26041,Delta,45.6211,-86.6585,,,19.4,point,FALSE,America/Detroit,49835
+Clarkston-MI,1840031582,Clarkston,Clarkston,MI,Clarkston-MI,Michigan,26125,Oakland,42.7359,-83.4188,,,988.6,point,TRUE,America/Detroit,48346
+Lathrup Village-MI,1840002448,Lathrup Village,Lathrup Village,MI,Lathrup Village-MI,Michigan,26125,Oakland,42.4921,-83.2273,4119,4119,1059,polygon,TRUE,America/Detroit,48076
+Port Huron-MI,1840003953,Port Huron,Port Huron,MI,Port Huron-MI,Michigan,26147,St. Clair,42.9823,-82.4387,84361,29231,1394,polygon,TRUE,America/Detroit,48060 48061
+Muir-MI,1840011020,Muir,Muir,MI,Muir-MI,Michigan,26067,Ionia,42.9973,-84.9359,606,606,328,polygon,TRUE,America/Detroit,48860 48851
+Smyrna-MI,1840031686,Smyrna,Smyrna,MI,Smyrna-MI,Michigan,26067,Ionia,43.0595,-85.2628,,,130.6,point,FALSE,America/Detroit,48809
+Parma-MI,1840011198,Parma,Parma,MI,Parma-MI,Michigan,26075,Jackson,42.2634,-84.5795,755,755,274,polygon,TRUE,America/Detroit,49269
+Perkins-MI,1840031734,Perkins,Perkins,MI,Perkins-MI,Michigan,26041,Delta,45.9777,-87.0718,,,28.2,point,FALSE,America/Detroit,49872
+Carsonville-MI,1840010051,Carsonville,Carsonville,MI,Carsonville-MI,Michigan,26151,Sanilac,43.4258,-82.673,503,503,171,polygon,TRUE,America/Detroit,48419
+Allen Park-MI,1840003967,Allen Park,Allen Park,MI,Allen Park-MI,Michigan,26163,Wayne,42.2597,-83.2107,27214,27214,1500,polygon,TRUE,America/Detroit,48101
+Winn-MI,1840031700,Winn,Winn,MI,Winn-MI,Michigan,26073,Isabella,43.5234,-84.9017,,,197.5,point,FALSE,America/Detroit,48896
+Portland-MI,1840003073,Portland,Portland,MI,Portland-MI,Michigan,26067,Ionia,42.8696,-84.899,5089,3936,573,polygon,TRUE,America/Detroit,48875
+Reed City-MI,1840002559,Reed City,Reed City,MI,Reed City-MI,Michigan,26133,Osceola,43.8723,-85.5066,2385,2385,444,polygon,TRUE,America/Detroit,49677
+Level Park-MI,1840031636,Level Park,Level Park,MI,Level Park-MI,Michigan,26025,Calhoun,42.3603,-85.2725,,,324,point,FALSE,America/Detroit,49037
+Middletown-MI,1840004364,Middletown,Middletown,MI,Middletown-MI,Michigan,26155,Shiawassee,42.9867,-84.1444,,,700.7,polygon,FALSE,America/Detroit,48867
+Big Bay-MI,1840006572,Big Bay,Big Bay,MI,Big Bay-MI,Michigan,26103,Marquette,46.8148,-87.6995,,,72.2,polygon,FALSE,America/Detroit,49855 49808
+Sheldon-MI,1840031683,Sheldon,Sheldon,MI,Sheldon-MI,Michigan,26163,Wayne,42.2748,-83.4758,,,83.5,point,FALSE,America/Detroit,48188
+Good Hart-MI,1840031710,Good Hart,Good Hart,MI,Good Hart-MI,Michigan,26047,Emmet,45.5672,-85.1131,,,14.5,point,FALSE,America/Detroit,49740
+Glen Arbor-MI,1840025197,Glen Arbor,Glen Arbor,MI,Glen Arbor-MI,Michigan,26089,Leelanau,44.896,-85.99,,,143.3,polygon,FALSE,America/Detroit,49636
+Rockwood-MI,1840003962,Rockwood,Rockwood,MI,Rockwood-MI,Michigan,26163,Wayne,42.0706,-83.2429,3176,3176,486,polygon,TRUE,America/Detroit,48173
+Stevensville-MI,1840011230,Stevensville,Stevensville,MI,Stevensville-MI,Michigan,26021,Berrien,42.0139,-86.5243,1119,1119,414,polygon,TRUE,America/Detroit,49127
+Luna Pier-MI,1840003989,Luna Pier,Luna Pier,MI,Luna Pier-MI,Michigan,26115,Monroe,41.8046,-83.443,1377,1377,354,polygon,TRUE,America/Detroit,48157 48133
+Vermontville-MI,1840011087,Vermontville,Vermontville,MI,Vermontville-MI,Michigan,26045,Eaton,42.627,-85.025,763,763,233,polygon,TRUE,America/Detroit,49096
+Bendon-MI,1840023945,Bendon,Bendon,MI,Bendon-MI,Michigan,26019,Benzie,44.637,-85.8378,,,38.9,polygon,FALSE,America/Detroit,49643
+Seney-MI,1840031682,Seney,Seney,MI,Seney-MI,Michigan,26153,Schoolcraft,46.3455,-85.9454,,,37.4,point,FALSE,America/Detroit,49883
+Argentine-MI,1840004342,Argentine,Argentine,MI,Argentine-MI,Michigan,26049,Genesee,42.7905,-83.8356,,,374.7,polygon,FALSE,America/Detroit,48451
+Sterling-MI,1840013144,Sterling,Sterling,MI,Sterling-MI,Michigan,26011,Arenac,44.0325,-84.0194,511,511,201,polygon,TRUE,America/Detroit,48659
+Milford-MI,1840011058,Milford,Milford,MI,Milford-MI,Michigan,26125,Oakland,42.5871,-83.6012,6471,6471,1027,polygon,TRUE,America/Detroit,48381
+Bellevue-MI,1840011083,Bellevue,Bellevue,MI,Bellevue-MI,Michigan,26045,Eaton,42.4443,-85.0187,1296,1296,492,polygon,TRUE,America/Detroit,49021
+Gay-MI,1840031605,Gay,Gay,MI,Gay-MI,Michigan,26083,Keweenaw,47.2274,-88.1637,,,52.5,point,FALSE,America/Detroit,49945
+Otsego-MI,1840003111,Otsego,Otsego,MI,Otsego-MI,Michigan,26005,Allegan,42.457,-85.6975,11864,3998,744,polygon,TRUE,America/Detroit,49078
+Huron Beach-MI,1840031709,Huron Beach,Huron Beach,MI,Huron Beach-MI,Michigan,26141,Presque Isle,45.4917,-84.0933,,,54.3,point,FALSE,America/Detroit,49759
+Newberry-MI,1840010916,Newberry,Newberry,MI,Newberry-MI,Michigan,26095,Luce,46.3538,-85.5098,3082,1452,571,polygon,TRUE,America/Detroit,49868
+Leonard-MI,1840011055,Leonard,Leonard,MI,Leonard-MI,Michigan,26125,Oakland,42.8651,-83.1425,414,414,166,polygon,TRUE,America/Detroit,48367
+Flint-MI,1840002949,Flint,Flint,MI,Flint-MI,Michigan,26049,Genesee,43.0235,-83.6921,338616,97386,1125,polygon,TRUE,America/Detroit,48553 48502 48551 48504 48505 48506 48507 48503 48501 48531 48550 48552 48555 48556 48557
+Marysville-MI,1840003957,Marysville,Marysville,MI,Marysville-MI,Michigan,26147,St. Clair,42.9085,-82.4806,9735,9735,514,polygon,TRUE,America/Detroit,48040
+Keweenaw Bay-MI,1840031632,Keweenaw Bay,Keweenaw Bay,MI,Keweenaw Bay-MI,Michigan,26013,Baraga,46.8602,-88.4818,,,67.6,point,FALSE,America/Detroit,49908
+Dearborn-MI,1840003969,Dearborn,Dearborn,MI,Dearborn-MI,Michigan,26163,Wayne,42.3127,-83.213,94444,94444,1504,polygon,TRUE,America/Detroit,48128 48120 48126 48124 48121 48123
+Pewamo-MI,1840011021,Pewamo,Pewamo,MI,Pewamo-MI,Michigan,26067,Ionia,43.002,-84.8473,476,476,184,polygon,TRUE,America/Detroit,48873
+National Mine-MI,1840031650,National Mine,National Mine,MI,National Mine-MI,Michigan,26103,Marquette,46.4585,-87.6815,,,129.1,point,FALSE,America/Detroit,49849
+Ramsay-MI,1840031735,Ramsay,Ramsay,MI,Ramsay-MI,Michigan,26053,Gogebic,46.4702,-89.9966,,,257.1,point,FALSE,America/Menominee,49959
+Farwell-MI,1840010954,Farwell,Farwell,MI,Farwell-MI,Michigan,26035,Clare,43.8362,-84.8678,853,853,243,polygon,TRUE,America/Detroit,48622
+Gould City-MI,1840031610,Gould City,Gould City,MI,Gould City-MI,Michigan,26097,Mackinac,46.0953,-85.6968,,,64.2,point,FALSE,America/Detroit,49838
+Pigeon-MI,1840013152,Pigeon,Pigeon,MI,Pigeon-MI,Michigan,26063,Huron,43.8298,-83.2698,1152,1152,517,polygon,TRUE,America/Detroit,48755
+Wacousta-MI,1840024060,Wacousta,Wacousta,MI,Wacousta-MI,Michigan,26037,Clinton,42.8202,-84.6907,,,63.6,polygon,FALSE,America/Detroit,48820 48837 48822
+Sturgis-MI,1840003254,Sturgis,Sturgis,MI,Sturgis-MI,Michigan,26149,St. Joseph,41.8003,-85.4184,12903,10879,645,polygon,TRUE,America/Detroit,49091
+Sawyer-MI,1840031680,Sawyer,Sawyer,MI,Sawyer-MI,Michigan,26021,Berrien,41.8853,-86.5895,,,56,point,FALSE,America/Detroit,49125
+Greenland-MI,1840031613,Greenland,Greenland,MI,Greenland-MI,Michigan,26131,Ontonagon,46.7794,-89.1018,,,53.6,point,FALSE,America/Detroit,49948
+Grandville-MI,1840002929,Grandville,Grandville,MI,Grandville-MI,Michigan,26081,Kent,42.9003,-85.7564,16002,16002,849,polygon,TRUE,America/Detroit,49418 49468
+Haring-MI,1840023969,Haring,Haring,MI,Haring-MI,Michigan,26165,Wexford,44.2821,-85.4005,,,62.4,polygon,FALSE,America/Detroit,49601
+Clarklake-MI,1840031581,Clarklake,Clarklake,MI,Clarklake-MI,Michigan,26075,Jackson,42.1214,-84.345,,,137.7,point,FALSE,America/Detroit,49234
+Inkster-MI,1840003983,Inkster,Inkster,MI,Inkster-MI,Michigan,26163,Wayne,42.2935,-83.3148,24462,24462,1510,polygon,TRUE,America/Detroit,48141
+Richmond-MI,1840003091,Richmond,Richmond,MI,Richmond-MI,Michigan,26099,Macomb,42.8094,-82.7517,6291,5876,794,polygon,TRUE,America/Detroit,48062
+Shingleton-MI,1840031684,Shingleton,Shingleton,MI,Shingleton-MI,Michigan,26003,Alger,46.3483,-86.4702,,,144.1,point,FALSE,America/Detroit,49884
+Cady-MI,1840031574,Cady,Cady,MI,Cady-MI,Michigan,26099,Macomb,42.5603,-82.9644,,,1527.9,point,FALSE,America/Detroit,48035
+Center Line-MI,1840002419,Center Line,Center Line,MI,Center Line-MI,Michigan,26099,Macomb,42.4805,-83.0273,8297,8297,1840,polygon,TRUE,America/Detroit,48015
+Troy-MI,1840002434,Troy,Troy,MI,Troy-MI,Michigan,26125,Oakland,42.5817,-83.1458,83641,83641,964,polygon,TRUE,America/Detroit,48098 48083 48085 48084 48007 48099
+Northland-MI,1840031705,Northland,Northland,MI,Northland-MI,Michigan,26103,Marquette,46.073,-87.5957,,,11,point,FALSE,America/Detroit,49831
+Jasper-MI,1840025507,Jasper,Jasper,MI,Jasper-MI,Michigan,26091,Lenawee,41.7859,-84.0403,,,196.1,polygon,FALSE,America/Detroit,49248
+Hubbard Lake-MI,1840031625,Hubbard Lake,Hubbard Lake,MI,Hubbard Lake-MI,Michigan,26007,Alpena,44.8736,-83.5872,,,63.6,point,FALSE,America/Detroit,49747
+Westwood-MI,1840006978,Westwood,Westwood,MI,Westwood-MI,Michigan,26077,Kalamazoo,42.303,-85.6286,,,1493.3,polygon,FALSE,America/Detroit,49006
+Ithaca-MI,1840002880,Ithaca,Ithaca,MI,Ithaca-MI,Michigan,26057,Gratiot,43.2909,-84.5957,2823,2823,193,polygon,TRUE,America/Detroit,48847
+Fairgrove-MI,1840010970,Fairgrove,Fairgrove,MI,Fairgrove-MI,Michigan,26157,Tuscola,43.5245,-83.5434,539,539,185,polygon,TRUE,America/Detroit,48733
+Warren-MI,1840002418,Warren,Warren,MI,Warren-MI,Michigan,26099,Macomb,42.4934,-83.027,135125,135125,1517,polygon,TRUE,America/Detroit,48093 48091 48092 48089 48088 48397 48090
+Fife Lake-MI,1840013143,Fife Lake,Fife Lake,MI,Fife Lake-MI,Michigan,26055,Grand Traverse,44.5731,-85.3511,469,469,241,polygon,TRUE,America/Detroit,49633
+Perry-MI,1840003069,Perry,Perry,MI,Perry-MI,Michigan,26155,Shiawassee,42.822,-84.2304,4123,2103,312,polygon,TRUE,America/Detroit,48872
+Pellston-MI,1840013137,Pellston,Pellston,MI,Pellston-MI,Michigan,26047,Emmet,45.5517,-84.7829,828,828,167,polygon,TRUE,America/Detroit,49769
+Carp Lake-MI,1840025183,Carp Lake,Carp Lake,MI,Carp Lake-MI,Michigan,26047,Emmet,45.689,-84.7582,,,100.4,polygon,FALSE,America/Detroit,49755 49718
+Deerton-MI,1840031718,Deerton,Deerton,MI,Deerton-MI,Michigan,26003,Alger,46.4744,-87.0421,,,6.5,point,FALSE,America/Detroit,49822
+Northview-MI,1840004305,Northview,Northview,MI,Northview-MI,Michigan,26081,Kent,43.0427,-85.6016,,,1113.4,polygon,FALSE,America/Detroit,49525
+Twining-MI,1840013146,Twining,Twining,MI,Twining-MI,Michigan,26011,Arenac,44.1131,-83.8075,174,174,69,polygon,TRUE,America/Detroit,48766
+Mason-MI,1840003104,Mason,Mason,MI,Mason-MI,Michigan,26065,Ingham,42.5805,-84.4426,8395,8395,635,polygon,TRUE,America/Detroit,48854
+Breckenridge-MI,1840010997,Breckenridge,Breckenridge,MI,Breckenridge-MI,Michigan,26057,Gratiot,43.4075,-84.4784,1300,1300,467,polygon,TRUE,America/Detroit,48615
+Riverview-MI,1840003961,Riverview,Riverview,MI,Riverview-MI,Michigan,26163,Wayne,42.1729,-83.1935,12103,12103,1063,polygon,TRUE,America/Detroit,48193
+Zeeland-MI,1840000383,Zeeland,Zeeland,MI,Zeeland-MI,Michigan,26139,Ottawa,42.8139,-86.0129,5581,5581,718,polygon,TRUE,America/Detroit,49464
+Onaway-MI,1840002064,Onaway,Onaway,MI,Onaway-MI,Michigan,26141,Presque Isle,45.3592,-84.2278,833,833,205,polygon,TRUE,America/Detroit,49765
+Kenton-MI,1840031725,Kenton,Kenton,MI,Kenton-MI,Michigan,26061,Houghton,46.4855,-88.894,,,15.7,point,FALSE,America/Detroit,49967
+Grayling-MI,1840002291,Grayling,Grayling,MI,Grayling-MI,Michigan,26039,Crawford,44.6568,-84.7089,3762,1837,353,polygon,TRUE,America/Detroit,49738 49739
+Canadian Lakes-MI,1840004173,Canadian Lakes,Canadian Lakes,MI,Canadian Lakes-MI,Michigan,26107,Mecosta,43.5789,-85.2973,,,210.5,polygon,FALSE,America/Detroit,49346
+Freeland-MI,1840004224,Freeland,Freeland,MI,Freeland-MI,Michigan,26145,Saginaw,43.5198,-84.1125,,,488.8,polygon,FALSE,America/Detroit,48623
+Vestaburg-MI,1840031692,Vestaburg,Vestaburg,MI,Vestaburg-MI,Michigan,26117,Montcalm,43.3992,-84.9056,,,120.3,point,FALSE,America/Detroit,48891
+Bay Port-MI,1840026086,Bay Port,Bay Port,MI,Bay Port-MI,Michigan,26063,Huron,43.8378,-83.3742,,,190.1,polygon,FALSE,America/Detroit,48720
+Hubbardston-MI,1840011017,Hubbardston,Hubbardston,MI,Hubbardston-MI,Michigan,26067,Ionia,43.0939,-84.8413,401,401,100,polygon,TRUE,America/Detroit,48845
+East Lake-MI,1840031719,East Lake,East Lake,MI,East Lake-MI,Michigan,26101,Manistee,44.2444,-86.2962,,,488,point,TRUE,America/Detroit,49626
+Arcadia-MI,1840023960,Arcadia,Arcadia,MI,Arcadia-MI,Michigan,26101,Manistee,44.4931,-86.2369,,,83.8,polygon,FALSE,America/Detroit,49613
+Mulliken-MI,1840011085,Mulliken,Mulliken,MI,Mulliken-MI,Michigan,26045,Eaton,42.763,-84.8963,559,559,206,polygon,TRUE,America/Detroit,48861
+Mackinaw City-MI,1840031727,Mackinaw City,Mackinaw City,MI,Mackinaw City-MI,Michigan,26031,Cheboygan,45.7755,-84.7477,801,801,91,polygon,TRUE,America/Detroit,49701
+Charlevoix-MI,1840003944,Charlevoix,Charlevoix,MI,Charlevoix-MI,Michigan,26029,Charlevoix,45.314,-85.2554,4181,2514,473,polygon,TRUE,America/Detroit,49720
+Litchfield-MI,1840003253,Litchfield,Litchfield,MI,Litchfield-MI,Michigan,26059,Hillsdale,42.041,-84.7568,1346,1346,208,polygon,TRUE,America/Detroit,49252
+Elsie-MI,1840011023,Elsie,Elsie,MI,Elsie-MI,Michigan,26037,Clinton,43.0895,-84.389,973,973,323,polygon,TRUE,America/Detroit,48831
+Berkley-MI,1840002437,Berkley,Berkley,MI,Berkley-MI,Michigan,26125,Oakland,42.4986,-83.1853,15272,15272,2254,polygon,TRUE,America/Detroit,48072
+Paradise-MI,1840031732,Paradise,Paradise,MI,Paradise-MI,Michigan,26033,Chippewa,46.6275,-85.0376,,,39.5,point,FALSE,America/Detroit,49768
+Attica-MI,1840025444,Attica,Attica,MI,Attica-MI,Michigan,26087,Lapeer,43.0314,-83.1607,,,173.8,polygon,FALSE,America/Detroit,48412
+Berville-MI,1840031750,Berville,Berville,MI,Berville-MI,Michigan,26147,St. Clair,42.9084,-82.883,,,59.4,point,FALSE,America/Detroit,48002
+Taylor-MI,1840003965,Taylor,Taylor,MI,Taylor-MI,Michigan,26163,Wayne,42.226,-83.2688,61177,61177,1000,polygon,TRUE,America/Detroit,48180
+Glenn-MI,1840031608,Glenn,Glenn,MI,Glenn-MI,Michigan,26005,Allegan,42.5203,-86.2275,,,83.4,point,FALSE,America/Detroit,49408
+Lovells-MI,1840031639,Lovells,Lovells,MI,Lovells-MI,Michigan,26039,Crawford,44.8031,-84.482,,,41.5,point,FALSE,America/Detroit,49738
+Bronson-MI,1840003249,Bronson,Bronson,MI,Bronson-MI,Michigan,26023,Branch,41.8727,-85.1914,2319,2319,654,polygon,TRUE,America/Detroit,49028
+Genesee-MI,1840031606,Genesee,Genesee,MI,Genesee-MI,Michigan,26049,Genesee,43.1125,-83.6177,,,573,point,FALSE,America/Detroit,48437
+Maple Rapids-MI,1840011025,Maple Rapids,Maple Rapids,MI,Maple Rapids-MI,Michigan,26037,Clinton,43.1077,-84.6899,679,679,192,polygon,TRUE,America/Detroit,48835 48853
+Eastwood-MI,1840004656,Eastwood,Eastwood,MI,Eastwood-MI,Michigan,26077,Kalamazoo,42.3028,-85.5447,,,2017.1,polygon,FALSE,America/Detroit,49048
+Cedar River-MI,1840031575,Cedar River,Cedar River,MI,Cedar River-MI,Michigan,26109,Menominee,45.4111,-87.3546,,,4.1,point,FALSE,America/Menominee,49887
+Cement City-MI,1840010152,Cement City,Cement City,MI,Cement City-MI,Michigan,26091,Lenawee,42.0684,-84.3282,422,422,185,polygon,TRUE,America/Detroit,49233
+Clio-MI,1840002946,Clio,Clio,MI,Clio-MI,Michigan,26049,Genesee,43.1773,-83.7355,2515,2515,873,polygon,TRUE,America/Detroit,48420
+Roscommon-MI,1840010943,Roscommon,Roscommon,MI,Roscommon-MI,Michigan,26143,Roscommon,44.4918,-84.592,1042,1042,269,polygon,TRUE,America/Detroit,48653
+Saline-MI,1840003171,Saline,Saline,MI,Saline-MI,Michigan,26161,Washtenaw,42.1737,-83.7779,9151,9151,829,polygon,TRUE,America/Detroit,48176
+Galien-MI,1840011227,Galien,Galien,MI,Galien-MI,Michigan,26021,Berrien,41.8017,-86.4995,531,531,493,polygon,TRUE,America/Detroit,49113
+Stronach-MI,1840023965,Stronach,Stronach,MI,Stronach-MI,Michigan,26101,Manistee,44.2131,-86.2731,,,223,polygon,FALSE,America/Detroit,49660
+Midland-MI,1840002660,Midland,Midland,MI,Midland-MI,Michigan,26111,Midland,43.6239,-84.2316,59343,42096,475,polygon,TRUE,America/Detroit,48667 48642 48640 48641 48670 48674 48686
+Laurium-MI,1840013133,Laurium,Laurium,MI,Laurium-MI,Michigan,26061,Houghton,47.2351,-88.4382,7214,1947,1154,polygon,TRUE,America/Detroit,49913
+Hawks-MI,1840031620,Hawks,Hawks,MI,Hawks-MI,Michigan,26141,Presque Isle,45.302,-83.8875,,,15.7,point,FALSE,America/Detroit,49743
+Greenville-MI,1840002877,Greenville,Greenville,MI,Greenville-MI,Michigan,26117,Montcalm,43.1797,-85.2534,9679,8426,512,polygon,TRUE,America/Detroit,48838
+Wolf Lake-MI,1840006865,Wolf Lake,Wolf Lake,MI,Wolf Lake-MI,Michigan,26121,Muskegon,43.2451,-86.1073,,,1145.1,polygon,FALSE,America/Detroit,49442
+Grass Lake-MI,1840011195,Grass Lake,Grass Lake,MI,Grass Lake-MI,Michigan,26075,Jackson,42.2511,-84.2075,1164,1164,478,polygon,TRUE,America/Detroit,49240
+Otter Lake-MI,1840011003,Otter Lake,Otter Lake,MI,Otter Lake-MI,Michigan,26087,Lapeer,43.2139,-83.4597,387,387,196,polygon,TRUE,America/Detroit,48464
+Ruth-MI,1840031677,Ruth,Ruth,MI,Ruth-MI,Michigan,26063,Huron,43.7153,-82.7402,,,23.1,point,FALSE,America/Detroit,48470
+Ecorse-MI,1840003972,Ecorse,Ecorse,MI,Ecorse-MI,Michigan,26163,Wayne,42.249,-83.1398,9181,9181,1256,polygon,TRUE,America/Detroit,48229
+Lake Isabella-MI,1840010961,Lake Isabella,Lake Isabella,MI,Lake Isabella-MI,Michigan,26073,Isabella,43.6417,-85.0029,1668,1668,183,polygon,TRUE,America/Detroit,48893
+Osseo-MI,1840031661,Osseo,Osseo,MI,Osseo-MI,Michigan,26059,Hillsdale,41.8859,-84.5441,,,221.4,point,FALSE,America/Detroit,49266
+Manistique-MI,1840001966,Manistique,Manistique,MI,Manistique-MI,Michigan,26153,Schoolcraft,45.9591,-86.2508,3280,2918,353,polygon,TRUE,America/Detroit,49854
+Lawrence-MI,1840011204,Lawrence,Lawrence,MI,Lawrence-MI,Michigan,26159,Van Buren,42.2162,-86.0531,977,977,220,polygon,TRUE,America/Detroit,49064
+Gaastra-MI,1840001971,Gaastra,Gaastra,MI,Gaastra-MI,Michigan,26071,Iron,46.0557,-88.605,328,328,77,polygon,TRUE,America/Menominee,49927
+Mount Clemens-MI,1840003089,Mount Clemens,Mount Clemens,MI,Mount Clemens-MI,Michigan,26099,Macomb,42.5977,-82.8821,16349,16349,1551,polygon,TRUE,America/Detroit,48043 48046
+South Rockwood-MI,1840013159,South Rockwood,South Rockwood,MI,South Rockwood-MI,Michigan,26115,Monroe,42.0598,-83.2653,1644,1644,192,polygon,TRUE,America/Detroit,48179
+Sherwood-MI,1840011376,Sherwood,Sherwood,MI,Sherwood-MI,Michigan,26023,Branch,41.9996,-85.2394,309,309,121,polygon,TRUE,America/Detroit,49089
+Hulbert-MI,1840031626,Hulbert,Hulbert,MI,Hulbert-MI,Michigan,26033,Chippewa,46.3542,-85.1501,,,52.5,point,FALSE,America/Detroit,49748
+Stony Lake-MI,1840031712,Stony Lake,Stony Lake,MI,Stony Lake-MI,Michigan,26127,Oceana,43.5597,-86.5001,,,71.2,point,FALSE,America/Detroit,49455
+Lexington Heights-MI,1840031637,Lexington Heights,Lexington Heights,MI,Lexington Heights-MI,Michigan,26151,Sanilac,43.225,-82.5246,,,284.7,point,FALSE,America/Detroit,48450
+Cedar-MI,1840025196,Cedar,Cedar,MI,Cedar-MI,Michigan,26089,Leelanau,44.8467,-85.7942,,,152.4,polygon,FALSE,America/Detroit,49621
+Herman-MI,1840031621,Herman,Herman,MI,Herman-MI,Michigan,26013,Baraga,46.6669,-88.3671,,,6.5,point,FALSE,America/Detroit,49946
+Ahmeek-MI,1840010906,Ahmeek,Ahmeek,MI,Ahmeek-MI,Michigan,26083,Keweenaw,47.2984,-88.3971,148,148,834,polygon,TRUE,America/Detroit,49901
+Davison-MI,1840002947,Davison,Davison,MI,Davison-MI,Michigan,26049,Genesee,43.0318,-83.5186,4929,4929,963,polygon,TRUE,America/Detroit,48423
+Casnovia-MI,1840010063,Casnovia,Casnovia,MI,Casnovia-MI,Michigan,26081,Kent,43.2336,-85.7895,328,328,117,polygon,TRUE,America/Detroit,49318
+Norwood-MI,1840025193,Norwood,Norwood,MI,Norwood-MI,Michigan,26029,Charlevoix,45.2239,-85.3791,,,46.9,polygon,FALSE,America/Detroit,49720
+Schaffer-MI,1840031681,Schaffer,Schaffer,MI,Schaffer-MI,Michigan,26041,Delta,45.7611,-87.2987,,,29.7,point,FALSE,America/Detroit,49807
+Stephenson-MI,1840002007,Stephenson,Stephenson,MI,Stephenson-MI,Michigan,26109,Menominee,45.4137,-87.609,855,855,302,polygon,TRUE,America/Menominee,49887
+Devils Lake-MI,1840031589,Devils Lake,Devils Lake,MI,Devils Lake-MI,Michigan,26091,Lenawee,42.0078,-84.2924,,,140.1,point,FALSE,America/Detroit,49220
+Detroit-MI,1840003971,Detroit,Detroit,MI,Detroit-MI,Michigan,26163,Wayne,42.3834,-83.1024,3520589,672795,1872,polygon,TRUE,America/Detroit,48209 48208 48201 48207 48206 48205 48204 48203 48238 48239 48234 48235 48233 48202 48243 48214 48215 48216 48217 48210 48211 48212 48213 48219 48228 48224 48227 48226 48221 48223 48222 48231 48232 48244 48255 48260 48264 48265 48266 48267 48268 48269 48272 48275 48277 48278 48279 48288
+Okemos-MI,1840004502,Okemos,Okemos,MI,Okemos-MI,Michigan,26065,Ingham,42.7058,-84.4133,,,468.8,polygon,FALSE,America/Detroit,48864 48805
+Belleville-MI,1840003968,Belleville,Belleville,MI,Belleville-MI,Michigan,26163,Wayne,42.2022,-83.4839,3853,3853,1309,polygon,TRUE,America/Detroit,48111 48112
+Ortonville-MI,1840011059,Ortonville,Ortonville,MI,Ortonville-MI,Michigan,26125,Oakland,42.851,-83.4427,1457,1457,573,polygon,TRUE,America/Detroit,48462
+Aura-MI,1840031561,Aura,Aura,MI,Aura-MI,Michigan,26013,Baraga,46.8627,-88.3187,,,18.6,point,FALSE,America/Detroit,49946
+Adrian-MI,1840003226,Adrian,Adrian,MI,Adrian-MI,Michigan,26091,Lenawee,41.8994,-84.0447,43850,20676,994,polygon,TRUE,America/Detroit,49221
+Walker-MI,1840002925,Walker,Walker,MI,Walker-MI,Michigan,26081,Kent,42.9857,-85.7443,24775,24775,383,polygon,TRUE,America/Detroit,49544 49534
+Lachine-MI,1840031634,Lachine,Lachine,MI,Lachine-MI,Michigan,26007,Alpena,45.0775,-83.7161,,,20.2,point,FALSE,America/Detroit,49753
+Lewiston-MI,1840004025,Lewiston,Lewiston,MI,Lewiston-MI,Michigan,26119,Montmorency,44.873,-84.3281,,,291.9,polygon,FALSE,America/Detroit,49756
+Chelsea-MI,1840006976,Chelsea,Chelsea,MI,Chelsea-MI,Michigan,26161,Washtenaw,42.3132,-84.0187,5588,5185,550,polygon,TRUE,America/Detroit,48118
+Fair Haven-MI,1840031751,Fair Haven,Fair Haven,MI,Fair Haven-MI,Michigan,26147,St. Clair,42.6792,-82.6538,,,547.6,point,FALSE,America/Detroit,48023
+Southfield-MI,1840002431,Southfield,Southfield,MI,Southfield-MI,Michigan,26125,Oakland,42.4765,-83.2605,73100,73100,1074,polygon,TRUE,America/Detroit,48033 48034 48075 48076 48037 48086
+Caspian-MI,1840001969,Caspian,Caspian,MI,Caspian-MI,Michigan,26071,Iron,46.0653,-88.6266,856,856,231,polygon,TRUE,America/Menominee,49915 49935
+Westacres-MI,1840031703,Westacres,Westacres,MI,Westacres-MI,Michigan,26125,Oakland,42.6,-83.4249,,,818,point,FALSE,America/Detroit,48324
+Schoolcraft-MI,1840011212,Schoolcraft,Schoolcraft,MI,Schoolcraft-MI,Michigan,26077,Kalamazoo,42.117,-85.6337,1565,1565,617,polygon,TRUE,America/Detroit,49087
+Burton-MI,1840002945,Burton,Burton,MI,Burton-MI,Michigan,26049,Genesee,42.9974,-83.6175,28648,28648,473,polygon,TRUE,America/Detroit,48509 48529 48519
+Ironwood-MI,1840001942,Ironwood,Ironwood,MI,Ironwood-MI,Michigan,26053,Gogebic,46.4528,-90.1502,6561,4955,297,polygon,TRUE,America/Menominee,49938
+Rose City-MI,1840002518,Rose City,Rose City,MI,Rose City-MI,Michigan,26129,Ogemaw,44.4209,-84.116,633,633,227,polygon,TRUE,America/Detroit,48654
+Benton Harbor-MI,1840003215,Benton Harbor,Benton Harbor,MI,Benton Harbor-MI,Michigan,26021,Berrien,42.116,-86.4484,60298,9919,865,polygon,TRUE,America/Detroit,49022 49023
+Milan-MI,1840003170,Milan,Milan,MI,Milan-MI,Michigan,26161,Washtenaw,42.082,-83.6847,7742,6014,699,polygon,TRUE,America/Detroit,48160
+Grosse Pointe Farms-MI,1840003977,Grosse Pointe Farms,Grosse Pointe Farms,MI,Grosse Pointe Farms-MI,Michigan,26163,Wayne,42.4067,-82.8992,9155,9155,1285,polygon,TRUE,America/Detroit,48236
+Fostoria-MI,1840025431,Fostoria,Fostoria,MI,Fostoria-MI,Michigan,26157,Tuscola,43.2495,-83.3714,,,276.9,polygon,FALSE,America/Detroit,48435
+Sylvan Lake-MI,1840002433,Sylvan Lake,Sylvan Lake,MI,Sylvan Lake-MI,Michigan,26125,Oakland,42.617,-83.3331,1824,1824,1386,polygon,TRUE,America/Detroit,48320
+Portage-MI,1840003183,Portage,Portage,MI,Portage-MI,Michigan,26077,Kalamazoo,42.2,-85.5907,48508,48508,581,polygon,TRUE,America/Detroit,49002 49024 49081
+Hudson-MI,1840003229,Hudson,Hudson,MI,Hudson-MI,Michigan,26091,Lenawee,41.8569,-84.3451,2236,2236,394,polygon,TRUE,America/Detroit,49247
+Dearborn Heights-MI,1840003970,Dearborn Heights,Dearborn Heights,MI,Dearborn Heights-MI,Michigan,26163,Wayne,42.3164,-83.2769,55761,55761,1834,polygon,TRUE,America/Detroit,48127 48125
+Lost Lake Woods-MI,1840004073,Lost Lake Woods,Lost Lake Woods,MI,Lost Lake Woods-MI,Michigan,26001,Alcona,44.7926,-83.4223,,,170.4,polygon,FALSE,America/Detroit,48742
+Lake Orion-MI,1840011054,Lake Orion,Lake Orion,MI,Lake Orion-MI,Michigan,26125,Oakland,42.7827,-83.2452,3046,3046,1520,polygon,TRUE,America/Detroit,48362 48361
+Vandercook Lake-MI,1840006977,Vandercook Lake,Vandercook Lake,MI,Vandercook Lake-MI,Michigan,26075,Jackson,42.1917,-84.3854,,,828,polygon,FALSE,America/Detroit,49201 49203
+Stockbridge-MI,1840011081,Stockbridge,Stockbridge,MI,Stockbridge-MI,Michigan,26065,Ingham,42.4483,-84.1757,1234,1234,315,polygon,TRUE,America/Detroit,49285
+Lake Fenton-MI,1840004341,Lake Fenton,Lake Fenton,MI,Lake Fenton-MI,Michigan,26049,Genesee,42.8453,-83.7086,,,220.9,polygon,FALSE,America/Detroit,48430
+Springfield-MI,1840003174,Springfield,Springfield,MI,Springfield-MI,Michigan,26025,Calhoun,42.3246,-85.2371,5196,5196,547,polygon,TRUE,America/Detroit,49037
+Weston-MI,1840031695,Weston,Weston,MI,Weston-MI,Michigan,26091,Lenawee,41.7703,-84.0977,,,107.8,point,FALSE,America/Detroit,49279
+Burt-MI,1840004229,Burt,Burt,MI,Burt-MI,Michigan,26145,Saginaw,43.2348,-83.9101,,,189.8,polygon,FALSE,America/Detroit,48417
+Cross Village-MI,1840025185,Cross Village,Cross Village,MI,Cross Village-MI,Michigan,26047,Emmet,45.6439,-85.0312,,,45,polygon,FALSE,America/Detroit,49740
+Saint Charles-MI,1840010984,Saint Charles,Saint Charles,MI,Saint Charles-MI,Michigan,26145,Saginaw,43.2988,-84.1476,1942,1942,354,polygon,TRUE,America/Detroit,48655
+Cherry Hill-MI,1840031578,Cherry Hill,Cherry Hill,MI,Cherry Hill-MI,Michigan,26163,Wayne,42.3061,-83.536,,,1584,point,FALSE,America/Detroit,48187
+Walkerville-MI,1840010960,Walkerville,Walkerville,MI,Walkerville-MI,Michigan,26127,Oceana,43.7143,-86.1262,242,242,86,polygon,TRUE,America/Detroit,49459
+Farmington Hills-MI,1840002442,Farmington Hills,Farmington Hills,MI,Farmington Hills-MI,Michigan,26125,Oakland,42.486,-83.3771,81129,81129,941,polygon,TRUE,America/Detroit,48336 48335 48334 48331
+Eagle Harbor-MI,1840026077,Eagle Harbor,Eagle Harbor,MI,Eagle Harbor-MI,Michigan,26083,Keweenaw,47.4542,-88.1569,,,60.9,polygon,FALSE,America/Detroit,49950
+Lake Michigan Beach-MI,1840004698,Lake Michigan Beach,Lake Michigan Beach,MI,Lake Michigan Beach-MI,Michigan,26021,Berrien,42.2127,-86.376,,,280.2,polygon,FALSE,America/Detroit,49038 49039
+Rosebush-MI,1840010962,Rosebush,Rosebush,MI,Rosebush-MI,Michigan,26073,Isabella,43.6998,-84.7657,368,368,159,polygon,TRUE,America/Detroit,48878
+Trout Lake-MI,1840031742,Trout Lake,Trout Lake,MI,Trout Lake-MI,Michigan,26033,Chippewa,46.1936,-85.019,,,83,point,FALSE,America/Detroit,49793
+Iron Mountain-MI,1840001991,Iron Mountain,Iron Mountain,MI,Iron Mountain-MI,Michigan,26043,Dickinson,45.8275,-88.0605,18732,7428,389,polygon,TRUE,America/Menominee,49801
+Ferndale-MI,1840002443,Ferndale,Ferndale,MI,Ferndale-MI,Michigan,26125,Oakland,42.4592,-83.1314,20099,20099,2000,polygon,TRUE,America/Detroit,48220
+Carson City-MI,1840002876,Carson City,Carson City,MI,Carson City-MI,Michigan,26117,Montcalm,43.1814,-84.8461,1106,1106,411,polygon,TRUE,America/Detroit,48811
+Advance-MI,1840025189,Advance,Advance,MI,Advance-MI,Michigan,26029,Charlevoix,45.2161,-85.0807,,,117.4,polygon,FALSE,America/Detroit,49727 49712
+Nahma-MI,1840031731,Nahma,Nahma,MI,Nahma-MI,Michigan,26041,Delta,45.8416,-86.664,,,32.1,point,FALSE,America/Detroit,49864
+Hersey-MI,1840010951,Hersey,Hersey,MI,Hersey-MI,Michigan,26133,Osceola,43.8513,-85.442,347,347,122,polygon,TRUE,America/Detroit,49639
+Hillsdale-MI,1840003252,Hillsdale,Hillsdale,MI,Hillsdale-MI,Michigan,26059,Hillsdale,41.9274,-84.6365,11452,8167,554,polygon,TRUE,America/Detroit,49242
+L'Anse-MI,1840010915,L'Anse,L'Anse,MI,L'Anse-MI,Michigan,26013,Baraga,46.7526,-88.4478,1918,1918,292,polygon,TRUE,America/Detroit,49946
+Plymouth-MI,1840003959,Plymouth,Plymouth,MI,Plymouth-MI,Michigan,26163,Wayne,42.3718,-83.468,9077,9077,1585,polygon,TRUE,America/Detroit,48170
+Au Gres-MI,1840003950,Au Gres,Au Gres,MI,Au Gres-MI,Michigan,26011,Arenac,44.0431,-83.6933,854,854,145,polygon,TRUE,America/Detroit,48703
+Emmett-MI,1840013155,Emmett,Emmett,MI,Emmett-MI,Michigan,26147,St. Clair,42.9934,-82.7654,263,263,67,polygon,TRUE,America/Detroit,48022
+Eau Claire-MI,1840011226,Eau Claire,Eau Claire,MI,Eau Claire-MI,Michigan,26021,Berrien,41.9842,-86.3036,615,615,319,polygon,TRUE,America/Detroit,49111
+Woodhaven-MI,1840001848,Woodhaven,Woodhaven,MI,Woodhaven-MI,Michigan,26163,Wayne,42.132,-83.2374,12461,12461,753,polygon,TRUE,America/Detroit,48183
+Turner-MI,1840013145,Turner,Turner,MI,Turner-MI,Michigan,26011,Arenac,44.1422,-83.7875,109,109,41,polygon,TRUE,America/Detroit,48765
+Ida-MI,1840031627,Ida,Ida,MI,Ida-MI,Michigan,26115,Monroe,41.9109,-83.5735,,,219.1,point,FALSE,America/Detroit,48140
+New Haven-MI,1840011051,New Haven,New Haven,MI,New Haven-MI,Michigan,26099,Macomb,42.7306,-82.7953,4692,4692,714,polygon,TRUE,America/Detroit,48048
+Cheboygan-MI,1840002047,Cheboygan,Cheboygan,MI,Cheboygan-MI,Michigan,26031,Cheboygan,45.6416,-84.4685,4386,4726,268,polygon,TRUE,America/Detroit,49721
+Alba-MI,1840023913,Alba,Alba,MI,Alba-MI,Michigan,26009,Antrim,44.9786,-84.9695,,,111.4,polygon,FALSE,America/Detroit,49730 49611
+Climax-MI,1840011210,Climax,Climax,MI,Climax-MI,Michigan,26077,Kalamazoo,42.2383,-85.336,784,784,286,polygon,TRUE,America/Detroit,49034
+Detroit Beach-MI,1840006580,Detroit Beach,Detroit Beach,MI,Detroit Beach-MI,Michigan,26115,Monroe,41.9313,-83.3292,,,1789.8,polygon,FALSE,America/Detroit,48162
+Royal Oak-MI,1840002430,Royal Oak,Royal Oak,MI,Royal Oak-MI,Michigan,26125,Oakland,42.5084,-83.1539,59006,59006,1933,polygon,TRUE,America/Detroit,48067 48073 48068
+Colon-MI,1840011382,Colon,Colon,MI,Colon-MI,Michigan,26149,St. Joseph,41.9591,-85.3229,1153,1153,326,polygon,TRUE,America/Detroit,49040
+Empire-MI,1840013139,Empire,Empire,MI,Empire-MI,Michigan,26089,Leelanau,44.812,-86.0593,375,375,126,polygon,TRUE,America/Detroit,49630
+Melvin-MI,1840010980,Melvin,Melvin,MI,Melvin-MI,Michigan,26151,Sanilac,43.1864,-82.8617,172,172,68,polygon,TRUE,America/Detroit,48454

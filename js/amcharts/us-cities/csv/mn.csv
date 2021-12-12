@@ -1,0 +1,1128 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Sargeant-MN,1840009007,Sargeant,Sargeant,MN,Sargeant-MN,Minnesota,27099,Mower,43.8056,-92.8006,61,61,28,polygon,TRUE,America/Chicago,55973
+Welcome-MN,1840010047,Welcome,Welcome,MN,Welcome-MN,Minnesota,27091,Martin,43.6662,-94.6079,653,653,172,polygon,TRUE,America/Chicago,56181
+Savage-MN,1840008957,Savage,Savage,MN,Savage-MN,Minnesota,27139,Scott,44.7545,-93.3632,30807,30807,760,polygon,TRUE,America/Chicago,55378
+Brewster-MN,1840004168,Brewster,Brewster,MN,Brewster-MN,Minnesota,27105,Nobles,43.6973,-95.4645,472,472,133,polygon,TRUE,America/Chicago,56119
+Rollins-MN,1840032009,Rollins,Rollins,MN,Rollins-MN,Minnesota,27137,St. Louis,47.2566,-91.8452,,,1.6,point,FALSE,America/Chicago,55602
+Kensington-MN,1840007774,Kensington,Kensington,MN,Kensington-MN,Minnesota,27041,Douglas,45.7782,-95.6971,296,296,314,polygon,TRUE,America/Chicago,56343
+Dundee-MN,1840007926,Dundee,Dundee,MN,Dundee-MN,Minnesota,27105,Nobles,43.8441,-95.4668,70,70,87,polygon,TRUE,America/Chicago,56131
+Grand Portage-MN,1840031811,Grand Portage,Grand Portage,MN,Grand Portage-MN,Minnesota,27031,Cook,47.9638,-89.6848,,,66.2,point,FALSE,America/Chicago,55605
+Ironton-MN,1840007741,Ironton,Ironton,MN,Ironton-MN,Minnesota,27035,Crow Wing,46.4817,-93.9981,558,558,148,polygon,TRUE,America/Chicago,56441
+Nielsville-MN,1840007707,Nielsville,Nielsville,MN,Nielsville-MN,Minnesota,27119,Polk,47.5284,-96.8174,90,90,96,polygon,TRUE,America/Chicago,56568
+Villard-MN,1840009990,Villard,Villard,MN,Villard-MN,Minnesota,27121,Pope,45.714,-95.2694,252,252,122,polygon,TRUE,America/Chicago,56385
+Tofte-MN,1840031981,Tofte,Tofte,MN,Tofte-MN,Minnesota,27031,Cook,47.5738,-90.8363,,,67.8,point,FALSE,America/Chicago,55615
+Isle-MN,1840007762,Isle,Isle,MN,Isle-MN,Minnesota,27095,Mille Lacs,46.1392,-93.4598,796,796,115,polygon,TRUE,America/Chicago,56342 56386
+Bald Eagle-MN,1840031763,Bald Eagle,Bald Eagle,MN,Bald Eagle-MN,Minnesota,27123,Ramsey,45.1019,-93.0138,,,820.4,point,FALSE,America/Chicago,55110
+East Bethel-MN,1840007797,East Bethel,East Bethel,MN,East Bethel-MN,Minnesota,27003,Anoka,45.3556,-93.2035,11713,11713,100,polygon,TRUE,America/Chicago,55092 55011 55005
+Becida-MN,1840031766,Becida,Becida,MN,Becida-MN,Minnesota,27057,Hubbard,47.3541,-95.0811,,,5.8,point,FALSE,America/Chicago,56678
+Maple Grove-MN,1840008923,Maple Grove,Maple Grove,MN,Maple Grove-MN,Minnesota,27053,Hennepin,45.1088,-93.4626,69576,69576,822,polygon,TRUE,America/Chicago,55369 55311
+Brimson-MN,1840031988,Brimson,Brimson,MN,Brimson-MN,Minnesota,27137,St. Louis,47.2766,-91.8671,,,8.6,point,FALSE,America/Chicago,55602
+Fulda-MN,1840007908,Fulda,Fulda,MN,Fulda-MN,Minnesota,27101,Murray,43.869,-95.6023,1231,1231,462,polygon,TRUE,America/Chicago,56131
+Lake City-MN,1840000321,Lake City,Lake City,MN,Lake City-MN,Minnesota,27157,Wabasha,44.4453,-92.2794,5082,5042,432,polygon,TRUE,America/Chicago,55041
+East Gull Lake-MN,1840007720,East Gull Lake,East Gull Lake,MN,East Gull Lake-MN,Minnesota,27021,Cass,46.4061,-94.3559,1020,1020,49,polygon,TRUE,America/Chicago,56401
+Freeborn-MN,1840007930,Freeborn,Freeborn,MN,Freeborn-MN,Minnesota,27047,Freeborn,43.766,-93.5641,288,288,606,polygon,TRUE,America/Chicago,56032
+Payne-MN,1840032007,Payne,Payne,MN,Payne-MN,Minnesota,27137,St. Louis,47.096,-92.5994,,,5.9,point,FALSE,America/Chicago,55765
+Alden-MN,1840006825,Alden,Alden,MN,Alden-MN,Minnesota,27047,Freeborn,43.6688,-93.5734,640,640,232,polygon,TRUE,America/Chicago,56009
+Kellogg-MN,1840007902,Kellogg,Kellogg,MN,Kellogg-MN,Minnesota,27157,Wabasha,44.3075,-91.9988,442,442,577,polygon,TRUE,America/Chicago,55945
+Zemple-MN,1840009964,Zemple,Zemple,MN,Zemple-MN,Minnesota,27061,Itasca,47.3197,-93.785,92,92,44,polygon,TRUE,America/Chicago,56636
+Scanlon-MN,1840008848,Scanlon,Scanlon,MN,Scanlon-MN,Minnesota,27017,Carlton,46.7065,-92.43,981,981,448,polygon,TRUE,America/Chicago,55720
+Tonka Bay-MN,1840009999,Tonka Bay,Tonka Bay,MN,Tonka Bay-MN,Minnesota,27053,Hennepin,44.9155,-93.5896,1555,1555,644,polygon,TRUE,America/Chicago,55331
+Burr-MN,1840031776,Burr,Burr,MN,Burr-MN,Minnesota,27173,Yellow Medicine,44.7483,-96.3592,,,5.4,point,FALSE,America/Chicago,56220
+Perham-MN,1840008852,Perham,Perham,MN,Perham-MN,Minnesota,27111,Otter Tail,46.5989,-95.5743,3238,3300,392,polygon,TRUE,America/Chicago,56573
+Day-MN,1840031788,Day,Day,MN,Day-MN,Minnesota,27059,Isanti,45.7091,-93.3794,,,8.8,point,FALSE,America/Chicago,55006
+Easton-MN,1840007944,Easton,Easton,MN,Easton-MN,Minnesota,27043,Faribault,43.7661,-93.8999,194,194,80,polygon,TRUE,America/Chicago,56025
+Wanda-MN,1840010018,Wanda,Wanda,MN,Wanda-MN,Minnesota,27127,Redwood,44.3148,-95.2131,80,80,119,polygon,TRUE,America/Chicago,56294
+Holland-MN,1840006798,Holland,Holland,MN,Holland-MN,Minnesota,27117,Pipestone,44.0896,-96.1942,169,169,70,polygon,TRUE,America/Chicago,56139
+Montrose-MN,1840007796,Montrose,Montrose,MN,Montrose-MN,Minnesota,27171,Wright,45.0665,-93.9202,4870,3102,374,polygon,TRUE,America/Chicago,55363
+Angus-MN,1840031761,Angus,Angus,MN,Angus-MN,Minnesota,27119,Polk,48.0811,-96.7031,,,3.9,point,FALSE,America/Chicago,56762
+Hancock-MN,1840006689,Hancock,Hancock,MN,Hancock-MN,Minnesota,27149,Stevens,45.4977,-95.7956,746,746,290,polygon,TRUE,America/Chicago,56244
+Swanville-MN,1840008863,Swanville,Swanville,MN,Swanville-MN,Minnesota,27097,Morrison,45.9172,-94.6381,337,337,250,polygon,TRUE,America/Chicago,56382
+Littlefork-MN,1840008815,Littlefork,Littlefork,MN,Littlefork-MN,Minnesota,27071,Koochiching,48.3964,-93.5575,612,612,199,polygon,TRUE,America/Chicago,56653
+Soudan-MN,1840025244,Soudan,Soudan,MN,Soudan-MN,Minnesota,27137,St. Louis,47.813,-92.2356,,,216.2,polygon,FALSE,America/Chicago,55782
+Rose Creek-MN,1840009006,Rose Creek,Rose Creek,MN,Rose Creek-MN,Minnesota,27099,Mower,43.605,-92.8304,424,424,356,polygon,TRUE,America/Chicago,55970
+Lyle-MN,1840009002,Lyle,Lyle,MN,Lyle-MN,Minnesota,27099,Mower,43.5058,-92.9412,541,541,273,polygon,TRUE,America/Chicago,55953
+Cook-MN,1840006589,Cook,Cook,MN,Cook-MN,Minnesota,27137,St. Louis,47.841,-92.6882,568,568,82,polygon,TRUE,America/Chicago,55723
+Vesta-MN,1840010015,Vesta,Vesta,MN,Vesta-MN,Minnesota,27127,Redwood,44.5065,-95.4141,307,307,292,polygon,TRUE,America/Chicago,56292
+Elmdale-MN,1840007755,Elmdale,Elmdale,MN,Elmdale-MN,Minnesota,27097,Morrison,45.8341,-94.4941,113,113,12,polygon,TRUE,America/Chicago,56314
+Finlayson-MN,1840007752,Finlayson,Finlayson,MN,Finlayson-MN,Minnesota,27115,Pine,46.2051,-92.9248,309,309,42,polygon,TRUE,America/Chicago,55735
+Deephaven-MN,1840006751,Deephaven,Deephaven,MN,Deephaven-MN,Minnesota,27053,Hennepin,44.9293,-93.5238,3843,3843,626,polygon,TRUE,America/Chicago,55331 55391
+Medford-MN,1840007912,Medford,Medford,MN,Medford-MN,Minnesota,27147,Steele,44.1685,-93.2481,1256,1256,421,polygon,TRUE,America/Chicago,55049
+Kimball-MN,1840007784,Kimball,Kimball,MN,Kimball-MN,Minnesota,27145,Stearns,45.3143,-94.3008,779,779,198,polygon,TRUE,America/Chicago,55353
+Calumet-MN,1840006609,Calumet,Calumet,MN,Calumet-MN,Minnesota,27061,Itasca,47.3198,-93.2688,354,354,87,polygon,TRUE,America/Chicago,55764 55716
+Money Creek-MN,1840031854,Money Creek,Money Creek,MN,Money Creek-MN,Minnesota,27055,Houston,43.8214,-91.6135,,,70.4,point,FALSE,America/Chicago,55943
+Gonvick-MN,1840007710,Gonvick,Gonvick,MN,Gonvick-MN,Minnesota,27029,Clearwater,47.7392,-95.5122,287,287,85,polygon,TRUE,America/Chicago,56644
+Dennison-MN,1840006780,Dennison,Dennison,MN,Dennison-MN,Minnesota,27049,Goodhue,44.4089,-93.0302,214,214,65,polygon,TRUE,America/Chicago,55018
+Oklee-MN,1840007712,Oklee,Oklee,MN,Oklee-MN,Minnesota,27125,Red Lake,47.839,-95.8505,418,418,269,polygon,TRUE,America/Chicago,56742
+Aldrich-MN,1840006639,Aldrich,Aldrich,MN,Aldrich-MN,Minnesota,27159,Wadena,46.3745,-94.9394,47,47,38,polygon,TRUE,America/Chicago,56434
+Halstad-MN,1840006619,Halstad,Halstad,MN,Halstad-MN,Minnesota,27107,Norman,47.351,-96.8246,568,568,712,polygon,TRUE,America/Chicago,56548
+Lakeland Shores-MN,1840007817,Lakeland Shores,Lakeland Shores,MN,Lakeland Shores-MN,Minnesota,27163,Washington,44.9479,-92.7612,313,313,383,polygon,TRUE,America/Chicago,55043
+Battle Lake-MN,1840006652,Battle Lake,Battle Lake,MN,Battle Lake-MN,Minnesota,27111,Otter Tail,46.286,-95.7172,888,888,233,polygon,TRUE,America/Chicago,56515
+Sunrise-MN,1840031898,Sunrise,Sunrise,MN,Sunrise-MN,Minnesota,27025,Chisago,45.5469,-92.8549,,,44.2,point,FALSE,America/Chicago,55056
+Conger-MN,1840006823,Conger,Conger,MN,Conger-MN,Minnesota,27047,Freeborn,43.6145,-93.5288,141,141,437,polygon,TRUE,America/Chicago,56009 56020
+Gilman-MN,1840007777,Gilman,Gilman,MN,Gilman-MN,Minnesota,27009,Benton,45.7353,-93.9486,223,223,183,polygon,TRUE,America/Chicago,56329 56333
+Hinckley-MN,1840006662,Hinckley,Hinckley,MN,Hinckley-MN,Minnesota,27115,Pine,46.0124,-92.9263,1830,1830,186,polygon,TRUE,America/Chicago,55037
+Turtle River-MN,1840009958,Turtle River,Turtle River,MN,Turtle River-MN,Minnesota,27007,Beltrami,47.5883,-94.7582,78,78,28,polygon,TRUE,America/Chicago,56601
+McIntosh-MN,1840007705,McIntosh,McIntosh,MN,McIntosh-MN,Minnesota,27119,Polk,47.6369,-95.8864,618,618,240,polygon,TRUE,America/Chicago,56556
+Wilton-MN,1840009959,Wilton,Wilton,MN,Wilton-MN,Minnesota,27007,Beltrami,47.5063,-94.9974,288,288,42,polygon,TRUE,America/Chicago,56601 56687
+Shevlin-MN,1840008827,Shevlin,Shevlin,MN,Shevlin-MN,Minnesota,27029,Clearwater,47.5303,-95.2596,179,179,86,polygon,TRUE,America/Chicago,56676
+Marietta-MN,1840007819,Marietta,Marietta,MN,Marietta-MN,Minnesota,27073,Lac qui Parle,45.0103,-96.4186,150,150,151,polygon,TRUE,America/Chicago,56257
+Akeley-MN,1840006627,Akeley,Akeley,MN,Akeley-MN,Minnesota,27057,Hubbard,47.0005,-94.7279,430,430,112,polygon,TRUE,America/Chicago,56433
+New Germany-MN,1840007848,New Germany,New Germany,MN,New Germany-MN,Minnesota,27019,Carver,44.886,-93.973,393,393,151,polygon,TRUE,America/Chicago,55367
+Rice-MN,1840008872,Rice,Rice,MN,Rice-MN,Minnesota,27009,Benton,45.7525,-94.2319,1361,1361,92,polygon,TRUE,America/Chicago,56367
+Taconite-MN,1840008831,Taconite,Taconite,MN,Taconite-MN,Minnesota,27061,Itasca,47.3315,-93.3757,636,636,8,polygon,TRUE,America/Chicago,55709 55786 55764
+Nevis-MN,1840007723,Nevis,Nevis,MN,Nevis-MN,Minnesota,27057,Hubbard,46.9648,-94.8422,401,401,166,polygon,TRUE,America/Chicago,56467
+Minnetonka-MN,1840007831,Minnetonka,Minnetonka,MN,Minnetonka-MN,Minnesota,27053,Hennepin,44.9324,-93.4601,52369,52369,751,polygon,TRUE,America/Chicago,55345 55343 55305 55391
+Kelliher-MN,1840007699,Kelliher,Kelliher,MN,Kelliher-MN,Minnesota,27007,Beltrami,47.9439,-94.4446,268,268,47,polygon,TRUE,America/Chicago,56650
+International Falls-MN,1840007684,International Falls,International Falls,MN,International Falls-MN,Minnesota,27071,Koochiching,48.5884,-93.4084,6664,6068,365,polygon,TRUE,America/Winnipeg,56649
+Boyd-MN,1840006742,Boyd,Boyd,MN,Boyd-MN,Minnesota,27073,Lac qui Parle,44.8512,-95.901,163,163,121,polygon,TRUE,America/Chicago,56218
+Walnut Grove-MN,1840010017,Walnut Grove,Walnut Grove,MN,Walnut Grove-MN,Minnesota,27127,Redwood,44.2249,-95.4692,813,813,295,polygon,TRUE,America/Chicago,56180
+Brooklyn Center-MN,1840004022,Brooklyn Center,Brooklyn Center,MN,Brooklyn Center-MN,Minnesota,27053,Hennepin,45.0681,-93.3162,30870,30870,1498,polygon,TRUE,America/Chicago,55429 55430
+Hammond-MN,1840006794,Hammond,Hammond,MN,Hammond-MN,Minnesota,27157,Wabasha,44.222,-92.3739,134,134,491,polygon,TRUE,America/Chicago,55991
+Orr-MN,1840008817,Orr,Orr,MN,Orr-MN,Minnesota,27137,St. Louis,48.0599,-92.8246,333,333,95,polygon,TRUE,America/Chicago,55771
+Darfur-MN,1840006815,Darfur,Darfur,MN,Darfur-MN,Minnesota,27165,Watonwan,44.0538,-94.8357,106,106,116,polygon,TRUE,America/Chicago,56120 56022
+Holmes City-MN,1840031823,Holmes City,Holmes City,MN,Holmes City-MN,Minnesota,27041,Douglas,45.8336,-95.5412,,,32.3,point,FALSE,America/Chicago,56327
+Pine Center-MN,1840031871,Pine Center,Pine Center,MN,Pine Center-MN,Minnesota,27035,Crow Wing,46.2144,-93.9144,,,12.7,point,FALSE,America/Chicago,56401
+Eden Valley-MN,1840007806,Eden Valley,Eden Valley,MN,Eden Valley-MN,Minnesota,27093,Meeker,45.3262,-94.5453,1035,1035,328,polygon,TRUE,America/Chicago,55329
+Swatara-MN,1840031978,Swatara,Swatara,MN,Swatara-MN,Minnesota,27001,Aitkin,46.8955,-93.6741,,,7,point,FALSE,America/Chicago,55748
+Callaway-MN,1840006629,Callaway,Callaway,MN,Callaway-MN,Minnesota,27005,Becker,46.982,-95.9119,236,236,142,polygon,TRUE,America/Chicago,56521
+Sedan-MN,1840008891,Sedan,Sedan,MN,Sedan-MN,Minnesota,27121,Pope,45.5783,-95.2447,44,44,33,polygon,TRUE,America/Chicago,56334
+Randall-MN,1840008865,Randall,Randall,MN,Randall-MN,Minnesota,27097,Morrison,46.0885,-94.5006,620,620,116,polygon,TRUE,America/Chicago,56475
+Henderson-MN,1840006777,Henderson,Henderson,MN,Henderson-MN,Minnesota,27143,Sibley,44.528,-93.9086,900,900,326,polygon,TRUE,America/Chicago,56044
+Fridley-MN,1840007798,Fridley,Fridley,MN,Fridley-MN,Minnesota,27003,Anoka,45.0842,-93.2596,27476,27476,1045,polygon,TRUE,America/Chicago,55421 55432
+Rock Creek-MN,1840008856,Rock Creek,Rock Creek,MN,Rock Creek-MN,Minnesota,27115,Pine,45.7604,-92.9088,1593,1593,14,polygon,TRUE,America/Chicago,55063 55069 55067
+Makinen-MN,1840032005,Makinen,Makinen,MN,Makinen-MN,Minnesota,27137,St. Louis,47.3572,-92.3677,,,5.8,point,FALSE,America/Chicago,55763
+Minnetonka Beach-MN,1840007832,Minnetonka Beach,Minnetonka Beach,MN,Minnetonka Beach-MN,Minnesota,27053,Hennepin,44.9395,-93.5891,552,552,458,polygon,TRUE,America/Chicago,55391 55361
+Hopkins-MN,1840006749,Hopkins,Hopkins,MN,Hopkins-MN,Minnesota,27053,Hennepin,44.9259,-93.4058,18105,18105,1713,polygon,TRUE,America/Chicago,55343 55305
+Pine Springs-MN,1840008915,Pine Springs,Pine Springs,MN,Pine Springs-MN,Minnesota,27163,Washington,45.0368,-92.9544,399,399,203,polygon,TRUE,America/Chicago,55128 55115
+Pine Bend-MN,1840023821,Pine Bend,Pine Bend,MN,Pine Bend-MN,Minnesota,27087,Mahnomen,47.4222,-95.5979,,,19.9,polygon,FALSE,America/Chicago,56651
+Huntley-MN,1840031827,Huntley,Huntley,MN,Huntley-MN,Minnesota,27043,Faribault,43.7316,-94.2375,,,58.1,point,FALSE,America/Chicago,56047
+Santiago-MN,1840031892,Santiago,Santiago,MN,Santiago-MN,Minnesota,27141,Sherburne,45.5391,-93.82,,,40.2,point,FALSE,America/Chicago,55371
+Eagle Lake-MN,1840007903,Eagle Lake,Eagle Lake,MN,Eagle Lake-MN,Minnesota,27013,Blue Earth,44.1616,-93.8843,2992,2992,716,polygon,TRUE,America/Chicago,56024
+Petersburg-MN,1840031869,Petersburg,Petersburg,MN,Petersburg-MN,Minnesota,27063,Jackson,43.5302,-94.9189,,,4.5,point,FALSE,America/Chicago,56143
+Dunnell-MN,1840007949,Dunnell,Dunnell,MN,Dunnell-MN,Minnesota,27091,Martin,43.5609,-94.7746,154,154,158,polygon,TRUE,America/Chicago,56127
+Silver Lake-MN,1840008942,Silver Lake,Silver Lake,MN,Silver Lake-MN,Minnesota,27085,McLeod,44.9039,-94.1976,807,807,826,polygon,TRUE,America/Chicago,55381
+Hackensack-MN,1840006626,Hackensack,Hackensack,MN,Hackensack-MN,Minnesota,27021,Cass,46.9267,-94.5162,312,312,119,polygon,TRUE,America/Chicago,56452
+Gowan-MN,1840032002,Gowan,Gowan,MN,Gowan-MN,Minnesota,27137,St. Louis,46.8641,-92.8471,,,11.3,point,FALSE,America/Chicago,55736
+Red Wing-MN,1840008959,Red Wing,Red Wing,MN,Red Wing-MN,Minnesota,27049,Goodhue,44.5818,-92.6041,14424,16526,184,polygon,TRUE,America/Chicago,55089 55066
+Margie-MN,1840031850,Margie,Margie,MN,Margie-MN,Minnesota,27071,Koochiching,48.0952,-93.9399,,,8.7,point,FALSE,America/Chicago,56658
+Quamba-MN,1840008870,Quamba,Quamba,MN,Quamba-MN,Minnesota,27065,Kanabec,45.9155,-93.1751,129,129,69,polygon,TRUE,America/Chicago,55007 55051
+Belview-MN,1840006782,Belview,Belview,MN,Belview-MN,Minnesota,27127,Redwood,44.6067,-95.3289,358,358,146,polygon,TRUE,America/Chicago,56214
+McGrath-MN,1840007732,McGrath,McGrath,MN,McGrath-MN,Minnesota,27001,Aitkin,46.2419,-93.2751,76,76,78,polygon,TRUE,America/Chicago,56350
+New Munich-MN,1840007783,New Munich,New Munich,MN,New Munich-MN,Minnesota,27145,Stearns,45.6309,-94.7526,325,325,239,polygon,TRUE,America/Chicago,56356 56352
+Centerville-MN,1840006715,Centerville,Centerville,MN,Centerville-MN,Minnesota,27003,Anoka,45.1638,-93.054,3953,3953,717,polygon,TRUE,America/Chicago,55038
+Saum-MN,1840031944,Saum,Saum,MN,Saum-MN,Minnesota,27007,Beltrami,47.9747,-94.6769,,,1.4,point,FALSE,America/Chicago,56650
+West Saint Paul-MN,1840010012,West Saint Paul,West Saint Paul,MN,West Saint Paul-MN,Minnesota,27037,Dakota,44.9019,-93.0857,19746,19746,1551,polygon,TRUE,America/Chicago,55118
+Wannaska-MN,1840031911,Wannaska,Wannaska,MN,Wannaska-MN,Minnesota,27135,Roseau,48.6583,-95.7347,,,21.8,point,FALSE,America/Chicago,56761
+Wacouta-MN,1840031910,Wacouta,Wacouta,MN,Wacouta-MN,Minnesota,27049,Goodhue,44.545,-92.4349,,,28.6,point,FALSE,America/Chicago,55066
+White Bear Lake-MN,1840010005,White Bear Lake,White Bear Lake,MN,White Bear Lake-MN,Minnesota,27123,Ramsey,45.0654,-93.0149,25634,25634,1234,polygon,TRUE,America/Chicago,55110
+Winthrop-MN,1840010013,Winthrop,Winthrop,MN,Winthrop-MN,Minnesota,27143,Sibley,44.5434,-94.3611,1352,1352,492,polygon,TRUE,America/Chicago,55396
+Hermantown-MN,1840006593,Hermantown,Hermantown,MN,Hermantown-MN,Minnesota,27137,St. Louis,46.8058,-92.2407,9451,9451,106,polygon,TRUE,America/Chicago,55814 55810 55811
+Landfall-MN,1840007818,Landfall,Landfall,MN,Landfall-MN,Minnesota,27163,Washington,44.9505,-92.9768,730,730,4212,polygon,TRUE,America/Chicago,55128
+Kerrick-MN,1840007753,Kerrick,Kerrick,MN,Kerrick-MN,Minnesota,27115,Pine,46.3385,-92.5843,63,63,24,polygon,TRUE,America/Chicago,55712 55756
+Hatfield-MN,1840006797,Hatfield,Hatfield,MN,Hatfield-MN,Minnesota,27117,Pipestone,43.9547,-96.1904,57,57,7,polygon,TRUE,America/Chicago,56128 56164
+Little Canada-MN,1840008936,Little Canada,Little Canada,MN,Little Canada-MN,Minnesota,27123,Ramsey,45.0244,-93.0863,10344,10344,1026,polygon,TRUE,America/Chicago,55117
+Paynesville-MN,1840008875,Paynesville,Paynesville,MN,Paynesville-MN,Minnesota,27145,Stearns,45.3785,-94.7215,2487,2487,414,polygon,TRUE,America/Chicago,56362
+Correll-MN,1840006696,Correll,Correll,MN,Correll-MN,Minnesota,27011,Big Stone,45.232,-96.1627,32,32,34,polygon,TRUE,America/Chicago,56227
+Wood Lake-MN,1840010010,Wood Lake,Wood Lake,MN,Wood Lake-MN,Minnesota,27173,Yellow Medicine,44.6513,-95.5353,408,408,195,polygon,TRUE,America/Chicago,56297
+Manhattan Beach-MN,1840008844,Manhattan Beach,Manhattan Beach,MN,Manhattan Beach-MN,Minnesota,27035,Crow Wing,46.7349,-94.1391,58,58,14,polygon,TRUE,America/Chicago,56442
+Le Sueur-MN,1840007887,Le Sueur,Le Sueur,MN,Le Sueur-MN,Minnesota,27079,Le Sueur,44.4699,-93.9026,3690,3979,285,polygon,TRUE,America/Chicago,56058
+Green Valley-MN,1840031814,Green Valley,Green Valley,MN,Green Valley-MN,Minnesota,27083,Lyon,44.5269,-95.7572,,,31.4,point,FALSE,America/Chicago,56258
+Saint Martin-MN,1840008883,Saint Martin,Saint Martin,MN,Saint Martin-MN,Minnesota,27145,Stearns,45.5028,-94.6674,314,314,140,polygon,TRUE,America/Chicago,56376 56362
+Le Center-MN,1840007886,Le Center,Le Center,MN,Le Center-MN,Minnesota,27079,Le Sueur,44.3861,-93.7322,2445,2445,625,polygon,TRUE,America/Chicago,56057
+Dexter-MN,1840006831,Dexter,Dexter,MN,Dexter-MN,Minnesota,27099,Mower,43.7199,-92.7027,342,342,88,polygon,TRUE,America/Chicago,55926
+Plato-MN,1840008944,Plato,Plato,MN,Plato-MN,Minnesota,27085,McLeod,44.7724,-94.0397,316,316,348,polygon,TRUE,America/Chicago,55370
+Biscay-MN,1840006755,Biscay,Biscay,MN,Biscay-MN,Minnesota,27085,McLeod,44.8261,-94.2744,114,114,545,polygon,TRUE,America/Chicago,55336
+Grove City-MN,1840000278,Grove City,Grove City,MN,Grove City-MN,Minnesota,27093,Meeker,45.1479,-94.6817,611,611,343,polygon,TRUE,America/Chicago,56243
+Magnolia-MN,1840008996,Magnolia,Magnolia,MN,Magnolia-MN,Minnesota,27133,Rock,43.6443,-96.0753,219,219,109,polygon,TRUE,America/Chicago,56158
+Wyattville-MN,1840031951,Wyattville,Wyattville,MN,Wyattville-MN,Minnesota,27169,Winona,43.9408,-91.7902,,,5,point,FALSE,America/Chicago,55952
+Starbuck-MN,1840008890,Starbuck,Starbuck,MN,Starbuck-MN,Minnesota,27121,Pope,45.612,-95.5333,1261,1261,310,polygon,TRUE,America/Chicago,56381
+Canton-MN,1840006836,Canton,Canton,MN,Canton-MN,Minnesota,27045,Fillmore,43.5296,-91.9299,345,345,132,polygon,TRUE,America/Chicago,55922
+Richmond-MN,1840008876,Richmond,Richmond,MN,Richmond-MN,Minnesota,27145,Stearns,45.4556,-94.5154,1439,1439,525,polygon,TRUE,America/Chicago,56368
+Clearwater-MN,1840006704,Clearwater,Clearwater,MN,Clearwater-MN,Minnesota,27171,Wright,45.4101,-94.0443,1787,1787,441,polygon,TRUE,America/Chicago,55320
+Willow River-MN,1840009981,Willow River,Willow River,MN,Willow River-MN,Minnesota,27115,Pine,46.3204,-92.8352,393,393,88,polygon,TRUE,America/Chicago,55795
+Fountain-MN,1840007939,Fountain,Fountain,MN,Fountain-MN,Minnesota,27045,Fillmore,43.7413,-92.1342,413,413,192,polygon,TRUE,America/Chicago,55935
+Stacy-MN,1840008894,Stacy,Stacy,MN,Stacy-MN,Minnesota,27025,Chisago,45.3834,-92.9935,1475,1475,179,polygon,TRUE,America/Chicago,55092 55079 55078
+Center City-MN,1840000268,Center City,Center City,MN,Center City-MN,Minnesota,27025,Chisago,45.3941,-92.8143,641,641,419,polygon,TRUE,America/Chicago,55012
+Alberta-MN,1840006688,Alberta,Alberta,MN,Alberta-MN,Minnesota,27149,Stevens,45.5751,-96.0507,101,101,145,polygon,TRUE,America/Chicago,56207
+Lastrup-MN,1840007759,Lastrup,Lastrup,MN,Lastrup-MN,Minnesota,27097,Morrison,46.0392,-94.0614,101,101,88,polygon,TRUE,America/Chicago,56364 56344
+Norwood Young America-MN,1840007849,Norwood Young America,Norwood Young America,MN,Norwood Young America-MN,Minnesota,27019,Carver,44.772,-93.9198,3614,3680,555,polygon,TRUE,America/Chicago,55368 55397 55550 55553 55554 55558 55573 55594
+Shorewood-MN,1840008925,Shorewood,Shorewood,MN,Shorewood-MN,Minnesota,27053,Hennepin,44.9161,-93.5743,7642,7642,552,polygon,TRUE,America/Chicago,55331 55364 55391 55392
+Columbus-MN,1840006713,Columbus,Columbus,MN,Columbus-MN,Minnesota,27003,Anoka,45.2686,-93.0809,4016,4016,34,polygon,TRUE,America/Chicago,55025
+Lilydale-MN,1840008947,Lilydale,Lilydale,MN,Lilydale-MN,Minnesota,27037,Dakota,44.9091,-93.1308,853,853,571,polygon,TRUE,America/Chicago,55118
+Saint Hilaire-MN,1840008826,Saint Hilaire,Saint Hilaire,MN,Saint Hilaire-MN,Minnesota,27113,Pennington,48.0135,-96.2137,277,277,138,polygon,TRUE,America/Chicago,56754
+Buffalo-MN,1840006703,Buffalo,Buffalo,MN,Buffalo-MN,Minnesota,27171,Wright,45.1786,-93.8663,16643,16103,854,polygon,TRUE,America/Chicago,55313
+Ostrander-MN,1840009011,Ostrander,Ostrander,MN,Ostrander-MN,Minnesota,27045,Fillmore,43.6139,-92.4266,256,256,205,polygon,TRUE,America/Chicago,55961
+Lewisville-MN,1840007924,Lewisville,Lewisville,MN,Lewisville-MN,Minnesota,27165,Watonwan,43.9238,-94.4352,245,245,328,polygon,TRUE,America/Chicago,56060
+Ellendale-MN,1840007911,Ellendale,Ellendale,MN,Ellendale-MN,Minnesota,27147,Steele,43.8724,-93.2967,690,690,278,polygon,TRUE,America/Chicago,56026
+Wykoff-MN,1840010040,Wykoff,Wykoff,MN,Wykoff-MN,Minnesota,27045,Fillmore,43.7087,-92.2665,432,432,174,polygon,TRUE,America/Chicago,55990
+Rothsay-MN,1840008854,Rothsay,Rothsay,MN,Rothsay-MN,Minnesota,27167,Wilkin,46.4736,-96.2838,483,483,211,polygon,TRUE,America/Chicago,56579
+Swan River-MN,1840031900,Swan River,Swan River,MN,Swan River-MN,Minnesota,27061,Itasca,47.0866,-93.1949,,,2.9,point,FALSE,America/Chicago,55784
+Brownsville-MN,1840006832,Brownsville,Brownsville,MN,Brownsville-MN,Minnesota,27055,Houston,43.7003,-91.2807,491,491,108,polygon,TRUE,America/Chicago,55919
+Ponsford-MN,1840031875,Ponsford,Ponsford,MN,Ponsford-MN,Minnesota,27005,Becker,46.97,-95.3839,,,4.8,point,FALSE,America/Chicago,56575
+Clarks Grove-MN,1840006822,Clarks Grove,Clarks Grove,MN,Clarks Grove-MN,Minnesota,27047,Freeborn,43.7618,-93.3293,673,673,473,polygon,TRUE,America/Chicago,56016
+Avoca-MN,1840006802,Avoca,Avoca,MN,Avoca-MN,Minnesota,27101,Murray,43.949,-95.6465,139,139,55,polygon,TRUE,America/Chicago,56114
+Twin Lakes-MN,1840010037,Twin Lakes,Twin Lakes,MN,Twin Lakes-MN,Minnesota,27047,Freeborn,43.5609,-93.4235,146,146,115,polygon,TRUE,America/Chicago,56089
+Beaver Creek-MN,1840006817,Beaver Creek,Beaver Creek,MN,Beaver Creek-MN,Minnesota,27133,Rock,43.6126,-96.3624,294,294,228,polygon,TRUE,America/Chicago,56116
+Elbow Lake-MN,1840007766,Elbow Lake,Elbow Lake,MN,Elbow Lake-MN,Minnesota,27051,Grant,45.9905,-95.9778,1152,1152,330,polygon,TRUE,America/Chicago,56531
+Freedhem-MN,1840031807,Freedhem,Freedhem,MN,Freedhem-MN,Minnesota,27097,Morrison,46.0564,-94.2086,,,7.7,point,FALSE,America/Chicago,56345
+Greenbush-MN,1840007681,Greenbush,Greenbush,MN,Greenbush-MN,Minnesota,27135,Roseau,48.7003,-96.1837,726,726,186,polygon,TRUE,America/Chicago,56726
+Glencoe-MN,1840007845,Glencoe,Glencoe,MN,Glencoe-MN,Minnesota,27085,McLeod,44.7702,-94.1494,5408,5503,660,polygon,TRUE,America/Chicago,55336
+Pine River-MN,1840008837,Pine River,Pine River,MN,Pine River-MN,Minnesota,27021,Cass,46.7224,-94.3977,929,929,306,polygon,TRUE,America/Chicago,56474
+Kennedy-MN,1840007678,Kennedy,Kennedy,MN,Kennedy-MN,Minnesota,27069,Kittson,48.6426,-96.9105,181,181,166,polygon,TRUE,America/Chicago,56733
+Vermillion-MN,1840010011,Vermillion,Vermillion,MN,Vermillion-MN,Minnesota,27037,Dakota,44.6736,-92.9642,424,424,170,polygon,TRUE,America/Chicago,55085 55033
+Bricelyn-MN,1840004171,Bricelyn,Bricelyn,MN,Bricelyn-MN,Minnesota,27043,Faribault,43.5608,-93.8131,342,342,450,polygon,TRUE,America/Chicago,56014
+Coleraine-MN,1840006611,Coleraine,Coleraine,MN,Coleraine-MN,Minnesota,27061,Itasca,47.2642,-93.4523,1990,1990,49,polygon,TRUE,America/Chicago,55709 55786 55744 55722
+Halma-MN,1840006582,Halma,Halma,MN,Halma-MN,Minnesota,27069,Kittson,48.6599,-96.5968,58,58,24,polygon,TRUE,America/Chicago,56729
+Ronneby-MN,1840025296,Ronneby,Ronneby,MN,Ronneby-MN,Minnesota,27009,Benton,45.6853,-93.8601,,,28.1,polygon,FALSE,America/Chicago,56329
+Norcross-MN,1840007767,Norcross,Norcross,MN,Norcross-MN,Minnesota,27051,Grant,45.8687,-96.1965,70,70,17,polygon,TRUE,America/Chicago,56274
+Greenleafton-MN,1840031815,Greenleafton,Greenleafton,MN,Greenleafton-MN,Minnesota,27045,Fillmore,43.5802,-92.2093,,,17.2,point,FALSE,America/Chicago,55965
+Hill City-MN,1840000191,Hill City,Hill City,MN,Hill City-MN,Minnesota,27001,Aitkin,46.98,-93.596,588,588,177,polygon,TRUE,America/Chicago,55748
+Westbrook-MN,1840010031,Westbrook,Westbrook,MN,Westbrook-MN,Minnesota,27033,Cottonwood,44.0428,-95.4365,722,722,359,polygon,TRUE,America/Chicago,56183
+Mound-MN,1840007828,Mound,Mound,MN,Mound-MN,Minnesota,27053,Hennepin,44.9325,-93.6598,9394,9394,1270,polygon,TRUE,America/Chicago,55364
+Boy River-MN,1840006625,Boy River,Boy River,MN,Boy River-MN,Minnesota,27021,Cass,47.1678,-94.1241,47,47,49,polygon,TRUE,America/Chicago,56672
+Prior Lake-MN,1840008956,Prior Lake,Prior Lake,MN,Prior Lake-MN,Minnesota,27139,Scott,44.725,-93.441,25863,25863,625,polygon,TRUE,America/Chicago,55372 55379
+Hallock-MN,1840006581,Hallock,Hallock,MN,Hallock-MN,Minnesota,27069,Kittson,48.7662,-96.9429,930,930,176,polygon,TRUE,America/Chicago,56728
+Vernon Center-MN,1840010025,Vernon Center,Vernon Center,MN,Vernon Center-MN,Minnesota,27013,Blue Earth,43.9627,-94.1664,325,325,255,polygon,TRUE,America/Chicago,56090
+Greenfield-MN,1840007825,Greenfield,Greenfield,MN,Greenfield-MN,Minnesota,27053,Hennepin,45.0997,-93.6882,2948,2948,55,polygon,TRUE,America/Chicago,55373 55357
+Edina-MN,1840007822,Edina,Edina,MN,Edina-MN,Minnesota,27053,Hennepin,44.8913,-93.3602,51350,51350,1282,polygon,TRUE,America/Chicago,55424 55436 55435 55439 55410
+Butterfield-MN,1840006814,Butterfield,Butterfield,MN,Butterfield-MN,Minnesota,27165,Watonwan,43.9583,-94.7935,590,590,510,polygon,TRUE,America/Chicago,56120
+Brainerd-MN,1840006644,Brainerd,Brainerd,MN,Brainerd-MN,Minnesota,27035,Crow Wing,46.3551,-94.1981,19459,13349,432,polygon,TRUE,America/Chicago,56401
+Crown-MN,1840031785,Crown,Crown,MN,Crown-MN,Minnesota,27059,Isanti,45.4447,-93.4602,,,28.6,point,FALSE,America/Chicago,55070
+Byron-MN,1840006809,Byron,Byron,MN,Byron-MN,Minnesota,27109,Olmsted,44.0379,-92.6418,5337,5392,712,polygon,TRUE,America/Chicago,55920
+Redby-MN,1840003995,Redby,Redby,MN,Redby-MN,Minnesota,27007,Beltrami,47.8717,-94.9184,,,450.2,polygon,FALSE,America/Chicago,56671 56670
+Owatonna-MN,1840008983,Owatonna,Owatonna,MN,Owatonna-MN,Minnesota,27147,Steele,44.0915,-93.2308,25567,25773,674,polygon,TRUE,America/Chicago,55060
+Roseville-MN,1840008939,Roseville,Roseville,MN,Roseville-MN,Minnesota,27123,Ramsey,45.0155,-93.1544,35691,35691,1059,polygon,TRUE,America/Chicago,55113
+Perley-MN,1840008834,Perley,Perley,MN,Perley-MN,Minnesota,27107,Norman,47.1762,-96.8018,89,89,145,polygon,TRUE,America/Chicago,56574
+Staples-MN,1840008860,Staples,Staples,MN,Staples-MN,Minnesota,27153,Todd,46.369,-94.8016,2712,2898,239,polygon,TRUE,America/Chicago,56479
+Nashwauk-MN,1840007716,Nashwauk,Nashwauk,MN,Nashwauk-MN,Minnesota,27061,Itasca,47.3806,-93.1655,960,960,25,polygon,TRUE,America/Chicago,55769 55775
+Cannon Falls-MN,1840006778,Cannon Falls,Cannon Falls,MN,Cannon Falls-MN,Minnesota,27049,Goodhue,44.5132,-92.9028,3952,4106,362,polygon,TRUE,America/Chicago,55009
+Amboy-MN,1840006795,Amboy,Amboy,MN,Amboy-MN,Minnesota,27013,Blue Earth,43.8879,-94.158,513,513,631,polygon,TRUE,America/Chicago,56010
+Comfrey-MN,1840006791,Comfrey,Comfrey,MN,Comfrey-MN,Minnesota,27015,Brown,44.1111,-94.9034,373,373,308,polygon,TRUE,America/Chicago,56019
+Mahtomedi-MN,1840008913,Mahtomedi,Mahtomedi,MN,Mahtomedi-MN,Minnesota,27163,Washington,45.0616,-92.9662,8211,8211,905,polygon,TRUE,America/Chicago,55110 55115
+Winger-MN,1840009962,Winger,Winger,MN,Winger-MN,Minnesota,27119,Polk,47.5375,-95.9865,223,223,196,polygon,TRUE,America/Chicago,56592
+Utica-MN,1840010033,Utica,Utica,MN,Utica-MN,Minnesota,27169,Winona,43.9774,-91.9495,286,286,119,polygon,TRUE,America/Chicago,55979
+Maynard-MN,1840007835,Maynard,Maynard,MN,Maynard-MN,Minnesota,27023,Chippewa,44.9052,-95.4679,350,350,209,polygon,TRUE,America/Chicago,56260
+Trimont-MN,1840010045,Trimont,Trimont,MN,Trimont-MN,Minnesota,27091,Martin,43.7614,-94.7163,707,707,349,polygon,TRUE,America/Chicago,56176
+Northcote-MN,1840031857,Northcote,Northcote,MN,Northcote-MN,Minnesota,27069,Kittson,48.8453,-97.0012,,,1.1,point,FALSE,America/Chicago,56728
+Saint Cloud-MN,1840008881,Saint Cloud,Saint Cloud,MN,Saint Cloud-MN,Minnesota,27145,Stearns,45.5339,-94.1718,113649,67641,652,polygon,TRUE,America/Chicago,56304 56301 56303 56302 56372 56393 56395 56396 56397 56398 56399
+Milaca-MN,1840007761,Milaca,Milaca,MN,Milaca-MN,Minnesota,27095,Mille Lacs,45.7585,-93.6514,2788,2901,350,polygon,TRUE,America/Chicago,56353
+Stevenson-MN,1840032012,Stevenson,Stevenson,MN,Stevenson-MN,Minnesota,27137,St. Louis,47.4366,-93.058,,,6.3,point,FALSE,America/Chicago,55746
+Pennock-MN,1840008908,Pennock,Pennock,MN,Pennock-MN,Minnesota,27067,Kandiyohi,45.1459,-95.1747,517,517,189,polygon,TRUE,America/Chicago,56279
+Cotton-MN,1840031993,Cotton,Cotton,MN,Cotton-MN,Minnesota,27137,St. Louis,47.1694,-92.4763,,,9.1,point,FALSE,America/Chicago,55724
+Forbes-MN,1840031999,Forbes,Forbes,MN,Forbes-MN,Minnesota,27137,St. Louis,47.3716,-92.6041,,,14.3,point,FALSE,America/Chicago,55738
+Alborn-MN,1840031986,Alborn,Alborn,MN,Alborn-MN,Minnesota,27137,St. Louis,46.973,-92.576,,,3.9,point,FALSE,America/Chicago,55702
+Bruno-MN,1840006659,Bruno,Bruno,MN,Bruno-MN,Minnesota,27115,Pine,46.281,-92.668,99,99,38,polygon,TRUE,America/Chicago,55712
+Hillman-MN,1840006672,Hillman,Hillman,MN,Hillman-MN,Minnesota,27097,Morrison,46.0077,-93.8885,37,37,26,polygon,TRUE,America/Chicago,56338
+Whalan-MN,1840010039,Whalan,Whalan,MN,Whalan-MN,Minnesota,27045,Fillmore,43.7339,-91.9232,67,67,62,polygon,TRUE,America/Chicago,55949
+Effie-MN,1840007713,Effie,Effie,MN,Effie-MN,Minnesota,27061,Itasca,47.8412,-93.6376,122,122,12,polygon,TRUE,America/Chicago,56639
+Wayzata-MN,1840010000,Wayzata,Wayzata,MN,Wayzata-MN,Minnesota,27053,Hennepin,44.9708,-93.5139,4522,4522,566,polygon,TRUE,America/Chicago,55391
+Hayfield-MN,1840006807,Hayfield,Hayfield,MN,Hayfield-MN,Minnesota,27039,Dodge,43.8903,-92.8471,1323,1323,403,polygon,TRUE,America/Chicago,55940
+Saginaw-MN,1840032010,Saginaw,Saginaw,MN,Saginaw-MN,Minnesota,27137,St. Louis,46.8591,-92.4444,,,20.3,point,FALSE,America/Chicago,55779
+Hartland-MN,1840006826,Hartland,Hartland,MN,Hartland-MN,Minnesota,27047,Freeborn,43.8045,-93.4851,305,305,389,polygon,TRUE,America/Chicago,56042
+Raymond-MN,1840008910,Raymond,Raymond,MN,Raymond-MN,Minnesota,27067,Kandiyohi,45.0179,-95.2361,752,752,330,polygon,TRUE,America/Chicago,56282
+Vining-MN,1840009978,Vining,Vining,MN,Vining-MN,Minnesota,27111,Otter Tail,46.2612,-95.5342,79,79,23,polygon,TRUE,America/Chicago,56588
+Cohasset-MN,1840006610,Cohasset,Cohasset,MN,Cohasset-MN,Minnesota,27061,Itasca,47.2391,-93.6395,2728,2728,39,polygon,TRUE,America/Chicago,55721
+Wilmont-MN,1840010035,Wilmont,Wilmont,MN,Wilmont-MN,Minnesota,27105,Nobles,43.765,-95.8277,347,347,117,polygon,TRUE,America/Chicago,56185
+Prosit-MN,1840032008,Prosit,Prosit,MN,Prosit-MN,Minnesota,27137,St. Louis,46.998,-92.6177,,,15.6,point,FALSE,America/Chicago,55702
+Eldred-MN,1840031798,Eldred,Eldred,MN,Eldred-MN,Minnesota,27119,Polk,47.6828,-96.7804,,,23.4,point,FALSE,America/Chicago,56523
+Whipholt-MN,1840026098,Whipholt,Whipholt,MN,Whipholt-MN,Minnesota,27021,Cass,47.0436,-94.386,,,33.6,polygon,FALSE,America/Chicago,56484
+Heidelberg-MN,1840006789,Heidelberg,Heidelberg,MN,Heidelberg-MN,Minnesota,27079,Le Sueur,44.4931,-93.6265,124,124,89,polygon,TRUE,America/Chicago,56071
+White Earth-MN,1840006630,White Earth,White Earth,MN,White Earth-MN,Minnesota,27005,Becker,47.0977,-95.8445,,,81.7,polygon,FALSE,America/Chicago,56591 56589 56569
+Winnebago-MN,1840010044,Winnebago,Winnebago,MN,Winnebago-MN,Minnesota,27043,Faribault,43.7639,-94.1705,1367,1367,232,polygon,TRUE,America/Chicago,56098
+Edgerton-MN,1840007906,Edgerton,Edgerton,MN,Edgerton-MN,Minnesota,27117,Pipestone,43.8752,-96.1304,1132,1132,376,polygon,TRUE,America/Chicago,56128
+Jordan-MN,1840007864,Jordan,Jordan,MN,Jordan-MN,Minnesota,27139,Scott,44.665,-93.635,5848,6143,719,polygon,TRUE,America/Chicago,55352
+Montevideo-MN,1840007837,Montevideo,Montevideo,MN,Montevideo-MN,Minnesota,27023,Chippewa,44.9508,-95.7157,5163,5207,421,polygon,TRUE,America/Chicago,56265
+Philbrook-MN,1840031870,Philbrook,Philbrook,MN,Philbrook-MN,Minnesota,27153,Todd,46.2833,-94.717,,,13.8,point,FALSE,America/Chicago,56466
+Glenville-MN,1840007932,Glenville,Glenville,MN,Glenville-MN,Minnesota,27047,Freeborn,43.5739,-93.2818,623,623,214,polygon,TRUE,America/Chicago,56036
+Bovey-MN,1840006613,Bovey,Bovey,MN,Bovey-MN,Minnesota,27061,Itasca,47.2961,-93.4034,802,802,135,polygon,TRUE,America/Chicago,55709 55786
+Greenview-MN,1840031933,Greenview,Greenview,MN,Greenview-MN,Minnesota,27119,Polk,47.6258,-96.5606,,,1.1,point,FALSE,America/Chicago,56716
+Lakeland-MN,1840007816,Lakeland,Lakeland,MN,Lakeland-MN,Minnesota,27163,Washington,44.9502,-92.7699,1827,1827,340,polygon,TRUE,America/Chicago,55043
+Mounds View-MN,1840007840,Mounds View,Mounds View,MN,Mounds View-MN,Minnesota,27123,Ramsey,45.1071,-93.2077,12952,12952,1242,polygon,TRUE,America/Chicago,55112
+Barrett-MN,1840006676,Barrett,Barrett,MN,Barrett-MN,Minnesota,27051,Grant,45.9125,-95.8948,403,403,74,polygon,TRUE,America/Chicago,56311
+Hanover-MN,1840006708,Hanover,Hanover,MN,Hanover-MN,Minnesota,27171,Wright,45.1581,-93.6628,3360,3360,237,polygon,TRUE,America/Chicago,55341
+Viking-MN,1840009956,Viking,Viking,MN,Viking-MN,Minnesota,27089,Marshall,48.2182,-96.4067,103,103,77,polygon,TRUE,America/Chicago,56760
+Cormorant-MN,1840031783,Cormorant,Cormorant,MN,Cormorant-MN,Minnesota,27005,Becker,46.7305,-96.0656,,,6,point,FALSE,America/Chicago,56572
+Spring Hill-MN,1840008874,Spring Hill,Spring Hill,MN,Spring Hill-MN,Minnesota,27145,Stearns,45.5232,-94.8317,86,86,45,polygon,TRUE,America/Chicago,56352
+Two Harbors-MN,1840009960,Two Harbors,Two Harbors,MN,Two Harbors-MN,Minnesota,27075,Lake,47.0301,-91.6749,3413,3562,416,polygon,TRUE,America/Chicago,55616
+Riverton-MN,1840008846,Riverton,Riverton,MN,Riverton-MN,Minnesota,27035,Crow Wing,46.4586,-94.0494,116,116,58,polygon,TRUE,America/Chicago,56455
+Aitkin-MN,1840006638,Aitkin,Aitkin,MN,Aitkin-MN,Minnesota,27001,Aitkin,46.5295,-93.7059,2009,2009,351,polygon,TRUE,America/Chicago,56431
+Hamel-MN,1840031817,Hamel,Hamel,MN,Hamel-MN,Minnesota,27053,Hennepin,45.0411,-93.5255,,,124.4,point,FALSE,America/Chicago,55340
+Barnesville-MN,1840006634,Barnesville,Barnesville,MN,Barnesville-MN,Minnesota,27027,Clay,46.6499,-96.4164,2576,2576,481,polygon,TRUE,America/Chicago,56514
+Palisade-MN,1840008842,Palisade,Palisade,MN,Palisade-MN,Minnesota,27001,Aitkin,46.7123,-93.489,161,161,96,polygon,TRUE,America/Chicago,56469
+Dorothy-MN,1840031790,Dorothy,Dorothy,MN,Dorothy-MN,Minnesota,27125,Red Lake,47.9277,-96.4467,,,10.7,point,FALSE,America/Chicago,56750
+Bayport-MN,1840006737,Bayport,Bayport,MN,Bayport-MN,Minnesota,27163,Washington,45.0169,-92.7831,3426,3426,766,polygon,TRUE,America/Chicago,55003
+Blackberry-MN,1840031954,Blackberry,Blackberry,MN,Blackberry-MN,Minnesota,27061,Itasca,47.1808,-93.3905,,,14.2,point,FALSE,America/Chicago,55744
+Reads Landing-MN,1840031878,Reads Landing,Reads Landing,MN,Reads Landing-MN,Minnesota,27157,Wabasha,44.4022,-92.0791,,,124.6,point,FALSE,America/Chicago,55968
+Lucan-MN,1840008960,Lucan,Lucan,MN,Lucan-MN,Minnesota,27127,Redwood,44.4101,-95.4135,181,181,184,polygon,TRUE,America/Chicago,56255
+Oak Park-MN,1840031859,Oak Park,Oak Park,MN,Oak Park-MN,Minnesota,27009,Benton,45.6977,-93.818,,,58.1,point,FALSE,America/Chicago,56357
+Nicollet-MN,1840007895,Nicollet,Nicollet,MN,Nicollet-MN,Minnesota,27103,Nicollet,44.2743,-94.1883,1134,1134,463,polygon,TRUE,America/Chicago,56074
+Anoka-MN,1840006717,Anoka,Anoka,MN,Anoka-MN,Minnesota,27003,Anoka,45.21,-93.3894,17400,17400,1003,polygon,TRUE,America/Chicago,55303
+Carlos-MN,1840006679,Carlos,Carlos,MN,Carlos-MN,Minnesota,27041,Douglas,45.9734,-95.2924,489,489,424,polygon,TRUE,America/Chicago,56319
+Danube-MN,1840006772,Danube,Danube,MN,Danube-MN,Minnesota,27129,Renville,44.791,-95.1034,461,461,379,polygon,TRUE,America/Chicago,56230
+Belgrade-MN,1840006685,Belgrade,Belgrade,MN,Belgrade-MN,Minnesota,27145,Stearns,45.4506,-94.9998,768,768,243,polygon,TRUE,America/Chicago,56312
+Jacobson-MN,1840031830,Jacobson,Jacobson,MN,Jacobson-MN,Minnesota,27001,Aitkin,47.0008,-93.2674,,,5.6,point,FALSE,America/Chicago,55752
+Clitherall-MN,1840006650,Clitherall,Clitherall,MN,Clitherall-MN,Minnesota,27111,Otter Tail,46.2746,-95.6309,114,114,216,polygon,TRUE,America/Chicago,56524
+Crookston-MN,1840006604,Crookston,Crookston,MN,Crookston-MN,Minnesota,27119,Polk,47.7747,-96.6062,7875,7804,585,polygon,TRUE,America/Chicago,56716
+Fairmont-MN,1840007950,Fairmont,Fairmont,MN,Fairmont-MN,Minnesota,27091,Martin,43.6441,-94.4618,9083,10115,259,polygon,TRUE,America/Chicago,56031
+Sobieski-MN,1840008862,Sobieski,Sobieski,MN,Sobieski-MN,Minnesota,27097,Morrison,45.9221,-94.4829,192,192,17,polygon,TRUE,America/Chicago,56345
+Elmore-MN,1840007945,Elmore,Elmore,MN,Elmore-MN,Minnesota,27043,Faribault,43.5069,-94.0888,631,631,266,polygon,TRUE,America/Chicago,56027
+Hibbing-MN,1840006594,Hibbing,Hibbing,MN,Hibbing-MN,Minnesota,27137,St. Louis,47.3981,-92.9487,11426,16093,34,polygon,TRUE,America/Chicago,55746
+Saint James-MN,1840008994,Saint James,Saint James,MN,Saint James-MN,Minnesota,27165,Watonwan,43.9834,-94.6252,4428,4447,715,polygon,TRUE,America/Chicago,56081
+Mabel-MN,1840009009,Mabel,Mabel,MN,Mabel-MN,Minnesota,27045,Fillmore,43.52,-91.7681,762,762,612,polygon,TRUE,America/Chicago,55954
+Janesville-MN,1840007915,Janesville,Janesville,MN,Janesville-MN,Minnesota,27161,Waseca,44.1214,-93.7107,2272,2272,502,polygon,TRUE,America/Chicago,56048
+Euclid-MN,1840031800,Euclid,Euclid,MN,Euclid-MN,Minnesota,27119,Polk,47.9719,-96.639,,,56.4,point,FALSE,America/Chicago,56722
+Morton-MN,1840007862,Morton,Morton,MN,Morton-MN,Minnesota,27129,Renville,44.5533,-94.9848,374,374,119,polygon,TRUE,America/Chicago,56270
+Northfield-MN,1840007891,Northfield,Northfield,MN,Northfield-MN,Minnesota,27131,Rice,44.4553,-93.1697,22005,20445,928,polygon,TRUE,America/Chicago,55057
+Wilson-MN,1840031950,Wilson,Wilson,MN,Wilson-MN,Minnesota,27169,Winona,43.96,-91.6846,,,22.8,point,FALSE,America/Chicago,55987
+Circle Pines-MN,1840006711,Circle Pines,Circle Pines,MN,Circle Pines-MN,Minnesota,27003,Anoka,45.1408,-93.1504,4955,4955,1070,polygon,TRUE,America/Chicago,55014
+Urbank-MN,1840009976,Urbank,Urbank,MN,Urbank-MN,Minnesota,27111,Otter Tail,46.1245,-95.511,54,54,29,polygon,TRUE,America/Chicago,56588 56361
+Arlington-MN,1840006776,Arlington,Arlington,MN,Arlington-MN,Minnesota,27143,Sibley,44.6083,-94.0764,2158,2158,522,polygon,TRUE,America/Chicago,55307
+Wyoming-MN,1840009992,Wyoming,Wyoming,MN,Wyoming-MN,Minnesota,27025,Chisago,45.3365,-92.9765,7856,7856,146,polygon,TRUE,America/Chicago,55092 55013 55025 55079
+Saint Bonifacius-MN,1840008934,Saint Bonifacius,Saint Bonifacius,MN,Saint Bonifacius-MN,Minnesota,27053,Hennepin,44.9052,-93.7475,2372,2372,865,polygon,TRUE,America/Chicago,55375
+Strathcona-MN,1840008812,Strathcona,Strathcona,MN,Strathcona-MN,Minnesota,27135,Roseau,48.5539,-96.1672,44,44,34,polygon,TRUE,America/Chicago,56759
+Montgomery-MN,1840007883,Montgomery,Montgomery,MN,Montgomery-MN,Minnesota,27079,Le Sueur,44.4444,-93.5801,2543,2907,427,polygon,TRUE,America/Chicago,56069
+Chanhassen-MN,1840006759,Chanhassen,Chanhassen,MN,Chanhassen-MN,Minnesota,27019,Carver,44.8544,-93.5621,25469,25469,481,polygon,TRUE,America/Chicago,55331 55317 55318
+Afton-MN,1840006736,Afton,Afton,MN,Afton-MN,Minnesota,27163,Washington,44.9042,-92.8173,2991,2991,45,polygon,TRUE,America/Chicago,55001
+Ceylon-MN,1840006843,Ceylon,Ceylon,MN,Ceylon-MN,Minnesota,27091,Martin,43.5322,-94.6316,350,350,207,polygon,TRUE,America/Chicago,56121
+Rochert-MN,1840031882,Rochert,Rochert,MN,Rochert-MN,Minnesota,27005,Becker,46.86,-95.6878,,,47.3,point,FALSE,America/Chicago,56501
+Dresbach-MN,1840031793,Dresbach,Dresbach,MN,Dresbach-MN,Minnesota,27169,Winona,43.8955,-91.3432,,,153.1,point,FALSE,America/Chicago,55947
+Cromwell-MN,1840006647,Cromwell,Cromwell,MN,Cromwell-MN,Minnesota,27017,Carlton,46.6795,-92.8726,230,230,48,polygon,TRUE,America/Chicago,55726
+Waltham-MN,1840010038,Waltham,Waltham,MN,Waltham-MN,Minnesota,27099,Mower,43.8202,-92.8748,151,151,126,polygon,TRUE,America/Chicago,55982
+Bluffton-MN,1840006653,Bluffton,Bluffton,MN,Bluffton-MN,Minnesota,27111,Otter Tail,46.4697,-95.2337,211,211,29,polygon,TRUE,America/Chicago,56518 56482
+Shaw-MN,1840032011,Shaw,Shaw,MN,Shaw-MN,Minnesota,27137,St. Louis,47.1133,-92.353,,,2,point,FALSE,America/Chicago,55724
+Waverly-MN,1840009994,Waverly,Waverly,MN,Waverly-MN,Minnesota,27171,Wright,45.0649,-93.9663,1412,1412,313,polygon,TRUE,America/Chicago,55390
+Ashby-MN,1840006675,Ashby,Ashby,MN,Ashby-MN,Minnesota,27051,Grant,46.093,-95.8155,436,436,308,polygon,TRUE,America/Chicago,56309
+Oak Grove-MN,1840007799,Oak Grove,Oak Grove,MN,Oak Grove-MN,Minnesota,27003,Anoka,45.3407,-93.3264,8545,8545,97,polygon,TRUE,America/Chicago,55011 55303 55005
+Stanton-MN,1840031897,Stanton,Stanton,MN,Stanton-MN,Minnesota,27049,Goodhue,44.4719,-93.023,,,10.9,point,FALSE,America/Chicago,55018
+Chokio-MN,1840006687,Chokio,Chokio,MN,Chokio-MN,Minnesota,27149,Stevens,45.5732,-96.1748,382,382,312,polygon,TRUE,America/Chicago,56221
+De Graff-MN,1840006729,De Graff,De Graff,MN,De Graff-MN,Minnesota,27151,Swift,45.2598,-95.4685,128,128,61,polygon,TRUE,America/Chicago,56271
+Schroeder-MN,1840031974,Schroeder,Schroeder,MN,Schroeder-MN,Minnesota,27031,Cook,47.5443,-90.8918,,,35,point,FALSE,America/Chicago,55613
+Askov-MN,1840006660,Askov,Askov,MN,Askov-MN,Minnesota,27115,Pine,46.1887,-92.7823,347,347,105,polygon,TRUE,America/Chicago,55704
+Delhi-MN,1840006783,Delhi,Delhi,MN,Delhi-MN,Minnesota,27127,Redwood,44.5979,-95.2133,66,66,32,polygon,TRUE,America/Chicago,56283
+Monticello-MN,1840007795,Monticello,Monticello,MN,Monticello-MN,Minnesota,27171,Wright,45.2977,-93.7979,26875,13429,579,polygon,TRUE,America/Chicago,55362
+Brooks-MN,1840003998,Brooks,Brooks,MN,Brooks-MN,Minnesota,27125,Red Lake,47.8166,-96.0034,139,139,45,polygon,TRUE,America/Chicago,56715
+North Oaks-MN,1840007842,North Oaks,North Oaks,MN,North Oaks-MN,Minnesota,27123,Ramsey,45.1002,-93.0882,5099,5099,284,polygon,TRUE,America/Chicago,55127
+Waskish-MN,1840031914,Waskish,Waskish,MN,Waskish-MN,Minnesota,27007,Beltrami,48.1614,-94.5125,,,14.5,point,FALSE,America/Chicago,56685
+Fossum-MN,1840031805,Fossum,Fossum,MN,Fossum-MN,Minnesota,27107,Norman,47.2386,-96.1762,,,2.4,point,FALSE,America/Chicago,56584
+Evan-MN,1840007893,Evan,Evan,MN,Evan-MN,Minnesota,27015,Brown,44.3548,-94.8361,83,83,31,polygon,TRUE,America/Chicago,56266 56085
+Hamburg-MN,1840006761,Hamburg,Hamburg,MN,Hamburg-MN,Minnesota,27019,Carver,44.7327,-93.9637,527,527,896,polygon,TRUE,America/Chicago,55339
+Castle Danger-MN,1840031778,Castle Danger,Castle Danger,MN,Castle Danger-MN,Minnesota,27075,Lake,47.1208,-91.5032,,,12.1,point,FALSE,America/Chicago,55616
+Lake Bronson-MN,1840007679,Lake Bronson,Lake Bronson,MN,Lake Bronson-MN,Minnesota,27069,Kittson,48.7321,-96.6636,218,218,144,polygon,TRUE,America/Chicago,56734
+Avon-MN,1840006684,Avon,Avon,MN,Avon-MN,Minnesota,27145,Stearns,45.6092,-94.46,1527,1527,399,polygon,TRUE,America/Chicago,56310
+Borup-MN,1840006618,Borup,Borup,MN,Borup-MN,Minnesota,27107,Norman,47.1803,-96.5057,106,106,163,polygon,TRUE,America/Chicago,56519
+Rutledge-MN,1840008857,Rutledge,Rutledge,MN,Rutledge-MN,Minnesota,27115,Pine,46.257,-92.8696,220,220,28,polygon,TRUE,America/Chicago,55704 55795
+Royalton-MN,1840008866,Royalton,Royalton,MN,Royalton-MN,Minnesota,27097,Morrison,45.8303,-94.2926,1216,1216,237,polygon,TRUE,America/Chicago,56373
+Dalbo-MN,1840031787,Dalbo,Dalbo,MN,Dalbo-MN,Minnesota,27059,Isanti,45.6589,-93.3988,,,17.2,point,FALSE,America/Chicago,55017
+New York Mills-MN,1840007748,New York Mills,New York Mills,MN,New York Mills-MN,Minnesota,27111,Otter Tail,46.5211,-95.3723,1227,1227,352,polygon,TRUE,America/Chicago,56567
+Rogers-MN,1840008932,Rogers,Rogers,MN,Rogers-MN,Minnesota,27053,Hennepin,45.1865,-93.5781,12748,12748,193,polygon,TRUE,America/Chicago,55374
+Clontarf-MN,1840006724,Clontarf,Clontarf,MN,Clontarf-MN,Minnesota,27151,Swift,45.3767,-95.6773,159,159,31,polygon,TRUE,America/Chicago,56215 56226
+Morrill-MN,1840031855,Morrill,Morrill,MN,Morrill-MN,Minnesota,27097,Morrison,45.8389,-93.9697,,,15.1,point,FALSE,America/Chicago,56329
+Birchwood-MN,1840031771,Birchwood,Birchwood,MN,Birchwood-MN,Minnesota,27163,Washington,45.0611,-92.976,,,1162.7,point,TRUE,America/Chicago,55110
+Prinsburg-MN,1840008909,Prinsburg,Prinsburg,MN,Prinsburg-MN,Minnesota,27067,Kandiyohi,44.9349,-95.1871,499,499,192,polygon,TRUE,America/Chicago,56284 56281
+Gluek-MN,1840031809,Gluek,Gluek,MN,Gluek-MN,Minnesota,27023,Chippewa,44.9852,-95.4734,,,12.4,point,FALSE,America/Chicago,56260
+Saint Nicholas-MN,1840031890,Saint Nicholas,Saint Nicholas,MN,Saint Nicholas-MN,Minnesota,27145,Stearns,45.3808,-94.4367,,,19.6,point,FALSE,America/Chicago,55389
+Nassau-MN,1840007820,Nassau,Nassau,MN,Nassau-MN,Minnesota,27073,Lac qui Parle,45.0677,-96.4416,67,67,161,polygon,TRUE,America/Chicago,56257
+Tower-MN,1840009953,Tower,Tower,MN,Tower-MN,Minnesota,27137,St. Louis,47.8101,-92.2832,492,492,63,polygon,TRUE,America/Chicago,55790
+Sebeka-MN,1840008843,Sebeka,Sebeka,MN,Sebeka-MN,Minnesota,27159,Wadena,46.6291,-95.0878,683,683,106,polygon,TRUE,America/Chicago,56477
+Kasota-MN,1840007884,Kasota,Kasota,MN,Kasota-MN,Minnesota,27079,Le Sueur,44.2902,-93.9683,652,652,244,polygon,TRUE,America/Chicago,56050
+Hoyt Lakes-MN,1840006595,Hoyt Lakes,Hoyt Lakes,MN,Hoyt Lakes-MN,Minnesota,27137,St. Louis,47.56,-92.1159,1989,1989,13,polygon,TRUE,America/Chicago,55750
+Buhl-MN,1840006587,Buhl,Buhl,MN,Buhl-MN,Minnesota,27137,St. Louis,47.4993,-92.7695,985,985,113,polygon,TRUE,America/Chicago,55713 55710 55758
+Loman-MN,1840031845,Loman,Loman,MN,Loman-MN,Minnesota,27071,Koochiching,48.5127,-93.8029,,,19.3,point,FALSE,America/Chicago,56654
+Maple Bay-MN,1840031849,Maple Bay,Maple Bay,MN,Maple Bay-MN,Minnesota,27119,Polk,47.6358,-96.2251,,,16.6,point,FALSE,America/Chicago,56736
+Pine City-MN,1840000237,Pine City,Pine City,MN,Pine City-MN,Minnesota,27115,Pine,45.8354,-92.969,2975,3065,322,polygon,TRUE,America/Chicago,55063
+Argyle-MN,1840006597,Argyle,Argyle,MN,Argyle-MN,Minnesota,27089,Marshall,48.3364,-96.8163,634,634,165,polygon,TRUE,America/Chicago,56713
+Rushford-MN,1840009014,Rushford,Rushford,MN,Rushford-MN,Minnesota,27045,Fillmore,43.8132,-91.7532,1717,1717,387,polygon,TRUE,America/Chicago,55971
+Amiret-MN,1840031760,Amiret,Amiret,MN,Amiret-MN,Minnesota,27083,Lyon,44.3166,-95.697,,,38.2,point,FALSE,America/Chicago,56175
+Nimrod-MN,1840007735,Nimrod,Nimrod,MN,Nimrod-MN,Minnesota,27159,Wadena,46.6374,-94.8805,67,67,27,polygon,TRUE,America/Chicago,56477
+Milan-MN,1840007836,Milan,Milan,MN,Milan-MN,Minnesota,27023,Chippewa,45.1115,-95.9145,364,364,115,polygon,TRUE,America/Chicago,56262
+Karlstad-MN,1840007677,Karlstad,Karlstad,MN,Karlstad-MN,Minnesota,27069,Kittson,48.5779,-96.5167,724,724,183,polygon,TRUE,America/Chicago,56732
+Gary-MN,1840007719,Gary,Gary,MN,Gary-MN,Minnesota,27107,Norman,47.3726,-96.2655,206,206,241,polygon,TRUE,America/Chicago,56545
+Bigfork-MN,1840006612,Bigfork,Bigfork,MN,Bigfork-MN,Minnesota,27061,Itasca,47.7476,-93.6524,446,446,97,polygon,TRUE,America/Chicago,56628
+Rosewood-MN,1840031886,Rosewood,Rosewood,MN,Rosewood-MN,Minnesota,27089,Marshall,48.1894,-96.2903,,,5.3,point,FALSE,America/Chicago,56701
+Ray-MN,1840031972,Ray,Ray,MN,Ray-MN,Minnesota,27071,Koochiching,48.4108,-93.2104,,,4.8,point,FALSE,America/Chicago,56669
+Watertown-MN,1840010009,Watertown,Watertown,MN,Watertown-MN,Minnesota,27019,Carver,44.9598,-93.8435,4295,4316,641,polygon,TRUE,America/Chicago,55388
+Browerville-MN,1840004006,Browerville,Browerville,MN,Browerville-MN,Minnesota,27153,Todd,46.0807,-94.8646,753,753,273,polygon,TRUE,America/Chicago,56438
+Renville-MN,1840008953,Renville,Renville,MN,Renville-MN,Minnesota,27129,Renville,44.7899,-95.2069,1202,1202,405,polygon,TRUE,America/Chicago,56284
+Belle Plaine-MN,1840006775,Belle Plaine,Belle Plaine,MN,Belle Plaine-MN,Minnesota,27139,Scott,44.619,-93.7641,6497,7009,468,polygon,TRUE,America/Chicago,56011
+Elkton-MN,1840007934,Elkton,Elkton,MN,Elkton-MN,Minnesota,27099,Mower,43.6603,-92.7065,144,144,42,polygon,TRUE,America/Chicago,55933
+Waseca-MN,1840010030,Waseca,Waseca,MN,Waseca-MN,Minnesota,27161,Waseca,44.0826,-93.5026,9196,9074,870,polygon,TRUE,America/Chicago,56093
+Long Lake-MN,1840008921,Long Lake,Long Lake,MN,Long Lake-MN,Minnesota,27053,Hennepin,44.9841,-93.569,1828,1828,850,polygon,TRUE,America/Chicago,55356
+Kettle River-MN,1840007744,Kettle River,Kettle River,MN,Kettle River-MN,Minnesota,27017,Carlton,46.4861,-92.8775,180,180,181,polygon,TRUE,America/Chicago,55757
+Isanti-MN,1840007789,Isanti,Isanti,MN,Isanti-MN,Minnesota,27059,Isanti,45.4928,-93.2406,5594,5594,448,polygon,TRUE,America/Chicago,55040
+Theilman-MN,1840031906,Theilman,Theilman,MN,Theilman-MN,Minnesota,27157,Wabasha,44.2891,-92.1921,,,13.7,point,FALSE,America/Chicago,55945
+Saint Rosa-MN,1840008884,Saint Rosa,Saint Rosa,MN,Saint Rosa-MN,Minnesota,27145,Stearns,45.7287,-94.7161,69,69,69,polygon,TRUE,America/Chicago,56352 56331
+Wrenshall-MN,1840009973,Wrenshall,Wrenshall,MN,Wrenshall-MN,Minnesota,27017,Carlton,46.6217,-92.384,413,413,106,polygon,TRUE,America/Chicago,55797
+Lake Crystal-MN,1840007905,Lake Crystal,Lake Crystal,MN,Lake Crystal-MN,Minnesota,27013,Blue Earth,44.1054,-94.2185,2506,2498,559,polygon,TRUE,America/Chicago,56055
+Harmony-MN,1840006838,Harmony,Harmony,MN,Harmony-MN,Minnesota,27045,Fillmore,43.554,-92.0076,998,998,341,polygon,TRUE,America/Chicago,55939
+Mora-MN,1840007765,Mora,Mora,MN,Mora-MN,Minnesota,27065,Kanabec,45.8765,-93.2912,3549,3453,266,polygon,TRUE,America/Chicago,55051
+Lakefield-MN,1840007943,Lakefield,Lakefield,MN,Lakefield-MN,Minnesota,27063,Jackson,43.6777,-95.1697,1629,1629,492,polygon,TRUE,America/Chicago,56150
+Hayward-MN,1840006827,Hayward,Hayward,MN,Hayward-MN,Minnesota,27047,Freeborn,43.65,-93.246,242,242,148,polygon,TRUE,America/Chicago,56043
+Strandquist-MN,1840008820,Strandquist,Strandquist,MN,Strandquist-MN,Minnesota,27089,Marshall,48.4893,-96.4478,68,68,99,polygon,TRUE,America/Chicago,56758
+Elizabeth-MN,1840007745,Elizabeth,Elizabeth,MN,Elizabeth-MN,Minnesota,27111,Otter Tail,46.3798,-96.131,174,174,182,polygon,TRUE,America/Chicago,56537 56533
+Melrude-MN,1840032006,Melrude,Melrude,MN,Melrude-MN,Minnesota,27137,St. Louis,47.2455,-92.4171,,,3,point,FALSE,America/Chicago,55724
+Claremont-MN,1840006806,Claremont,Claremont,MN,Claremont-MN,Minnesota,27039,Dodge,44.0452,-92.9983,536,536,180,polygon,TRUE,America/Chicago,55924
+Holt-MN,1840006599,Holt,Holt,MN,Holt-MN,Minnesota,27089,Marshall,48.2929,-96.1947,87,87,33,polygon,TRUE,America/Chicago,56738
+Keewatin-MN,1840007717,Keewatin,Keewatin,MN,Keewatin-MN,Minnesota,27061,Itasca,47.4004,-93.0827,1034,1034,162,polygon,TRUE,America/Chicago,55769 55746 55753
+Terrebonne-MN,1840031905,Terrebonne,Terrebonne,MN,Terrebonne-MN,Minnesota,27125,Red Lake,47.8325,-96.1334,,,1.4,point,FALSE,America/Chicago,56750
+Nett Lake-MN,1840026094,Nett Lake,Nett Lake,MN,Nett Lake-MN,Minnesota,27137,St. Louis,48.1146,-93.0811,,,205.1,polygon,FALSE,America/Chicago,55772 55771
+Sunburg-MN,1840008907,Sunburg,Sunburg,MN,Sunburg-MN,Minnesota,27067,Kandiyohi,45.3474,-95.2402,101,101,82,polygon,TRUE,America/Chicago,56289
+Crane Lake-MN,1840031994,Crane Lake,Crane Lake,MN,Crane Lake-MN,Minnesota,27137,St. Louis,48.2666,-92.4885,,,26.2,point,FALSE,America/Chicago,55725
+Martin Lake-MN,1840025306,Martin Lake,Martin Lake,MN,Martin Lake-MN,Minnesota,27003,Anoka,45.3825,-93.0885,,,470.6,polygon,FALSE,America/Chicago,55079
+Manchester-MN,1840009001,Manchester,Manchester,MN,Manchester-MN,Minnesota,27047,Freeborn,43.7259,-93.4514,55,55,242,polygon,TRUE,America/Chicago,56009 56007
+Lake Shore-MN,1840007722,Lake Shore,Lake Shore,MN,Lake Shore-MN,Minnesota,27021,Cass,46.5001,-94.3608,1039,1039,31,polygon,TRUE,America/Chicago,56468
+Deer River-MN,1840006614,Deer River,Deer River,MN,Deer River-MN,Minnesota,27061,Itasca,47.3411,-93.7964,933,933,279,polygon,TRUE,America/Chicago,56636
+Brook Park-MN,1840004005,Brook Park,Brook Park,MN,Brook Park-MN,Minnesota,27115,Pine,45.9483,-93.0727,136,136,51,polygon,TRUE,America/Chicago,55007
+East Chain-MN,1840031796,East Chain,East Chain,MN,East Chain-MN,Minnesota,27091,Martin,43.5588,-94.3652,,,40.4,point,FALSE,America/Chicago,56031
+Holloway-MN,1840006728,Holloway,Holloway,MN,Holloway-MN,Minnesota,27151,Swift,45.244,-95.9112,89,89,24,polygon,TRUE,America/Chicago,56208 56249
+Bellechester-MN,1840006779,Bellechester,Bellechester,MN,Bellechester-MN,Minnesota,27049,Goodhue,44.3711,-92.5113,175,175,219,polygon,TRUE,America/Chicago,55027
+Forest Lake-MN,1840007808,Forest Lake,Forest Lake,MN,Forest Lake-MN,Minnesota,27163,Washington,45.2536,-92.9583,23270,19600,247,polygon,TRUE,America/Chicago,55025
+Brookston-MN,1840003992,Brookston,Brookston,MN,Brookston-MN,Minnesota,27137,St. Louis,46.8654,-92.6023,138,138,97,polygon,TRUE,America/Chicago,55711
+Fairhaven-MN,1840025297,Fairhaven,Fairhaven,MN,Fairhaven-MN,Minnesota,27145,Stearns,45.3232,-94.204,,,310.1,polygon,FALSE,America/Chicago,55382
+Matawan-MN,1840031852,Matawan,Matawan,MN,Matawan-MN,Minnesota,27161,Waseca,43.858,-93.6361,,,14.7,point,FALSE,America/Chicago,56072
+Scandia-MN,1840008918,Scandia,Scandia,MN,Scandia-MN,Minnesota,27163,Washington,45.254,-92.8278,4086,4086,45,polygon,TRUE,America/Chicago,55047 55073
+Sherburn-MN,1840009016,Sherburn,Sherburn,MN,Sherburn-MN,Minnesota,27091,Martin,43.6547,-94.7271,1091,1091,465,polygon,TRUE,America/Chicago,56171
+Clementson-MN,1840031780,Clementson,Clementson,MN,Clementson-MN,Minnesota,27077,Lake of the Woods,48.6908,-94.4363,,,11.4,point,FALSE,America/Winnipeg,56623
+Floodwood-MN,1840007688,Floodwood,Floodwood,MN,Floodwood-MN,Minnesota,27137,St. Louis,46.9168,-92.9191,517,517,134,polygon,TRUE,America/Chicago,55736
+Rush City-MN,1840000270,Rush City,Rush City,MN,Rush City-MN,Minnesota,27025,Chisago,45.6876,-92.9658,2933,3132,285,polygon,TRUE,America/Chicago,55069
+Lake Elmo-MN,1840007814,Lake Elmo,Lake Elmo,MN,Lake Elmo-MN,Minnesota,27163,Washington,44.9944,-92.9032,8815,8815,153,polygon,TRUE,America/Chicago,55042
+New Ulm-MN,1840007894,New Ulm,New Ulm,MN,New Ulm-MN,Minnesota,27015,Brown,44.312,-94.4678,13188,13342,516,polygon,TRUE,America/Chicago,56073
+Saint Marys Point-MN,1840008916,Saint Marys Point,Saint Marys Point,MN,Saint Marys Point-MN,Minnesota,27163,Washington,44.9129,-92.7701,391,391,390,polygon,TRUE,America/Chicago,55043
+Taopi-MN,1840009004,Taopi,Taopi,MN,Taopi-MN,Minnesota,27099,Mower,43.5575,-92.6404,58,58,57,polygon,TRUE,America/Chicago,55977
+Canby-MN,1840006763,Canby,Canby,MN,Canby-MN,Minnesota,27173,Yellow Medicine,44.7157,-96.2696,1720,1720,288,polygon,TRUE,America/Chicago,56220
+Flensburg-MN,1840007756,Flensburg,Flensburg,MN,Flensburg-MN,Minnesota,27097,Morrison,45.9481,-94.53,228,228,12,polygon,TRUE,America/Chicago,56328 56345 56382
+Pine Point-MN,1840004001,Pine Point,Pine Point,MN,Pine Point-MN,Minnesota,27005,Becker,46.9889,-95.3883,,,178.3,polygon,FALSE,America/Chicago,56575
+Traverse-MN,1840031947,Traverse,Traverse,MN,Traverse-MN,Minnesota,27103,Nicollet,44.3486,-94.0175,,,7.4,point,FALSE,America/Chicago,56082
+Cambridge-MN,1840006692,Cambridge,Cambridge,MN,Cambridge-MN,Minnesota,27059,Isanti,45.5615,-93.228,15265,8677,449,polygon,TRUE,America/Chicago,55008
+Clinton-MN,1840006695,Clinton,Clinton,MN,Clinton-MN,Minnesota,27011,Big Stone,45.4634,-96.4413,422,422,171,polygon,TRUE,America/Chicago,56225
+Bock-MN,1840006674,Bock,Bock,MN,Bock-MN,Minnesota,27095,Mille Lacs,45.7842,-93.5527,105,105,277,polygon,TRUE,America/Chicago,56313
+Duquette-MN,1840031795,Duquette,Duquette,MN,Duquette-MN,Minnesota,27115,Pine,46.3697,-92.5533,,,13.3,point,FALSE,America/Chicago,55756
+Beaulieu-MN,1840023820,Beaulieu,Beaulieu,MN,Beaulieu-MN,Minnesota,27087,Mahnomen,47.3389,-95.8054,,,5.3,polygon,FALSE,America/Chicago,56557
+Wabasso-MN,1840010016,Wabasso,Wabasso,MN,Wabasso-MN,Minnesota,27127,Redwood,44.4024,-95.2555,661,661,298,polygon,TRUE,America/Chicago,56293
+Morris-MN,1840007786,Morris,Morris,MN,Morris-MN,Minnesota,27149,Stevens,45.5861,-95.9046,5132,5295,426,polygon,TRUE,America/Chicago,56267
+Sauk Centre-MN,1840008887,Sauk Centre,Sauk Centre,MN,Sauk Centre-MN,Minnesota,27145,Stearns,45.7374,-94.9526,4300,4366,415,polygon,TRUE,America/Chicago,56378
+Cuyuna-MN,1840006642,Cuyuna,Cuyuna,MN,Cuyuna-MN,Minnesota,27035,Crow Wing,46.5114,-93.9257,341,341,40,polygon,TRUE,America/Chicago,56444 56441
+Taylors Falls-MN,1840008895,Taylors Falls,Taylors Falls,MN,Taylors Falls-MN,Minnesota,27025,Chisago,45.4121,-92.6644,1016,1016,99,polygon,TRUE,America/Chicago,55084
+Ebro-MN,1840023787,Ebro,Ebro,MN,Ebro-MN,Minnesota,27029,Clearwater,47.4942,-95.5411,,,21,polygon,FALSE,America/Chicago,56621
+Waite Park-MN,1840009989,Waite Park,Waite Park,MN,Waite Park-MN,Minnesota,27145,Stearns,45.5323,-94.244,7428,7428,293,polygon,TRUE,America/Chicago,56387 56301 56388
+Winsted-MN,1840010006,Winsted,Winsted,MN,Winsted-MN,Minnesota,27085,McLeod,44.9591,-94.0494,2295,2295,481,polygon,TRUE,America/Chicago,55395
+McKinley-MN,1840007690,McKinley,McKinley,MN,McKinley-MN,Minnesota,27137,St. Louis,47.5091,-92.4057,127,127,33,polygon,TRUE,America/Chicago,55741
+Balaton-MN,1840006787,Balaton,Balaton,MN,Balaton-MN,Minnesota,27083,Lyon,44.2331,-95.8707,622,622,165,polygon,TRUE,America/Chicago,56115
+Doran-MN,1840006658,Doran,Doran,MN,Doran-MN,Minnesota,27167,Wilkin,46.1852,-96.4857,50,50,92,polygon,TRUE,America/Chicago,56522
+Cusson-MN,1840031996,Cusson,Cusson,MN,Cusson-MN,Minnesota,27137,St. Louis,48.1019,-92.8429,,,1.7,point,FALSE,America/Chicago,55771
+Spring Grove-MN,1840009008,Spring Grove,Spring Grove,MN,Spring Grove-MN,Minnesota,27055,Houston,43.5607,-91.6375,1296,1296,524,polygon,TRUE,America/Chicago,55974
+Osakis-MN,1840008871,Osakis,Osakis,MN,Osakis-MN,Minnesota,27041,Douglas,45.8649,-95.1515,1717,1717,341,polygon,TRUE,America/Chicago,56360
+Red Lake Falls-MN,1840008829,Red Lake Falls,Red Lake Falls,MN,Red Lake Falls-MN,Minnesota,27125,Red Lake,47.884,-96.273,1387,1387,263,polygon,TRUE,America/Chicago,56750
+New Richland-MN,1840007914,New Richland,New Richland,MN,New Richland-MN,Minnesota,27161,Waseca,43.8936,-93.4938,1199,1199,763,polygon,TRUE,America/Chicago,56072
+Grygla-MN,1840006598,Grygla,Grygla,MN,Grygla-MN,Minnesota,27089,Marshall,48.2995,-95.6236,210,210,141,polygon,TRUE,America/Chicago,56727
+Ericsburg-MN,1840031956,Ericsburg,Ericsburg,MN,Ericsburg-MN,Minnesota,27071,Koochiching,48.4877,-93.3313,,,35.7,point,FALSE,America/Chicago,56649
+Ball Club-MN,1840026095,Ball Club,Ball Club,MN,Ball Club-MN,Minnesota,27061,Itasca,47.3311,-93.9461,,,127.8,polygon,FALSE,America/Chicago,56636
+Inger-MN,1840026096,Inger,Inger,MN,Inger-MN,Minnesota,27061,Itasca,47.558,-93.9794,,,56,polygon,FALSE,America/Chicago,56636
+Medina-MN,1840007827,Medina,Medina,MN,Medina-MN,Minnesota,27053,Hennepin,45.0327,-93.5832,6240,6240,94,polygon,TRUE,America/Chicago,55340 55356 55359
+Rochester-MN,1840008987,Rochester,Rochester,MN,Rochester-MN,Minnesota,27109,Olmsted,44.0152,-92.4776,114976,114011,806,polygon,TRUE,America/Chicago,55902 55901 55906 55904 55905 55903
+Gilbert-MN,1840007689,Gilbert,Gilbert,MN,Gilbert-MN,Minnesota,27137,St. Louis,47.4911,-92.4617,1790,1790,58,polygon,TRUE,America/Chicago,55734 55741
+Elk River-MN,1840007794,Elk River,Elk River,MN,Elk River-MN,Minnesota,27141,Sherburne,45.3313,-93.567,24364,24364,222,polygon,TRUE,America/Chicago,55330
+Lake Itasca-MN,1840031829,Lake Itasca,Lake Itasca,MN,Lake Itasca-MN,Minnesota,27029,Clearwater,47.2538,-95.2125,,,1.9,point,FALSE,America/Chicago,56676
+Underwood-MN,1840009975,Underwood,Underwood,MN,Underwood-MN,Minnesota,27111,Otter Tail,46.287,-95.8722,347,347,230,polygon,TRUE,America/Chicago,56586
+Cold Spring-MN,1840006682,Cold Spring,Cold Spring,MN,Cold Spring-MN,Minnesota,27145,Stearns,45.4577,-94.4296,4412,4108,594,polygon,TRUE,America/Chicago,56320
+Ranier-MN,1840008816,Ranier,Ranier,MN,Ranier-MN,Minnesota,27071,Koochiching,48.6064,-93.3538,560,560,203,polygon,TRUE,America/Winnipeg,56668 56649
+Delavan-MN,1840006842,Delavan,Delavan,MN,Delavan-MN,Minnesota,27043,Faribault,43.7677,-94.0179,172,172,62,polygon,TRUE,America/Chicago,56023
+Witoka-MN,1840031922,Witoka,Witoka,MN,Witoka-MN,Minnesota,27169,Winona,43.9333,-91.6201,,,41.7,point,FALSE,America/Chicago,55987
+Stewart-MN,1840008943,Stewart,Stewart,MN,Stewart-MN,Minnesota,27085,McLeod,44.7235,-94.4869,546,546,262,polygon,TRUE,America/Chicago,55385
+Lester Prairie-MN,1840007846,Lester Prairie,Lester Prairie,MN,Lester Prairie-MN,Minnesota,27085,McLeod,44.8828,-94.0377,1687,1687,757,polygon,TRUE,America/Chicago,55354
+Four Town-MN,1840031931,Four Town,Four Town,MN,Four Town-MN,Minnesota,27007,Beltrami,48.2811,-95.3355,,,1,point,FALSE,America/Chicago,56727
+Hoffman-MN,1840006678,Hoffman,Hoffman,MN,Hoffman-MN,Minnesota,27051,Grant,45.8341,-95.7875,676,676,125,polygon,TRUE,America/Chicago,56339
+Frost-MN,1840007946,Frost,Frost,MN,Frost-MN,Minnesota,27043,Faribault,43.5847,-93.9261,191,191,140,polygon,TRUE,America/Chicago,56033
+Millerville-MN,1840007772,Millerville,Millerville,MN,Millerville-MN,Minnesota,27041,Douglas,46.0691,-95.5569,105,105,46,polygon,TRUE,America/Chicago,56315
+Kilkenny-MN,1840007885,Kilkenny,Kilkenny,MN,Kilkenny-MN,Minnesota,27079,Le Sueur,44.3158,-93.5736,132,132,374,polygon,TRUE,America/Chicago,56052
+Skime-MN,1840031946,Skime,Skime,MN,Skime-MN,Minnesota,27135,Roseau,48.5469,-95.6028,,,1.5,point,FALSE,America/Chicago,56761
+Coates-MN,1840006767,Coates,Coates,MN,Coates-MN,Minnesota,27037,Dakota,44.7159,-93.0321,161,161,44,polygon,TRUE,America/Chicago,55068
+Taconite Harbor-MN,1840031979,Taconite Harbor,Taconite Harbor,MN,Taconite Harbor-MN,Minnesota,27031,Cook,47.5224,-90.9288,,,5.5,point,FALSE,America/Chicago,55613
+Henriette-MN,1840006661,Henriette,Henriette,MN,Henriette-MN,Minnesota,27115,Pine,45.8712,-93.1196,69,69,92,polygon,TRUE,America/Chicago,55036
+Dumont-MN,1840007775,Dumont,Dumont,MN,Dumont-MN,Minnesota,27155,Traverse,45.7172,-96.4233,94,94,80,polygon,TRUE,America/Chicago,56236
+Blackduck-MN,1840006601,Blackduck,Blackduck,MN,Blackduck-MN,Minnesota,27007,Beltrami,47.7263,-94.548,779,779,187,polygon,TRUE,America/Chicago,56630 56647
+Svea-MN,1840031899,Svea,Svea,MN,Svea-MN,Minnesota,27067,Kandiyohi,45.0033,-95.0214,,,96.4,point,FALSE,America/Chicago,56216
+Lake Park-MN,1840007727,Lake Park,Lake Park,MN,Lake Park-MN,Minnesota,27005,Becker,46.8838,-96.0987,790,790,313,polygon,TRUE,America/Chicago,56554
+Oakdale-MN,1840007813,Oakdale,Oakdale,MN,Oakdale-MN,Minnesota,27163,Washington,44.9875,-92.9641,28073,28073,994,polygon,TRUE,America/Chicago,55128
+Lincoln-MN,1840031841,Lincoln,Lincoln,MN,Lincoln-MN,Minnesota,27097,Morrison,46.2102,-94.6408,,,28.2,point,FALSE,America/Chicago,56443
+Beroun-MN,1840031769,Beroun,Beroun,MN,Beroun-MN,Minnesota,27115,Pine,45.9102,-92.9552,,,58.1,point,FALSE,America/Chicago,55063
+Vineland-MN,1840006673,Vineland,Vineland,MN,Vineland-MN,Minnesota,27095,Mille Lacs,46.1832,-93.7823,,,44.2,polygon,FALSE,America/Chicago,56359
+Litchfield-MN,1840008912,Litchfield,Litchfield,MN,Litchfield-MN,Minnesota,27093,Meeker,45.1222,-94.5254,6547,6648,579,polygon,TRUE,America/Chicago,55355
+Rosen-MN,1840031884,Rosen,Rosen,MN,Rosen-MN,Minnesota,27073,Lac qui Parle,45.1536,-96.4014,,,8.7,point,FALSE,America/Chicago,56212
+Little Falls-MN,1840008861,Little Falls,Little Falls,MN,Little Falls-MN,Minnesota,27097,Morrison,45.9831,-94.3602,9398,8689,451,polygon,TRUE,America/Chicago,56345
+Shafer-MN,1840008893,Shafer,Shafer,MN,Shafer-MN,Minnesota,27025,Chisago,45.3901,-92.7531,1037,1037,316,polygon,TRUE,America/Chicago,55074
+Ottawa-MN,1840031863,Ottawa,Ottawa,MN,Ottawa-MN,Minnesota,27079,Le Sueur,44.3822,-93.9458,,,22.9,point,FALSE,America/Chicago,56058
+Two Inlets-MN,1840031908,Two Inlets,Two Inlets,MN,Two Inlets-MN,Minnesota,27005,Becker,47.0527,-95.2175,,,6.4,point,FALSE,America/Chicago,56470
+Grove Lake-MN,1840031816,Grove Lake,Grove Lake,MN,Grove Lake-MN,Minnesota,27121,Pope,45.6141,-95.1575,,,4.5,point,FALSE,America/Chicago,56334
+Etna-MN,1840031930,Etna,Etna,MN,Etna-MN,Minnesota,27045,Fillmore,43.6022,-92.3468,,,15.1,point,FALSE,America/Chicago,55975
+Brownton-MN,1840006754,Brownton,Brownton,MN,Brownton-MN,Minnesota,27085,McLeod,44.7322,-94.3511,734,734,737,polygon,TRUE,America/Chicago,55312
+Medicine Lake-MN,1840007826,Medicine Lake,Medicine Lake,MN,Medicine Lake-MN,Minnesota,27053,Hennepin,44.9993,-93.4205,375,375,822,polygon,TRUE,America/Chicago,55441
+Burnett-MN,1840031990,Burnett,Burnett,MN,Burnett-MN,Minnesota,27137,St. Louis,46.9008,-92.5244,,,9.6,point,FALSE,America/Chicago,55779
+Searles-MN,1840025372,Searles,Searles,MN,Searles-MN,Minnesota,27015,Brown,44.2307,-94.436,,,127.5,polygon,FALSE,America/Chicago,56073
+Fertile-MN,1840007702,Fertile,Fertile,MN,Fertile-MN,Minnesota,27119,Polk,47.5344,-96.2901,842,842,152,polygon,TRUE,America/Chicago,56540
+Hastings-MN,1840006770,Hastings,Hastings,MN,Hastings-MN,Minnesota,27037,Dakota,44.7318,-92.8537,22761,22602,845,polygon,TRUE,America/Chicago,55033
+Roseau-MN,1840008814,Roseau,Roseau,MN,Roseau-MN,Minnesota,27135,Roseau,48.8444,-95.7623,2890,2754,397,polygon,TRUE,America/Chicago,56751
+Gem Lake-MN,1840007839,Gem Lake,Gem Lake,MN,Gem Lake-MN,Minnesota,27123,Ramsey,45.058,-93.0404,475,475,169,polygon,TRUE,America/Chicago,55110
+Minneota-MN,1840007880,Minneota,Minneota,MN,Minneota-MN,Minnesota,27083,Lyon,44.5625,-95.9826,1362,1362,367,polygon,TRUE,America/Chicago,56264
+Detroit Lakes-MN,1840006632,Detroit Lakes,Detroit Lakes,MN,Detroit Lakes-MN,Minnesota,27005,Becker,46.8057,-95.8436,8528,9165,333,polygon,TRUE,America/Chicago,56501 56502
+Plummer-MN,1840008828,Plummer,Plummer,MN,Plummer-MN,Minnesota,27125,Red Lake,47.9152,-96.0426,290,290,40,polygon,TRUE,America/Chicago,56748
+Wegdahl-MN,1840031917,Wegdahl,Wegdahl,MN,Wegdahl-MN,Minnesota,27023,Chippewa,44.89,-95.6453,,,3.4,point,FALSE,America/Chicago,56265
+Rosemount-MN,1840008951,Rosemount,Rosemount,MN,Rosemount-MN,Minnesota,27037,Dakota,44.7466,-93.0662,23911,23911,277,polygon,TRUE,America/Chicago,55068
+Miesville-MN,1840007857,Miesville,Miesville,MN,Miesville-MN,Minnesota,27037,Dakota,44.599,-92.8192,126,126,26,polygon,TRUE,America/Chicago,55009 55033
+Columbia Heights-MN,1840006712,Columbia Heights,Columbia Heights,MN,Columbia Heights-MN,Minnesota,27003,Anoka,45.0484,-93.2473,19723,19723,2232,polygon,TRUE,America/Chicago,55421
+Collegeville-MN,1840031782,Collegeville,Collegeville,MN,Collegeville-MN,Minnesota,27145,Stearns,45.5944,-94.3631,,,12,point,FALSE,America/Chicago,56374
+Elko New Market-MN,1840007863,Elko New Market,Elko New Market,MN,Elko New Market-MN,Minnesota,27139,Scott,44.5672,-93.3383,4398,4625,532,polygon,TRUE,America/Chicago,55020 55054
+Solway-MN,1840008822,Solway,Solway,MN,Solway-MN,Minnesota,27007,Beltrami,47.521,-95.1302,97,97,36,polygon,TRUE,America/Chicago,56678
+Ogilvie-MN,1840007764,Ogilvie,Ogilvie,MN,Ogilvie-MN,Minnesota,27065,Kanabec,45.8298,-93.4233,352,352,145,polygon,TRUE,America/Chicago,56358
+Cass Lake-MN,1840006622,Cass Lake,Cass Lake,MN,Cass Lake-MN,Minnesota,27021,Cass,47.3789,-94.5989,749,749,252,polygon,TRUE,America/Chicago,56633
+Fletcher-MN,1840031802,Fletcher,Fletcher,MN,Fletcher-MN,Minnesota,27053,Hennepin,45.1725,-93.5413,,,34.3,point,FALSE,America/Chicago,55374
+Fort Ripley-MN,1840007738,Fort Ripley,Fort Ripley,MN,Fort Ripley-MN,Minnesota,27035,Crow Wing,46.1692,-94.3629,70,70,20,polygon,TRUE,America/Chicago,56449
+Peterson-MN,1840009012,Peterson,Peterson,MN,Peterson-MN,Minnesota,27045,Fillmore,43.7867,-91.8333,202,202,160,polygon,TRUE,America/Chicago,55962
+Buckman-MN,1840006669,Buckman,Buckman,MN,Buckman-MN,Minnesota,27097,Morrison,45.8973,-94.0937,273,273,103,polygon,TRUE,America/Chicago,56364 56317
+Bergen-MN,1840031768,Bergen,Bergen,MN,Bergen-MN,Minnesota,27063,Jackson,43.79,-94.9947,,,4.9,point,FALSE,America/Chicago,56101
+Minnesota Lake-MN,1840007947,Minnesota Lake,Minnesota Lake,MN,Minnesota Lake-MN,Minnesota,27043,Faribault,43.8409,-93.8275,657,657,152,polygon,TRUE,America/Chicago,56068
+Slayton-MN,1840008982,Slayton,Slayton,MN,Slayton-MN,Minnesota,27101,Murray,43.9902,-95.7578,2035,2035,401,polygon,TRUE,America/Chicago,56172
+Big Lake-MN,1840006701,Big Lake,Big Lake,MN,Big Lake-MN,Minnesota,27141,Sherburne,45.3418,-93.7435,10638,10638,594,polygon,TRUE,America/Chicago,55309
+Lino Lakes-MN,1840008902,Lino Lakes,Lino Lakes,MN,Lino Lakes-MN,Minnesota,27003,Anoka,45.1679,-93.083,21018,21018,287,polygon,TRUE,America/Chicago,55014 55038
+Denham-MN,1840006663,Denham,Denham,MN,Denham-MN,Minnesota,27115,Pine,46.3617,-92.9416,34,34,9,polygon,TRUE,America/Chicago,55783 55795
+Windom-MN,1840010032,Windom,Windom,MN,Windom-MN,Minnesota,27033,Cottonwood,43.8739,-95.1204,4288,4519,421,polygon,TRUE,America/Chicago,56101
+Farmington-MN,1840007853,Farmington,Farmington,MN,Farmington-MN,Minnesota,27037,Dakota,44.6573,-93.1689,22656,22656,594,polygon,TRUE,America/Chicago,55024
+Seaforth-MN,1840008964,Seaforth,Seaforth,MN,Seaforth-MN,Minnesota,27127,Redwood,44.4764,-95.3309,82,82,31,polygon,TRUE,America/Chicago,56287 56293
+Lake Wilson-MN,1840007910,Lake Wilson,Lake Wilson,MN,Lake Wilson-MN,Minnesota,27101,Murray,43.9953,-95.9534,235,235,216,polygon,TRUE,America/Chicago,56151
+Shelly-MN,1840008833,Shelly,Shelly,MN,Shelly-MN,Minnesota,27107,Norman,47.4584,-96.8196,185,185,338,polygon,TRUE,America/Chicago,56581
+Douglas-MN,1840031791,Douglas,Douglas,MN,Douglas-MN,Minnesota,27109,Olmsted,44.108,-92.5738,,,17.7,point,FALSE,America/Chicago,55960
+Winona-MN,1840010034,Winona,Winona,MN,Winona-MN,Minnesota,27169,Winona,44.051,-91.6691,30208,27139,556,polygon,TRUE,America/Chicago,55987
+Kimberly-MN,1840031832,Kimberly,Kimberly,MN,Kimberly-MN,Minnesota,27001,Aitkin,46.5608,-93.4664,,,3.2,point,FALSE,America/Chicago,56431
+Island View-MN,1840031963,Island View,Island View,MN,Island View-MN,Minnesota,27071,Koochiching,48.5952,-93.1668,,,60,point,FALSE,America/Chicago,56649
+Atwater-MN,1840006722,Atwater,Atwater,MN,Atwater-MN,Minnesota,27067,Kandiyohi,45.1356,-94.7772,1120,1120,417,polygon,TRUE,America/Chicago,56209
+Westport-MN,1840009991,Westport,Westport,MN,Westport-MN,Minnesota,27121,Pope,45.7142,-95.1679,56,56,78,polygon,TRUE,America/Chicago,56385
+Dilworth-MN,1840006637,Dilworth,Dilworth,MN,Dilworth-MN,Minnesota,27027,Clay,46.8793,-96.6981,4397,4397,510,polygon,TRUE,America/Chicago,56529
+Pleasant Lake-MN,1840031874,Pleasant Lake,Pleasant Lake,MN,Pleasant Lake-MN,Minnesota,27145,Stearns,45.4977,-94.2867,,,225.8,point,FALSE,America/Chicago,56301
+Eyota-MN,1840007916,Eyota,Eyota,MN,Eyota-MN,Minnesota,27109,Olmsted,43.9883,-92.2321,2024,2024,462,polygon,TRUE,America/Chicago,55934
+Albert Lea-MN,1840006824,Albert Lea,Albert Lea,MN,Albert Lea-MN,Minnesota,27047,Freeborn,43.6548,-93.3643,17522,17667,520,polygon,TRUE,America/Chicago,56007
+Downer-MN,1840031792,Downer,Downer,MN,Downer-MN,Minnesota,27027,Clay,46.7541,-96.487,,,38,point,FALSE,America/Chicago,56514
+Madelia-MN,1840008992,Madelia,Madelia,MN,Madelia-MN,Minnesota,27165,Watonwan,44.048,-94.4201,2239,2239,589,polygon,TRUE,America/Chicago,56062
+Rushmore-MN,1840009000,Rushmore,Rushmore,MN,Rushmore-MN,Minnesota,27105,Nobles,43.6197,-95.799,337,337,514,polygon,TRUE,America/Chicago,56168
+Silver Bay-MN,1840008824,Silver Bay,Silver Bay,MN,Silver Bay-MN,Minnesota,27075,Lake,47.294,-91.2777,1804,1804,88,polygon,TRUE,America/Chicago,55614
+Buyck-MN,1840031991,Buyck,Buyck,MN,Buyck-MN,Minnesota,27137,St. Louis,48.1219,-92.5235,,,3,point,FALSE,America/Chicago,55771
+Mankato-MN,1840008975,Mankato,Mankato,MN,Mankato-MN,Minnesota,27013,Blue Earth,44.172,-93.9782,61115,41720,871,polygon,TRUE,America/Chicago,56001 56002
+Goodridge-MN,1840007709,Goodridge,Goodridge,MN,Goodridge-MN,Minnesota,27113,Pennington,48.1441,-95.8039,132,132,269,polygon,TRUE,America/Chicago,56725
+Naytahwaush-MN,1840003999,Naytahwaush,Naytahwaush,MN,Naytahwaush-MN,Minnesota,27087,Mahnomen,47.2704,-95.6334,,,118,polygon,FALSE,America/Chicago,56566
+Norseland-MN,1840031941,Norseland,Norseland,MN,Norseland-MN,Minnesota,27103,Nicollet,44.4127,-94.1166,,,21.8,point,FALSE,America/Chicago,56082
+Hills-MN,1840006819,Hills,Hills,MN,Hills-MN,Minnesota,27133,Rock,43.5274,-96.3595,669,669,417,polygon,TRUE,America/Chicago,56138
+Virginia-MN,1840009954,Virginia,Virginia,MN,Virginia-MN,Minnesota,27137,St. Louis,47.5172,-92.5121,12603,8523,174,polygon,TRUE,America/Chicago,55792 55777
+Jasper-MN,1840007907,Jasper,Jasper,MN,Jasper-MN,Minnesota,27117,Pipestone,43.8492,-96.3998,610,610,227,polygon,TRUE,America/Chicago,56144
+Rockville-MN,1840008877,Rockville,Rockville,MN,Rockville-MN,Minnesota,27145,Stearns,45.4649,-94.3223,2526,2526,34,polygon,TRUE,America/Chicago,56320 56369 56301
+Revere-MN,1840008962,Revere,Revere,MN,Revere-MN,Minnesota,27127,Redwood,44.2216,-95.3612,91,91,61,polygon,TRUE,America/Chicago,56166
+Grand Rapids-MN,1840007714,Grand Rapids,Grand Rapids,MN,Grand Rapids-MN,Minnesota,27061,Itasca,47.2379,-93.5326,9576,11211,192,polygon,TRUE,America/Chicago,55744 55730 55745
+Fosston-MN,1840007704,Fosston,Fosston,MN,Fosston-MN,Minnesota,27119,Polk,47.585,-95.7561,1499,1499,316,polygon,TRUE,America/Chicago,56542
+Comstock-MN,1840006633,Comstock,Comstock,MN,Comstock-MN,Minnesota,27027,Clay,46.6596,-96.7464,93,93,162,polygon,TRUE,America/Chicago,56525
+Alpha-MN,1840006839,Alpha,Alpha,MN,Alpha-MN,Minnesota,27063,Jackson,43.6384,-94.8718,123,123,323,polygon,TRUE,America/Chicago,56111
+Caledonia-MN,1840006833,Caledonia,Caledonia,MN,Caledonia-MN,Minnesota,27055,Houston,43.6343,-91.5008,2670,2786,378,polygon,TRUE,America/Chicago,55921
+Elrosa-MN,1840007778,Elrosa,Elrosa,MN,Elrosa-MN,Minnesota,27145,Stearns,45.5628,-94.9469,222,222,511,polygon,TRUE,America/Chicago,56325
+Oronoco-MN,1840008986,Oronoco,Oronoco,MN,Oronoco-MN,Minnesota,27109,Olmsted,44.16,-92.5401,1482,1482,204,polygon,TRUE,America/Chicago,55960
+Fergus Falls-MN,1840007747,Fergus Falls,Fergus Falls,MN,Fergus Falls-MN,Minnesota,27111,Otter Tail,46.285,-96.0763,12338,13419,367,polygon,TRUE,America/Chicago,56537 56538
+South Haven-MN,1840008898,South Haven,South Haven,MN,South Haven-MN,Minnesota,27171,Wright,45.2928,-94.2174,192,192,117,polygon,TRUE,America/Chicago,55382
+Dellwood-MN,1840006740,Dellwood,Dellwood,MN,Dellwood-MN,Minnesota,27163,Washington,45.0985,-92.9672,1093,1093,159,polygon,TRUE,America/Chicago,55110
+Little Rock-MN,1840032019,Little Rock,Little Rock,MN,Little Rock-MN,Minnesota,27007,Beltrami,47.8667,-95.106,,,81.1,polygon,FALSE,America/Chicago,56671
+Lynd-MN,1840008966,Lynd,Lynd,MN,Lynd-MN,Minnesota,27083,Lyon,44.397,-95.8812,444,444,146,polygon,TRUE,America/Chicago,56157
+Hokah-MN,1840006834,Hokah,Hokah,MN,Hokah-MN,Minnesota,27055,Houston,43.7597,-91.3503,559,559,297,polygon,TRUE,America/Chicago,55941
+Robbin-MN,1840031881,Robbin,Robbin,MN,Robbin-MN,Minnesota,27069,Kittson,48.5728,-97.1426,,,4.9,point,FALSE,America/Chicago,58225
+Warroad-MN,1840009952,Warroad,Warroad,MN,Warroad-MN,Minnesota,27135,Roseau,48.9189,-95.3294,1794,1794,248,polygon,TRUE,America/Chicago,56763
+Twin Valley-MN,1840009966,Twin Valley,Twin Valley,MN,Twin Valley-MN,Minnesota,27107,Norman,47.2588,-96.259,784,784,348,polygon,TRUE,America/Chicago,56584
+Luce-MN,1840031939,Luce,Luce,MN,Luce-MN,Minnesota,27111,Otter Tail,46.6577,-95.6528,,,2.3,point,FALSE,America/Chicago,56573
+Lafayette-MN,1840007897,Lafayette,Lafayette,MN,Lafayette-MN,Minnesota,27103,Nicollet,44.4472,-94.3933,487,487,163,polygon,TRUE,America/Chicago,56054
+Roosevelt-MN,1840008813,Roosevelt,Roosevelt,MN,Roosevelt-MN,Minnesota,27135,Roseau,48.8068,-95.1007,145,145,53,polygon,TRUE,America/Chicago,56673
+Emmons-MN,1840007929,Emmons,Emmons,MN,Emmons-MN,Minnesota,27047,Freeborn,43.5065,-93.4852,379,379,184,polygon,TRUE,America/Chicago,56029
+Delft-MN,1840031789,Delft,Delft,MN,Delft-MN,Minnesota,27033,Cottonwood,43.9863,-95.0889,,,61.3,point,FALSE,America/Chicago,56101
+Hilltop-MN,1840006721,Hilltop,Hilltop,MN,Hilltop-MN,Minnesota,27003,Anoka,45.0536,-93.2501,734,734,2366,polygon,TRUE,America/Chicago,55421
+Becker-MN,1840006700,Becker,Becker,MN,Becker-MN,Minnesota,27141,Sherburne,45.3814,-93.8736,4110,4785,175,polygon,TRUE,America/Chicago,55308
+Hillview-MN,1840031822,Hillview,Hillview,MN,Hillview-MN,Minnesota,27111,Otter Tail,46.6802,-95.2578,,,4.9,point,FALSE,America/Chicago,56477
+Lime Creek-MN,1840031938,Lime Creek,Lime Creek,MN,Lime Creek-MN,Minnesota,27101,Murray,43.8897,-95.562,,,32.3,point,FALSE,America/Chicago,56131
+Myrtle-MN,1840007933,Myrtle,Myrtle,MN,Myrtle-MN,Minnesota,27047,Freeborn,43.5631,-93.1632,47,47,171,polygon,TRUE,America/Chicago,56036
+Warman-MN,1840031913,Warman,Warman,MN,Warman-MN,Minnesota,27065,Kanabec,46.0583,-93.2844,,,9,point,FALSE,America/Chicago,55051
+Culver-MN,1840031995,Culver,Culver,MN,Culver-MN,Minnesota,27137,St. Louis,46.9258,-92.5585,,,10.7,point,FALSE,America/Chicago,55779
+Saint George-MN,1840031943,Saint George,Saint George,MN,Saint George-MN,Minnesota,27103,Nicollet,44.3894,-94.5325,,,16,point,FALSE,America/Chicago,56073
+Beaver Bay-MN,1840006602,Beaver Bay,Beaver Bay,MN,Beaver Bay-MN,Minnesota,27075,Lake,47.2561,-91.3056,175,175,91,polygon,TRUE,America/Chicago,55614 55601
+Kingston-MN,1840007807,Kingston,Kingston,MN,Kingston-MN,Minnesota,27093,Meeker,45.1959,-94.3109,159,159,109,polygon,TRUE,America/Chicago,55325
+Coon Rapids-MN,1840006714,Coon Rapids,Coon Rapids,MN,Coon Rapids-MN,Minnesota,27003,Anoka,45.1756,-93.3095,62359,62359,1064,polygon,TRUE,America/Chicago,55433 55448
+Eagle Bend-MN,1840007754,Eagle Bend,Eagle Bend,MN,Eagle Bend-MN,Minnesota,27153,Todd,46.1641,-95.0341,506,506,144,polygon,TRUE,America/Chicago,56446
+Weston-MN,1840031918,Weston,Weston,MN,Weston-MN,Minnesota,27163,Washington,45.1889,-92.9847,,,33.4,point,FALSE,America/Chicago,55038
+Garfield-MN,1840007770,Garfield,Garfield,MN,Garfield-MN,Minnesota,27041,Douglas,45.9389,-95.4945,345,345,165,polygon,TRUE,America/Chicago,56332
+Glenwood-MN,1840007788,Glenwood,Glenwood,MN,Glenwood-MN,Minnesota,27121,Pope,45.6515,-95.3636,2562,2562,168,polygon,TRUE,America/Chicago,56334
+Cottonwood-MN,1840006786,Cottonwood,Cottonwood,MN,Cottonwood-MN,Minnesota,27083,Lyon,44.6111,-95.6723,1230,1230,452,polygon,TRUE,America/Chicago,56229
+West Union-MN,1840009982,West Union,West Union,MN,West Union-MN,Minnesota,27153,Todd,45.798,-95.0889,122,122,111,polygon,TRUE,America/Chicago,56360 56389
+Saint Charles-MN,1840008991,Saint Charles,Saint Charles,MN,Saint Charles-MN,Minnesota,27169,Winona,43.9686,-92.0596,2965,3720,375,polygon,TRUE,America/Chicago,55972
+Robbinsdale-MN,1840008931,Robbinsdale,Robbinsdale,MN,Robbinsdale-MN,Minnesota,27053,Hennepin,45.0261,-93.3331,14461,14461,2001,polygon,TRUE,America/Chicago,55422
+Bird Island-MN,1840006773,Bird Island,Bird Island,MN,Bird Island-MN,Minnesota,27129,Renville,44.7647,-94.895,978,978,246,polygon,TRUE,America/Chicago,55310
+Worthington-MN,1840010036,Worthington,Worthington,MN,Worthington-MN,Minnesota,27105,Nobles,43.6279,-95.5984,12984,13136,688,polygon,TRUE,America/Chicago,56187
+Ellsworth-MN,1840007927,Ellsworth,Ellsworth,MN,Ellsworth-MN,Minnesota,27105,Nobles,43.5204,-96.0182,462,462,284,polygon,TRUE,America/Chicago,56129
+Garvin-MN,1840007877,Garvin,Garvin,MN,Garvin-MN,Minnesota,27083,Lyon,44.2142,-95.7606,135,135,195,polygon,TRUE,America/Chicago,56132
+Lewiston-MN,1840007921,Lewiston,Lewiston,MN,Lewiston-MN,Minnesota,27169,Winona,43.9835,-91.8682,1564,1564,524,polygon,TRUE,America/Chicago,55952
+New London-MN,1840007801,New London,New London,MN,New London-MN,Minnesota,27067,Kandiyohi,45.2974,-94.9477,3507,1376,446,polygon,TRUE,America/Chicago,56288 56273
+Saint Vincent-MN,1840008811,Saint Vincent,Saint Vincent,MN,Saint Vincent-MN,Minnesota,27069,Kittson,48.9696,-97.2263,61,61,21,polygon,TRUE,America/Chicago,56728 56755
+Goodhue-MN,1840007869,Goodhue,Goodhue,MN,Goodhue-MN,Minnesota,27049,Goodhue,44.4005,-92.6256,1185,1185,484,polygon,TRUE,America/Chicago,55027
+Baudette-MN,1840007673,Baudette,Baudette,MN,Baudette-MN,Minnesota,27077,Lake of the Woods,48.7119,-94.5925,1032,1032,93,polygon,TRUE,America/Chicago,56623
+Burnsville-MN,1840006766,Burnsville,Burnsville,MN,Burnsville-MN,Minnesota,27037,Dakota,44.7648,-93.2794,61290,61290,950,polygon,TRUE,America/Chicago,55306 55337
+Barry-MN,1840006697,Barry,Barry,MN,Barry-MN,Minnesota,27011,Big Stone,45.5582,-96.5603,15,15,23,polygon,TRUE,America/Chicago,56210 56240
+Bixby-MN,1840031926,Bixby,Bixby,MN,Bixby-MN,Minnesota,27147,Steele,43.9444,-93.0971,,,51.2,point,FALSE,America/Chicago,55917
+Mapleview-MN,1840009003,Mapleview,Mapleview,MN,Mapleview-MN,Minnesota,27099,Mower,43.6899,-92.9741,177,177,370,polygon,TRUE,America/Chicago,55912
+Cyrus-MN,1840006691,Cyrus,Cyrus,MN,Cyrus-MN,Minnesota,27121,Pope,45.6148,-95.7377,283,283,384,polygon,TRUE,America/Chicago,56323
+McGregor-MN,1840007733,McGregor,McGregor,MN,McGregor-MN,Minnesota,27001,Aitkin,46.6087,-93.3062,362,362,70,polygon,TRUE,America/Chicago,55760
+Morristown-MN,1840007892,Morristown,Morristown,MN,Morristown-MN,Minnesota,27131,Rice,44.2247,-93.4446,988,988,372,polygon,TRUE,America/Chicago,55052
+Mountain Lake-MN,1840007917,Mountain Lake,Mountain Lake,MN,Mountain Lake-MN,Minnesota,27033,Cottonwood,43.9414,-94.9276,2102,2102,530,polygon,TRUE,America/Chicago,56159
+Alvarado-MN,1840006596,Alvarado,Alvarado,MN,Alvarado-MN,Minnesota,27089,Marshall,48.193,-96.9983,352,352,627,polygon,TRUE,America/Chicago,56710
+Kent-MN,1840007751,Kent,Kent,MN,Kent-MN,Minnesota,27167,Wilkin,46.4376,-96.6834,78,78,158,polygon,TRUE,America/Chicago,56553
+Arden Hills-MN,1840006752,Arden Hills,Arden Hills,MN,Arden Hills-MN,Minnesota,27123,Ramsey,45.0722,-93.1671,10324,10324,467,polygon,TRUE,America/Chicago,55112
+Regal-MN,1840008911,Regal,Regal,MN,Regal-MN,Minnesota,27067,Kandiyohi,45.4054,-94.8397,34,34,26,polygon,TRUE,America/Chicago,56312
+Wilkinson-MN,1840031983,Wilkinson,Wilkinson,MN,Wilkinson-MN,Minnesota,27021,Cass,47.2508,-94.6278,,,15.5,point,FALSE,America/Chicago,56461
+La Salle-MN,1840007923,La Salle,La Salle,MN,La Salle-MN,Minnesota,27165,Watonwan,44.0711,-94.5712,85,85,361,polygon,TRUE,America/Chicago,56056
+Independence-MN,1840007834,Independence,Independence,MN,Independence-MN,Minnesota,27053,Hennepin,45.0219,-93.7076,3740,3740,44,polygon,TRUE,America/Chicago,55359
+Barrows-MN,1840031764,Barrows,Barrows,MN,Barrows-MN,Minnesota,27035,Crow Wing,46.3011,-94.2539,,,161.9,point,FALSE,America/Chicago,56401
+Nerstrand-MN,1840007890,Nerstrand,Nerstrand,MN,Nerstrand-MN,Minnesota,27131,Rice,44.343,-93.0638,299,299,81,polygon,TRUE,America/Chicago,55053
+Gaylord-MN,1840007865,Gaylord,Gaylord,MN,Gaylord-MN,Minnesota,27143,Sibley,44.5555,-94.2123,2233,2233,506,polygon,TRUE,America/Chicago,55334
+Pennington-MN,1840031971,Pennington,Pennington,MN,Pennington-MN,Minnesota,27007,Beltrami,47.4836,-94.48,,,11.4,point,FALSE,America/Chicago,56663
+Wahkon-MN,1840009984,Wahkon,Wahkon,MN,Wahkon-MN,Minnesota,27095,Mille Lacs,46.1205,-93.5224,211,211,84,polygon,TRUE,America/Chicago,56386
+Mahnomen-MN,1840008832,Mahnomen,Mahnomen,MN,Mahnomen-MN,Minnesota,27087,Mahnomen,47.3144,-95.9671,1229,1229,448,polygon,TRUE,America/Chicago,56557
+Alvwood-MN,1840031952,Alvwood,Alvwood,MN,Alvwood-MN,Minnesota,27061,Itasca,47.7305,-94.268,,,1.1,point,FALSE,America/Chicago,56630
+Malmo-MN,1840031847,Malmo,Malmo,MN,Malmo-MN,Minnesota,27001,Aitkin,46.3338,-93.5194,,,24.6,point,FALSE,America/Chicago,56431
+Deer Creek-MN,1840006655,Deer Creek,Deer Creek,MN,Deer Creek-MN,Minnesota,27111,Otter Tail,46.3909,-95.3218,324,324,31,polygon,TRUE,America/Chicago,56527
+Pinecreek-MN,1840031872,Pinecreek,Pinecreek,MN,Pinecreek-MN,Minnesota,27135,Roseau,48.9783,-95.9428,,,16.6,point,FALSE,America/Chicago,56751
+Spring Lake Park-MN,1840008903,Spring Lake Park,Spring Lake Park,MN,Spring Lake Park-MN,Minnesota,27003,Anoka,45.1161,-93.2452,6472,6472,1262,polygon,TRUE,America/Chicago,55432
+Wolverton-MN,1840009979,Wolverton,Wolverton,MN,Wolverton-MN,Minnesota,27167,Wilkin,46.5635,-96.7365,139,139,188,polygon,TRUE,America/Chicago,56594
+Granger-MN,1840031813,Granger,Granger,MN,Granger-MN,Minnesota,27045,Fillmore,43.5022,-92.1388,,,48.9,point,FALSE,America/Chicago,55939
+Fisher-MN,1840007703,Fisher,Fisher,MN,Fisher-MN,Minnesota,27119,Polk,47.7992,-96.7994,435,435,395,polygon,TRUE,America/Chicago,56723
+Hanska-MN,1840006792,Hanska,Hanska,MN,Hanska-MN,Minnesota,27015,Brown,44.1488,-94.4945,376,376,598,polygon,TRUE,America/Chicago,56041
+Backus-MN,1840006623,Backus,Backus,MN,Backus-MN,Minnesota,27021,Cass,46.8209,-94.5147,248,248,156,polygon,TRUE,America/Chicago,56435
+Grand Meadow-MN,1840007935,Grand Meadow,Grand Meadow,MN,Grand Meadow-MN,Minnesota,27099,Mower,43.7059,-92.5704,1160,1160,672,polygon,TRUE,America/Chicago,55936
+Homer-MN,1840025395,Homer,Homer,MN,Homer-MN,Minnesota,27169,Winona,44.0084,-91.5601,,,84.1,polygon,FALSE,America/Chicago,55987
+Vadnais Heights-MN,1840010004,Vadnais Heights,Vadnais Heights,MN,Vadnais Heights-MN,Minnesota,27123,Ramsey,45.057,-93.0747,13321,13321,736,polygon,TRUE,America/Chicago,55127 55110
+Sleepy Eye-MN,1840008970,Sleepy Eye,Sleepy Eye,MN,Sleepy Eye-MN,Minnesota,27015,Brown,44.2991,-94.7244,3330,3445,758,polygon,TRUE,America/Chicago,56085
+Golden Valley-MN,1840007824,Golden Valley,Golden Valley,MN,Golden Valley-MN,Minnesota,27053,Hennepin,44.99,-93.3591,21376,21376,806,polygon,TRUE,America/Chicago,55422 55427 55426 55416
+Shoreview-MN,1840008938,Shoreview,Shoreview,MN,Shoreview-MN,Minnesota,27123,Ramsey,45.0842,-93.1358,26548,26548,951,polygon,TRUE,America/Chicago,55126
+Squaw Lake-MN,1840008830,Squaw Lake,Squaw Lake,MN,Squaw Lake-MN,Minnesota,27061,Itasca,47.6274,-94.1382,106,106,51,polygon,TRUE,America/Chicago,56681
+Frazee-MN,1840007725,Frazee,Frazee,MN,Frazee-MN,Minnesota,27005,Becker,46.7281,-95.7024,1376,1376,500,polygon,TRUE,America/Chicago,56544
+Millville-MN,1840007900,Millville,Millville,MN,Millville-MN,Minnesota,27157,Wabasha,44.2442,-92.2962,181,181,495,polygon,TRUE,America/Chicago,55957
+Lexington-MN,1840007800,Lexington,Lexington,MN,Lexington-MN,Minnesota,27003,Anoka,45.1381,-93.1714,2020,2020,1126,polygon,TRUE,America/Chicago,55014
+Tenstrike-MN,1840008823,Tenstrike,Tenstrike,MN,Tenstrike-MN,Minnesota,27007,Beltrami,47.6604,-94.6845,205,205,23,polygon,TRUE,America/Chicago,56683
+Osseo-MN,1840008928,Osseo,Osseo,MN,Osseo-MN,Minnesota,27053,Hennepin,45.1177,-93.3994,2752,2752,1408,polygon,TRUE,America/Chicago,55369 55569
+Crystal-MN,1840006745,Crystal,Crystal,MN,Crystal-MN,Minnesota,27053,Hennepin,45.0377,-93.3598,23028,23028,1538,polygon,TRUE,America/Chicago,55422 55429 55428 55427
+Saint Augusta-MN,1840008880,Saint Augusta,Saint Augusta,MN,Saint Augusta-MN,Minnesota,27145,Stearns,45.4497,-94.1995,3623,3623,47,polygon,TRUE,America/Chicago,55320 56301
+Newport-MN,1840007811,Newport,Newport,MN,Newport-MN,Minnesota,27163,Washington,44.8743,-92.9975,3481,3481,371,polygon,TRUE,America/Chicago,55055
+Mentor-MN,1840007706,Mentor,Mentor,MN,Mentor-MN,Minnesota,27119,Polk,47.6965,-96.1442,150,150,30,polygon,TRUE,America/Chicago,56736
+New Prague-MN,1840007882,New Prague,New Prague,MN,New Prague-MN,Minnesota,27079,Le Sueur,44.5459,-93.5758,8186,7635,774,polygon,TRUE,America/Chicago,56071
+Verdi-MN,1840031949,Verdi,Verdi,MN,Verdi-MN,Minnesota,27081,Lincoln,44.2086,-96.3523,,,26.8,point,FALSE,America/Chicago,56164
+Newfolden-MN,1840007696,Newfolden,Newfolden,MN,Newfolden-MN,Minnesota,27089,Marshall,48.3558,-96.3297,367,367,158,polygon,TRUE,America/Chicago,56738
+Lockhart-MN,1840031844,Lockhart,Lockhart,MN,Lockhart-MN,Minnesota,27107,Norman,47.44,-96.5512,,,5.3,point,FALSE,America/Chicago,56510
+Braham-MN,1840006693,Braham,Braham,MN,Braham-MN,Minnesota,27059,Isanti,45.7221,-93.1716,1777,1777,425,polygon,TRUE,America/Chicago,55006
+Clarissa-MN,1840006665,Clarissa,Clarissa,MN,Clarissa-MN,Minnesota,27153,Todd,46.1284,-94.9492,652,652,250,polygon,TRUE,America/Chicago,56440
+Trosky-MN,1840010026,Trosky,Trosky,MN,Trosky-MN,Minnesota,27117,Pipestone,43.8884,-96.2509,83,83,22,polygon,TRUE,America/Chicago,56177 56128 56164 56144
+Tracy-MN,1840010020,Tracy,Tracy,MN,Tracy-MN,Minnesota,27083,Lyon,44.2376,-95.6161,2060,2060,364,polygon,TRUE,America/Chicago,56175
+Humboldt-MN,1840006583,Humboldt,Humboldt,MN,Humboldt-MN,Minnesota,27069,Kittson,48.9214,-97.095,43,43,154,polygon,TRUE,America/Chicago,56731
+Burchard-MN,1840031775,Burchard,Burchard,MN,Burchard-MN,Minnesota,27083,Lyon,44.2561,-95.9903,,,5.5,point,FALSE,America/Chicago,56115
+Apple Valley-MN,1840006768,Apple Valley,Apple Valley,MN,Apple Valley-MN,Minnesota,27037,Dakota,44.7456,-93.2006,51957,51957,1188,polygon,TRUE,America/Chicago,55124
+Danvers-MN,1840006725,Danvers,Danvers,MN,Danvers-MN,Minnesota,27151,Swift,45.2809,-95.7558,94,94,48,polygon,TRUE,America/Chicago,56231
+Swift-MN,1840031901,Swift,Swift,MN,Swift-MN,Minnesota,27135,Roseau,48.8533,-95.2213,,,8.5,point,FALSE,America/Chicago,56763
+Andover-MN,1840006716,Andover,Andover,MN,Andover-MN,Minnesota,27003,Anoka,45.2571,-93.3264,32461,32461,369,polygon,TRUE,America/Chicago,55304
+Stillwater-MN,1840008914,Stillwater,Stillwater,MN,Stillwater-MN,Minnesota,27163,Washington,45.0567,-92.8283,19292,19292,1070,polygon,TRUE,America/Chicago,55082 55083
+Wilno-MN,1840031921,Wilno,Wilno,MN,Wilno-MN,Minnesota,27081,Lincoln,44.4997,-96.2314,,,4.2,point,FALSE,America/Chicago,56142
+Hazel Run-MN,1840006765,Hazel Run,Hazel Run,MN,Hazel Run-MN,Minnesota,27173,Yellow Medicine,44.7485,-95.7166,60,60,30,polygon,TRUE,America/Chicago,56241
+Jeffers-MN,1840007918,Jeffers,Jeffers,MN,Jeffers-MN,Minnesota,27033,Cottonwood,44.0559,-95.1954,352,352,353,polygon,TRUE,America/Chicago,56145
+Otisco-MN,1840031862,Otisco,Otisco,MN,Otisco-MN,Minnesota,27161,Waseca,43.9786,-93.5022,,,26.3,point,FALSE,America/Chicago,56093
+Dalton-MN,1840006651,Dalton,Dalton,MN,Dalton-MN,Minnesota,27111,Otter Tail,46.1739,-95.9155,255,255,421,polygon,TRUE,America/Chicago,56324
+Glen-MN,1840031808,Glen,Glen,MN,Glen-MN,Minnesota,27001,Aitkin,46.4186,-93.5152,,,55.4,point,FALSE,America/Chicago,56431
+Little Sauk-MN,1840031843,Little Sauk,Little Sauk,MN,Little Sauk-MN,Minnesota,27153,Todd,45.8639,-94.9184,,,64.9,point,FALSE,America/Chicago,56347
+Jackson-MN,1840007942,Jackson,Jackson,MN,Jackson-MN,Minnesota,27063,Jackson,43.6285,-94.989,3109,3238,272,polygon,TRUE,America/Chicago,56143
+Grant-MN,1840007809,Grant,Grant,MN,Grant-MN,Minnesota,27163,Washington,45.0826,-92.9091,4145,4145,63,polygon,TRUE,America/Chicago,55115 55082
+Fox-MN,1840031806,Fox,Fox,MN,Fox-MN,Minnesota,27135,Roseau,48.8389,-95.8989,,,21.3,point,FALSE,America/Chicago,56751
+Tenney-MN,1840031904,Tenney,Tenney,MN,Tenney-MN,Minnesota,27167,Wilkin,46.0444,-96.4534,,,8.4,point,TRUE,America/Chicago,56583
+Wright-MN,1840009974,Wright,Wright,MN,Wright-MN,Minnesota,27017,Carlton,46.6722,-93.0072,127,127,31,polygon,TRUE,America/Chicago,55787 55798
+Wheaton-MN,1840009987,Wheaton,Wheaton,MN,Wheaton-MN,Minnesota,27155,Traverse,45.8058,-96.498,1343,1343,288,polygon,TRUE,America/Chicago,56296
+Eagan-MN,1840007852,Eagan,Eagan,MN,Eagan-MN,Minnesota,27037,Dakota,44.8168,-93.1638,66428,66428,824,polygon,TRUE,America/Chicago,55121 55122 55123
+Hendricks-MN,1840006785,Hendricks,Hendricks,MN,Hendricks-MN,Minnesota,27081,Lincoln,44.5086,-96.4271,692,692,279,polygon,TRUE,America/Chicago,56136
+Jenkins-MN,1840007742,Jenkins,Jenkins,MN,Jenkins-MN,Minnesota,27035,Crow Wing,46.6525,-94.3298,449,449,38,polygon,TRUE,America/Chicago,56472 56474 56456
+Sawyer-MN,1840031893,Sawyer,Sawyer,MN,Sawyer-MN,Minnesota,27017,Carlton,46.6713,-92.6333,,,29.9,point,FALSE,America/Chicago,55720
+Evansville-MN,1840007768,Evansville,Evansville,MN,Evansville-MN,Minnesota,27041,Douglas,46.0062,-95.6869,598,598,294,polygon,TRUE,America/Chicago,56326
+Appleton-MN,1840006726,Appleton,Appleton,MN,Appleton-MN,Minnesota,27151,Swift,45.1997,-96.0234,1350,1350,264,polygon,TRUE,America/Chicago,56208
+Biwabik-MN,1840006592,Biwabik,Biwabik,MN,Biwabik-MN,Minnesota,27137,St. Louis,47.555,-92.3232,985,985,42,polygon,TRUE,America/Chicago,55705 55708
+Britt-MN,1840031989,Britt,Britt,MN,Britt-MN,Minnesota,27137,St. Louis,47.6402,-92.5255,,,8.4,point,FALSE,America/Chicago,55710
+Saint Clair-MN,1840008979,Saint Clair,Saint Clair,MN,Saint Clair-MN,Minnesota,27013,Blue Earth,44.0838,-93.8601,834,834,467,polygon,TRUE,America/Chicago,56080 56001
+Rich Valley-MN,1840031942,Rich Valley,Rich Valley,MN,Rich Valley-MN,Minnesota,27037,Dakota,44.7461,-93.0438,,,17.4,point,FALSE,America/Chicago,55068
+Thief River Falls-MN,1840008825,Thief River Falls,Thief River Falls,MN,Thief River Falls-MN,Minnesota,27113,Pennington,48.1111,-96.1774,9114,8796,594,polygon,TRUE,America/Chicago,56701
+Aurora-MN,1840006590,Aurora,Aurora,MN,Aurora-MN,Minnesota,27137,St. Louis,47.531,-92.2401,1654,1654,170,polygon,TRUE,America/Chicago,55705
+Merrifield-MN,1840025261,Merrifield,Merrifield,MN,Merrifield-MN,Minnesota,27035,Crow Wing,46.4673,-94.1746,,,99,polygon,FALSE,America/Chicago,56468 56465
+Greenwald-MN,1840007780,Greenwald,Greenwald,MN,Greenwald-MN,Minnesota,27145,Stearns,45.6013,-94.8594,224,224,119,polygon,TRUE,America/Chicago,56352 56335
+Canyon-MN,1840031992,Canyon,Canyon,MN,Canyon-MN,Minnesota,27137,St. Louis,47.0399,-92.4707,,,12.8,point,FALSE,America/Chicago,55717
+Murphy City-MN,1840031968,Murphy City,Murphy City,MN,Murphy City-MN,Minnesota,27075,Lake,47.5096,-91.3246,,,15,point,FALSE,America/Chicago,55603
+Lauderdale-MN,1840007844,Lauderdale,Lauderdale,MN,Lauderdale-MN,Minnesota,27123,Ramsey,44.9942,-93.2026,2510,2510,2309,polygon,TRUE,America/Chicago,55113 55108
+Rollingstone-MN,1840008990,Rollingstone,Rollingstone,MN,Rollingstone-MN,Minnesota,27169,Winona,44.0994,-91.8189,652,652,522,polygon,TRUE,America/Chicago,55969
+Indus-MN,1840031828,Indus,Indus,MN,Indus-MN,Minnesota,27071,Koochiching,48.6252,-93.8377,,,501.1,point,FALSE,America/Winnipeg,56654
+Remer-MN,1840008838,Remer,Remer,MN,Remer-MN,Minnesota,27021,Cass,47.0569,-93.9124,391,391,109,polygon,TRUE,America/Chicago,56672
+Finland-MN,1840025249,Finland,Finland,MN,Finland-MN,Minnesota,27075,Lake,47.435,-91.2682,,,43.8,polygon,FALSE,America/Chicago,55603
+Rockford-MN,1840008900,Rockford,Rockford,MN,Rockford-MN,Minnesota,27171,Wright,45.0922,-93.745,4662,4357,645,polygon,TRUE,America/Chicago,55313 55373
+North Redwood-MN,1840031856,North Redwood,North Redwood,MN,North Redwood-MN,Minnesota,27127,Redwood,44.5633,-95.0944,,,106.6,point,FALSE,America/Chicago,56283
+Willmar-MN,1840009995,Willmar,Willmar,MN,Willmar-MN,Minnesota,27067,Kandiyohi,45.1224,-95.0559,20189,19558,533,polygon,TRUE,America/Chicago,56201
+Johnson-MN,1840007793,Johnson,Johnson,MN,Johnson-MN,Minnesota,27011,Big Stone,45.5723,-96.2943,28,28,35,polygon,TRUE,America/Chicago,56236 56221
+White Rock-MN,1840031920,White Rock,White Rock,MN,White Rock-MN,Minnesota,27049,Goodhue,44.4564,-92.7671,,,13.2,point,FALSE,America/Chicago,55009
+North Mankato-MN,1840007896,North Mankato,North Mankato,MN,North Mankato-MN,Minnesota,27103,Nicollet,44.181,-94.0377,13619,13619,872,polygon,TRUE,America/Chicago,56003
+Minneapolis-MN,1840007830,Minneapolis,Minneapolis,MN,Minneapolis-MN,Minnesota,27053,Hennepin,44.9635,-93.2679,2866604,413651,2957,polygon,TRUE,America/Chicago,55402 55409 55408 55407 55406 55405 55404 55403 55401 55417 55455 55430 55454 55418 55419 55410 55411 55412 55413 55414 55415 55416 55440 55458 55459 55460 55467 55470 55472 55473 55474 55478 55479 55480 55483 55484 55485 55486 55487 55488
+Mizpah-MN,1840007683,Mizpah,Mizpah,MN,Mizpah-MN,Minnesota,27071,Koochiching,47.9209,-94.2132,54,54,6,polygon,TRUE,America/Chicago,56660 56661
+Hawick-MN,1840031819,Hawick,Hawick,MN,Hawick-MN,Minnesota,27067,Kandiyohi,45.3477,-94.8272,,,160.1,point,FALSE,America/Chicago,56273
+Babbitt-MN,1840006591,Babbitt,Babbitt,MN,Babbitt-MN,Minnesota,27137,St. Louis,47.6445,-91.9459,1507,1507,5,polygon,TRUE,America/Chicago,55706
+Loretto-MN,1840008922,Loretto,Loretto,MN,Loretto-MN,Minnesota,27053,Hennepin,45.0548,-93.6349,668,668,891,polygon,TRUE,America/Chicago,55357 55595 55596 55597 55598 55599
+Deerwood-MN,1840006645,Deerwood,Deerwood,MN,Deerwood-MN,Minnesota,27035,Crow Wing,46.4726,-93.8998,516,516,133,polygon,TRUE,America/Chicago,56444
+Hawley-MN,1840006635,Hawley,Hawley,MN,Hawley-MN,Minnesota,27027,Clay,46.8766,-96.3178,2193,2193,335,polygon,TRUE,America/Chicago,56549
+Hollandale-MN,1840006828,Hollandale,Hollandale,MN,Hollandale-MN,Minnesota,27047,Freeborn,43.7597,-93.2048,294,294,260,polygon,TRUE,America/Chicago,56045
+Cosmos-MN,1840006731,Cosmos,Cosmos,MN,Cosmos-MN,Minnesota,27093,Meeker,44.9354,-94.6949,455,455,157,polygon,TRUE,America/Chicago,56228
+Cottage Grove-MN,1840006735,Cottage Grove,Cottage Grove,MN,Cottage Grove-MN,Minnesota,27163,Washington,44.8161,-92.9274,36029,36029,413,polygon,TRUE,America/Chicago,55016 55033
+French River-MN,1840032000,French River,French River,MN,French River-MN,Minnesota,27137,St. Louis,46.898,-91.8971,,,154.8,point,FALSE,America/Chicago,55804
+Woodland-MN,1840010001,Woodland,Woodland,MN,Woodland-MN,Minnesota,27053,Hennepin,44.9503,-93.5136,474,474,316,polygon,TRUE,America/Chicago,55391
+Maplewood-MN,1840008937,Maplewood,Maplewood,MN,Maplewood-MN,Minnesota,27123,Ramsey,44.984,-93.0247,40150,40150,913,polygon,TRUE,America/Chicago,55117 55119 55109
+Carver-MN,1840006758,Carver,Carver,MN,Carver-MN,Minnesota,27019,Carver,44.7593,-93.6293,4628,4628,427,polygon,TRUE,America/Chicago,55315
+Donnelly-MN,1840006690,Donnelly,Donnelly,MN,Donnelly-MN,Minnesota,27149,Stevens,45.6894,-96.0143,238,238,33,polygon,TRUE,America/Chicago,56235
+Ponemah-MN,1840003993,Ponemah,Ponemah,MN,Ponemah-MN,Minnesota,27007,Beltrami,48.0348,-94.8983,,,103.6,polygon,FALSE,America/Chicago,56666
+Florence-MN,1840007876,Florence,Florence,MN,Florence-MN,Minnesota,27083,Lyon,44.2365,-96.0532,39,39,57,polygon,TRUE,America/Chicago,56170
+Elysian-MN,1840007881,Elysian,Elysian,MN,Elysian-MN,Minnesota,27079,Le Sueur,44.2067,-93.6775,667,667,217,polygon,TRUE,America/Chicago,56028
+Northrop-MN,1840007952,Northrop,Northrop,MN,Northrop-MN,Minnesota,27091,Martin,43.7359,-94.4363,217,217,566,polygon,TRUE,America/Chicago,56031 56075
+Spring Valley-MN,1840009010,Spring Valley,Spring Valley,MN,Spring Valley-MN,Minnesota,27045,Fillmore,43.6888,-92.3897,2425,2425,318,polygon,TRUE,America/Chicago,55975
+Holyoke-MN,1840031824,Holyoke,Holyoke,MN,Holyoke-MN,Minnesota,27017,Carlton,46.4674,-92.3885,,,13.6,point,FALSE,America/Chicago,55749
+Iona-MN,1840007909,Iona,Iona,MN,Iona-MN,Minnesota,27101,Murray,43.9149,-95.7858,132,132,65,polygon,TRUE,America/Chicago,56172 56141
+Esko-MN,1840025266,Esko,Esko,MN,Esko-MN,Minnesota,27017,Carlton,46.71,-92.3721,,,515.8,polygon,FALSE,America/Chicago,55733
+Lake George-MN,1840025255,Lake George,Lake George,MN,Lake George-MN,Minnesota,27057,Hubbard,47.1881,-94.9801,,,61.8,polygon,FALSE,America/Chicago,56458
+Stanchfield-MN,1840025298,Stanchfield,Stanchfield,MN,Stanchfield-MN,Minnesota,27059,Isanti,45.665,-93.1815,,,124.6,polygon,FALSE,America/Chicago,55080
+Eden Prairie-MN,1840007821,Eden Prairie,Eden Prairie,MN,Eden Prairie-MN,Minnesota,27053,Hennepin,44.8487,-93.4595,63914,63914,758,polygon,TRUE,America/Chicago,55344 55346 55347
+Dovray-MN,1840006804,Dovray,Dovray,MN,Dovray-MN,Minnesota,27101,Murray,44.0545,-95.5478,54,54,83,polygon,TRUE,America/Chicago,56125
+Middle River-MN,1840007697,Middle River,Middle River,MN,Middle River-MN,Minnesota,27089,Marshall,48.4349,-96.1617,291,291,234,polygon,TRUE,America/Chicago,56737
+Carlisle-MN,1840031777,Carlisle,Carlisle,MN,Carlisle-MN,Minnesota,27111,Otter Tail,46.3683,-96.1898,,,18.8,point,FALSE,America/Chicago,56537
+Longville-MN,1840008835,Longville,Longville,MN,Longville-MN,Minnesota,27021,Cass,46.9878,-94.2122,152,152,68,polygon,TRUE,America/Chicago,56655
+Mendota-MN,1840007854,Mendota,Mendota,MN,Mendota-MN,Minnesota,27037,Dakota,44.8871,-93.1612,211,211,304,polygon,TRUE,America/Chicago,55150
+Saint Francis-MN,1840008905,Saint Francis,Saint Francis,MN,Saint Francis-MN,Minnesota,27003,Anoka,45.399,-93.3896,6425,7466,122,polygon,TRUE,America/Chicago,55330 55070
+Kelsey-MN,1840032004,Kelsey,Kelsey,MN,Kelsey-MN,Minnesota,27137,St. Louis,47.1538,-92.5994,,,7.9,point,FALSE,America/Chicago,55724
+Foxhome-MN,1840007749,Foxhome,Foxhome,MN,Foxhome-MN,Minnesota,27167,Wilkin,46.2769,-96.3123,112,112,115,polygon,TRUE,America/Chicago,56543
+Funkley-MN,1840007698,Funkley,Funkley,MN,Funkley-MN,Minnesota,27007,Beltrami,47.7868,-94.4265,5,5,2,polygon,TRUE,America/Chicago,56630
+Hadley-MN,1840006803,Hadley,Hadley,MN,Hadley-MN,Minnesota,27101,Murray,43.9986,-95.8574,58,58,80,polygon,TRUE,America/Chicago,56151
+Bellaire-MN,1840031767,Bellaire,Bellaire,MN,Bellaire-MN,Minnesota,27123,Ramsey,45.0697,-92.9947,,,867.5,point,FALSE,America/Chicago,55110
+Stewartville-MN,1840008985,Stewartville,Stewartville,MN,Stewartville-MN,Minnesota,27109,Olmsted,43.8602,-92.489,6049,6089,760,polygon,TRUE,America/Chicago,55976
+Frontenac-MN,1840025353,Frontenac,Frontenac,MN,Frontenac-MN,Minnesota,27049,Goodhue,44.5061,-92.3511,,,281.3,polygon,FALSE,America/Chicago,55026 55066 55041
+Silver Creek-MN,1840025305,Silver Creek,Silver Creek,MN,Silver Creek-MN,Minnesota,27171,Wright,45.3127,-93.9827,,,135.8,polygon,FALSE,America/Chicago,55358
+Wadena-MN,1840009971,Wadena,Wadena,MN,Wadena-MN,Minnesota,27159,Wadena,46.4451,-95.1284,3971,4134,296,polygon,TRUE,America/Chicago,56482
+Rice Lake-MN,1840032021,Rice Lake,Rice Lake,MN,Rice Lake-MN,Minnesota,27137,St. Louis,46.8946,-92.1115,4121,4121,22.4,point,TRUE,America/Chicago,55803
+Judson-MN,1840031937,Judson,Judson,MN,Judson-MN,Minnesota,27013,Blue Earth,44.1964,-94.1952,,,68.7,point,FALSE,America/Chicago,56055
+Lonsdale-MN,1840008969,Lonsdale,Lonsdale,MN,Lonsdale-MN,Minnesota,27131,Rice,44.4783,-93.4222,3675,3896,547,polygon,TRUE,America/Chicago,55046
+Kasson-MN,1840007913,Kasson,Kasson,MN,Kasson-MN,Minnesota,27039,Dodge,44.0328,-92.7483,7443,6264,799,polygon,TRUE,America/Chicago,55944
+Leader-MN,1840031840,Leader,Leader,MN,Leader-MN,Minnesota,27021,Cass,46.5286,-94.655,,,14.9,point,FALSE,America/Chicago,56466
+Minneiska-MN,1840007901,Minneiska,Minneiska,MN,Minneiska-MN,Minnesota,27169,Winona,44.1969,-91.8744,108,108,80,polygon,TRUE,America/Chicago,55910
+Bethel-MN,1840006718,Bethel,Bethel,MN,Bethel-MN,Minnesota,27003,Anoka,45.4008,-93.271,504,504,214,polygon,TRUE,America/Chicago,55005
+Cobden-MN,1840006790,Cobden,Cobden,MN,Cobden-MN,Minnesota,27015,Brown,44.2825,-94.8465,35,35,14,polygon,TRUE,America/Chicago,56085
+Melby-MN,1840031853,Melby,Melby,MN,Melby-MN,Minnesota,27041,Douglas,46.0638,-95.7359,,,7.4,point,FALSE,America/Chicago,56326
+Eveleth-MN,1840007687,Eveleth,Eveleth,MN,Eveleth-MN,Minnesota,27137,St. Louis,47.4637,-92.544,3647,3647,223,polygon,TRUE,America/Chicago,55734
+Beardsley-MN,1840006698,Beardsley,Beardsley,MN,Beardsley-MN,Minnesota,27011,Big Stone,45.5576,-96.7141,222,222,183,polygon,TRUE,America/Chicago,56211
+Forada-MN,1840007769,Forada,Forada,MN,Forada-MN,Minnesota,27041,Douglas,45.7885,-95.3572,194,194,138,polygon,TRUE,America/Chicago,56308
+Sabin-MN,1840008840,Sabin,Sabin,MN,Sabin-MN,Minnesota,27027,Clay,46.7795,-96.6539,557,557,609,polygon,TRUE,America/Chicago,56580
+Hanley Falls-MN,1840006764,Hanley Falls,Hanley Falls,MN,Hanley Falls-MN,Minnesota,27173,Yellow Medicine,44.6919,-95.6193,290,290,436,polygon,TRUE,America/Chicago,56245
+Erhard-MN,1840007746,Erhard,Erhard,MN,Erhard-MN,Minnesota,27111,Otter Tail,46.4836,-96.0966,149,149,105,polygon,TRUE,America/Chicago,56534
+Trail-MN,1840009961,Trail,Trail,MN,Trail-MN,Minnesota,27119,Polk,47.7833,-95.698,46,46,17,polygon,TRUE,America/Chicago,56684
+Hendrum-MN,1840006620,Hendrum,Hendrum,MN,Hendrum-MN,Minnesota,27107,Norman,47.2641,-96.8104,298,298,354,polygon,TRUE,America/Chicago,56550
+Harris-MN,1840006694,Harris,Harris,MN,Harris-MN,Minnesota,27025,Chisago,45.5976,-92.9869,1146,1146,22,polygon,TRUE,America/Chicago,55069 55032
+Cedar-MN,1840031779,Cedar,Cedar,MN,Cedar-MN,Minnesota,27003,Anoka,45.3197,-93.2861,,,102,point,FALSE,America/Chicago,55011
+Stephen-MN,1840008819,Stephen,Stephen,MN,Stephen-MN,Minnesota,27089,Marshall,48.452,-96.8766,649,649,308,polygon,TRUE,America/Chicago,56757
+Waterville-MN,1840010021,Waterville,Waterville,MN,Waterville-MN,Minnesota,27079,Le Sueur,44.2236,-93.5745,1845,1845,419,polygon,TRUE,America/Chicago,56096
+Leota-MN,1840004167,Leota,Leota,MN,Leota-MN,Minnesota,27105,Nobles,43.8292,-96.0231,,,45.5,polygon,FALSE,America/Chicago,56128 56153
+Inver Grove Heights-MN,1840007858,Inver Grove Heights,Inver Grove Heights,MN,Inver Grove Heights-MN,Minnesota,27037,Dakota,44.8246,-93.0596,35077,35077,487,polygon,TRUE,America/Chicago,55077 55076
+Grey Eagle-MN,1840006667,Grey Eagle,Grey Eagle,MN,Grey Eagle-MN,Minnesota,27153,Todd,45.8244,-94.7492,331,331,348,polygon,TRUE,America/Chicago,56336
+Kinney-MN,1840007694,Kinney,Kinney,MN,Kinney-MN,Minnesota,27137,St. Louis,47.5167,-92.7185,168,168,14,polygon,TRUE,America/Chicago,55768 55710 55758
+Barden-MN,1840031925,Barden,Barden,MN,Barden-MN,Minnesota,27139,Scott,44.7905,-93.4105,,,3.9,point,FALSE,America/Chicago,55379
+Benson-MN,1840006727,Benson,Benson,MN,Benson-MN,Minnesota,27151,Swift,45.3149,-95.6072,3053,3101,398,polygon,TRUE,America/Chicago,56215
+Nashua-MN,1840007750,Nashua,Nashua,MN,Nashua-MN,Minnesota,27167,Wilkin,46.0377,-96.3059,66,66,7,polygon,TRUE,America/Chicago,56565
+Almelund-MN,1840031759,Almelund,Almelund,MN,Almelund-MN,Minnesota,27025,Chisago,45.4913,-92.7855,,,45,point,FALSE,America/Chicago,55012
+Adams-MN,1840006829,Adams,Adams,MN,Adams-MN,Minnesota,27099,Mower,43.5654,-92.7189,778,778,298,polygon,TRUE,America/Chicago,55909
+Clear Lake-MN,1840006699,Clear Lake,Clear Lake,MN,Clear Lake-MN,Minnesota,27141,Sherburne,45.4467,-93.9983,662,662,248,polygon,TRUE,America/Chicago,55319
+Princeton-MN,1840008869,Princeton,Princeton,MN,Princeton-MN,Minnesota,27095,Mille Lacs,45.5682,-93.5927,4951,4707,365,polygon,TRUE,America/Chicago,55371
+New Hope-MN,1840007829,New Hope,New Hope,MN,New Hope-MN,Minnesota,27053,Hennepin,45.0375,-93.3869,20877,20877,1591,polygon,TRUE,America/Chicago,55428 55427
+Maple Plain-MN,1840008924,Maple Plain,Maple Plain,MN,Maple Plain-MN,Minnesota,27053,Hennepin,45.009,-93.6613,1807,1807,626,polygon,TRUE,America/Chicago,55359 55348 55570 55571 55572 55574 55576 55577 55578 55579 55592 55593
+Knife River-MN,1840031835,Knife River,Knife River,MN,Knife River-MN,Minnesota,27075,Lake,46.9494,-91.7791,,,102.6,point,FALSE,America/Chicago,55616
+Dent-MN,1840006656,Dent,Dent,MN,Dent-MN,Minnesota,27111,Otter Tail,46.5526,-95.7185,193,193,194,polygon,TRUE,America/Chicago,56528
+Waconia-MN,1840010008,Waconia,Waconia,MN,Waconia-MN,Minnesota,27019,Carver,44.8411,-93.7933,12020,11964,1042,polygon,TRUE,America/Chicago,55387
+Felton-MN,1840007728,Felton,Felton,MN,Felton-MN,Minnesota,27027,Clay,47.0749,-96.5056,178,178,66,polygon,TRUE,America/Chicago,56536
+Flom-MN,1840031803,Flom,Flom,MN,Flom-MN,Minnesota,27107,Norman,47.1661,-96.1309,,,5.1,point,FALSE,America/Chicago,56584
+Zumbro Falls-MN,1840010024,Zumbro Falls,Zumbro Falls,MN,Zumbro Falls-MN,Minnesota,27157,Wabasha,44.285,-92.4264,242,242,161,polygon,TRUE,America/Chicago,55991
+High Landing-MN,1840031935,High Landing,High Landing,MN,High Landing-MN,Minnesota,27113,Pennington,48.0494,-95.8086,,,5.6,point,FALSE,America/Chicago,56725
+Fairfax-MN,1840007860,Fairfax,Fairfax,MN,Fairfax-MN,Minnesota,27129,Renville,44.5284,-94.7234,1154,1154,341,polygon,TRUE,America/Chicago,55332
+Round Prairie-MN,1840031888,Round Prairie,Round Prairie,MN,Round Prairie-MN,Minnesota,27153,Todd,45.9044,-94.8856,,,24.6,point,FALSE,America/Chicago,56347
+Elgin-MN,1840007898,Elgin,Elgin,MN,Elgin-MN,Minnesota,27157,Wabasha,44.1255,-92.247,1073,1073,450,polygon,TRUE,America/Chicago,55932
+Big Falls-MN,1840006586,Big Falls,Big Falls,MN,Big Falls-MN,Minnesota,27071,Koochiching,48.1794,-93.8093,217,217,13,polygon,TRUE,America/Chicago,56627
+Kenneth-MN,1840007925,Kenneth,Kenneth,MN,Kenneth-MN,Minnesota,27133,Rock,43.7543,-96.0725,67,67,24,polygon,TRUE,America/Chicago,56147
+Wilder-MN,1840010041,Wilder,Wilder,MN,Wilder-MN,Minnesota,27063,Jackson,43.8279,-95.2058,60,60,29,polygon,TRUE,America/Chicago,56101
+Trommald-MN,1840009972,Trommald,Trommald,MN,Trommald-MN,Minnesota,27035,Crow Wing,46.5057,-94.0155,101,101,10,polygon,TRUE,America/Chicago,56441
+Marshall-MN,1840007879,Marshall,Marshall,MN,Marshall-MN,Minnesota,27083,Lyon,44.4488,-95.7897,13448,13664,506,polygon,TRUE,America/Chicago,56258
+Annandale-MN,1840006707,Annandale,Annandale,MN,Annandale-MN,Minnesota,27171,Wright,45.26,-94.1203,3350,3315,430,polygon,TRUE,America/Chicago,55302
+Saint Peter-MN,1840008972,Saint Peter,Saint Peter,MN,Saint Peter-MN,Minnesota,27103,Nicollet,44.3295,-93.9643,12149,11692,807,polygon,TRUE,America/Chicago,56082
+Delano-MN,1840006710,Delano,Delano,MN,Delano-MN,Minnesota,27171,Wright,45.0377,-93.7918,5734,5962,569,polygon,TRUE,America/Chicago,55328
+Saint Stephen-MN,1840008885,Saint Stephen,Saint Stephen,MN,Saint Stephen-MN,Minnesota,27145,Stearns,45.7009,-94.2741,860,860,90,polygon,TRUE,America/Chicago,56375
+Saint Joseph-MN,1840008882,Saint Joseph,Saint Joseph,MN,Saint Joseph-MN,Minnesota,27145,Stearns,45.5609,-94.3075,6743,6743,669,polygon,TRUE,America/Chicago,56374 56301
+Cleveland-MN,1840006788,Cleveland,Cleveland,MN,Cleveland-MN,Minnesota,27079,Le Sueur,44.3236,-93.8352,699,699,448,polygon,TRUE,America/Chicago,56017
+Campbell-MN,1840006657,Campbell,Campbell,MN,Campbell-MN,Minnesota,27167,Wilkin,46.0975,-96.4056,154,154,252,polygon,TRUE,America/Chicago,56522
+Saint Michael-MN,1840008901,Saint Michael,Saint Michael,MN,Saint Michael-MN,Minnesota,27171,Wright,45.2014,-93.6919,17295,17295,204,polygon,TRUE,America/Chicago,55313 55376
+Round Lake-MN,1840008999,Round Lake,Round Lake,MN,Round Lake-MN,Minnesota,27105,Nobles,43.5372,-95.4706,371,371,138,polygon,TRUE,America/Chicago,56167
+Burtrum-MN,1840006664,Burtrum,Burtrum,MN,Burtrum-MN,Minnesota,27153,Todd,45.8659,-94.6874,139,139,94,polygon,TRUE,America/Chicago,56318
+Outing-MN,1840031970,Outing,Outing,MN,Outing-MN,Minnesota,27021,Cass,46.8205,-93.948,,,77.3,point,FALSE,America/Chicago,56662
+Ulen-MN,1840009969,Ulen,Ulen,MN,Ulen-MN,Minnesota,27027,Clay,47.0783,-96.2587,546,546,185,polygon,TRUE,America/Chicago,56585
+Walters-MN,1840010042,Walters,Walters,MN,Walters-MN,Minnesota,27043,Faribault,43.6049,-93.6743,71,71,137,polygon,TRUE,America/Chicago,56097
+Inguadona-MN,1840031985,Inguadona,Inguadona,MN,Inguadona-MN,Minnesota,27021,Cass,46.9833,-94.1302,,,11.8,point,FALSE,America/Chicago,56655
+Park Rapids-MN,1840008839,Park Rapids,Park Rapids,MN,Park Rapids-MN,Minnesota,27057,Hubbard,46.9175,-95.0595,3604,3935,222,polygon,TRUE,America/Chicago,56470
+Elba-MN,1840007919,Elba,Elba,MN,Elba-MN,Minnesota,27169,Winona,44.0864,-92.0183,157,157,29,polygon,TRUE,America/Chicago,55910
+Ihlen-MN,1840006799,Ihlen,Ihlen,MN,Ihlen-MN,Minnesota,27117,Pipestone,43.9118,-96.3716,64,64,69,polygon,TRUE,America/Chicago,56140 56144
+Forest City-MN,1840031804,Forest City,Forest City,MN,Forest City-MN,Minnesota,27093,Meeker,45.2064,-94.4664,,,66.6,point,FALSE,America/Chicago,55355
+Benedict-MN,1840031953,Benedict,Benedict,MN,Benedict-MN,Minnesota,27057,Hubbard,47.158,-94.6906,,,83.7,point,FALSE,America/Chicago,56461
+Lake Henry-MN,1840007785,Lake Henry,Lake Henry,MN,Lake Henry-MN,Minnesota,27145,Stearns,45.4623,-94.7966,104,104,197,polygon,TRUE,America/Chicago,56362
+Hovland-MN,1840031961,Hovland,Hovland,MN,Hovland-MN,Minnesota,27031,Cook,47.8388,-89.972,,,19.7,point,FALSE,America/Chicago,55606
+North Branch-MN,1840007790,North Branch,North Branch,MN,North Branch-MN,Minnesota,27025,Chisago,45.5137,-92.9601,6569,10317,111,polygon,TRUE,America/Chicago,55056 55032
+Waubun-MN,1840009965,Waubun,Waubun,MN,Waubun-MN,Minnesota,27087,Mahnomen,47.184,-95.9401,398,398,300,polygon,TRUE,America/Chicago,56589
+Long Prairie-MN,1840008859,Long Prairie,Long Prairie,MN,Long Prairie-MN,Minnesota,27153,Todd,45.978,-94.8636,3236,3334,473,polygon,TRUE,America/Chicago,56347
+South Saint Paul-MN,1840008948,South Saint Paul,South Saint Paul,MN,South Saint Paul-MN,Minnesota,27037,Dakota,44.8874,-93.0408,20217,20217,1382,polygon,TRUE,America/Chicago,55075
+Viola-MN,1840031909,Viola,Viola,MN,Viola-MN,Minnesota,27109,Olmsted,44.0633,-92.2682,,,44.3,point,FALSE,America/Chicago,55934
+Rosendale-MN,1840031885,Rosendale,Rosendale,MN,Rosendale-MN,Minnesota,27093,Meeker,45.0405,-94.7067,,,8.5,point,FALSE,America/Chicago,56209
+Nowthen-MN,1840022338,Nowthen,Nowthen,MN,Nowthen-MN,Minnesota,27003,Anoka,45.3421,-93.4497,4641,4641,53,polygon,TRUE,America/Chicago,55303 55330
+Thomson-MN,1840008847,Thomson,Thomson,MN,Thomson-MN,Minnesota,27017,Carlton,46.6636,-92.398,,,76.5,point,FALSE,America/Chicago,55718
+Chandler-MN,1840006801,Chandler,Chandler,MN,Chandler-MN,Minnesota,27101,Murray,43.9306,-95.9512,255,255,126,polygon,TRUE,America/Chicago,56122
+Hope-MN,1840031825,Hope,Hope,MN,Hope-MN,Minnesota,27147,Steele,43.9619,-93.276,,,39.6,point,FALSE,America/Chicago,56046
+Foley-MN,1840007776,Foley,Foley,MN,Foley-MN,Minnesota,27009,Benton,45.6636,-93.9095,2652,2652,405,polygon,TRUE,America/Chicago,56329
+Georgetown-MN,1840007729,Georgetown,Georgetown,MN,Georgetown-MN,Minnesota,27027,Clay,47.0784,-96.7959,129,129,49,polygon,TRUE,America/Chicago,56546
+Mayer-MN,1840007847,Mayer,Mayer,MN,Mayer-MN,Minnesota,27019,Carver,44.8868,-93.8902,1984,1984,549,polygon,TRUE,America/Chicago,55360
+Le Roy-MN,1840007936,Le Roy,Le Roy,MN,Le Roy-MN,Minnesota,27099,Mower,43.5132,-92.5075,922,922,515,polygon,TRUE,America/Chicago,55951
+Warsaw-MN,1840025368,Warsaw,Warsaw,MN,Warsaw-MN,Minnesota,27131,Rice,44.2576,-93.3771,,,224.3,polygon,FALSE,America/Chicago,55021 55087
+Zimmerman-MN,1840009993,Zimmerman,Zimmerman,MN,Zimmerman-MN,Minnesota,27141,Sherburne,45.4415,-93.5977,8530,5499,622,polygon,TRUE,America/Chicago,55398
+Pipestone-MN,1840008980,Pipestone,Pipestone,MN,Pipestone-MN,Minnesota,27117,Pipestone,43.9956,-96.3116,3898,4106,379,polygon,TRUE,America/Chicago,56164
+Kinbrae-MN,1840007928,Kinbrae,Kinbrae,MN,Kinbrae-MN,Minnesota,27105,Nobles,43.8265,-95.4824,12,12,5,polygon,TRUE,America/Chicago,56131
+Excelsior-MN,1840007823,Excelsior,Excelsior,MN,Excelsior-MN,Minnesota,27053,Hennepin,44.9013,-93.5665,2316,2316,1430,polygon,TRUE,America/Chicago,55331
+Faribault-MN,1840007889,Faribault,Faribault,MN,Faribault-MN,Minnesota,27131,Rice,44.2986,-93.2787,24012,23662,597,polygon,TRUE,America/Chicago,55021
+Murdock-MN,1840007804,Murdock,Murdock,MN,Murdock-MN,Minnesota,27151,Swift,45.2231,-95.3935,271,271,186,polygon,TRUE,America/Chicago,56271
+Ruthton-MN,1840008981,Ruthton,Ruthton,MN,Ruthton-MN,Minnesota,27117,Pipestone,44.1778,-96.1047,232,232,136,polygon,TRUE,America/Chicago,56170
+Garden City-MN,1840025379,Garden City,Garden City,MN,Garden City-MN,Minnesota,27013,Blue Earth,44.0485,-94.1713,,,133.6,polygon,FALSE,America/Chicago,56034
+Bechyn-MN,1840031765,Bechyn,Bechyn,MN,Bechyn-MN,Minnesota,27129,Renville,44.6505,-95.0761,,,6.3,point,FALSE,America/Chicago,56283
+Odessa-MN,1840007792,Odessa,Odessa,MN,Odessa-MN,Minnesota,27011,Big Stone,45.2621,-96.3309,131,131,67,polygon,TRUE,America/Chicago,56276
+Bingham Lake-MN,1840006811,Bingham Lake,Bingham Lake,MN,Bingham Lake-MN,Minnesota,27033,Cottonwood,43.9095,-95.046,128,128,65,polygon,TRUE,America/Chicago,56118
+Blooming Prairie-MN,1840006805,Blooming Prairie,Blooming Prairie,MN,Blooming Prairie-MN,Minnesota,27147,Steele,43.8683,-93.055,1987,1987,544,polygon,TRUE,America/Chicago,55917
+Kelly Lake-MN,1840032003,Kelly Lake,Kelly Lake,MN,Kelly Lake-MN,Minnesota,27137,St. Louis,47.4174,-93.0066,,,211.5,point,FALSE,America/Chicago,55746
+Hardwick-MN,1840006818,Hardwick,Hardwick,MN,Hardwick-MN,Minnesota,27133,Rock,43.7742,-96.1975,195,195,42,polygon,TRUE,America/Chicago,56134
+Lanesboro-MN,1840007940,Lanesboro,Lanesboro,MN,Lanesboro-MN,Minnesota,27045,Fillmore,43.7181,-91.9719,739,739,215,polygon,TRUE,America/Chicago,55949
+Mapleton-MN,1840008976,Mapleton,Mapleton,MN,Mapleton-MN,Minnesota,27013,Blue Earth,43.9264,-93.9545,1706,1706,451,polygon,TRUE,America/Chicago,56065
+Sturgeon Lake-MN,1840008855,Sturgeon Lake,Sturgeon Lake,MN,Sturgeon Lake-MN,Minnesota,27115,Pine,46.3871,-92.8244,406,406,42,polygon,TRUE,America/Chicago,55783
+Hasty-MN,1840031818,Hasty,Hasty,MN,Hasty-MN,Minnesota,27171,Wright,45.3711,-93.973,,,37.5,point,FALSE,America/Chicago,55320
+Lake Saint Croix Beach-MN,1840007815,Lake Saint Croix Beach,Lake Saint Croix Beach,MN,Lake Saint Croix Beach-MN,Minnesota,27163,Washington,44.9245,-92.7657,1076,1076,738,polygon,TRUE,America/Chicago,55043
+Clearbrook-MN,1840006607,Clearbrook,Clearbrook,MN,Clearbrook-MN,Minnesota,27029,Clearwater,47.6961,-95.4284,522,522,412,polygon,TRUE,America/Chicago,56634
+Freeport-MN,1840007779,Freeport,Freeport,MN,Freeport-MN,Minnesota,27145,Stearns,45.6627,-94.6888,657,657,220,polygon,TRUE,America/Chicago,56331
+Blomkest-MN,1840006723,Blomkest,Blomkest,MN,Blomkest-MN,Minnesota,27067,Kandiyohi,44.9428,-95.0234,161,161,60,polygon,TRUE,America/Chicago,56216
+The Lakes-MN,1840032018,The Lakes,The Lakes,MN,The Lakes-MN,Minnesota,27101,Murray,44.136,-95.7084,,,12.6,polygon,FALSE,America/Chicago,56123 56175 56172 56132
+Dassel-MN,1840006733,Dassel,Dassel,MN,Dassel-MN,Minnesota,27093,Meeker,45.0829,-94.3141,1425,1425,338,polygon,TRUE,America/Chicago,55325
+Courtland-MN,1840006793,Courtland,Courtland,MN,Courtland-MN,Minnesota,27103,Nicollet,44.27,-94.3465,670,670,97,polygon,TRUE,America/Chicago,56021
+Lavinia-MN,1840031965,Lavinia,Lavinia,MN,Lavinia-MN,Minnesota,27007,Beltrami,47.515,-94.8117,,,95.6,point,FALSE,America/Chicago,56601
+Audubon-MN,1840006631,Audubon,Audubon,MN,Audubon-MN,Minnesota,27005,Becker,46.863,-95.981,519,519,360,polygon,TRUE,America/Chicago,56511
+Grand Marais-MN,1840008810,Grand Marais,Grand Marais,MN,Grand Marais-MN,Minnesota,27031,Cook,47.7587,-90.3442,1339,1339,177,polygon,TRUE,America/Chicago,55604
+Garrison-MN,1840007739,Garrison,Garrison,MN,Garrison-MN,Minnesota,27035,Crow Wing,46.2998,-93.8261,201,201,70,polygon,TRUE,America/Chicago,56450
+Dawson-MN,1840006743,Dawson,Dawson,MN,Dawson-MN,Minnesota,27073,Lac qui Parle,44.9287,-96.049,1422,1422,372,polygon,TRUE,America/Chicago,56232
+Beltrami-MN,1840006605,Beltrami,Beltrami,MN,Beltrami-MN,Minnesota,27119,Polk,47.5426,-96.5271,106,106,20,polygon,TRUE,America/Chicago,56517
+Houston-MN,1840006835,Houston,Houston,MN,Houston-MN,Minnesota,27055,Houston,43.7604,-91.571,978,978,407,polygon,TRUE,America/Chicago,55943
+Hampton-MN,1840006769,Hampton,Hampton,MN,Hampton-MN,Minnesota,27037,Dakota,44.6088,-93.0018,685,685,195,polygon,TRUE,America/Chicago,55031
+Gully-MN,1840006606,Gully,Gully,MN,Gully-MN,Minnesota,27119,Polk,47.7684,-95.6227,66,66,97,polygon,TRUE,America/Chicago,56646
+Harding-MN,1840006671,Harding,Harding,MN,Harding-MN,Minnesota,27097,Morrison,46.1194,-94.0378,125,125,14,polygon,TRUE,America/Chicago,56364
+Clarkfield-MN,1840006762,Clarkfield,Clarkfield,MN,Clarkfield-MN,Minnesota,27173,Yellow Medicine,44.7908,-95.8078,815,815,287,polygon,TRUE,America/Chicago,56223
+Oak Park Heights-MN,1840007812,Oak Park Heights,Oak Park Heights,MN,Oak Park Heights-MN,Minnesota,27163,Washington,45.0319,-92.8144,4845,4845,632,polygon,TRUE,America/Chicago,55082
+Reno-MN,1840031879,Reno,Reno,MN,Reno-MN,Minnesota,27055,Houston,43.6011,-91.2751,,,11.2,point,FALSE,America/Chicago,55919
+Storden-MN,1840008988,Storden,Storden,MN,Storden-MN,Minnesota,27033,Cottonwood,44.0396,-95.3193,215,215,374,polygon,TRUE,America/Chicago,56174
+Carlton-MN,1840006648,Carlton,Carlton,MN,Carlton-MN,Minnesota,27017,Carlton,46.6635,-92.4065,1046,1046,103,polygon,TRUE,America/Chicago,55718 55733
+Roy Lake-MN,1840023822,Roy Lake,Roy Lake,MN,Roy Lake-MN,Minnesota,27029,Clearwater,47.3176,-95.5428,,,3.5,polygon,FALSE,America/Chicago,56557
+Mantorville-MN,1840008984,Mantorville,Mantorville,MN,Mantorville-MN,Minnesota,27039,Dodge,44.0656,-92.7541,1210,1210,328,polygon,TRUE,America/Chicago,55955
+Walker-MN,1840009967,Walker,Walker,MN,Walker-MN,Minnesota,27021,Cass,47.0892,-94.5851,933,933,145,polygon,TRUE,America/Chicago,56484
+Holdingford-MN,1840006686,Holdingford,Holdingford,MN,Holdingford-MN,Minnesota,27145,Stearns,45.7297,-94.4716,711,711,324,polygon,TRUE,America/Chicago,56340
+Lengby-MN,1840007708,Lengby,Lengby,MN,Lengby-MN,Minnesota,27119,Polk,47.5147,-95.6345,86,86,138,polygon,TRUE,America/Chicago,56651
+Blue Earth-MN,1840006841,Blue Earth,Blue Earth,MN,Blue Earth-MN,Minnesota,27043,Faribault,43.6402,-94.1006,3119,3211,379,polygon,TRUE,America/Chicago,56013
+Gemmell-MN,1840031958,Gemmell,Gemmell,MN,Gemmell-MN,Minnesota,27071,Koochiching,47.9733,-94.1238,,,9.6,point,FALSE,America/Chicago,56660
+Randolph-MN,1840008950,Randolph,Randolph,MN,Randolph-MN,Minnesota,27037,Dakota,44.526,-93.0195,447,447,180,polygon,TRUE,America/Chicago,55009 55065
+West Concord-MN,1840010028,West Concord,West Concord,MN,West Concord-MN,Minnesota,27039,Dodge,44.1529,-92.8995,773,773,280,polygon,TRUE,America/Chicago,55985
+Chatfield-MN,1840006837,Chatfield,Chatfield,MN,Chatfield-MN,Minnesota,27045,Fillmore,43.8443,-92.1826,2626,2804,412,polygon,TRUE,America/Chicago,55923
+Albany-MN,1840006683,Albany,Albany,MN,Albany-MN,Minnesota,27145,Stearns,45.6283,-94.5676,2671,2668,468,polygon,TRUE,America/Chicago,56307
+Red Lake-MN,1840003994,Red Lake,Red Lake,MN,Red Lake-MN,Minnesota,27007,Beltrami,47.8707,-95.0052,,,314.9,polygon,FALSE,America/Chicago,56671
+Russell-MN,1840008968,Russell,Russell,MN,Russell-MN,Minnesota,27083,Lyon,44.32,-95.947,333,333,142,polygon,TRUE,America/Chicago,56169
+Sheldon-MN,1840031894,Sheldon,Sheldon,MN,Sheldon-MN,Minnesota,27055,Houston,43.6783,-91.5932,,,24.7,point,FALSE,America/Chicago,55921
+Oslo-MN,1840008821,Oslo,Oslo,MN,Oslo-MN,Minnesota,27089,Marshall,48.195,-97.1324,317,317,340,polygon,TRUE,America/Chicago,56744
+Richville-MN,1840008853,Richville,Richville,MN,Richville-MN,Minnesota,27111,Otter Tail,46.5058,-95.6261,97,97,37,polygon,TRUE,America/Chicago,56576
+Erskine-MN,1840007701,Erskine,Erskine,MN,Erskine-MN,Minnesota,27119,Polk,47.6649,-96.0124,487,487,263,polygon,TRUE,America/Chicago,56535
+Hitterdal-MN,1840006636,Hitterdal,Hitterdal,MN,Hitterdal-MN,Minnesota,27027,Clay,46.9779,-96.2586,204,204,91,polygon,TRUE,America/Chicago,56552
+Howard Lake-MN,1840006709,Howard Lake,Howard Lake,MN,Howard Lake-MN,Minnesota,27171,Wright,45.0607,-94.0666,2045,2045,420,polygon,TRUE,America/Chicago,55349 55575
+Okabena-MN,1840007941,Okabena,Okabena,MN,Okabena-MN,Minnesota,27063,Jackson,43.7394,-95.3167,182,182,341,polygon,TRUE,America/Chicago,56161
+Saint Paul Park-MN,1840008917,Saint Paul Park,Saint Paul Park,MN,Saint Paul Park-MN,Minnesota,27163,Washington,44.8359,-92.9949,5381,5381,698,polygon,TRUE,America/Chicago,55071
+Tyler-MN,1840010019,Tyler,Tyler,MN,Tyler-MN,Minnesota,27081,Lincoln,44.2788,-96.1353,1112,1112,218,polygon,TRUE,America/Chicago,56178
+Branch-MN,1840031774,Branch,Branch,MN,Branch-MN,Minnesota,27025,Chisago,45.4852,-92.9619,,,55.9,point,FALSE,America/Chicago,55056
+Bloomington-MN,1840006747,Bloomington,Bloomington,MN,Bloomington-MN,Minnesota,27053,Hennepin,44.8306,-93.315,85319,85319,949,polygon,TRUE,America/Chicago,55425 55420 55431 55437 55438
+Emily-MN,1840007736,Emily,Emily,MN,Emily-MN,Minnesota,27035,Crow Wing,46.7602,-93.9665,832,832,10,polygon,TRUE,America/Chicago,56447
+Mahtowa-MN,1840025267,Mahtowa,Mahtowa,MN,Mahtowa-MN,Minnesota,27017,Carlton,46.5616,-92.6279,,,64.1,polygon,FALSE,America/Chicago,55707 55718
+Porter-MN,1840008945,Porter,Porter,MN,Porter-MN,Minnesota,27173,Yellow Medicine,44.6421,-96.1693,180,180,30,polygon,TRUE,America/Chicago,56280
+Green Isle-MN,1840007867,Green Isle,Green Isle,MN,Green Isle-MN,Minnesota,27143,Sibley,44.6805,-94.0055,533,533,210,polygon,TRUE,America/Chicago,55338
+Embarrass-MN,1840031998,Embarrass,Embarrass,MN,Embarrass-MN,Minnesota,27137,St. Louis,47.6591,-92.1979,,,11.5,point,FALSE,America/Chicago,55732
+Larsmont-MN,1840031964,Larsmont,Larsmont,MN,Larsmont-MN,Minnesota,27075,Lake,46.9791,-91.7457,,,24.6,point,FALSE,America/Chicago,55616
+Breezy Point-MN,1840004002,Breezy Point,Breezy Point,MN,Breezy Point-MN,Minnesota,27035,Crow Wing,46.6055,-94.2148,2361,2361,76,polygon,TRUE,America/Chicago,56472
+Foreston-MN,1840007760,Foreston,Foreston,MN,Foreston-MN,Minnesota,27095,Mille Lacs,45.7321,-93.7096,517,517,140,polygon,TRUE,America/Chicago,56330
+Corcoran-MN,1840006744,Corcoran,Corcoran,MN,Corcoran-MN,Minnesota,27053,Hennepin,45.1089,-93.5836,5686,5686,61,polygon,TRUE,America/Chicago,55340 55374 55357
+Wanamingo-MN,1840010014,Wanamingo,Wanamingo,MN,Wanamingo-MN,Minnesota,27049,Goodhue,44.3027,-92.7872,1092,1092,300,polygon,TRUE,America/Chicago,55983
+Barnum-MN,1840006649,Barnum,Barnum,MN,Barnum-MN,Minnesota,27017,Carlton,46.5053,-92.6886,603,603,232,polygon,TRUE,America/Chicago,55707
+Otsego-MN,1840008899,Otsego,Otsego,MN,Otsego-MN,Minnesota,27171,Wright,45.266,-93.62,16094,16094,210,polygon,TRUE,America/Chicago,55301 55330 55362
+Shakopee-MN,1840008955,Shakopee,Shakopee,MN,Shakopee-MN,Minnesota,27139,Scott,44.7745,-93.4763,40610,40610,559,polygon,TRUE,America/Chicago,55379
+Richwood-MN,1840031880,Richwood,Richwood,MN,Richwood-MN,Minnesota,27005,Becker,46.9747,-95.8228,,,28.1,point,FALSE,America/Chicago,56521
+Leonard-MN,1840007711,Leonard,Leonard,MN,Leonard-MN,Minnesota,27029,Clearwater,47.6512,-95.267,42,42,37,polygon,TRUE,America/Chicago,56652
+Victoria-MN,1840010007,Victoria,Victoria,MN,Victoria-MN,Minnesota,27019,Carver,44.8634,-93.659,8917,8917,395,polygon,TRUE,America/Chicago,55386 55331 55318
+Northome-MN,1840007682,Northome,Northome,MN,Northome-MN,Minnesota,27071,Koochiching,47.8751,-94.2669,195,195,49,polygon,TRUE,America/Chicago,56661
+Angora-MN,1840031987,Angora,Angora,MN,Angora-MN,Minnesota,27137,St. Louis,47.7749,-92.6341,,,5.2,point,FALSE,America/Chicago,55703
+Chaska-MN,1840006760,Chaska,Chaska,MN,Chaska-MN,Minnesota,27019,Carver,44.8166,-93.6092,26016,26016,591,polygon,TRUE,America/Chicago,55318
+Luverne-MN,1840008995,Luverne,Luverne,MN,Luverne-MN,Minnesota,27133,Rock,43.6532,-96.2145,4534,4658,503,polygon,TRUE,America/Chicago,56156
+Greenwood-MN,1840006748,Greenwood,Greenwood,MN,Greenwood-MN,Minnesota,27053,Hennepin,44.9093,-93.552,734,734,789,polygon,TRUE,America/Chicago,55331
+Farwell-MN,1840007787,Farwell,Farwell,MN,Farwell-MN,Minnesota,27121,Pope,45.7527,-95.6186,52,52,69,polygon,TRUE,America/Chicago,56327
+Williams-MN,1840010905,Williams,Williams,MN,Williams-MN,Minnesota,27077,Lake of the Woods,48.7679,-94.9533,180,180,71,polygon,TRUE,America/Chicago,56686
+Bejou-MN,1840006616,Bejou,Bejou,MN,Bejou-MN,Minnesota,27087,Mahnomen,47.4431,-95.9721,90,90,85,polygon,TRUE,America/Chicago,56516
+Iron Junction-MN,1840007693,Iron Junction,Iron Junction,MN,Iron Junction-MN,Minnesota,27137,St. Louis,47.419,-92.6084,85,85,39,polygon,TRUE,America/Chicago,55751
+Kenyon-MN,1840007870,Kenyon,Kenyon,MN,Kenyon-MN,Minnesota,27049,Goodhue,44.2725,-92.9861,1828,1828,302,polygon,TRUE,America/Chicago,55946
+Grandy-MN,1840031812,Grandy,Grandy,MN,Grandy-MN,Minnesota,27059,Isanti,45.6352,-93.1952,,,98.2,point,FALSE,America/Chicago,55008
+Warba-MN,1840009963,Warba,Warba,MN,Warba-MN,Minnesota,27061,Itasca,47.1365,-93.2658,180,180,21,polygon,TRUE,America/Chicago,55793
+Lawler-MN,1840031838,Lawler,Lawler,MN,Lawler-MN,Minnesota,27001,Aitkin,46.5361,-93.1705,,,10.8,point,FALSE,America/Chicago,55760
+Kragnes-MN,1840031836,Kragnes,Kragnes,MN,Kragnes-MN,Minnesota,27027,Clay,46.9883,-96.7517,,,20.7,point,FALSE,America/Chicago,56560
+Skyline-MN,1840008977,Skyline,Skyline,MN,Skyline-MN,Minnesota,27013,Blue Earth,44.1406,-94.0341,294,294,648,polygon,TRUE,America/Chicago,56001
+Bellingham-MN,1840006741,Bellingham,Bellingham,MN,Bellingham-MN,Minnesota,27073,Lac qui Parle,45.1364,-96.284,156,156,150,polygon,TRUE,America/Chicago,56212
+Proctor-MN,1840008818,Proctor,Proctor,MN,Proctor-MN,Minnesota,27137,St. Louis,46.7416,-92.2276,3059,3059,362,polygon,TRUE,America/Chicago,55810
+Clements-MN,1840006781,Clements,Clements,MN,Clements-MN,Minnesota,27127,Redwood,44.38,-95.0548,147,147,149,polygon,TRUE,America/Chicago,56224
+Plainview-MN,1840008973,Plainview,Plainview,MN,Plainview-MN,Minnesota,27157,Wabasha,44.1647,-92.1693,3228,3239,578,polygon,TRUE,America/Chicago,55964
+Pierz-MN,1840008864,Pierz,Pierz,MN,Pierz-MN,Minnesota,27097,Morrison,45.9775,-94.1006,1350,1350,358,polygon,TRUE,America/Chicago,56364
+Kanaranzi-MN,1840031831,Kanaranzi,Kanaranzi,MN,Kanaranzi-MN,Minnesota,27133,Rock,43.5758,-96.0945,,,55,point,FALSE,America/Chicago,56146
+Lake Lillian-MN,1840007803,Lake Lillian,Lake Lillian,MN,Lake Lillian-MN,Minnesota,27067,Kandiyohi,44.9461,-94.8801,237,237,199,polygon,TRUE,America/Chicago,56253
+Lansing-MN,1840025429,Lansing,Lansing,MN,Lansing-MN,Minnesota,27099,Mower,43.7477,-92.9656,,,157.8,polygon,FALSE,America/Chicago,55950 55912
+Little Marais-MN,1840031842,Little Marais,Little Marais,MN,Little Marais-MN,Minnesota,27075,Lake,47.4107,-91.1102,,,6.6,point,FALSE,America/Chicago,55614
+Duelm-MN,1840031794,Duelm,Duelm,MN,Duelm-MN,Minnesota,27009,Benton,45.5722,-93.9344,,,61.5,point,FALSE,America/Chicago,56329
+Alexandria-MN,1840006680,Alexandria,Alexandria,MN,Alexandria-MN,Minnesota,27041,Douglas,45.8748,-95.3784,20814,13568,328,polygon,TRUE,America/Chicago,56308
+Onamia-MN,1840008867,Onamia,Onamia,MN,Onamia-MN,Minnesota,27095,Mille Lacs,46.0699,-93.6674,864,864,348,polygon,TRUE,America/Chicago,56359
+Tamarack-MN,1840008841,Tamarack,Tamarack,MN,Tamarack-MN,Minnesota,27001,Aitkin,46.6528,-93.1252,88,88,9,polygon,TRUE,America/Chicago,55787
+Sheshebee-MN,1840031895,Sheshebee,Sheshebee,MN,Sheshebee-MN,Minnesota,27001,Aitkin,46.7047,-93.2424,,,116.6,point,FALSE,America/Chicago,55760
+Wabasha-MN,1840010023,Wabasha,Wabasha,MN,Wabasha-MN,Minnesota,27157,Wabasha,44.3706,-92.042,2453,2453,115,polygon,TRUE,America/Chicago,55981
+Lowry-MN,1840008889,Lowry,Lowry,MN,Lowry-MN,Minnesota,27121,Pope,45.7047,-95.518,298,298,281,polygon,TRUE,America/Chicago,56349
+Wirt-MN,1840031984,Wirt,Wirt,MN,Wirt-MN,Minnesota,27061,Itasca,47.7305,-93.9599,,,9.8,point,FALSE,America/Chicago,56688
+Pine Island-MN,1840008958,Pine Island,Pine Island,MN,Pine Island-MN,Minnesota,27049,Goodhue,44.1971,-92.6164,3033,3360,225,polygon,TRUE,America/Chicago,55963
+Echo-MN,1840007850,Echo,Echo,MN,Echo-MN,Minnesota,27173,Yellow Medicine,44.6218,-95.4115,265,265,101,polygon,TRUE,America/Chicago,56237
+Cologne-MN,1840006757,Cologne,Cologne,MN,Cologne-MN,Minnesota,27019,Carver,44.7694,-93.7931,1598,1598,352,polygon,TRUE,America/Chicago,55322
+Long Beach-MN,1840008888,Long Beach,Long Beach,MN,Long Beach-MN,Minnesota,27121,Pope,45.6509,-95.4292,412,412,109,polygon,TRUE,America/Chicago,56334
+Troy-MN,1840031948,Troy,Troy,MN,Troy-MN,Minnesota,27169,Winona,43.8708,-92.0679,,,9,point,FALSE,America/Chicago,55972
+London-MN,1840031846,London,London,MN,London-MN,Minnesota,27047,Freeborn,43.5261,-93.0627,,,32.6,point,FALSE,America/Chicago,56036
+Big Bend City-MN,1840031770,Big Bend City,Big Bend City,MN,Big Bend City-MN,Minnesota,27023,Chippewa,45.143,-95.772,,,63.3,point,FALSE,America/Chicago,56262
+Hay Creek-MN,1840031820,Hay Creek,Hay Creek,MN,Hay Creek-MN,Minnesota,27049,Goodhue,44.4919,-92.5438,,,11.4,point,FALSE,America/Chicago,55066
+Dakota-MN,1840006812,Dakota,Dakota,MN,Dakota-MN,Minnesota,27169,Winona,43.9121,-91.358,319,319,189,polygon,TRUE,America/Chicago,55925
+Collis-MN,1840031928,Collis,Collis,MN,Collis-MN,Minnesota,27155,Traverse,45.6466,-96.4256,,,7.1,point,FALSE,America/Chicago,56236
+Averill-MN,1840031762,Averill,Averill,MN,Averill-MN,Minnesota,27027,Clay,46.9708,-96.5473,,,6.5,point,FALSE,America/Chicago,56547
+Badger-MN,1840006585,Badger,Badger,MN,Badger-MN,Minnesota,27135,Roseau,48.7767,-96.0212,364,364,105,polygon,TRUE,America/Chicago,56714
+Zim-MN,1840032013,Zim,Zim,MN,Zim-MN,Minnesota,27137,St. Louis,47.3069,-92.6032,,,2.6,point,FALSE,America/Chicago,55738
+Orono-MN,1840008927,Orono,Orono,MN,Orono-MN,Minnesota,27053,Hennepin,44.9647,-93.5904,8009,8009,193,polygon,TRUE,America/Chicago,55391 55356 55323
+Cedar Mills-MN,1840006734,Cedar Mills,Cedar Mills,MN,Cedar Mills-MN,Minnesota,27093,Meeker,44.9433,-94.5196,44,44,50,polygon,TRUE,America/Chicago,55350
+Sandstone-MN,1840008858,Sandstone,Sandstone,MN,Sandstone-MN,Minnesota,27115,Pine,46.1291,-92.8645,2650,2650,193,polygon,TRUE,America/Chicago,55072
+Brandon-MN,1840006681,Brandon,Brandon,MN,Brandon-MN,Minnesota,27041,Douglas,45.9662,-95.5947,479,479,389,polygon,TRUE,America/Chicago,56315
+Federal Dam-MN,1840007721,Federal Dam,Federal Dam,MN,Federal Dam-MN,Minnesota,27021,Cass,47.2411,-94.2145,106,106,18,polygon,TRUE,America/Chicago,56641
+Breckenridge-MN,1840004003,Breckenridge,Breckenridge,MN,Breckenridge-MN,Minnesota,27167,Wilkin,46.2662,-96.5849,3270,3270,499,polygon,TRUE,America/Chicago,56520
+Melrose-MN,1840007782,Melrose,Melrose,MN,Melrose-MN,Minnesota,27145,Stearns,45.6758,-94.8132,3132,3611,437,polygon,TRUE,America/Chicago,56352
+Madison Lake-MN,1840008974,Madison Lake,Madison Lake,MN,Madison Lake-MN,Minnesota,27013,Blue Earth,44.2047,-93.8161,1141,1141,425,polygon,TRUE,America/Chicago,56063
+Angle Inlet-MN,1840027030,Angle Inlet,Angle Inlet,MN,Angle Inlet-MN,Minnesota,27077,Lake of the Woods,49.3465,-95.0732,,,12.2,polygon,FALSE,America/Chicago,56711
+Rustad-MN,1840031889,Rustad,Rustad,MN,Rustad-MN,Minnesota,27027,Clay,46.7333,-96.7448,,,4.4,point,FALSE,America/Chicago,56560
+Meadowlands-MN,1840007691,Meadowlands,Meadowlands,MN,Meadowlands-MN,Minnesota,27137,St. Louis,47.0731,-92.7313,133,133,132,polygon,TRUE,America/Chicago,55765
+Kerkhoven-MN,1840007805,Kerkhoven,Kerkhoven,MN,Kerkhoven-MN,Minnesota,27151,Swift,45.1924,-95.3201,722,722,338,polygon,TRUE,America/Chicago,56252
+Heron Lake-MN,1840006840,Heron Lake,Heron Lake,MN,Heron Lake-MN,Minnesota,27063,Jackson,43.7975,-95.3211,660,660,199,polygon,TRUE,America/Chicago,56137
+Tabor-MN,1840031903,Tabor,Tabor,MN,Tabor-MN,Minnesota,27119,Polk,48.0791,-96.8628,,,5.8,point,FALSE,America/Chicago,56762
+Dodge Center-MN,1840006808,Dodge Center,Dodge Center,MN,Dodge Center-MN,Minnesota,27039,Dodge,44.0286,-92.8508,2673,2702,500,polygon,TRUE,America/Chicago,55927
+Mendota Heights-MN,1840007855,Mendota Heights,Mendota Heights,MN,Mendota Heights-MN,Minnesota,27037,Dakota,44.8813,-93.1402,11280,11280,475,polygon,TRUE,America/Chicago,55120 55118 55150
+Swift Falls-MN,1840031902,Swift Falls,Swift Falls,MN,Swift Falls-MN,Minnesota,27151,Swift,45.3989,-95.4239,,,8.3,point,FALSE,America/Chicago,56215
+Upsala-MN,1840009983,Upsala,Upsala,MN,Upsala-MN,Minnesota,27097,Morrison,45.81,-94.5674,420,420,50,polygon,TRUE,America/Chicago,56384 56340 56318 56382
+Saint Louis Park-MN,1840008935,Saint Louis Park,Saint Louis Park,MN,Saint Louis Park-MN,Minnesota,27053,Hennepin,44.9488,-93.365,48747,48747,1772,polygon,TRUE,America/Chicago,55426 55416
+Ormsby-MN,1840008993,Ormsby,Ormsby,MN,Ormsby-MN,Minnesota,27091,Martin,43.8504,-94.6988,127,127,138,polygon,TRUE,America/Chicago,56162
+Cloquet-MN,1840006646,Cloquet,Cloquet,MN,Cloquet-MN,Minnesota,27017,Carlton,46.7221,-92.4924,12922,12111,132,polygon,TRUE,America/Chicago,55720
+Roscoe-MN,1840008878,Roscoe,Roscoe,MN,Roscoe-MN,Minnesota,27145,Stearns,45.4324,-94.6365,103,103,62,polygon,TRUE,America/Chicago,56371 56362
+New Trier-MN,1840007856,New Trier,New Trier,MN,New Trier-MN,Minnesota,27037,Dakota,44.6042,-92.9329,109,109,203,polygon,TRUE,America/Chicago,55031
+Chisholm-MN,1840006588,Chisholm,Chisholm,MN,Chisholm-MN,Minnesota,27137,St. Louis,47.4877,-92.8787,4589,4940,426,polygon,TRUE,America/Chicago,55719
+Odin-MN,1840007922,Odin,Odin,MN,Odin-MN,Minnesota,27165,Watonwan,43.8672,-94.7427,104,104,108,polygon,TRUE,America/Chicago,56160
+Leonidas-MN,1840007695,Leonidas,Leonidas,MN,Leonidas-MN,Minnesota,27137,St. Louis,47.4678,-92.5674,52,52,15,polygon,TRUE,America/Chicago,55734
+Granite Falls-MN,1840007851,Granite Falls,Granite Falls,MN,Granite Falls-MN,Minnesota,27173,Yellow Medicine,44.8108,-95.5384,2704,2757,296,polygon,TRUE,America/Chicago,56241
+Pencer-MN,1840031867,Pencer,Pencer,MN,Pencer-MN,Minnesota,27135,Roseau,48.6991,-95.6378,,,2.2,point,FALSE,America/Chicago,56751
+Truman-MN,1840010046,Truman,Truman,MN,Truman-MN,Minnesota,27091,Martin,43.8279,-94.4367,1058,1058,375,polygon,TRUE,America/Chicago,56088
+Ottertail-MN,1840008849,Ottertail,Ottertail,MN,Ottertail-MN,Minnesota,27111,Otter Tail,46.4266,-95.5594,611,611,55,polygon,TRUE,America/Chicago,56571
+Baker-MN,1840023848,Baker,Baker,MN,Baker-MN,Minnesota,27027,Clay,46.7105,-96.5579,,,53.3,polygon,FALSE,America/Chicago,56580
+Minnesota City-MN,1840000326,Minnesota City,Minnesota City,MN,Minnesota City-MN,Minnesota,27169,Winona,44.0923,-91.75,200,200,300,polygon,TRUE,America/Chicago,55959
+Browns Valley-MN,1840004013,Browns Valley,Browns Valley,MN,Browns Valley-MN,Minnesota,27155,Traverse,45.5947,-96.8328,549,549,269,polygon,TRUE,America/Chicago,56219
+Vergas-MN,1840009977,Vergas,Vergas,MN,Vergas-MN,Minnesota,27111,Otter Tail,46.6548,-95.8039,346,346,91,polygon,TRUE,America/Chicago,56587
+White Bear Beach-MN,1840031919,White Bear Beach,White Bear Beach,MN,White Bear Beach-MN,Minnesota,27123,Ramsey,45.0997,-92.9891,,,769.7,point,FALSE,America/Chicago,55110
+Cloverton-MN,1840031781,Cloverton,Cloverton,MN,Cloverton-MN,Minnesota,27115,Pine,46.168,-92.3196,,,1.2,point,FALSE,America/Chicago,55072
+Graceton-MN,1840031810,Graceton,Graceton,MN,Graceton-MN,Minnesota,27077,Lake of the Woods,48.7411,-94.8363,,,5.7,point,FALSE,America/Chicago,56686
+Minnetrista-MN,1840007833,Minnetrista,Minnetrista,MN,Minnetrista-MN,Minnesota,27053,Hennepin,44.9355,-93.7103,7397,7397,110,polygon,TRUE,America/Chicago,55331 55364 55375 55359
+Brooten-MN,1840004017,Brooten,Brooten,MN,Brooten-MN,Minnesota,27145,Stearns,45.5001,-95.1158,743,743,182,polygon,TRUE,America/Chicago,56316
+Albertville-MN,1840006706,Albertville,Albertville,MN,Albertville-MN,Minnesota,27171,Wright,45.2365,-93.6617,7401,7401,653,polygon,TRUE,America/Chicago,55301
+Genola-MN,1840007757,Genola,Genola,MN,Genola-MN,Minnesota,27097,Morrison,45.9652,-94.1128,69,69,78,polygon,TRUE,America/Chicago,56364
+Altura-MN,1840006813,Altura,Altura,MN,Altura-MN,Minnesota,27169,Winona,44.0643,-91.9436,489,489,63,polygon,TRUE,America/Chicago,55969 55910
+Baxter-MN,1840006643,Baxter,Baxter,MN,Baxter-MN,Minnesota,27035,Crow Wing,46.342,-94.28,8198,8198,172,polygon,TRUE,America/Chicago,56425
+Waldorf-MN,1840010029,Waldorf,Waldorf,MN,Waldorf-MN,Minnesota,27161,Waseca,43.9331,-93.6974,229,229,231,polygon,TRUE,America/Chicago,56091
+Madison-MN,1840008920,Madison,Madison,MN,Madison-MN,Minnesota,27073,Lac qui Parle,45.0127,-96.1886,1432,1432,525,polygon,TRUE,America/Chicago,56256
+Noyes-MN,1840031858,Noyes,Noyes,MN,Noyes-MN,Minnesota,27069,Kittson,48.9975,-97.2045,,,2.6,point,FALSE,America/Winnipeg,56755
+Lindstrom-MN,1840008892,Lindstrom,Lindstrom,MN,Lindstrom-MN,Minnesota,27025,Chisago,45.3869,-92.8475,8521,4457,477,polygon,TRUE,America/Chicago,55045
+Hugo-MN,1840006739,Hugo,Hugo,MN,Hugo-MN,Minnesota,27163,Washington,45.1671,-92.9588,14532,14532,167,polygon,TRUE,America/Chicago,55110 55038
+Radium-MN,1840031876,Radium,Radium,MN,Radium-MN,Minnesota,27089,Marshall,48.2294,-96.6137,,,3.8,point,FALSE,America/Chicago,56762
+Plymouth-MN,1840008929,Plymouth,Plymouth,MN,Plymouth-MN,Minnesota,27053,Hennepin,45.0225,-93.4617,77216,77216,912,polygon,TRUE,America/Chicago,55442 55441 55447 55446
+Spring Lake-MN,1840031977,Spring Lake,Spring Lake,MN,Spring Lake-MN,Minnesota,27061,Itasca,47.6424,-93.868,,,2.7,point,FALSE,America/Chicago,56637
+Pillager-MN,1840008836,Pillager,Pillager,MN,Pillager-MN,Minnesota,27021,Cass,46.3295,-94.4799,459,459,207,polygon,TRUE,America/Chicago,56473
+Wendell-MN,1840009985,Wendell,Wendell,MN,Wendell-MN,Minnesota,27051,Grant,46.0359,-96.1008,167,167,61,polygon,TRUE,America/Chicago,56590
+Tintah-MN,1840009986,Tintah,Tintah,MN,Tintah-MN,Minnesota,27155,Traverse,46.0108,-96.32,59,59,30,polygon,TRUE,America/Chicago,56583
+Blaine-MN,1840006719,Blaine,Blaine,MN,Blaine-MN,Minnesota,27003,Anoka,45.1696,-93.2078,62892,62892,717,polygon,TRUE,America/Chicago,55014 55434 55449
+Currie-MN,1840006800,Currie,Currie,MN,Currie-MN,Minnesota,27101,Murray,44.0705,-95.6672,226,226,152,polygon,TRUE,America/Chicago,56123
+Brownsdale-MN,1840004169,Brownsdale,Brownsdale,MN,Brownsdale-MN,Minnesota,27099,Mower,43.7401,-92.8679,678,678,539,polygon,TRUE,America/Chicago,55918
+Spring Park-MN,1840008926,Spring Park,Spring Park,MN,Spring Park-MN,Minnesota,27053,Hennepin,44.9368,-93.632,1786,1786,1933,polygon,TRUE,America/Chicago,55384
+Brooklyn Park-MN,1840004023,Brooklyn Park,Brooklyn Park,MN,Brooklyn Park-MN,Minnesota,27053,Hennepin,45.1112,-93.3505,79707,79707,1179,polygon,TRUE,America/Chicago,55429 55428 55443 55445 55444
+Meire Grove-MN,1840007781,Meire Grove,Meire Grove,MN,Meire Grove-MN,Minnesota,27145,Stearns,45.6255,-94.8687,185,185,128,polygon,TRUE,America/Chicago,56352
+Winton-MN,1840009955,Winton,Winton,MN,Winton-MN,Minnesota,27137,St. Louis,47.9285,-91.8005,171,171,511,polygon,TRUE,America/Chicago,55731 55796
+Donaldson-MN,1840006584,Donaldson,Donaldson,MN,Donaldson-MN,Minnesota,27069,Kittson,48.5755,-96.898,40,40,18,polygon,TRUE,America/Chicago,56720
+Guthrie-MN,1840031959,Guthrie,Guthrie,MN,Guthrie-MN,Minnesota,27057,Hubbard,47.3002,-94.7911,,,14,point,FALSE,America/Chicago,56461
+Gibbon-MN,1840007866,Gibbon,Gibbon,MN,Gibbon-MN,Minnesota,27143,Sibley,44.5353,-94.5236,747,747,326,polygon,TRUE,America/Chicago,55335
+Soderville-MN,1840031976,Soderville,Soderville,MN,Soderville-MN,Minnesota,27003,Anoka,45.288,-93.235,,,119.3,point,FALSE,America/Chicago,55304
+Elmer-MN,1840031997,Elmer,Elmer,MN,Elmer-MN,Minnesota,27137,St. Louis,47.1036,-92.7771,,,18.7,point,FALSE,America/Chicago,55765
+Miltona-MN,1840007773,Miltona,Miltona,MN,Miltona-MN,Minnesota,27041,Douglas,46.0462,-95.2932,408,408,234,polygon,TRUE,America/Chicago,56354
+Woodstock-MN,1840010027,Woodstock,Woodstock,MN,Woodstock-MN,Minnesota,27117,Pipestone,44.0113,-96.0967,119,119,87,polygon,TRUE,America/Chicago,56186
+Wolf Lake-MN,1840009968,Wolf Lake,Wolf Lake,MN,Wolf Lake-MN,Minnesota,27005,Becker,46.8062,-95.3528,56,56,72,polygon,TRUE,America/Chicago,56544 56593 56464
+Kiester-MN,1840007948,Kiester,Kiester,MN,Kiester-MN,Minnesota,27043,Faribault,43.5365,-93.711,473,473,418,polygon,TRUE,America/Chicago,56051
+Ely-MN,1840007686,Ely,Ely,MN,Ely-MN,Minnesota,27137,St. Louis,47.9056,-91.8503,3389,3390,450,polygon,TRUE,America/Chicago,55731
+Henning-MN,1840006654,Henning,Henning,MN,Henning-MN,Minnesota,27111,Otter Tail,46.3232,-95.4424,799,799,92,polygon,TRUE,America/Chicago,56551
+Dundas-MN,1840007888,Dundas,Dundas,MN,Dundas-MN,Minnesota,27131,Rice,44.4276,-93.2035,1490,1490,300,polygon,TRUE,America/Chicago,55019
+Ada-MN,1840006617,Ada,Ada,MN,Ada-MN,Minnesota,27107,Norman,47.2991,-96.5166,1629,1629,451,polygon,TRUE,America/Chicago,56510
+Marine on Saint Croix-MN,1840007810,Marine on Saint Croix,Marine on Saint Croix,MN,Marine on Saint Croix-MN,Minnesota,27163,Washington,45.1983,-92.7783,694,694,68,polygon,TRUE,America/Chicago,55047
+Warren-MN,1840009957,Warren,Warren,MN,Warren-MN,Minnesota,27089,Marshall,48.194,-96.769,1547,1547,415,polygon,TRUE,America/Chicago,56762
+Racine-MN,1840009005,Racine,Racine,MN,Racine-MN,Minnesota,27099,Mower,43.7761,-92.4804,534,534,306,polygon,TRUE,America/Chicago,55967
+Richfield-MN,1840008930,Richfield,Richfield,MN,Richfield-MN,Minnesota,27053,Hennepin,44.8762,-93.2826,35949,35949,2026,polygon,TRUE,America/Chicago,55423
+Blue Grass-MN,1840031773,Blue Grass,Blue Grass,MN,Blue Grass-MN,Minnesota,27159,Wadena,46.5427,-95.01,,,5.3,point,FALSE,America/Chicago,56477
+Pease-MN,1840008868,Pease,Pease,MN,Pease-MN,Minnesota,27095,Mille Lacs,45.701,-93.6512,240,240,102,polygon,TRUE,America/Chicago,56353 56363
+Pinewood-MN,1840031873,Pinewood,Pinewood,MN,Pinewood-MN,Minnesota,27007,Beltrami,47.5972,-95.1278,,,12.9,point,FALSE,America/Chicago,56676
+Dayton-MN,1840006750,Dayton,Dayton,MN,Dayton-MN,Minnesota,27053,Hennepin,45.1905,-93.4757,5387,5387,89,polygon,TRUE,America/Chicago,55369 55327
+Good Thunder-MN,1840007904,Good Thunder,Good Thunder,MN,Good Thunder-MN,Minnesota,27013,Blue Earth,44.0067,-94.0703,571,571,347,polygon,TRUE,America/Chicago,56037
+Sunfish Lake-MN,1840008949,Sunfish Lake,Sunfish Lake,MN,Sunfish Lake-MN,Minnesota,27037,Dakota,44.8723,-93.0942,544,544,138,polygon,TRUE,America/Chicago,55118
+Ogema-MN,1840007726,Ogema,Ogema,MN,Ogema-MN,Minnesota,27005,Becker,47.1016,-95.9225,186,186,58,polygon,TRUE,America/Chicago,56569
+Ramsey-MN,1840008904,Ramsey,Ramsey,MN,Ramsey-MN,Minnesota,27003,Anoka,45.2618,-93.4494,26206,26206,351,polygon,TRUE,America/Chicago,55303
+Buffalo Lake-MN,1840006771,Buffalo Lake,Buffalo Lake,MN,Buffalo Lake-MN,Minnesota,27129,Renville,44.7372,-94.618,695,695,396,polygon,TRUE,America/Chicago,55314
+Willernie-MN,1840009997,Willernie,Willernie,MN,Willernie-MN,Minnesota,27163,Washington,45.0539,-92.9573,495,495,1560,polygon,TRUE,America/Chicago,55090 55115
+Verndale-MN,1840009970,Verndale,Verndale,MN,Verndale-MN,Minnesota,27159,Wadena,46.397,-95.0111,574,574,226,polygon,TRUE,America/Chicago,56481
+Pelican Rapids-MN,1840008851,Pelican Rapids,Pelican Rapids,MN,Pelican Rapids-MN,Minnesota,27111,Otter Tail,46.57,-96.0861,2471,2471,381,polygon,TRUE,America/Chicago,56572
+Arco-MN,1840006784,Arco,Arco,MN,Arco-MN,Minnesota,27081,Lincoln,44.3814,-96.1812,73,73,44,polygon,TRUE,America/Chicago,56113
+Herman-MN,1840006677,Herman,Herman,MN,Herman-MN,Minnesota,27051,Grant,45.8103,-96.1409,435,435,156,polygon,TRUE,America/Chicago,56248
+Klossner-MN,1840031834,Klossner,Klossner,MN,Klossner-MN,Minnesota,27103,Nicollet,44.3658,-94.4258,,,30.2,point,FALSE,America/Chicago,56073
+Hines-MN,1840031960,Hines,Hines,MN,Hines-MN,Minnesota,27007,Beltrami,47.6861,-94.6328,,,26.5,point,FALSE,America/Chicago,56647
+Kandiyohi-MN,1840007802,Kandiyohi,Kandiyohi,MN,Kandiyohi-MN,Minnesota,27067,Kandiyohi,45.132,-94.9321,488,488,560,polygon,TRUE,America/Chicago,56251
+Steen-MN,1840008997,Steen,Steen,MN,Steen-MN,Minnesota,27133,Rock,43.5143,-96.2631,177,177,154,polygon,TRUE,America/Chicago,56173
+North Saint Paul-MN,1840007843,North Saint Paul,North Saint Paul,MN,North Saint Paul-MN,Minnesota,27123,Ramsey,45.0137,-92.9995,12338,12338,1672,polygon,TRUE,America/Chicago,55109
+Hutchinson-MN,1840006756,Hutchinson,Hutchinson,MN,Hutchinson-MN,Minnesota,27085,McLeod,44.8856,-94.3763,13767,13888,618,polygon,TRUE,America/Chicago,55350
+Menahga-MN,1840007734,Menahga,Menahga,MN,Menahga-MN,Minnesota,27159,Wadena,46.7471,-95.1011,1326,1326,138,polygon,TRUE,America/Chicago,56464
+La Crescent-MN,1840007938,La Crescent,La Crescent,MN,La Crescent-MN,Minnesota,27055,Houston,43.83,-91.302,4822,4822,628,polygon,TRUE,America/Chicago,55947
+Bemidji-MN,1840006600,Bemidji,Bemidji,MN,Bemidji-MN,Minnesota,27007,Beltrami,47.4798,-94.8833,16271,14942,400,polygon,TRUE,America/Chicago,56601 56619
+Markville-MN,1840031851,Markville,Markville,MN,Markville-MN,Minnesota,27115,Pine,46.0919,-92.3307,,,17.4,point,FALSE,America/Chicago,55072
+Fifty Lakes-MN,1840007737,Fifty Lakes,Fifty Lakes,MN,Fifty Lakes-MN,Minnesota,27035,Crow Wing,46.762,-94.0893,399,399,5,polygon,TRUE,America/Chicago,56448
+Ortonville-MN,1840008896,Ortonville,Ortonville,MN,Ortonville-MN,Minnesota,27011,Big Stone,45.3038,-96.4409,1830,1830,201,polygon,TRUE,America/Chicago,56278
+Franklin-MN,1840007861,Franklin,Franklin,MN,Franklin-MN,Minnesota,27129,Renville,44.5311,-94.8851,469,469,166,polygon,TRUE,America/Chicago,55333
+Adrian-MN,1840006820,Adrian,Adrian,MN,Adrian-MN,Minnesota,27105,Nobles,43.6333,-95.9334,1223,1223,425,polygon,TRUE,America/Chicago,56110
+Lismore-MN,1840008998,Lismore,Lismore,MN,Lismore-MN,Minnesota,27105,Nobles,43.7491,-95.9483,231,231,246,polygon,TRUE,America/Chicago,56155
+Chisago City-MN,1840000269,Chisago City,Chisago City,MN,Chisago City-MN,Minnesota,27025,Chisago,45.3475,-92.9115,5062,5062,156,polygon,TRUE,America/Chicago,55013
+Spicer-MN,1840008906,Spicer,Spicer,MN,Spicer-MN,Minnesota,27067,Kandiyohi,45.233,-94.9401,1198,1198,391,polygon,TRUE,America/Chicago,56288
+Highland-MN,1840031821,Highland,Highland,MN,Highland-MN,Minnesota,27045,Fillmore,43.6808,-91.8702,,,14.2,point,FALSE,America/Chicago,55949
+Austin-MN,1840006830,Austin,Austin,MN,Austin-MN,Minnesota,27099,Mower,43.672,-92.9744,25105,24720,808,polygon,TRUE,America/Chicago,55912
+Watson-MN,1840010003,Watson,Watson,MN,Watson-MN,Minnesota,27023,Chippewa,45.0104,-95.7999,199,199,439,polygon,TRUE,America/Chicago,56295
+Crow River-MN,1840031929,Crow River,Crow River,MN,Crow River-MN,Minnesota,27093,Meeker,45.2439,-94.7244,,,11.3,point,FALSE,America/Chicago,56243
+Osage-MN,1840025259,Osage,Osage,MN,Osage-MN,Minnesota,27005,Becker,46.9283,-95.2586,,,133.3,polygon,FALSE,America/Chicago,56570
+Louisburg-MN,1840008919,Louisburg,Louisburg,MN,Louisburg-MN,Minnesota,27073,Lac qui Parle,45.1637,-96.171,44,44,55,polygon,TRUE,America/Chicago,56256
+Sanborn-MN,1840008963,Sanborn,Sanborn,MN,Sanborn-MN,Minnesota,27127,Redwood,44.2097,-95.1297,312,312,57,polygon,TRUE,America/Chicago,56083
+Stockton-MN,1840008989,Stockton,Stockton,MN,Stockton-MN,Minnesota,27169,Winona,44.0272,-91.7697,726,726,164,polygon,TRUE,America/Chicago,55987 55988
+Lake Benton-MN,1840007875,Lake Benton,Lake Benton,MN,Lake Benton-MN,Minnesota,27081,Lincoln,44.2644,-96.2917,658,658,67,polygon,TRUE,America/Chicago,56149
+Glyndon-MN,1840007730,Glyndon,Glyndon,MN,Glyndon-MN,Minnesota,27027,Clay,46.8717,-96.5797,1371,1371,350,polygon,TRUE,America/Chicago,56547
+Preston-MN,1840009013,Preston,Preston,MN,Preston-MN,Minnesota,27045,Fillmore,43.6723,-92.0826,1305,1305,205,polygon,TRUE,America/Chicago,55965
+Lamoille-MN,1840031837,Lamoille,Lamoille,MN,Lamoille-MN,Minnesota,27169,Winona,44.0022,-91.4724,,,47.2,point,FALSE,America/Chicago,55987
+Rose City-MN,1840031883,Rose City,Rose City,MN,Rose City-MN,Minnesota,27041,Douglas,46.0775,-95.1667,,,3.3,point,FALSE,America/Chicago,56446
+Goodview-MN,1840007920,Goodview,Goodview,MN,Goodview-MN,Minnesota,27169,Winona,44.0695,-91.717,4099,4099,718,polygon,TRUE,America/Chicago,55959 55987
+Pemberton-MN,1840008978,Pemberton,Pemberton,MN,Pemberton-MN,Minnesota,27013,Blue Earth,44.0087,-93.7835,244,244,521,polygon,TRUE,America/Chicago,56078
+Marble-MN,1840007715,Marble,Marble,MN,Marble-MN,Minnesota,27061,Itasca,47.3281,-93.2941,685,685,60,polygon,TRUE,America/Chicago,55709 55764
+Crosby-MN,1840006640,Crosby,Crosby,MN,Crosby-MN,Minnesota,27035,Crow Wing,46.4893,-93.9572,3406,2337,304,polygon,TRUE,America/Chicago,56441
+Lakeville-MN,1840007859,Lakeville,Lakeville,MN,Lakeville-MN,Minnesota,27037,Dakota,44.6777,-93.2522,61938,61938,663,polygon,TRUE,America/Chicago,55044
+Bigelow-MN,1840006821,Bigelow,Bigelow,MN,Bigelow-MN,Minnesota,27105,Nobles,43.5056,-95.6889,239,239,228,polygon,TRUE,America/Chicago,56117
+Cushing-MN,1840031786,Cushing,Cushing,MN,Cushing-MN,Minnesota,27097,Morrison,46.1397,-94.577,,,60.1,point,FALSE,America/Chicago,56443
+Pelland-MN,1840031866,Pelland,Pelland,MN,Pelland-MN,Minnesota,27071,Koochiching,48.5227,-93.5752,,,6.8,point,FALSE,America/Chicago,56649
+Lancaster-MN,1840007680,Lancaster,Lancaster,MN,Lancaster-MN,Minnesota,27069,Kittson,48.8576,-96.8018,338,338,56,polygon,TRUE,America/Chicago,56735
+Lamberton-MN,1840007873,Lamberton,Lamberton,MN,Lamberton-MN,Minnesota,27127,Redwood,44.2306,-95.2676,780,780,388,polygon,TRUE,America/Chicago,56152
+Hubbard-MN,1840031826,Hubbard,Hubbard,MN,Hubbard-MN,Minnesota,27057,Hubbard,46.8366,-95.0103,,,106.9,point,FALSE,America/Chicago,56470
+Ward Springs-MN,1840031912,Ward Springs,Ward Springs,MN,Ward Springs-MN,Minnesota,27153,Todd,45.7919,-94.805,,,42.9,point,FALSE,America/Chicago,56336
+Granada-MN,1840007951,Granada,Granada,MN,Granada-MN,Minnesota,27091,Martin,43.6932,-94.3494,290,290,189,polygon,TRUE,America/Chicago,56039
+Sauk Rapids-MN,1840008873,Sauk Rapids,Sauk Rapids,MN,Sauk Rapids-MN,Minnesota,27009,Benton,45.5981,-94.154,13631,13631,845,polygon,TRUE,America/Chicago,56379
+Nisswa-MN,1840007740,Nisswa,Nisswa,MN,Nisswa-MN,Minnesota,27035,Crow Wing,46.5005,-94.2976,2014,2014,72,polygon,TRUE,America/Chicago,56468
+Cross Lake-MN,1840031784,Cross Lake,Cross Lake,MN,Cross Lake-MN,Minnesota,27035,Crow Wing,46.6756,-94.0956,2226,2226,33,polygon,TRUE,America/Chicago,56442
+Manannah-MN,1840031848,Manannah,Manannah,MN,Manannah-MN,Minnesota,27093,Meeker,45.2536,-94.6175,,,16.2,point,FALSE,America/Chicago,55329
+Lutsen-MN,1840026063,Lutsen,Lutsen,MN,Lutsen-MN,Minnesota,27031,Cook,47.6715,-90.6885,,,97.6,polygon,FALSE,America/Chicago,55612
+Hector-MN,1840006774,Hector,Hector,MN,Hector-MN,Minnesota,27129,Renville,44.7421,-94.7135,1061,1061,263,polygon,TRUE,America/Chicago,55342
+Maple Lake-MN,1840008897,Maple Lake,Maple Lake,MN,Maple Lake-MN,Minnesota,27171,Wright,45.2334,-94.0057,2109,2109,365,polygon,TRUE,America/Chicago,55358
+Zumbrota-MN,1840000306,Zumbrota,Zumbrota,MN,Zumbrota-MN,Minnesota,27049,Goodhue,44.2942,-92.6734,3314,3409,489,polygon,TRUE,America/Chicago,55992
+Falcon Heights-MN,1840007838,Falcon Heights,Falcon Heights,MN,Falcon Heights-MN,Minnesota,27123,Ramsey,44.9899,-93.177,5554,5554,959,polygon,TRUE,America/Chicago,55113 55108
+Parkers Prairie-MN,1840008850,Parkers Prairie,Parkers Prairie,MN,Parkers Prairie-MN,Minnesota,27111,Otter Tail,46.1525,-95.3296,1006,1006,319,polygon,TRUE,America/Chicago,56361
+Mountain Iron-MN,1840007692,Mountain Iron,Mountain Iron,MN,Mountain Iron-MN,Minnesota,27137,St. Louis,47.5477,-92.6254,2869,2869,16,polygon,TRUE,America/Chicago,55768
+Darwin-MN,1840006732,Darwin,Darwin,MN,Darwin-MN,Minnesota,27093,Meeker,45.0964,-94.4131,351,351,68,polygon,TRUE,America/Chicago,55324
+Champlin-MN,1840006746,Champlin,Champlin,MN,Champlin-MN,Minnesota,27053,Hennepin,45.1703,-93.3904,24231,24231,1145,polygon,TRUE,America/Chicago,55316
+Springfield-MN,1840008971,Springfield,Springfield,MN,Springfield-MN,Minnesota,27015,Brown,44.2372,-94.9814,2053,2053,428,polygon,TRUE,America/Chicago,56087
+Hewitt-MN,1840006668,Hewitt,Hewitt,MN,Hewitt-MN,Minnesota,27153,Todd,46.324,-95.0902,247,247,46,polygon,TRUE,America/Chicago,56453
+Bena-MN,1840006624,Bena,Bena,MN,Bena-MN,Minnesota,27021,Cass,47.3403,-94.2061,118,118,90,polygon,TRUE,America/Chicago,56626
+Reading-MN,1840031877,Reading,Reading,MN,Reading-MN,Minnesota,27105,Nobles,43.7036,-95.7131,,,102.8,point,FALSE,America/Chicago,56165
+Geneva-MN,1840007931,Geneva,Geneva,MN,Geneva-MN,Minnesota,27047,Freeborn,43.8218,-93.2681,538,538,397,polygon,TRUE,America/Chicago,56035
+Woodbury-MN,1840009998,Woodbury,Woodbury,MN,Woodbury-MN,Minnesota,27163,Washington,44.9056,-92.9231,68820,68820,761,polygon,TRUE,America/Chicago,55129 55125 55187
+Rushford Village-MN,1840009015,Rushford Village,Rushford Village,MN,Rushford Village-MN,Minnesota,27045,Fillmore,43.8033,-91.7916,810,810,9,polygon,TRUE,America/Chicago,55962 55971
+Mazeppa-MN,1840007899,Mazeppa,Mazeppa,MN,Mazeppa-MN,Minnesota,27157,Wabasha,44.2737,-92.5405,828,828,294,polygon,TRUE,America/Chicago,55956
+Max-MN,1840031967,Max,Max,MN,Max-MN,Minnesota,27061,Itasca,47.6147,-94.068,,,3,point,FALSE,America/Chicago,56659
+Sartell-MN,1840008886,Sartell,Sartell,MN,Sartell-MN,Minnesota,27145,Stearns,45.6187,-94.2202,17147,17147,670,polygon,TRUE,America/Chicago,56377
+Bowlus-MN,1840006670,Bowlus,Bowlus,MN,Bowlus-MN,Minnesota,27097,Morrison,45.8191,-94.4075,285,285,88,polygon,TRUE,America/Chicago,56314
+Wells-MN,1840010043,Wells,Wells,MN,Wells-MN,Minnesota,27043,Faribault,43.743,-93.7277,2225,2225,433,polygon,TRUE,America/Chicago,56097
+Duluth-MN,1840007685,Duluth,Duluth,MN,Duluth-MN,Minnesota,27137,St. Louis,46.7797,-92.1334,120418,86293,492,polygon,TRUE,America/Chicago,55803 55802 55806 55805 55804 55808 55810 55811 55812 55807 55801 55815 55816
+Olivia-MN,1840008952,Olivia,Olivia,MN,Olivia-MN,Minnesota,27129,Renville,44.7771,-94.9975,2353,2353,388,polygon,TRUE,America/Chicago,56277
+Ivanhoe-MN,1840007874,Ivanhoe,Ivanhoe,MN,Ivanhoe-MN,Minnesota,27081,Lincoln,44.4651,-96.2518,550,550,234,polygon,TRUE,America/Chicago,56142
+Hassman-MN,1840031934,Hassman,Hassman,MN,Hassman-MN,Minnesota,27001,Aitkin,46.6019,-93.613,,,8.1,point,FALSE,America/Chicago,56431
+Saint Paul-MN,1840008940,Saint Paul,Saint Paul,MN,Saint Paul-MN,Minnesota,27123,Ramsey,44.9477,-93.104,302398,302398,2246,polygon,TRUE,America/Chicago,55114 55117 55116 55119 55130 55155 55102 55103 55101 55106 55107 55104 55105 55108 55133 55144 55145 55146 55164 55165 55170 55172 55175 55188
+Ghent-MN,1840007878,Ghent,Ghent,MN,Ghent-MN,Minnesota,27083,Lyon,44.5114,-95.8928,367,367,416,polygon,TRUE,America/Chicago,56239
+East Grand Forks-MN,1840007700,East Grand Forks,East Grand Forks,MN,East Grand Forks-MN,Minnesota,27119,Polk,47.9283,-97.0137,8699,8699,568,polygon,TRUE,America/Chicago,56721
+Ross-MN,1840031887,Ross,Ross,MN,Ross-MN,Minnesota,27135,Roseau,48.9061,-95.9203,,,1.4,point,FALSE,America/Chicago,56751
+Saint Anthony-MN,1840008933,Saint Anthony,Saint Anthony,MN,Saint Anthony-MN,Minnesota,27053,Hennepin,45.0275,-93.2174,9007,9007,1544,polygon,TRUE,America/Chicago,55421 55418
+Laporte-MN,1840007724,Laporte,Laporte,MN,Laporte-MN,Minnesota,27057,Hubbard,47.2148,-94.7573,114,114,62,polygon,TRUE,America/Chicago,56461
+Bagley-MN,1840006608,Bagley,Bagley,MN,Bagley-MN,Minnesota,27029,Clearwater,47.524,-95.4042,1400,1400,277,polygon,TRUE,America/Chicago,56621
+Wrightstown-MN,1840031923,Wrightstown,Wrightstown,MN,Wrightstown-MN,Minnesota,27111,Otter Tail,46.2739,-95.1861,,,3.7,point,FALSE,America/Chicago,56453
+Saint Leo-MN,1840008946,Saint Leo,Saint Leo,MN,Saint Leo-MN,Minnesota,27173,Yellow Medicine,44.7173,-96.0525,96,96,141,polygon,TRUE,America/Chicago,56264
+Clara City-MN,1840000294,Clara City,Clara City,MN,Clara City-MN,Minnesota,27023,Chippewa,44.958,-95.3668,1322,1322,292,polygon,TRUE,America/Chicago,56222
+Grasston-MN,1840007763,Grasston,Grasston,MN,Grasston-MN,Minnesota,27065,Kanabec,45.7959,-93.1528,155,155,66,polygon,TRUE,America/Chicago,55030
+Fernando-MN,1840031801,Fernando,Fernando,MN,Fernando-MN,Minnesota,27085,McLeod,44.6516,-94.4578,,,2.3,point,FALSE,America/Chicago,55385
+Arnold-MN,1840003991,Arnold,Arnold,MN,Arnold-MN,Minnesota,27137,St. Louis,46.8746,-92.111,,,143,polygon,FALSE,America/Chicago,55803
+Milroy-MN,1840007871,Milroy,Milroy,MN,Milroy-MN,Minnesota,27127,Redwood,44.4178,-95.5535,243,243,366,polygon,TRUE,America/Chicago,56263
+Marcell-MN,1840031966,Marcell,Marcell,MN,Marcell-MN,Minnesota,27061,Itasca,47.593,-93.6908,,,30.2,point,FALSE,America/Chicago,56657
+Oylen-MN,1840031864,Oylen,Oylen,MN,Oylen-MN,Minnesota,27159,Wadena,46.5747,-94.7986,,,6.6,point,FALSE,America/Chicago,56481
+Pengilly-MN,1840031868,Pengilly,Pengilly,MN,Pengilly-MN,Minnesota,27061,Itasca,47.3327,-93.1971,,,209.6,point,FALSE,America/Chicago,55775
+Morgan-MN,1840007872,Morgan,Morgan,MN,Morgan-MN,Minnesota,27127,Redwood,44.4155,-94.9247,854,854,600,polygon,TRUE,America/Chicago,56266
+Grand Falls-MN,1840031932,Grand Falls,Grand Falls,MN,Grand Falls-MN,Minnesota,27071,Koochiching,48.1986,-93.7927,,,10,point,FALSE,America/Chicago,56627
+Sacred Heart-MN,1840008954,Sacred Heart,Sacred Heart,MN,Sacred Heart-MN,Minnesota,27129,Renville,44.7817,-95.3508,510,510,199,polygon,TRUE,America/Chicago,56285
+New Auburn-MN,1840007868,New Auburn,New Auburn,MN,New Auburn-MN,Minnesota,27143,Sibley,44.6727,-94.2322,433,433,240,polygon,TRUE,America/Chicago,55366
+Weaver-MN,1840031916,Weaver,Weaver,MN,Weaver-MN,Minnesota,27157,Wabasha,44.215,-91.9288,,,28,point,FALSE,America/Chicago,55910
+Blakeley-MN,1840031772,Blakeley,Blakeley,MN,Blakeley-MN,Minnesota,27139,Scott,44.6108,-93.8533,,,22.3,point,FALSE,America/Chicago,56011
+Page-MN,1840031865,Page,Page,MN,Page-MN,Minnesota,27095,Mille Lacs,45.8875,-93.6636,,,6.5,point,FALSE,America/Chicago,56353
+Simpson-MN,1840031896,Simpson,Simpson,MN,Simpson-MN,Minnesota,27109,Olmsted,43.9239,-92.4099,,,42.1,point,FALSE,America/Chicago,55904
+Dover-MN,1840006810,Dover,Dover,MN,Dover-MN,Minnesota,27109,Olmsted,43.9697,-92.1335,747,747,288,polygon,TRUE,America/Chicago,55929
+Salol-MN,1840031891,Salol,Salol,MN,Salol-MN,Minnesota,27135,Roseau,48.8661,-95.5708,,,30.7,point,FALSE,America/Chicago,56756
+Shooks-MN,1840031975,Shooks,Shooks,MN,Shooks-MN,Minnesota,27007,Beltrami,47.8741,-94.4383,,,1.5,point,FALSE,America/Chicago,56661
+Moose Lake-MN,1840007743,Moose Lake,Moose Lake,MN,Moose Lake-MN,Minnesota,27017,Carlton,46.4453,-92.7632,3170,2832,334,polygon,TRUE,America/Chicago,55767
+Taunton-MN,1840008967,Taunton,Taunton,MN,Taunton-MN,Minnesota,27083,Lyon,44.5942,-96.063,137,137,52,polygon,TRUE,America/Chicago,56291
+Redwood Falls-MN,1840008961,Redwood Falls,Redwood Falls,MN,Redwood Falls-MN,Minnesota,27127,Redwood,44.547,-95.1034,4732,5015,366,polygon,TRUE,America/Chicago,56283
+Climax-MN,1840006603,Climax,Climax,MN,Climax-MN,Minnesota,27119,Polk,47.6085,-96.8121,263,263,88,polygon,TRUE,America/Chicago,56523
+La Prairie-MN,1840007718,La Prairie,La Prairie,MN,La Prairie-MN,Minnesota,27061,Itasca,47.2301,-93.4912,651,651,151,polygon,TRUE,America/Chicago,55744
+Nelson-MN,1840007771,Nelson,Nelson,MN,Nelson-MN,Minnesota,27041,Douglas,45.8866,-95.2649,190,190,111,polygon,TRUE,America/Chicago,56355
+New Brighton-MN,1840007841,New Brighton,New Brighton,MN,New Brighton-MN,Minnesota,27123,Ramsey,45.0658,-93.2061,22496,22496,1345,polygon,TRUE,America/Chicago,55112
+Motley-MN,1840007758,Motley,Motley,MN,Motley-MN,Minnesota,27097,Morrison,46.3346,-94.643,646,646,187,polygon,TRUE,America/Chicago,56466
+Bertha-MN,1840006666,Bertha,Bertha,MN,Bertha-MN,Minnesota,27153,Todd,46.267,-95.0618,468,468,166,polygon,TRUE,America/Chicago,56437
+Watkins-MN,1840009996,Watkins,Watkins,MN,Watkins-MN,Minnesota,27093,Meeker,45.3152,-94.4111,938,938,512,polygon,TRUE,America/Chicago,55389
+Graceville-MN,1840007791,Graceville,Graceville,MN,Graceville-MN,Minnesota,27011,Big Stone,45.5686,-96.4358,555,555,356,polygon,TRUE,America/Chicago,56240
+Cokato-MN,1840006705,Cokato,Cokato,MN,Cokato-MN,Minnesota,27171,Wright,45.077,-94.1879,4301,2731,677,polygon,TRUE,America/Chicago,55321
+Moorhead-MN,1840007731,Moorhead,Moorhead,MN,Moorhead-MN,Minnesota,27027,Clay,46.8674,-96.7457,42492,42492,734,polygon,TRUE,America/Chicago,56560 56561 56562 56563
+Empire-MN,1840031799,Empire,Empire,MN,Empire-MN,Minnesota,27037,Dakota,44.6591,-93.0147,,,64.8,point,FALSE,America/Chicago,55033
+Oakland-MN,1840031860,Oakland,Oakland,MN,Oakland-MN,Minnesota,27047,Freeborn,43.6739,-93.0888,,,65.8,point,FALSE,America/Chicago,56007
+Chickamaw Beach-MN,1840006621,Chickamaw Beach,Chickamaw Beach,MN,Chickamaw Beach-MN,Minnesota,27021,Cass,46.745,-94.3844,113,113,19,polygon,TRUE,America/Chicago,56474
+Ham Lake-MN,1840006720,Ham Lake,Ham Lake,MN,Ham Lake-MN,Minnesota,27003,Anoka,45.2545,-93.2039,16221,16221,182,polygon,TRUE,America/Chicago,55304
+Pequot Lakes-MN,1840008845,Pequot Lakes,Pequot Lakes,MN,Pequot Lakes-MN,Minnesota,27035,Crow Wing,46.5875,-94.2983,2261,2261,53,polygon,TRUE,America/Chicago,56472
+Eitzen-MN,1840007937,Eitzen,Eitzen,MN,Eitzen-MN,Minnesota,27055,Houston,43.5081,-91.4635,260,260,166,polygon,TRUE,America/Chicago,55931

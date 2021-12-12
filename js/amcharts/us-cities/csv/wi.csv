@@ -1,0 +1,940 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Ixonia-WI,1840004349,Ixonia,Ixonia,WI,Ixonia-WI,Wisconsin,55055,Jefferson,43.1396,-88.5962,,,551.6,polygon,FALSE,America/Chicago,53036
+Ridgeway-WI,1840002963,Ridgeway,Ridgeway,WI,Ridgeway-WI,Wisconsin,55049,Iowa,42.9985,-89.9932,635,635,195,polygon,TRUE,America/Chicago,53582
+Summit Corners-WI,1840038033,Summit Corners,Summit Corners,WI,Summit Corners-WI,Wisconsin,55133,Waukesha,43.0767,-88.4701,,,33.4,point,FALSE,America/Chicago,53066
+Colfax-WI,1840002144,Colfax,Colfax,WI,Colfax-WI,Wisconsin,55033,Dunn,44.9974,-91.7262,1161,1161,324,polygon,TRUE,America/Chicago,54730
+Wyeville-WI,1840002569,Wyeville,Wyeville,WI,Wyeville-WI,Wisconsin,55081,Monroe,44.0279,-90.3861,147,147,101,polygon,TRUE,America/Chicago,54666 54660
+Friesland-WI,1840002705,Friesland,Friesland,WI,Friesland-WI,Wisconsin,55021,Columbia,43.5886,-89.0669,354,354,134,polygon,TRUE,America/Chicago,53935
+Hortonville-WI,1840002402,Hortonville,Hortonville,WI,Hortonville-WI,Wisconsin,55087,Outagamie,44.3365,-88.6362,2734,2734,304,polygon,TRUE,America/Chicago,54944
+Merton-WI,1840003021,Merton,Merton,WI,Merton-WI,Wisconsin,55133,Waukesha,43.1423,-88.3089,3592,3592,446,polygon,TRUE,America/Chicago,53089 53029 53056
+Kaukauna-WI,1840002403,Kaukauna,Kaukauna,WI,Kaukauna-WI,Wisconsin,55087,Outagamie,44.2777,-88.2645,15900,15900,799,polygon,TRUE,America/Chicago,54130
+Gotham-WI,1840025441,Gotham,Gotham,WI,Gotham-WI,Wisconsin,55103,Richland,43.2225,-90.297,,,119.2,polygon,FALSE,America/Chicago,53540 53556
+Aniwa-WI,1840002257,Aniwa,Aniwa,WI,Aniwa-WI,Wisconsin,55115,Shawano,45.0114,-89.2088,245,245,45,polygon,TRUE,America/Chicago,54408 54414
+South Range-WI,1840038025,South Range,South Range,WI,South Range-WI,Wisconsin,55031,Douglas,46.608,-91.9835,,,20.3,point,FALSE,America/Chicago,54874
+Winter-WI,1840001996,Winter,Winter,WI,Winter-WI,Wisconsin,55113,Sawyer,45.8221,-91.013,296,296,144,polygon,TRUE,America/Chicago,54896
+Dodge-WI,1840025361,Dodge,Dodge,WI,Dodge-WI,Wisconsin,55121,Trempealeau,44.1345,-91.5485,,,77.7,polygon,FALSE,America/Chicago,54625
+Oconomowoc-WI,1840003027,Oconomowoc,Oconomowoc,WI,Oconomowoc-WI,Wisconsin,55133,Waukesha,43.0993,-88.4952,16526,16526,550,polygon,TRUE,America/Chicago,53066
+Oakdale-WI,1840002574,Oakdale,Oakdale,WI,Oakdale-WI,Wisconsin,55081,Monroe,43.962,-90.3789,296,296,147,polygon,TRUE,America/Chicago,54660 54649
+Verona-WI,1840002903,Verona,Verona,WI,Verona-WI,Wisconsin,55025,Dane,42.9879,-89.5371,12969,12969,740,polygon,TRUE,America/Chicago,53593
+Ella-WI,1840038057,Ella,Ella,WI,Ella-WI,Wisconsin,55091,Pepin,44.5366,-92.0502,,,6.9,point,FALSE,America/Chicago,54721
+Wonewoc-WI,1840002225,Wonewoc,Wonewoc,WI,Wonewoc-WI,Wisconsin,55057,Juneau,43.6531,-90.2239,794,794,274,polygon,TRUE,America/Chicago,53968
+Fremont-WI,1840002355,Fremont,Fremont,WI,Fremont-WI,Wisconsin,55135,Waupaca,44.2602,-88.8715,662,662,247,polygon,TRUE,America/Chicago,54940
+Platteville-WI,1840002981,Platteville,Platteville,WI,Platteville-WI,Wisconsin,55043,Grant,42.7334,-90.4716,12550,12537,902,polygon,TRUE,America/Chicago,53818
+McAllister-WI,1840037985,McAllister,McAllister,WI,McAllister-WI,Wisconsin,55075,Marinette,45.3272,-87.7212,,,9.4,point,FALSE,America/Chicago,54177
+Coloma-WI,1840002238,Coloma,Coloma,WI,Coloma-WI,Wisconsin,55137,Waushara,44.0385,-89.5316,438,438,116,polygon,TRUE,America/Chicago,54930
+Strum-WI,1840002384,Strum,Strum,WI,Strum-WI,Wisconsin,55121,Trempealeau,44.5531,-91.3867,1114,1114,364,polygon,TRUE,America/Chicago,54770
+Wind Lake-WI,1840006921,Wind Lake,Wind Lake,WI,Wind Lake-WI,Wisconsin,55101,Racine,42.823,-88.1574,,,633.9,polygon,FALSE,America/Chicago,53185
+Baileys Harbor-WI,1840026083,Baileys Harbor,Baileys Harbor,WI,Baileys Harbor-WI,Wisconsin,55029,Door,45.0659,-87.133,,,218.4,polygon,FALSE,America/Chicago,54202
+Nasonville-WI,1840037997,Nasonville,Nasonville,WI,Nasonville-WI,Wisconsin,55141,Wood,44.5989,-90.2585,,,13.8,point,FALSE,America/Chicago,54449
+Pell Lake-WI,1840004476,Pell Lake,Pell Lake,WI,Pell Lake-WI,Wisconsin,55127,Walworth,42.5381,-88.3509,,,733.7,point,FALSE,America/Chicago,53128
+Mazomanie-WI,1840002918,Mazomanie,Mazomanie,WI,Mazomanie-WI,Wisconsin,55025,Dane,43.173,-89.7955,3039,1699,374,polygon,TRUE,America/Chicago,53560
+Radisson-WI,1840002000,Radisson,Radisson,WI,Radisson-WI,Wisconsin,55113,Sawyer,45.7684,-91.2178,241,241,235,polygon,TRUE,America/Chicago,54867
+Viroqua-WI,1840002688,Viroqua,Viroqua,WI,Viroqua-WI,Wisconsin,55123,Vernon,43.5578,-90.8867,4127,4395,446,polygon,TRUE,America/Chicago,54665
+Black Hawk-WI,1840037910,Black Hawk,Black Hawk,WI,Black Hawk-WI,Wisconsin,55111,Sauk,43.2692,-89.9273,,,59.1,point,FALSE,America/Chicago,53583
+Gibbsville-WI,1840025422,Gibbsville,Gibbsville,WI,Gibbsville-WI,Wisconsin,55117,Sheboygan,43.6521,-87.8317,,,330.9,polygon,FALSE,America/Chicago,53070 53085
+Pine River-WI,1840025386,Pine River,Pine River,WI,Pine River-WI,Wisconsin,55137,Waushara,44.1483,-89.0757,,,93,polygon,FALSE,America/Chicago,54965
+Waterloo-WI,1840002999,Waterloo,Waterloo,WI,Waterloo-WI,Wisconsin,55055,Jefferson,43.1835,-88.99,3058,3333,338,polygon,TRUE,America/Chicago,53594
+Whittlesey-WI,1840025310,Whittlesey,Whittlesey,WI,Whittlesey-WI,Wisconsin,55119,Taylor,45.2206,-90.3232,,,46.7,polygon,FALSE,America/Chicago,54451
+Hancock-WI,1840002237,Hancock,Hancock,WI,Hancock-WI,Wisconsin,55137,Waushara,44.133,-89.5202,402,402,145,polygon,TRUE,America/Chicago,54943
+Montfort-WI,1840002977,Montfort,Montfort,WI,Montfort-WI,Wisconsin,55043,Grant,42.9698,-90.4332,698,698,499,polygon,TRUE,America/Chicago,53569
+Sugar Bush-WI,1840038032,Sugar Bush,Sugar Bush,WI,Sugar Bush-WI,Wisconsin,55087,Outagamie,44.4816,-88.7359,,,93.5,point,FALSE,America/Chicago,54961
+Salem Lakes-WI,1840038106,Salem Lakes,Salem Lakes,WI,Salem Lakes-WI,Wisconsin,55059,Kenosha,42.5318,-88.1016,,,43,point,TRUE,America/Chicago,53168
+Pipe-WI,1840038010,Pipe,Pipe,WI,Pipe-WI,Wisconsin,55039,Fond du Lac,43.9142,-88.3126,,,33.7,point,FALSE,America/Chicago,53049
+Poplar-WI,1840003912,Poplar,Poplar,WI,Poplar-WI,Wisconsin,55031,Douglas,46.5828,-91.7836,598,598,19,polygon,TRUE,America/Chicago,54864
+Hannibal-WI,1840037955,Hannibal,Hannibal,WI,Hannibal-WI,Wisconsin,55119,Taylor,45.2525,-90.789,,,41.9,point,FALSE,America/Chicago,54433
+Kewaskum-WI,1840002833,Kewaskum,Kewaskum,WI,Kewaskum-WI,Wisconsin,55131,Washington,43.5176,-88.2306,4103,4103,673,polygon,TRUE,America/Chicago,53040
+Medford-WI,1840001571,Medford,Medford,WI,Medford-WI,Wisconsin,55119,Taylor,45.1364,-90.3437,4056,4337,373,polygon,TRUE,America/Chicago,54451
+Richland Center-WI,1840024306,Richland Center,Richland Center,WI,Richland Center-WI,Wisconsin,55103,Richland,43.3403,-90.3839,4859,5017,425,polygon,TRUE,America/Chicago,53581
+Lake Beulah-WI,1840037969,Lake Beulah,Lake Beulah,WI,Lake Beulah-WI,Wisconsin,55127,Walworth,42.8214,-88.3209,,,54.1,point,FALSE,America/Chicago,53120
+Kempster-WI,1840037967,Kempster,Kempster,WI,Kempster-WI,Wisconsin,55067,Langlade,45.2897,-89.1668,,,39.8,point,FALSE,America/Chicago,54424
+Clyman-WI,1840002739,Clyman,Clyman,WI,Clyman-WI,Wisconsin,55027,Dodge,43.3116,-88.7231,399,399,412,polygon,TRUE,America/Chicago,53039 53016
+Ironton-WI,1840002717,Ironton,Ironton,WI,Ironton-WI,Wisconsin,55111,Sauk,43.5453,-90.1436,257,257,297,polygon,TRUE,America/Chicago,53941
+Rice Lake-WI,1840002075,Rice Lake,Rice Lake,WI,Rice Lake-WI,Wisconsin,55005,Barron,45.4862,-91.7448,9468,8404,375,polygon,TRUE,America/Chicago,54868 54822
+Larsen-WI,1840037972,Larsen,Larsen,WI,Larsen-WI,Wisconsin,55139,Winnebago,44.1917,-88.624,,,28,point,FALSE,America/Chicago,54947
+Weyerhaeuser-WI,1840024435,Weyerhaeuser,Weyerhaeuser,WI,Weyerhaeuser-WI,Wisconsin,55107,Rusk,45.4251,-91.4145,223,223,92,polygon,TRUE,America/Chicago,54895
+Iola-WI,1840002356,Iola,Iola,WI,Iola-WI,Wisconsin,55135,Waupaca,44.5091,-89.1248,1264,1264,292,polygon,TRUE,America/Chicago,54945 54990
+New Holstein-WI,1840002522,New Holstein,New Holstein,WI,New Holstein-WI,Wisconsin,55015,Calumet,43.9491,-88.0942,3129,3129,481,polygon,TRUE,America/Chicago,53061 53062
+Powers Lake-WI,1840004537,Powers Lake,Powers Lake,WI,Powers Lake-WI,Wisconsin,55059,Kenosha,42.5395,-88.2935,,,196.3,polygon,FALSE,America/Chicago,53128 53159
+Endeavor-WI,1840000335,Endeavor,Endeavor,WI,Endeavor-WI,Wisconsin,55077,Marquette,43.7163,-89.4695,461,461,243,polygon,TRUE,America/Chicago,53930
+North Fond du Lac-WI,1840002607,North Fond du Lac,North Fond du Lac,WI,North Fond du Lac-WI,Wisconsin,55039,Fond du Lac,43.8107,-88.4861,5034,5034,915,polygon,TRUE,America/Chicago,54937
+Windsor-WI,1840006867,Windsor,Windsor,WI,Windsor-WI,Wisconsin,55025,Dane,43.2165,-89.3393,6785,6785,859,polygon,TRUE,America/Chicago,53598 53532
+Wausaukee-WI,1840003927,Wausaukee,Wausaukee,WI,Wausaukee-WI,Wisconsin,55075,Marinette,45.3779,-87.9551,562,562,155,polygon,TRUE,America/Chicago,54177
+Bayside-WI,1840003044,Bayside,Bayside,WI,Bayside-WI,Wisconsin,55079,Milwaukee,43.1827,-87.9016,4398,4398,711,polygon,TRUE,America/Chicago,53217
+Almena-WI,1840002068,Almena,Almena,WI,Almena-WI,Wisconsin,55005,Barron,45.4149,-92.0382,656,656,221,polygon,TRUE,America/Chicago,54805
+Winchester-WI,1840025391,Winchester,Winchester,WI,Winchester-WI,Wisconsin,55139,Winnebago,44.1982,-88.6599,,,185.9,polygon,FALSE,America/Chicago,54947
+Howard-WI,1840002345,Howard,Howard,WI,Howard-WI,Wisconsin,55009,Brown,44.5703,-88.0924,19410,19410,413,polygon,TRUE,America/Chicago,54313 54303
+Lebanon-WI,1840025436,Lebanon,Lebanon,WI,Lebanon-WI,Wisconsin,55027,Dodge,43.2588,-88.6294,,,166.4,polygon,FALSE,America/Chicago,53047 53098
+Christie-WI,1840037925,Christie,Christie,WI,Christie-WI,Wisconsin,55019,Clark,44.6472,-90.5965,,,21.8,point,FALSE,America/Chicago,54456
+Bohners Lake-WI,1840004481,Bohners Lake,Bohners Lake,WI,Bohners Lake-WI,Wisconsin,55101,Racine,42.6241,-88.2879,,,666.2,polygon,FALSE,America/Chicago,53105
+Hingham-WI,1840025424,Hingham,Hingham,WI,Hingham-WI,Wisconsin,55117,Sheboygan,43.6464,-87.9151,,,367.8,polygon,FALSE,America/Chicago,53031 53093
+Durand-WI,1840002351,Durand,Durand,WI,Durand-WI,Wisconsin,55091,Pepin,44.6272,-91.9615,1846,1846,408,polygon,TRUE,America/Chicago,54736
+Burlington-WI,1840002491,Burlington,Burlington,WI,Burlington-WI,Wisconsin,55101,Racine,42.6748,-88.2724,23990,10668,536,polygon,TRUE,America/Chicago,53105
+Collins-WI,1840025377,Collins,Collins,WI,Collins-WI,Wisconsin,55071,Manitowoc,44.0827,-87.9839,,,167.4,polygon,FALSE,America/Chicago,54207
+Somerset-WI,1840002129,Somerset,Somerset,WI,Somerset-WI,Wisconsin,55109,St. Croix,45.1273,-92.6751,2684,2717,358,polygon,TRUE,America/Chicago,54025
+Chippewa Falls-WI,1840002108,Chippewa Falls,Chippewa Falls,WI,Chippewa Falls-WI,Wisconsin,55017,Chippewa,44.9358,-91.3903,14084,14084,480,polygon,TRUE,America/Chicago,54729 54774
+Townsend-WI,1840025315,Townsend,Townsend,WI,Townsend-WI,Wisconsin,55083,Oconto,45.3232,-88.5914,,,126.3,polygon,FALSE,America/Chicago,54175
+Waupaca-WI,1840002353,Waupaca,Waupaca,WI,Waupaca-WI,Wisconsin,55135,Waupaca,44.3508,-89.0719,7598,5946,291,polygon,TRUE,America/Chicago,54981
+Lake Wissota-WI,1840004021,Lake Wissota,Lake Wissota,WI,Lake Wissota-WI,Wisconsin,55017,Chippewa,44.922,-91.3014,,,421.7,polygon,FALSE,America/Chicago,54729
+Gleason-WI,1840037954,Gleason,Gleason,WI,Gleason-WI,Wisconsin,55069,Lincoln,45.3089,-89.4965,,,78.1,point,FALSE,America/Chicago,54435
+Campbellsport-WI,1840002604,Campbellsport,Campbellsport,WI,Campbellsport-WI,Wisconsin,55039,Fond du Lac,43.5976,-88.2813,1978,1978,572,polygon,TRUE,America/Chicago,53010
+Boyd-WI,1840000280,Boyd,Boyd,WI,Boyd-WI,Wisconsin,55017,Chippewa,44.9533,-91.0398,537,537,111,polygon,TRUE,America/Chicago,54726
+Bruce-WI,1840024102,Bruce,Bruce,WI,Bruce-WI,Wisconsin,55107,Rusk,45.459,-91.2734,724,724,121,polygon,TRUE,America/Chicago,54819
+Kellnersville-WI,1840002209,Kellnersville,Kellnersville,WI,Kellnersville-WI,Wisconsin,55071,Manitowoc,44.2253,-87.802,320,320,229,polygon,TRUE,America/Chicago,54247 54230 54215
+Port Edwards-WI,1840002340,Port Edwards,Port Edwards,WI,Port Edwards-WI,Wisconsin,55141,Wood,44.3485,-89.8541,1750,1750,128,polygon,TRUE,America/Chicago,54469 54495 54494
+Valders-WI,1840002207,Valders,Valders,WI,Valders-WI,Wisconsin,55071,Manitowoc,44.0696,-87.8858,934,934,250,polygon,TRUE,America/Chicago,54245
+Rockland-WI,1840002580,Rockland,Rockland,WI,Rockland-WI,Wisconsin,55063,La Crosse,43.9073,-90.9161,631,631,372,polygon,TRUE,America/Chicago,54656 54653
+New Munster-WI,1840037999,New Munster,New Munster,WI,New Munster-WI,Wisconsin,55059,Kenosha,42.5795,-88.2279,,,134.3,point,FALSE,America/Chicago,53105
+Chilton-WI,1840002521,Chilton,Chilton,WI,Chilton-WI,Wisconsin,55015,Calumet,44.028,-88.1636,3493,3828,348,polygon,TRUE,America/Chicago,53014
+Lake Geneva-WI,1840002479,Lake Geneva,Lake Geneva,WI,Lake Geneva-WI,Wisconsin,55127,Walworth,42.5825,-88.4283,14974,7821,446,polygon,TRUE,America/Chicago,53147
+Cuba City-WI,1840002974,Cuba City,Cuba City,WI,Cuba City-WI,Wisconsin,55043,Grant,42.6037,-90.4318,2055,2055,692,polygon,TRUE,America/Chicago,53807
+Saint Joseph-WI,1840025399,Saint Joseph,Saint Joseph,WI,Saint Joseph-WI,Wisconsin,55063,La Crosse,43.7855,-91.0436,,,172.5,polygon,FALSE,America/Chicago,54601
+Wrightstown-WI,1840002343,Wrightstown,Wrightstown,WI,Wrightstown-WI,Wisconsin,55009,Brown,44.326,-88.1756,2992,3353,305,polygon,TRUE,America/Chicago,54180
+Loretta-WI,1840038081,Loretta,Loretta,WI,Loretta-WI,Wisconsin,55113,Sawyer,45.8855,-90.8529,,,2.8,point,FALSE,America/Chicago,54896
+Manawa-WI,1840002359,Manawa,Manawa,WI,Manawa-WI,Wisconsin,55135,Waupaca,44.4613,-88.9204,1301,1301,308,polygon,TRUE,America/Chicago,54949
+Arena-WI,1840002953,Arena,Arena,WI,Arena-WI,Wisconsin,55049,Iowa,43.1637,-89.9101,820,820,274,polygon,TRUE,America/Chicago,53503
+Rusk-WI,1840038021,Rusk,Rusk,WI,Rusk-WI,Wisconsin,55033,Dunn,44.9077,-91.8341,,,12.9,point,FALSE,America/Chicago,54751
+Port Wing-WI,1840026072,Port Wing,Port Wing,WI,Port Wing-WI,Wisconsin,55007,Bayfield,46.7756,-91.3806,,,25.9,polygon,FALSE,America/Chicago,54865
+Buffalo City-WI,1840002377,Buffalo City,Buffalo City,WI,Buffalo City-WI,Wisconsin,55011,Buffalo,44.2237,-91.8654,969,969,177,polygon,TRUE,America/Chicago,54622
+Genoa City-WI,1840002478,Genoa City,Genoa City,WI,Genoa City-WI,Wisconsin,55127,Walworth,42.5065,-88.3193,3022,3022,446,polygon,TRUE,America/Chicago,53128
+Eagle Lake-WI,1840004480,Eagle Lake,Eagle Lake,WI,Eagle Lake-WI,Wisconsin,55101,Racine,42.7014,-88.1291,,,60,polygon,FALSE,America/Chicago,53139
+Heafford Junction-WI,1840037957,Heafford Junction,Heafford Junction,WI,Heafford Junction-WI,Wisconsin,55069,Lincoln,45.5472,-89.7154,,,76.8,point,FALSE,America/Chicago,54487
+Silver Lake-WI,1840003158,Silver Lake,Silver Lake,WI,Silver Lake-WI,Wisconsin,55059,Kenosha,42.5492,-88.167,2408,2408,689,polygon,TRUE,America/Chicago,53168 53170
+Fitchburg-WI,1840002905,Fitchburg,Fitchburg,WI,Fitchburg-WI,Wisconsin,55025,Dane,42.9859,-89.4255,28875,28875,319,polygon,TRUE,America/Chicago,53575 53719 53711 53713
+Rib Lake-WI,1840001572,Rib Lake,Rib Lake,WI,Rib Lake-WI,Wisconsin,55119,Taylor,45.3192,-90.203,891,891,183,polygon,TRUE,America/Chicago,54470
+Spencer-WI,1840002161,Spencer,Spencer,WI,Spencer-WI,Wisconsin,55073,Marathon,44.7543,-90.2984,1911,1911,367,polygon,TRUE,America/Chicago,54479
+Haugen-WI,1840002067,Haugen,Haugen,WI,Haugen-WI,Wisconsin,55005,Barron,45.6078,-91.7789,284,284,215,polygon,TRUE,America/Chicago,54841 54868
+Saukville-WI,1840002827,Saukville,Saukville,WI,Saukville-WI,Wisconsin,55089,Ozaukee,43.3847,-87.944,4470,4470,489,polygon,TRUE,America/Chicago,53080
+Merrill-WI,1840001562,Merrill,Merrill,WI,Merrill-WI,Wisconsin,55069,Lincoln,45.1818,-89.7005,9818,9225,492,polygon,TRUE,America/Chicago,54452
+Mineral Point-WI,1840002961,Mineral Point,Mineral Point,WI,Mineral Point-WI,Wisconsin,55049,Iowa,42.8624,-90.1837,2491,2491,330,polygon,TRUE,America/Chicago,53565
+Monona-WI,1840002920,Monona,Monona,WI,Monona-WI,Wisconsin,55025,Dane,43.054,-89.3334,8179,8179,968,polygon,TRUE,America/Chicago,53716 53713
+Almond-WI,1840002323,Almond,Almond,WI,Almond-WI,Wisconsin,55097,Portage,44.2607,-89.4087,429,429,163,polygon,TRUE,America/Chicago,54909
+Hatfield-WI,1840024191,Hatfield,Hatfield,WI,Hatfield-WI,Wisconsin,55053,Jackson,44.4165,-90.741,,,32,polygon,FALSE,America/Chicago,54754
+Tustin-WI,1840025387,Tustin,Tustin,WI,Tustin-WI,Wisconsin,55137,Waushara,44.1695,-88.8963,,,165,polygon,FALSE,America/Chicago,54940
+Beaver Dam-WI,1840002738,Beaver Dam,Beaver Dam,WI,Beaver Dam-WI,Wisconsin,55027,Dodge,43.4687,-88.8312,18121,16476,891,polygon,TRUE,America/Chicago,53916
+Oconomowoc Lake-WI,1840003028,Oconomowoc Lake,Oconomowoc Lake,WI,Oconomowoc Lake-WI,Wisconsin,55133,Waukesha,43.0973,-88.4522,585,585,113,polygon,TRUE,America/Chicago,53066
+Paddock Lake-WI,1840003162,Paddock Lake,Paddock Lake,WI,Paddock Lake-WI,Wisconsin,55059,Kenosha,42.5705,-88.1047,3000,3000,396,polygon,TRUE,America/Chicago,53168
+Greenleaf-WI,1840025357,Greenleaf,Greenleaf,WI,Greenleaf-WI,Wisconsin,55009,Brown,44.317,-88.0971,,,248.8,polygon,FALSE,America/Chicago,54126
+Mackville-WI,1840037980,Mackville,Mackville,WI,Mackville-WI,Wisconsin,55087,Outagamie,44.3436,-88.4151,,,74.3,point,FALSE,America/Chicago,54913
+Marquette-WI,1840002592,Marquette,Marquette,WI,Marquette-WI,Wisconsin,55047,Green Lake,43.7462,-89.1385,147,147,145,polygon,TRUE,America/Chicago,53946 53947
+Little Chute-WI,1840002408,Little Chute,Little Chute,WI,Little Chute-WI,Wisconsin,55087,Outagamie,44.2889,-88.3184,11250,11250,799,polygon,TRUE,America/Chicago,54140 54130 54913 54911
+Baldwin-WI,1840002136,Baldwin,Baldwin,WI,Baldwin-WI,Wisconsin,55109,St. Croix,44.9543,-92.3708,5856,3974,500,polygon,TRUE,America/Chicago,54002
+Omro-WI,1840002245,Omro,Omro,WI,Omro-WI,Wisconsin,55139,Winnebago,44.0391,-88.7378,3395,3556,583,polygon,TRUE,America/Chicago,54963
+Green Valley-WI,1840023920,Green Valley,Green Valley,WI,Green Valley-WI,Wisconsin,55115,Shawano,44.7969,-88.2682,,,163.8,polygon,FALSE,America/Chicago,54154 54127
+Mountain-WI,1840025313,Mountain,Mountain,WI,Mountain-WI,Wisconsin,55083,Oconto,45.1863,-88.4681,,,68.3,polygon,FALSE,America/Chicago,54149
+Rio Creek-WI,1840038017,Rio Creek,Rio Creek,WI,Rio Creek-WI,Wisconsin,55061,Kewaunee,44.5892,-87.5412,,,39.7,point,FALSE,America/Chicago,54201
+Symco-WI,1840038036,Symco,Symco,WI,Symco-WI,Wisconsin,55135,Waupaca,44.5133,-88.904,,,60,point,FALSE,America/Chicago,54949
+Neshkoro-WI,1840002596,Neshkoro,Neshkoro,WI,Neshkoro-WI,Wisconsin,55077,Marquette,43.9652,-89.2157,422,422,80,polygon,TRUE,America/Chicago,54960
+Thornton-WI,1840023925,Thornton,Thornton,WI,Thornton-WI,Wisconsin,55115,Shawano,44.7985,-88.6911,,,25.6,polygon,FALSE,America/Chicago,54166
+Mount Pleasant-WI,1840038102,Mount Pleasant,Mount Pleasant,WI,Mount Pleasant-WI,Wisconsin,55101,Racine,42.7129,-87.8875,26360,26360,302,polygon,TRUE,America/Chicago,53405 53406 53403 53177
+Mindoro-WI,1840037992,Mindoro,Mindoro,WI,Mindoro-WI,Wisconsin,55063,La Crosse,44.0211,-91.1018,,,109.3,point,FALSE,America/Chicago,54644
+Canton-WI,1840037922,Canton,Canton,WI,Canton-WI,Wisconsin,55005,Barron,45.428,-91.6599,,,77.9,point,FALSE,America/Chicago,54868
+Johnsburg-WI,1840037964,Johnsburg,Johnsburg,WI,Johnsburg-WI,Wisconsin,55039,Fond du Lac,43.8772,-88.2898,,,90.5,point,FALSE,America/Chicago,53049
+Eleva-WI,1840002389,Eleva,Eleva,WI,Eleva-WI,Wisconsin,55121,Trempealeau,44.5763,-91.4701,670,670,446,polygon,TRUE,America/Chicago,54738
+Johnstown Center-WI,1840037965,Johnstown Center,Johnstown Center,WI,Johnstown Center-WI,Wisconsin,55105,Rock,42.6958,-88.8396,,,9.3,point,FALSE,America/Chicago,53190
+Black Earth-WI,1840002907,Black Earth,Black Earth,WI,Black Earth-WI,Wisconsin,55025,Dane,43.1344,-89.747,1415,1415,648,polygon,TRUE,America/Chicago,53515
+Dale-WI,1840025364,Dale,Dale,WI,Dale-WI,Wisconsin,55087,Outagamie,44.2757,-88.6729,,,309.3,polygon,FALSE,America/Chicago,54944 54931
+Shorewood-WI,1840003031,Shorewood,Shorewood,WI,Shorewood-WI,Wisconsin,55079,Milwaukee,43.0913,-87.8863,13368,13368,3238,polygon,TRUE,America/Chicago,53211
+Columbus-WI,1840002708,Columbus,Columbus,WI,Columbus-WI,Wisconsin,55021,Columbia,43.3354,-89.0299,6674,5030,426,polygon,TRUE,America/Chicago,53925
+Buena Vista-WI,1840037919,Buena Vista,Buena Vista,WI,Buena Vista-WI,Wisconsin,55133,Waukesha,43.0656,-88.3518,,,307,point,FALSE,America/Chicago,53072
+Danbury-WI,1840025281,Danbury,Danbury,WI,Danbury-WI,Wisconsin,55013,Burnett,46.0088,-92.3777,,,141.9,polygon,FALSE,America/Chicago,54830
+Seymour-WI,1840002410,Seymour,Seymour,WI,Seymour-WI,Wisconsin,55087,Outagamie,44.5141,-88.3272,3492,3443,493,polygon,TRUE,America/Chicago,54165
+Kieler-WI,1840025449,Kieler,Kieler,WI,Kieler-WI,Wisconsin,55043,Grant,42.5824,-90.6052,,,262.9,polygon,FALSE,America/Chicago,53807 53812
+Biron-WI,1840002335,Biron,Biron,WI,Biron-WI,Wisconsin,55141,Wood,44.4283,-89.7656,792,792,65,polygon,TRUE,America/Chicago,54494 54475
+Phlox-WI,1840038007,Phlox,Phlox,WI,Phlox-WI,Wisconsin,55067,Langlade,45.0511,-89.0143,,,120.8,point,FALSE,America/Chicago,54409
+Fox Crossing-WI,1840038105,Fox Crossing,Fox Crossing,WI,Fox Crossing-WI,Wisconsin,55139,Winnebago,44.2197,-88.4854,,,884.7,point,TRUE,America/Chicago,54956
+Packwaukee-WI,1840025402,Packwaukee,Packwaukee,WI,Packwaukee-WI,Wisconsin,55077,Marquette,43.7652,-89.4599,,,183.7,polygon,FALSE,America/Chicago,53953 53949
+Eastman-WI,1840002887,Eastman,Eastman,WI,Eastman-WI,Wisconsin,55023,Crawford,43.1622,-91.0254,408,408,43,polygon,TRUE,America/Chicago,54626
+Junction City-WI,1840002322,Junction City,Junction City,WI,Junction City-WI,Wisconsin,55097,Portage,44.5934,-89.7683,429,429,106,polygon,TRUE,America/Chicago,54443
+Avoca-WI,1840002954,Avoca,Avoca,WI,Avoca-WI,Wisconsin,55049,Iowa,43.1901,-90.3261,619,619,103,polygon,TRUE,America/Chicago,53506
+Gillett-WI,1840001574,Gillett,Gillett,WI,Gillett-WI,Wisconsin,55083,Oconto,44.8897,-88.3063,1336,1336,378,polygon,TRUE,America/Chicago,54124
+Manitowish-WI,1840037981,Manitowish,Manitowish,WI,Manitowish-WI,Wisconsin,55051,Iron,46.133,-90.0135,,,2.6,point,FALSE,America/Chicago,54547
+Greenbush-WI,1840025423,Greenbush,Greenbush,WI,Greenbush-WI,Wisconsin,55117,Sheboygan,43.7778,-88.0902,,,102.5,polygon,FALSE,America/Chicago,53023
+Rudolph-WI,1840002341,Rudolph,Rudolph,WI,Rudolph-WI,Wisconsin,55141,Wood,44.4971,-89.8018,430,430,139,polygon,TRUE,America/Chicago,54475
+Withee-WI,1840002178,Withee,Withee,WI,Withee-WI,Wisconsin,55019,Clark,44.9508,-90.5988,476,476,221,polygon,TRUE,America/Chicago,54498
+Adams-WI,1840002234,Adams,Adams,WI,Adams-WI,Wisconsin,55001,Adams,43.9554,-89.8169,1890,1890,247,polygon,TRUE,America/Chicago,53910
+Gratiot-WI,1840002499,Gratiot,Gratiot,WI,Gratiot-WI,Wisconsin,55065,Lafayette,42.5801,-90.0234,235,235,154,polygon,TRUE,America/Chicago,53541
+Denmark-WI,1840002347,Denmark,Denmark,WI,Denmark-WI,Wisconsin,55009,Brown,44.3489,-87.831,2210,2210,444,polygon,TRUE,America/Chicago,54208
+Beloit-WI,1840002471,Beloit,Beloit,WI,Beloit-WI,Wisconsin,55105,Rock,42.523,-89.0184,63470,36757,818,polygon,TRUE,America/Chicago,53511 53512
+Melvina-WI,1840002572,Melvina,Melvina,WI,Melvina-WI,Wisconsin,55081,Monroe,43.8024,-90.7815,104,104,82,polygon,TRUE,America/Chicago,54619
+Wilmot-WI,1840025493,Wilmot,Wilmot,WI,Wilmot-WI,Wisconsin,55059,Kenosha,42.5089,-88.1865,,,294.9,polygon,FALSE,America/Chicago,53181 53192 53105
+Genoa-WI,1840002690,Genoa,Genoa,WI,Genoa-WI,Wisconsin,55123,Vernon,43.5734,-91.2261,270,270,290,polygon,TRUE,America/Chicago,54632
+Montreal-WI,1840001953,Montreal,Montreal,WI,Montreal-WI,Wisconsin,55051,Iron,46.4314,-90.2382,776,776,134,polygon,TRUE,America/Menominee,54525 54534 54550
+Wanderoos-WI,1840038046,Wanderoos,Wanderoos,WI,Wanderoos-WI,Wisconsin,55095,Polk,45.3086,-92.4944,,,59,point,FALSE,America/Chicago,54001
+Monterey-WI,1840037995,Monterey,Monterey,WI,Monterey-WI,Wisconsin,55133,Waukesha,43.1711,-88.4995,,,86.1,point,FALSE,America/Chicago,53066
+Plainville-WI,1840038068,Plainville,Plainville,WI,Plainville-WI,Wisconsin,55001,Adams,43.7089,-89.8126,,,35.8,point,FALSE,America/Chicago,53965
+Mount Zion-WI,1840037996,Mount Zion,Mount Zion,WI,Mount Zion-WI,Wisconsin,55023,Crawford,43.2566,-90.7337,,,16.3,point,FALSE,America/Chicago,53805
+Greenfield-WI,1840003039,Greenfield,Greenfield,WI,Greenfield-WI,Wisconsin,55079,Milwaukee,42.9619,-88.005,36858,36858,1235,polygon,TRUE,America/Chicago,53221 53220 53228
+Fredonia-WI,1840002822,Fredonia,Fredonia,WI,Fredonia-WI,Wisconsin,55089,Ozaukee,43.4716,-87.9489,2243,2243,415,polygon,TRUE,America/Chicago,53004 53021
+Saint Cloud-WI,1840002611,Saint Cloud,Saint Cloud,WI,Saint Cloud-WI,Wisconsin,55039,Fond du Lac,43.8245,-88.1687,458,458,192,polygon,TRUE,America/Chicago,53079
+Greendale-WI,1840003038,Greendale,Greendale,WI,Greendale-WI,Wisconsin,55079,Milwaukee,42.9371,-88.0019,14211,14211,986,polygon,TRUE,America/Chicago,53129
+Trego-WI,1840025283,Trego,Trego,WI,Trego-WI,Wisconsin,55129,Washburn,45.9048,-91.8286,,,18.5,polygon,FALSE,America/Chicago,54888
+Brill-WI,1840037915,Brill,Brill,WI,Brill-WI,Wisconsin,55005,Barron,45.6027,-91.6721,,,94.7,point,FALSE,America/Chicago,54868
+Spooner-WI,1840002002,Spooner,Spooner,WI,Spooner-WI,Wisconsin,55129,Washburn,45.827,-91.886,2588,2597,249,polygon,TRUE,America/Chicago,54801
+Brodhead-WI,1840002460,Brodhead,Brodhead,WI,Brodhead-WI,Wisconsin,55045,Green,42.6167,-89.3756,3488,3276,712,polygon,TRUE,America/Chicago,53520
+Carlsville-WI,1840037923,Carlsville,Carlsville,WI,Carlsville-WI,Wisconsin,55029,Door,44.9517,-87.3368,,,31.1,point,FALSE,America/Chicago,54235
+Browns Lake-WI,1840004482,Browns Lake,Browns Lake,WI,Browns Lake-WI,Wisconsin,55101,Racine,42.6908,-88.2309,,,284.2,polygon,FALSE,America/Chicago,53105
+Turtle Lake-WI,1840002066,Turtle Lake,Turtle Lake,WI,Turtle Lake-WI,Wisconsin,55005,Barron,45.3934,-92.1452,1024,1024,139,polygon,TRUE,America/Chicago,54889
+La Farge-WI,1840002692,La Farge,La Farge,WI,La Farge-WI,Wisconsin,55123,Vernon,43.578,-90.638,771,771,289,polygon,TRUE,America/Chicago,54639
+Utica-WI,1840038041,Utica,Utica,WI,Utica-WI,Wisconsin,55133,Waukesha,43.0222,-88.4848,,,143.4,point,FALSE,America/Chicago,53066
+Sharon-WI,1840002485,Sharon,Sharon,WI,Sharon-WI,Wisconsin,55127,Walworth,42.5047,-88.7391,1580,1580,368,polygon,TRUE,America/Chicago,53585
+Owen-WI,1840002256,Owen,Owen,WI,Owen-WI,Wisconsin,55019,Clark,44.9485,-90.5623,931,931,156,polygon,TRUE,America/Chicago,54460 54498
+Poy Sippi-WI,1840023995,Poy Sippi,Poy Sippi,WI,Poy Sippi-WI,Wisconsin,55137,Waushara,44.136,-88.9963,,,374.1,polygon,FALSE,America/Chicago,54967
+Forestville-WI,1840003937,Forestville,Forestville,WI,Forestville-WI,Wisconsin,55029,Door,44.6907,-87.4787,409,409,302,polygon,TRUE,America/Chicago,54213
+Arkdale-WI,1840025380,Arkdale,Arkdale,WI,Arkdale-WI,Wisconsin,55001,Adams,44.0253,-89.8861,,,52.1,polygon,FALSE,America/Chicago,54613
+Suamico-WI,1840000309,Suamico,Suamico,WI,Suamico-WI,Wisconsin,55009,Brown,44.6352,-88.0664,12588,12588,133,polygon,TRUE,America/Chicago,54173 54313
+Pewaukee-WI,1840003030,Pewaukee,Pewaukee,WI,Pewaukee-WI,Wisconsin,55133,Waukesha,43.0853,-88.2523,8176,8176,761,polygon,TRUE,America/Chicago,53072
+Park Falls-WI,1840002010,Park Falls,Park Falls,WI,Park Falls-WI,Wisconsin,55099,Price,45.935,-90.4457,2292,2292,245,polygon,TRUE,America/Chicago,54552
+Plainfield-WI,1840002240,Plainfield,Plainfield,WI,Plainfield-WI,Wisconsin,55137,Waushara,44.2178,-89.4973,836,836,200,polygon,TRUE,America/Chicago,54966
+Edmund-WI,1840025447,Edmund,Edmund,WI,Edmund-WI,Wisconsin,55049,Iowa,42.9662,-90.2644,,,124.4,polygon,FALSE,America/Chicago,53533
+Mount Tabor-WI,1840038067,Mount Tabor,Mount Tabor,WI,Mount Tabor-WI,Wisconsin,55123,Vernon,43.7005,-90.4543,,,7.8,point,FALSE,America/Chicago,54634
+Deerbrook-WI,1840037936,Deerbrook,Deerbrook,WI,Deerbrook-WI,Wisconsin,55067,Langlade,45.2336,-89.1557,,,11.8,point,FALSE,America/Chicago,54424
+Bay City-WI,1840002285,Bay City,Bay City,WI,Bay City-WI,Wisconsin,55093,Pierce,44.5871,-92.4571,484,484,319,polygon,TRUE,America/Chicago,54723
+Coleman-WI,1840003928,Coleman,Coleman,WI,Coleman-WI,Wisconsin,55075,Marinette,45.0695,-88.0348,702,702,233,polygon,TRUE,America/Chicago,54112
+Fond du Lac-WI,1840002603,Fond du Lac,Fond du Lac,WI,Fond du Lac-WI,Wisconsin,55039,Fond du Lac,43.7719,-88.4396,54811,42951,876,polygon,TRUE,America/Chicago,54935 54937 54936
+Eagle-WI,1840003019,Eagle,Eagle,WI,Eagle-WI,Wisconsin,55133,Waukesha,42.8791,-88.4695,1998,1998,579,polygon,TRUE,America/Chicago,53119
+Hartland-WI,1840003009,Hartland,Hartland,WI,Hartland-WI,Wisconsin,55133,Waukesha,43.1024,-88.3398,9212,9212,670,polygon,TRUE,America/Chicago,53029
+Lakewood-WI,1840025312,Lakewood,Lakewood,WI,Lakewood-WI,Wisconsin,55083,Oconto,45.3005,-88.5146,,,61.5,polygon,FALSE,America/Chicago,54138
+Saint Nazianz-WI,1840002217,Saint Nazianz,Saint Nazianz,WI,Saint Nazianz-WI,Wisconsin,55071,Manitowoc,44.0067,-87.9246,755,755,366,polygon,TRUE,America/Chicago,54232
+Lake Nebagamon-WI,1840003910,Lake Nebagamon,Lake Nebagamon,WI,Lake Nebagamon-WI,Wisconsin,55031,Douglas,46.5119,-91.6995,1058,1058,32,polygon,TRUE,America/Chicago,54849
+Taycheedah-WI,1840024010,Taycheedah,Taycheedah,WI,Taycheedah-WI,Wisconsin,55039,Fond du Lac,43.8123,-88.3914,,,649.3,polygon,FALSE,America/Chicago,54935 54937
+Clayton-WI,1840002052,Clayton,Clayton,WI,Clayton-WI,Wisconsin,55095,Polk,45.326,-92.171,547,547,66,polygon,TRUE,America/Chicago,54004
+Edgerton-WI,1840002468,Edgerton,Edgerton,WI,Edgerton-WI,Wisconsin,55105,Rock,42.8385,-89.0698,7327,5552,515,polygon,TRUE,America/Chicago,53534
+Hartford-WI,1840002831,Hartford,Hartford,WI,Hartford-WI,Wisconsin,55131,Washington,43.3215,-88.3777,14605,14605,707,polygon,TRUE,America/Chicago,53027
+Cedar Grove-WI,1840002624,Cedar Grove,Cedar Grove,WI,Cedar Grove-WI,Wisconsin,55117,Sheboygan,43.568,-87.8245,2117,2117,381,polygon,TRUE,America/Chicago,53013
+Langes Corners-WI,1840038088,Langes Corners,Langes Corners,WI,Langes Corners-WI,Wisconsin,55009,Brown,44.3855,-87.8609,,,38.9,point,FALSE,America/Chicago,54208
+Hilbert-WI,1840002249,Hilbert,Hilbert,WI,Hilbert-WI,Wisconsin,55015,Calumet,44.1419,-88.1607,1079,1079,294,polygon,TRUE,America/Chicago,54129
+Elkhorn-WI,1840002480,Elkhorn,Elkhorn,WI,Elkhorn-WI,Wisconsin,55127,Walworth,42.6711,-88.5376,12198,9853,473,polygon,TRUE,America/Chicago,53121
+Lake Koshkonong-WI,1840004350,Lake Koshkonong,Lake Koshkonong,WI,Lake Koshkonong-WI,Wisconsin,55055,Jefferson,42.8838,-88.9424,,,26.2,polygon,FALSE,America/Chicago,53563 53538
+Hanover-WI,1840025474,Hanover,Hanover,WI,Hanover-WI,Wisconsin,55105,Rock,42.6389,-89.171,,,248.6,polygon,FALSE,America/Chicago,53548 53576
+Valton-WI,1840038043,Valton,Valton,WI,Valton-WI,Wisconsin,55111,Sauk,43.573,-90.2743,,,54.4,point,FALSE,America/Chicago,53968
+Siren-WI,1840001993,Siren,Siren,WI,Siren-WI,Wisconsin,55013,Burnett,45.783,-92.3821,778,778,242,polygon,TRUE,America/Chicago,54872
+Van Buskirk-WI,1840038044,Van Buskirk,Van Buskirk,WI,Van Buskirk-WI,Wisconsin,55051,Iron,46.3872,-90.1435,,,9.7,point,FALSE,America/Menominee,54534
+Newry-WI,1840038000,Newry,Newry,WI,Newry-WI,Wisconsin,55123,Vernon,43.7116,-90.8174,,,48.4,point,FALSE,America/Chicago,54667
+Rhinelander-WI,1840002046,Rhinelander,Rhinelander,WI,Rhinelander-WI,Wisconsin,55085,Oneida,45.6361,-89.4255,8769,7589,351,polygon,TRUE,America/Chicago,54501
+Nelsonville-WI,1840002326,Nelsonville,Nelsonville,WI,Nelsonville-WI,Wisconsin,55097,Portage,44.4937,-89.3091,158,158,59,polygon,TRUE,America/Chicago,54407 54458
+Cazenovia-WI,1840002818,Cazenovia,Cazenovia,WI,Cazenovia-WI,Wisconsin,55103,Richland,43.5237,-90.1991,325,325,137,polygon,TRUE,America/Chicago,53924
+Glen Haven-WI,1840025448,Glen Haven,Glen Haven,WI,Glen Haven-WI,Wisconsin,55043,Grant,42.8313,-91.0633,,,34.8,polygon,FALSE,America/Chicago,53810
+Williams Bay-WI,1840002477,Williams Bay,Williams Bay,WI,Williams Bay-WI,Wisconsin,55127,Walworth,42.5788,-88.5456,2594,2594,358,polygon,TRUE,America/Chicago,53191
+Tainter Lake-WI,1840004024,Tainter Lake,Tainter Lake,WI,Tainter Lake-WI,Wisconsin,55033,Dunn,44.9882,-91.8438,,,119.8,polygon,FALSE,America/Chicago,54751 54730
+Baraboo-WI,1840002720,Baraboo,Baraboo,WI,Baraboo-WI,Wisconsin,55111,Sauk,43.4696,-89.7378,13902,12173,634,polygon,TRUE,America/Chicago,53913
+Wild Rose-WI,1840002236,Wild Rose,Wild Rose,WI,Wild Rose-WI,Wisconsin,55137,Waushara,44.1796,-89.2428,703,703,177,polygon,TRUE,America/Chicago,54984
+Lampson-WI,1840037971,Lampson,Lampson,WI,Lampson-WI,Wisconsin,55129,Washburn,45.983,-91.8163,,,6.3,point,FALSE,America/Chicago,54888
+Wabeno-WI,1840025287,Wabeno,Wabeno,WI,Wabeno-WI,Wisconsin,55041,Forest,45.4394,-88.6581,,,253.8,polygon,FALSE,America/Chicago,54566
+Bell Center-WI,1840002886,Bell Center,Bell Center,WI,Bell Center-WI,Wisconsin,55023,Crawford,43.2916,-90.8256,116,116,8,polygon,TRUE,America/Chicago,54631
+Peshtigo-WI,1840003932,Peshtigo,Peshtigo,WI,Peshtigo-WI,Wisconsin,55075,Marinette,45.0556,-87.7477,3348,3407,434,polygon,TRUE,America/Chicago,54157
+Plover-WI,1840002328,Plover,Plover,WI,Plover-WI,Wisconsin,55097,Portage,44.4614,-89.5373,12552,12552,457,polygon,TRUE,America/Chicago,54467
+Briggsville-WI,1840037914,Briggsville,Briggsville,WI,Briggsville-WI,Wisconsin,55077,Marquette,43.655,-89.5854,,,135.5,point,FALSE,America/Chicago,53920
+Benoit-WI,1840038074,Benoit,Benoit,WI,Benoit-WI,Wisconsin,55007,Bayfield,46.5019,-91.0769,,,7.1,point,FALSE,America/Chicago,54856
+Rozellville-WI,1840038020,Rozellville,Rozellville,WI,Rozellville-WI,Wisconsin,55073,Marathon,44.7433,-90.0246,,,22.6,point,FALSE,America/Chicago,54484
+Chaseburg-WI,1840002693,Chaseburg,Chaseburg,WI,Chaseburg-WI,Wisconsin,55123,Vernon,43.6598,-91.097,304,304,144,polygon,TRUE,America/Chicago,54621
+Waukau-WI,1840025390,Waukau,Waukau,WI,Waukau-WI,Wisconsin,55139,Winnebago,43.9863,-88.7706,,,156.5,polygon,FALSE,America/Chicago,54964 54963 54980
+Sobieski-WI,1840025314,Sobieski,Sobieski,WI,Sobieski-WI,Wisconsin,55083,Oconto,44.7227,-88.0659,,,162.3,polygon,FALSE,America/Chicago,54171 54141
+Connorsville-WI,1840037928,Connorsville,Connorsville,WI,Connorsville-WI,Wisconsin,55033,Dunn,45.1361,-92.0949,,,62.1,point,FALSE,America/Chicago,54734
+Janesville-WI,1840002467,Janesville,Janesville,WI,Janesville-WI,Wisconsin,55105,Rock,42.6855,-89.0137,70299,64159,733,polygon,TRUE,America/Chicago,53545 53548 53546 53547
+Lake Shangrila-WI,1840004536,Lake Shangrila,Lake Shangrila,WI,Lake Shangrila-WI,Wisconsin,55059,Kenosha,42.5053,-88.0706,,,660.1,point,FALSE,America/Chicago,53104
+Lake Wazeecha-WI,1840004085,Lake Wazeecha,Lake Wazeecha,WI,Lake Wazeecha-WI,Wisconsin,55141,Wood,44.3709,-89.7552,,,414.3,polygon,FALSE,America/Chicago,54494
+Hustler-WI,1840002226,Hustler,Hustler,WI,Hustler-WI,Wisconsin,55057,Juneau,43.8771,-90.2658,192,192,107,polygon,TRUE,America/Chicago,54637 54618
+Brackett-WI,1840037912,Brackett,Brackett,WI,Brackett-WI,Wisconsin,55035,Eau Claire,44.7013,-91.351,,,59.2,point,FALSE,America/Chicago,54742
+Necedah-WI,1840002231,Necedah,Necedah,WI,Necedah-WI,Wisconsin,55057,Juneau,44.0232,-90.0717,920,920,127,polygon,TRUE,America/Chicago,54646
+Sayner-WI,1840025277,Sayner,Sayner,WI,Sayner-WI,Wisconsin,55125,Vilas,45.991,-89.5332,,,142.2,polygon,FALSE,America/Chicago,54560
+Dunbar-WI,1840026080,Dunbar,Dunbar,WI,Dunbar-WI,Wisconsin,55075,Marinette,45.6471,-88.1754,,,21.7,polygon,FALSE,America/Chicago,54119
+Norwalk-WI,1840002573,Norwalk,Norwalk,WI,Norwalk-WI,Wisconsin,55081,Monroe,43.8342,-90.6269,634,634,237,polygon,TRUE,America/Chicago,54648
+Arlington-WI,1840002702,Arlington,Arlington,WI,Arlington-WI,Wisconsin,55021,Columbia,43.3352,-89.3724,808,808,304,polygon,TRUE,America/Chicago,53911
+Land O' Lakes-WI,1840024329,Land O' Lakes,Land O' Lakes,WI,Land O' Lakes-WI,Wisconsin,55125,Vilas,46.1613,-89.2187,,,81.2,point,FALSE,America/Menominee,54540
+Twin Lakes-WI,1840003159,Twin Lakes,Twin Lakes,WI,Twin Lakes-WI,Wisconsin,55059,Kenosha,42.5192,-88.249,6081,6081,281,polygon,TRUE,America/Chicago,53181 53101
+Marinette-WI,1840003930,Marinette,Marinette,WI,Marinette-WI,Wisconsin,55075,Marinette,45.087,-87.6305,18947,10695,599,polygon,TRUE,America/Chicago,54143
+Milltown-WI,1840002056,Milltown,Milltown,WI,Milltown-WI,Wisconsin,55095,Polk,45.5264,-92.5012,878,878,193,polygon,TRUE,America/Chicago,54858
+New Lisbon-WI,1840002232,New Lisbon,New Lisbon,WI,New Lisbon-WI,Wisconsin,55057,Juneau,43.878,-90.1627,2499,2499,350,polygon,TRUE,America/Chicago,53950
+Phillips-WI,1840002011,Phillips,Phillips,WI,Phillips-WI,Wisconsin,55099,Price,45.6957,-90.4016,1375,1375,202,polygon,TRUE,America/Chicago,54555
+Wilson-WI,1840002131,Wilson,Wilson,WI,Wilson-WI,Wisconsin,55109,St. Croix,44.9582,-92.1706,185,185,43,polygon,TRUE,America/Chicago,54027
+Ontario-WI,1840002696,Ontario,Ontario,WI,Ontario-WI,Wisconsin,55123,Vernon,43.7222,-90.5941,554,554,212,polygon,TRUE,America/Chicago,54651
+Warrens-WI,1840002567,Warrens,Warrens,WI,Warrens-WI,Wisconsin,55081,Monroe,44.1287,-90.5157,350,350,90,polygon,TRUE,America/Chicago,54666
+Pleasant Prairie-WI,1840003163,Pleasant Prairie,Pleasant Prairie,WI,Pleasant Prairie-WI,Wisconsin,55059,Kenosha,42.5265,-87.8895,20734,20734,239,polygon,TRUE,America/Chicago,53142 53158
+Blueberry-WI,1840037911,Blueberry,Blueberry,WI,Blueberry-WI,Wisconsin,55031,Douglas,46.5802,-91.6688,,,22.8,point,FALSE,America/Chicago,54854
+Lodi-WI,1840002710,Lodi,Lodi,WI,Lodi-WI,Wisconsin,55021,Columbia,43.3153,-89.5378,3023,3059,662,polygon,TRUE,America/Chicago,53555
+Maplewood-WI,1840037982,Maplewood,Maplewood,WI,Maplewood-WI,Wisconsin,55029,Door,44.7475,-87.4793,,,27.1,point,FALSE,America/Chicago,54235
+Irma-WI,1840037962,Irma,Irma,WI,Irma-WI,Wisconsin,55069,Lincoln,45.3514,-89.6665,,,5.6,point,FALSE,America/Chicago,54442
+Muskego-WI,1840003023,Muskego,Muskego,WI,Muskego-WI,Wisconsin,55133,Waukesha,42.8859,-88.1291,24882,24882,304,polygon,TRUE,America/Chicago,53150
+Manitowoc-WI,1840002213,Manitowoc,Manitowoc,WI,Manitowoc-WI,Wisconsin,55071,Manitowoc,44.099,-87.6812,45261,32936,717,polygon,TRUE,America/Chicago,54220 54221
+Suring-WI,1840001573,Suring,Suring,WI,Suring-WI,Wisconsin,55083,Oconto,45.0008,-88.3694,526,526,201,polygon,TRUE,America/Chicago,54174
+Frederic-WI,1840002048,Frederic,Frederic,WI,Frederic-WI,Wisconsin,55095,Polk,45.6547,-92.4647,1097,1097,250,polygon,TRUE,America/Chicago,54837
+Brooks-WI,1840037917,Brooks,Brooks,WI,Brooks-WI,Wisconsin,55001,Adams,43.8253,-89.6446,,,85.4,point,FALSE,America/Chicago,53952
+Kronenwetter-WI,1840038099,Kronenwetter,Kronenwetter,WI,Kronenwetter-WI,Wisconsin,55073,Marathon,44.8163,-89.5806,7619,7619,56,polygon,TRUE,America/Chicago,54455
+Nichols-WI,1840002409,Nichols,Nichols,WI,Nichols-WI,Wisconsin,55087,Outagamie,44.5671,-88.4678,269,269,120,polygon,TRUE,America/Chicago,54106 54152
+Emerald-WI,1840025320,Emerald,Emerald,WI,Emerald-WI,Wisconsin,55109,St. Croix,45.0833,-92.2579,,,27.1,polygon,FALSE,America/Chicago,54013
+Little Rapids-WI,1840037976,Little Rapids,Little Rapids,WI,Little Rapids-WI,Wisconsin,55009,Brown,44.3803,-88.1273,,,158.2,point,FALSE,America/Chicago,54115
+Centuria-WI,1840002051,Centuria,Centuria,WI,Centuria-WI,Wisconsin,55095,Polk,45.4497,-92.5578,922,922,209,polygon,TRUE,America/Chicago,54824
+Alderley-WI,1840024066,Alderley,Alderley,WI,Alderley-WI,Wisconsin,55027,Dodge,43.2175,-88.4498,,,23.7,point,FALSE,America/Chicago,53066
+Lake Hallie-WI,1840000279,Lake Hallie,Lake Hallie,WI,Lake Hallie-WI,Wisconsin,55017,Chippewa,44.8921,-91.4201,6650,6650,181,polygon,TRUE,America/Chicago,54729 54703
+Haven-WI,1840038056,Haven,Haven,WI,Haven-WI,Wisconsin,55117,Sheboygan,43.8483,-87.7534,,,21.3,point,FALSE,America/Chicago,53083
+Wyocena-WI,1840002704,Wyocena,Wyocena,WI,Wyocena-WI,Wisconsin,55021,Columbia,43.493,-89.3097,745,745,203,polygon,TRUE,America/Chicago,53954 53969 53960
+Rosendale-WI,1840002610,Rosendale,Rosendale,WI,Rosendale-WI,Wisconsin,55039,Fond du Lac,43.8079,-88.6731,1039,1039,327,polygon,TRUE,America/Chicago,54974
+Stone Lake-WI,1840025282,Stone Lake,Stone Lake,WI,Stone Lake-WI,Wisconsin,55113,Sawyer,45.8445,-91.5502,,,177.7,polygon,FALSE,America/Chicago,54876
+Ladysmith-WI,1840002082,Ladysmith,Ladysmith,WI,Ladysmith-WI,Wisconsin,55107,Rusk,45.4607,-91.0971,3216,3184,290,polygon,TRUE,America/Chicago,54848
+Birchwood-WI,1840002003,Birchwood,Birchwood,WI,Birchwood-WI,Wisconsin,55129,Washburn,45.6577,-91.5508,427,427,151,polygon,TRUE,America/Chicago,54817
+Augusta-WI,1840002292,Augusta,Augusta,WI,Augusta-WI,Wisconsin,55035,Eau Claire,44.6784,-91.1203,1520,1520,265,polygon,TRUE,America/Chicago,54722
+Oxford-WI,1840002597,Oxford,Oxford,WI,Oxford-WI,Wisconsin,55077,Marquette,43.7797,-89.5624,591,591,225,polygon,TRUE,America/Chicago,53952
+Rome-WI,1840004352,Rome,Rome,WI,Rome-WI,Wisconsin,55055,Jefferson,42.9823,-88.6389,,,268.1,polygon,FALSE,America/Chicago,53137 53178
+Gordon-WI,1840026065,Gordon,Gordon,WI,Gordon-WI,Wisconsin,55031,Douglas,46.241,-91.7995,,,61.8,polygon,FALSE,America/Chicago,54838
+Kenosha-WI,1840003160,Kenosha,Kenosha,WI,Kenosha-WI,Wisconsin,55059,Kenosha,42.5861,-87.8755,124580,99631,1391,polygon,TRUE,America/Chicago,53144 53140 53142 53143 53141 53171
+Gagen-WI,1840038062,Gagen,Gagen,WI,Gagen-WI,Wisconsin,55085,Oneida,45.6625,-89.1382,,,3.1,point,FALSE,America/Chicago,54501
+Webster-WI,1840001994,Webster,Webster,WI,Webster-WI,Wisconsin,55013,Burnett,45.88,-92.3631,626,626,137,polygon,TRUE,America/Chicago,54893
+Cavour-WI,1840038078,Cavour,Cavour,WI,Cavour-WI,Wisconsin,55041,Forest,45.6522,-88.6296,,,12.1,point,FALSE,America/Chicago,54511
+Union Center-WI,1840002224,Union Center,Union Center,WI,Union Center-WI,Wisconsin,55057,Juneau,43.6827,-90.2634,195,195,94,polygon,TRUE,America/Chicago,53968 53962
+Doering-WI,1840038061,Doering,Doering,WI,Doering-WI,Wisconsin,55069,Lincoln,45.2352,-89.4582,,,14.8,point,FALSE,America/Chicago,54435
+Slinger-WI,1840002828,Slinger,Slinger,WI,Slinger-WI,Wisconsin,55131,Washington,43.3318,-88.2799,5287,5287,389,polygon,TRUE,America/Chicago,53086
+Pardeeville-WI,1840002711,Pardeeville,Pardeeville,WI,Pardeeville-WI,Wisconsin,55021,Columbia,43.5358,-89.3011,2083,2083,417,polygon,TRUE,America/Chicago,53954
+Argyle-WI,1840002496,Argyle,Argyle,WI,Argyle-WI,Wisconsin,55065,Lafayette,42.7013,-89.866,839,839,519,polygon,TRUE,America/Chicago,53504
+Balsam Lake-WI,1840002050,Balsam Lake,Balsam Lake,WI,Balsam Lake-WI,Wisconsin,55095,Polk,45.4584,-92.4529,980,980,174,polygon,TRUE,America/Chicago,54810
+Granton-WI,1840002179,Granton,Granton,WI,Granton-WI,Wisconsin,55019,Clark,44.5885,-90.4615,347,347,237,polygon,TRUE,America/Chicago,54436
+Wauzeka-WI,1840002883,Wauzeka,Wauzeka,WI,Wauzeka-WI,Wisconsin,55023,Crawford,43.0851,-90.8995,730,730,58,polygon,TRUE,America/Chicago,53826
+Hager City-WI,1840025343,Hager City,Hager City,WI,Hager City-WI,Wisconsin,55093,Pierce,44.6012,-92.5336,,,101.7,polygon,FALSE,America/Chicago,54014
+Bancroft-WI,1840024098,Bancroft,Bancroft,WI,Bancroft-WI,Wisconsin,55097,Portage,44.3093,-89.5071,,,140.1,polygon,FALSE,America/Chicago,54921
+Abbotsford-WI,1840002168,Abbotsford,Abbotsford,WI,Abbotsford-WI,Wisconsin,55019,Clark,44.9437,-90.3154,3877,2259,320,polygon,TRUE,America/Chicago,54405 54421
+Holcombe-WI,1840025317,Holcombe,Holcombe,WI,Holcombe-WI,Wisconsin,55017,Chippewa,45.2259,-91.1215,,,208.4,polygon,FALSE,America/Chicago,54745
+Waumandee-WI,1840025360,Waumandee,Waumandee,WI,Waumandee-WI,Wisconsin,55011,Buffalo,44.3023,-91.7051,,,111,polygon,FALSE,America/Chicago,54622
+Hixton-WI,1840002395,Hixton,Hixton,WI,Hixton-WI,Wisconsin,55053,Jackson,44.3831,-91.0153,423,423,140,polygon,TRUE,America/Chicago,54635
+Stanley-WI,1840002105,Stanley,Stanley,WI,Stanley-WI,Wisconsin,55017,Chippewa,44.9596,-90.943,3496,3660,342,polygon,TRUE,America/Chicago,54768
+Wiota-WI,1840038054,Wiota,Wiota,WI,Wiota-WI,Wisconsin,55065,Lafayette,42.6367,-89.9493,,,83.9,polygon,FALSE,America/Chicago,53541 53504 53587
+Darien-WI,1840002482,Darien,Darien,WI,Darien-WI,Wisconsin,55127,Walworth,42.6007,-88.7129,1608,1608,481,polygon,TRUE,America/Chicago,53114
+Germania-WI,1840037951,Germania,Germania,WI,Germania-WI,Wisconsin,55077,Marquette,43.8905,-89.2571,,,7.6,point,FALSE,America/Chicago,54960
+Elton-WI,1840037942,Elton,Elton,WI,Elton-WI,Wisconsin,55067,Langlade,45.1683,-88.8865,,,11.8,point,FALSE,America/Chicago,54418
+Elroy-WI,1840002227,Elroy,Elroy,WI,Elroy-WI,Wisconsin,55057,Juneau,43.7422,-90.2707,1366,1366,272,polygon,TRUE,America/Chicago,53929
+Lake Tomahawk-WI,1840025292,Lake Tomahawk,Lake Tomahawk,WI,Lake Tomahawk-WI,Wisconsin,55085,Oneida,45.8109,-89.5873,,,136.8,polygon,FALSE,America/Chicago,54539
+Wheeler-WI,1840002141,Wheeler,Wheeler,WI,Wheeler-WI,Wisconsin,55033,Dunn,45.0439,-91.904,332,332,162,polygon,TRUE,America/Chicago,54772
+Long Lake-WI,1840025289,Long Lake,Long Lake,WI,Long Lake-WI,Wisconsin,55037,Florence,45.8431,-88.6673,,,113.9,polygon,FALSE,America/Chicago,54542
+Willard-WI,1840038053,Willard,Willard,WI,Willard-WI,Wisconsin,55019,Clark,44.735,-90.7193,,,16.9,point,FALSE,America/Chicago,54493
+Tripoli-WI,1840038039,Tripoli,Tripoli,WI,Tripoli-WI,Wisconsin,55069,Lincoln,45.5552,-89.994,,,16,point,FALSE,America/Chicago,54564
+Yellow Lake-WI,1840038055,Yellow Lake,Yellow Lake,WI,Yellow Lake-WI,Wisconsin,55013,Burnett,45.9366,-92.3902,,,37.2,point,FALSE,America/Chicago,54830
+Jefferson-WI,1840003001,Jefferson,Jefferson,WI,Jefferson-WI,Wisconsin,55055,Jefferson,43.0042,-88.8084,8024,8024,532,polygon,TRUE,America/Chicago,53549
+Hales Corners-WI,1840003040,Hales Corners,Hales Corners,WI,Hales Corners-WI,Wisconsin,55079,Milwaukee,42.941,-88.0492,7674,7674,922,polygon,TRUE,America/Chicago,53130
+Superior Village-WI,1840038035,Superior Village,Superior Village,WI,Superior Village-WI,Wisconsin,55031,Douglas,46.6569,-92.1044,,,312,point,TRUE,America/Chicago,54880
+Peru-WI,1840038090,Peru,Peru,WI,Peru-WI,Wisconsin,55097,Portage,44.57,-89.2434,,,6.5,point,FALSE,America/Chicago,54407
+Elmwood Park-WI,1840002490,Elmwood Park,Elmwood Park,WI,Elmwood Park-WI,Wisconsin,55101,Racine,42.6919,-87.8226,495,495,1330,polygon,TRUE,America/Chicago,53405
+Caroline-WI,1840023919,Caroline,Caroline,WI,Caroline-WI,Wisconsin,55115,Shawano,44.722,-88.8947,,,102.4,polygon,FALSE,America/Chicago,54928
+Wittenberg-WI,1840002259,Wittenberg,Wittenberg,WI,Wittenberg-WI,Wisconsin,55115,Shawano,44.8273,-89.1666,1019,1019,221,polygon,TRUE,America/Chicago,54499
+Dresser-WI,1840002054,Dresser,Dresser,WI,Dresser-WI,Wisconsin,55095,Polk,45.3617,-92.6344,859,859,172,polygon,TRUE,America/Chicago,54024 54009
+Evergreen-WI,1840038095,Evergreen,Evergreen,WI,Evergreen-WI,Wisconsin,55073,Marathon,44.8425,-89.6376,,,9.1,point,FALSE,America/Chicago,54455
+Theresa-WI,1840002730,Theresa,Theresa,WI,Theresa-WI,Wisconsin,55027,Dodge,43.5165,-88.454,1207,1207,582,polygon,TRUE,America/Chicago,53091
+Woodman-WI,1840002966,Woodman,Woodman,WI,Woodman-WI,Wisconsin,55043,Grant,43.0925,-90.797,130,130,211,polygon,TRUE,America/Chicago,53827 53805
+Reedsville-WI,1840002216,Reedsville,Reedsville,WI,Reedsville-WI,Wisconsin,55071,Manitowoc,44.1524,-87.9517,1170,1170,369,polygon,TRUE,America/Chicago,54230
+Dorchester-WI,1840002253,Dorchester,Dorchester,WI,Dorchester-WI,Wisconsin,55019,Clark,45.0026,-90.3309,867,867,240,polygon,TRUE,America/Chicago,54425
+Sussex-WI,1840003006,Sussex,Sussex,WI,Sussex-WI,Wisconsin,55133,Waukesha,43.1338,-88.2233,10765,10765,539,polygon,TRUE,America/Chicago,53089
+Lac La Belle-WI,1840003010,Lac La Belle,Lac La Belle,WI,Lac La Belle-WI,Wisconsin,55133,Waukesha,43.1428,-88.5302,295,295,119,polygon,TRUE,America/Chicago,53066 53036
+Wind Point-WI,1840002489,Wind Point,Wind Point,WI,Wind Point-WI,Wisconsin,55101,Racine,42.7813,-87.772,1709,1709,527,polygon,TRUE,America/Chicago,53402
+Union Grove-WI,1840002487,Union Grove,Union Grove,WI,Union Grove-WI,Wisconsin,55101,Racine,42.687,-88.0501,6980,4920,770,polygon,TRUE,America/Chicago,53182
+New Franken-WI,1840037998,New Franken,New Franken,WI,New Franken-WI,Wisconsin,55009,Brown,44.5308,-87.8259,,,180.7,point,FALSE,America/Chicago,54229
+Upson-WI,1840038040,Upson,Upson,WI,Upson-WI,Wisconsin,55051,Iron,46.3691,-90.4068,,,33.4,point,FALSE,America/Chicago,54565
+Mukwonago-WI,1840003022,Mukwonago,Mukwonago,WI,Mukwonago-WI,Wisconsin,55133,Waukesha,42.8569,-88.3273,21532,7820,382,polygon,TRUE,America/Chicago,53149 53120
+Joel-WI,1840038064,Joel,Joel,WI,Joel-WI,Wisconsin,55095,Polk,45.3605,-92.2346,,,10.1,point,FALSE,America/Chicago,54001
+Lake Ripley-WI,1840004351,Lake Ripley,Lake Ripley,WI,Lake Ripley-WI,Wisconsin,55055,Jefferson,43.0045,-88.9829,,,675.7,polygon,FALSE,America/Chicago,53523
+Juda-WI,1840025473,Juda,Juda,WI,Juda-WI,Wisconsin,55045,Green,42.5901,-89.5094,,,302.7,polygon,FALSE,America/Chicago,53550
+Watertown-WI,1840003000,Watertown,Watertown,WI,Watertown-WI,Wisconsin,55055,Jefferson,43.1893,-88.7285,23304,23817,763,polygon,TRUE,America/Chicago,53098 53094
+Ripon-WI,1840002609,Ripon,Ripon,WI,Ripon-WI,Wisconsin,55039,Fond du Lac,43.8436,-88.8386,7961,7764,602,polygon,TRUE,America/Chicago,54971
+Woodford-WI,1840025481,Woodford,Woodford,WI,Woodford-WI,Wisconsin,55065,Lafayette,42.6476,-89.8598,,,77.3,polygon,FALSE,America/Chicago,53599
+Hollister-WI,1840038079,Hollister,Hollister,WI,Hollister-WI,Wisconsin,55067,Langlade,45.248,-88.7915,,,3.2,point,FALSE,America/Chicago,54491
+Westfield-WI,1840002594,Westfield,Westfield,WI,Westfield-WI,Wisconsin,55077,Marquette,43.8851,-89.4927,1230,1230,304,polygon,TRUE,America/Chicago,53964
+Green Lake-WI,1840002588,Green Lake,Green Lake,WI,Green Lake-WI,Wisconsin,55047,Green Lake,43.8433,-88.9576,934,934,200,polygon,TRUE,America/Chicago,54941
+Lac du Flambeau-WI,1840004007,Lac du Flambeau,Lac du Flambeau,WI,Lac du Flambeau-WI,Wisconsin,55125,Vilas,45.9696,-89.8995,,,341.1,polygon,FALSE,America/Chicago,54538
+Bloomer-WI,1840002106,Bloomer,Bloomer,WI,Bloomer-WI,Wisconsin,55017,Chippewa,45.103,-91.4913,3320,3509,465,polygon,TRUE,America/Chicago,54724
+New Glarus-WI,1840002466,New Glarus,New Glarus,WI,New Glarus-WI,Wisconsin,55045,Green,42.813,-89.6337,2162,2162,459,polygon,TRUE,America/Chicago,53574
+Cambridge-WI,1840002909,Cambridge,Cambridge,WI,Cambridge-WI,Wisconsin,55055,Jefferson,43.0071,-89.0214,2669,1509,395,polygon,TRUE,America/Chicago,53523
+Clinton-WI,1840002472,Clinton,Clinton,WI,Clinton-WI,Wisconsin,55105,Rock,42.5574,-88.8678,2126,2126,573,polygon,TRUE,America/Chicago,53525
+Egg Harbor-WI,1840003936,Egg Harbor,Egg Harbor,WI,Egg Harbor-WI,Wisconsin,55029,Door,45.0528,-87.2826,203,203,31,polygon,TRUE,America/Chicago,54209
+Rewey-WI,1840002962,Rewey,Rewey,WI,Rewey-WI,Wisconsin,55049,Iowa,42.8417,-90.3962,295,295,228,polygon,TRUE,America/Chicago,53580
+Onalaska-WI,1840002579,Onalaska,Onalaska,WI,Onalaska-WI,Wisconsin,55063,La Crosse,43.888,-91.2075,18697,18697,707,polygon,TRUE,America/Chicago,54650
+Dayton-WI,1840037934,Dayton,Dayton,WI,Dayton-WI,Wisconsin,55045,Green,42.8269,-89.5132,,,85,point,FALSE,America/Chicago,53508
+Batavia-WI,1840037907,Batavia,Batavia,WI,Batavia-WI,Wisconsin,55117,Sheboygan,43.5944,-88.0509,,,47.6,point,FALSE,America/Chicago,53001
+North Bay-WI,1840002492,North Bay,North Bay,WI,North Bay-WI,Wisconsin,55101,Racine,42.7644,-87.7809,240,240,940,polygon,TRUE,America/Chicago,53402
+Grantsburg-WI,1840001995,Grantsburg,Grantsburg,WI,Grantsburg-WI,Wisconsin,55013,Burnett,45.7813,-92.6837,1287,1287,166,polygon,TRUE,America/Chicago,54840
+Middleton-WI,1840002919,Middleton,Middleton,WI,Middleton-WI,Wisconsin,55025,Dane,43.1059,-89.5073,19109,19109,809,polygon,TRUE,America/Chicago,53562
+Winneconne-WI,1840002242,Winneconne,Winneconne,WI,Winneconne-WI,Wisconsin,55139,Winnebago,44.1117,-88.7108,3733,2435,614,polygon,TRUE,America/Chicago,54986
+Blanchardville-WI,1840003097,Blanchardville,Blanchardville,WI,Blanchardville-WI,Wisconsin,55065,Lafayette,42.8093,-89.8606,805,805,623,polygon,TRUE,America/Chicago,53516
+Butternut-WI,1840003917,Butternut,Butternut,WI,Butternut-WI,Wisconsin,55003,Ashland,46.0132,-90.4972,361,361,86,polygon,TRUE,America/Chicago,54514
+Amery-WI,1840002049,Amery,Amery,WI,Amery-WI,Wisconsin,55095,Polk,45.3046,-92.3634,2770,2839,358,polygon,TRUE,America/Chicago,54001
+Allenville-WI,1840037902,Allenville,Allenville,WI,Allenville-WI,Wisconsin,55139,Winnebago,44.133,-88.619,,,33.4,point,FALSE,America/Chicago,54904
+Newburg-WI,1840002834,Newburg,Newburg,WI,Newburg-WI,Wisconsin,55131,Washington,43.4321,-88.0476,1229,1229,528,polygon,TRUE,America/Chicago,53090 53095 53060
+Keshena-WI,1840004028,Keshena,Keshena,WI,Keshena-WI,Wisconsin,55078,Menominee,44.8697,-88.6002,,,130.8,polygon,FALSE,America/Chicago,54135
+Gilman-WI,1840001569,Gilman,Gilman,WI,Gilman-WI,Wisconsin,55119,Taylor,45.1662,-90.8072,395,395,65,polygon,TRUE,America/Chicago,54433
+Herbster-WI,1840026070,Herbster,Herbster,WI,Herbster-WI,Wisconsin,55007,Bayfield,46.8421,-91.2419,,,21.2,polygon,FALSE,America/Chicago,54844
+Ashland-WI,1840003916,Ashland,Ashland,WI,Ashland-WI,Wisconsin,55003,Ashland,46.5801,-90.8715,7063,7957,228,polygon,TRUE,America/Chicago,54806
+Curtiss-WI,1840002252,Curtiss,Curtiss,WI,Curtiss-WI,Wisconsin,55019,Clark,44.9522,-90.4348,216,216,122,polygon,TRUE,America/Chicago,54422
+Bethesda-WI,1840038058,Bethesda,Bethesda,WI,Bethesda-WI,Wisconsin,55133,Waukesha,42.9878,-88.3184,,,52.4,point,FALSE,America/Chicago,53189
+Waterford-WI,1840002488,Waterford,Waterford,WI,Waterford-WI,Wisconsin,55101,Racine,42.7653,-88.2164,5378,5378,806,polygon,TRUE,America/Chicago,53185
+Rochester-WI,1840002494,Rochester,Rochester,WI,Rochester-WI,Wisconsin,55101,Racine,42.7337,-88.2488,3782,3782,83,polygon,TRUE,America/Chicago,53167 53105
+Hatley-WI,1840002164,Hatley,Hatley,WI,Hatley-WI,Wisconsin,55073,Marathon,44.8858,-89.3371,605,605,222,polygon,TRUE,America/Chicago,54440
+Ogema-WI,1840025291,Ogema,Ogema,WI,Ogema-WI,Wisconsin,55099,Price,45.4511,-90.2927,,,117,polygon,FALSE,America/Chicago,54459
+Orfordville-WI,1840002474,Orfordville,Orfordville,WI,Orfordville-WI,Wisconsin,55105,Rock,42.6294,-89.2572,1490,1490,484,polygon,TRUE,America/Chicago,53576
+Delavan-WI,1840002483,Delavan,Delavan,WI,Delavan-WI,Wisconsin,55127,Walworth,42.6281,-88.6324,12045,8385,465,polygon,TRUE,America/Chicago,53115
+Deerfield-WI,1840002913,Deerfield,Deerfield,WI,Deerfield-WI,Wisconsin,55025,Dane,43.0492,-89.0762,2524,2524,450,polygon,TRUE,America/Chicago,53531
+Gays Mills-WI,1840002884,Gays Mills,Gays Mills,WI,Gays Mills-WI,Wisconsin,55023,Crawford,43.322,-90.8489,525,525,41,polygon,TRUE,America/Chicago,54631
+Sparta-WI,1840002565,Sparta,Sparta,WI,Sparta-WI,Wisconsin,55081,Monroe,43.9403,-90.8084,10086,9695,561,polygon,TRUE,America/Chicago,54656
+Crandon-WI,1840002005,Crandon,Crandon,WI,Crandon-WI,Wisconsin,55041,Forest,45.5686,-88.8973,1860,1860,137,polygon,TRUE,America/Chicago,54520
+De Forest-WI,1840037935,De Forest,De Forest,WI,De Forest-WI,Wisconsin,55025,Dane,43.2319,-89.3424,9690,9690,499,polygon,TRUE,America/Chicago,53598 53532
+Medina-WI,1840037986,Medina,Medina,WI,Medina-WI,Wisconsin,55087,Outagamie,44.2728,-88.6379,,,63.1,point,FALSE,America/Chicago,54944
+Gilmanton-WI,1840037953,Gilmanton,Gilmanton,WI,Gilmanton-WI,Wisconsin,55011,Buffalo,44.4738,-91.6785,,,35.2,polygon,FALSE,America/Chicago,54755 54743
+Wilton-WI,1840002568,Wilton,Wilton,WI,Wilton-WI,Wisconsin,55081,Monroe,43.8132,-90.5268,503,503,218,polygon,TRUE,America/Chicago,54670
+Belgium-WI,1840002824,Belgium,Belgium,WI,Belgium-WI,Wisconsin,55089,Ozaukee,43.5019,-87.8476,2285,2285,409,polygon,TRUE,America/Chicago,53004
+White Lake-WI,1840001566,White Lake,White Lake,WI,White Lake-WI,Wisconsin,55067,Langlade,45.1619,-88.7704,342,342,61,polygon,TRUE,America/Chicago,54491
+Boardman-WI,1840038091,Boardman,Boardman,WI,Boardman-WI,Wisconsin,55109,St. Croix,45.0655,-92.5999,,,39.1,point,FALSE,America/Chicago,54017
+De Soto-WI,1840002695,De Soto,De Soto,WI,De Soto-WI,Wisconsin,55023,Crawford,43.4283,-91.1964,288,288,90,polygon,TRUE,America/Chicago,54624
+Laona-WI,1840025285,Laona,Laona,WI,Laona-WI,Wisconsin,55041,Forest,45.5597,-88.6697,,,431.9,polygon,FALSE,America/Chicago,54541
+La Crosse-WI,1840002577,La Crosse,La Crosse,WI,La Crosse-WI,Wisconsin,55063,La Crosse,43.8234,-91.2279,102427,52109,978,polygon,TRUE,America/Chicago,54601 54603 54602
+Hobart-WI,1840038100,Hobart,Hobart,WI,Hobart-WI,Wisconsin,55009,Brown,44.4965,-88.1602,8599,8599,100,polygon,TRUE,America/Chicago,54313 54115 54155
+Millston-WI,1840025363,Millston,Millston,WI,Millston-WI,Wisconsin,55053,Jackson,44.1885,-90.6447,,,59,polygon,FALSE,America/Chicago,54643 54615
+Burnett-WI,1840024126,Burnett,Burnett,WI,Burnett-WI,Wisconsin,55027,Dodge,43.5065,-88.7084,,,188.4,polygon,FALSE,America/Chicago,53922
+Little Round Lake-WI,1840004009,Little Round Lake,Little Round Lake,WI,Little Round Lake-WI,Wisconsin,55113,Sawyer,45.9697,-91.3671,,,44.7,polygon,FALSE,America/Chicago,54843
+Carter-WI,1840038077,Carter,Carter,WI,Carter-WI,Wisconsin,55041,Forest,45.3908,-88.6279,,,22,point,FALSE,America/Chicago,54566
+Northport-WI,1840023956,Northport,Northport,WI,Northport-WI,Wisconsin,55135,Waupaca,44.4082,-88.8038,,,114,polygon,FALSE,America/Chicago,54961
+Whitewater-WI,1840002476,Whitewater,Whitewater,WI,Whitewater-WI,Wisconsin,55127,Walworth,42.8371,-88.734,14352,14517,639,polygon,TRUE,America/Chicago,53190
+Pound-WI,1840003933,Pound,Pound,WI,Pound-WI,Wisconsin,55075,Marinette,45.0957,-88.0335,372,372,168,polygon,TRUE,America/Chicago,54161
+Woodville-WI,1840002132,Woodville,Woodville,WI,Woodville-WI,Wisconsin,55109,St. Croix,44.9485,-92.2852,1349,1349,292,polygon,TRUE,America/Chicago,54028
+Horicon-WI,1840002731,Horicon,Horicon,WI,Horicon-WI,Wisconsin,55027,Dodge,43.4448,-88.638,3494,3656,439,polygon,TRUE,America/Chicago,53032
+Sister Bay-WI,1840003934,Sister Bay,Sister Bay,WI,Sister Bay-WI,Wisconsin,55029,Door,45.1835,-87.1271,925,925,138,polygon,TRUE,America/Chicago,54234
+Stevens Point-WI,1840002320,Stevens Point,Stevens Point,WI,Stevens Point-WI,Wisconsin,55097,Portage,44.524,-89.5506,43735,26423,594,polygon,TRUE,America/Chicago,54481 54482 54492
+Chenequa-WI,1840003016,Chenequa,Chenequa,WI,Chenequa-WI,Wisconsin,55133,Waukesha,43.123,-88.3836,584,584,63,polygon,TRUE,America/Chicago,53058 53029
+Vaudreuil-WI,1840038045,Vaudreuil,Vaudreuil,WI,Vaudreuil-WI,Wisconsin,55053,Jackson,44.3064,-90.8099,,,18.8,point,FALSE,America/Chicago,54615
+West Bloomfield-WI,1840038051,West Bloomfield,West Bloomfield,WI,West Bloomfield-WI,Wisconsin,55137,Waushara,44.2208,-88.9718,,,32.3,point,FALSE,America/Chicago,54983
+Helenville-WI,1840004348,Helenville,Helenville,WI,Helenville-WI,Wisconsin,55055,Jefferson,43.0168,-88.6999,,,147.2,polygon,FALSE,America/Chicago,53137
+Sandy Hook-WI,1840025450,Sandy Hook,Sandy Hook,WI,Sandy Hook-WI,Wisconsin,55043,Grant,42.5466,-90.6168,,,130.9,polygon,FALSE,America/Chicago,53811
+Cecil-WI,1840002264,Cecil,Cecil,WI,Cecil-WI,Wisconsin,55115,Shawano,44.8111,-88.4486,552,552,119,polygon,TRUE,America/Chicago,54111
+Kewaunee-WI,1840002364,Kewaunee,Kewaunee,WI,Kewaunee-WI,Wisconsin,55061,Kewaunee,44.4607,-87.5133,2548,2869,316,polygon,TRUE,America/Chicago,54216
+Neopit-WI,1840004030,Neopit,Neopit,WI,Neopit-WI,Wisconsin,55078,Menominee,44.9877,-88.8227,,,228.2,polygon,FALSE,America/Chicago,54150
+Hines-WI,1840038063,Hines,Hines,WI,Hines-WI,Wisconsin,55031,Douglas,46.543,-91.9082,,,8.6,point,FALSE,America/Chicago,54874
+Oliver-WI,1840003911,Oliver,Oliver,WI,Oliver-WI,Wisconsin,55031,Douglas,46.6492,-92.1883,400,400,74,polygon,TRUE,America/Chicago,54880
+Prairie du Chien-WI,1840002890,Prairie du Chien,Prairie du Chien,WI,Prairie du Chien-WI,Wisconsin,55023,Crawford,43.044,-91.139,6647,5718,389,polygon,TRUE,America/Chicago,53821
+Martinsville-WI,1840037984,Martinsville,Martinsville,WI,Martinsville-WI,Wisconsin,55025,Dane,43.1803,-89.5901,,,35.4,point,FALSE,America/Chicago,53528
+Tigerton-WI,1840002258,Tigerton,Tigerton,WI,Tigerton-WI,Wisconsin,55115,Shawano,44.7409,-89.0465,716,716,154,polygon,TRUE,America/Chicago,54486
+Clear Lake-WI,1840002053,Clear Lake,Clear Lake,WI,Clear Lake-WI,Wisconsin,55095,Polk,45.2516,-92.2693,1035,1035,137,polygon,TRUE,America/Chicago,54005
+River Hills-WI,1840003048,River Hills,River Hills,WI,River Hills-WI,Wisconsin,55079,Milwaukee,43.1718,-87.9354,1592,1592,120,polygon,TRUE,America/Chicago,53217
+Kimberly-WI,1840002404,Kimberly,Kimberly,WI,Kimberly-WI,Wisconsin,55087,Outagamie,44.267,-88.3382,6739,6739,1112,polygon,TRUE,America/Chicago,54136 54915
+Goodman-WI,1840026081,Goodman,Goodman,WI,Goodman-WI,Wisconsin,55075,Marinette,45.6231,-88.3518,,,227.2,polygon,FALSE,America/Chicago,54125
+Harshaw-WI,1840037956,Harshaw,Harshaw,WI,Harshaw-WI,Wisconsin,55085,Oneida,45.6655,-89.6554,,,12.1,point,FALSE,America/Chicago,54529
+Sun Prairie-WI,1840002902,Sun Prairie,Sun Prairie,WI,Sun Prairie-WI,Wisconsin,55025,Dane,43.1829,-89.2353,32820,32820,1053,polygon,TRUE,America/Chicago,53590 53596
+Big Bend-WI,1840003015,Big Bend,Big Bend,WI,Big Bend-WI,Wisconsin,55133,Waukesha,42.9024,-88.2122,1316,1316,153,polygon,TRUE,America/Chicago,53189 53103
+Ephraim-WI,1840001844,Ephraim,Ephraim,WI,Ephraim-WI,Wisconsin,55029,Door,45.1589,-87.1667,285,285,29,polygon,TRUE,America/Chicago,54211
+Prairie du Sac-WI,1840002726,Prairie du Sac,Prairie du Sac,WI,Prairie du Sac-WI,Wisconsin,55111,Sauk,43.2922,-89.7337,8397,4313,986,polygon,TRUE,America/Chicago,53578
+Oshkosh-WI,1840002246,Oshkosh,Oshkosh,WI,Oshkosh-WI,Wisconsin,55139,Winnebago,44.0242,-88.561,75057,66579,1002,polygon,TRUE,America/Chicago,54985 54904 54901 54902 54903 54906
+Edgewood-WI,1840037941,Edgewood,Edgewood,WI,Edgewood-WI,Wisconsin,55133,Waukesha,43.0625,-88.3018,,,550.9,point,FALSE,America/Chicago,53072
+Evansville-WI,1840002469,Evansville,Evansville,WI,Evansville-WI,Wisconsin,55105,Rock,42.7781,-89.2967,5954,5265,625,polygon,TRUE,America/Chicago,53536
+Marengo-WI,1840026075,Marengo,Marengo,WI,Marengo-WI,Wisconsin,55003,Ashland,46.4221,-90.8081,,,48.4,polygon,FALSE,America/Chicago,54855
+Marshfield-WI,1840002336,Marshfield,Marshfield,WI,Marshfield-WI,Wisconsin,55141,Wood,44.6633,-90.1731,18760,18467,532,polygon,TRUE,America/Chicago,54449 54404 54472
+Ingram-WI,1840024196,Ingram,Ingram,WI,Ingram-WI,Wisconsin,55107,Rusk,45.5056,-90.8137,73,73,28,polygon,TRUE,America/Chicago,54526
+Potter Lake-WI,1840004477,Potter Lake,Potter Lake,WI,Potter Lake-WI,Wisconsin,55127,Walworth,42.8196,-88.3487,,,994.1,polygon,FALSE,America/Chicago,53120
+Winnebago-WI,1840038070,Winnebago,Winnebago,WI,Winnebago-WI,Wisconsin,55139,Winnebago,44.0758,-88.5251,,,210.9,point,FALSE,America/Chicago,54901
+Grafton-WI,1840002823,Grafton,Grafton,WI,Grafton-WI,Wisconsin,55089,Ozaukee,43.3205,-87.9482,11568,11568,889,polygon,TRUE,America/Chicago,53024
+Casco-WI,1840002365,Casco,Casco,WI,Casco-WI,Wisconsin,55061,Kewaunee,44.5557,-87.6197,578,578,334,polygon,TRUE,America/Chicago,54205
+Cudahy-WI,1840003045,Cudahy,Cudahy,WI,Cudahy-WI,Wisconsin,55079,Milwaukee,42.9467,-87.8638,18200,18200,1474,polygon,TRUE,America/Chicago,53110
+Elderon-WI,1840002165,Elderon,Elderon,WI,Elderon-WI,Wisconsin,55073,Marathon,44.7839,-89.2478,180,180,62,polygon,TRUE,America/Chicago,54499 54427 54429
+Sheboygan-WI,1840002628,Sheboygan,Sheboygan,WI,Sheboygan-WI,Wisconsin,55117,Sheboygan,43.7448,-87.7317,70436,48686,1345,polygon,TRUE,America/Chicago,53081 53083 53082
+Bloom City-WI,1840024101,Bloom City,Bloom City,WI,Bloom City-WI,Wisconsin,55103,Richland,43.4944,-90.4649,,,79.2,point,FALSE,America/Chicago,54634
+Stitzer-WI,1840038030,Stitzer,Stitzer,WI,Stitzer-WI,Wisconsin,55043,Grant,42.9267,-90.6232,,,114.9,point,FALSE,America/Chicago,53825
+Caledonia-WI,1840010091,Caledonia,Caledonia,WI,Caledonia-WI,Wisconsin,55101,Racine,42.7987,-87.8763,24910,24910,211,polygon,TRUE,America/Chicago,53405 53404 53406 53402 53126 53108
+Little Sturgeon-WI,1840026085,Little Sturgeon,Little Sturgeon,WI,Little Sturgeon-WI,Wisconsin,55029,Door,44.8422,-87.5743,,,52.4,polygon,FALSE,America/Chicago,54235
+Clearwater Lake-WI,1840037926,Clearwater Lake,Clearwater Lake,WI,Clearwater Lake-WI,Wisconsin,55085,Oneida,45.8536,-89.1882,,,41.2,point,FALSE,America/Chicago,54521
+Black Creek-WI,1840002406,Black Creek,Black Creek,WI,Black Creek-WI,Wisconsin,55087,Outagamie,44.4742,-88.4506,1317,1317,492,polygon,TRUE,America/Chicago,54106
+Kennan-WI,1840002008,Kennan,Kennan,WI,Kennan-WI,Wisconsin,55099,Price,45.53,-90.5868,129,129,25,polygon,TRUE,America/Chicago,54537
+Dellwood-WI,1840025381,Dellwood,Dellwood,WI,Dellwood-WI,Wisconsin,55001,Adams,43.9544,-89.9341,,,21,polygon,FALSE,America/Chicago,53934 54613
+Saint Croix Falls-WI,1840002058,Saint Croix Falls,Saint Croix Falls,WI,Saint Croix Falls-WI,Wisconsin,55095,Polk,45.4101,-92.6268,2061,2061,161,polygon,TRUE,America/Chicago,54024
+Ellison Bay-WI,1840026084,Ellison Bay,Ellison Bay,WI,Ellison Bay-WI,Wisconsin,55029,Door,45.2551,-87.0729,,,66,polygon,FALSE,America/Chicago,54210
+East Troy-WI,1840002484,East Troy,East Troy,WI,East Troy-WI,Wisconsin,55127,Walworth,42.7848,-88.3973,4307,4282,369,polygon,TRUE,America/Chicago,53120
+Wautoma-WI,1840002235,Wautoma,Wautoma,WI,Wautoma-WI,Wisconsin,55137,Waushara,44.0669,-89.2919,2474,2133,306,polygon,TRUE,America/Chicago,54982
+Benton-WI,1840003096,Benton,Benton,WI,Benton-WI,Wisconsin,55065,Lafayette,42.5702,-90.3831,955,955,420,polygon,TRUE,America/Chicago,53803
+Loyal-WI,1840002254,Loyal,Loyal,WI,Loyal-WI,Wisconsin,55019,Clark,44.7366,-90.4958,1240,1240,344,polygon,TRUE,America/Chicago,54446
+Eagleton-WI,1840037940,Eagleton,Eagleton,WI,Eagleton-WI,Wisconsin,55017,Chippewa,45.0602,-91.3893,,,30.1,point,FALSE,America/Chicago,54724
+Thorp-WI,1840002176,Thorp,Thorp,WI,Thorp-WI,Wisconsin,55019,Clark,44.9583,-90.8024,1629,1629,443,polygon,TRUE,America/Chicago,54771
+Menomonee Falls-WI,1840003020,Menomonee Falls,Menomonee Falls,WI,Menomonee Falls-WI,Wisconsin,55133,Waukesha,43.1487,-88.1227,36769,36769,431,polygon,TRUE,America/Chicago,53051 53052
+Leland-WI,1840037973,Leland,Leland,WI,Leland-WI,Wisconsin,55111,Sauk,43.3355,-89.9476,,,7.9,point,FALSE,America/Chicago,53951
+Rock Springs-WI,1840002728,Rock Springs,Rock Springs,WI,Rock Springs-WI,Wisconsin,55111,Sauk,43.479,-89.9177,371,371,110,polygon,TRUE,America/Chicago,53961
+Luck-WI,1840002055,Luck,Luck,WI,Luck-WI,Wisconsin,55095,Polk,45.5718,-92.4667,1073,1073,209,polygon,TRUE,America/Chicago,54853
+Rothschild-WI,1840002172,Rothschild,Rothschild,WI,Rothschild-WI,Wisconsin,55073,Marathon,44.8761,-89.6172,5347,5347,316,polygon,TRUE,America/Chicago,54474 54476
+Riplinger-WI,1840038018,Riplinger,Riplinger,WI,Riplinger-WI,Wisconsin,55019,Clark,44.825,-90.4032,,,27.7,point,FALSE,America/Chicago,54479
+Fall River-WI,1840002706,Fall River,Fall River,WI,Fall River-WI,Wisconsin,55021,Columbia,43.3856,-89.0454,1686,1686,349,polygon,TRUE,America/Chicago,53932
+Lewis-WI,1840025299,Lewis,Lewis,WI,Lewis-WI,Wisconsin,55095,Polk,45.7159,-92.3965,,,57,polygon,FALSE,America/Chicago,54837
+Kingston-WI,1840002589,Kingston,Kingston,WI,Kingston-WI,Wisconsin,55047,Green Lake,43.6932,-89.1306,325,325,95,polygon,TRUE,America/Chicago,53939 53946 53926
+Fennimore-WI,1840002968,Fennimore,Fennimore,WI,Fennimore-WI,Wisconsin,55043,Grant,42.9792,-90.6492,2487,2487,550,polygon,TRUE,America/Chicago,53809
+Weston-WI,1840038093,Weston,Weston,WI,Weston-WI,Wisconsin,55073,Marathon,44.8905,-89.5488,15092,15092,270,polygon,TRUE,America/Chicago,54476
+Mayville-WI,1840002742,Mayville,Mayville,WI,Mayville-WI,Wisconsin,55027,Dodge,43.4987,-88.5469,4922,4941,598,polygon,TRUE,America/Chicago,53050
+Iron Belt-WI,1840025270,Iron Belt,Iron Belt,WI,Iron Belt-WI,Wisconsin,55051,Iron,46.403,-90.3194,,,82.1,polygon,FALSE,America/Chicago,54536
+Marathon-WI,1840037983,Marathon,Marathon,WI,Marathon-WI,Wisconsin,55073,Marathon,44.9345,-89.8402,1507,1507,242,polygon,TRUE,America/Chicago,54448
+Amherst Junction-WI,1840002325,Amherst Junction,Amherst Junction,WI,Amherst Junction-WI,Wisconsin,55097,Portage,44.4686,-89.317,375,375,119,polygon,TRUE,America/Chicago,54407
+Germantown-WI,1840002830,Germantown,Germantown,WI,Germantown-WI,Wisconsin,55131,Washington,43.2343,-88.1217,20027,20027,224,polygon,TRUE,America/Chicago,53076 53022
+Menominee-WI,1840037988,Menominee,Menominee,WI,Menominee-WI,Wisconsin,55033,Dunn,44.8893,-91.9087,18063,16464,464,polygon,TRUE,America/Chicago,54751
+Boyceville-WI,1840000291,Boyceville,Boyceville,WI,Boyceville-WI,Wisconsin,55033,Dunn,45.0428,-92.0388,1097,1097,109,polygon,TRUE,America/Chicago,54725
+Ellsworth-WI,1840002283,Ellsworth,Ellsworth,WI,Ellsworth-WI,Wisconsin,55093,Pierce,44.7364,-92.4807,2775,3229,332,polygon,TRUE,America/Chicago,54010 54011
+Steuben-WI,1840002882,Steuben,Steuben,WI,Steuben-WI,Wisconsin,55023,Crawford,43.1833,-90.8569,128,128,7,polygon,TRUE,America/Chicago,54657
+Brillion-WI,1840002520,Brillion,Brillion,WI,Brillion-WI,Wisconsin,55015,Calumet,44.1755,-88.0708,2947,3127,442,polygon,TRUE,America/Chicago,54110
+New London-WI,1840002361,New London,New London,WI,New London-WI,Wisconsin,55135,Waupaca,44.395,-88.7393,7512,7170,498,polygon,TRUE,America/Chicago,54961
+Hammond-WI,1840002134,Hammond,Hammond,WI,Hammond-WI,Wisconsin,55109,St. Croix,44.9687,-92.4379,1891,1891,339,polygon,TRUE,America/Chicago,54015
+Reedsburg-WI,1840002727,Reedsburg,Reedsburg,WI,Reedsburg-WI,Wisconsin,55111,Sauk,43.5346,-89.9971,9526,9537,645,polygon,TRUE,America/Chicago,53959 53958
+Elkhart Lake-WI,1840002621,Elkhart Lake,Elkhart Lake,WI,Elkhart Lake-WI,Wisconsin,55117,Sheboygan,43.8323,-88.0147,965,965,291,polygon,TRUE,America/Chicago,53020
+North Hudson-WI,1840002139,North Hudson,North Hudson,WI,North Hudson-WI,Wisconsin,55109,St. Croix,44.9971,-92.7563,3817,3817,939,polygon,TRUE,America/Chicago,54016
+Tichigan-WI,1840006920,Tichigan,Tichigan,WI,Tichigan-WI,Wisconsin,55101,Racine,42.8089,-88.2151,,,135.2,polygon,FALSE,America/Chicago,53185
+Port Washington-WI,1840002826,Port Washington,Port Washington,WI,Port Washington-WI,Wisconsin,55089,Ozaukee,43.3847,-87.8851,11642,11642,774,polygon,TRUE,America/Chicago,53074 53024
+Doylestown-WI,1840002709,Doylestown,Doylestown,WI,Doylestown-WI,Wisconsin,55021,Columbia,43.4276,-89.1458,299,299,29,polygon,TRUE,America/Chicago,53960 53928 53925
+Middle Village-WI,1840038094,Middle Village,Middle Village,WI,Middle Village-WI,Wisconsin,55078,Menominee,44.9347,-88.7334,,,0.8,polygon,FALSE,America/Chicago,54135 54150
+Fairwater-WI,1840002602,Fairwater,Fairwater,WI,Fairwater-WI,Wisconsin,55039,Fond du Lac,43.7424,-88.868,366,366,193,polygon,TRUE,America/Chicago,53931 53919
+Drummond-WI,1840026068,Drummond,Drummond,WI,Drummond-WI,Wisconsin,55007,Bayfield,46.3436,-91.25,,,186.5,polygon,FALSE,America/Chicago,54832
+Maiden Rock-WI,1840002286,Maiden Rock,Maiden Rock,WI,Maiden Rock-WI,Wisconsin,55093,Pierce,44.566,-92.3079,120,120,39,polygon,TRUE,America/Chicago,54750
+Sullivan-WI,1840002998,Sullivan,Sullivan,WI,Sullivan-WI,Wisconsin,55055,Jefferson,43.0119,-88.5903,668,668,227,polygon,TRUE,America/Chicago,53178
+Genesee Depot-WI,1840037950,Genesee Depot,Genesee Depot,WI,Genesee Depot-WI,Wisconsin,55133,Waukesha,42.9667,-88.3712,,,280.4,point,FALSE,America/Chicago,53189
+Independence-WI,1840002388,Independence,Independence,WI,Independence-WI,Wisconsin,55121,Trempealeau,44.3622,-91.4188,1337,1337,405,polygon,TRUE,America/Chicago,54747
+Kiel-WI,1840002210,Kiel,Kiel,WI,Kiel-WI,Wisconsin,55071,Manitowoc,43.9167,-88.0266,6841,3700,567,polygon,TRUE,America/Chicago,53042
+Westby-WI,1840002689,Westby,Westby,WI,Westby-WI,Wisconsin,55123,Vernon,43.653,-90.8583,2271,2271,327,polygon,TRUE,America/Chicago,54667
+Mount Horeb-WI,1840002921,Mount Horeb,Mount Horeb,WI,Mount Horeb-WI,Wisconsin,55025,Dane,43.0061,-89.7317,7448,7462,894,polygon,TRUE,America/Chicago,53572
+Lake Wisconsin-WI,1840004203,Lake Wisconsin,Lake Wisconsin,WI,Lake Wisconsin-WI,Wisconsin,55021,Columbia,43.3782,-89.5762,,,528.4,polygon,FALSE,America/Chicago,53955 53555
+Random Lake-WI,1840002627,Random Lake,Random Lake,WI,Random Lake-WI,Wisconsin,55117,Sheboygan,43.5544,-87.9549,1592,1592,455,polygon,TRUE,America/Chicago,53075
+Whitelaw-WI,1840002208,Whitelaw,Whitelaw,WI,Whitelaw-WI,Wisconsin,55071,Manitowoc,44.1452,-87.8281,739,739,543,polygon,TRUE,America/Chicago,54247
+Rib Mountain-WI,1840038097,Rib Mountain,Rib Mountain,WI,Rib Mountain-WI,Wisconsin,55073,Marathon,44.9198,-89.6773,,,57.9,polygon,FALSE,America/Chicago,54401
+Forest Junction-WI,1840023996,Forest Junction,Forest Junction,WI,Forest Junction-WI,Wisconsin,55015,Calumet,44.2139,-88.1496,,,417,polygon,FALSE,America/Chicago,54110 54123 54129
+West Milwaukee-WI,1840003035,West Milwaukee,West Milwaukee,WI,West Milwaukee-WI,Wisconsin,55079,Milwaukee,43.0124,-87.971,4174,4174,1435,polygon,TRUE,America/Chicago,53219 53214 53215
+Liberty Pole-WI,1840037975,Liberty Pole,Liberty Pole,WI,Liberty Pole-WI,Wisconsin,55123,Vernon,43.49,-90.9087,,,7,point,FALSE,America/Chicago,54665
+Camp Douglas-WI,1840002228,Camp Douglas,Camp Douglas,WI,Camp Douglas-WI,Wisconsin,55057,Juneau,43.9197,-90.2699,616,616,234,polygon,TRUE,America/Chicago,54618
+Tomahawk-WI,1840001561,Tomahawk,Tomahawk,WI,Tomahawk-WI,Wisconsin,55069,Lincoln,45.4746,-89.7229,2757,3201,159,polygon,TRUE,America/Chicago,54487
+Dodgeville-WI,1840002959,Dodgeville,Dodgeville,WI,Dodgeville-WI,Wisconsin,55049,Iowa,42.9653,-90.1304,4814,4751,471,polygon,TRUE,America/Chicago,53533 53595
+Benderville-WI,1840037908,Benderville,Benderville,WI,Benderville-WI,Wisconsin,55009,Brown,44.6114,-87.8551,,,66.6,point,FALSE,America/Chicago,54311
+Waubeka-WI,1840024030,Waubeka,Waubeka,WI,Waubeka-WI,Wisconsin,55089,Ozaukee,43.4702,-87.9921,,,251,polygon,FALSE,America/Chicago,53080 53021
+Navarino-WI,1840023922,Navarino,Navarino,WI,Navarino-WI,Wisconsin,55115,Shawano,44.6108,-88.4936,,,54,polygon,FALSE,America/Chicago,54107
+Clam Lake-WI,1840026073,Clam Lake,Clam Lake,WI,Clam Lake-WI,Wisconsin,55003,Ashland,46.1582,-90.9055,,,40.8,polygon,FALSE,America/Chicago,54517
+Trempealeau-WI,1840002385,Trempealeau,Trempealeau,WI,Trempealeau-WI,Wisconsin,55121,Trempealeau,44.0038,-91.4301,1618,1618,334,polygon,TRUE,America/Chicago,54661
+Loganville-WI,1840002722,Loganville,Loganville,WI,Loganville-WI,Wisconsin,55111,Sauk,43.4386,-90.0372,309,309,449,polygon,TRUE,America/Chicago,53943
+Sauk City-WI,1840002729,Sauk City,Sauk City,WI,Sauk City-WI,Wisconsin,55111,Sauk,43.2722,-89.7306,3495,3495,917,polygon,TRUE,America/Chicago,53583
+Fountain City-WI,1840002378,Fountain City,Fountain City,WI,Fountain City-WI,Wisconsin,55011,Buffalo,44.1201,-91.6969,849,849,76,polygon,TRUE,America/Chicago,54629
+Sextonville-WI,1840025442,Sextonville,Sextonville,WI,Sextonville-WI,Wisconsin,55103,Richland,43.2797,-90.2922,,,357.5,polygon,FALSE,America/Chicago,53581 53556 53584
+Pilsen-WI,1840038009,Pilsen,Pilsen,WI,Pilsen-WI,Wisconsin,55061,Kewaunee,44.4436,-87.7251,,,14.5,point,FALSE,America/Chicago,54217
+Oneida-WI,1840038003,Oneida,Oneida,WI,Oneida-WI,Wisconsin,55009,Brown,44.4986,-88.1829,,,253.7,point,FALSE,America/Chicago,54155
+Legend Lake-WI,1840004029,Legend Lake,Legend Lake,WI,Legend Lake-WI,Wisconsin,55078,Menominee,44.8909,-88.544,,,28.5,polygon,FALSE,America/Chicago,54135 54124
+Lomira-WI,1840002740,Lomira,Lomira,WI,Lomira-WI,Wisconsin,55027,Dodge,43.5944,-88.4425,2366,2366,452,polygon,TRUE,America/Chicago,53048
+Dickeyville-WI,1840002975,Dickeyville,Dickeyville,WI,Dickeyville-WI,Wisconsin,55043,Grant,42.6263,-90.5929,1045,1045,459,polygon,TRUE,America/Chicago,53808
+Fall Creek-WI,1840002294,Fall Creek,Fall Creek,WI,Fall Creek-WI,Wisconsin,55035,Eau Claire,44.7639,-91.2783,1306,1306,245,polygon,TRUE,America/Chicago,54742
+Mattoon-WI,1840002265,Mattoon,Mattoon,WI,Mattoon-WI,Wisconsin,55115,Shawano,45.0046,-89.0415,416,416,98,polygon,TRUE,America/Chicago,54450
+Shiocton-WI,1840002401,Shiocton,Shiocton,WI,Shiocton-WI,Wisconsin,55087,Outagamie,44.4449,-88.5767,919,919,226,polygon,TRUE,America/Chicago,54170
+Namekagon-WI,1840038087,Namekagon,Namekagon,WI,Namekagon-WI,Wisconsin,55007,Bayfield,46.2127,-91.0455,,,24,point,FALSE,America/Chicago,54821
+South Milwaukee-WI,1840003032,South Milwaukee,South Milwaukee,WI,South Milwaukee-WI,Wisconsin,55079,Milwaukee,42.9119,-87.8624,21052,21052,1693,polygon,TRUE,America/Chicago,53172
+Astico-WI,1840038073,Astico,Astico,WI,Astico-WI,Wisconsin,55027,Dodge,43.333,-88.9398,,,37.1,point,FALSE,America/Chicago,53925
+Rio-WI,1840002714,Rio,Rio,WI,Rio-WI,Wisconsin,55021,Columbia,43.4498,-89.239,1046,1046,310,polygon,TRUE,America/Chicago,53960
+Menchalville-WI,1840037987,Menchalville,Menchalville,WI,Menchalville-WI,Wisconsin,55071,Manitowoc,44.2258,-87.8823,,,15.1,point,FALSE,America/Chicago,54230
+Elm Grove-WI,1840003011,Elm Grove,Elm Grove,WI,Elm Grove-WI,Wisconsin,55133,Waukesha,43.048,-88.0867,6174,6174,730,polygon,TRUE,America/Chicago,53122
+Marion-WI,1840002360,Marion,Marion,WI,Marion-WI,Wisconsin,55135,Waupaca,44.6743,-88.8902,1207,1207,190,polygon,TRUE,America/Chicago,54950
+Darlington-WI,1840003098,Darlington,Darlington,WI,Darlington-WI,Wisconsin,55065,Lafayette,42.6783,-90.1185,2376,2376,684,polygon,TRUE,America/Chicago,53530
+Daleyville-WI,1840037933,Daleyville,Daleyville,WI,Daleyville-WI,Wisconsin,55025,Dane,42.915,-89.8148,,,36.8,point,FALSE,America/Chicago,53572
+Dalton-WI,1840025401,Dalton,Dalton,WI,Dalton-WI,Wisconsin,55047,Green Lake,43.6562,-89.2069,,,215.8,polygon,FALSE,America/Chicago,53926
+Johnson Creek-WI,1840003002,Johnson Creek,Johnson Creek,WI,Johnson Creek-WI,Wisconsin,55055,Jefferson,43.0812,-88.7701,2899,2939,376,polygon,TRUE,America/Chicago,53038 53094
+Cadott-WI,1840002107,Cadott,Cadott,WI,Cadott-WI,Wisconsin,55017,Chippewa,44.95,-91.1537,1424,1424,166,polygon,TRUE,America/Chicago,54727
+Kekoskee-WI,1840002735,Kekoskee,Kekoskee,WI,Kekoskee-WI,Wisconsin,55027,Dodge,43.5268,-88.5616,157,157,263,polygon,TRUE,America/Chicago,53050
+Mondovi-WI,1840002381,Mondovi,Mondovi,WI,Mondovi-WI,Wisconsin,55011,Buffalo,44.5712,-91.6667,2634,2634,266,polygon,TRUE,America/Chicago,54755
+Springbrook-WI,1840038028,Springbrook,Springbrook,WI,Springbrook-WI,Wisconsin,55129,Washburn,45.9468,-91.689,,,68.9,polygon,FALSE,America/Chicago,54875
+Jackson-WI,1840002832,Jackson,Jackson,WI,Jackson-WI,Wisconsin,55131,Washington,43.3244,-88.1668,6933,6933,861,polygon,TRUE,America/Chicago,53037
+Maribel-WI,1840002214,Maribel,Maribel,WI,Maribel-WI,Wisconsin,55071,Manitowoc,44.2775,-87.8025,342,342,115,polygon,TRUE,America/Chicago,54227
+Fontana-WI,1840038092,Fontana,Fontana,WI,Fontana-WI,Wisconsin,55127,Walworth,42.5514,-88.5751,,,79.5,point,TRUE,America/Chicago,53125
+Tisch Mills-WI,1840038037,Tisch Mills,Tisch Mills,WI,Tisch Mills-WI,Wisconsin,55071,Manitowoc,44.3272,-87.6237,,,72.1,point,FALSE,America/Chicago,54208
+Bayfield-WI,1840003914,Bayfield,Bayfield,WI,Bayfield-WI,Wisconsin,55007,Bayfield,46.8141,-90.8226,475,475,213,polygon,TRUE,America/Chicago,54814
+Francis Creek-WI,1840002211,Francis Creek,Francis Creek,WI,Francis Creek-WI,Wisconsin,55071,Manitowoc,44.2005,-87.7211,648,648,215,polygon,TRUE,America/Chicago,54247 54220 54214
+Unity-WI,1840002177,Unity,Unity,WI,Unity-WI,Wisconsin,55019,Clark,44.8512,-90.313,342,342,132,polygon,TRUE,America/Chicago,54488
+Foster-WI,1840037947,Foster,Foster,WI,Foster-WI,Wisconsin,55035,Eau Claire,44.643,-91.3118,,,80.5,point,FALSE,America/Chicago,54758
+Lohrville-WI,1840002239,Lohrville,Lohrville,WI,Lohrville-WI,Wisconsin,55137,Waushara,44.0383,-89.1202,383,383,120,polygon,TRUE,America/Chicago,54970
+Butler-WI,1840003013,Butler,Butler,WI,Butler-WI,Wisconsin,55133,Waukesha,43.1085,-88.0713,1820,1820,896,polygon,TRUE,America/Chicago,53007
+Leyden-WI,1840037974,Leyden,Leyden,WI,Leyden-WI,Wisconsin,55105,Rock,42.7308,-89.129,,,33.2,point,FALSE,America/Chicago,53548
+Fenwood-WI,1840002167,Fenwood,Fenwood,WI,Fenwood-WI,Wisconsin,55073,Marathon,44.8658,-90.0146,153,153,59,polygon,TRUE,America/Chicago,54426
+Clintonville-WI,1840002358,Clintonville,Clintonville,WI,Clintonville-WI,Wisconsin,55135,Waupaca,44.6221,-88.7514,4330,4405,385,polygon,TRUE,America/Chicago,54929
+Appleton-WI,1840002400,Appleton,Appleton,WI,Appleton-WI,Wisconsin,55087,Outagamie,44.2775,-88.3896,221379,74370,1173,polygon,TRUE,America/Chicago,54914 54915 54913 54911 54912 54919
+Linden-WI,1840002960,Linden,Linden,WI,Linden-WI,Wisconsin,55049,Iowa,42.9185,-90.2742,530,530,263,polygon,TRUE,America/Chicago,53553
+Boaz-WI,1840002817,Boaz,Boaz,WI,Boaz-WI,Wisconsin,55103,Richland,43.3299,-90.5278,151,151,161,polygon,TRUE,America/Chicago,53573 53581
+La Valle-WI,1840002719,La Valle,La Valle,WI,La Valle-WI,Wisconsin,55111,Sauk,43.5831,-90.1304,363,363,353,polygon,TRUE,America/Chicago,53941
+Glen Flora-WI,1840024189,Glen Flora,Glen Flora,WI,Glen Flora-WI,Wisconsin,55107,Rusk,45.497,-90.8935,87,87,59,polygon,TRUE,America/Chicago,54526 54563
+Diamond Bluff-WI,1840025342,Diamond Bluff,Diamond Bluff,WI,Diamond Bluff-WI,Wisconsin,55093,Pierce,44.649,-92.6189,,,18.7,polygon,FALSE,America/Chicago,54014
+Blair-WI,1840002391,Blair,Blair,WI,Blair-WI,Wisconsin,55121,Trempealeau,44.2955,-91.227,1386,1386,467,polygon,TRUE,America/Chicago,54616
+Shullsburg-WI,1840002497,Shullsburg,Shullsburg,WI,Shullsburg-WI,Wisconsin,55065,Lafayette,42.5732,-90.2321,1209,1209,419,polygon,TRUE,America/Chicago,53586
+Oregon-WI,1840002922,Oregon,Oregon,WI,Oregon-WI,Wisconsin,55025,Dane,42.9252,-89.3887,12297,10264,912,polygon,TRUE,America/Chicago,53575
+Brookfield-WI,1840003012,Brookfield,Brookfield,WI,Brookfield-WI,Wisconsin,55133,Waukesha,43.064,-88.1231,38016,38016,538,polygon,TRUE,America/Chicago,53005 53045 53008
+Walworth-WI,1840002475,Walworth,Walworth,WI,Walworth-WI,Wisconsin,55127,Walworth,42.5312,-88.5967,4416,2838,711,polygon,TRUE,America/Chicago,53184
+Boulder Junction-WI,1840025276,Boulder Junction,Boulder Junction,WI,Boulder Junction-WI,Wisconsin,55125,Vilas,46.1126,-89.6452,,,91.6,polygon,FALSE,America/Chicago,54512
+Berlin-WI,1840002590,Berlin,Berlin,WI,Berlin-WI,Wisconsin,55047,Green Lake,43.9706,-88.9503,4777,5395,360,polygon,TRUE,America/Chicago,54923
+Cambria-WI,1840002707,Cambria,Cambria,WI,Cambria-WI,Wisconsin,55021,Columbia,43.5416,-89.111,756,756,296,polygon,TRUE,America/Chicago,53923
+Chief Lake-WI,1840004012,Chief Lake,Chief Lake,WI,Chief Lake-WI,Wisconsin,55113,Sawyer,45.9213,-91.3312,,,5.2,polygon,FALSE,America/Chicago,54843 54828
+West Salem-WI,1840002575,West Salem,West Salem,WI,West Salem-WI,Wisconsin,55063,La Crosse,43.8989,-91.0881,4967,4967,561,polygon,TRUE,America/Chicago,54669
+Barneveld-WI,1840002957,Barneveld,Barneveld,WI,Barneveld-WI,Wisconsin,55049,Iowa,43.0118,-89.8972,1226,1226,243,polygon,TRUE,America/Chicago,53507
+Jim Falls-WI,1840025318,Jim Falls,Jim Falls,WI,Jim Falls-WI,Wisconsin,55017,Chippewa,45.0474,-91.2711,,,228.6,polygon,FALSE,America/Chicago,54748
+Monticello-WI,1840002465,Monticello,Monticello,WI,Monticello-WI,Wisconsin,55045,Green,42.7455,-89.5899,1220,1220,396,polygon,TRUE,America/Chicago,53570
+King-WI,1840023955,King,King,WI,King-WI,Wisconsin,55135,Waupaca,44.34,-89.1231,,,1818.2,polygon,FALSE,America/Chicago,54946 54981
+Soldiers Grove-WI,1840002881,Soldiers Grove,Soldiers Grove,WI,Soldiers Grove-WI,Wisconsin,55023,Crawford,43.3921,-90.7735,552,552,59,polygon,TRUE,America/Chicago,54655
+Franksville-WI,1840037949,Franksville,Franksville,WI,Franksville-WI,Wisconsin,55101,Racine,42.76,-87.9134,,,487.8,point,FALSE,America/Chicago,53126
+Spring Valley-WI,1840002282,Spring Valley,Spring Valley,WI,Spring Valley-WI,Wisconsin,55093,Pierce,44.8501,-92.2435,1348,1348,123,polygon,TRUE,America/Chicago,54767
+Ashippun-WI,1840025434,Ashippun,Ashippun,WI,Ashippun-WI,Wisconsin,55027,Dodge,43.2131,-88.5181,,,256.4,polygon,FALSE,America/Chicago,53066 53036 53003
+South Superior-WI,1840038026,South Superior,South Superior,WI,South Superior-WI,Wisconsin,55031,Douglas,46.6694,-92.0952,,,624.6,point,FALSE,America/Chicago,54880
+Edgar-WI,1840002169,Edgar,Edgar,WI,Edgar-WI,Wisconsin,55073,Marathon,44.9227,-89.9627,1454,1454,309,polygon,TRUE,America/Chicago,54426
+Cochrane-WI,1840002380,Cochrane,Cochrane,WI,Cochrane-WI,Wisconsin,55011,Buffalo,44.2281,-91.8391,419,419,206,polygon,TRUE,America/Chicago,54622
+Dousman-WI,1840003018,Dousman,Dousman,WI,Dousman-WI,Wisconsin,55133,Waukesha,43.0075,-88.4771,2317,2317,353,polygon,TRUE,America/Chicago,53118
+Chain O' Lakes-WI,1840023954,Chain O' Lakes,Chain O' Lakes,WI,Chain O' Lakes-WI,Wisconsin,55135,Waupaca,44.3319,-89.167,,,203.5,polygon,FALSE,America/Chicago,54981
+Nekoosa-WI,1840002338,Nekoosa,Nekoosa,WI,Nekoosa-WI,Wisconsin,55141,Wood,44.3134,-89.9073,2443,2443,278,polygon,TRUE,America/Chicago,54457
+Hollandale-WI,1840002956,Hollandale,Hollandale,WI,Hollandale-WI,Wisconsin,55049,Iowa,42.8756,-89.9342,288,288,161,polygon,TRUE,America/Chicago,53544
+Dane-WI,1840002912,Dane,Dane,WI,Dane-WI,Wisconsin,55025,Dane,43.2501,-89.4998,1125,1125,379,polygon,TRUE,America/Chicago,53529
+Cottage Grove-WI,1840002910,Cottage Grove,Cottage Grove,WI,Cottage Grove-WI,Wisconsin,55025,Dane,43.0913,-89.2023,6996,6996,699,polygon,TRUE,America/Chicago,53527
+Friendship-WI,1840002233,Friendship,Friendship,WI,Friendship-WI,Wisconsin,55001,Adams,43.972,-89.8203,659,659,284,polygon,TRUE,America/Chicago,53934
+Borth-WI,1840038059,Borth,Borth,WI,Borth-WI,Wisconsin,55137,Waushara,44.0911,-88.8959,,,22.8,point,FALSE,America/Chicago,54923
+Cornucopia-WI,1840026067,Cornucopia,Cornucopia,WI,Cornucopia-WI,Wisconsin,55007,Bayfield,46.8567,-91.1083,,,66,polygon,FALSE,America/Chicago,54827
+Krakow-WI,1840023911,Krakow,Krakow,WI,Krakow-WI,Wisconsin,55115,Shawano,44.7585,-88.2611,,,151.3,polygon,FALSE,America/Chicago,54137
+Cushing-WI,1840037931,Cushing,Cushing,WI,Cushing-WI,Wisconsin,55095,Polk,45.5705,-92.651,,,88.4,point,FALSE,America/Chicago,54006
+Arpin-WI,1840002330,Arpin,Arpin,WI,Arpin-WI,Wisconsin,55141,Wood,44.5394,-90.0319,320,320,146,polygon,TRUE,America/Chicago,54410
+Adell-WI,1840002622,Adell,Adell,WI,Adell-WI,Wisconsin,55117,Sheboygan,43.6214,-87.9481,520,520,359,polygon,TRUE,America/Chicago,53001
+Stratford-WI,1840002162,Stratford,Stratford,WI,Stratford-WI,Wisconsin,55073,Marathon,44.8009,-90.0723,1571,1571,114,polygon,TRUE,America/Chicago,54484
+Glidden-WI,1840026074,Glidden,Glidden,WI,Glidden-WI,Wisconsin,55003,Ashland,46.1346,-90.5721,,,233.2,polygon,FALSE,America/Chicago,54527
+Vesper-WI,1840002332,Vesper,Vesper,WI,Vesper-WI,Wisconsin,55141,Wood,44.4805,-89.9675,554,554,184,polygon,TRUE,America/Chicago,54489
+Stetsonville-WI,1840001568,Stetsonville,Stetsonville,WI,Stetsonville-WI,Wisconsin,55119,Taylor,45.0772,-90.3143,522,522,516,polygon,TRUE,America/Chicago,54480
+Tunnel City-WI,1840024275,Tunnel City,Tunnel City,WI,Tunnel City-WI,Wisconsin,55081,Monroe,44.005,-90.5679,,,118.8,polygon,FALSE,America/Chicago,54660 54662
+Lancaster-WI,1840002969,Lancaster,Lancaster,WI,Lancaster-WI,Wisconsin,55043,Grant,42.8473,-90.7064,3585,3760,478,polygon,TRUE,America/Chicago,53813
+Saint Francis-WI,1840003049,Saint Francis,Saint Francis,WI,Saint Francis-WI,Wisconsin,55079,Milwaukee,42.9716,-87.873,9466,9466,1431,polygon,TRUE,America/Chicago,53235
+Reserve-WI,1840004011,Reserve,Reserve,WI,Reserve-WI,Wisconsin,55113,Sawyer,45.8338,-91.3544,,,152.7,polygon,FALSE,America/Chicago,54876 54828
+Rockdale-WI,1840002923,Rockdale,Rockdale,WI,Rockdale-WI,Wisconsin,55025,Dane,42.9717,-89.0317,221,221,307,polygon,TRUE,America/Chicago,53523
+Elcho-WI,1840025302,Elcho,Elcho,WI,Elcho-WI,Wisconsin,55067,Langlade,45.4355,-89.1852,,,253,polygon,FALSE,America/Chicago,54428
+Muscoda-WI,1840002979,Muscoda,Muscoda,WI,Muscoda-WI,Wisconsin,55043,Grant,43.1873,-90.4338,1249,1249,329,polygon,TRUE,America/Chicago,53573
+Sheboygan Falls-WI,1840002629,Sheboygan Falls,Sheboygan Falls,WI,Sheboygan Falls-WI,Wisconsin,55117,Sheboygan,43.7289,-87.8262,7824,7824,572,polygon,TRUE,America/Chicago,53085
+Camp Lake-WI,1840004538,Camp Lake,Camp Lake,WI,Camp Lake-WI,Wisconsin,55059,Kenosha,42.5279,-88.1437,,,174.8,polygon,FALSE,America/Chicago,53168 53179 53109
+Lake Delton-WI,1840002718,Lake Delton,Lake Delton,WI,Lake Delton-WI,Wisconsin,55111,Sauk,43.5937,-89.7842,5585,2974,156,polygon,TRUE,America/Chicago,53965 53913 53940
+Sherwood-WI,1840002247,Sherwood,Sherwood,WI,Sherwood-WI,Wisconsin,55015,Calumet,44.1765,-88.2756,2886,2886,322,polygon,TRUE,America/Chicago,54952 54169
+Argonne-WI,1840025284,Argonne,Argonne,WI,Argonne-WI,Wisconsin,55041,Forest,45.6582,-88.8777,,,172.2,polygon,FALSE,America/Chicago,54511
+Solon Springs-WI,1840003909,Solon Springs,Solon Springs,WI,Solon Springs-WI,Wisconsin,55031,Douglas,46.3495,-91.8208,600,600,147,polygon,TRUE,America/Chicago,54873
+Cobb-WI,1840002958,Cobb,Cobb,WI,Cobb-WI,Wisconsin,55049,Iowa,42.9664,-90.3289,461,461,214,polygon,TRUE,America/Chicago,53526
+Leopolis-WI,1840023921,Leopolis,Leopolis,WI,Leopolis-WI,Wisconsin,55115,Shawano,44.7659,-88.8446,,,91.1,polygon,FALSE,America/Chicago,54948
+Eagle River-WI,1840001982,Eagle River,Eagle River,WI,Eagle River-WI,Wisconsin,55125,Vilas,45.925,-89.2566,1419,1419,179,polygon,TRUE,America/Chicago,54521
+Prentice-WI,1840002012,Prentice,Prentice,WI,Prentice-WI,Wisconsin,55099,Price,45.5408,-90.2895,619,619,120,polygon,TRUE,America/Chicago,54556
+Lily-WI,1840038080,Lily,Lily,WI,Lily-WI,Wisconsin,55067,Langlade,45.3069,-88.854,,,40.5,point,FALSE,America/Chicago,54491
+Lake Five-WI,1840037970,Lake Five,Lake Five,WI,Lake Five-WI,Wisconsin,55133,Waukesha,43.1925,-88.2709,,,139.5,point,FALSE,America/Chicago,53017
+West Baraboo-WI,1840002716,West Baraboo,West Baraboo,WI,West Baraboo-WI,Wisconsin,55111,Sauk,43.4815,-89.7719,1442,1442,466,polygon,TRUE,America/Chicago,53913
+De Pere-WI,1840002348,De Pere,De Pere,WI,De Pere-WI,Wisconsin,55009,Brown,44.4312,-88.0795,24893,24893,817,polygon,TRUE,America/Chicago,54115
+Stoughton-WI,1840002901,Stoughton,Stoughton,WI,Stoughton-WI,Wisconsin,55025,Dane,42.9237,-89.2219,13134,13134,886,polygon,TRUE,America/Chicago,53589
+Loyd-WI,1840037978,Loyd,Loyd,WI,Loyd-WI,Wisconsin,55103,Richland,43.423,-90.2429,,,34.1,point,FALSE,America/Chicago,53924
+North Prairie-WI,1840003026,North Prairie,North Prairie,WI,North Prairie-WI,Wisconsin,55133,Waukesha,42.9357,-88.4035,2198,2198,302,polygon,TRUE,America/Chicago,53153
+Plat-WI,1840038011,Plat,Plat,WI,Plat-WI,Wisconsin,55131,Washington,43.2078,-88.2809,,,121.8,point,FALSE,America/Chicago,53017
+Fish Creek-WI,1840037946,Fish Creek,Fish Creek,WI,Fish Creek-WI,Wisconsin,55029,Door,45.1278,-87.2471,,,42,point,FALSE,America/Chicago,54212
+Brooklyn-WI,1840002461,Brooklyn,Brooklyn,WI,Brooklyn-WI,Wisconsin,55045,Green,42.8525,-89.3723,1450,1450,503,polygon,TRUE,America/Chicago,53521
+Waterville-WI,1840038047,Waterville,Waterville,WI,Waterville-WI,Wisconsin,55133,Waukesha,43.02,-88.4382,,,128,point,FALSE,America/Chicago,53066
+Dotyville-WI,1840037938,Dotyville,Dotyville,WI,Dotyville-WI,Wisconsin,55039,Fond du Lac,43.7522,-88.2609,,,49.3,point,FALSE,America/Chicago,53057
+Conrath-WI,1840024171,Conrath,Conrath,WI,Conrath-WI,Wisconsin,55107,Rusk,45.3842,-91.0357,92,92,68,polygon,TRUE,America/Chicago,54731
+Footville-WI,1840002470,Footville,Footville,WI,Footville-WI,Wisconsin,55105,Rock,42.6715,-89.2084,803,803,276,polygon,TRUE,America/Chicago,53548 53537
+Couderay-WI,1840001999,Couderay,Couderay,WI,Couderay-WI,Wisconsin,55113,Sawyer,45.7977,-91.3005,87,87,34,polygon,TRUE,America/Chicago,54828
+Fairchild-WI,1840002293,Fairchild,Fairchild,WI,Fairchild-WI,Wisconsin,55035,Eau Claire,44.6036,-90.9577,579,579,153,polygon,TRUE,America/Chicago,54741
+Princeton-WI,1840002593,Princeton,Princeton,WI,Princeton-WI,Wisconsin,55047,Green Lake,43.8528,-89.1305,1175,1175,295,polygon,TRUE,America/Chicago,54968
+Schofield-WI,1840002173,Schofield,Schofield,WI,Schofield-WI,Wisconsin,55073,Marathon,44.9152,-89.6146,2189,2189,482,polygon,TRUE,America/Chicago,54476
+West Allis-WI,1840003034,West Allis,West Allis,WI,West Allis-WI,Wisconsin,55079,Milwaukee,43.0068,-88.0296,60087,60087,2037,polygon,TRUE,America/Chicago,53219 53214 53227
+Stevenstown-WI,1840038029,Stevenstown,Stevenstown,WI,Stevenstown-WI,Wisconsin,55063,La Crosse,44.0364,-91.1715,,,30.4,point,FALSE,America/Chicago,54636
+High Bridge-WI,1840037959,High Bridge,High Bridge,WI,High Bridge-WI,Wisconsin,55003,Ashland,46.3888,-90.7363,,,22.3,point,FALSE,America/Chicago,54846
+Livingston-WI,1840002976,Livingston,Livingston,WI,Livingston-WI,Wisconsin,55043,Grant,42.9001,-90.4337,647,647,244,polygon,TRUE,America/Chicago,53554
+Readstown-WI,1840002697,Readstown,Readstown,WI,Readstown-WI,Wisconsin,55123,Vernon,43.4485,-90.759,417,417,94,polygon,TRUE,America/Chicago,54652
+Butte des Morts-WI,1840025388,Butte des Morts,Butte des Morts,WI,Butte des Morts-WI,Wisconsin,55139,Winnebago,44.1059,-88.6566,,,843.8,polygon,FALSE,America/Chicago,54927 54986 54904
+Monches-WI,1840037993,Monches,Monches,WI,Monches-WI,Wisconsin,55133,Waukesha,43.1911,-88.3437,,,64.9,point,FALSE,America/Chicago,53029
+Oostburg-WI,1840002625,Oostburg,Oostburg,WI,Oostburg-WI,Wisconsin,55117,Sheboygan,43.6238,-87.7891,2816,2985,592,polygon,TRUE,America/Chicago,53070
+New Post-WI,1840004010,New Post,New Post,WI,New Post-WI,Wisconsin,55113,Sawyer,45.8965,-91.193,,,57.1,polygon,FALSE,America/Chicago,54843 54828
+Tomah-WI,1840002566,Tomah,Tomah,WI,Tomah-WI,Wisconsin,55081,Monroe,43.9882,-90.4996,9311,9405,483,polygon,TRUE,America/Chicago,54660
+Big Falls-WI,1840002357,Big Falls,Big Falls,WI,Big Falls-WI,Wisconsin,55135,Waupaca,44.6174,-89.0166,61,61,49,polygon,TRUE,America/Chicago,54950 54486 54926
+Marshall-WI,1840002917,Marshall,Marshall,WI,Marshall-WI,Wisconsin,55025,Dane,43.1726,-89.0614,3909,3938,715,polygon,TRUE,America/Chicago,53559
+Potosi-WI,1840002982,Potosi,Potosi,WI,Potosi-WI,Wisconsin,55043,Grant,42.6875,-90.7108,675,675,158,polygon,TRUE,America/Chicago,53820
+Saint Peter-WI,1840024009,Saint Peter,Saint Peter,WI,Saint Peter-WI,Wisconsin,55039,Fond du Lac,43.8377,-88.3465,,,276.9,polygon,FALSE,America/Chicago,53049 54937
+Downsville-WI,1840025322,Downsville,Downsville,WI,Downsville-WI,Wisconsin,55033,Dunn,44.771,-91.9258,,,54,polygon,FALSE,America/Chicago,54751
+Altoona-WI,1840002295,Altoona,Altoona,WI,Altoona-WI,Wisconsin,55035,Eau Claire,44.8029,-91.4387,7489,7489,616,polygon,TRUE,America/Chicago,54720
+Niagara-WI,1840003931,Niagara,Niagara,WI,Niagara-WI,Wisconsin,55075,Marinette,45.7802,-87.9992,1572,1572,220,polygon,TRUE,America/Menominee,54151
+Harrison-WI,1840038103,Harrison,Harrison,WI,Harrison-WI,Wisconsin,55015,Calumet,44.2265,-88.3312,9561,9561,792,polygon,TRUE,America/Chicago,54952 54915
+Cleveland-WI,1840002212,Cleveland,Cleveland,WI,Cleveland-WI,Wisconsin,55071,Manitowoc,43.9177,-87.7469,1460,1460,284,polygon,TRUE,America/Chicago,53015
+Rockfield-WI,1840038019,Rockfield,Rockfield,WI,Rockfield-WI,Wisconsin,55131,Washington,43.2575,-88.1262,,,195.3,point,FALSE,America/Chicago,53076
+Mercer-WI,1840025271,Mercer,Mercer,WI,Mercer-WI,Wisconsin,55051,Iron,46.1637,-90.0528,,,232.1,polygon,FALSE,America/Chicago,54547
+Holmen-WI,1840002576,Holmen,Holmen,WI,Holmen-WI,Wisconsin,55063,La Crosse,43.9697,-91.2686,9628,9628,658,polygon,TRUE,America/Chicago,54636 54650
+Werley-WI,1840038069,Werley,Werley,WI,Werley-WI,Wisconsin,55043,Grant,43.0194,-90.7654,,,6.7,point,FALSE,America/Chicago,53809
+Allouez-WI,1840002346,Allouez,Allouez,WI,Allouez-WI,Wisconsin,55009,Brown,44.472,-88.0261,13896,13896,1163,polygon,TRUE,America/Chicago,54307 54301
+Spread Eagle-WI,1840038027,Spread Eagle,Spread Eagle,WI,Spread Eagle-WI,Wisconsin,55037,Florence,45.8819,-88.1399,,,33.1,point,FALSE,America/Chicago,54121
+Hustisford-WI,1840002732,Hustisford,Hustisford,WI,Hustisford-WI,Wisconsin,55027,Dodge,43.3459,-88.6051,1096,1096,469,polygon,TRUE,America/Chicago,53034
+Cumberland-WI,1840002072,Cumberland,Cumberland,WI,Cumberland-WI,Wisconsin,55005,Barron,45.5362,-92.0263,2135,2135,238,polygon,TRUE,America/Chicago,54829
+Arnott-WI,1840037904,Arnott,Arnott,WI,Arnott-WI,Wisconsin,55097,Portage,44.4572,-89.4468,,,16.1,point,FALSE,America/Chicago,54482
+Maple Bluff-WI,1840002916,Maple Bluff,Maple Bluff,WI,Maple Bluff-WI,Wisconsin,55025,Dane,43.1131,-89.3717,1339,1339,737,polygon,TRUE,America/Chicago,53704
+Barronett-WI,1840025301,Barronett,Barronett,WI,Barronett-WI,Wisconsin,55005,Barron,45.6363,-91.9943,,,147,polygon,FALSE,America/Chicago,54813
+Athens-WI,1840002160,Athens,Athens,WI,Athens-WI,Wisconsin,55073,Marathon,45.0346,-90.0791,1092,1092,171,polygon,TRUE,America/Chicago,54411
+Iron River-WI,1840026071,Iron River,Iron River,WI,Iron River-WI,Wisconsin,55007,Bayfield,46.5671,-91.4069,,,124.6,polygon,FALSE,America/Chicago,54847
+Yuba-WI,1840002816,Yuba,Yuba,WI,Yuba-WI,Wisconsin,55103,Richland,43.5364,-90.4267,72,72,91,polygon,TRUE,America/Chicago,54634
+Pulaski-WI,1840002349,Pulaski,Pulaski,WI,Pulaski-WI,Wisconsin,55009,Brown,44.6684,-88.2354,3368,3544,486,polygon,TRUE,America/Chicago,54162
+Pearson-WI,1840038005,Pearson,Pearson,WI,Pearson-WI,Wisconsin,55067,Langlade,45.3641,-89.0165,,,15.1,point,FALSE,America/Chicago,54462
+Wisconsin Dells-WI,1840002703,Wisconsin Dells,Wisconsin Dells,WI,Wisconsin Dells-WI,Wisconsin,55021,Columbia,43.6338,-89.7756,2808,2808,139,polygon,TRUE,America/Chicago,53965
+Viola-WI,1840002815,Viola,Viola,WI,Viola-WI,Wisconsin,55103,Richland,43.507,-90.6734,672,672,260,polygon,TRUE,America/Chicago,54664
+Cassville-WI,1840002973,Cassville,Cassville,WI,Cassville-WI,Wisconsin,55043,Grant,42.7156,-90.989,920,920,346,polygon,TRUE,America/Chicago,53806
+Scandinavia-WI,1840002363,Scandinavia,Scandinavia,WI,Scandinavia-WI,Wisconsin,55135,Waupaca,44.4608,-89.146,364,364,160,polygon,TRUE,America/Chicago,54977
+Fox Point-WI,1840003042,Fox Point,Fox Point,WI,Fox Point-WI,Wisconsin,55079,Milwaukee,43.1582,-87.9015,6691,6691,889,polygon,TRUE,America/Chicago,53217
+Lowell-WI,1840002741,Lowell,Lowell,WI,Lowell-WI,Wisconsin,55027,Dodge,43.3363,-88.8184,322,322,124,polygon,TRUE,America/Chicago,53557
+Valley-WI,1840038042,Valley,Valley,WI,Valley-WI,Wisconsin,55123,Vernon,43.6416,-90.5418,,,18.5,point,FALSE,America/Chicago,54639
+Abrams-WI,1840025311,Abrams,Abrams,WI,Abrams-WI,Wisconsin,55083,Oconto,44.7796,-88.0605,,,192.2,polygon,FALSE,America/Chicago,54101
+Cable-WI,1840026066,Cable,Cable,WI,Cable-WI,Wisconsin,55007,Bayfield,46.2013,-91.2933,,,102.7,polygon,FALSE,America/Chicago,54821
+West Bend-WI,1840002829,West Bend,West Bend,WI,West Bend-WI,Wisconsin,55131,Washington,43.4184,-88.1823,69810,31702,812,polygon,TRUE,America/Chicago,53090 53095
+Woodruff-WI,1840025295,Woodruff,Woodruff,WI,Woodruff-WI,Wisconsin,55085,Oneida,45.8946,-89.6911,,,458.3,polygon,FALSE,America/Chicago,54568
+Mount Hope-WI,1840002978,Mount Hope,Mount Hope,WI,Mount Hope-WI,Wisconsin,55043,Grant,42.9696,-90.8591,224,224,275,polygon,TRUE,America/Chicago,53816
+Lannon-WI,1840003014,Lannon,Lannon,WI,Lannon-WI,Wisconsin,55133,Waukesha,43.1521,-88.1601,1143,1143,180,polygon,TRUE,America/Chicago,53046
+Lynxville-WI,1840002888,Lynxville,Lynxville,WI,Lynxville-WI,Wisconsin,55023,Crawford,43.2493,-91.0464,129,129,36,polygon,TRUE,America/Chicago,54626 54640
+Galesville-WI,1840002387,Galesville,Galesville,WI,Galesville-WI,Wisconsin,55121,Trempealeau,44.0834,-91.3583,1537,1537,432,polygon,TRUE,America/Chicago,54630
+Fairview-WI,1840037945,Fairview,Fairview,WI,Fairview-WI,Wisconsin,55023,Crawford,43.368,-90.9429,,,9.2,point,FALSE,America/Chicago,54628
+Blue River-WI,1840002971,Blue River,Blue River,WI,Blue River-WI,Wisconsin,55043,Grant,43.1851,-90.5715,417,417,201,polygon,TRUE,America/Chicago,53518
+Embarrass-WI,1840000310,Embarrass,Embarrass,WI,Embarrass-WI,Wisconsin,55135,Waupaca,44.6685,-88.7036,389,389,128,polygon,TRUE,America/Chicago,54929 54933
+Combined Locks-WI,1840002407,Combined Locks,Combined Locks,WI,Combined Locks-WI,Wisconsin,55087,Outagamie,44.2642,-88.3065,3577,3577,810,polygon,TRUE,America/Chicago,54113
+Waukesha-WI,1840003008,Waukesha,Waukesha,WI,Waukesha-WI,Wisconsin,55133,Waukesha,43.0088,-88.2462,72363,72363,1101,polygon,TRUE,America/Chicago,53186 53188 53189 53187
+Pickett-WI,1840038008,Pickett,Pickett,WI,Pickett-WI,Wisconsin,55139,Winnebago,43.9114,-88.7298,,,48.1,point,FALSE,America/Chicago,54964
+Alma-WI,1840002379,Alma,Alma,WI,Alma-WI,Wisconsin,55011,Buffalo,44.3365,-91.9223,721,721,53,polygon,TRUE,America/Chicago,54622 54610
+Institute-WI,1840037961,Institute,Institute,WI,Institute-WI,Wisconsin,55029,Door,44.8933,-87.287,,,27.7,point,FALSE,America/Chicago,54235
+Bear Creek-WI,1840002405,Bear Creek,Bear Creek,WI,Bear Creek-WI,Wisconsin,55087,Outagamie,44.5313,-88.7275,433,433,181,polygon,TRUE,America/Chicago,54922
+Thiensville-WI,1840002821,Thiensville,Thiensville,WI,Thiensville-WI,Wisconsin,55089,Ozaukee,43.2361,-87.9784,3179,3179,1183,polygon,TRUE,America/Chicago,53092
+Howards Grove-WI,1840002619,Howards Grove,Howards Grove,WI,Howards Grove-WI,Wisconsin,55117,Sheboygan,43.8264,-87.8234,3261,3261,545,polygon,TRUE,America/Chicago,53083
+Iron Ridge-WI,1840002733,Iron Ridge,Iron Ridge,WI,Iron Ridge-WI,Wisconsin,55027,Dodge,43.3982,-88.5321,898,898,513,polygon,TRUE,America/Chicago,53035
+Polonia-WI,1840025355,Polonia,Polonia,WI,Polonia-WI,Wisconsin,55097,Portage,44.5756,-89.4118,,,171.8,polygon,FALSE,America/Chicago,54473 54423
+Bristol-WI,1840037916,Bristol,Bristol,WI,Bristol-WI,Wisconsin,55059,Kenosha,42.5378,-88.015,5008,5008,58,polygon,TRUE,America/Chicago,53142 53104 53102 53194
+Mosinee-WI,1840002171,Mosinee,Mosinee,WI,Mosinee-WI,Wisconsin,55073,Marathon,44.7869,-89.6837,4012,4012,198,polygon,TRUE,America/Chicago,54455
+Glendale-WI,1840003037,Glendale,Glendale,WI,Glendale-WI,Wisconsin,55079,Milwaukee,43.1289,-87.9277,12779,12779,853,polygon,TRUE,America/Chicago,53209 53217 53212
+Monroe-WI,1840002464,Monroe,Monroe,WI,Monroe-WI,Wisconsin,55045,Green,42.601,-89.6437,10777,10723,861,polygon,TRUE,America/Chicago,53566
+Eureka-WI,1840025389,Eureka,Eureka,WI,Eureka-WI,Wisconsin,55139,Winnebago,44.0072,-88.8426,,,128.4,polygon,FALSE,America/Chicago,54963 54934
+Bluffview-WI,1840025433,Bluffview,Bluffview,WI,Bluffview-WI,Wisconsin,55111,Sauk,43.3641,-89.773,,,911.2,polygon,FALSE,America/Chicago,53951
+Whiting-WI,1840002321,Whiting,Whiting,WI,Whiting-WI,Wisconsin,55097,Portage,44.4906,-89.5603,1721,1721,373,polygon,TRUE,America/Chicago,54481
+Two Rivers-WI,1840002206,Two Rivers,Two Rivers,WI,Two Rivers-WI,Wisconsin,55071,Manitowoc,44.1565,-87.5824,11261,11261,715,polygon,TRUE,America/Chicago,54241
+Wisconsin Rapids-WI,1840002333,Wisconsin Rapids,Wisconsin Rapids,WI,Wisconsin Rapids-WI,Wisconsin,55141,Wood,44.393,-89.8262,28406,17887,497,polygon,TRUE,America/Chicago,54495 54494
+Whitehall-WI,1840002386,Whitehall,Whitehall,WI,Whitehall-WI,Wisconsin,55121,Trempealeau,44.3654,-91.3276,1606,1606,221,polygon,TRUE,America/Chicago,54773
+Gresham-WI,1840002260,Gresham,Gresham,WI,Gresham-WI,Wisconsin,55115,Shawano,44.8476,-88.7849,567,567,191,polygon,TRUE,America/Chicago,54128
+Mount Calvary-WI,1840002606,Mount Calvary,Mount Calvary,WI,Mount Calvary-WI,Wisconsin,55039,Fond du Lac,43.8263,-88.2461,743,743,272,polygon,TRUE,America/Chicago,53057
+Maine-WI,1840038104,Maine,Maine,WI,Maine-WI,Wisconsin,55073,Marathon,45.0272,-89.6904,2355,2355,19.9,point,TRUE,America/Chicago,54401
+Chetek-WI,1840002071,Chetek,Chetek,WI,Chetek-WI,Wisconsin,55005,Barron,45.3159,-91.6533,2756,2164,344,polygon,TRUE,America/Chicago,54728
+Pulcifer-WI,1840023924,Pulcifer,Pulcifer,WI,Pulcifer-WI,Wisconsin,55115,Shawano,44.8476,-88.3592,,,38.2,polygon,FALSE,America/Chicago,54111 54124
+Minocqua-WI,1840025293,Minocqua,Minocqua,WI,Minocqua-WI,Wisconsin,55085,Oneida,45.8788,-89.7033,,,375.3,polygon,FALSE,America/Chicago,54548
+Milwaukee-WI,1840003046,Milwaukee,Milwaukee,WI,Milwaukee-WI,Wisconsin,55079,Milwaukee,43.064,-87.9669,1377104,595047,2388,polygon,TRUE,America/Chicago,53203 53202 53207 53206 53205 53204 53209 53208 53233 53211 53218 53219 53214 53215 53216 53210 53212 53213 53295 53225 53224 53227 53226 53221 53220 53223 53222 53228 53201 53234 53237 53259 53263 53274 53278 53288 53290 53293
+Washburn-WI,1840003913,Washburn,Washburn,WI,Washburn-WI,Wisconsin,55007,Bayfield,46.6769,-90.9016,2045,2045,202,polygon,TRUE,America/Chicago,54891
+Randolph-WI,1840002744,Randolph,Randolph,WI,Randolph-WI,Wisconsin,55021,Columbia,43.5395,-89.0027,1767,1767,555,polygon,TRUE,America/Chicago,53956 53957
+Algoma-WI,1840001567,Algoma,Algoma,WI,Algoma-WI,Wisconsin,55061,Kewaunee,44.6057,-87.4465,3002,3098,488,polygon,TRUE,America/Chicago,54201
+Nelson-WI,1840002382,Nelson,Nelson,WI,Nelson-WI,Wisconsin,55011,Buffalo,44.4214,-92.0045,347,347,100,polygon,TRUE,America/Chicago,54756
+Pigeon Falls-WI,1840002393,Pigeon Falls,Pigeon Falls,WI,Pigeon Falls-WI,Wisconsin,55121,Trempealeau,44.4249,-91.2088,414,414,334,polygon,TRUE,America/Chicago,54773 54760 54758
+Albany-WI,1840002463,Albany,Albany,WI,Albany-WI,Wisconsin,55045,Green,42.7069,-89.4367,1011,1011,307,polygon,TRUE,America/Chicago,53502
+Ogdensburg-WI,1840002362,Ogdensburg,Ogdensburg,WI,Ogdensburg-WI,Wisconsin,55135,Waupaca,44.4535,-89.0316,181,181,72,polygon,TRUE,America/Chicago,54962
+Mount Sterling-WI,1840002889,Mount Sterling,Mount Sterling,WI,Mount Sterling-WI,Wisconsin,55023,Crawford,43.3163,-90.9292,206,206,55,polygon,TRUE,America/Chicago,54631 54645
+Stonebank-WI,1840038031,Stonebank,Stonebank,WI,Stonebank-WI,Wisconsin,55133,Waukesha,43.1425,-88.4107,,,193.2,point,FALSE,America/Chicago,53066
+Spring Green-WI,1840002715,Spring Green,Spring Green,WI,Spring Green-WI,Wisconsin,55111,Sauk,43.1776,-90.0688,1652,1652,381,polygon,TRUE,America/Chicago,53588
+Sheldon-WI,1840002076,Sheldon,Sheldon,WI,Sheldon-WI,Wisconsin,55107,Rusk,45.3119,-90.9567,222,222,129,polygon,TRUE,America/Chicago,54766
+Antigo-WI,1840001565,Antigo,Antigo,WI,Antigo-WI,Wisconsin,55067,Langlade,45.1409,-89.1551,7791,7864,464,polygon,TRUE,America/Chicago,54409
+Colby-WI,1840002251,Colby,Colby,WI,Colby-WI,Wisconsin,55019,Clark,44.912,-90.316,1831,1831,448,polygon,TRUE,America/Chicago,54421
+Cooksville-WI,1840037929,Cooksville,Cooksville,WI,Cooksville-WI,Wisconsin,55105,Rock,42.8353,-89.2407,,,89.8,point,FALSE,America/Chicago,53536
+Tilleda-WI,1840023926,Tilleda,Tilleda,WI,Tilleda-WI,Wisconsin,55115,Shawano,44.8154,-88.9124,,,110.4,polygon,FALSE,America/Chicago,54416 54128
+Bloomington-WI,1840002970,Bloomington,Bloomington,WI,Bloomington-WI,Wisconsin,55043,Grant,42.8929,-90.9259,715,715,215,polygon,TRUE,America/Chicago,53804
+Browntown-WI,1840002462,Browntown,Browntown,WI,Browntown-WI,Wisconsin,55045,Green,42.5788,-89.7895,281,281,102,polygon,TRUE,America/Chicago,53522
+Bellevue-WI,1840000308,Bellevue,Bellevue,WI,Bellevue-WI,Wisconsin,55009,Brown,44.4592,-87.9553,15524,15524,416,polygon,TRUE,America/Chicago,54311 54115
+Custer-WI,1840037932,Custer,Custer,WI,Custer-WI,Wisconsin,55097,Portage,44.5105,-89.4262,,,51.4,point,FALSE,America/Chicago,54423
+Auburndale-WI,1840002331,Auburndale,Auburndale,WI,Auburndale-WI,Wisconsin,55141,Wood,44.6267,-90.0143,666,666,121,polygon,TRUE,America/Chicago,54412
+Glenwood City-WI,1840002133,Glenwood City,Glenwood City,WI,Glenwood City-WI,Wisconsin,55109,St. Croix,45.057,-92.1712,1219,1219,189,polygon,TRUE,America/Chicago,54013
+Richwood-WI,1840038016,Richwood,Richwood,WI,Richwood-WI,Wisconsin,55027,Dodge,43.2414,-88.7832,,,23.5,point,FALSE,America/Chicago,53098
+Van Dyne-WI,1840025421,Van Dyne,Van Dyne,WI,Van Dyne-WI,Wisconsin,55039,Fond du Lac,43.8862,-88.5012,,,220.4,polygon,FALSE,America/Chicago,54979
+Downing-WI,1840002145,Downing,Downing,WI,Downing-WI,Wisconsin,55033,Dunn,45.0497,-92.1243,270,270,35,polygon,TRUE,America/Chicago,54734
+Foxboro-WI,1840037948,Foxboro,Foxboro,WI,Foxboro-WI,Wisconsin,55031,Douglas,46.4986,-92.288,,,4.7,point,FALSE,America/Chicago,54836
+Mequon-WI,1840037989,Mequon,Mequon,WI,Mequon-WI,Wisconsin,55089,Ozaukee,43.2352,-87.9838,24086,24086,200,polygon,TRUE,America/Chicago,53097 53092
+Post Lake-WI,1840025303,Post Lake,Post Lake,WI,Post Lake-WI,Wisconsin,55067,Langlade,45.4351,-89.0921,,,13.2,polygon,FALSE,America/Chicago,54428
+Catawba-WI,1840002009,Catawba,Catawba,WI,Catawba-WI,Wisconsin,55099,Price,45.5371,-90.5335,105,105,9,polygon,TRUE,America/Chicago,54515
+Three Lakes-WI,1840025294,Three Lakes,Three Lakes,WI,Three Lakes-WI,Wisconsin,55085,Oneida,45.8048,-89.1708,,,200.9,polygon,FALSE,America/Chicago,54562
+Greenwood-WI,1840002250,Greenwood,Greenwood,WI,Greenwood-WI,Wisconsin,55019,Clark,44.7655,-90.5995,1015,1015,141,polygon,TRUE,America/Chicago,54437
+Nashotah-WI,1840003024,Nashotah,Nashotah,WI,Nashotah-WI,Wisconsin,55133,Waukesha,43.0939,-88.4039,1389,1389,321,polygon,TRUE,America/Chicago,53058
+Boscobel-WI,1840002972,Boscobel,Boscobel,WI,Boscobel-WI,Wisconsin,55043,Grant,43.1431,-90.6965,3178,3150,405,polygon,TRUE,America/Chicago,53805
+Shorewood Hills-WI,1840002900,Shorewood Hills,Shorewood Hills,WI,Shorewood Hills-WI,Wisconsin,55025,Dane,43.0788,-89.4467,2038,2038,977,polygon,TRUE,America/Chicago,53705 53792
+Cashton-WI,1840002571,Cashton,Cashton,WI,Cashton-WI,Wisconsin,55081,Monroe,43.7411,-90.7869,1101,1101,340,polygon,TRUE,America/Chicago,54619
+Roberts-WI,1840002140,Roberts,Roberts,WI,Roberts-WI,Wisconsin,55109,St. Croix,44.9733,-92.5507,1682,1682,256,polygon,TRUE,America/Chicago,54023
+Tonet-WI,1840038038,Tonet,Tonet,WI,Tonet-WI,Wisconsin,55061,Kewaunee,44.5892,-87.7337,,,22,point,FALSE,America/Chicago,54217
+Ridgeland-WI,1840002147,Ridgeland,Ridgeland,WI,Ridgeland-WI,Wisconsin,55033,Dunn,45.2022,-91.8975,282,282,255,polygon,TRUE,America/Chicago,54763
+Fort Atkinson-WI,1840003004,Fort Atkinson,Fort Atkinson,WI,Fort Atkinson-WI,Wisconsin,55055,Jefferson,42.9253,-88.8443,21399,12541,855,polygon,TRUE,America/Chicago,53538
+Hertel-WI,1840037958,Hertel,Hertel,WI,Hertel-WI,Wisconsin,55013,Burnett,45.8086,-92.1752,,,45.3,point,FALSE,America/Chicago,54845
+Big Spring-WI,1840037909,Big Spring,Big Spring,WI,Big Spring-WI,Wisconsin,55001,Adams,43.6694,-89.6437,,,25.7,point,FALSE,America/Chicago,53965
+Moquah-WI,1840038082,Moquah,Moquah,WI,Moquah-WI,Wisconsin,55007,Bayfield,46.5705,-91.0832,,,6.9,point,FALSE,America/Chicago,54806
+Weyauwega-WI,1840002354,Weyauwega,Weyauwega,WI,Weyauwega-WI,Wisconsin,55135,Waupaca,44.3237,-88.9332,1839,1839,452,polygon,TRUE,America/Chicago,54983
+Oconto Falls-WI,1840001576,Oconto Falls,Oconto Falls,WI,Oconto Falls-WI,Wisconsin,55083,Oconto,44.8739,-88.1442,2568,2834,398,polygon,TRUE,America/Chicago,54154
+Dyckesville-WI,1840025359,Dyckesville,Dyckesville,WI,Dyckesville-WI,Wisconsin,55009,Brown,44.6404,-87.7656,,,290.4,polygon,FALSE,America/Chicago,54217
+Black River Falls-WI,1840002397,Black River Falls,Black River Falls,WI,Black River Falls-WI,Wisconsin,55053,Jackson,44.2981,-90.8418,5563,3550,333,polygon,TRUE,America/Chicago,54615
+Menasha-WI,1840002243,Menasha,Menasha,WI,Menasha-WI,Wisconsin,55139,Winnebago,44.2129,-88.4272,17856,17856,1143,polygon,TRUE,America/Chicago,54952
+Mole Lake-WI,1840026104,Mole Lake,Mole Lake,WI,Mole Lake-WI,Wisconsin,55041,Forest,45.4859,-88.9823,,,28.6,polygon,FALSE,America/Chicago,54520
+Pepin-WI,1840002352,Pepin,Pepin,WI,Pepin-WI,Wisconsin,55091,Pepin,44.4424,-92.1485,793,793,435,polygon,TRUE,America/Chicago,54759
+Belmont-WI,1840003095,Belmont,Belmont,WI,Belmont-WI,Wisconsin,55065,Lafayette,42.738,-90.3347,982,982,433,polygon,TRUE,America/Chicago,53510
+Grand Marsh-WI,1840025382,Grand Marsh,Grand Marsh,WI,Grand Marsh-WI,Wisconsin,55001,Adams,43.8852,-89.7072,,,84.5,polygon,FALSE,America/Chicago,53936
+Coon Valley-WI,1840002694,Coon Valley,Coon Valley,WI,Coon Valley-WI,Wisconsin,55123,Vernon,43.7024,-91.0112,788,788,274,polygon,TRUE,America/Chicago,54623
+Lublin-WI,1840001570,Lublin,Lublin,WI,Lublin-WI,Wisconsin,55119,Taylor,45.075,-90.7236,116,116,29,polygon,TRUE,America/Chicago,54447
+London-WI,1840037977,London,London,WI,London-WI,Wisconsin,55025,Dane,43.0478,-89.0129,,,184.2,point,FALSE,America/Chicago,53523
+Sturgeon Bay-WI,1840003935,Sturgeon Bay,Sturgeon Bay,WI,Sturgeon Bay-WI,Wisconsin,55029,Door,44.8228,-87.366,8396,8910,350,polygon,TRUE,America/Chicago,54235
+Pelican Lake-WI,1840038006,Pelican Lake,Pelican Lake,WI,Pelican Lake-WI,Wisconsin,55085,Oneida,45.4994,-89.1668,,,56.6,point,FALSE,America/Chicago,54463
+Elmwood-WI,1840002284,Elmwood,Elmwood,WI,Elmwood-WI,Wisconsin,55093,Pierce,44.7799,-92.1492,804,804,205,polygon,TRUE,America/Chicago,54740
+Potter-WI,1840002523,Potter,Potter,WI,Potter-WI,Wisconsin,55015,Calumet,44.1203,-88.0992,245,245,187,polygon,TRUE,America/Chicago,54110 54160
+Sheridan-WI,1840038022,Sheridan,Sheridan,WI,Sheridan-WI,Wisconsin,55135,Waupaca,44.3958,-89.1982,,,31.6,point,FALSE,America/Chicago,54981
+Brandon-WI,1840002601,Brandon,Brandon,WI,Brandon-WI,Wisconsin,55039,Fond du Lac,43.7352,-88.7819,856,856,436,polygon,TRUE,America/Chicago,53919
+Okauchee-WI,1840038002,Okauchee,Okauchee,WI,Okauchee-WI,Wisconsin,55133,Waukesha,43.1136,-88.4359,,,851.9,point,FALSE,America/Chicago,53069
+North Freedom-WI,1840002724,North Freedom,North Freedom,WI,North Freedom-WI,Wisconsin,55111,Sauk,43.459,-89.8603,706,706,325,polygon,TRUE,America/Chicago,53951
+Merrillan-WI,1840002399,Merrillan,Merrillan,WI,Merrillan-WI,Wisconsin,55053,Jackson,44.4504,-90.8355,531,531,161,polygon,TRUE,America/Chicago,54754
+Melrose-WI,1840002398,Melrose,Melrose,WI,Melrose-WI,Wisconsin,55053,Jackson,44.1316,-90.997,491,491,236,polygon,TRUE,America/Chicago,54642
+Wales-WI,1840003007,Wales,Wales,WI,Wales-WI,Wisconsin,55133,Waukesha,43.0043,-88.374,2582,2582,304,polygon,TRUE,America/Chicago,53183
+White Creek-WI,1840038052,White Creek,White Creek,WI,White Creek-WI,Wisconsin,55001,Adams,43.8258,-89.8548,,,58.3,point,FALSE,America/Chicago,53965
+Newald-WI,1840025286,Newald,Newald,WI,Newald-WI,Wisconsin,55041,Forest,45.7396,-88.7004,,,96.2,polygon,FALSE,America/Chicago,54511
+Luxemburg-WI,1840002366,Luxemburg,Luxemburg,WI,Luxemburg-WI,Wisconsin,55061,Kewaunee,44.5448,-87.7065,2557,2557,427,polygon,TRUE,America/Chicago,54217
+Zoar-WI,1840006753,Zoar,Zoar,WI,Zoar-WI,Wisconsin,55078,Menominee,45.0178,-88.8945,,,8.8,polygon,FALSE,America/Chicago,54150
+Prairie Farm-WI,1840002074,Prairie Farm,Prairie Farm,WI,Prairie Farm-WI,Wisconsin,55005,Barron,45.2368,-91.9804,443,443,177,polygon,TRUE,America/Chicago,54762
+Glenbeulah-WI,1840002618,Glenbeulah,Glenbeulah,WI,Glenbeulah-WI,Wisconsin,55117,Sheboygan,43.7983,-88.0469,456,456,261,polygon,TRUE,America/Chicago,53073 53023
+Barron-WI,1840002069,Barron,Barron,WI,Barron-WI,Wisconsin,55005,Barron,45.4016,-91.8472,3183,3311,444,polygon,TRUE,America/Chicago,54812
+Blue Mounds-WI,1840002908,Blue Mounds,Blue Mounds,WI,Blue Mounds-WI,Wisconsin,55025,Dane,43.0177,-89.8268,951,951,416,polygon,TRUE,America/Chicago,53517
+Patch Grove-WI,1840002980,Patch Grove,Patch Grove,WI,Patch Grove-WI,Wisconsin,55043,Grant,42.9404,-90.9723,199,199,195,polygon,TRUE,America/Chicago,53817 53804
+Markesan-WI,1840002591,Markesan,Markesan,WI,Markesan-WI,Wisconsin,55047,Green Lake,43.7097,-88.9907,1410,1410,233,polygon,TRUE,America/Chicago,53946
+Jump River-WI,1840025308,Jump River,Jump River,WI,Jump River-WI,Wisconsin,55119,Taylor,45.3555,-90.7966,,,35.9,polygon,FALSE,America/Chicago,54766 54434
+Knowles-WI,1840037968,Knowles,Knowles,WI,Knowles-WI,Wisconsin,55027,Dodge,43.5728,-88.5043,,,45.7,point,FALSE,America/Chicago,53048
+Euren-WI,1840037944,Euren,Euren,WI,Euren-WI,Wisconsin,55061,Kewaunee,44.6183,-87.6023,,,13.4,point,FALSE,America/Chicago,54205
+Northwoods Beach-WI,1840038001,Northwoods Beach,Northwoods Beach,WI,Northwoods Beach-WI,Wisconsin,55113,Sawyer,45.9141,-91.4035,,,144.8,point,FALSE,America/Chicago,54843
+Mason-WI,1840003915,Mason,Mason,WI,Mason-WI,Wisconsin,55007,Bayfield,46.4354,-91.06,91,91,48,polygon,TRUE,America/Chicago,54856
+Oakfield-WI,1840002608,Oakfield,Oakfield,WI,Oakfield-WI,Wisconsin,55039,Fond du Lac,43.6843,-88.5476,1072,1072,422,polygon,TRUE,America/Chicago,53065
+Bryant-WI,1840037918,Bryant,Bryant,WI,Bryant-WI,Wisconsin,55067,Langlade,45.208,-89.024,,,8.9,point,FALSE,America/Chicago,54418
+Birnamwood-WI,1840002262,Birnamwood,Birnamwood,WI,Birnamwood-WI,Wisconsin,55115,Shawano,44.9318,-89.2094,795,795,138,polygon,TRUE,America/Chicago,54414
+Arcadia-WI,1840002383,Arcadia,Arcadia,WI,Arcadia-WI,Wisconsin,55121,Trempealeau,44.2494,-91.4948,3127,3057,410,polygon,TRUE,America/Chicago,54612
+Alma Center-WI,1840002396,Alma Center,Alma Center,WI,Alma Center-WI,Wisconsin,55053,Jackson,44.437,-90.9128,494,494,189,polygon,TRUE,America/Chicago,54611
+Eden-WI,1840002605,Eden,Eden,WI,Eden-WI,Wisconsin,55039,Fond du Lac,43.6928,-88.3642,857,857,551,polygon,TRUE,America/Chicago,53019
+Whitefish Bay-WI,1840003036,Whitefish Bay,Whitefish Bay,WI,Whitefish Bay-WI,Wisconsin,55079,Milwaukee,43.1132,-87.9004,13972,13972,2537,polygon,TRUE,America/Chicago,53211 53217
+Jericho-WI,1840037963,Jericho,Jericho,WI,Jericho-WI,Wisconsin,55133,Waukesha,42.8783,-88.4229,,,137.3,point,FALSE,America/Chicago,53119
+Neosho-WI,1840002743,Neosho,Neosho,WI,Neosho-WI,Wisconsin,55027,Dodge,43.3101,-88.5192,553,553,408,polygon,TRUE,America/Chicago,53059
+Lena-WI,1840000277,Lena,Lena,WI,Lena-WI,Wisconsin,55083,Oconto,44.9528,-88.0481,545,545,203,polygon,TRUE,America/Chicago,54139
+Tennyson-WI,1840002965,Tennyson,Tennyson,WI,Tennyson-WI,Wisconsin,55043,Grant,42.6907,-90.6869,352,352,326,polygon,TRUE,America/Chicago,53820
+Pence-WI,1840025272,Pence,Pence,WI,Pence-WI,Wisconsin,55051,Iron,46.4103,-90.2695,,,96.6,polygon,FALSE,America/Chicago,54550
+Cascade-WI,1840002623,Cascade,Cascade,WI,Cascade-WI,Wisconsin,55117,Sheboygan,43.6598,-88.0072,697,697,331,polygon,TRUE,America/Chicago,53011
+Range-WI,1840038014,Range,Range,WI,Range-WI,Wisconsin,55095,Polk,45.3955,-92.2846,,,50.7,point,FALSE,America/Chicago,54001
+Deer Park-WI,1840002137,Deer Park,Deer Park,WI,Deer Park-WI,Wisconsin,55109,St. Croix,45.1885,-92.3876,218,218,90,polygon,TRUE,America/Chicago,54007
+Albertville-WI,1840037901,Albertville,Albertville,WI,Albertville-WI,Wisconsin,55017,Chippewa,44.96,-91.6004,,,14.6,point,FALSE,America/Chicago,54730
+Brownsville-WI,1840002736,Brownsville,Brownsville,WI,Brownsville-WI,Wisconsin,55027,Dodge,43.6144,-88.4952,583,583,371,polygon,TRUE,America/Chicago,53006
+Waunakee-WI,1840002904,Waunakee,Waunakee,WI,Waunakee-WI,Wisconsin,55025,Dane,43.183,-89.4426,13607,13607,761,polygon,TRUE,America/Chicago,53597
+Kendall-WI,1840002570,Kendall,Kendall,WI,Kendall-WI,Wisconsin,55081,Monroe,43.7926,-90.3677,473,473,238,polygon,TRUE,America/Chicago,54638
+Madison-WI,1840002915,Madison,Madison,WI,Madison-WI,Wisconsin,55025,Dane,43.0809,-89.3921,434967,252551,1268,polygon,TRUE,America/Chicago,53706 53704 53705 53703 53714 53726 53792 53719 53718 53715 53717 53716 53711 53713 53701 53707 53708 53725 53744 53774 53777 53778 53779 53782 53783 53784 53785 53786 53788 53789 53790 53791 53793 53794
+Taylor-WI,1840002394,Taylor,Taylor,WI,Taylor-WI,Wisconsin,55053,Jackson,44.3217,-91.1205,472,472,249,polygon,TRUE,America/Chicago,54659
+Brule-WI,1840026064,Brule,Brule,WI,Brule-WI,Wisconsin,55031,Douglas,46.5589,-91.5708,,,62.5,polygon,FALSE,America/Chicago,54820
+Oak Creek-WI,1840003047,Oak Creek,Oak Creek,WI,Oak Creek-WI,Wisconsin,55079,Milwaukee,42.8803,-87.9008,35881,35881,486,polygon,TRUE,America/Chicago,53154
+Wayside-WI,1840038049,Wayside,Wayside,WI,Wayside-WI,Wisconsin,55009,Brown,44.2553,-87.9526,,,73.2,point,FALSE,America/Chicago,54126
+Wausau-WI,1840002163,Wausau,Wausau,WI,Wausau-WI,Wisconsin,55073,Marathon,44.9616,-89.6439,74186,38872,795,polygon,TRUE,America/Chicago,54401 54403 54402
+Shawano-WI,1840002266,Shawano,Shawano,WI,Shawano-WI,Wisconsin,55115,Shawano,44.7749,-88.5843,10242,9054,531,polygon,TRUE,America/Chicago,54166
+Meridean-WI,1840037990,Meridean,Meridean,WI,Meridean-WI,Wisconsin,55033,Dunn,44.738,-91.791,,,11.1,point,FALSE,America/Chicago,54755
+Bangor-WI,1840002578,Bangor,Bangor,WI,Bangor-WI,Wisconsin,55063,La Crosse,43.8919,-90.9889,1483,1483,462,polygon,TRUE,America/Chicago,54614
+Ashwaubenon-WI,1840002342,Ashwaubenon,Ashwaubenon,WI,Ashwaubenon-WI,Wisconsin,55009,Brown,44.4796,-88.089,17274,17274,538,polygon,TRUE,America/Chicago,54313 54115 54304
+Amherst-WI,1840002324,Amherst,Amherst,WI,Amherst-WI,Wisconsin,55097,Portage,44.4473,-89.2833,1046,1046,308,polygon,TRUE,America/Chicago,54406
+Cameron-WI,1840002070,Cameron,Cameron,WI,Cameron-WI,Wisconsin,55005,Barron,45.4059,-91.7427,1791,1791,268,polygon,TRUE,America/Chicago,54822
+Summit Lake-WI,1840025304,Summit Lake,Summit Lake,WI,Summit Lake-WI,Wisconsin,55067,Langlade,45.3759,-89.2045,,,94.3,polygon,FALSE,America/Chicago,54485 54424
+Knowlton-WI,1840025323,Knowlton,Knowlton,WI,Knowlton-WI,Wisconsin,55073,Marathon,44.7189,-89.6803,,,100.5,polygon,FALSE,America/Chicago,54455
+Delavan Lake-WI,1840004479,Delavan Lake,Delavan Lake,WI,Delavan Lake-WI,Wisconsin,55127,Walworth,42.5987,-88.6177,,,748.4,polygon,FALSE,America/Chicago,53115
+Angelica-WI,1840023918,Angelica,Angelica,WI,Angelica-WI,Wisconsin,55115,Shawano,44.675,-88.3215,,,21.7,polygon,FALSE,America/Chicago,54162
+Hawkins-WI,1840002080,Hawkins,Hawkins,WI,Hawkins-WI,Wisconsin,55107,Rusk,45.5114,-90.7148,282,282,49,polygon,TRUE,America/Chicago,54530
+Brown Deer-WI,1840003041,Brown Deer,Brown Deer,WI,Brown Deer-WI,Wisconsin,55079,Milwaukee,43.1743,-87.975,12011,12011,1054,polygon,TRUE,America/Chicago,53209 53223
+Dallas-WI,1840002073,Dallas,Dallas,WI,Dallas-WI,Wisconsin,55005,Barron,45.259,-91.8142,394,394,104,polygon,TRUE,America/Chicago,54733
+Cornell-WI,1840002109,Cornell,Cornell,WI,Cornell-WI,Wisconsin,55017,Chippewa,45.1632,-91.1498,1426,1426,145,polygon,TRUE,America/Chicago,54732
+Oconto-WI,1840001575,Oconto,Oconto,WI,Oconto-WI,Wisconsin,55083,Oconto,44.8918,-87.8693,4225,4463,251,polygon,TRUE,America/Chicago,54153
+Postville-WI,1840038012,Postville,Postville,WI,Postville-WI,Wisconsin,55045,Green,42.7992,-89.7529,,,22,point,FALSE,America/Chicago,53516
+Arkansaw-WI,1840025358,Arkansaw,Arkansaw,WI,Arkansaw-WI,Wisconsin,55091,Pepin,44.6334,-92.0221,,,161.6,polygon,FALSE,America/Chicago,54721
+Prescott-WI,1840002288,Prescott,Prescott,WI,Prescott-WI,Wisconsin,55093,Pierce,44.7522,-92.7882,4124,4229,630,polygon,TRUE,America/Chicago,54021
+South Wayne-WI,1840002498,South Wayne,South Wayne,WI,South Wayne-WI,Wisconsin,55065,Lafayette,42.5669,-89.876,475,475,231,polygon,TRUE,America/Chicago,53587
+Cross Plains-WI,1840002911,Cross Plains,Cross Plains,WI,Cross Plains-WI,Wisconsin,55025,Dane,43.1147,-89.6479,4148,4148,951,polygon,TRUE,America/Chicago,53528
+Brokaw-WI,1840002166,Brokaw,Brokaw,WI,Brokaw-WI,Wisconsin,55073,Marathon,45.0272,-89.6578,251,251,90,polygon,TRUE,America/Chicago,54401 54403 54417
+Dundas-WI,1840037939,Dundas,Dundas,WI,Dundas-WI,Wisconsin,55015,Calumet,44.2342,-88.1984,,,23.4,point,FALSE,America/Chicago,54130
+Saxon-WI,1840025273,Saxon,Saxon,WI,Saxon-WI,Wisconsin,55051,Iron,46.494,-90.4098,,,59.5,polygon,FALSE,America/Chicago,54559
+Ada-WI,1840037900,Ada,Ada,WI,Ada-WI,Wisconsin,55117,Sheboygan,43.8769,-87.8956,,,39.2,point,FALSE,America/Chicago,53020
+Brantwood-WI,1840037913,Brantwood,Brantwood,WI,Brantwood-WI,Wisconsin,55099,Price,45.5627,-90.1151,,,3.8,point,FALSE,America/Chicago,54513
+Crivitz-WI,1840003929,Crivitz,Crivitz,WI,Crivitz-WI,Wisconsin,55075,Marinette,45.2337,-88.0066,957,957,232,polygon,TRUE,America/Chicago,54114
+Pella-WI,1840023923,Pella,Pella,WI,Pella-WI,Wisconsin,55115,Shawano,44.7426,-88.8225,,,41,polygon,FALSE,America/Chicago,54950
+Calamine-WI,1840037920,Calamine,Calamine,WI,Calamine-WI,Wisconsin,55065,Lafayette,42.7425,-90.1621,,,23.6,point,FALSE,America/Chicago,53565
+French Island-WI,1840004157,French Island,French Island,WI,French Island-WI,Wisconsin,55063,La Crosse,43.8591,-91.2614,,,1327.2,polygon,FALSE,America/Chicago,54603
+Racine-WI,1840002493,Racine,Racine,WI,Racine-WI,Wisconsin,55101,Racine,42.7274,-87.8135,131517,77571,1933,polygon,TRUE,America/Chicago,53405 53404 53406 53403 53402 53401 53407 53408
+Richfield-WI,1840002835,Richfield,Richfield,WI,Richfield-WI,Wisconsin,55131,Washington,43.2372,-88.2413,11622,11622,124,polygon,TRUE,America/Chicago,53076 53033 53017
+Osseo-WI,1840002392,Osseo,Osseo,WI,Osseo-WI,Wisconsin,55121,Trempealeau,44.5793,-91.2116,1696,1696,309,polygon,TRUE,America/Chicago,54758
+Redgranite-WI,1840002241,Redgranite,Redgranite,WI,Redgranite-WI,Wisconsin,55137,Waushara,44.051,-89.1053,2123,2123,359,polygon,TRUE,America/Chicago,54970
+Waupun-WI,1840002600,Waupun,Waupun,WI,Waupun-WI,Wisconsin,55039,Fond du Lac,43.6314,-88.7379,11366,11333,940,polygon,TRUE,America/Chicago,53963
+Esofea-WI,1840037943,Esofea,Esofea,WI,Esofea-WI,Wisconsin,55123,Vernon,43.6311,-90.9632,,,13.6,point,FALSE,America/Chicago,54667
+Campia-WI,1840037921,Campia,Campia,WI,Campia-WI,Wisconsin,55005,Barron,45.5375,-91.6657,,,19.6,point,FALSE,America/Chicago,54868
+Humbird-WI,1840025325,Humbird,Humbird,WI,Humbird-WI,Wisconsin,55019,Clark,44.5295,-90.8857,,,266.9,polygon,FALSE,America/Chicago,54746
+Stoddard-WI,1840002687,Stoddard,Stoddard,WI,Stoddard-WI,Wisconsin,55123,Vernon,43.6623,-91.218,826,826,511,polygon,TRUE,America/Chicago,54658
+Lake Mills-WI,1840003003,Lake Mills,Lake Mills,WI,Lake Mills-WI,Wisconsin,55055,Jefferson,43.0775,-88.9041,6728,5836,553,polygon,TRUE,America/Chicago,53551
+Bonduel-WI,1840002263,Bonduel,Bonduel,WI,Bonduel-WI,Wisconsin,55115,Shawano,44.7382,-88.4474,1450,1450,239,polygon,TRUE,America/Chicago,54107
+McFarland-WI,1840002914,McFarland,McFarland,WI,McFarland-WI,Wisconsin,55025,Dane,43.0192,-89.2922,8320,8320,932,polygon,TRUE,America/Chicago,53558
+Como-WI,1840004478,Como,Como,WI,Como-WI,Wisconsin,55127,Walworth,42.6114,-88.4914,,,634.6,polygon,FALSE,America/Chicago,53147
+Superior-WI,1840038034,Superior,Superior,WI,Superior-WI,Wisconsin,55031,Douglas,46.694,-92.0823,26475,26475,276,polygon,TRUE,America/Chicago,54880
+Chili-WI,1840025324,Chili,Chili,WI,Chili-WI,Wisconsin,55019,Clark,44.6296,-90.3582,,,108.7,polygon,FALSE,America/Chicago,54420
+Dexterville-WI,1840037937,Dexterville,Dexterville,WI,Dexterville-WI,Wisconsin,55141,Wood,44.3764,-90.1107,,,49.6,point,FALSE,America/Chicago,54495
+North Cape-WI,1840024226,North Cape,North Cape,WI,North Cape-WI,Wisconsin,55101,Racine,42.7786,-88.0709,,,55.1,point,FALSE,America/Chicago,53126
+Shell Lake-WI,1840002001,Shell Lake,Shell Lake,WI,Shell Lake-WI,Wisconsin,55129,Washburn,45.7323,-91.9033,1325,1325,88,polygon,TRUE,America/Chicago,54871
+Milladore-WI,1840002337,Milladore,Milladore,WI,Milladore-WI,Wisconsin,55141,Wood,44.6057,-89.8548,272,272,102,polygon,TRUE,America/Chicago,54454
+Green Bay-WI,1840002344,Green Bay,Green Bay,WI,Green Bay-WI,Wisconsin,55009,Brown,44.5151,-87.9895,208670,105139,893,polygon,TRUE,America/Chicago,54311 54302 54304 54303 54301 54305 54306 54308 54324 54344
+Waldo-WI,1840002617,Waldo,Waldo,WI,Waldo-WI,Wisconsin,55117,Sheboygan,43.6766,-87.9482,500,500,204,polygon,TRUE,America/Chicago,53093
+Ettrick-WI,1840002390,Ettrick,Ettrick,WI,Ettrick-WI,Wisconsin,55121,Trempealeau,44.1701,-91.2657,517,517,286,polygon,TRUE,America/Chicago,54627
+Knapp-WI,1840002142,Knapp,Knapp,WI,Knapp-WI,Wisconsin,55033,Dunn,44.9514,-92.0771,457,457,111,polygon,TRUE,America/Chicago,54749
+Hurley-WI,1840001952,Hurley,Hurley,WI,Hurley-WI,Wisconsin,55051,Iron,46.4465,-90.1991,1461,1461,164,polygon,TRUE,America/Menominee,54534
+Red Cliff-WI,1840038015,Red Cliff,Red Cliff,WI,Red Cliff-WI,Wisconsin,55007,Bayfield,46.8555,-90.788,,,130.6,point,FALSE,America/Chicago,54814
+Osceola-WI,1840002057,Osceola,Osceola,WI,Osceola-WI,Wisconsin,55095,Polk,45.3193,-92.6936,3522,2517,237,polygon,TRUE,America/Chicago,54020
+Mellen-WI,1840003918,Mellen,Mellen,WI,Mellen-WI,Wisconsin,55003,Ashland,46.3239,-90.6607,696,696,144,polygon,TRUE,America/Chicago,54546
+Belleville-WI,1840002906,Belleville,Belleville,WI,Belleville-WI,Wisconsin,55025,Dane,42.8643,-89.5402,2430,2430,591,polygon,TRUE,America/Chicago,53508
+Franklin-WI,1840003043,Franklin,Franklin,WI,Franklin-WI,Wisconsin,55079,Milwaukee,42.8854,-88.0104,36131,36131,403,polygon,TRUE,America/Chicago,53132
+Palmyra-WI,1840003005,Palmyra,Palmyra,WI,Palmyra-WI,Wisconsin,55055,Jefferson,42.8783,-88.5897,1770,1770,496,polygon,TRUE,America/Chicago,53156
+Highland-WI,1840002955,Highland,Highland,WI,Highland-WI,Wisconsin,55049,Iowa,43.0475,-90.3802,837,837,287,polygon,TRUE,America/Chicago,53543
+Chelsea-WI,1840025307,Chelsea,Chelsea,WI,Chelsea-WI,Wisconsin,55119,Taylor,45.2926,-90.3054,,,107.4,polygon,FALSE,America/Chicago,54451
+Cataract-WI,1840025396,Cataract,Cataract,WI,Cataract-WI,Wisconsin,55081,Monroe,44.0866,-90.8384,,,124.9,polygon,FALSE,America/Chicago,54656
+Ferryville-WI,1840002885,Ferryville,Ferryville,WI,Ferryville-WI,Wisconsin,55023,Crawford,43.3516,-91.0935,180,180,35,polygon,TRUE,America/Chicago,54628
+Pittsville-WI,1840002339,Pittsville,Pittsville,WI,Pittsville-WI,Wisconsin,55141,Wood,44.4391,-90.1301,839,839,164,polygon,TRUE,America/Chicago,54466
+Pembine-WI,1840026082,Pembine,Pembine,WI,Pembine-WI,Wisconsin,55075,Marinette,45.6367,-87.9918,,,85.6,polygon,FALSE,America/Chicago,54156
+Delafield-WI,1840003017,Delafield,Delafield,WI,Delafield-WI,Wisconsin,55133,Waukesha,43.0717,-88.391,7494,7494,307,polygon,TRUE,America/Chicago,53018 53058 53029
+Allenton-WI,1840024031,Allenton,Allenton,WI,Allenton-WI,Wisconsin,55131,Washington,43.4204,-88.3443,,,457.2,polygon,FALSE,America/Chicago,53002
+Anston-WI,1840037903,Anston,Anston,WI,Anston-WI,Wisconsin,55009,Brown,44.6172,-88.1604,,,63.8,point,FALSE,America/Chicago,54313
+Lunds-WI,1840037979,Lunds,Lunds,WI,Lunds-WI,Wisconsin,55115,Shawano,44.6994,-88.5454,,,21,point,FALSE,America/Chicago,54166
+Hebron-WI,1840004347,Hebron,Hebron,WI,Hebron-WI,Wisconsin,55055,Jefferson,42.9232,-88.6916,,,69.3,polygon,FALSE,America/Chicago,53538
+New Richmond-WI,1840002138,New Richmond,New Richmond,WI,New Richmond-WI,Wisconsin,55109,St. Croix,45.1225,-92.5341,8791,8897,368,polygon,TRUE,America/Chicago,54017
+Grand View-WI,1840026069,Grand View,Grand View,WI,Grand View-WI,Wisconsin,55007,Bayfield,46.368,-91.1034,,,78.2,polygon,FALSE,America/Chicago,54839
+Caryville-WI,1840037924,Caryville,Caryville,WI,Caryville-WI,Wisconsin,55033,Dunn,44.7513,-91.6746,,,24.9,point,FALSE,America/Chicago,54755
+Milan-WI,1840037991,Milan,Milan,WI,Milan-WI,Wisconsin,55073,Marathon,44.9811,-90.1796,,,91.8,point,FALSE,America/Chicago,54411
+Monroe Center-WI,1840037994,Monroe Center,Monroe Center,WI,Monroe Center-WI,Wisconsin,55001,Adams,44.1119,-89.9396,,,13.9,point,FALSE,America/Chicago,54613
+Tony-WI,1840002077,Tony,Tony,WI,Tony-WI,Wisconsin,55107,Rusk,45.4804,-90.9971,106,106,20,polygon,TRUE,America/Chicago,54563 54848
+Florence-WI,1840025288,Florence,Florence,WI,Florence-WI,Wisconsin,55037,Florence,45.9251,-88.2525,,,284.4,polygon,FALSE,America/Chicago,54121
+Colgate-WI,1840037927,Colgate,Colgate,WI,Colgate-WI,Wisconsin,55133,Waukesha,43.1931,-88.2068,,,52.8,point,FALSE,America/Chicago,53017
+Eland-WI,1840002261,Eland,Eland,WI,Eland-WI,Wisconsin,55115,Shawano,44.867,-89.209,200,200,34,polygon,TRUE,America/Chicago,54427
+Kellner-WI,1840037966,Kellner,Kellner,WI,Kellner-WI,Wisconsin,55097,Portage,44.3589,-89.7248,,,194.5,point,FALSE,America/Chicago,54494
+Lone Rock-WI,1840002819,Lone Rock,Lone Rock,WI,Lone Rock-WI,Wisconsin,55103,Richland,43.1866,-90.2012,848,848,291,polygon,TRUE,America/Chicago,53556
+Portage-WI,1840002712,Portage,Portage,WI,Portage-WI,Wisconsin,55021,Columbia,43.5489,-89.4657,10431,10365,453,polygon,TRUE,America/Chicago,53901
+Hudson-WI,1840002135,Hudson,Hudson,WI,Hudson-WI,Wisconsin,55109,St. Croix,44.964,-92.7317,24001,13631,801,polygon,TRUE,America/Chicago,54016
+Odanah-WI,1840006564,Odanah,Odanah,WI,Odanah-WI,Wisconsin,55003,Ashland,46.6121,-90.6992,,,5.1,polygon,FALSE,America/Chicago,54806
+Amberg-WI,1840026079,Amberg,Amberg,WI,Amberg-WI,Wisconsin,55075,Marinette,45.5062,-87.9874,,,156.8,polygon,FALSE,America/Chicago,54102
+Price-WI,1840038013,Price,Price,WI,Price-WI,Wisconsin,55053,Jackson,44.5816,-91.0546,,,19.7,point,FALSE,America/Chicago,54741
+Rosholt-WI,1840002329,Rosholt,Rosholt,WI,Rosholt-WI,Wisconsin,55097,Portage,44.63,-89.3053,489,489,178,polygon,TRUE,America/Chicago,54473
+Mishicot-WI,1840002215,Mishicot,Mishicot,WI,Mishicot-WI,Wisconsin,55071,Manitowoc,44.2303,-87.6422,1407,1407,212,polygon,TRUE,America/Chicago,54228
+Stockbridge-WI,1840002248,Stockbridge,Stockbridge,WI,Stockbridge-WI,Wisconsin,55015,Calumet,44.0717,-88.3105,620,620,73,polygon,TRUE,America/Chicago,53088 54129 53014
+Elk Mound-WI,1840002143,Elk Mound,Elk Mound,WI,Elk Mound-WI,Wisconsin,55033,Dunn,44.8744,-91.6864,872,872,147,polygon,TRUE,America/Chicago,54739
+Houlton-WI,1840025321,Houlton,Houlton,WI,Houlton-WI,Wisconsin,55109,St. Croix,45.0632,-92.7908,,,204.6,polygon,FALSE,America/Chicago,54082
+Hillsboro-WI,1840002691,Hillsboro,Hillsboro,WI,Hillsboro-WI,Wisconsin,55123,Vernon,43.6559,-90.3365,1421,1421,390,polygon,TRUE,America/Chicago,54634
+Springfield-WI,1840025478,Springfield,Springfield,WI,Springfield-WI,Wisconsin,55127,Walworth,42.6407,-88.4135,,,108.6,polygon,FALSE,America/Chicago,53147 53121 53176
+Hewitt-WI,1840002334,Hewitt,Hewitt,WI,Hewitt-WI,Wisconsin,55141,Wood,44.6426,-90.1048,807,807,328,polygon,TRUE,America/Chicago,54441
+Exeland-WI,1840001998,Exeland,Exeland,WI,Exeland-WI,Wisconsin,55113,Sawyer,45.667,-91.2425,194,194,62,polygon,TRUE,America/Chicago,54835
+Montello-WI,1840002595,Montello,Montello,WI,Montello-WI,Wisconsin,55077,Marquette,43.7938,-89.3335,1437,1437,291,polygon,TRUE,America/Chicago,53949
+Wauwatosa-WI,1840003033,Wauwatosa,Wauwatosa,WI,Wauwatosa-WI,Wisconsin,55079,Milwaukee,43.0616,-88.0347,47945,47945,1397,polygon,TRUE,America/Chicago,53213 53225 53226 53222
+Kohler-WI,1840002620,Kohler,Kohler,WI,Kohler-WI,Wisconsin,55117,Sheboygan,43.7364,-87.7793,2104,2104,150,polygon,TRUE,America/Chicago,53044 53081
+Neenah-WI,1840002244,Neenah,Neenah,WI,Neenah-WI,Wisconsin,55139,Winnebago,44.1672,-88.4762,25914,25914,1086,polygon,TRUE,America/Chicago,54956 54957
+Hazel Green-WI,1840002967,Hazel Green,Hazel Green,WI,Hazel Green-WI,Wisconsin,55043,Grant,42.5341,-90.4361,1243,1243,370,polygon,TRUE,America/Chicago,53811
+Somers-WI,1840038024,Somers,Somers,WI,Somers-WI,Wisconsin,55059,Kenosha,42.6403,-87.9104,8300,8300,367.4,point,TRUE,America/Chicago,53144
+Merrimac-WI,1840002723,Merrimac,Merrimac,WI,Merrimac-WI,Wisconsin,55111,Sauk,43.3741,-89.6272,439,439,206,polygon,TRUE,America/Chicago,53561
+Okauchee Lake-WI,1840004353,Okauchee Lake,Okauchee Lake,WI,Okauchee Lake-WI,Wisconsin,55133,Waukesha,43.1248,-88.4408,,,765.8,polygon,FALSE,America/Chicago,53069 53066
+Avalon-WI,1840037906,Avalon,Avalon,WI,Avalon-WI,Wisconsin,55105,Rock,42.6328,-88.8676,,,55.3,point,FALSE,America/Chicago,53505
+Babcock-WI,1840025356,Babcock,Babcock,WI,Babcock-WI,Wisconsin,55141,Wood,44.3044,-90.1076,,,92.3,polygon,FALSE,America/Chicago,54495 54413
+River Falls-WI,1840002289,River Falls,River Falls,WI,River Falls-WI,Wisconsin,55093,Pierce,44.8601,-92.622,15698,15339,890,polygon,TRUE,America/Chicago,54022
+Minong-WI,1840002004,Minong,Minong,WI,Minong-WI,Wisconsin,55129,Washburn,46.0976,-91.8262,503,503,130,polygon,TRUE,America/Chicago,54859
+Reeseville-WI,1840002745,Reeseville,Reeseville,WI,Reeseville-WI,Wisconsin,55027,Dodge,43.3061,-88.8445,680,680,419,polygon,TRUE,America/Chicago,53579
+Plain-WI,1840002725,Plain,Plain,WI,Plain-WI,Wisconsin,55111,Sauk,43.2779,-90.0423,778,778,360,polygon,TRUE,America/Chicago,53577
+Star Prairie-WI,1840002130,Star Prairie,Star Prairie,WI,Star Prairie-WI,Wisconsin,55109,St. Croix,45.1975,-92.5321,568,568,101,polygon,TRUE,America/Chicago,54026
+Lime Ridge-WI,1840002721,Lime Ridge,Lime Ridge,WI,Lime Ridge-WI,Wisconsin,55111,Sauk,43.4676,-90.1576,166,166,64,polygon,TRUE,America/Chicago,53941 53942
+Hayward-WI,1840001997,Hayward,Hayward,WI,Hayward-WI,Wisconsin,55113,Sawyer,46.0094,-91.4826,2614,2317,283,polygon,TRUE,America/Chicago,54843
+Brice Prairie-WI,1840004158,Brice Prairie,Brice Prairie,WI,Brice Prairie-WI,Wisconsin,55063,La Crosse,43.9374,-91.3072,,,271.1,polygon,FALSE,America/Chicago,54650
+Bagley-WI,1840002964,Bagley,Bagley,WI,Bagley-WI,Wisconsin,55043,Grant,42.9011,-91.0972,369,369,185,polygon,TRUE,America/Chicago,53801
+Milton-WI,1840002473,Milton,Milton,WI,Milton-WI,Wisconsin,55105,Rock,42.7752,-88.9431,5580,5580,506,polygon,TRUE,America/Chicago,53563
+Lyndon Station-WI,1840002229,Lyndon Station,Lyndon Station,WI,Lyndon Station-WI,Wisconsin,55057,Juneau,43.709,-89.8938,479,479,88,polygon,TRUE,America/Chicago,53944
+Bowler-WI,1840000295,Bowler,Bowler,WI,Bowler-WI,Wisconsin,55115,Shawano,44.8629,-88.9815,296,296,112,polygon,TRUE,America/Chicago,54416
+Poynette-WI,1840002713,Poynette,Poynette,WI,Poynette-WI,Wisconsin,55021,Columbia,43.3921,-89.4059,2498,2498,375,polygon,TRUE,America/Chicago,53955
+Sturtevant-WI,1840002486,Sturtevant,Sturtevant,WI,Sturtevant-WI,Wisconsin,55101,Racine,42.7005,-87.9014,6937,6937,638,polygon,TRUE,America/Chicago,53177
+Gills Rock-WI,1840037952,Gills Rock,Gills Rock,WI,Gills Rock-WI,Wisconsin,55029,Door,45.29,-87.0218,,,40.4,point,FALSE,America/Chicago,54210
+Patzau-WI,1840038004,Patzau,Patzau,WI,Patzau-WI,Wisconsin,55031,Douglas,46.4913,-92.2208,,,13.4,point,FALSE,America/Chicago,54836
+Fox Lake-WI,1840002737,Fox Lake,Fox Lake,WI,Fox Lake-WI,Wisconsin,55027,Dodge,43.5618,-88.9131,1469,1469,363,polygon,TRUE,America/Chicago,53933
+Hillsdale-WI,1840037960,Hillsdale,Hillsdale,WI,Hillsdale-WI,Wisconsin,55005,Barron,45.3158,-91.8596,,,30.8,point,FALSE,America/Chicago,54733
+Plymouth-WI,1840002626,Plymouth,Plymouth,WI,Plymouth-WI,Wisconsin,55117,Sheboygan,43.7453,-87.9654,8887,8529,621,polygon,TRUE,America/Chicago,53073
+Park Ridge-WI,1840002327,Park Ridge,Park Ridge,WI,Park Ridge-WI,Wisconsin,55097,Portage,44.52,-89.5463,502,502,871,polygon,TRUE,America/Chicago,54481
+New Auburn-WI,1840002110,New Auburn,New Auburn,WI,New Auburn-WI,Wisconsin,55017,Chippewa,45.1988,-91.5666,567,567,64,polygon,TRUE,America/Chicago,54757
+Plum City-WI,1840002287,Plum City,Plum City,WI,Plum City-WI,Wisconsin,55093,Pierce,44.6338,-92.1919,595,595,225,polygon,TRUE,America/Chicago,54761
+Eau Claire-WI,1840002296,Eau Claire,Eau Claire,WI,Eau Claire-WI,Wisconsin,55035,Eau Claire,44.8202,-91.4948,106681,68339,821,polygon,TRUE,America/Chicago,54703 54701 54702
+New Berlin-WI,1840003025,New Berlin,New Berlin,WI,New Berlin-WI,Wisconsin,55133,Waukesha,42.9726,-88.1292,39803,39803,421,polygon,TRUE,America/Chicago,53146 53151
+Neillsville-WI,1840002255,Neillsville,Neillsville,WI,Neillsville-WI,Wisconsin,55019,Clark,44.5604,-90.5901,2430,2430,335,polygon,TRUE,America/Chicago,54456
+Westboro-WI,1840025309,Westboro,Westboro,WI,Westboro-WI,Wisconsin,55119,Taylor,45.3608,-90.2934,,,139.4,polygon,FALSE,America/Chicago,54490
+Cedarburg-WI,1840002825,Cedarburg,Cedarburg,WI,Cedarburg-WI,Wisconsin,55089,Ozaukee,43.2991,-87.9887,11518,11518,918,polygon,TRUE,America/Chicago,53012
+Auroraville-WI,1840037905,Auroraville,Auroraville,WI,Auroraville-WI,Wisconsin,55137,Waushara,44.0519,-88.9926,,,27.1,point,FALSE,America/Chicago,54923
+Crescent-WI,1840037930,Crescent,Crescent,WI,Crescent-WI,Wisconsin,55017,Chippewa,45.0677,-91.1468,,,12.2,point,FALSE,America/Chicago,54727
+Juneau-WI,1840002734,Juneau,Juneau,WI,Juneau-WI,Wisconsin,55027,Dodge,43.4053,-88.7042,2642,2718,626,polygon,TRUE,America/Chicago,53039
+Waucousta-WI,1840038048,Waucousta,Waucousta,WI,Waucousta-WI,Wisconsin,55039,Fond du Lac,43.6525,-88.2604,,,24.6,point,FALSE,America/Chicago,53010
+Mauston-WI,1840002230,Mauston,Mauston,WI,Mauston-WI,Wisconsin,55057,Juneau,43.7994,-90.0775,4352,4375,378,polygon,TRUE,America/Chicago,53948
+Stockholm-WI,1840002350,Stockholm,Stockholm,WI,Stockholm-WI,Wisconsin,55091,Pepin,44.4849,-92.263,66,66,28,polygon,TRUE,America/Chicago,54769

@@ -1,0 +1,679 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Savage-MD,1840026664,Savage,Savage,MD,Savage-MD,Maryland,24027,Howard,39.1485,-76.8228,,,2287.6,polygon,FALSE,America/New_York,20763 20794
+Lochearn-MD,1840005694,Lochearn,Lochearn,MD,Lochearn-MD,Maryland,24005,Baltimore,39.346,-76.7307,,,1293.4,polygon,FALSE,America/New_York,21208 21207
+Kensington-MD,1840005856,Kensington,Kensington,MD,Kensington-MD,Maryland,24031,Montgomery,39.0265,-77.0737,2379,2379,1918,polygon,TRUE,America/New_York,20895 20891
+Peppermill Village-MD,1840031500,Peppermill Village,Peppermill Village,MD,Peppermill Village-MD,Maryland,24033,Prince George's,38.894,-76.8878,,,2788.3,polygon,FALSE,America/New_York,20743
+Brock Hall-MD,1840024541,Brock Hall,Brock Hall,MD,Brock Hall-MD,Maryland,24033,Prince George's,38.8618,-76.7549,,,269.2,polygon,FALSE,America/New_York,20774 20772
+Willards-MD,1840006224,Willards,Willards,MD,Willards-MD,Maryland,24045,Wicomico,38.3922,-75.3494,997,997,358,polygon,TRUE,America/New_York,21874
+Snow Hill-MD,1840006260,Snow Hill,Snow Hill,MD,Snow Hill-MD,Maryland,24047,Worcester,38.1654,-75.3968,2071,2071,263,polygon,TRUE,America/New_York,21863
+Pomona-MD,1840031391,Pomona,Pomona,MD,Pomona-MD,Maryland,24029,Kent,39.1623,-76.1094,,,22.9,point,FALSE,America/New_York,21620
+Indian Head-MD,1840006176,Indian Head,Indian Head,MD,Indian Head-MD,Maryland,24017,Charles,38.5987,-77.1555,3824,3824,1198,polygon,TRUE,America/New_York,20640
+Columbia-MD,1840005803,Columbia,Columbia,MD,Columbia-MD,Maryland,24027,Howard,39.2004,-76.859,,,1082.4,polygon,FALSE,America/New_York,21044 21045 21046 21029 21150
+Parkville-MD,1840005685,Parkville,Parkville,MD,Parkville-MD,Maryland,24005,Baltimore,39.3832,-76.5519,,,2536.1,polygon,FALSE,America/New_York,21234
+Horsehead-MD,1840031451,Horsehead,Horsehead,MD,Horsehead-MD,Maryland,24033,Prince George's,38.6498,-76.7714,,,75.5,point,FALSE,America/New_York,20613
+Jennings-MD,1840024445,Jennings,Jennings,MD,Jennings-MD,Maryland,24023,Garrett,39.6487,-79.1835,,,59.2,polygon,FALSE,America/New_York,21536
+Langford-MD,1840031304,Langford,Langford,MD,Langford-MD,Maryland,24029,Kent,39.1884,-76.1408,,,14,point,FALSE,America/New_York,21620
+Keedysville-MD,1840005616,Keedysville,Keedysville,MD,Keedysville-MD,Maryland,24043,Washington,39.4867,-77.6986,1161,1161,469,polygon,TRUE,America/New_York,21756
+Arundel Village-MD,1840031253,Arundel Village,Arundel Village,MD,Arundel Village-MD,Maryland,24003,Anne Arundel,39.2223,-76.6041,,,3650.4,point,FALSE,America/New_York,21225
+Redland-MD,1840005838,Redland,Redland,MD,Redland-MD,Maryland,24031,Montgomery,39.1335,-77.1466,,,1655.4,polygon,FALSE,America/New_York,20855 20877
+Charlestown-MD,1840005637,Charlestown,Charlestown,MD,Charlestown-MD,Maryland,24015,Cecil,39.5788,-75.9811,1196,1196,385,polygon,TRUE,America/New_York,21901 21914
+Easton-MD,1840006089,Easton,Easton,MD,Easton-MD,Maryland,24041,Talbot,38.776,-76.0702,17781,16550,557,polygon,TRUE,America/New_York,21601
+Dickerson-MD,1840031271,Dickerson,Dickerson,MD,Dickerson-MD,Maryland,24031,Montgomery,39.2201,-77.4242,,,129.8,point,FALSE,America/New_York,20842
+Beltsville-MD,1840005945,Beltsville,Beltsville,MD,Beltsville-MD,Maryland,24033,Prince George's,39.0395,-76.9211,,,353.6,polygon,FALSE,America/New_York,20705 20740 20697 20704 20797
+Waterloo-MD,1840031417,Waterloo,Waterloo,MD,Waterloo-MD,Maryland,24027,Howard,39.1721,-76.785,,,650.2,point,FALSE,America/New_York,20794
+Dundalk-MD,1840005681,Dundalk,Dundalk,MD,Dundalk-MD,Maryland,24005,Baltimore,39.2703,-76.4942,,,3389.3,polygon,FALSE,America/New_York,21222 21224
+Hancock-MD,1840005610,Hancock,Hancock,MD,Hancock-MD,Maryland,24043,Washington,39.7054,-78.175,1553,1553,213,polygon,TRUE,America/New_York,21750
+Fairmount Heights-MD,1840005965,Fairmount Heights,Fairmount Heights,MD,Fairmount Heights-MD,Maryland,24033,Prince George's,38.9015,-76.9152,1567,1567,2249,polygon,TRUE,America/New_York,20743
+Frostburg-MD,1840005622,Frostburg,Frostburg,MD,Frostburg-MD,Maryland,24001,Allegany,39.6507,-78.9271,8676,8676,1014,polygon,TRUE,America/New_York,21532
+Marydel-MD,1840005938,Marydel,Marydel,MD,Marydel-MD,Maryland,24011,Caroline,39.1133,-75.7479,141,141,713,polygon,TRUE,America/New_York,21649
+Leitch-MD,1840031363,Leitch,Leitch,MD,Leitch-MD,Maryland,24003,Anne Arundel,38.7651,-76.5627,,,129.2,point,FALSE,America/New_York,20779
+Woodsboro-MD,1840005718,Woodsboro,Woodsboro,MD,Woodsboro-MD,Maryland,24021,Frederick,39.533,-77.3096,1208,1208,653,polygon,TRUE,America/New_York,21798
+Bay Ridge-MD,1840031256,Bay Ridge,Bay Ridge,MD,Bay Ridge-MD,Maryland,24003,Anne Arundel,38.9379,-76.46,,,714.8,point,FALSE,America/New_York,21403
+Crellin-MD,1840024441,Crellin,Crellin,MD,Crellin-MD,Maryland,24023,Garrett,39.3887,-79.4685,,,101.9,polygon,FALSE,America/New_York,21550
+Goshen-MD,1840031343,Goshen,Goshen,MD,Goshen-MD,Maryland,24031,Montgomery,39.2034,-77.1875,,,198.6,point,FALSE,America/New_York,20882
+Seat Pleasant-MD,1840005979,Seat Pleasant,Seat Pleasant,MD,Seat Pleasant-MD,Maryland,24033,Prince George's,38.8953,-76.9015,4769,4769,2521,polygon,TRUE,America/New_York,20743
+Mount Savage-MD,1840024430,Mount Savage,Mount Savage,MD,Mount Savage-MD,Maryland,24001,Allegany,39.6971,-78.8763,,,613.2,polygon,FALSE,America/New_York,21545
+Choptank-MD,1840024534,Choptank,Choptank,MD,Choptank-MD,Maryland,24011,Caroline,38.6822,-75.9492,,,240.8,polygon,FALSE,America/New_York,21655
+Brandywine-MD,1840005946,Brandywine,Brandywine,MD,Brandywine-MD,Maryland,24033,Prince George's,38.6963,-76.8846,,,114.6,polygon,FALSE,America/New_York,20613
+Cape Saint Claire-MD,1840005908,Cape Saint Claire,Cape Saint Claire,MD,Cape Saint Claire-MD,Maryland,24003,Anne Arundel,39.0433,-76.4471,,,2257.5,polygon,FALSE,America/New_York,21409
+Lutherville-MD,1840026623,Lutherville,Lutherville,MD,Lutherville-MD,Maryland,24005,Baltimore,39.424,-76.6177,,,1265.5,polygon,FALSE,America/New_York,21093
+Fallston-MD,1840005662,Fallston,Fallston,MD,Fallston-MD,Maryland,24025,Harford,39.5332,-76.4452,,,253.9,polygon,FALSE,America/New_York,21047
+Potomac Heights-MD,1840006173,Potomac Heights,Potomac Heights,MD,Potomac Heights-MD,Maryland,24017,Charles,38.5987,-77.1372,,,577.7,polygon,FALSE,America/New_York,20640
+Hereford-MD,1840031352,Hereford,Hereford,MD,Hereford-MD,Maryland,24005,Baltimore,39.589,-76.6633,,,183.9,point,FALSE,America/New_York,21111
+Hess-MD,1840031353,Hess,Hess,MD,Hess-MD,Maryland,24025,Harford,39.5559,-76.5255,,,9.2,point,FALSE,America/New_York,21111
+Still Pond-MD,1840031409,Still Pond,Still Pond,MD,Still Pond-MD,Maryland,24029,Kent,39.3293,-76.0455,,,111.9,point,FALSE,America/New_York,21667
+Chase-MD,1840031321,Chase,Chase,MD,Chase-MD,Maryland,24005,Baltimore,39.3634,-76.3711,,,243.2,point,FALSE,America/New_York,21220
+Bowleys Quarters-MD,1840005677,Bowleys Quarters,Bowleys Quarters,MD,Bowleys Quarters-MD,Maryland,24005,Baltimore,39.3198,-76.3858,,,993,polygon,FALSE,America/New_York,21220
+Lanham-MD,1840026687,Lanham,Lanham,MD,Lanham-MD,Maryland,24033,Prince George's,38.9621,-76.8421,,,1709.2,polygon,FALSE,America/New_York,20706 20703
+Antietam-MD,1840024385,Antietam,Antietam,MD,Antietam-MD,Maryland,24043,Washington,39.4151,-77.7364,,,31.3,polygon,FALSE,America/New_York,21782
+Hutton-MD,1840024444,Hutton,Hutton,MD,Hutton-MD,Maryland,24023,Garrett,39.4146,-79.4801,,,137,polygon,FALSE,America/New_York,21550
+Eckhart Mines-MD,1840026619,Eckhart Mines,Eckhart Mines,MD,Eckhart Mines-MD,Maryland,24001,Allegany,39.6551,-78.8943,,,322.2,polygon,FALSE,America/New_York,21532
+Forest Glen-MD,1840005824,Forest Glen,Forest Glen,MD,Forest Glen-MD,Maryland,24031,Montgomery,39.0191,-77.0446,,,1444.9,polygon,FALSE,America/New_York,20910 20902
+Saint George Island-MD,1840026745,Saint George Island,Saint George Island,MD,Saint George Island-MD,Maryland,24037,St. Mary's,38.1155,-76.4771,,,186.4,polygon,FALSE,America/New_York,20674
+Midlothian-MD,1840024428,Midlothian,Midlothian,MD,Midlothian-MD,Maryland,24001,Allegany,39.6317,-78.9523,,,163.5,polygon,FALSE,America/New_York,21543 21532
+Somerset-MD,1840005859,Somerset,Somerset,MD,Somerset-MD,Maryland,24031,Montgomery,38.9666,-77.0963,1277,1277,1796,polygon,TRUE,America/New_York,20815
+Calverton-MD,1840031445,Calverton,Calverton,MD,Calverton-MD,Maryland,24033,Prince George's,39.0578,-76.9488,,,3437.2,polygon,FALSE,America/New_York,20705 20904
+Mount Rainier-MD,1840005977,Mount Rainier,Mount Rainier,MD,Mount Rainier-MD,Maryland,24033,Prince George's,38.9426,-76.9645,8455,8455,5032,polygon,TRUE,America/New_York,20712
+Fork-MD,1840031339,Fork,Fork,MD,Fork-MD,Maryland,24005,Baltimore,39.4682,-76.4419,,,278.4,point,FALSE,America/New_York,21082
+Zion-MD,1840031429,Zion,Zion,MD,Zion-MD,Maryland,24015,Cecil,39.6757,-75.9649,,,146.9,point,FALSE,America/New_York,21901
+Ocean City-MD,1840006259,Ocean City,Ocean City,MD,Ocean City-MD,Maryland,24047,Worcester,38.3989,-75.0715,6999,6999,612,polygon,TRUE,America/New_York,21842 21843
+Burkittsville-MD,1840005711,Burkittsville,Burkittsville,MD,Burkittsville-MD,Maryland,24021,Frederick,39.3923,-77.6275,157,157,133,polygon,TRUE,America/New_York,21718
+Adamstown-MD,1840024448,Adamstown,Adamstown,MD,Adamstown-MD,Maryland,24021,Frederick,39.3065,-77.4668,,,664.7,polygon,FALSE,America/New_York,21710
+Belcamp-MD,1840031306,Belcamp,Belcamp,MD,Belcamp-MD,Maryland,24025,Harford,39.469,-76.2333,,,634.5,point,FALSE,America/New_York,21017
+Pecktonville-MD,1840024406,Pecktonville,Pecktonville,MD,Pecktonville-MD,Maryland,24043,Washington,39.666,-78.0482,,,66.8,polygon,FALSE,America/New_York,21711
+Mays Chapel-MD,1840031492,Mays Chapel,Mays Chapel,MD,Mays Chapel-MD,Maryland,24005,Baltimore,39.4343,-76.6516,,,1497.8,polygon,FALSE,America/New_York,21093 21094
+Mercersville-MD,1840024405,Mercersville,Mercersville,MD,Mercersville-MD,Maryland,24043,Washington,39.4968,-77.7672,,,113.2,polygon,FALSE,America/New_York,21782
+Federalsburg-MD,1840005933,Federalsburg,Federalsburg,MD,Federalsburg-MD,Maryland,24011,Caroline,38.6929,-75.7726,3113,2674,534,polygon,TRUE,America/New_York,21632
+Breathedsville-MD,1840024391,Breathedsville,Breathedsville,MD,Breathedsville-MD,Maryland,24043,Washington,39.546,-77.7246,,,253.8,polygon,FALSE,America/New_York,21713
+Skidmore-MD,1840031407,Skidmore,Skidmore,MD,Skidmore-MD,Maryland,24003,Anne Arundel,39.0212,-76.4152,,,129.3,point,FALSE,America/New_York,21409
+Millersville-MD,1840031374,Millersville,Millersville,MD,Millersville-MD,Maryland,24003,Anne Arundel,39.0596,-76.648,,,162.6,point,FALSE,America/New_York,21108
+Algonquin-MD,1840031443,Algonquin,Algonquin,MD,Algonquin-MD,Maryland,24019,Dorchester,38.584,-76.0977,,,351.4,polygon,FALSE,America/New_York,21613
+Adelphi-MD,1840005944,Adelphi,Adelphi,MD,Adelphi-MD,Maryland,24033,Prince George's,39.0018,-76.9648,,,3664.4,polygon,FALSE,America/New_York,20783 20903
+Berwyn Heights-MD,1840005980,Berwyn Heights,Berwyn Heights,MD,Berwyn Heights-MD,Maryland,24033,Prince George's,38.993,-76.9131,3275,3275,1835,polygon,TRUE,America/New_York,20740
+Glen Burnie-MD,1840005917,Glen Burnie,Glen Burnie,MD,Glen Burnie-MD,Maryland,24003,Anne Arundel,39.1559,-76.6072,,,1652.7,polygon,FALSE,America/New_York,21060 21061 21108 21062
+Stevensville-MD,1840005897,Stevensville,Stevensville,MD,Stevensville-MD,Maryland,24035,Queen Anne's,38.9745,-76.3184,,,522.4,polygon,FALSE,America/New_York,21666
+White Marsh-MD,1840005696,White Marsh,White Marsh,MD,White Marsh-MD,Maryland,24005,Baltimore,39.3819,-76.4573,,,375.2,polygon,FALSE,America/New_York,21236 21128 21237 21162
+Pylesville-MD,1840026622,Pylesville,Pylesville,MD,Pylesville-MD,Maryland,24025,Harford,39.688,-76.3876,,,63.1,polygon,FALSE,America/New_York,21132
+Cedarville-MD,1840024542,Cedarville,Cedarville,MD,Cedarville-MD,Maryland,24033,Prince George's,38.6623,-76.819,,,43.1,polygon,FALSE,America/New_York,20613
+Pleasant Hills-MD,1840031472,Pleasant Hills,Pleasant Hills,MD,Pleasant Hills-MD,Maryland,24025,Harford,39.4861,-76.3908,,,445.6,polygon,FALSE,America/New_York,21085 21087 21047
+Baldwin-MD,1840031305,Baldwin,Baldwin,MD,Baldwin-MD,Maryland,24005,Baltimore,39.4948,-76.4702,,,55.5,point,FALSE,America/New_York,21013
+Bowmans Addition-MD,1840031477,Bowmans Addition,Bowmans Addition,MD,Bowmans Addition-MD,Maryland,24001,Allegany,39.6876,-78.7541,,,106.9,polygon,FALSE,America/New_York,21502
+Mountain-MD,1840031378,Mountain,Mountain,MD,Mountain-MD,Maryland,24025,Harford,39.4654,-76.3688,,,128.4,point,FALSE,America/New_York,21085
+Bishopville-MD,1840026753,Bishopville,Bishopville,MD,Bishopville-MD,Maryland,24047,Worcester,38.4413,-75.2092,,,124.2,polygon,FALSE,America/New_York,21813
+Magnolia-MD,1840031368,Magnolia,Magnolia,MD,Magnolia-MD,Maryland,24025,Harford,39.4048,-76.3247,,,51.9,point,FALSE,America/New_York,21085
+Pomfret-MD,1840026736,Pomfret,Pomfret,MD,Pomfret-MD,Maryland,24017,Charles,38.5699,-77.0304,,,111.9,polygon,FALSE,America/New_York,20675
+Saint Michaels-MD,1840006091,Saint Michaels,Saint Michaels,MD,Saint Michaels-MD,Maryland,24041,Talbot,38.7888,-76.2248,1038,1038,348,polygon,TRUE,America/New_York,21663
+Providence-MD,1840031393,Providence,Providence,MD,Providence-MD,Maryland,24015,Cecil,39.6904,-75.8761,,,138.4,point,FALSE,America/New_York,21921
+Pasadena-MD,1840005914,Pasadena,Pasadena,MD,Pasadena-MD,Maryland,24003,Anne Arundel,39.1552,-76.5537,,,879.9,polygon,FALSE,America/New_York,21122 21060 21226
+Gambrills-MD,1840024529,Gambrills,Gambrills,MD,Gambrills-MD,Maryland,24003,Anne Arundel,39.0928,-76.6511,,,81.4,polygon,FALSE,America/New_York,21144 21108
+Tilghman-MD,1840031412,Tilghman,Tilghman,MD,Tilghman-MD,Maryland,24041,Talbot,38.7171,-76.3344,,,404.2,point,FALSE,America/New_York,21671
+Romancoke-MD,1840031462,Romancoke,Romancoke,MD,Romancoke-MD,Maryland,24035,Queen Anne's,38.8812,-76.3363,,,560.1,point,FALSE,America/New_York,21666
+Prince Frederick-MD,1840014982,Prince Frederick,Prince Frederick,MD,Prince Frederick-MD,Maryland,24009,Calvert,38.544,-76.5879,,,178.3,polygon,FALSE,America/New_York,20678
+Middleburg-MD,1840031284,Middleburg,Middleburg,MD,Middleburg-MD,Maryland,24013,Carroll,39.7177,-77.7239,,,60.2,polygon,FALSE,America/New_York,21742
+Centreville-MD,1840005899,Centreville,Centreville,MD,Centreville-MD,Maryland,24035,Queen Anne's,39.042,-76.063,4680,4680,659,polygon,TRUE,America/New_York,21617
+Hyattsville-MD,1840005975,Hyattsville,Hyattsville,MD,Hyattsville-MD,Maryland,24033,Prince George's,38.9612,-76.9548,18449,18449,2672,polygon,TRUE,America/New_York,20781 20782 20787 20788
+Benedict-MD,1840024646,Benedict,Benedict,MD,Benedict-MD,Maryland,24017,Charles,38.5116,-76.6797,,,417.1,polygon,FALSE,America/New_York,20612
+Maugansville-MD,1840005608,Maugansville,Maugansville,MD,Maugansville-MD,Maryland,24043,Washington,39.6936,-77.7472,,,1271.5,polygon,FALSE,America/New_York,21767 21740
+Linganore-MD,1840026627,Linganore,Linganore,MD,Linganore-MD,Maryland,24021,Frederick,39.4111,-77.3026,,,30.5,polygon,FALSE,America/New_York,21774 21754
+Cloverly-MD,1840031267,Cloverly,Cloverly,MD,Cloverly-MD,Maryland,24031,Montgomery,39.1065,-76.9993,,,608.4,polygon,FALSE,America/New_York,20905
+Coral Hills-MD,1840005950,Coral Hills,Coral Hills,MD,Coral Hills-MD,Maryland,24033,Prince George's,38.871,-76.9232,,,2837.6,polygon,FALSE,America/New_York,20743
+Capitol Heights-MD,1840005983,Capitol Heights,Capitol Heights,MD,Capitol Heights-MD,Maryland,24033,Prince George's,38.8769,-76.9075,4545,4545,2194,polygon,TRUE,America/New_York,20743 20731 20790 20791 20799
+Beaver Creek-MD,1840024388,Beaver Creek,Beaver Creek,MD,Beaver Creek-MD,Maryland,24043,Washington,39.5786,-77.6476,,,85.9,polygon,FALSE,America/New_York,21740 21713
+Bryantown-MD,1840026735,Bryantown,Bryantown,MD,Bryantown-MD,Maryland,24017,Charles,38.5498,-76.8429,,,42.4,polygon,FALSE,America/New_York,20601 20617
+Thurmont-MD,1840005716,Thurmont,Thurmont,MD,Thurmont-MD,Maryland,24021,Frederick,39.6205,-77.4074,7252,6528,806,polygon,TRUE,America/New_York,21788
+Funkstown-MD,1840005609,Funkstown,Funkstown,MD,Funkstown-MD,Maryland,24043,Washington,39.6085,-77.7079,884,884,895,polygon,TRUE,America/New_York,21734 21740
+Upper Marlboro-MD,1840003828,Upper Marlboro,Upper Marlboro,MD,Upper Marlboro-MD,Maryland,24033,Prince George's,38.8172,-76.7545,669,669,640,polygon,TRUE,America/New_York,20772 20773 20775 20792
+Cambridge-MD,1840006165,Cambridge,Cambridge,MD,Cambridge-MD,Maryland,24019,Dorchester,38.5519,-76.0788,14418,12468,456,polygon,TRUE,America/New_York,21613
+Powellville-MD,1840024670,Powellville,Powellville,MD,Powellville-MD,Maryland,24045,Wicomico,38.3296,-75.3754,,,79.6,polygon,FALSE,America/New_York,21850 21852
+West Denton-MD,1840024535,West Denton,West Denton,MD,West Denton-MD,Maryland,24011,Caroline,38.8896,-75.8389,,,443.7,polygon,FALSE,America/New_York,21629
+Willows-MD,1840031423,Willows,Willows,MD,Willows-MD,Maryland,24009,Calvert,38.6276,-76.5377,,,103.7,point,FALSE,America/New_York,20732
+Cheltenham-MD,1840031447,Cheltenham,Cheltenham,MD,Cheltenham-MD,Maryland,24033,Prince George's,38.7357,-76.8264,,,457.6,point,FALSE,America/New_York,20623
+Mount Zion-MD,1840031377,Mount Zion,Mount Zion,MD,Mount Zion-MD,Maryland,24003,Anne Arundel,38.8323,-76.6114,,,62.2,point,FALSE,America/New_York,20711
+Bowling Green-MD,1840024416,Bowling Green,Bowling Green,MD,Bowling Green-MD,Maryland,24001,Allegany,39.6272,-78.805,,,803.6,polygon,FALSE,America/New_York,21502
+Westphalia-MD,1840024549,Westphalia,Westphalia,MD,Westphalia-MD,Maryland,24033,Prince George's,38.8385,-76.8232,,,370.5,polygon,FALSE,America/New_York,20774 20772
+Burtonsville-MD,1840005827,Burtonsville,Burtonsville,MD,Burtonsville-MD,Maryland,24031,Montgomery,39.1166,-76.9356,,,421.8,polygon,FALSE,America/New_York,20868 20866
+Kettering-MD,1840005958,Kettering,Kettering,MD,Kettering-MD,Maryland,24033,Prince George's,38.8888,-76.7889,,,2241.4,polygon,FALSE,America/New_York,20774
+Zihlman-MD,1840024439,Zihlman,Zihlman,MD,Zihlman-MD,Maryland,24001,Allegany,39.6741,-78.913,,,184.2,polygon,FALSE,America/New_York,21532
+Church Hill-MD,1840005900,Church Hill,Church Hill,MD,Church Hill-MD,Maryland,24035,Queen Anne's,39.145,-75.9808,744,744,402,polygon,TRUE,America/New_York,21623
+Denton-MD,1840005932,Denton,Denton,MD,Denton-MD,Maryland,24011,Caroline,38.877,-75.8265,4738,4388,321,polygon,TRUE,America/New_York,21629
+Kentland-MD,1840031453,Kentland,Kentland,MD,Kentland-MD,Maryland,24033,Prince George's,38.9237,-76.88,,,2968.5,point,FALSE,America/New_York,20785
+Annapolis-MD,1840005928,Annapolis,Annapolis,MD,Annapolis-MD,Maryland,24003,Anne Arundel,38.9705,-76.5047,39418,39418,2114,polygon,TRUE,America/New_York,21401 21403 21404 21411 21412
+Wheaton-MD,1840031295,Wheaton,Wheaton,MD,Wheaton-MD,Maryland,24031,Montgomery,39.0492,-77.0572,,,1290.1,polygon,FALSE,America/New_York,20906 20902
+Shawan-MD,1840031402,Shawan,Shawan,MD,Shawan-MD,Maryland,24005,Baltimore,39.4957,-76.7083,,,35.9,point,FALSE,America/New_York,21030
+Tilghman Island-MD,1840031488,Tilghman Island,Tilghman Island,MD,Tilghman Island-MD,Maryland,24041,Talbot,38.7028,-76.3354,,,156.7,polygon,FALSE,America/New_York,21665 21671
+Coleman-MD,1840031268,Coleman,Coleman,MD,Coleman-MD,Maryland,24029,Kent,39.3415,-76.078,,,79.5,point,FALSE,America/New_York,21678
+Federal Hill-MD,1840031275,Federal Hill,Federal Hill,MD,Federal Hill-MD,Maryland,24025,Harford,39.6409,-76.4714,,,134.4,point,FALSE,America/New_York,21084
+Chewsville-MD,1840005599,Chewsville,Chewsville,MD,Chewsville-MD,Maryland,24043,Washington,39.6484,-77.6311,,,137.8,polygon,FALSE,America/New_York,21783
+Lower Marlboro-MD,1840031281,Lower Marlboro,Lower Marlboro,MD,Lower Marlboro-MD,Maryland,24009,Calvert,38.656,-76.6819,,,109.9,point,FALSE,America/New_York,20736
+Woodfield-MD,1840031425,Woodfield,Woodfield,MD,Woodfield-MD,Maryland,24031,Montgomery,39.2468,-77.1905,,,534.2,point,FALSE,America/New_York,20882
+Palmer Park-MD,1840031457,Palmer Park,Palmer Park,MD,Palmer Park-MD,Maryland,24033,Prince George's,38.9209,-76.8716,,,2746,point,FALSE,America/New_York,20785
+Chesapeake City-MD,1840005638,Chesapeake City,Chesapeake City,MD,Chesapeake City-MD,Maryland,24015,Cecil,39.5278,-75.8106,700,700,535,polygon,TRUE,America/New_York,21915
+Sharpsburg-MD,1840005617,Sharpsburg,Sharpsburg,MD,Sharpsburg-MD,Maryland,24043,Washington,39.4576,-77.7495,703,703,1139,polygon,TRUE,America/New_York,21782
+Severna Park-MD,1840005926,Severna Park,Severna Park,MD,Severna Park-MD,Maryland,24003,Anne Arundel,39.087,-76.5688,,,836.1,polygon,FALSE,America/New_York,21146 21108 21123
+West Laurel-MD,1840005968,West Laurel,West Laurel,MD,West Laurel-MD,Maryland,24033,Prince George's,39.1133,-76.8924,,,1198.5,polygon,FALSE,America/New_York,20707
+Cedar Grove-MD,1840031319,Cedar Grove,Cedar Grove,MD,Cedar Grove-MD,Maryland,24031,Montgomery,39.2468,-77.2339,,,127.9,point,FALSE,America/New_York,20876
+Lexington Park-MD,1840006231,Lexington Park,Lexington Park,MD,Lexington Park-MD,Maryland,24037,St. Mary's,38.2543,-76.4415,,,3.8,polygon,FALSE,America/New_York,20653
+Carmichael-MD,1840031446,Carmichael,Carmichael,MD,Carmichael-MD,Maryland,24035,Queen Anne's,38.9423,-76.1336,,,13.8,point,FALSE,America/New_York,21658
+Swanton-MD,1840024446,Swanton,Swanton,MD,Swanton-MD,Maryland,24023,Garrett,39.4598,-79.2328,,,60.7,polygon,FALSE,America/New_York,21561
+Halethorpe-MD,1840031442,Halethorpe,Halethorpe,MD,Halethorpe-MD,Maryland,24005,Baltimore,39.2398,-76.6802,,,1360.1,point,FALSE,America/New_York,21227
+Barnesville-MD,1840005851,Barnesville,Barnesville,MD,Barnesville-MD,Maryland,24031,Montgomery,39.2211,-77.3799,179,179,141,polygon,TRUE,America/New_York,20838
+Ocean-MD,1840031386,Ocean,Ocean,MD,Ocean-MD,Maryland,24001,Allegany,39.6017,-78.945,,,116.3,polygon,FALSE,America/New_York,21532
+Mountain Lake Park-MD,1840005633,Mountain Lake Park,Mountain Lake Park,MD,Mountain Lake Park-MD,Maryland,24023,Garrett,39.4002,-79.3812,4762,2111,420,polygon,TRUE,America/New_York,21550
+Deal Island-MD,1840006275,Deal Island,Deal Island,MD,Deal Island-MD,Maryland,24039,Somerset,38.1444,-75.9417,,,83.4,polygon,FALSE,America/New_York,21821
+Morgnec-MD,1840031376,Morgnec,Morgnec,MD,Morgnec-MD,Maryland,24029,Kent,39.2537,-76.0005,,,27.4,point,FALSE,America/New_York,21620
+Carlos-MD,1840024417,Carlos,Carlos,MD,Carlos-MD,Maryland,24001,Allegany,39.6237,-78.9567,,,109.1,polygon,FALSE,America/New_York,21532
+Jonestown-MD,1840031359,Jonestown,Jonestown,MD,Jonestown-MD,Maryland,24027,Howard,39.2221,-76.8075,,,2154.2,point,FALSE,America/New_York,21043
+Ernstville-MD,1840024398,Ernstville,Ernstville,MD,Ernstville-MD,Maryland,24043,Washington,39.6304,-78.0239,,,54.1,polygon,FALSE,America/New_York,21711
+Brooklyn Park-MD,1840031312,Brooklyn Park,Brooklyn Park,MD,Brooklyn Park-MD,Maryland,24003,Anne Arundel,39.217,-76.6174,,,3232.4,polygon,FALSE,America/New_York,21225
+Crofton-MD,1840005909,Crofton,Crofton,MD,Crofton-MD,Maryland,24003,Anne Arundel,39.0144,-76.68,,,1117.4,polygon,FALSE,America/New_York,21054 21114
+Hillandale-MD,1840005841,Hillandale,Hillandale,MD,Hillandale-MD,Maryland,24031,Montgomery,39.0254,-76.9751,,,1051.4,polygon,FALSE,America/New_York,20783 20903
+Toddville-MD,1840031413,Toddville,Toddville,MD,Toddville-MD,Maryland,24019,Dorchester,38.2998,-76.0705,,,13,point,FALSE,America/New_York,21672
+Melitota-MD,1840031283,Melitota,Melitota,MD,Melitota-MD,Maryland,24029,Kent,39.2582,-76.1455,,,3.9,point,FALSE,America/New_York,21620
+Glassmanor-MD,1840024545,Glassmanor,Glassmanor,MD,Glassmanor-MD,Maryland,24033,Prince George's,38.8181,-76.9836,,,5715.2,polygon,FALSE,America/New_York,20745
+Accokeek-MD,1840005943,Accokeek,Accokeek,MD,Accokeek-MD,Maryland,24033,Prince George's,38.6745,-77.0023,,,173.8,polygon,FALSE,America/New_York,20601 20607
+Marlow Heights-MD,1840005961,Marlow Heights,Marlow Heights,MD,Marlow Heights-MD,Maryland,24033,Prince George's,38.8237,-76.9485,,,4087.2,polygon,FALSE,America/New_York,20748
+Saint James-MD,1840005611,Saint James,Saint James,MD,Saint James-MD,Maryland,24043,Washington,39.5738,-77.7482,,,52.4,polygon,FALSE,America/New_York,21781 21733 21740
+Salisbury-MD,1840006219,Salisbury,Salisbury,MD,Salisbury-MD,Maryland,24045,Wicomico,38.3755,-75.5883,107026,33114,955,polygon,TRUE,America/New_York,21802 21804 21801 21803
+Upper Crossroads-MD,1840031294,Upper Crossroads,Upper Crossroads,MD,Upper Crossroads-MD,Maryland,24025,Harford,39.5423,-76.4741,,,138,point,FALSE,America/New_York,21047
+Hampstead-MD,1840005699,Hampstead,Hampstead,MD,Hampstead-MD,Maryland,24013,Carroll,39.6109,-76.8552,6355,6355,755,polygon,TRUE,America/New_York,21074
+Pinehurst-MD,1840031389,Pinehurst,Pinehurst,MD,Pinehurst-MD,Maryland,24003,Anne Arundel,39.1176,-76.4336,,,178.6,point,FALSE,America/New_York,21122
+Loch Lynn Heights-MD,1840005632,Loch Lynn Heights,Loch Lynn Heights,MD,Loch Lynn Heights-MD,Maryland,24023,Garrett,39.3919,-79.3726,535,535,649,polygon,TRUE,America/New_York,21550
+Locust Grove-MD,1840031365,Locust Grove,Locust Grove,MD,Locust Grove-MD,Maryland,24029,Kent,39.3304,-75.9461,,,21.1,point,FALSE,America/New_York,21645
+Crownsville-MD,1840005910,Crownsville,Crownsville,MD,Crownsville-MD,Maryland,24003,Anne Arundel,39.0225,-76.5903,,,233,polygon,FALSE,America/New_York,21401 21032
+Ewell-MD,1840031336,Ewell,Ewell,MD,Ewell-MD,Maryland,24039,Somerset,37.9957,-76.0333,,,144.4,point,FALSE,America/New_York,21824
+North East-MD,1840005639,North East,North East,MD,North East-MD,Maryland,24015,Cecil,39.6066,-75.9396,3650,3650,705,polygon,TRUE,America/New_York,21901 21921
+Wittman-MD,1840031424,Wittman,Wittman,MD,Wittman-MD,Maryland,24041,Talbot,38.7937,-76.2941,,,57.3,point,FALSE,America/New_York,21676
+Newark-MD,1840006251,Newark,Newark,MD,Newark-MD,Maryland,24047,Worcester,38.2749,-75.2735,,,70.1,polygon,FALSE,America/New_York,21811 21841
+Long Meadow-MD,1840031491,Long Meadow,Long Meadow,MD,Long Meadow-MD,Maryland,24043,Washington,39.6862,-77.7122,,,1056.7,point,FALSE,America/New_York,21742
+Spring Ridge-MD,1840031475,Spring Ridge,Spring Ridge,MD,Spring Ridge-MD,Maryland,24021,Frederick,39.4043,-77.3413,,,1469,polygon,FALSE,America/New_York,21701
+Cecilton-MD,1840005636,Cecilton,Cecilton,MD,Cecilton-MD,Maryland,24015,Cecil,39.4051,-75.8673,675,675,562,polygon,TRUE,America/New_York,21912 21913
+Indian Springs-MD,1840024402,Indian Springs,Indian Springs,MD,Indian Springs-MD,Maryland,24043,Washington,39.6457,-78.0074,,,71.9,polygon,FALSE,America/New_York,21722 21711
+Brunswick-MD,1840005709,Brunswick,Brunswick,MD,Brunswick-MD,Maryland,24021,Frederick,39.318,-77.6253,8930,6171,729,polygon,TRUE,America/New_York,21758 21716
+Largo-MD,1840005960,Largo,Largo,MD,Largo-MD,Maryland,24033,Prince George's,38.88,-76.8289,,,1113.1,polygon,FALSE,America/New_York,20774
+Owings Mills-MD,1840005684,Owings Mills,Owings Mills,MD,Owings Mills-MD,Maryland,24005,Baltimore,39.4115,-76.7913,,,1641.8,polygon,FALSE,America/New_York,21117
+Walker Mill-MD,1840031499,Walker Mill,Walker Mill,MD,Walker Mill-MD,Maryland,24033,Prince George's,38.8753,-76.8863,,,1319.2,polygon,FALSE,America/New_York,20747 20743
+La Plata-MD,1840006177,La Plata,La Plata,MD,La Plata-MD,Maryland,24017,Charles,38.5356,-76.9695,9239,9239,481,polygon,TRUE,America/New_York,20646
+Joppatowne-MD,1840005665,Joppatowne,Joppatowne,MD,Joppatowne-MD,Maryland,24025,Harford,39.4181,-76.3516,,,115.9,polygon,FALSE,America/New_York,21085
+Highland Beach-MD,1840014944,Highland Beach,Highland Beach,MD,Highland Beach-MD,Maryland,24003,Anne Arundel,38.9313,-76.466,103,103,624,polygon,TRUE,America/New_York,21403
+Barber-MD,1840031255,Barber,Barber,MD,Barber-MD,Maryland,24041,Talbot,38.6421,-76.0199,,,32.4,point,FALSE,America/New_York,21673
+Boonsboro-MD,1840005614,Boonsboro,Boonsboro,MD,Boonsboro-MD,Maryland,24043,Washington,39.5077,-77.6584,3510,3510,438,polygon,TRUE,America/New_York,21713
+Takoma Park-MD,1840005850,Takoma Park,Takoma Park,MD,Takoma Park-MD,Maryland,24031,Montgomery,38.981,-77.0028,17765,17765,3282,polygon,TRUE,America/New_York,20912 20913
+Forest Hill-MD,1840031276,Forest Hill,Forest Hill,MD,Forest Hill-MD,Maryland,24025,Harford,39.5851,-76.3877,,,318.4,point,FALSE,America/New_York,21050
+Solomons-MD,1840006149,Solomons,Solomons,MD,Solomons-MD,Maryland,24009,Calvert,38.3373,-76.4611,,,493,polygon,FALSE,America/New_York,20688 20629
+Hickory-MD,1840031354,Hickory,Hickory,MD,Hickory-MD,Maryland,24025,Harford,39.5787,-76.3452,,,207.7,point,FALSE,America/New_York,21015
+Grantsville-MD,1840005629,Grantsville,Grantsville,MD,Grantsville-MD,Maryland,24023,Garrett,39.6969,-79.1529,764,764,301,polygon,TRUE,America/New_York,21536
+Beverly Beach-MD,1840031261,Beverly Beach,Beverly Beach,MD,Beverly Beach-MD,Maryland,24003,Anne Arundel,38.8754,-76.508,,,768.1,point,FALSE,America/New_York,21037
+Chevy Chase Section Five-MD,1840031471,Chevy Chase Section Five,Chevy Chase Section Five,MD,Chevy Chase Section Five-MD,Maryland,24031,Montgomery,38.984,-77.074,711,711,2571,polygon,TRUE,America/New_York,20815
+Walkersville-MD,1840005717,Walkersville,Walkersville,MD,Walkersville-MD,Maryland,24021,Frederick,39.4832,-77.356,6054,6054,491,polygon,TRUE,America/New_York,21793
+Woodstock-MD,1840031427,Woodstock,Woodstock,MD,Woodstock-MD,Maryland,24027,Howard,39.3287,-76.8719,,,127.4,point,FALSE,America/New_York,21163
+Webster-MD,1840031418,Webster,Webster,MD,Webster-MD,Maryland,24025,Harford,39.5734,-76.1563,,,353.8,point,FALSE,America/New_York,21078
+Herald Harbor-MD,1840005918,Herald Harbor,Herald Harbor,MD,Herald Harbor-MD,Maryland,24003,Anne Arundel,39.0516,-76.5745,,,1163.6,polygon,FALSE,America/New_York,21032
+Chesapeake Ranch Estates-MD,1840026723,Chesapeake Ranch Estates,Chesapeake Ranch Estates,MD,Chesapeake Ranch Estates-MD,Maryland,24009,Calvert,38.3574,-76.4147,,,730.2,polygon,FALSE,America/New_York,20657
+Port Tobacco-MD,1840031301,Port Tobacco,Port Tobacco,MD,Port Tobacco-MD,Maryland,24017,Charles,38.5137,-77.0183,,,32.8,point,TRUE,America/New_York,20677
+Elk Neck-MD,1840031299,Elk Neck,Elk Neck,MD,Elk Neck-MD,Maryland,24015,Cecil,39.5129,-75.9513,,,66.4,point,FALSE,America/New_York,21901
+Worton-MD,1840024478,Worton,Worton,MD,Worton-MD,Maryland,24029,Kent,39.2718,-76.0933,,,61.6,polygon,FALSE,America/New_York,21678
+Davidsonville-MD,1840031270,Davidsonville,Davidsonville,MD,Davidsonville-MD,Maryland,24003,Anne Arundel,38.9229,-76.6283,,,119.6,point,FALSE,America/New_York,21035
+Gibson Island-MD,1840031342,Gibson Island,Gibson Island,MD,Gibson Island-MD,Maryland,24003,Anne Arundel,39.0743,-76.4238,,,237.4,point,FALSE,America/New_York,21056
+Deer Park-MD,1840005631,Deer Park,Deer Park,MD,Deer Park-MD,Maryland,24023,Garrett,39.424,-79.326,380,380,146,polygon,TRUE,America/New_York,21550
+Fruitland-MD,1840006218,Fruitland,Fruitland,MD,Fruitland-MD,Maryland,24045,Wicomico,38.3216,-75.6244,5234,5234,535,polygon,TRUE,America/New_York,21826
+Elkton-MD,1840005635,Elkton,Elkton,MD,Elkton-MD,Maryland,24015,Cecil,39.6066,-75.8205,15744,15744,696,polygon,TRUE,America/New_York,21921 21922
+Towson-MD,1840005695,Towson,Towson,MD,Towson-MD,Maryland,24005,Baltimore,39.3944,-76.619,,,3585.1,polygon,FALSE,America/New_York,21210 21212 21239 21286 21252 21209 21204 21139
+Bethesda-MD,1840005826,Bethesda,Bethesda,MD,Bethesda-MD,Maryland,24031,Montgomery,38.9866,-77.1188,,,2480,polygon,FALSE,America/New_York,20814 20815 20816 20817 20810 20813 20824 20827 20889 20892 20894
+Sharptown-MD,1840006223,Sharptown,Sharptown,MD,Sharptown-MD,Maryland,24045,Wicomico,38.539,-75.7191,652,652,611,polygon,TRUE,America/New_York,21861
+Sudlersville-MD,1840005903,Sudlersville,Sudlersville,MD,Sudlersville-MD,Maryland,24035,Queen Anne's,39.1831,-75.8533,472,472,120,polygon,TRUE,America/New_York,21668
+Damascus-MD,1840005832,Damascus,Damascus,MD,Damascus-MD,Maryland,24031,Montgomery,39.2737,-77.2006,,,1345.4,polygon,FALSE,America/New_York,20872 20882
+Chesterville-MD,1840031265,Chesterville,Chesterville,MD,Chesterville-MD,Maryland,24029,Kent,39.2759,-75.9152,,,11.5,point,FALSE,America/New_York,21651
+Jefferson-MD,1840024451,Jefferson,Jefferson,MD,Jefferson-MD,Maryland,24021,Frederick,39.3661,-77.5409,,,768.3,polygon,FALSE,America/New_York,21755
+East New Market-MD,1840006161,East New Market,East New Market,MD,East New Market-MD,Maryland,24019,Dorchester,38.597,-75.9232,381,381,367,polygon,TRUE,America/New_York,21631
+Harmony-MD,1840031279,Harmony,Harmony,MD,Harmony-MD,Maryland,24011,Caroline,38.779,-75.8805,,,74.7,point,FALSE,America/New_York,21655
+Owings-MD,1840006145,Owings,Owings,MD,Owings-MD,Maryland,24009,Calvert,38.7117,-76.6055,,,147.1,polygon,FALSE,America/New_York,20736
+Ballenger Creek-MD,1840031490,Ballenger Creek,Ballenger Creek,MD,Ballenger Creek-MD,Maryland,24021,Frederick,39.3807,-77.4206,,,3127.4,polygon,FALSE,America/New_York,21704 21703
+Edesville-MD,1840024474,Edesville,Edesville,MD,Edesville-MD,Maryland,24029,Kent,39.1541,-76.2097,,,110.1,polygon,FALSE,America/New_York,21661
+Discovery-MD,1840031476,Discovery,Discovery,MD,Discovery-MD,Maryland,24021,Frederick,39.4654,-77.3608,,,1257.6,point,FALSE,America/New_York,21793
+Glenmont-MD,1840024490,Glenmont,Glenmont,MD,Glenmont-MD,Maryland,24031,Montgomery,39.0697,-77.0466,,,5328.8,polygon,FALSE,America/New_York,20906 20902
+Queen Anne-MD,1840005901,Queen Anne,Queen Anne,MD,Queen Anne-MD,Maryland,24035,Queen Anne's,38.9192,-75.9535,215,215,627,polygon,TRUE,America/New_York,21625 21657
+Williamsport-MD,1840005619,Williamsport,Williamsport,MD,Williamsport-MD,Maryland,24043,Washington,39.5974,-77.8177,2160,2160,805,polygon,TRUE,America/New_York,21795
+Emmorton-MD,1840031335,Emmorton,Emmorton,MD,Emmorton-MD,Maryland,24025,Harford,39.4954,-76.3227,,,1907.5,point,FALSE,America/New_York,21015
+Manchester-MD,1840005702,Manchester,Manchester,MD,Manchester-MD,Maryland,24013,Carroll,39.6585,-76.8881,5330,4818,795,polygon,TRUE,America/New_York,21102
+Langley Park-MD,1840005959,Langley Park,Langley Park,MD,Langley Park-MD,Maryland,24033,Prince George's,38.9897,-76.9808,,,9683.2,polygon,FALSE,America/New_York,20783 20903
+Fairhaven-MD,1840031337,Fairhaven,Fairhaven,MD,Fairhaven-MD,Maryland,24003,Anne Arundel,38.7443,-76.5577,,,137.8,point,FALSE,America/New_York,20714
+Kennedyville-MD,1840024477,Kennedyville,Kennedyville,MD,Kennedyville-MD,Maryland,24029,Kent,39.3059,-75.9947,,,211.2,polygon,FALSE,America/New_York,21645
+Ocean Pines-MD,1840006252,Ocean Pines,Ocean Pines,MD,Ocean Pines-MD,Maryland,24047,Worcester,38.3825,-75.1475,,,881.8,polygon,FALSE,America/New_York,21811
+Whiteford-MD,1840031422,Whiteford,Whiteford,MD,Whiteford-MD,Maryland,24025,Harford,39.709,-76.3455,,,153.2,point,FALSE,America/New_York,21160
+Forest Heights-MD,1840005966,Forest Heights,Forest Heights,MD,Forest Heights-MD,Maryland,24033,Prince George's,38.8105,-76.9995,2577,2577,2068,polygon,TRUE,America/New_York,20745
+Carsins-MD,1840031318,Carsins,Carsins,MD,Carsins-MD,Maryland,24025,Harford,39.5373,-76.2125,,,123,point,FALSE,America/New_York,21001
+Reid-MD,1840024409,Reid,Reid,MD,Reid-MD,Maryland,24043,Washington,39.7126,-77.6794,,,103.5,polygon,FALSE,America/New_York,21742
+Fountain Green-MD,1840031277,Fountain Green,Fountain Green,MD,Fountain Green-MD,Maryland,24025,Harford,39.5473,-76.3136,,,1158.6,point,FALSE,America/New_York,21014
+Clinton-MD,1840005949,Clinton,Clinton,MD,Clinton-MD,Maryland,24033,Prince George's,38.7499,-76.9064,,,608.3,polygon,FALSE,America/New_York,20735
+Catonsville-MD,1840005679,Catonsville,Catonsville,MD,Catonsville-MD,Maryland,24005,Baltimore,39.2646,-76.7424,,,1116.6,polygon,FALSE,America/New_York,21250 21228
+National-MD,1840031379,National,National,MD,National-MD,Maryland,24001,Allegany,39.6111,-78.9401,,,62.6,polygon,FALSE,America/New_York,21532
+Charlton-MD,1840024394,Charlton,Charlton,MD,Charlton-MD,Maryland,24043,Washington,39.6344,-77.8944,,,126.9,polygon,FALSE,America/New_York,21722
+Dodge Park-MD,1840031448,Dodge Park,Dodge Park,MD,Dodge Park-MD,Maryland,24033,Prince George's,38.9276,-76.8769,,,3063.1,point,FALSE,America/New_York,20785
+New Carrollton-MD,1840005978,New Carrollton,New Carrollton,MD,New Carrollton-MD,Maryland,24033,Prince George's,38.9663,-76.8769,12868,12868,3248,polygon,TRUE,America/New_York,20784
+Brookview-MD,1840006166,Brookview,Brookview,MD,Brookview-MD,Maryland,24019,Dorchester,38.5738,-75.7927,59,59,525,polygon,TRUE,America/New_York,21659
+White Plains-MD,1840031421,White Plains,White Plains,MD,White Plains-MD,Maryland,24017,Charles,38.5904,-76.9403,,,20.7,point,FALSE,America/New_York,20695
+Calvert-MD,1840031315,Calvert,Calvert,MD,Calvert-MD,Maryland,24015,Cecil,39.7004,-75.9824,,,273.4,point,FALSE,America/New_York,21901
+Mardela Springs-MD,1840006221,Mardela Springs,Mardela Springs,MD,Mardela Springs-MD,Maryland,24045,Wicomico,38.459,-75.7564,351,351,343,polygon,TRUE,America/New_York,21837
+Chaptico-MD,1840031435,Chaptico,Chaptico,MD,Chaptico-MD,Maryland,24037,St. Mary's,38.3676,-76.783,,,47.7,point,FALSE,America/New_York,20621
+Princess Anne-MD,1840006279,Princess Anne,Princess Anne,MD,Princess Anne-MD,Maryland,24039,Somerset,38.2053,-75.6969,11353,3593,829,polygon,TRUE,America/New_York,21853
+Chevy Chase-MD,1840031323,Chevy Chase,Chevy Chase,MD,Chevy Chase-MD,Maryland,24031,Montgomery,38.9943,-77.0737,,,1285.8,polygon,TRUE,America/New_York,20814 20815
+Jarrettsville-MD,1840005664,Jarrettsville,Jarrettsville,MD,Jarrettsville-MD,Maryland,24025,Harford,39.6032,-76.4752,,,97.8,polygon,FALSE,America/New_York,21084
+Aquasco-MD,1840024539,Aquasco,Aquasco,MD,Aquasco-MD,Maryland,24033,Prince George's,38.5913,-76.7074,,,54.8,polygon,FALSE,America/New_York,20608 20613
+Sabillasville-MD,1840026626,Sabillasville,Sabillasville,MD,Sabillasville-MD,Maryland,24021,Frederick,39.6973,-77.4562,,,106.7,polygon,FALSE,America/New_York,21780
+Fairlee-MD,1840024475,Fairlee,Fairlee,MD,Fairlee-MD,Maryland,24029,Kent,39.2268,-76.1654,,,187.9,polygon,FALSE,America/New_York,21620
+Brinklow-MD,1840031297,Brinklow,Brinklow,MD,Brinklow-MD,Maryland,24031,Montgomery,39.1659,-77.0155,,,177.5,point,FALSE,America/New_York,20861
+Starr-MD,1840031465,Starr,Starr,MD,Starr-MD,Maryland,24035,Queen Anne's,38.9782,-76.0102,,,11.2,point,FALSE,America/New_York,21657
+Spring Gap-MD,1840024436,Spring Gap,Spring Gap,MD,Spring Gap-MD,Maryland,24001,Allegany,39.5653,-78.7054,,,22.2,polygon,FALSE,America/New_York,21502
+Hollywood-MD,1840031436,Hollywood,Hollywood,MD,Hollywood-MD,Maryland,24037,St. Mary's,38.346,-76.5716,,,146.1,point,FALSE,America/New_York,20636
+Tracys Landing-MD,1840031414,Tracys Landing,Tracys Landing,MD,Tracys Landing-MD,Maryland,24003,Anne Arundel,38.7801,-76.5958,,,127.1,point,FALSE,America/New_York,20779
+Kentmore Park-MD,1840031361,Kentmore Park,Kentmore Park,MD,Kentmore Park-MD,Maryland,24029,Kent,39.3665,-75.9674,,,85.8,point,FALSE,America/New_York,21645
+Riderwood-MD,1840031395,Riderwood,Riderwood,MD,Riderwood-MD,Maryland,24005,Baltimore,39.4093,-76.6486,,,919.9,point,FALSE,America/New_York,21204
+Myersville-MD,1840005714,Myersville,Myersville,MD,Myersville-MD,Maryland,24021,Frederick,39.5063,-77.5686,1723,1723,646,polygon,TRUE,America/New_York,21773
+Jugtown-MD,1840024403,Jugtown,Jugtown,MD,Jugtown-MD,Maryland,24043,Washington,39.6143,-77.5943,,,218.8,polygon,FALSE,America/New_York,21742
+Churchville-MD,1840031325,Churchville,Churchville,MD,Churchville-MD,Maryland,24025,Harford,39.5612,-76.2455,,,133.7,point,FALSE,America/New_York,21028
+Harmans-MD,1840031348,Harmans,Harmans,MD,Harmans-MD,Maryland,24003,Anne Arundel,39.1573,-76.6966,,,201.2,point,FALSE,America/New_York,21077
+Great Falls-MD,1840031346,Great Falls,Great Falls,MD,Great Falls-MD,Maryland,24031,Montgomery,39.0023,-77.2461,,,111,point,FALSE,America/New_York,20854
+Matthews-MD,1840031282,Matthews,Matthews,MD,Matthews-MD,Maryland,24041,Talbot,38.8162,-75.9527,,,46.8,point,FALSE,America/New_York,21601
+Kent Narrows-MD,1840031484,Kent Narrows,Kent Narrows,MD,Kent Narrows-MD,Maryland,24035,Queen Anne's,38.9704,-76.2385,,,237.2,polygon,FALSE,America/New_York,21619 21638
+Silesia-MD,1840031464,Silesia,Silesia,MD,Silesia-MD,Maryland,24033,Prince George's,38.7423,-76.9989,,,80.5,point,FALSE,America/New_York,20744
+Rockville-MD,1840005849,Rockville,Rockville,MD,Rockville-MD,Maryland,24031,Montgomery,39.0834,-77.1553,66940,66940,1906,polygon,TRUE,America/New_York,20852 20850 20851 20847 20848 20849 20857
+Hagerstown-MD,1840005613,Hagerstown,Hagerstown,MD,Hagerstown-MD,Maryland,24043,Washington,39.6401,-77.7217,186377,40452,1284,polygon,TRUE,America/New_York,21742 21740 21741 21747 21749
+Pinesburg-MD,1840024407,Pinesburg,Pinesburg,MD,Pinesburg-MD,Maryland,24043,Washington,39.6269,-77.856,,,223.8,polygon,FALSE,America/New_York,21795
+Shady Side-MD,1840005927,Shady Side,Shady Side,MD,Shady Side-MD,Maryland,24003,Anne Arundel,38.8285,-76.5207,,,278.1,polygon,FALSE,America/New_York,20733 20764 20778
+Carney-MD,1840005678,Carney,Carney,MD,Carney-MD,Maryland,24005,Baltimore,39.405,-76.5237,,,1721.1,polygon,FALSE,America/New_York,21057 21234
+Buckeystown-MD,1840024450,Buckeystown,Buckeystown,MD,Buckeystown-MD,Maryland,24021,Frederick,39.3301,-77.4316,,,60.4,polygon,FALSE,America/New_York,21704 21710 21717
+Bel Alton-MD,1840031303,Bel Alton,Bel Alton,MD,Bel Alton-MD,Maryland,24017,Charles,38.464,-76.9828,,,69.5,point,FALSE,America/New_York,20611
+Ruthsburg-MD,1840031463,Ruthsburg,Ruthsburg,MD,Ruthsburg-MD,Maryland,24035,Queen Anne's,39.0032,-75.958,,,6.8,point,FALSE,America/New_York,21617
+Millington-MD,1840005799,Millington,Millington,MD,Millington-MD,Maryland,24029,Kent,39.2633,-75.8357,613,613,347,polygon,TRUE,America/New_York,21651
+Oldtown-MD,1840024432,Oldtown,Oldtown,MD,Oldtown-MD,Maryland,24001,Allegany,39.5428,-78.6155,,,54.9,polygon,FALSE,America/New_York,21555
+Baden-MD,1840024540,Baden,Baden,MD,Baden-MD,Maryland,24033,Prince George's,38.6719,-76.7428,,,34,polygon,FALSE,America/New_York,20613 20772
+Madonna-MD,1840031367,Madonna,Madonna,MD,Madonna-MD,Maryland,24025,Harford,39.6132,-76.5164,,,180.5,point,FALSE,America/New_York,21084
+Crisfield-MD,1840006278,Crisfield,Crisfield,MD,Crisfield-MD,Maryland,24039,Somerset,37.9827,-75.8516,3472,2630,585,polygon,TRUE,America/New_York,21817
+Kingsville-MD,1840005693,Kingsville,Kingsville,MD,Kingsville-MD,Maryland,24005,Baltimore,39.4496,-76.4204,,,260.3,polygon,FALSE,America/New_York,21156 21087
+Pocomoke City-MD,1840006257,Pocomoke City,Pocomoke City,MD,Pocomoke City-MD,Maryland,24047,Worcester,38.0637,-75.5554,4243,4101,425,polygon,TRUE,America/New_York,21851
+Farmington-MD,1840031274,Farmington,Farmington,MD,Farmington-MD,Maryland,24015,Cecil,39.6787,-76.0322,,,60.5,point,FALSE,America/New_York,21911
+Westminster-MD,1840005701,Westminster,Westminster,MD,Westminster-MD,Maryland,24013,Carroll,39.5799,-77.0066,18671,18671,1087,polygon,TRUE,America/New_York,21158 21157
+Dares Beach-MD,1840031330,Dares Beach,Dares Beach,MD,Dares Beach-MD,Maryland,24009,Calvert,38.5618,-76.5155,,,1414.8,point,FALSE,America/New_York,20678
+Saint Marys City-MD,1840031437,Saint Marys City,Saint Marys City,MD,Saint Marys City-MD,Maryland,24037,St. Mary's,38.1871,-76.4344,,,159.5,point,FALSE,America/New_York,20686
+Four Corners-MD,1840024489,Four Corners,Four Corners,MD,Four Corners-MD,Maryland,24031,Montgomery,39.0235,-77.0102,,,1541.2,polygon,FALSE,America/New_York,20901
+Danville-MD,1840024420,Danville,Danville,MD,Danville-MD,Maryland,24001,Allegany,39.5125,-78.9184,,,86.3,polygon,FALSE,America/New_York,21557
+Garrett Park-MD,1840005843,Garrett Park,Garrett Park,MD,Garrett Park-MD,Maryland,24031,Montgomery,39.036,-77.0934,1046,1046,1580,polygon,TRUE,America/New_York,20896
+Vale Summit-MD,1840024437,Vale Summit,Vale Summit,MD,Vale Summit-MD,Maryland,24001,Allegany,39.6153,-78.9084,,,78.8,polygon,FALSE,America/New_York,21532
+Edgewood-MD,1840005661,Edgewood,Edgewood,MD,Edgewood-MD,Maryland,24025,Harford,39.421,-76.2968,,,1572.1,polygon,FALSE,America/New_York,21009 21010 21040
+Rohrersville-MD,1840005603,Rohrersville,Rohrersville,MD,Rohrersville-MD,Maryland,24043,Washington,39.4349,-77.6655,,,162.7,polygon,FALSE,America/New_York,21779
+Unionville-MD,1840031416,Unionville,Unionville,MD,Unionville-MD,Maryland,24041,Talbot,38.8134,-76.1397,,,40.3,point,FALSE,America/New_York,21601
+Sandy Bottom-MD,1840031401,Sandy Bottom,Sandy Bottom,MD,Sandy Bottom-MD,Maryland,24029,Kent,39.1932,-76.1841,,,11.1,point,FALSE,America/New_York,21620
+Price-MD,1840031459,Price,Price,MD,Price-MD,Maryland,24035,Queen Anne's,39.0976,-75.9588,,,17.6,point,FALSE,America/New_York,21623
+Sweet Air-MD,1840031293,Sweet Air,Sweet Air,MD,Sweet Air-MD,Maryland,24005,Baltimore,39.5123,-76.5372,,,343,point,FALSE,America/New_York,21013
+Leonardtown-MD,1840006232,Leonardtown,Leonardtown,MD,Leonardtown-MD,Maryland,24037,St. Mary's,38.303,-76.641,6093,3769,412,polygon,TRUE,America/New_York,20650 20627
+Craigtown-MD,1840031328,Craigtown,Craigtown,MD,Craigtown-MD,Maryland,24015,Cecil,39.6004,-76.0733,,,273.8,point,FALSE,America/New_York,21904
+Whaleyville-MD,1840006256,Whaleyville,Whaleyville,MD,Whaleyville-MD,Maryland,24047,Worcester,38.3911,-75.3001,,,141.9,polygon,FALSE,America/New_York,21872
+Nikep-MD,1840024431,Nikep,Nikep,MD,Nikep-MD,Maryland,24001,Allegany,39.5516,-78.9978,,,146.9,polygon,FALSE,America/New_York,21539
+Hall-MD,1840031450,Hall,Hall,MD,Hall-MD,Maryland,24033,Prince George's,38.9023,-76.7355,,,808.2,point,FALSE,America/New_York,20716
+Tolchester Beach-MD,1840031440,Tolchester Beach,Tolchester Beach,MD,Tolchester Beach-MD,Maryland,24029,Kent,39.2143,-76.2447,,,41.4,point,FALSE,America/New_York,21620
+Shepperd-MD,1840031404,Shepperd,Shepperd,MD,Shepperd-MD,Maryland,24005,Baltimore,39.5934,-76.5691,,,50.3,point,FALSE,America/New_York,21111
+Frederick-MD,1840005710,Frederick,Frederick,MD,Frederick-MD,Maryland,24021,Frederick,39.4334,-77.4154,152047,70060,1179,polygon,TRUE,America/New_York,21705 21703 21702 21701 21709
+Nanticoke-MD,1840024667,Nanticoke,Nanticoke,MD,Nanticoke-MD,Maryland,24045,Wicomico,38.2672,-75.8938,,,150,polygon,FALSE,America/New_York,21840
+Waldorf-MD,1840006175,Waldorf,Waldorf,MD,Waldorf-MD,Maryland,24017,Charles,38.6085,-76.9195,,,2323.5,polygon,FALSE,America/New_York,20601 20603 20602 20695 20604
+Mechanicsville-MD,1840026743,Mechanicsville,Mechanicsville,MD,Mechanicsville-MD,Maryland,24037,St. Mary's,38.4355,-76.7424,,,147.6,polygon,FALSE,America/New_York,20659
+Chevy Chase Section Three-MD,1840031469,Chevy Chase Section Three,Chevy Chase Section Three,MD,Chevy Chase Section Three-MD,Maryland,24031,Montgomery,38.9793,-77.0742,793,793,2622,polygon,TRUE,America/New_York,20815
+Rawlings-MD,1840024434,Rawlings,Rawlings,MD,Rawlings-MD,Maryland,24001,Allegany,39.5403,-78.8858,,,376,polygon,FALSE,America/New_York,21557
+Finzel-MD,1840024442,Finzel,Finzel,MD,Finzel-MD,Maryland,24023,Garrett,39.7031,-78.9532,,,75.4,polygon,FALSE,America/New_York,21532
+Pleasant Grove-MD,1840031390,Pleasant Grove,Pleasant Grove,MD,Pleasant Grove-MD,Maryland,24005,Baltimore,39.6803,-78.6903,,,48.7,polygon,FALSE,America/New_York,21502
+Rosedale-MD,1840005690,Rosedale,Rosedale,MD,Rosedale-MD,Maryland,24005,Baltimore,39.3266,-76.5084,,,1315.6,polygon,FALSE,America/New_York,21237 21206
+Goldsboro-MD,1840005934,Goldsboro,Goldsboro,MD,Goldsboro-MD,Maryland,24011,Caroline,39.0315,-75.782,238,238,117,polygon,TRUE,America/New_York,21636
+Forestville-MD,1840005942,Forestville,Forestville,MD,Forestville-MD,Maryland,24033,Prince George's,38.8517,-76.8708,,,495,polygon,FALSE,America/New_York,20747
+Leitersburg-MD,1840005607,Leitersburg,Leitersburg,MD,Leitersburg-MD,Maryland,24043,Washington,39.6928,-77.6206,,,210.3,polygon,FALSE,America/New_York,21742
+Galena-MD,1840005796,Galena,Galena,MD,Galena-MD,Maryland,24029,Kent,39.3425,-75.8787,594,594,635,polygon,TRUE,America/New_York,21635
+Bakersville-MD,1840024387,Bakersville,Bakersville,MD,Bakersville-MD,Maryland,24043,Washington,39.5148,-77.757,,,78.2,polygon,FALSE,America/New_York,21782 21713
+Halfway-MD,1840005606,Halfway,Halfway,MD,Halfway-MD,Maryland,24043,Washington,39.6163,-77.77,,,1956.1,polygon,FALSE,America/New_York,21740 21795
+Hillcrest Heights-MD,1840005957,Hillcrest Heights,Hillcrest Heights,MD,Hillcrest Heights-MD,Maryland,24033,Prince George's,38.8373,-76.9641,,,2623.3,polygon,FALSE,America/New_York,20748
+Brookeville-MD,1840005852,Brookeville,Brookeville,MD,Brookeville-MD,Maryland,24031,Montgomery,39.1809,-77.059,132,132,432,polygon,TRUE,America/New_York,20833
+Clarksville-MD,1840031326,Clarksville,Clarksville,MD,Clarksville-MD,Maryland,24027,Howard,39.2065,-76.943,,,198.3,point,FALSE,America/New_York,21029
+Longwoods-MD,1840031300,Longwoods,Longwoods,MD,Longwoods-MD,Maryland,24041,Talbot,38.8582,-76.0788,,,24.9,point,FALSE,America/New_York,21601
+Silver Spring-MD,1840005845,Silver Spring,Silver Spring,MD,Silver Spring-MD,Maryland,24031,Montgomery,39.0028,-77.0207,,,5893.2,polygon,FALSE,America/New_York,20910 20912 20903 20901 20907 20908 20911 20914 20915 20916 20918 20997
+Libertytown-MD,1840024452,Libertytown,Libertytown,MD,Libertytown-MD,Maryland,24021,Frederick,39.4858,-77.2481,,,150.6,polygon,FALSE,America/New_York,21701 21762 21791
+Severn-MD,1840005925,Severn,Severn,MD,Severn-MD,Maryland,24003,Anne Arundel,39.1356,-76.694,,,959.3,polygon,FALSE,America/New_York,21144 21077 21076
+Chevy Chase View-MD,1840005853,Chevy Chase View,Chevy Chase View,MD,Chevy Chase View-MD,Maryland,24031,Montgomery,39.0192,-77.0809,987,987,1387,polygon,TRUE,America/New_York,20895
+Henderson-MD,1840005936,Henderson,Henderson,MD,Henderson-MD,Maryland,24011,Caroline,39.075,-75.7661,145,145,447,polygon,TRUE,America/New_York,21640 21649
+Creswell-MD,1840031269,Creswell,Creswell,MD,Creswell-MD,Maryland,24025,Harford,39.5076,-76.27,,,193.7,point,FALSE,America/New_York,21015
+Smithsburg-MD,1840005618,Smithsburg,Smithsburg,MD,Smithsburg-MD,Maryland,24043,Washington,39.6563,-77.5764,3000,3000,1110,polygon,TRUE,America/New_York,21783 21720
+Perry Hall-MD,1840005686,Perry Hall,Perry Hall,MD,Perry Hall-MD,Maryland,24005,Baltimore,39.4067,-76.4781,,,2004.6,polygon,FALSE,America/New_York,21236 21128 21234
+Havre de Grace-MD,1840005667,Havre de Grace,Havre de Grace,MD,Havre de Grace-MD,Maryland,24025,Harford,39.5471,-76.1135,13527,13527,955,polygon,TRUE,America/New_York,21078
+Bowie-MD,1840005970,Bowie,Bowie,MD,Bowie-MD,Maryland,24033,Prince George's,38.9577,-76.7421,58393,58393,1201,polygon,TRUE,America/New_York,20720 20721 20716 20715 20717 20718 20719
+Smith Island-MD,1840031486,Smith Island,Smith Island,MD,Smith Island-MD,Maryland,24039,Somerset,37.9748,-76.0251,,,2.5,polygon,FALSE,America/New_York,21824 21866
+Fairplay-MD,1840024399,Fairplay,Fairplay,MD,Fairplay-MD,Maryland,24043,Washington,39.5357,-77.7463,,,212.7,polygon,FALSE,America/New_York,21733 21713
+Ridgely-MD,1840005940,Ridgely,Ridgely,MD,Ridgely-MD,Maryland,24011,Caroline,38.9528,-75.8827,1624,1624,336,polygon,TRUE,America/New_York,21660
+Newtown-MD,1840031381,Newtown,Newtown,MD,Newtown-MD,Maryland,24029,Kent,39.3043,-76.148,,,21.6,point,FALSE,America/New_York,21678
+Bridgetown-MD,1840031309,Bridgetown,Bridgetown,MD,Bridgetown-MD,Maryland,24011,Caroline,39.0346,-75.8741,,,10,point,FALSE,America/New_York,21636
+North Kensington-MD,1840031382,North Kensington,North Kensington,MD,North Kensington-MD,Maryland,24031,Montgomery,39.0391,-77.0724,,,2110.4,polygon,FALSE,America/New_York,20895 20902
+Chestertown-MD,1840005798,Chestertown,Chestertown,MD,Chestertown-MD,Maryland,24029,Kent,39.2188,-76.071,6918,5080,755,polygon,TRUE,America/New_York,21620 21690
+Accident-MD,1840005630,Accident,Accident,MD,Accident-MD,Maryland,24023,Garrett,39.6257,-79.32,316,316,246,polygon,TRUE,America/New_York,21520
+Rosaryville-MD,1840005952,Rosaryville,Rosaryville,MD,Rosaryville-MD,Maryland,24033,Prince George's,38.7672,-76.8266,,,813.9,polygon,FALSE,America/New_York,20623 20772
+Level-MD,1840031364,Level,Level,MD,Level-MD,Maryland,24025,Harford,39.5804,-76.1933,,,134,point,FALSE,America/New_York,21078
+Dublin-MD,1840031433,Dublin,Dublin,MD,Dublin-MD,Maryland,24025,Harford,39.6509,-76.2666,,,145.4,point,FALSE,America/New_York,21034
+Cheverly-MD,1840005984,Cheverly,Cheverly,MD,Cheverly-MD,Maryland,24033,Prince George's,38.9253,-76.9139,6469,6469,1847,polygon,TRUE,America/New_York,20785
+Montgomery Village-MD,1840005834,Montgomery Village,Montgomery Village,MD,Montgomery Village-MD,Maryland,24031,Montgomery,39.1782,-77.1957,,,2401,polygon,FALSE,America/New_York,20886
+Marlboro Meadows-MD,1840031483,Marlboro Meadows,Marlboro Meadows,MD,Marlboro Meadows-MD,Maryland,24033,Prince George's,38.8374,-76.7144,,,283.4,polygon,FALSE,America/New_York,20772
+Lusby-MD,1840006148,Lusby,Lusby,MD,Lusby-MD,Maryland,24009,Calvert,38.362,-76.4372,,,53.2,polygon,FALSE,America/New_York,20657
+Normans-MD,1840031455,Normans,Normans,MD,Normans-MD,Maryland,24035,Queen Anne's,38.9415,-76.3522,,,170.1,point,FALSE,America/New_York,21666
+West Pocomoke-MD,1840031489,West Pocomoke,West Pocomoke,MD,West Pocomoke-MD,Maryland,24039,Somerset,38.0956,-75.5842,,,12.9,polygon,FALSE,America/New_York,21851
+Chevy Chase Village-MD,1840005854,Chevy Chase Village,Chevy Chase Village,MD,Chevy Chase Village-MD,Maryland,24031,Montgomery,38.9698,-77.0793,2062,2062,1897,polygon,TRUE,America/New_York,20815
+New Windsor-MD,1840005704,New Windsor,New Windsor,MD,New Windsor-MD,Maryland,24013,Carroll,39.5442,-77.1017,1400,1400,727,polygon,TRUE,America/New_York,21776
+Randle Cliff Beach-MD,1840031394,Randle Cliff Beach,Randle Cliff Beach,MD,Randle Cliff Beach-MD,Maryland,24009,Calvert,38.6651,-76.5305,,,474.6,point,FALSE,America/New_York,20732
+Tunis Mills-MD,1840031415,Tunis Mills,Tunis Mills,MD,Tunis Mills-MD,Maryland,24041,Talbot,38.8204,-76.1663,,,76.5,point,FALSE,America/New_York,21601
+Trappe-MD,1840006092,Trappe,Trappe,MD,Trappe-MD,Maryland,24041,Talbot,38.6626,-76.0527,1015,1015,141,polygon,TRUE,America/New_York,21673
+Cearfoss-MD,1840024393,Cearfoss,Cearfoss,MD,Cearfoss-MD,Maryland,24043,Washington,39.6989,-77.7766,,,236,polygon,FALSE,America/New_York,21740
+Dargan-MD,1840024395,Dargan,Dargan,MD,Dargan-MD,Maryland,24043,Washington,39.3767,-77.7341,,,134.8,polygon,FALSE,America/New_York,21782
+Gilmore-MD,1840024424,Gilmore,Gilmore,MD,Gilmore-MD,Maryland,24001,Allegany,39.5831,-78.9512,,,135.8,polygon,FALSE,America/New_York,21532
+Darlington-MD,1840026621,Darlington,Darlington,MD,Darlington-MD,Maryland,24025,Harford,39.6425,-76.2035,,,279.6,polygon,FALSE,America/New_York,21034
+Allen-MD,1840024664,Allen,Allen,MD,Allen-MD,Maryland,24045,Wicomico,38.2886,-75.6904,,,244,polygon,FALSE,America/New_York,21810
+Shawsville-MD,1840031403,Shawsville,Shawsville,MD,Shawsville-MD,Maryland,24025,Harford,39.6379,-76.555,,,46.5,point,FALSE,America/New_York,21161
+Delmar-MD,1840006220,Delmar,Delmar,MD,Delmar-MD,Maryland,24045,Wicomico,38.4456,-75.5648,3203,3203,720,polygon,TRUE,America/New_York,21875
+Dawsonville-MD,1840031331,Dawsonville,Dawsonville,MD,Dawsonville-MD,Maryland,24031,Montgomery,39.1284,-77.343,,,19.4,point,FALSE,America/New_York,20837
+San Mar-MD,1840005604,San Mar,San Mar,MD,San Mar-MD,Maryland,24043,Washington,39.5524,-77.6406,,,158.8,polygon,FALSE,America/New_York,21713
+Saint Leonard-MD,1840006150,Saint Leonard,Saint Leonard,MD,Saint Leonard-MD,Maryland,24009,Calvert,38.4659,-76.4973,,,157.4,polygon,FALSE,America/New_York,20685
+Robinwood-MD,1840031480,Robinwood,Robinwood,MD,Robinwood-MD,Maryland,24043,Washington,39.6266,-77.663,,,834.3,polygon,FALSE,America/New_York,21742 21721
+South Kensington-MD,1840031497,South Kensington,South Kensington,MD,South Kensington-MD,Maryland,24031,Montgomery,39.0188,-77.0785,,,1386.6,polygon,FALSE,America/New_York,20895 20814
+Colmar Manor-MD,1840005985,Colmar Manor,Colmar Manor,MD,Colmar Manor-MD,Maryland,24033,Prince George's,38.9305,-76.944,1464,1464,1205,polygon,TRUE,America/New_York,20722
+Lake Shore-MD,1840005920,Lake Shore,Lake Shore,MD,Lake Shore-MD,Maryland,24003,Anne Arundel,39.1029,-76.4876,,,321.5,polygon,FALSE,America/New_York,21122
+Mount Airy-MD,1840005703,Mount Airy,Mount Airy,MD,Mount Airy-MD,Maryland,24013,Carroll,39.3743,-77.1535,9374,9374,879,polygon,TRUE,America/New_York,21771
+Rose Haven-MD,1840031397,Rose Haven,Rose Haven,MD,Rose Haven-MD,Maryland,24003,Anne Arundel,38.7257,-76.5388,,,597.5,point,FALSE,America/New_York,20714
+Huntingtown-MD,1840006147,Huntingtown,Huntingtown,MD,Huntingtown-MD,Maryland,24009,Calvert,38.6117,-76.6187,,,217.4,polygon,FALSE,America/New_York,20639
+Putnam-MD,1840031302,Putnam,Putnam,MD,Putnam-MD,Maryland,24025,Harford,39.5654,-76.4602,,,121.8,point,FALSE,America/New_York,21050
+Perryville-MD,1840005640,Perryville,Perryville,MD,Perryville-MD,Maryland,24015,Cecil,39.5737,-76.0669,4419,4419,560,polygon,TRUE,America/New_York,21903 21904
+Suitland-MD,1840031466,Suitland,Suitland,MD,Suitland-MD,Maryland,24033,Prince George's,38.8492,-76.9225,,,2778.8,polygon,FALSE,America/New_York,20746 20747 20752
+Glenarden-MD,1840005973,Glenarden,Glenarden,MD,Glenarden-MD,Maryland,24033,Prince George's,38.9291,-76.8574,6178,6178,1947,polygon,TRUE,America/New_York,20706
+Liberty Grove-MD,1840031280,Liberty Grove,Liberty Grove,MD,Liberty Grove-MD,Maryland,24015,Cecil,39.6559,-76.12,,,161.9,point,FALSE,America/New_York,21918
+Flintstone-MD,1840024423,Flintstone,Flintstone,MD,Flintstone-MD,Maryland,24001,Allegany,39.7034,-78.5758,,,108.5,polygon,FALSE,America/New_York,21530
+Norbeck-MD,1840031286,Norbeck,Norbeck,MD,Norbeck-MD,Maryland,24031,Montgomery,39.1101,-77.0758,,,637.8,point,FALSE,America/New_York,20906
+Bryans Road-MD,1840006172,Bryans Road,Bryans Road,MD,Bryans Road-MD,Maryland,24017,Charles,38.6144,-77.085,,,340.8,polygon,FALSE,America/New_York,20646 20640 20616
+Joppa-MD,1840031360,Joppa,Joppa,MD,Joppa-MD,Maryland,24025,Harford,39.4337,-76.3577,,,180.8,point,FALSE,America/New_York,21085
+Layhill-MD,1840024491,Layhill,Layhill,MD,Layhill-MD,Maryland,24031,Montgomery,39.087,-77.0401,,,1908.9,polygon,FALSE,America/New_York,20906
+Bridgeport-MD,1840031431,Bridgeport,Bridgeport,MD,Bridgeport-MD,Maryland,24043,Washington,39.6423,-77.678,,,594.1,point,FALSE,America/New_York,21742
+Berlin-MD,1840006258,Berlin,Berlin,MD,Berlin-MD,Maryland,24047,Worcester,38.3302,-75.2165,4608,4608,564,polygon,TRUE,America/New_York,21811
+Greenbelt-MD,1840005974,Greenbelt,Greenbelt,MD,Greenbelt-MD,Maryland,24033,Prince George's,38.9953,-76.8885,23909,23909,1471,polygon,TRUE,America/New_York,20737 20770 20768 20771
+Galestown-MD,1840006163,Galestown,Galestown,MD,Galestown-MD,Maryland,24019,Dorchester,38.5634,-75.715,135,135,222,polygon,TRUE,America/New_York,21659
+Jacobsville-MD,1840031358,Jacobsville,Jacobsville,MD,Jacobsville-MD,Maryland,24003,Anne Arundel,39.1215,-76.5175,,,517.2,point,FALSE,America/New_York,21122
+Pisgah-MD,1840031287,Pisgah,Pisgah,MD,Pisgah-MD,Maryland,24017,Charles,38.5462,-77.1347,,,63.7,point,FALSE,America/New_York,20640
+North Brentwood-MD,1840031456,North Brentwood,North Brentwood,MD,North Brentwood-MD,Maryland,24033,Prince George's,38.945,-76.9507,540,540,2020,polygon,TRUE,America/New_York,20722
+Bivalve-MD,1840024665,Bivalve,Bivalve,MD,Bivalve-MD,Maryland,24045,Wicomico,38.3059,-75.8834,,,101,polygon,FALSE,America/New_York,21865 21814
+Clear Spring-MD,1840005615,Clear Spring,Clear Spring,MD,Clear Spring-MD,Maryland,24043,Washington,39.6561,-77.931,350,350,1202,polygon,TRUE,America/New_York,21722
+Queenstown-MD,1840005902,Queenstown,Queenstown,MD,Queenstown-MD,Maryland,24035,Queen Anne's,38.9863,-76.1693,659,659,174,polygon,TRUE,America/New_York,21658
+Jessup-MD,1840005919,Jessup,Jessup,MD,Jessup-MD,Maryland,24003,Anne Arundel,39.1457,-76.7745,,,2911.5,polygon,FALSE,America/New_York,20701 20794
+Spencerville-MD,1840024492,Spencerville,Spencerville,MD,Spencerville-MD,Maryland,24031,Montgomery,39.119,-76.9828,,,634.1,polygon,FALSE,America/New_York,20868 20905
+Croom-MD,1840024543,Croom,Croom,MD,Croom-MD,Maryland,24033,Prince George's,38.7458,-76.7555,,,87.8,polygon,FALSE,America/New_York,20613 20772
+Mount Harmony-MD,1840031285,Mount Harmony,Mount Harmony,MD,Mount Harmony-MD,Maryland,24009,Calvert,38.6985,-76.6041,,,197.6,point,FALSE,America/New_York,20736
+Mattawoman-MD,1840031371,Mattawoman,Mattawoman,MD,Mattawoman-MD,Maryland,24017,Charles,38.6526,-76.8805,,,219.6,point,FALSE,America/New_York,20601
+Oxon Hill-MD,1840026688,Oxon Hill,Oxon Hill,MD,Oxon Hill-MD,Maryland,24033,Prince George's,38.7887,-76.9733,,,1372.4,polygon,FALSE,America/New_York,20744 20745 20750
+North Potomac-MD,1840005835,North Potomac,North Potomac,MD,North Potomac-MD,Maryland,24031,Montgomery,39.0956,-77.2373,,,241.2,polygon,FALSE,America/New_York,20878 20850
+Friendship-MD,1840026671,Friendship,Friendship,MD,Friendship-MD,Maryland,24003,Anne Arundel,38.7359,-76.5878,,,129,polygon,FALSE,America/New_York,20758
+Fulton-MD,1840024480,Fulton,Fulton,MD,Fulton-MD,Maryland,24027,Howard,39.1516,-76.9163,,,64.7,polygon,FALSE,America/New_York,20723 20759
+Tall Timbers-MD,1840026746,Tall Timbers,Tall Timbers,MD,Tall Timbers-MD,Maryland,24037,St. Mary's,38.1654,-76.5366,,,251.5,polygon,FALSE,America/New_York,20692 20690
+Eldersburg-MD,1840005698,Eldersburg,Eldersburg,MD,Eldersburg-MD,Maryland,24013,Carroll,39.4041,-76.9529,,,1307.2,polygon,FALSE,America/New_York,21784 21104
+Wye Mills-MD,1840031428,Wye Mills,Wye Mills,MD,Wye Mills-MD,Maryland,24041,Talbot,38.9412,-76.0805,,,68.9,point,FALSE,America/New_York,21658
+Calvert Beach-MD,1840026722,Calvert Beach,Calvert Beach,MD,Calvert Beach-MD,Maryland,24009,Calvert,38.4728,-76.4895,,,1042,polygon,FALSE,America/New_York,20685
+Dawson-MD,1840024421,Dawson,Dawson,MD,Dawson-MD,Maryland,24001,Allegany,39.4789,-78.9462,,,79,polygon,FALSE,America/New_York,21557
+North Bethesda-MD,1840031494,North Bethesda,North Bethesda,MD,North Bethesda-MD,Maryland,24031,Montgomery,39.0393,-77.1192,,,1481.3,polygon,FALSE,America/New_York,20814 20817 20852
+Aberdeen-MD,1840005666,Aberdeen,Aberdeen,MD,Aberdeen-MD,Maryland,24025,Harford,39.5146,-76.1731,15612,15612,929,polygon,TRUE,America/New_York,21001 21018
+Edgemont-MD,1840024397,Edgemont,Edgemont,MD,Edgemont-MD,Maryland,24043,Washington,39.6766,-77.547,,,94.7,polygon,FALSE,America/New_York,21783
+Rossmoor-MD,1840031496,Rossmoor,Rossmoor,MD,Rossmoor-MD,Maryland,24031,Montgomery,39.1037,-77.0711,,,3709.2,point,FALSE,America/New_York,20906
+Mapleville-MD,1840024404,Mapleville,Mapleville,MD,Mapleville-MD,Maryland,24043,Washington,39.5357,-77.6463,,,256.6,polygon,FALSE,America/New_York,21713
+Rockdale-MD,1840031396,Rockdale,Rockdale,MD,Rockdale-MD,Maryland,24005,Baltimore,39.3562,-76.7655,,,2199.5,point,FALSE,America/New_York,21244
+South Laurel-MD,1840031498,South Laurel,South Laurel,MD,South Laurel-MD,Maryland,24033,Prince George's,39.0601,-76.8456,,,4386.5,polygon,FALSE,America/New_York,20708 20811
+Bay View-MD,1840031257,Bay View,Bay View,MD,Bay View-MD,Maryland,24015,Cecil,39.6434,-75.9613,,,323.6,point,FALSE,America/New_York,21901
+Piscataway-MD,1840031458,Piscataway,Piscataway,MD,Piscataway-MD,Maryland,24033,Prince George's,38.7007,-76.9722,,,204.9,point,FALSE,America/New_York,20735
+Ilchester-MD,1840024482,Ilchester,Ilchester,MD,Ilchester-MD,Maryland,24027,Howard,39.2187,-76.7685,,,129.9,polygon,FALSE,America/New_York,21043 21075
+Lawsonia-MD,1840031362,Lawsonia,Lawsonia,MD,Lawsonia-MD,Maryland,24039,Somerset,37.9748,-75.8338,,,104.1,point,FALSE,America/New_York,21817
+Bartonsville-MD,1840024449,Bartonsville,Bartonsville,MD,Bartonsville-MD,Maryland,24021,Frederick,39.3866,-77.3434,,,488.2,polygon,FALSE,America/New_York,21704
+Harwood-MD,1840031350,Harwood,Harwood,MD,Harwood-MD,Maryland,24003,Anne Arundel,38.8654,-76.62,,,58.4,point,FALSE,America/New_York,20776
+Riverside-MD,1840031473,Riverside,Riverside,MD,Riverside-MD,Maryland,24025,Harford,39.4777,-76.2385,,,841.6,polygon,FALSE,America/New_York,21017
+North Chevy Chase-MD,1840005855,North Chevy Chase,North Chevy Chase,MD,North Chevy Chase-MD,Maryland,24031,Montgomery,39.0021,-77.0741,587,587,1945,polygon,TRUE,America/New_York,20815
+Camp Springs-MD,1840005947,Camp Springs,Camp Springs,MD,Camp Springs-MD,Maryland,24033,Prince George's,38.8053,-76.9197,,,354,polygon,FALSE,America/New_York,20748 20744 20746
+Klondike-MD,1840024425,Klondike,Klondike,MD,Klondike-MD,Maryland,24001,Allegany,39.6102,-78.9634,,,96.6,polygon,FALSE,America/New_York,21532
+Bozman-MD,1840031308,Bozman,Bozman,MD,Bozman-MD,Maryland,24041,Talbot,38.7701,-76.2711,,,109.7,point,FALSE,America/New_York,21612
+Butlertown-MD,1840024473,Butlertown,Butlertown,MD,Butlertown-MD,Maryland,24029,Kent,39.282,-76.0991,,,319.9,polygon,FALSE,America/New_York,21678
+Sunnybrook-MD,1840031411,Sunnybrook,Sunnybrook,MD,Sunnybrook-MD,Maryland,24005,Baltimore,39.5043,-76.5714,,,217.9,point,FALSE,America/New_York,21131
+Chance-MD,1840006273,Chance,Chance,MD,Chance-MD,Maryland,24039,Somerset,38.1772,-75.9366,,,60.1,polygon,FALSE,America/New_York,21821
+Edmonston-MD,1840005964,Edmonston,Edmonston,MD,Edmonston-MD,Maryland,24033,Prince George's,38.9502,-76.9332,1516,1516,1497,polygon,TRUE,America/New_York,20781
+California-MD,1840006228,California,California,MD,California-MD,Maryland,24037,St. Mary's,38.2969,-76.495,,,381,polygon,FALSE,America/New_York,20653 20619 20634
+Lynch-MD,1840031366,Lynch,Lynch,MD,Lynch-MD,Maryland,24029,Kent,39.2954,-76.0627,,,18.7,point,FALSE,America/New_York,21678
+Pine Orchard-MD,1840031388,Pine Orchard,Pine Orchard,MD,Pine Orchard-MD,Maryland,24027,Howard,39.2776,-76.8611,,,962.4,point,FALSE,America/New_York,21042
+Arden on the Severn-MD,1840031474,Arden on the Severn,Arden on the Severn,MD,Arden on the Severn-MD,Maryland,24003,Anne Arundel,39.0677,-76.5963,,,803.8,polygon,FALSE,America/New_York,21032
+Ritchie-MD,1840031460,Ritchie,Ritchie,MD,Ritchie-MD,Maryland,24033,Prince George's,38.8707,-76.8555,,,289.3,point,FALSE,America/New_York,20743
+Rock Point-MD,1840024648,Rock Point,Rock Point,MD,Rock Point-MD,Maryland,24017,Charles,38.2754,-76.8428,,,105.3,polygon,FALSE,America/New_York,20664
+Germantown-MD,1840005840,Germantown,Germantown,MD,Germantown-MD,Maryland,24031,Montgomery,39.1755,-77.2643,,,3221.4,polygon,FALSE,America/New_York,20876 20874 20875
+Claiborne-MD,1840031266,Claiborne,Claiborne,MD,Claiborne-MD,Maryland,24041,Talbot,38.8376,-76.2777,,,211,point,FALSE,America/New_York,21624
+Riverdale Park-MD,1840005989,Riverdale Park,Riverdale Park,MD,Riverdale Park-MD,Maryland,24033,Prince George's,38.9645,-76.9265,7304,7304,1726,polygon,TRUE,America/New_York,20737 20738
+Arbutus-MD,1840005676,Arbutus,Arbutus,MD,Arbutus-MD,Maryland,24005,Baltimore,39.2428,-76.6922,,,2174.6,polygon,FALSE,America/New_York,21227
+Pomonkey-MD,1840031288,Pomonkey,Pomonkey,MD,Pomonkey-MD,Maryland,24017,Charles,38.6079,-77.0716,,,22.4,point,FALSE,America/New_York,20646
+Rosemont-MD,1840005712,Rosemont,Rosemont,MD,Rosemont-MD,Maryland,24021,Frederick,39.3317,-77.6214,308,308,213,polygon,TRUE,America/New_York,21758
+Harrisonville-MD,1840031349,Harrisonville,Harrisonville,MD,Harrisonville-MD,Maryland,24005,Baltimore,39.3859,-76.8333,,,928.4,point,FALSE,America/New_York,21133
+Tyaskin-MD,1840024672,Tyaskin,Tyaskin,MD,Tyaskin-MD,Maryland,24045,Wicomico,38.3193,-75.8738,,,101.1,polygon,FALSE,America/New_York,21865
+Dominion-MD,1840031449,Dominion,Dominion,MD,Dominion-MD,Maryland,24035,Queen Anne's,38.9471,-76.2811,,,142.6,point,FALSE,America/New_York,21619
+District Heights-MD,1840005972,District Heights,District Heights,MD,District Heights-MD,Maryland,24033,Prince George's,38.8593,-76.888,6017,6017,2506,polygon,TRUE,America/New_York,20747 20753
+Cornersville-MD,1840031327,Cornersville,Cornersville,MD,Cornersville-MD,Maryland,24019,Dorchester,38.5965,-76.2091,,,10.9,point,FALSE,America/New_York,21613
+Secretary-MD,1840006168,Secretary,Secretary,MD,Secretary-MD,Maryland,24019,Dorchester,38.6085,-75.9473,520,520,766,polygon,TRUE,America/New_York,21664
+Ringgold-MD,1840024410,Ringgold,Ringgold,MD,Ringgold-MD,Maryland,24043,Washington,39.7092,-77.5689,,,78.5,polygon,FALSE,America/New_York,21783 21742
+Overlea-MD,1840005683,Overlea,Overlea,MD,Overlea-MD,Maryland,24005,Baltimore,39.3642,-76.5176,,,1628.1,polygon,FALSE,America/New_York,21236 21234 21206
+Ellicott City-MD,1840005802,Ellicott City,Ellicott City,MD,Ellicott City-MD,Maryland,24027,Howard,39.2773,-76.8344,,,756.5,polygon,FALSE,America/New_York,21042 21043 21041
+Church Creek-MD,1840006167,Church Creek,Church Creek,MD,Church Creek-MD,Maryland,24019,Dorchester,38.5036,-76.153,123,123,140,polygon,TRUE,America/New_York,21622
+Derwood-MD,1840024488,Derwood,Derwood,MD,Derwood-MD,Maryland,24031,Montgomery,39.1136,-77.1509,,,394.3,polygon,FALSE,America/New_York,20855
+Mount Lena-MD,1840005601,Mount Lena,Mount Lena,MD,Mount Lena-MD,Maryland,24043,Washington,39.554,-77.6218,,,168.8,polygon,FALSE,America/New_York,21713
+Downsville-MD,1840024396,Downsville,Downsville,MD,Downsville-MD,Maryland,24043,Washington,39.5549,-77.8016,,,142.9,polygon,FALSE,America/New_York,21795
+Bladensburg-MD,1840005981,Bladensburg,Bladensburg,MD,Bladensburg-MD,Maryland,24033,Prince George's,38.9423,-76.9265,9608,9608,3715,polygon,TRUE,America/New_York,20710
+Cockeysville-MD,1840005680,Cockeysville,Cockeysville,MD,Cockeysville-MD,Maryland,24005,Baltimore,39.4793,-76.63,,,322.7,polygon,FALSE,America/New_York,21031 21030 21093 21065
+Bethlehem-MD,1840031260,Bethlehem,Bethlehem,MD,Bethlehem-MD,Maryland,24011,Caroline,38.7462,-75.9441,,,78.1,point,FALSE,America/New_York,21655
+Edgewater-MD,1840024528,Edgewater,Edgewater,MD,Edgewater-MD,Maryland,24003,Anne Arundel,38.9373,-76.5572,,,306.7,polygon,FALSE,America/New_York,21037
+Avenue-MD,1840031434,Avenue,Avenue,MD,Avenue-MD,Maryland,24037,St. Mary's,38.2562,-76.7677,,,91,point,FALSE,America/New_York,20609
+Simpsonville-MD,1840031406,Simpsonville,Simpsonville,MD,Simpsonville-MD,Maryland,24027,Howard,39.1868,-76.8819,,,1262.1,point,FALSE,America/New_York,21044
+Cumberland-MD,1840005621,Cumberland,Cumberland,MD,Cumberland-MD,Maryland,24001,Allegany,39.6515,-78.7585,49707,19978,767,polygon,TRUE,America/New_York,21502 21501 21503 21504 21505
+Drum Point-MD,1840026724,Drum Point,Drum Point,MD,Drum Point-MD,Maryland,24009,Calvert,38.3325,-76.4294,,,822.5,polygon,FALSE,America/New_York,20657
+Clarksburg-MD,1840005830,Clarksburg,Clarksburg,MD,Clarksburg-MD,Maryland,24031,Montgomery,39.2314,-77.2617,,,830.7,polygon,FALSE,America/New_York,20841 20876 20871
+Potomac-MD,1840005837,Potomac,Potomac,MD,Potomac-MD,Maryland,24031,Montgomery,39.0141,-77.1943,,,303.7,polygon,FALSE,America/New_York,20817 20854 20859
+Middle River-MD,1840005682,Middle River,Middle River,MD,Middle River-MD,Maryland,24005,Baltimore,39.3345,-76.4318,,,1518.8,polygon,FALSE,America/New_York,21220 21221
+Elliott-MD,1840024641,Elliott,Elliott,MD,Elliott-MD,Maryland,24019,Dorchester,38.3095,-76.0069,,,22.2,polygon,FALSE,America/New_York,21869
+Cordova-MD,1840006088,Cordova,Cordova,MD,Cordova-MD,Maryland,24041,Talbot,38.868,-75.9989,,,259.9,polygon,FALSE,America/New_York,21625
+Friendly-MD,1840005954,Friendly,Friendly,MD,Friendly-MD,Maryland,24033,Prince George's,38.7601,-76.9642,,,595.3,polygon,FALSE,America/New_York,20744
+Glenn Dale-MD,1840005955,Glenn Dale,Glenn Dale,MD,Glenn Dale-MD,Maryland,24033,Prince George's,38.9833,-76.8041,,,582.2,polygon,FALSE,America/New_York,20720 20706 20769
+Georgetown-MD,1840024476,Georgetown,Georgetown,MD,Georgetown-MD,Maryland,24029,Kent,39.2194,-76.1971,,,37.5,polygon,FALSE,America/New_York,21620
+Templeville-MD,1840005941,Templeville,Templeville,MD,Templeville-MD,Maryland,24011,Caroline,39.1362,-75.7665,114,114,887,polygon,TRUE,America/New_York,21649
+Luke-MD,1840005625,Luke,Luke,MD,Luke-MD,Maryland,24001,Allegany,39.4766,-79.0593,63,63,91,polygon,TRUE,America/New_York,21540
+Dames Quarter-MD,1840006274,Dames Quarter,Dames Quarter,MD,Dames Quarter-MD,Maryland,24039,Somerset,38.1697,-75.8895,,,38,polygon,FALSE,America/New_York,21821 21853
+New Market-MD,1840005715,New Market,New Market,MD,New Market-MD,Maryland,24021,Frederick,39.3902,-77.2774,704,704,192,polygon,TRUE,America/New_York,21774
+Elk Mills-MD,1840031334,Elk Mills,Elk Mills,MD,Elk Mills-MD,Maryland,24015,Cecil,39.6587,-75.826,,,212,point,FALSE,America/New_York,21920
+Galesville-MD,1840026672,Galesville,Galesville,MD,Galesville-MD,Maryland,24003,Anne Arundel,38.8379,-76.5513,,,517.5,polygon,FALSE,America/New_York,20765 20778
+Kitzmiller-MD,1840005725,Kitzmiller,Kitzmiller,MD,Kitzmiller-MD,Maryland,24023,Garrett,39.3894,-79.1833,309,309,536,polygon,TRUE,America/New_York,21538
+Fairview-MD,1840031338,Fairview,Fairview,MD,Fairview-MD,Maryland,24043,Washington,39.7111,-77.8406,,,827.2,polygon,FALSE,America/New_York,21722 21740
+Birdsville-MD,1840031262,Birdsville,Birdsville,MD,Birdsville-MD,Maryland,24003,Anne Arundel,38.9001,-76.5914,,,76.2,point,FALSE,America/New_York,20776
+Oxford-MD,1840006090,Oxford,Oxford,MD,Oxford-MD,Maryland,24041,Talbot,38.6849,-76.1703,617,617,442,polygon,TRUE,America/New_York,21654
+Chillum-MD,1840005948,Chillum,Chillum,MD,Chillum-MD,Maryland,24033,Prince George's,38.9667,-76.9788,,,2458.2,polygon,FALSE,America/New_York,20782 20783 20712
+Landover-MD,1840005956,Landover,Landover,MD,Landover-MD,Maryland,24033,Prince George's,38.9242,-76.8874,,,3427.1,polygon,FALSE,America/New_York,20784 20785
+Glen Echo-MD,1840005844,Glen Echo,Glen Echo,MD,Glen Echo-MD,Maryland,24031,Montgomery,38.968,-77.141,269,269,1013,polygon,TRUE,America/New_York,20812
+Quantico-MD,1840024671,Quantico,Quantico,MD,Quantico-MD,Maryland,24045,Wicomico,38.3767,-75.7526,,,72.1,polygon,FALSE,America/New_York,21856 21830
+Furnace Branch-MD,1840031341,Furnace Branch,Furnace Branch,MD,Furnace Branch-MD,Maryland,24003,Anne Arundel,39.1815,-76.6136,,,633.9,point,FALSE,America/New_York,21060
+Fort Washington-MD,1840005953,Fort Washington,Fort Washington,MD,Fort Washington-MD,Maryland,24033,Prince George's,38.7339,-77.0069,,,925.8,polygon,FALSE,America/New_York,20744 20749
+Yarrowsburg-MD,1840024413,Yarrowsburg,Yarrowsburg,MD,Yarrowsburg-MD,Maryland,24043,Washington,39.3762,-77.6843,,,82.2,polygon,FALSE,America/New_York,21758
+Potomac Park-MD,1840024433,Potomac Park,Potomac Park,MD,Potomac Park-MD,Maryland,24001,Allegany,39.6124,-78.8082,,,739.6,polygon,FALSE,America/New_York,21502
+Point of Rocks-MD,1840024454,Point of Rocks,Point of Rocks,MD,Point of Rocks-MD,Maryland,24021,Frederick,39.2781,-77.5292,,,610.8,polygon,FALSE,America/New_York,21777
+Monkton-MD,1840031375,Monkton,Monkton,MD,Monkton-MD,Maryland,24005,Baltimore,39.5787,-76.6155,,,75.5,point,FALSE,America/New_York,21111
+Timonium-MD,1840026624,Timonium,Timonium,MD,Timonium-MD,Maryland,24005,Baltimore,39.4463,-76.6084,,,1834.4,polygon,FALSE,America/New_York,21093
+Glen Arm-MD,1840031278,Glen Arm,Glen Arm,MD,Glen Arm-MD,Maryland,24005,Baltimore,39.4534,-76.4944,,,59.4,point,FALSE,America/New_York,21057
+Bristol-MD,1840031311,Bristol,Bristol,MD,Bristol-MD,Maryland,24003,Anne Arundel,38.7923,-76.668,,,108.5,point,FALSE,America/New_York,20711
+Fairbank-MD,1840031273,Fairbank,Fairbank,MD,Fairbank-MD,Maryland,24041,Talbot,38.6857,-76.338,,,76.9,point,FALSE,America/New_York,21671
+Garrison-MD,1840005691,Garrison,Garrison,MD,Garrison-MD,Maryland,24005,Baltimore,39.4023,-76.7514,,,1298.7,polygon,FALSE,America/New_York,21153 21117 21208
+Riviera Beach-MD,1840005916,Riviera Beach,Riviera Beach,MD,Riviera Beach-MD,Maryland,24003,Anne Arundel,39.1628,-76.5263,,,2210.2,polygon,FALSE,America/New_York,21122 21226
+Roberts-MD,1840031461,Roberts,Roberts,MD,Roberts-MD,Maryland,24035,Queen Anne's,39.1173,-75.9183,,,11.8,point,FALSE,America/New_York,21623
+Hampton-MD,1840005692,Hampton,Hampton,MD,Hampton-MD,Maryland,24005,Baltimore,39.4222,-76.5696,,,377,polygon,FALSE,America/New_York,21286
+Saint Charles-MD,1840031400,Saint Charles,Saint Charles,MD,Saint Charles-MD,Maryland,24017,Charles,38.6032,-76.9386,,,596.3,point,FALSE,America/New_York,20603
+Grasonville-MD,1840005895,Grasonville,Grasonville,MD,Grasonville-MD,Maryland,24035,Queen Anne's,38.9559,-76.1948,,,168,polygon,FALSE,America/New_York,21638
+Darnestown-MD,1840005833,Darnestown,Darnestown,MD,Darnestown-MD,Maryland,24031,Montgomery,39.096,-77.3032,,,203.4,polygon,FALSE,America/New_York,20878 20874
+Mount Briar-MD,1840026617,Mount Briar,Mount Briar,MD,Mount Briar-MD,Maryland,24043,Washington,39.4426,-77.6873,,,100.1,polygon,FALSE,America/New_York,21756
+Kemp Mill-MD,1840005842,Kemp Mill,Kemp Mill,MD,Kemp Mill-MD,Maryland,24031,Montgomery,39.0412,-77.0214,,,2119.5,polygon,FALSE,America/New_York,20902 20901
+Tolchester-MD,1840031441,Tolchester,Tolchester,MD,Tolchester-MD,Maryland,24029,Kent,39.2218,-76.2349,,,248.7,polygon,FALSE,America/New_York,21620
+Gorman-MD,1840024443,Gorman,Gorman,MD,Gorman-MD,Maryland,24023,Garrett,39.2923,-79.3527,,,58.5,polygon,FALSE,America/New_York,21550
+Williston-MD,1840024536,Williston,Williston,MD,Williston-MD,Maryland,24011,Caroline,38.831,-75.8509,,,236.2,polygon,FALSE,America/New_York,21629
+Pikesville-MD,1840005687,Pikesville,Pikesville,MD,Pikesville-MD,Maryland,24005,Baltimore,39.3893,-76.702,,,1241.5,polygon,FALSE,America/New_York,21153 21208 21209
+West Ocean City-MD,1840006255,West Ocean City,West Ocean City,MD,West Ocean City-MD,Maryland,24047,Worcester,38.3476,-75.1115,,,368.7,polygon,FALSE,America/New_York,21811 21842
+Milford Mill-MD,1840031493,Milford Mill,Milford Mill,MD,Milford Mill-MD,Maryland,24005,Baltimore,39.3444,-76.7668,,,908.5,polygon,FALSE,America/New_York,21244
+Cobb Island-MD,1840024647,Cobb Island,Cobb Island,MD,Cobb Island-MD,Maryland,24017,Charles,38.2647,-76.8496,,,1227.4,polygon,FALSE,America/New_York,20625 20664
+Woodmore-MD,1840005969,Woodmore,Woodmore,MD,Woodmore-MD,Maryland,24033,Prince George's,38.9222,-76.781,,,768.2,polygon,FALSE,America/New_York,20721
+Kingstown-MD,1840005896,Kingstown,Kingstown,MD,Kingstown-MD,Maryland,24035,Queen Anne's,39.2036,-76.0465,,,369.8,polygon,FALSE,America/New_York,21620
+Woodland-MD,1840024438,Woodland,Woodland,MD,Woodland-MD,Maryland,24001,Allegany,39.6081,-78.9497,,,40,polygon,FALSE,America/New_York,21532
+Bier-MD,1840024415,Bier,Bier,MD,Bier-MD,Maryland,24001,Allegany,39.5525,-78.8692,,,58.3,polygon,FALSE,America/New_York,21502 21557
+Boyds-MD,1840031263,Boyds,Boyds,MD,Boyds-MD,Maryland,24031,Montgomery,39.1837,-77.3128,,,67.3,point,FALSE,America/New_York,20841
+Rising Sun-MD,1840005642,Rising Sun,Rising Sun,MD,Rising Sun-MD,Maryland,24015,Cecil,39.7007,-76.06,2799,2799,699,polygon,TRUE,America/New_York,21911
+Bloomington-MD,1840024440,Bloomington,Bloomington,MD,Bloomington-MD,Maryland,24023,Garrett,39.4794,-79.0768,,,286.4,polygon,FALSE,America/New_York,21523
+Landover Hills-MD,1840005987,Landover Hills,Landover Hills,MD,Landover Hills-MD,Maryland,24033,Prince George's,38.9425,-76.8947,1808,1808,1892,polygon,TRUE,America/New_York,20784
+Rossville-MD,1840031398,Rossville,Rossville,MD,Rossville-MD,Maryland,24005,Baltimore,39.3572,-76.4767,,,39.2,polygon,FALSE,America/New_York,21236 21237
+Milford-MD,1840031373,Milford,Milford,MD,Milford-MD,Maryland,24005,Baltimore,39.3479,-76.7411,,,1832.6,point,FALSE,America/New_York,21207
+Bellevue-MD,1840031259,Bellevue,Bellevue,MD,Bellevue-MD,Maryland,24041,Talbot,38.7035,-76.1844,,,70.5,point,FALSE,America/New_York,21662
+Orchard Beach-MD,1840031387,Orchard Beach,Orchard Beach,MD,Orchard Beach-MD,Maryland,24003,Anne Arundel,39.1707,-76.5266,,,2042.7,point,FALSE,America/New_York,21226
+Waterview-MD,1840024673,Waterview,Waterview,MD,Waterview-MD,Maryland,24045,Wicomico,38.2482,-75.9017,,,33.6,polygon,FALSE,America/New_York,21840
+Chaneyville-MD,1840031264,Chaneyville,Chaneyville,MD,Chaneyville-MD,Maryland,24009,Calvert,38.6918,-76.64,,,309.2,point,FALSE,America/New_York,20736
+Barclay-MD,1840005898,Barclay,Barclay,MD,Barclay-MD,Maryland,24035,Queen Anne's,39.1438,-75.8638,118,118,291,polygon,TRUE,America/New_York,21607
+Betterton-MD,1840005797,Betterton,Betterton,MD,Betterton-MD,Maryland,24029,Kent,39.3652,-76.069,324,324,126,polygon,TRUE,America/New_York,21610
+Sandy Spring-MD,1840031290,Sandy Spring,Sandy Spring,MD,Sandy Spring-MD,Maryland,24031,Montgomery,39.1496,-77.0269,,,279.5,point,FALSE,America/New_York,20860
+Girdletree-MD,1840006253,Girdletree,Girdletree,MD,Girdletree-MD,Maryland,24047,Worcester,38.0987,-75.4004,,,152.7,polygon,FALSE,America/New_York,21829
+University Park-MD,1840003827,University Park,University Park,MD,University Park-MD,Maryland,24033,Prince George's,38.972,-76.9446,2659,2659,2047,polygon,TRUE,America/New_York,20782
+Odenton-MD,1840005912,Odenton,Odenton,MD,Odenton-MD,Maryland,24003,Anne Arundel,39.0661,-76.6939,,,644.3,polygon,FALSE,America/New_York,21054 21113
+East Riverdale-MD,1840031482,East Riverdale,East Riverdale,MD,East Riverdale-MD,Maryland,24033,Prince George's,38.9599,-76.911,,,2450.8,polygon,FALSE,America/New_York,20781 20737
+Gapland-MD,1840024400,Gapland,Gapland,MD,Gapland-MD,Maryland,24043,Washington,39.4018,-77.6583,,,125.3,polygon,FALSE,America/New_York,21779
+White Hall-MD,1840031420,White Hall,White Hall,MD,White Hall-MD,Maryland,24005,Baltimore,39.6218,-76.6286,,,102.1,point,FALSE,America/New_York,21161
+Big Pool-MD,1840024389,Big Pool,Big Pool,MD,Big Pool-MD,Maryland,24043,Washington,39.6251,-78.0161,,,84.1,polygon,FALSE,America/New_York,21711
+Bel Air-MD,1840005668,Bel Air,Bel Air,MD,Bel Air-MD,Maryland,24025,Harford,39.5347,-76.346,10109,10109,1285,polygon,TRUE,America/New_York,21014
+Big Spring-MD,1840024390,Big Spring,Big Spring,MD,Big Spring-MD,Maryland,24043,Washington,39.6257,-77.9396,,,95.6,polygon,FALSE,America/New_York,21722
+Colesville-MD,1840005831,Colesville,Colesville,MD,Colesville-MD,Maryland,24031,Montgomery,39.073,-77.0009,,,1192.5,polygon,FALSE,America/New_York,20904
+Olney-MD,1840005836,Olney,Olney,MD,Olney-MD,Maryland,24031,Montgomery,39.1466,-77.0715,,,2273.6,polygon,FALSE,America/New_York,20860 20832 20833 20853 20830
+Parole-MD,1840005913,Parole,Parole,MD,Parole-MD,Maryland,24003,Anne Arundel,38.9861,-76.5519,,,2260,polygon,FALSE,America/New_York,21401
+Sykesville-MD,1840005705,Sykesville,Sykesville,MD,Sykesville-MD,Maryland,24013,Carroll,39.3714,-76.9716,3941,3941,965,polygon,TRUE,America/New_York,21784
+Riva-MD,1840005915,Riva,Riva,MD,Riva-MD,Maryland,24003,Anne Arundel,38.9449,-76.5876,,,1830.3,polygon,FALSE,America/New_York,21035 21037 21140
+Whitehaven-MD,1840024674,Whitehaven,Whitehaven,MD,Whitehaven-MD,Maryland,24045,Wicomico,38.2705,-75.7933,,,70.2,polygon,FALSE,America/New_York,21856 21865
+Taneytown-MD,1840005700,Taneytown,Taneytown,MD,Taneytown-MD,Maryland,24013,Carroll,39.6562,-77.1688,6629,6760,860,polygon,TRUE,America/New_York,21787
+Mount Vernon-MD,1840006277,Mount Vernon,Mount Vernon,MD,Mount Vernon-MD,Maryland,24039,Somerset,38.2448,-75.7825,,,71.8,polygon,FALSE,America/New_York,21853
+Long Beach-MD,1840026725,Long Beach,Long Beach,MD,Long Beach-MD,Maryland,24009,Calvert,38.4568,-76.4737,,,728.1,polygon,FALSE,America/New_York,20685
+Jesterville-MD,1840024666,Jesterville,Jesterville,MD,Jesterville-MD,Maryland,24045,Wicomico,38.2897,-75.8928,,,55.4,polygon,FALSE,America/New_York,21814
+Fishing Creek-MD,1840024642,Fishing Creek,Fishing Creek,MD,Fishing Creek-MD,Maryland,24019,Dorchester,38.3358,-76.2238,,,149.2,polygon,FALSE,America/New_York,21622 21634
+Marlton-MD,1840005962,Marlton,Marlton,MD,Marlton-MD,Maryland,24033,Prince George's,38.762,-76.7857,,,2339.1,polygon,FALSE,America/New_York,20772
+Popes Creek-MD,1840031289,Popes Creek,Popes Creek,MD,Popes Creek-MD,Maryland,24017,Charles,38.399,-76.9911,,,45,point,FALSE,America/New_York,20664
+Little Orleans-MD,1840024426,Little Orleans,Little Orleans,MD,Little Orleans-MD,Maryland,24001,Allegany,39.6308,-78.3921,,,10,polygon,FALSE,America/New_York,21766
+Pondsville-MD,1840024408,Pondsville,Pondsville,MD,Pondsville-MD,Maryland,24043,Washington,39.6234,-77.5916,,,147.1,polygon,FALSE,America/New_York,21783
+Garretts Mill-MD,1840024401,Garretts Mill,Garretts Mill,MD,Garretts Mill-MD,Maryland,24043,Washington,39.3534,-77.689,,,93.6,polygon,FALSE,America/New_York,21758
+Bayside Beach-MD,1840031258,Bayside Beach,Bayside Beach,MD,Bayside Beach-MD,Maryland,24003,Anne Arundel,39.1365,-76.4433,,,915.8,point,FALSE,America/New_York,21122
+Marbury-MD,1840031370,Marbury,Marbury,MD,Marbury-MD,Maryland,24017,Charles,38.5754,-77.1555,,,15.8,point,FALSE,America/New_York,20658
+Wenona-MD,1840031419,Wenona,Wenona,MD,Wenona-MD,Maryland,24039,Somerset,38.139,-75.9502,,,125.6,point,FALSE,America/New_York,21821
+Linthicum-MD,1840005921,Linthicum,Linthicum,MD,Linthicum-MD,Maryland,24003,Anne Arundel,39.2088,-76.6625,,,1168.5,polygon,FALSE,America/New_York,21090
+Tilghmanton-MD,1840024412,Tilghmanton,Tilghmanton,MD,Tilghmanton-MD,Maryland,24043,Washington,39.5286,-77.7437,,,199.6,polygon,FALSE,America/New_York,21713
+Greensburg-MD,1840031481,Greensburg,Greensburg,MD,Greensburg-MD,Maryland,24043,Washington,39.6806,-77.5615,,,160,polygon,FALSE,America/New_York,21783
+Woodlawn-MD,1840005697,Woodlawn,Woodlawn,MD,Woodlawn-MD,Maryland,24005,Baltimore,39.3054,-76.7489,,,2574.6,polygon,FALSE,America/New_York,21244 21207 21228
+Port Deposit-MD,1840005641,Port Deposit,Port Deposit,MD,Port Deposit-MD,Maryland,24015,Cecil,39.6107,-76.0983,767,767,130,polygon,TRUE,America/New_York,21904
+Cresaptown-MD,1840026620,Cresaptown,Cresaptown,MD,Cresaptown-MD,Maryland,24001,Allegany,39.5912,-78.855,,,555.6,polygon,FALSE,America/New_York,21502
+Fairland-MD,1840001593,Fairland,Fairland,MD,Fairland-MD,Maryland,24031,Montgomery,39.0804,-76.9527,,,1228.9,polygon,FALSE,America/New_York,20866 20904 20905
+Grahamtown-MD,1840031344,Grahamtown,Grahamtown,MD,Grahamtown-MD,Maryland,24001,Allegany,39.6448,-78.9224,,,611.1,polygon,FALSE,America/New_York,21532
+Rock Hall-MD,1840005800,Rock Hall,Rock Hall,MD,Rock Hall-MD,Maryland,24029,Kent,39.1393,-76.2426,1298,1298,374,polygon,TRUE,America/New_York,21661
+Ellerslie-MD,1840024422,Ellerslie,Ellerslie,MD,Ellerslie-MD,Maryland,24001,Allegany,39.7188,-78.7787,,,219.6,polygon,FALSE,America/New_York,21502 21529
+Corriganville-MD,1840024419,Corriganville,Corriganville,MD,Corriganville-MD,Maryland,24001,Allegany,39.6945,-78.797,,,263.4,polygon,FALSE,America/New_York,21524
+Hoopersville-MD,1840031355,Hoopersville,Hoopersville,MD,Hoopersville-MD,Maryland,24019,Dorchester,38.2612,-76.1799,,,48.5,point,FALSE,America/New_York,21634
+Vienna-MD,1840003842,Vienna,Vienna,MD,Vienna-MD,Maryland,24019,Dorchester,38.4811,-75.8319,275,275,139,polygon,TRUE,America/New_York,21869
+College Park-MD,1840005971,College Park,College Park,MD,College Park-MD,Maryland,24033,Prince George's,38.9964,-76.9337,32275,32275,2212,polygon,TRUE,America/New_York,20742 20740 20741
+Taylors Island-MD,1840026731,Taylors Island,Taylors Island,MD,Taylors Island-MD,Maryland,24019,Dorchester,38.473,-76.3126,,,15.9,polygon,FALSE,America/New_York,21669
+Chesapeake Beach-MD,1840006151,Chesapeake Beach,Chesapeake Beach,MD,Chesapeake Beach-MD,Maryland,24009,Calvert,38.6881,-76.5447,24355,5911,841,polygon,TRUE,America/New_York,20732
+Moscow-MD,1840024429,Moscow,Moscow,MD,Moscow-MD,Maryland,24001,Allegany,39.5409,-79.0074,,,136.8,polygon,FALSE,America/New_York,21521
+Travilah-MD,1840005846,Travilah,Travilah,MD,Travilah-MD,Maryland,24031,Montgomery,39.0571,-77.2458,,,277,polygon,FALSE,America/New_York,20854 20850
+Guilford-MD,1840031347,Guilford,Guilford,MD,Guilford-MD,Maryland,24027,Howard,39.1698,-76.8305,,,1330.1,point,FALSE,America/New_York,21046
+Perryman-MD,1840005663,Perryman,Perryman,MD,Perryman-MD,Maryland,24025,Harford,39.4634,-76.2113,,,158.5,polygon,FALSE,America/New_York,21001 21130
+Cavetown-MD,1840005598,Cavetown,Cavetown,MD,Cavetown-MD,Maryland,24043,Washington,39.6426,-77.5933,,,325.6,polygon,FALSE,America/New_York,21783
+Hebbville-MD,1840031351,Hebbville,Hebbville,MD,Hebbville-MD,Maryland,24005,Baltimore,39.3415,-76.7628,,,861.9,point,FALSE,America/New_York,21244
+Silver Hill-MD,1840024548,Silver Hill,Silver Hill,MD,Silver Hill-MD,Maryland,24033,Prince George's,38.8392,-76.9367,,,2810,polygon,FALSE,America/New_York,20746
+Friendsville-MD,1840005628,Friendsville,Friendsville,MD,Friendsville-MD,Maryland,24023,Garrett,39.6629,-79.4045,474,474,201,polygon,TRUE,America/New_York,21531
+Eden-MD,1840006276,Eden,Eden,MD,Eden-MD,Maryland,24039,Somerset,38.2792,-75.6533,,,77.4,polygon,FALSE,America/New_York,21822
+Skipton-MD,1840031408,Skipton,Skipton,MD,Skipton-MD,Maryland,24041,Talbot,38.8954,-76.0588,,,40.3,point,FALSE,America/New_York,21625
+Barton-MD,1840005623,Barton,Barton,MD,Barton-MD,Maryland,24001,Allegany,39.5323,-79.0171,431,431,804,polygon,TRUE,America/New_York,21521
+Mitchellville-MD,1840005951,Mitchellville,Mitchellville,MD,Mitchellville-MD,Maryland,24033,Prince George's,38.9358,-76.8146,,,393.1,polygon,FALSE,America/New_York,20720 20721
+Seabrook-MD,1840024547,Seabrook,Seabrook,MD,Seabrook-MD,Maryland,24033,Prince George's,38.9802,-76.8499,,,1483.5,polygon,FALSE,America/New_York,20706
+Monrovia-MD,1840024453,Monrovia,Monrovia,MD,Monrovia-MD,Maryland,24021,Frederick,39.3571,-77.2752,,,117.7,polygon,FALSE,America/New_York,21770
+Cottage City-MD,1840005986,Cottage City,Cottage City,MD,Cottage City-MD,Maryland,24033,Prince George's,38.938,-76.9499,1368,1368,2120,polygon,TRUE,America/New_York,20722
+Chester-MD,1840005894,Chester,Chester,MD,Chester-MD,Maryland,24035,Queen Anne's,38.9677,-76.2823,,,227,polygon,FALSE,America/New_York,21619
+White Oak-MD,1840005847,White Oak,White Oak,MD,White Oak-MD,Maryland,24031,Montgomery,39.0433,-76.9906,,,4734.8,polygon,FALSE,America/New_York,20904 20903 20901 20993
+Brownsville-MD,1840024392,Brownsville,Brownsville,MD,Brownsville-MD,Maryland,24043,Washington,39.3782,-77.6614,,,100.7,polygon,FALSE,America/New_York,21758 21715
+Seneca-MD,1840031291,Seneca,Seneca,MD,Seneca-MD,Maryland,24031,Montgomery,39.0787,-77.3392,,,17,point,FALSE,America/New_York,20874
+Madison-MD,1840026730,Madison,Madison,MD,Madison-MD,Maryland,24019,Dorchester,38.5149,-76.2155,,,67.5,polygon,FALSE,America/New_York,21648 21677
+Maryland City-MD,1840005922,Maryland City,Maryland City,MD,Maryland City-MD,Maryland,24003,Anne Arundel,39.1016,-76.8051,,,3613.4,polygon,FALSE,America/New_York,20724
+Essex-MD,1840005675,Essex,Essex,MD,Essex-MD,Maryland,24005,Baltimore,39.3024,-76.4458,,,1722.3,polygon,FALSE,America/New_York,21221
+Blackhorse-MD,1840031307,Blackhorse,Blackhorse,MD,Blackhorse-MD,Maryland,24025,Harford,39.624,-76.5511,,,51.4,point,FALSE,America/New_York,21111
+Ingleside-MD,1840031452,Ingleside,Ingleside,MD,Ingleside-MD,Maryland,24035,Queen Anne's,39.0923,-75.8769,,,21.2,point,FALSE,America/New_York,21623
+Hughesville-MD,1840006174,Hughesville,Hughesville,MD,Hughesville-MD,Maryland,24017,Charles,38.5376,-76.7748,,,73.8,polygon,FALSE,America/New_York,20637
+Baltimore Highlands-MD,1840024447,Baltimore Highlands,Baltimore Highlands,MD,Baltimore Highlands-MD,Maryland,24005,Baltimore,39.2355,-76.6367,,,764.5,polygon,FALSE,America/New_York,21227
+Edgemere-MD,1840005674,Edgemere,Edgemere,MD,Edgemere-MD,Maryland,24005,Baltimore,39.2273,-76.459,,,2159.6,polygon,FALSE,America/New_York,21219 21052
+Midland-MD,1840005626,Midland,Midland,MD,Midland-MD,Maryland,24001,Allegany,39.5896,-78.9487,425,425,1038,polygon,TRUE,America/New_York,21542
+Urbana-MD,1840024455,Urbana,Urbana,MD,Urbana-MD,Maryland,24021,Frederick,39.3237,-77.3411,,,1192.6,polygon,FALSE,America/New_York,21704 21754
+Scotland-MD,1840031438,Scotland,Scotland,MD,Scotland-MD,Maryland,24037,St. Mary's,38.089,-76.3619,,,18.5,point,FALSE,America/New_York,20687
+Middletown-MD,1840005713,Middletown,Middletown,MD,Middletown-MD,Maryland,24021,Frederick,39.4404,-77.5357,4515,4515,943,polygon,TRUE,America/New_York,21769
+Comus-MD,1840031298,Comus,Comus,MD,Comus-MD,Maryland,24031,Montgomery,39.247,-77.35,,,24.3,point,FALSE,America/New_York,20842
+Ady-MD,1840031296,Ady,Ady,MD,Ady-MD,Maryland,24025,Harford,39.6387,-76.3327,,,55.5,point,FALSE,America/New_York,21154
+Bruceville-MD,1840031314,Bruceville,Bruceville,MD,Bruceville-MD,Maryland,24041,Talbot,38.6712,-75.9838,,,18,point,FALSE,America/New_York,21673
+Emmitsburg-MD,1840005708,Emmitsburg,Emmitsburg,MD,Emmitsburg-MD,Maryland,24021,Frederick,39.705,-77.3217,6873,3038,775,polygon,TRUE,America/New_York,21727
+Beallsville-MD,1840031430,Beallsville,Beallsville,MD,Beallsville-MD,Maryland,24031,Montgomery,39.179,-77.4128,,,29.6,point,FALSE,America/New_York,20837
+Cedarhurst-MD,1840031320,Cedarhurst,Cedarhurst,MD,Cedarhurst-MD,Maryland,24003,Anne Arundel,38.8287,-76.5005,,,515.5,point,FALSE,America/New_York,20764
+Dayton-MD,1840031332,Dayton,Dayton,MD,Dayton-MD,Maryland,24027,Howard,39.2393,-76.9866,,,217.4,point,FALSE,America/New_York,21036
+Mattapex-MD,1840031454,Mattapex,Mattapex,MD,Mattapex-MD,Maryland,24035,Queen Anne's,38.9018,-76.3497,,,73,point,FALSE,America/New_York,21666
+Sherwood-MD,1840031405,Sherwood,Sherwood,MD,Sherwood-MD,Maryland,24041,Talbot,38.7615,-76.3188,,,42.6,point,FALSE,America/New_York,21665
+North Laurel-MD,1840031495,North Laurel,North Laurel,MD,North Laurel-MD,Maryland,24027,Howard,39.1286,-76.8476,,,582.5,polygon,FALSE,America/New_York,20723
+Sandy Hook-MD,1840024411,Sandy Hook,Sandy Hook,MD,Sandy Hook-MD,Maryland,24043,Washington,39.3284,-77.7052,,,100,polygon,FALSE,America/New_York,21758
+Prospect-MD,1840031392,Prospect,Prospect,MD,Prospect-MD,Maryland,24025,Harford,39.6904,-76.3027,,,63.5,point,FALSE,America/New_York,21154
+Norwood-MD,1840031383,Norwood,Norwood,MD,Norwood-MD,Maryland,24031,Montgomery,39.1254,-77.0275,,,186.6,point,FALSE,America/New_York,20860
+Deale-MD,1840005911,Deale,Deale,MD,Deale-MD,Maryland,24003,Anne Arundel,38.791,-76.5469,,,506.1,polygon,FALSE,America/New_York,20751 20733 20779
+Westernport-MD,1840005627,Westernport,Westernport,MD,Westernport-MD,Maryland,24001,Allegany,39.488,-79.0429,5546,1796,789,polygon,TRUE,America/New_York,21562
+Randallstown-MD,1840005688,Randallstown,Randallstown,MD,Randallstown-MD,Maryland,24005,Baltimore,39.3723,-76.8024,,,2235.9,polygon,FALSE,America/New_York,21208 21133
+Franklin-MD,1840031340,Franklin,Franklin,MD,Franklin-MD,Maryland,24001,Allegany,39.4994,-79.0522,,,272.8,polygon,FALSE,America/New_York,21562
+Ashton-MD,1840031254,Ashton,Ashton,MD,Ashton-MD,Maryland,24031,Montgomery,39.1493,-77.0125,,,372,point,FALSE,America/New_York,20861
+Highland-MD,1840024481,Highland,Highland,MD,Highland-MD,Maryland,24027,Howard,39.1814,-76.957,,,162.3,polygon,FALSE,America/New_York,20759 20777
+Mount Aetna-MD,1840005600,Mount Aetna,Mount Aetna,MD,Mount Aetna-MD,Maryland,24043,Washington,39.5989,-77.6128,,,167.6,polygon,FALSE,America/New_York,21742
+Greensboro-MD,1840005935,Greensboro,Greensboro,MD,Greensboro-MD,Maryland,24011,Caroline,38.9764,-75.808,1882,1882,676,polygon,TRUE,America/New_York,21639
+Lansdowne-MD,1840026625,Lansdowne,Lansdowne,MD,Lansdowne-MD,Maryland,24005,Baltimore,39.2365,-76.6659,,,2219.2,polygon,FALSE,America/New_York,21227
+Barrelville-MD,1840024414,Barrelville,Barrelville,MD,Barrelville-MD,Maryland,24001,Allegany,39.7026,-78.8425,,,160.1,polygon,FALSE,America/New_York,21545
+Stockton-MD,1840006254,Stockton,Stockton,MD,Stockton-MD,Maryland,24047,Worcester,38.0659,-75.4134,,,62.5,polygon,FALSE,America/New_York,21864
+Brookmont-MD,1840031313,Brookmont,Brookmont,MD,Brookmont-MD,Maryland,24031,Montgomery,38.9546,-77.1292,,,1593.2,polygon,FALSE,America/New_York,20812 20816
+McCoole-MD,1840024427,McCoole,McCoole,MD,McCoole-MD,Maryland,24001,Allegany,39.4534,-78.9731,,,611.1,polygon,FALSE,America/New_York,21562 21557
+Preston-MD,1840005939,Preston,Preston,MD,Preston-MD,Maryland,24011,Caroline,38.7112,-75.909,706,706,503,polygon,TRUE,America/New_York,21655
+White Crystal Beach-MD,1840031439,White Crystal Beach,White Crystal Beach,MD,White Crystal Beach-MD,Maryland,24015,Cecil,39.4418,-75.9747,,,328.7,point,FALSE,America/New_York,21919
+Lonaconing-MD,1840005624,Lonaconing,Lonaconing,MD,Lonaconing-MD,Maryland,24001,Allegany,39.5658,-78.9789,1134,1134,1211,polygon,TRUE,America/New_York,21539
+Fair Hill-MD,1840031272,Fair Hill,Fair Hill,MD,Fair Hill-MD,Maryland,24015,Cecil,39.7023,-75.868,,,146.9,point,FALSE,America/New_York,21921
+Clarysville-MD,1840024418,Clarysville,Clarysville,MD,Clarysville-MD,Maryland,24001,Allegany,39.6421,-78.8887,,,77.5,polygon,FALSE,America/New_York,21532
+Hebron-MD,1840006217,Hebron,Hebron,MD,Hebron-MD,Maryland,24045,Wicomico,38.4243,-75.6867,1095,1095,331,polygon,TRUE,America/New_York,21830
+Crosby-MD,1840031329,Crosby,Crosby,MD,Crosby-MD,Maryland,24029,Kent,39.1168,-76.1952,,,27.1,point,FALSE,America/New_York,21661
+Gaithersburg-MD,1840005848,Gaithersburg,Gaithersburg,MD,Gaithersburg-MD,Maryland,24031,Montgomery,39.1347,-77.213,67776,67776,2553,polygon,TRUE,America/New_York,20878 20899 20879 20877
+Brighton-MD,1840031310,Brighton,Brighton,MD,Brighton-MD,Maryland,24031,Montgomery,39.1929,-77.0264,,,114.8,point,FALSE,America/New_York,20833
+Poolesville-MD,1840005858,Poolesville,Poolesville,MD,Poolesville-MD,Maryland,24031,Montgomery,39.1423,-77.4102,4909,5190,509,polygon,TRUE,America/New_York,20837
+Laytonsville-MD,1840005857,Laytonsville,Laytonsville,MD,Laytonsville-MD,Maryland,24031,Montgomery,39.2094,-77.1418,374,374,138,polygon,TRUE,America/New_York,20882
+Martins Additions-MD,1840031470,Martins Additions,Martins Additions,MD,Martins Additions-MD,Maryland,24031,Montgomery,38.9795,-77.0693,997,997,2784,polygon,TRUE,America/New_York,20815
+Washington Grove-MD,1840005860,Washington Grove,Washington Grove,MD,Washington Grove-MD,Maryland,24031,Montgomery,39.1406,-77.1745,564,564,640,polygon,TRUE,America/New_York,20877 20880
+Parsonsburg-MD,1840024669,Parsonsburg,Parsonsburg,MD,Parsonsburg-MD,Maryland,24045,Wicomico,38.3936,-75.4748,,,140.4,polygon,FALSE,America/New_York,21849
+Neavitt-MD,1840031380,Neavitt,Neavitt,MD,Neavitt-MD,Maryland,24041,Talbot,38.7246,-76.2824,,,114.8,point,FALSE,America/New_York,21652
+Springdale-MD,1840031487,Springdale,Springdale,MD,Springdale-MD,Maryland,24033,Prince George's,38.9383,-76.8423,,,1076.3,polygon,FALSE,America/New_York,20774
+Hudson-MD,1840031356,Hudson,Hudson,MD,Hudson-MD,Maryland,24019,Dorchester,38.5921,-76.2544,,,53.5,point,FALSE,America/New_York,21613
+Eldorado-MD,1840006162,Eldorado,Eldorado,MD,Eldorado-MD,Maryland,24019,Dorchester,38.5839,-75.7894,58,58,292,polygon,TRUE,America/New_York,21659
+Charlotte Hall-MD,1840006229,Charlotte Hall,Charlotte Hall,MD,Charlotte Hall-MD,Maryland,24037,St. Mary's,38.4667,-76.7847,,,761,polygon,FALSE,America/New_York,20622 20659
+Lake Arbor-MD,1840031485,Lake Arbor,Lake Arbor,MD,Lake Arbor-MD,Maryland,24033,Prince George's,38.907,-76.8299,,,1423.2,polygon,FALSE,America/New_York,20721 20774
+La Vale-MD,1840005620,La Vale,La Vale,MD,La Vale-MD,Maryland,24001,Allegany,39.6518,-78.8162,,,887.1,polygon,FALSE,America/New_York,21502
+Granite-MD,1840031345,Granite,Granite,MD,Granite-MD,Maryland,24005,Baltimore,39.3429,-76.8555,,,133.5,point,FALSE,America/New_York,21163
+Braddock Heights-MD,1840005707,Braddock Heights,Braddock Heights,MD,Braddock Heights-MD,Maryland,24021,Frederick,39.4114,-77.5009,,,503.6,polygon,FALSE,America/New_York,21703 21702 21714
+Dunkirk-MD,1840006144,Dunkirk,Dunkirk,MD,Dunkirk-MD,Maryland,24009,Calvert,38.7156,-76.673,,,126.5,polygon,FALSE,America/New_York,20754
+Hillsboro-MD,1840005937,Hillsboro,Hillsboro,MD,Hillsboro-MD,Maryland,24011,Caroline,38.917,-75.9416,159,159,453,polygon,TRUE,America/New_York,21641 21629
+Laurel-MD,1840005976,Laurel,Laurel,MD,Laurel-MD,Maryland,24033,Prince George's,39.0955,-76.8629,25853,25853,2257,polygon,TRUE,America/New_York,20707 20709 20725 20726
+McDaniel-MD,1840031372,McDaniel,McDaniel,MD,McDaniel-MD,Maryland,24041,Talbot,38.8176,-76.278,,,26.6,point,FALSE,America/New_York,21647
+Reisterstown-MD,1840005689,Reisterstown,Reisterstown,MD,Reisterstown-MD,Maryland,24005,Baltimore,39.4551,-76.8144,,,1561.2,polygon,FALSE,America/New_York,21117 21136
+Carrollton Manor-MD,1840031317,Carrollton Manor,Carrollton Manor,MD,Carrollton Manor-MD,Maryland,24003,Anne Arundel,39.0765,-76.5836,,,1839.8,point,FALSE,America/New_York,21146
+Manor-MD,1840031369,Manor,Manor,MD,Manor-MD,Maryland,24005,Baltimore,39.5573,-76.5647,,,95,point,FALSE,America/New_York,21111
+Cherry Hill-MD,1840031322,Cherry Hill,Cherry Hill,MD,Cherry Hill-MD,Maryland,24015,Cecil,39.6634,-75.8527,,,561.4,point,FALSE,America/New_York,21921
+Cabin John-MD,1840005828,Cabin John,Cabin John,MD,Cabin John-MD,Maryland,24031,Montgomery,38.9743,-77.1635,,,508.3,polygon,FALSE,America/New_York,20818
+Nanticoke Acres-MD,1840024668,Nanticoke Acres,Nanticoke Acres,MD,Nanticoke Acres-MD,Maryland,24045,Wicomico,38.2578,-75.9059,,,42.8,polygon,FALSE,America/New_York,21840
+Mayo-MD,1840005923,Mayo,Mayo,MD,Mayo-MD,Maryland,24003,Anne Arundel,38.9041,-76.518,,,443.6,polygon,FALSE,America/New_York,21037 21106
+Sunshine-MD,1840031292,Sunshine,Sunshine,MD,Sunshine-MD,Maryland,24031,Montgomery,39.2212,-77.06,,,66,point,FALSE,America/New_York,20833
+Eagle Harbor-MD,1840005963,Eagle Harbor,Eagle Harbor,MD,Eagle Harbor-MD,Maryland,24033,Prince George's,38.5666,-76.6868,65,65,214,polygon,TRUE,America/New_York,20608
+Elkridge-MD,1840005801,Elkridge,Elkridge,MD,Elkridge-MD,Maryland,24027,Howard,39.1941,-76.7427,,,1178.7,polygon,FALSE,America/New_York,21075
+Morningside-MD,1840005988,Morningside,Morningside,MD,Morningside-MD,Maryland,24033,Prince George's,38.827,-76.8893,2046,2046,1403,polygon,TRUE,America/New_York,20746
+Jacksonville-MD,1840031357,Jacksonville,Jacksonville,MD,Jacksonville-MD,Maryland,24005,Baltimore,39.5182,-76.5594,,,124.1,point,FALSE,America/New_York,21131
+Ferndale-MD,1840005906,Ferndale,Ferndale,MD,Ferndale-MD,Maryland,24003,Anne Arundel,39.1869,-76.633,,,975.8,polygon,FALSE,America/New_York,21061
+Detmold-MD,1840031333,Detmold,Detmold,MD,Detmold-MD,Maryland,24001,Allegany,39.5572,-78.991,,,90.6,polygon,FALSE,America/New_York,21539
+Scaggsville-MD,1840024483,Scaggsville,Scaggsville,MD,Scaggsville-MD,Maryland,24027,Howard,39.1416,-76.8843,,,276.1,polygon,FALSE,America/New_York,20723
+Bagtown-MD,1840024386,Bagtown,Bagtown,MD,Bagtown-MD,Maryland,24043,Washington,39.583,-77.6139,,,176.6,polygon,FALSE,America/New_York,21740
+Arnold-MD,1840005907,Arnold,Arnold,MD,Arnold-MD,Maryland,24003,Anne Arundel,39.0437,-76.4974,,,316.4,polygon,FALSE,America/New_York,21012
+Aspen Hill-MD,1840005825,Aspen Hill,Aspen Hill,MD,Aspen Hill-MD,Maryland,24031,Montgomery,39.0928,-77.0822,,,2636.6,polygon,FALSE,America/New_York,20853 20906 20897
+Golden Beach-MD,1840006230,Golden Beach,Golden Beach,MD,Golden Beach-MD,Maryland,24037,St. Mary's,38.49,-76.7019,,,936.8,polygon,FALSE,America/New_York,20659
+North Beach-MD,1840006152,North Beach,North Beach,MD,North Beach-MD,Maryland,24009,Calvert,38.708,-76.5347,2019,2019,2366,polygon,TRUE,America/New_York,20714
+Union Bridge-MD,1840005706,Union Bridge,Union Bridge,MD,Union Bridge-MD,Maryland,24013,Carroll,39.5734,-77.1745,970,970,360,polygon,TRUE,America/New_York,21791
+Baltimore-MD,1840001592,Baltimore,Baltimore,MD,Baltimore-MD,Maryland,24510,Baltimore (city),39.3051,-76.6144,2181206,614664,2931,polygon,TRUE,America/New_York,21218 21211 21210 21213 21212 21215 21214 21217 21216 21231 21230 21239 21251 21209 21202 21206 21207 21205 21226 21201 21223 21224 21225 21229 21203 21233 21235 21241 21263 21264 21270 21273 21275 21278 21279 21280 21281 21282 21284 21285 21287 21288 21289 21290 21297 21298
+Brentwood-MD,1840005982,Brentwood,Brentwood,MD,Brentwood-MD,Maryland,24033,Prince George's,38.9436,-76.9568,3183,3183,3205,polygon,TRUE,America/New_York,20722
+Broomes Island-MD,1840026721,Broomes Island,Broomes Island,MD,Broomes Island-MD,Maryland,24009,Calvert,38.4202,-76.5475,,,277.3,polygon,FALSE,America/New_York,20615
+Abingdon-MD,1840031252,Abingdon,Abingdon,MD,Abingdon-MD,Maryland,24025,Harford,39.4623,-76.2791,,,783.7,point,FALSE,America/New_York,21009
+Fairmount-MD,1840001668,Fairmount,Fairmount,MD,Fairmount-MD,Maryland,24039,Somerset,38.1016,-75.8074,,,18,polygon,FALSE,America/New_York,21871 21867
+Pittsville-MD,1840006222,Pittsville,Pittsville,MD,Pittsville-MD,Maryland,24045,Wicomico,38.3947,-75.4089,1445,1445,331,polygon,TRUE,America/New_York,21850
+Temple Hills-MD,1840005967,Temple Hills,Temple Hills,MD,Temple Hills-MD,Maryland,24033,Prince George's,38.8106,-76.9495,,,1238.1,polygon,FALSE,America/New_York,20748 20744 20757
+Hurlock-MD,1840006164,Hurlock,Hurlock,MD,Hurlock-MD,Maryland,24019,Dorchester,38.6268,-75.8639,2027,2027,293,polygon,TRUE,America/New_York,21643
+Sunderland-MD,1840031410,Sunderland,Sunderland,MD,Sunderland-MD,Maryland,24009,Calvert,38.6712,-76.598,,,99.3,point,FALSE,America/New_York,20689
+Royal Oak-MD,1840031399,Royal Oak,Royal Oak,MD,Royal Oak-MD,Maryland,24041,Talbot,38.7423,-76.1777,,,199,point,FALSE,America/New_York,21601
+Piney Point-MD,1840026744,Piney Point,Piney Point,MD,Piney Point-MD,Maryland,24037,St. Mary's,38.1483,-76.5201,,,376.3,polygon,FALSE,America/New_York,20674 20690
+Churchton-MD,1840031324,Churchton,Churchton,MD,Churchton-MD,Maryland,24003,Anne Arundel,38.8026,-76.5369,,,197.5,point,FALSE,America/New_York,20733
+Cardiff-MD,1840031316,Cardiff,Cardiff,MD,Cardiff-MD,Maryland,24025,Harford,39.7173,-76.3377,,,458.1,point,FALSE,America/New_York,21160
+Oakland-MD,1840005634,Oakland,Oakland,MD,Oakland-MD,Maryland,24023,Garrett,39.4166,-79.4022,1873,1873,264,polygon,TRUE,America/New_York,21550

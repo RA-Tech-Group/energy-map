@@ -1,0 +1,1124 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Lake Panasoffkee-FL,1840014066,Lake Panasoffkee,Lake Panasoffkee,FL,Lake Panasoffkee-FL,Florida,12119,Sumter,28.7877,-82.1318,,,20.8,polygon,FALSE,America/New_York,33538
+Alachua-FL,1840014020,Alachua,Alachua,FL,Alachua-FL,Florida,12001,Alachua,29.7779,-82.4827,4493,9893,108,polygon,TRUE,America/New_York,32615 32616
+Holt-FL,1840028697,Holt,Holt,FL,Holt-FL,Florida,12091,Okaloosa,30.7157,-86.7458,,,99.5,point,FALSE,America/Chicago,32564
+Pretty Bayou-FL,1840029069,Pretty Bayou,Pretty Bayou,FL,Pretty Bayou-FL,Florida,12005,Bay,30.1975,-85.6973,,,739.7,polygon,FALSE,America/Chicago,32405
+Bushnell-FL,1840014067,Bushnell,Bushnell,FL,Bushnell-FL,Florida,12119,Sumter,28.6852,-82.1166,4439,3067,106,polygon,TRUE,America/New_York,33513 33538 33585
+Apalachicola-FL,1840014015,Apalachicola,Apalachicola,FL,Apalachicola-FL,Florida,12037,Franklin,29.7282,-84.994,3850,2328,468,polygon,TRUE,America/New_York,32320 32329
+Campville-FL,1840028865,Campville,Campville,FL,Campville-FL,Florida,12001,Alachua,29.6664,-82.1184,,,12.4,point,FALSE,America/New_York,32640
+Tequesta-FL,1840018310,Tequesta,Tequesta,FL,Tequesta-FL,Florida,12099,Palm Beach,26.9619,-80.1012,5990,5990,1260,polygon,TRUE,America/New_York,33469
+Dundee-FL,1840017241,Dundee,Dundee,FL,Dundee-FL,Florida,12105,Polk,28.0123,-81.6004,4209,4209,159,polygon,TRUE,America/New_York,33898 33877 33838 33844
+West Hollywood-FL,1840028808,West Hollywood,West Hollywood,FL,West Hollywood-FL,Florida,12011,Broward,26.0206,-80.1839,,,1984.3,point,FALSE,America/New_York,33021
+Luraville-FL,1840028838,Luraville,Luraville,FL,Luraville-FL,Florida,12121,Suwannee,30.1224,-83.1693,,,35.8,point,FALSE,America/New_York,32060
+Sumatra-FL,1840026013,Sumatra,Sumatra,FL,Sumatra-FL,Florida,12077,Liberty,30.023,-84.9825,,,138.7,polygon,FALSE,America/New_York,32321 32335
+Bonifay-FL,1840013924,Bonifay,Bonifay,FL,Bonifay-FL,Florida,12059,Holmes,30.7827,-85.6846,4164,2750,260,polygon,TRUE,America/Chicago,32425
+Indian Pass-FL,1840028887,Indian Pass,Indian Pass,FL,Indian Pass-FL,Florida,12045,Gulf,29.6905,-85.2644,,,19.9,point,FALSE,America/New_York,32456
+Jupiter Island-FL,1840017251,Jupiter Island,Jupiter Island,FL,Jupiter Island-FL,Florida,12085,Martin,27.0449,-80.11,901,901,129,polygon,TRUE,America/New_York,33455
+The Villages-FL,1840014065,The Villages,The Villages,FL,The Villages-FL,Florida,12119,Sumter,28.9029,-81.9887,,,1179.6,polygon,FALSE,America/New_York,34785 32162 32159 32163
+Taylor Creek-FL,1840029086,Taylor Creek,Taylor Creek,FL,Taylor Creek-FL,Florida,12093,Okeechobee,27.2172,-80.7927,,,932.3,polygon,FALSE,America/New_York,34974
+Columbia-FL,1840028654,Columbia,Columbia,FL,Columbia-FL,Florida,12023,Columbia,30.0738,-82.6957,,,95.1,point,FALSE,America/New_York,32024
+North Palm Beach-FL,1840018307,North Palm Beach,North Palm Beach,FL,North Palm Beach-FL,Florida,12099,Palm Beach,26.8217,-80.0574,12993,12993,1392,polygon,TRUE,America/New_York,33408
+Tiger Point-FL,1840029101,Tiger Point,Tiger Point,FL,Tiger Point-FL,Florida,12113,Santa Rosa,30.3775,-87.0578,,,992.7,polygon,FALSE,America/Chicago,32563
+Goodland-FL,1840014229,Goodland,Goodland,FL,Goodland-FL,Florida,12021,Collier,25.9249,-81.6477,,,858.9,polygon,FALSE,America/New_York,34140
+Falmouth-FL,1840028823,Falmouth,Falmouth,FL,Falmouth-FL,Florida,12121,Suwannee,30.363,-83.1312,,,8.4,point,FALSE,America/New_York,32060
+Yankeetown-FL,1840017223,Yankeetown,Yankeetown,FL,Yankeetown-FL,Florida,12075,Levy,29.0334,-82.733,504,504,25,polygon,TRUE,America/New_York,34498
+Grove City-FL,1840014196,Grove City,Grove City,FL,Grove City-FL,Florida,12015,Charlotte,26.9071,-82.3258,,,577.5,polygon,FALSE,America/New_York,34224
+Indian Rocks Beach-FL,1840015113,Indian Rocks Beach,Indian Rocks Beach,FL,Indian Rocks Beach-FL,Florida,12103,Pinellas,27.8963,-82.8443,4316,4316,1979,polygon,TRUE,America/New_York,33785
+Tangelo Park-FL,1840014087,Tangelo Park,Tangelo Park,FL,Tangelo Park-FL,Florida,12095,Orange,28.456,-81.4465,,,2435,polygon,FALSE,America/New_York,32819
+Bayshore-FL,1840028629,Bayshore,Bayshore,FL,Bayshore-FL,Florida,12071,Lee,26.7153,-81.8234,,,452.7,point,FALSE,America/New_York,33917
+Glenvar Heights-FL,1840014238,Glenvar Heights,Glenvar Heights,FL,Glenvar Heights-FL,Florida,12086,Miami-Dade,25.709,-80.3156,,,1010.1,polygon,FALSE,America/New_York,33143 33155
+Kingsley-FL,1840028714,Kingsley,Kingsley,FL,Kingsley-FL,Florida,12019,Clay,29.9819,-81.9959,,,36.5,point,FALSE,America/New_York,32091
+Belleair Beach-FL,1840014146,Belleair Beach,Belleair Beach,FL,Belleair Beach-FL,Florida,12103,Pinellas,27.924,-82.8365,1623,1623,1314,polygon,TRUE,America/New_York,33786
+Fruit Cove-FL,1840013970,Fruit Cove,Fruit Cove,FL,Fruit Cove-FL,Florida,12109,St. Johns,30.0972,-81.6176,,,500.8,polygon,FALSE,America/New_York,32259
+Wannee-FL,1840028857,Wannee,Wannee,FL,Wannee-FL,Florida,12041,Gilchrist,29.7186,-82.941,,,30.1,point,FALSE,America/New_York,32619
+Westchester-FL,1840014241,Westchester,Westchester,FL,Westchester-FL,Florida,12086,Miami-Dade,25.7474,-80.3358,,,3186.7,polygon,FALSE,America/New_York,33174 33144 33165 33155
+Dowling Park-FL,1840028668,Dowling Park,Dowling Park,FL,Dowling Park-FL,Florida,12121,Suwannee,30.2436,-83.2363,,,422.2,point,FALSE,America/New_York,32060
+Keystone Heights-FL,1840015049,Keystone Heights,Keystone Heights,FL,Keystone Heights-FL,Florida,12019,Clay,29.781,-82.0339,7081,1461,512,polygon,TRUE,America/New_York,32656
+Day-FL,1840026032,Day,Day,FL,Day-FL,Florida,12067,Lafayette,30.195,-83.2909,,,48.9,polygon,FALSE,America/New_York,32066 32013
+Highland City-FL,1840014122,Highland City,Highland City,FL,Highland City-FL,Florida,12105,Polk,27.9631,-81.8779,,,1541.1,polygon,FALSE,America/New_York,33830 33813 33812 33846
+Miami Springs-FL,1840015152,Miami Springs,Miami Springs,FL,Miami Springs-FL,Florida,12086,Miami-Dade,25.8195,-80.2896,14431,14431,1901,polygon,TRUE,America/New_York,33166
+Bradenton-FL,1840014173,Bradenton,Bradenton,FL,Bradenton-FL,Florida,12081,Manatee,27.49,-82.5746,55687,55687,1505,polygon,TRUE,America/New_York,34208 34209 34205 34204 34206 34280 34281 34282
+Thonotosassa-FL,1840014154,Thonotosassa,Thonotosassa,FL,Thonotosassa-FL,Florida,12057,Hillsborough,28.0464,-82.291,,,874,polygon,FALSE,America/New_York,33592 33584
+Lakeland-FL,1840015108,Lakeland,Lakeland,FL,Lakeland-FL,Florida,12105,Polk,28.0556,-81.9542,286876,106420,626,polygon,TRUE,America/New_York,33803 33801 33805 33815 33813 33811 33802 33804 33806 33807
+Elfers-FL,1840013122,Elfers,Elfers,FL,Elfers-FL,Florida,12101,Pasco,28.214,-82.723,,,1338.2,polygon,FALSE,America/New_York,34690 34653 34652 34680
+Lely Resort-FL,1840028991,Lely Resort,Lely Resort,FL,Lely Resort-FL,Florida,12021,Collier,26.0889,-81.7031,,,588.4,polygon,FALSE,America/New_York,34113
+Citra-FL,1840028652,Citra,Citra,FL,Citra-FL,Florida,12083,Marion,29.4119,-82.1098,,,193.9,point,FALSE,America/New_York,32113
+Capitola-FL,1840028646,Capitola,Capitola,FL,Capitola-FL,Florida,12073,Leon,30.451,-84.0879,,,135,point,FALSE,America/New_York,32317
+Hillsboro Pines-FL,1840029106,Hillsboro Pines,Hillsboro Pines,FL,Hillsboro Pines-FL,Florida,12011,Broward,26.3252,-80.1947,,,2104.9,polygon,FALSE,America/New_York,33073
+Winter Springs-FL,1840015959,Winter Springs,Winter Springs,FL,Winter Springs-FL,Florida,12117,Seminole,28.689,-81.2708,35599,35599,937,polygon,TRUE,America/New_York,32708 32719
+Citrus Hills-FL,1840028978,Citrus Hills,Citrus Hills,FL,Citrus Hills-FL,Florida,12017,Citrus,28.887,-82.4312,,,549.1,polygon,FALSE,America/New_York,34461 34453 34442
+Alafaya-FL,1840029102,Alafaya,Alafaya,FL,Alafaya-FL,Florida,12095,Orange,28.5183,-81.178,,,834.4,polygon,FALSE,America/New_York,32825 32828 32829 32831
+Parker-FL,1840015036,Parker,Parker,FL,Parker-FL,Florida,12005,Bay,30.129,-85.6008,4617,4617,930,polygon,TRUE,America/Chicago,32404
+Laguna Beach-FL,1840013957,Laguna Beach,Laguna Beach,FL,Laguna Beach-FL,Florida,12005,Bay,30.2549,-85.951,,,808.5,polygon,FALSE,America/Chicago,32413
+Lake Lindsey-FL,1840014107,Lake Lindsey,Lake Lindsey,FL,Lake Lindsey-FL,Florida,12053,Hernando,28.6322,-82.3617,,,101.4,polygon,FALSE,America/New_York,34601
+Briny Breezes-FL,1840015991,Briny Breezes,Briny Breezes,FL,Briny Breezes-FL,Florida,12099,Palm Beach,26.509,-80.0543,604,604,3347,polygon,TRUE,America/New_York,33435
+Schall Circle-FL,1840029002,Schall Circle,Schall Circle,FL,Schall Circle-FL,Florida,12099,Palm Beach,26.7152,-80.1143,,,1232.6,polygon,FALSE,America/New_York,33417
+Mascotte-FL,1840015951,Mascotte,Mascotte,FL,Mascotte-FL,Florida,12069,Lake,28.611,-81.9107,5538,5538,173,polygon,TRUE,America/New_York,34736 34753
+Miccosukee-FL,1840028730,Miccosukee,Miccosukee,FL,Miccosukee-FL,Florida,12073,Leon,30.5946,-84.0413,,,10.1,point,FALSE,America/New_York,32309
+West Frostproof-FL,1840011659,West Frostproof,West Frostproof,FL,West Frostproof-FL,Florida,12105,Polk,27.7336,-81.5831,,,11.1,point,FALSE,America/New_York,32094
+Captiva-FL,1840014217,Captiva,Captiva,FL,Captiva-FL,Florida,12071,Lee,26.5206,-82.191,,,373.7,polygon,FALSE,America/New_York,33924
+Miami Lakes-FL,1840017275,Miami Lakes,Miami Lakes,FL,Miami Lakes-FL,Florida,12086,Miami-Dade,25.9125,-80.3214,30873,30873,2104,polygon,TRUE,America/New_York,33014 33016 33018
+Cottondale-FL,1840017150,Cottondale,Cottondale,FL,Cottondale-FL,Florida,12063,Jackson,30.789,-85.3641,896,896,104,polygon,TRUE,America/Chicago,32431 32448
+Celebration-FL,1840014138,Celebration,Celebration,FL,Celebration-FL,Florida,12097,Osceola,28.3102,-81.551,,,1044.4,polygon,FALSE,America/New_York,34747
+Estero-FL,1840013129,Estero,Estero,FL,Estero-FL,Florida,12071,Lee,26.4275,-81.7952,32140,32140,506,polygon,TRUE,America/New_York,33967 34135 33928 33929
+Loxahatchee Groves-FL,1840017260,Loxahatchee Groves,Loxahatchee Groves,FL,Loxahatchee Groves-FL,Florida,12099,Palm Beach,26.7105,-80.2763,3441,3441,106,polygon,TRUE,America/New_York,33470
+Cobbtown-FL,1840027007,Cobbtown,Cobbtown,FL,Cobbtown-FL,Florida,12113,Santa Rosa,30.8823,-87.1212,,,13.3,polygon,FALSE,America/Chicago,32565
+Ocala-FL,1840015067,Ocala,Ocala,FL,Ocala-FL,Florida,12083,Marion,29.1803,-82.1487,165111,59253,508,polygon,TRUE,America/New_York,34475 34474 34471 34470 34477 34478 34483
+McIntosh-FL,1840017225,McIntosh,McIntosh,FL,McIntosh-FL,Florida,12083,Marion,29.4493,-82.2209,469,469,260,polygon,TRUE,America/New_York,32664
+River Park-FL,1840028958,River Park,River Park,FL,River Park-FL,Florida,12111,St. Lucie,27.3213,-80.3309,,,1664.3,polygon,FALSE,America/New_York,34983 34952
+Allentown-FL,1840025108,Allentown,Allentown,FL,Allentown-FL,Florida,12113,Santa Rosa,30.7736,-87.0808,,,24.9,polygon,FALSE,America/Chicago,32570 32565
+Garden Grove-FL,1840025147,Garden Grove,Garden Grove,FL,Garden Grove-FL,Florida,12053,Hernando,28.4716,-82.4348,,,209.8,polygon,FALSE,America/New_York,34604
+Country Walk-FL,1840028979,Country Walk,Country Walk,FL,Country Walk-FL,Florida,12086,Miami-Dade,25.6331,-80.4353,,,1064.4,polygon,FALSE,America/New_York,33196 33186
+Crawfordville-FL,1840025125,Crawfordville,Crawfordville,FL,Crawfordville-FL,Florida,12129,Wakulla,30.1996,-84.3634,,,431.1,polygon,FALSE,America/New_York,32327
+Crystal Springs-FL,1840014113,Crystal Springs,Crystal Springs,FL,Crystal Springs-FL,Florida,12101,Pasco,28.183,-82.1539,,,62.3,polygon,FALSE,America/New_York,33540 33524
+Fruitville-FL,1840014179,Fruitville,Fruitville,FL,Fruitville-FL,Florida,12115,Sarasota,27.3328,-82.4615,,,574.5,polygon,FALSE,America/New_York,34232 34240
+Hilliard-FL,1840017180,Hilliard,Hilliard,FL,Hilliard-FL,Florida,12089,Nassau,30.6869,-81.9212,3143,3143,222,polygon,TRUE,America/New_York,32046
+Glen Saint Mary-FL,1840017191,Glen Saint Mary,Glen Saint Mary,FL,Glen Saint Mary-FL,Florida,12003,Baker,30.2751,-82.1603,444,444,370,polygon,TRUE,America/New_York,32040
+Ormond Beach-FL,1840015076,Ormond Beach,Ormond Beach,FL,Ormond Beach-FL,Florida,12127,Volusia,29.2951,-81.0999,42162,42162,501,polygon,TRUE,America/New_York,32174 32176 32173 32175
+Saint George Island-FL,1840029111,Saint George Island,Saint George Island,FL,Saint George Island-FL,Florida,12037,Franklin,29.652,-84.8881,,,197.8,polygon,FALSE,America/New_York,32328
+Dade City-FL,1840015101,Dade City,Dade City,FL,Dade City-FL,Florida,12101,Pasco,28.3564,-82.1942,7099,7099,461,polygon,TRUE,America/New_York,33525 33523 33526
+Lake Placid-FL,1840017248,Lake Placid,Lake Placid,FL,Lake Placid-FL,Florida,12055,Highlands,27.2967,-81.3719,16610,2259,253,polygon,TRUE,America/New_York,33852 33862
+West Bay-FL,1840028951,West Bay,West Bay,FL,West Bay-FL,Florida,12005,Bay,30.2919,-85.8597,,,220.1,point,FALSE,America/Chicago,32413
+Washington Park-FL,1840029015,Washington Park,Washington Park,FL,Washington Park-FL,Florida,12011,Broward,26.1304,-80.1801,,,1396.8,polygon,FALSE,America/New_York,33311
+Yalaha-FL,1840014048,Yalaha,Yalaha,FL,Yalaha-FL,Florida,12069,Lake,28.7509,-81.8194,,,135.2,polygon,FALSE,America/New_York,34797
+Saint Catherine-FL,1840028767,Saint Catherine,Saint Catherine,FL,Saint Catherine-FL,Florida,12119,Sumter,28.6103,-82.1381,,,62.4,point,FALSE,America/New_York,33597
+Fussels Corner-FL,1840029036,Fussels Corner,Fussels Corner,FL,Fussels Corner-FL,Florida,12105,Polk,28.0575,-81.8601,,,437,polygon,FALSE,America/New_York,33801 33823
+Ocean City-FL,1840013922,Ocean City,Ocean City,FL,Ocean City-FL,Florida,12091,Okaloosa,30.4398,-86.6071,,,1785.5,polygon,FALSE,America/Chicago,32547
+Boyd-FL,1840028641,Boyd,Boyd,FL,Boyd-FL,Florida,12123,Taylor,30.1891,-83.6065,,,17.8,point,FALSE,America/New_York,32347
+Brooksville-FL,1840014112,Brooksville,Brooksville,FL,Brooksville-FL,Florida,12053,Hernando,28.5404,-82.3901,7999,7999,278,polygon,TRUE,America/New_York,34601 34603 34605
+Bruce-FL,1840028644,Bruce,Bruce,FL,Bruce-FL,Florida,12131,Walton,30.4724,-85.9652,,,30.6,point,FALSE,America/Chicago,32455
+Haverhill-FL,1840015994,Haverhill,Haverhill,FL,Haverhill-FL,Florida,12099,Palm Beach,26.6909,-80.1218,2094,2094,1279,polygon,TRUE,America/New_York,33415 33417
+Lanark Village-FL,1840028934,Lanark Village,Lanark Village,FL,Lanark Village-FL,Florida,12037,Franklin,29.8835,-84.5957,,,133.9,point,FALSE,America/New_York,32323
+Daytona Beach-FL,1840015068,Daytona Beach,Daytona Beach,FL,Daytona Beach-FL,Florida,12127,Volusia,29.1959,-81.0935,66645,66645,440,polygon,TRUE,America/New_York,32124 32117 32114 32118 32119 32115 32116 32120 32121 32122 32123 32125 32126 32198
+Gladeview-FL,1840029038,Gladeview,Gladeview,FL,Gladeview-FL,Florida,12086,Miami-Dade,25.8395,-80.2369,,,1014.8,polygon,FALSE,America/New_York,33147
+Buckingham-FL,1840014216,Buckingham,Buckingham,FL,Buckingham-FL,Florida,12071,Lee,26.6615,-81.74,,,115.3,polygon,FALSE,America/New_York,33905
+Burnt Store Marina-FL,1840028975,Burnt Store Marina,Burnt Store Marina,FL,Burnt Store Marina-FL,Florida,12071,Lee,26.7645,-82.0507,,,756.2,polygon,FALSE,America/New_York,33955
+Altoona-FL,1840014045,Altoona,Altoona,FL,Altoona-FL,Florida,12069,Lake,28.9681,-81.6482,,,147.9,polygon,FALSE,America/New_York,32702
+Compass Lake-FL,1840028655,Compass Lake,Compass Lake,FL,Compass Lake-FL,Florida,12063,Jackson,30.5927,-85.3927,,,26.4,point,FALSE,America/Chicago,32420
+Sewall's Point-FL,1840018304,Sewall's Point,Sewall's Point,FL,Sewall's Point-FL,Florida,12085,Martin,27.1971,-80.1982,2180,2180,710,polygon,TRUE,America/New_York,34996
+Union Park-FL,1840014090,Union Park,Union Park,FL,Union Park-FL,Florida,12095,Orange,28.5657,-81.2355,,,785.4,polygon,FALSE,America/New_York,32825 32817
+Manalapan-FL,1840017261,Manalapan,Manalapan,FL,Manalapan-FL,Florida,12099,Palm Beach,26.5619,-80.0439,457,457,394,polygon,TRUE,America/New_York,33462
+Bay Lake-FL,1840011791,Bay Lake,Bay Lake,FL,Bay Lake-FL,Florida,12095,Orange,28.387,-81.5753,50,50,0,polygon,TRUE,America/New_York,32836 32830
+Sea Ranch Lakes-FL,1840018329,Sea Ranch Lakes,Sea Ranch Lakes,FL,Sea Ranch Lakes-FL,Florida,12011,Broward,26.2009,-80.0981,730,730,1592,polygon,TRUE,America/New_York,33308
+Anna Maria-FL,1840014171,Anna Maria,Anna Maria,FL,Anna Maria-FL,Florida,12081,Manatee,27.5297,-82.734,1723,1723,902,polygon,TRUE,America/New_York,34216
+Zolfo Springs-FL,1840017249,Zolfo Springs,Zolfo Springs,FL,Zolfo Springs-FL,Florida,12049,Hardee,27.4927,-81.787,1795,1795,396,polygon,TRUE,America/New_York,33890
+Bradenton Beach-FL,1840014174,Bradenton Beach,Bradenton Beach,FL,Bradenton Beach-FL,Florida,12081,Manatee,27.4649,-82.6957,1262,1262,941,polygon,TRUE,America/New_York,34217
+Pinellas Park-FL,1840015112,Pinellas Park,Pinellas Park,FL,Pinellas Park-FL,Florida,12103,Pinellas,27.8586,-82.7075,52137,52137,1281,polygon,TRUE,America/New_York,33781 33782 33773 33762 33760 33780
+Indrio-FL,1840028956,Indrio,Indrio,FL,Indrio-FL,Florida,12111,St. Lucie,27.5206,-80.3528,,,160.1,point,FALSE,America/New_York,34946
+Wildwood-FL,1840015956,Wildwood,Wildwood,FL,Wildwood-FL,Florida,12119,Sumter,28.8004,-82.0051,7464,7464,79,polygon,TRUE,America/New_York,33514 34484 34785
+North River Shores-FL,1840014191,North River Shores,North River Shores,FL,North River Shores-FL,Florida,12085,Martin,27.2224,-80.2737,,,988.1,polygon,FALSE,America/New_York,34994
+Dupont-FL,1840028670,Dupont,Dupont,FL,Dupont-FL,Florida,12035,Flagler,29.4269,-81.2226,,,314.1,point,FALSE,America/New_York,32164
+Eagle Lake-FL,1840014133,Eagle Lake,Eagle Lake,FL,Eagle Lake-FL,Florida,12105,Polk,27.9761,-81.7574,2520,2520,513,polygon,TRUE,America/New_York,33880 33839
+Venice Gardens-FL,1840014182,Venice Gardens,Venice Gardens,FL,Venice Gardens-FL,Florida,12115,Sarasota,27.0694,-82.4054,,,1441.5,polygon,FALSE,America/New_York,34293
+Canal Point-FL,1840014202,Canal Point,Canal Point,FL,Canal Point-FL,Florida,12099,Palm Beach,26.8626,-80.6222,,,398,polygon,FALSE,America/New_York,33476 33438
+Archer-FL,1840014021,Archer,Archer,FL,Archer-FL,Florida,12001,Alachua,29.5395,-82.5137,1191,1191,66,polygon,TRUE,America/New_York,32618
+Edgewater-FL,1840014043,Edgewater,Edgewater,FL,Edgewater-FL,Florida,12127,Volusia,28.9619,-80.9414,22077,22077,381,polygon,TRUE,America/New_York,32141 32168 32132
+Belleair Shores-FL,1840028633,Belleair Shores,Belleair Shores,FL,Belleair Shores-FL,Florida,12103,Pinellas,27.9173,-82.8455,113,113,733,polygon,TRUE,America/New_York,33786
+Lake Kathryn-FL,1840028990,Lake Kathryn,Lake Kathryn,FL,Lake Kathryn-FL,Florida,12069,Lake,29.0072,-81.4905,,,394.6,polygon,FALSE,America/New_York,32767
+Key Biscayne-FL,1840018333,Key Biscayne,Key Biscayne,FL,Key Biscayne-FL,Florida,12086,Miami-Dade,25.6908,-80.1653,13019,13019,4030,polygon,TRUE,America/New_York,33149
+Fort Green-FL,1840025166,Fort Green,Fort Green,FL,Fort Green-FL,Florida,12049,Hardee,27.6255,-81.9397,,,58.5,polygon,FALSE,America/New_York,33834
+Sopchoppy-FL,1840015934,Sopchoppy,Sopchoppy,FL,Sopchoppy-FL,Florida,12129,Wakulla,30.0597,-84.4855,470,470,107,polygon,TRUE,America/New_York,32358
+Winter Haven-FL,1840015970,Winter Haven,Winter Haven,FL,Winter Haven-FL,Florida,12105,Polk,28.0126,-81.7021,231412,38953,480,polygon,TRUE,America/New_York,33881 33880 33884 33882 33883 33885 33888
+Pembroke Pines-FL,1840015141,Pembroke Pines,Pembroke Pines,FL,Pembroke Pines-FL,Florida,12011,Broward,26.0127,-80.3384,168587,168587,1978,polygon,TRUE,America/New_York,33029 33028 33024 33023 33027 33026 33025 33082 33084
+Myrtle Grove-FL,1840013917,Myrtle Grove,Myrtle Grove,FL,Myrtle Grove-FL,Florida,12033,Escambia,30.4158,-87.3028,,,1011.5,polygon,FALSE,America/Chicago,32506 32511
+Clark-FL,1840028653,Clark,Clark,FL,Clark-FL,Florida,12001,Alachua,29.7733,-82.6259,,,1.2,point,FALSE,America/New_York,32643
+Wahneta-FL,1840014125,Wahneta,Wahneta,FL,Wahneta-FL,Florida,12105,Polk,27.9574,-81.7288,,,1532.9,polygon,FALSE,America/New_York,33880
+Bluff Springs-FL,1840028950,Bluff Springs,Bluff Springs,FL,Bluff Springs-FL,Florida,12033,Escambia,30.9363,-87.2947,,,24.4,point,FALSE,America/Chicago,32535
+Lighthouse Point-FL,1840015998,Lighthouse Point,Lighthouse Point,FL,Lighthouse Point-FL,Florida,12011,Broward,26.2785,-80.089,11143,11143,1865,polygon,TRUE,America/New_York,33064
+Mango-FL,1840014157,Mango,Mango,FL,Mango-FL,Florida,12057,Hillsborough,27.9915,-82.307,,,1024.2,polygon,FALSE,America/New_York,33610 33584 33550
+Indiantown-FL,1840014189,Indiantown,Indiantown,FL,Indiantown-FL,Florida,12085,Martin,27.0386,-80.4699,,,1275.9,polygon,FALSE,America/New_York,34956
+Horseshoe Beach-FL,1840017279,Horseshoe Beach,Horseshoe Beach,FL,Horseshoe Beach-FL,Florida,12029,Dixie,29.4499,-83.2818,169,169,143,polygon,TRUE,America/New_York,32648
+Jupiter Inlet Beach Colony-FL,1840028710,Jupiter Inlet Beach Colony,Jupiter Inlet Beach Colony,FL,Jupiter Inlet Beach Colony-FL,Florida,12099,Palm Beach,26.9489,-80.0748,,,547.9,point,TRUE,America/New_York,33469
+Pierson-FL,1840017226,Pierson,Pierson,FL,Pierson-FL,Florida,12127,Volusia,29.2382,-81.4589,1849,1849,87,polygon,TRUE,America/New_York,32180
+Hull-FL,1840028804,Hull,Hull,FL,Hull-FL,Florida,12027,DeSoto,27.1192,-81.9423,,,20.7,point,FALSE,America/New_York,34266
+Lacoochee-FL,1840014119,Lacoochee,Lacoochee,FL,Lacoochee-FL,Florida,12101,Pasco,28.4655,-82.1698,,,1055.5,polygon,FALSE,America/New_York,33523 33537
+High Point-FL,1840029105,High Point,High Point,FL,High Point-FL,Florida,12053,Hernando,28.5474,-82.5206,,,894.6,polygon,FALSE,America/New_York,34613
+Hillsboro Beach-FL,1840017270,Hillsboro Beach,Hillsboro Beach,FL,Hillsboro Beach-FL,Florida,12011,Broward,26.2838,-80.0796,2004,2004,2117,polygon,TRUE,America/New_York,33062
+Harlem Heights-FL,1840028985,Harlem Heights,Harlem Heights,FL,Harlem Heights-FL,Florida,12071,Lee,26.516,-81.9293,,,650.3,polygon,FALSE,America/New_York,33908
+Baldwin-FL,1840015920,Baldwin,Baldwin,FL,Baldwin-FL,Florida,12031,Duval,30.3051,-81.9737,1460,1460,277,polygon,TRUE,America/New_York,32234
+Punta Rassa-FL,1840014225,Punta Rassa,Punta Rassa,FL,Punta Rassa-FL,Florida,12071,Lee,26.5036,-81.9998,,,548.1,polygon,FALSE,America/New_York,33908
+Seminole-FL,1840015978,Seminole,Seminole,FL,Seminole-FL,Florida,12103,Pinellas,27.8429,-82.7835,18334,18334,1378,polygon,TRUE,America/New_York,33772 33777 33778 33775
+Tavernier-FL,1840014252,Tavernier,Tavernier,FL,Tavernier-FL,Florida,12087,Monroe,25.0188,-80.5132,,,554.4,polygon,FALSE,America/New_York,33070
+Prosperity-FL,1840028845,Prosperity,Prosperity,FL,Prosperity-FL,Florida,12059,Holmes,30.8519,-85.9469,,,15.5,point,FALSE,America/Chicago,32464
+New Port Richey-FL,1840015102,New Port Richey,New Port Richey,FL,New Port Richey-FL,Florida,12101,Pasco,28.2468,-82.7169,16167,16167,1377,polygon,TRUE,America/New_York,34653 34652 34656
+Lake City-FL,1840015029,Lake City,Lake City,FL,Lake City-FL,Florida,12023,Columbia,30.1892,-82.647,26128,12285,393,polygon,TRUE,America/New_York,32055 32025 32056
+Port Saint Lucie-FL,1840015119,Port Saint Lucie,Port Saint Lucie,FL,Port Saint Lucie-FL,Florida,12111,St. Lucie,27.2795,-80.3882,422966,185132,602,polygon,TRUE,America/New_York,34986 34984 34983 34987 34952 34953 34985 34988
+Quincy-FL,1840015022,Quincy,Quincy,FL,Quincy-FL,Florida,12039,Gadsden,30.5659,-84.5856,8952,7680,255,polygon,TRUE,America/New_York,32351 32353
+Ariel-FL,1840028812,Ariel,Ariel,FL,Ariel-FL,Florida,12127,Volusia,28.9005,-80.8637,,,535.8,point,FALSE,America/New_York,32759
+Jennings-FL,1840017188,Jennings,Jennings,FL,Jennings-FL,Florida,12047,Hamilton,30.5981,-83.1076,873,873,115,polygon,TRUE,America/New_York,32053
+Venice-FL,1840015989,Venice,Venice,FL,Venice-FL,Florida,12115,Sarasota,27.1165,-82.4135,22465,22465,562,polygon,TRUE,America/New_York,34285 34292 34275 34284
+Siesta Key-FL,1840028968,Siesta Key,Siesta Key,FL,Siesta Key-FL,Florida,12115,Sarasota,27.2779,-82.5516,,,1085.5,polygon,FALSE,America/New_York,34242
+Providence-FL,1840028764,Providence,Providence,FL,Providence-FL,Florida,12105,Polk,28.1539,-81.9734,,,192.9,point,FALSE,America/New_York,33809
+Clearwater-FL,1840015110,Clearwater,Clearwater,FL,Clearwater-FL,Florida,12103,Pinellas,27.9787,-82.7623,114361,114361,1708,polygon,TRUE,America/New_York,33759 33756 33755 33763 33761 33767 33764 33765 33757 33758 33766 33769
+Masaryktown-FL,1840014108,Masaryktown,Masaryktown,FL,Masaryktown-FL,Florida,12053,Hernando,28.4417,-82.461,,,196.1,polygon,FALSE,America/New_York,34604
+Fountain-FL,1840028682,Fountain,Fountain,FL,Fountain-FL,Florida,12005,Bay,30.4788,-85.4196,,,171.1,point,FALSE,America/Chicago,32438
+Eucheeanna-FL,1840028876,Eucheeanna,Eucheeanna,FL,Eucheeanna-FL,Florida,12131,Walton,30.6457,-86.0449,,,13.4,point,FALSE,America/Chicago,32455
+Lady Lake-FL,1840017229,Lady Lake,Lady Lake,FL,Lady Lake-FL,Florida,12069,Lake,28.924,-81.93,14974,14974,706,polygon,TRUE,America/New_York,32159 32158
+Inglis-FL,1840017222,Inglis,Inglis,FL,Inglis-FL,Florida,12075,Levy,29.0327,-82.6592,1317,1317,139,polygon,TRUE,America/New_York,34449
+Middleburg-FL,1840013998,Middleburg,Middleburg,FL,Middleburg-FL,Florida,12019,Clay,30.0502,-81.9011,,,314.9,polygon,FALSE,America/New_York,32068 32050
+Panama City-FL,1840015034,Panama City,Panama City,FL,Panama City-FL,Florida,12005,Bay,30.1985,-85.6153,147788,37635,495,polygon,TRUE,America/Chicago,32401 32404 32405 32402 32406 32411 32412 32417
+South Bay-FL,1840015992,South Bay,South Bay,FL,South Bay-FL,Florida,12099,Palm Beach,26.6783,-80.7268,5111,5111,734,polygon,TRUE,America/New_York,33493
+Walton-FL,1840028965,Walton,Walton,FL,Walton-FL,Florida,12111,St. Lucie,27.3,-80.2562,,,227.4,point,FALSE,America/New_York,34982
+Sarasota-FL,1840015988,Sarasota,Sarasota,FL,Sarasota-FL,Florida,12115,Sarasota,27.3391,-82.5439,701487,56610,1488,polygon,TRUE,America/New_York,34237 34232 34234 34236 34239 34230 34276 34277 34278
+Harbour Heights-FL,1840014197,Harbour Heights,Harbour Heights,FL,Harbour Heights-FL,Florida,12015,Charlotte,26.9928,-82.0072,,,489.2,polygon,FALSE,America/New_York,33983
+South Miami-FL,1840016006,South Miami,South Miami,FL,South Miami-FL,Florida,12086,Miami-Dade,25.7078,-80.2952,12207,12207,2079,polygon,TRUE,America/New_York,33143 33155
+Carrollwood-FL,1840029026,Carrollwood,Carrollwood,FL,Carrollwood-FL,Florida,12057,Hillsborough,28.0577,-82.5149,,,1680.5,polygon,FALSE,America/New_York,33624 33618
+De Leon Springs-FL,1840013118,De Leon Springs,De Leon Springs,FL,De Leon Springs-FL,Florida,12127,Volusia,29.1172,-81.3517,,,781.9,polygon,FALSE,America/New_York,32720 32130
+Vernon-FL,1840015906,Vernon,Vernon,FL,Vernon-FL,Florida,12133,Washington,30.6197,-85.7062,681,681,55,polygon,TRUE,America/Chicago,32462
+Marineland-FL,1840017221,Marineland,Marineland,FL,Marineland-FL,Florida,12035,Flagler,29.6648,-81.2138,17,17,24,polygon,TRUE,America/New_York,32137
+Frostproof-FL,1840014135,Frostproof,Frostproof,FL,Frostproof-FL,Florida,12105,Polk,27.7492,-81.5251,8103,3179,115,polygon,TRUE,America/New_York,33843
+Buckhead Ridge-FL,1840014195,Buckhead Ridge,Buckhead Ridge,FL,Buckhead Ridge-FL,Florida,12043,Glades,27.133,-80.8868,,,665.9,polygon,FALSE,America/New_York,34974
+Otter Creek-FL,1840017224,Otter Creek,Otter Creek,FL,Otter Creek-FL,Florida,12075,Levy,29.324,-82.7737,135,135,36,polygon,TRUE,America/New_York,32626 32683
+Astor-FL,1840014046,Astor,Astor,FL,Astor-FL,Florida,12069,Lake,29.1635,-81.5349,,,214.3,polygon,FALSE,America/New_York,32102
+Marathon Shores-FL,1840028723,Marathon Shores,Marathon Shores,FL,Marathon Shores-FL,Florida,12087,Monroe,24.7257,-81.0484,,,414.5,point,FALSE,America/New_York,33050
+Wauchula-FL,1840015987,Wauchula,Wauchula,FL,Wauchula-FL,Florida,12049,Hardee,27.547,-81.8102,14390,4922,586,polygon,TRUE,America/New_York,33873
+Oviedo-FL,1840015089,Oviedo,Oviedo,FL,Oviedo-FL,Florida,12117,Seminole,28.6576,-81.1869,39337,39337,997,polygon,TRUE,America/New_York,32765 32766 32762
+Morriston-FL,1840026043,Morriston,Morriston,FL,Morriston-FL,Florida,12075,Levy,29.2811,-82.44,,,119.6,polygon,FALSE,America/New_York,32668
+Pomona Park-FL,1840017220,Pomona Park,Pomona Park,FL,Pomona Park-FL,Florida,12107,Putnam,29.5014,-81.5937,882,882,112,polygon,TRUE,America/New_York,32181
+Glencoe-FL,1840014041,Glencoe,Glencoe,FL,Glencoe-FL,Florida,12127,Volusia,29.0088,-80.9695,,,88.4,polygon,FALSE,America/New_York,32168
+Sampson-FL,1840028768,Sampson,Sampson,FL,Sampson-FL,Florida,12007,Bradford,29.9166,-82.2079,,,35,point,FALSE,America/New_York,32091
+Olga-FL,1840028841,Olga,Olga,FL,Olga-FL,Florida,12071,Lee,26.7113,-81.695,,,411.2,polygon,FALSE,America/New_York,33920 33905
+Lake Hart-FL,1840014094,Lake Hart,Lake Hart,FL,Lake Hart-FL,Florida,12095,Orange,28.3859,-81.2339,,,217.3,polygon,FALSE,America/New_York,32832
+Orlando-FL,1840015099,Orlando,Orlando,FL,Orlando-FL,Florida,12095,Orange,28.4801,-81.3448,1757288,277173,1041,polygon,TRUE,America/New_York,32829 32827 32824 32822 32804 32805 32806 32807 32801 32803 32808 32839 32835 32832 32819 32812 32811 32814 32802 32816 32834 32853 32854 32855 32856 32857 32858 32859 32860 32861 32862 32867 32868 32869 32872 32877 32878 32885 32886 32887 32891 32897
+Chiefland-FL,1840015066,Chiefland,Chiefland,FL,Chiefland-FL,Florida,12075,Levy,29.4895,-82.8665,2225,2225,138,polygon,TRUE,America/New_York,32626 32644
+Sebring-FL,1840015986,Sebring,Sebring,FL,Sebring-FL,Florida,12055,Highlands,27.4771,-81.453,62473,10638,408,polygon,TRUE,America/New_York,33870 33875 33871
+Greenacres City-FL,1840028687,Greenacres City,Greenacres City,FL,Greenacres City-FL,Florida,12099,Palm Beach,26.6237,-80.1253,,,2157.6,point,TRUE,America/New_York,33463
+Taylor-FL,1840028944,Taylor,Taylor,FL,Taylor-FL,Florida,12003,Baker,30.4405,-82.2912,,,63.1,point,FALSE,America/New_York,32087
+Leisure City-FL,1840014245,Leisure City,Leisure City,FL,Leisure City-FL,Florida,12086,Miami-Dade,25.4937,-80.4367,,,2795.2,polygon,FALSE,America/New_York,33033
+June Park-FL,1840014074,June Park,June Park,FL,June Park-FL,Florida,12009,Brevard,28.0716,-80.6867,,,540.4,polygon,FALSE,America/New_York,32904
+Hardaway-FL,1840028691,Hardaway,Hardaway,FL,Hardaway-FL,Florida,12039,Gadsden,30.6305,-84.7355,,,5.4,point,FALSE,America/New_York,32324
+Crows Bluff-FL,1840028928,Crows Bluff,Crows Bluff,FL,Crows Bluff-FL,Florida,12069,Lake,29.0078,-81.3892,,,24.3,point,FALSE,America/New_York,32720
+Haile-FL,1840028879,Haile,Haile,FL,Haile-FL,Florida,12001,Alachua,29.6905,-82.5734,,,3.7,point,FALSE,America/New_York,32669
+Oldsmar-FL,1840015111,Oldsmar,Oldsmar,FL,Oldsmar-FL,Florida,12103,Pinellas,28.0506,-82.6696,14397,14397,621,polygon,TRUE,America/New_York,34677 34685
+Bayou George-FL,1840028863,Bayou George,Bayou George,FL,Bayou George-FL,Florida,12005,Bay,30.2627,-85.5399,,,81.6,point,FALSE,America/Chicago,32404
+Plantation Key-FL,1840029068,Plantation Key,Plantation Key,FL,Plantation Key-FL,Florida,12087,Monroe,24.9783,-80.5547,,,833.9,point,FALSE,America/New_York,33070
+Vamo-FL,1840014181,Vamo,Vamo,FL,Vamo-FL,Florida,12115,Sarasota,27.2254,-82.4944,,,1383,polygon,FALSE,America/New_York,34231 34238 34229
+Meadow Woods-FL,1840029057,Meadow Woods,Meadow Woods,FL,Meadow Woods-FL,Florida,12095,Orange,28.3698,-81.3467,,,1197.6,polygon,FALSE,America/New_York,32824
+Mulat-FL,1840027016,Mulat,Mulat,FL,Mulat-FL,Florida,12113,Santa Rosa,30.5595,-87.1297,,,173.6,polygon,FALSE,America/Chicago,32583
+Saint Cloud-FL,1840015971,Saint Cloud,Saint Cloud,FL,Saint Cloud-FL,Florida,12097,Osceola,28.2297,-81.2853,47809,47809,1022,polygon,TRUE,America/New_York,34769 34771 34772 34770
+Bowling Green-FL,1840014167,Bowling Green,Bowling Green,FL,Bowling Green-FL,Florida,12049,Hardee,27.638,-81.8244,2908,2908,888,polygon,TRUE,America/New_York,33834
+Floral City-FL,1840014057,Floral City,Floral City,FL,Floral City-FL,Florida,12017,Citrus,28.7065,-82.309,,,214.7,polygon,FALSE,America/New_York,34436
+Aventura-FL,1840014243,Aventura,Aventura,FL,Aventura-FL,Florida,12086,Miami-Dade,25.9566,-80.1371,37724,37724,5507,polygon,TRUE,America/New_York,33160 33180
+Ankona-FL,1840028952,Ankona,Ankona,FL,Ankona-FL,Florida,12111,St. Lucie,27.3406,-80.275,,,105.2,point,FALSE,America/New_York,34982
+O'Brien-FL,1840028739,O'Brien,O'Brien,FL,O'Brien-FL,Florida,12121,Suwannee,30.0383,-82.9401,,,27.6,point,FALSE,America/New_York,32071
+Jena-FL,1840028835,Jena,Jena,FL,Jena-FL,Florida,12029,Dixie,29.6636,-83.3701,,,26.8,point,FALSE,America/New_York,32359
+Roeville-FL,1840025119,Roeville,Roeville,FL,Roeville-FL,Florida,12113,Santa Rosa,30.6837,-86.9939,,,98.7,polygon,FALSE,America/Chicago,32570
+Munson-FL,1840025115,Munson,Munson,FL,Munson-FL,Florida,12113,Santa Rosa,30.8418,-86.887,,,4.6,polygon,FALSE,America/Chicago,32570
+Cooper City-FL,1840015133,Cooper City,Cooper City,FL,Cooper City-FL,Florida,12011,Broward,26.0465,-80.2866,35405,35405,1695,polygon,TRUE,America/New_York,33328 33024 33330 33026
+East Naples-FL,1840028671,East Naples,East Naples,FL,East Naples-FL,Florida,12021,Collier,26.1384,-81.7665,,,1300.3,point,FALSE,America/New_York,34112
+Eaton Park-FL,1840028672,Eaton Park,Eaton Park,FL,Eaton Park-FL,Florida,12105,Polk,28.0086,-81.9076,,,862.8,point,FALSE,America/New_York,33803
+Sugarmill Woods-FL,1840014063,Sugarmill Woods,Sugarmill Woods,FL,Sugarmill Woods-FL,Florida,12017,Citrus,28.7321,-82.4986,,,216.7,polygon,FALSE,America/New_York,34461 34446
+Starke-FL,1840015940,Starke,Starke,FL,Starke-FL,Florida,12007,Bradford,29.9474,-82.1131,5641,5416,289,polygon,TRUE,America/New_York,32091
+Esto-FL,1840017161,Esto,Esto,FL,Esto-FL,Florida,12059,Holmes,30.9819,-85.6429,357,357,63,polygon,TRUE,America/Chicago,32425
+Silver Lake-FL,1840029074,Silver Lake,Silver Lake,FL,Silver Lake-FL,Florida,12069,Lake,28.8436,-81.8004,,,237.2,polygon,FALSE,America/New_York,34788
+Kathleen-FL,1840014129,Kathleen,Kathleen,FL,Kathleen-FL,Florida,12105,Polk,28.1224,-82.0388,,,327.4,polygon,FALSE,America/New_York,33810
+Valparaiso-FL,1840015903,Valparaiso,Valparaiso,FL,Valparaiso-FL,Florida,12091,Okaloosa,30.4926,-86.5079,5072,5072,165,polygon,TRUE,America/Chicago,32580 32542
+Butler Beach-FL,1840029025,Butler Beach,Butler Beach,FL,Butler Beach-FL,Florida,12109,St. Johns,29.798,-81.2653,,,883.7,polygon,FALSE,America/New_York,32080
+Fort Myers Shores-FL,1840014212,Fort Myers Shores,Fort Myers Shores,FL,Fort Myers Shores-FL,Florida,12071,Lee,26.7135,-81.7383,,,1662.1,polygon,FALSE,America/New_York,33905
+Eatonville-FL,1840017237,Eatonville,Eatonville,FL,Eatonville-FL,Florida,12095,Orange,28.6168,-81.3905,2277,2277,889,polygon,TRUE,America/New_York,32751 32810
+Wilton Manors-FL,1840016004,Wilton Manors,Wilton Manors,FL,Wilton Manors-FL,Florida,12011,Broward,26.1593,-80.1395,12682,12682,2492,polygon,TRUE,America/New_York,33305 33334 33311
+Bonita Springs-FL,1840014227,Bonita Springs,Bonita Springs,FL,Bonita Springs-FL,Florida,12071,Lee,26.3557,-81.7859,382869,54198,545,polygon,TRUE,America/New_York,33931 34135 34134 34133 34136
+Telogia-FL,1840028945,Telogia,Telogia,FL,Telogia-FL,Florida,12077,Liberty,30.3508,-84.8191,,,21.5,point,FALSE,America/New_York,32334
+Hosford-FL,1840026011,Hosford,Hosford,FL,Hosford-FL,Florida,12077,Liberty,30.3944,-84.8034,,,218.6,polygon,FALSE,America/New_York,32334
+Bronson-FL,1840015948,Bronson,Bronson,FL,Bronson-FL,Florida,12075,Levy,29.4501,-82.6391,1113,1113,102,polygon,TRUE,America/New_York,32621
+Milligan-FL,1840028731,Milligan,Milligan,FL,Milligan-FL,Florida,12091,Okaloosa,30.7524,-86.6408,,,130.7,point,FALSE,America/Chicago,32531
+Coleman-FL,1840015087,Coleman,Coleman,FL,Coleman-FL,Florida,12119,Sumter,28.8011,-82.0698,855,855,128,polygon,TRUE,America/New_York,33521 34785
+Lynne-FL,1840028936,Lynne,Lynne,FL,Lynne-FL,Florida,12083,Marion,29.1925,-81.9173,,,60.6,point,FALSE,America/New_York,34488
+Christmas-FL,1840014084,Christmas,Christmas,FL,Christmas-FL,Florida,12095,Orange,28.5606,-81.0201,,,32.5,polygon,FALSE,America/New_York,32709
+Ocoee-FL,1840015098,Ocoee,Ocoee,FL,Ocoee-FL,Florida,12095,Orange,28.5785,-81.5336,44820,44820,1144,polygon,TRUE,America/New_York,34761 34734
+Niceville-FL,1840015009,Niceville,Niceville,FL,Niceville-FL,Florida,12091,Okaloosa,30.5301,-86.4826,14974,14974,505,polygon,TRUE,America/Chicago,32578 32588
+Palmetto Bay-FL,1840018335,Palmetto Bay,Palmetto Bay,FL,Palmetto Bay-FL,Florida,12086,Miami-Dade,25.622,-80.3222,24570,24570,1144,polygon,TRUE,America/New_York,33158 33157
+Paisley-FL,1840014051,Paisley,Paisley,FL,Paisley-FL,Florida,12069,Lake,28.985,-81.5404,,,44.8,polygon,FALSE,America/New_York,32767
+Sparr-FL,1840028782,Sparr,Sparr,FL,Sparr-FL,Florida,12083,Marion,29.3386,-82.1126,,,102.6,point,FALSE,America/New_York,32617
+Gibsonton-FL,1840014148,Gibsonton,Gibsonton,FL,Gibsonton-FL,Florida,12057,Hillsborough,27.8257,-82.3766,,,1374.3,polygon,FALSE,America/New_York,33534
+Orient Park-FL,1840028746,Orient Park,Orient Park,FL,Orient Park-FL,Florida,12057,Hillsborough,27.9725,-82.3729,,,1315.2,point,FALSE,America/New_York,33619
+Winter Garden-FL,1840015965,Winter Garden,Winter Garden,FL,Winter Garden-FL,Florida,12095,Orange,28.543,-81.5944,41988,41988,1030,polygon,TRUE,America/New_York,34787 34777 34778
+Valkaria-FL,1840028789,Valkaria,Valkaria,FL,Valkaria-FL,Florida,12009,Brevard,27.9636,-80.5437,,,64,point,FALSE,America/New_York,32949
+Okahumpka-FL,1840014050,Okahumpka,Okahumpka,FL,Okahumpka-FL,Florida,12069,Lake,28.7459,-81.8962,,,178,polygon,FALSE,America/New_York,34762
+Warrington-FL,1840013914,Warrington,Warrington,FL,Warrington-FL,Florida,12033,Escambia,30.3821,-87.2944,,,747.4,polygon,FALSE,America/Chicago,32507
+Gardner-FL,1840025167,Gardner,Gardner,FL,Gardner-FL,Florida,12049,Hardee,27.3537,-81.7895,,,10.3,polygon,FALSE,America/New_York,33890
+Port Sewall-FL,1840028913,Port Sewall,Port Sewall,FL,Port Sewall-FL,Florida,12085,Martin,27.1862,-80.1895,,,852.3,point,FALSE,America/New_York,34996
+Dalkeith-FL,1840028871,Dalkeith,Dalkeith,FL,Dalkeith-FL,Florida,12045,Gulf,30.0058,-85.1541,,,14.1,point,FALSE,America/Chicago,32465
+Cedar Grove-FL,1840027022,Cedar Grove,Cedar Grove,FL,Cedar Grove-FL,Florida,12005,Bay,30.1811,-85.6267,,,825.8,polygon,FALSE,America/Chicago,32401 32405
+Fort Drum-FL,1840028826,Fort Drum,Fort Drum,FL,Fort Drum-FL,Florida,12093,Okeechobee,27.5267,-80.8067,,,55.1,point,FALSE,America/New_York,34972
+Ellaville-FL,1840028822,Ellaville,Ellaville,FL,Ellaville-FL,Florida,12121,Suwannee,30.3813,-83.1726,,,24.5,point,FALSE,America/New_York,32060
+Palm City-FL,1840014192,Palm City,Palm City,FL,Palm City-FL,Florida,12085,Martin,27.1736,-80.2861,,,957.2,polygon,FALSE,America/New_York,34990 34991
+Jan-Phyl Village-FL,1840028708,Jan-Phyl Village,Jan-Phyl Village,FL,Jan-Phyl Village-FL,Florida,12105,Polk,28.0201,-81.7933,,,1994.1,polygon,FALSE,America/New_York,33880
+Cudjoe Key-FL,1840029031,Cudjoe Key,Cudjoe Key,FL,Cudjoe Key-FL,Florida,12087,Monroe,24.6746,-81.4986,,,6.4,polygon,FALSE,America/New_York,33042
+Cannon Town-FL,1840028819,Cannon Town,Cannon Town,FL,Cannon Town-FL,Florida,12091,Okaloosa,30.8549,-86.6741,,,44.8,point,FALSE,America/Chicago,32531
+McKinnon-FL,1840028886,McKinnon,McKinnon,FL,McKinnon-FL,Florida,12033,Escambia,30.7891,-87.4733,,,21,point,FALSE,America/Chicago,32568
+Flowersville-FL,1840028824,Flowersville,Flowersville,FL,Flowersville-FL,Florida,12131,Walton,30.9538,-86.3383,,,37.4,point,FALSE,America/Chicago,32567
+Bryceville-FL,1840028818,Bryceville,Bryceville,FL,Bryceville-FL,Florida,12089,Nassau,30.3847,-81.9387,,,51.1,point,FALSE,America/New_York,32009
+Port Orange-FL,1840015077,Port Orange,Port Orange,FL,Port Orange-FL,Florida,12127,Volusia,29.1084,-81.0136,61105,61105,879,polygon,TRUE,America/New_York,32127 32129 32128
+Spring Hill-FL,1840014105,Spring Hill,Spring Hill,FL,Spring Hill-FL,Florida,12053,Hernando,28.4797,-82.53,,,870.2,polygon,FALSE,America/New_York,34608 34609 34604 34606 34611
+Saint Pete Beach-FL,1840015976,Saint Pete Beach,Saint Pete Beach,FL,Saint Pete Beach-FL,Florida,12103,Pinellas,27.7215,-82.7383,9671,9671,1753,polygon,TRUE,America/New_York,33706
+Bunnell-FL,1840014036,Bunnell,Bunnell,FL,Bunnell-FL,Florida,12035,Flagler,29.4198,-81.3235,2869,2869,8,polygon,TRUE,America/New_York,32110
+Medley-FL,1840017274,Medley,Medley,FL,Medley-FL,Florida,12086,Miami-Dade,25.8642,-80.3511,843,843,67,polygon,TRUE,America/New_York,33178 33166 33198
+McGregor-FL,1840029055,McGregor,McGregor,FL,McGregor-FL,Florida,12071,Lee,26.5611,-81.9134,,,1437.9,polygon,FALSE,America/New_York,33919
+Tarpon Springs-FL,1840015980,Tarpon Springs,Tarpon Springs,FL,Tarpon Springs-FL,Florida,12103,Pinellas,28.1492,-82.7622,24867,24867,1054,polygon,TRUE,America/New_York,34689
+Bayport-FL,1840014104,Bayport,Bayport,FL,Bayport-FL,Florida,12053,Hernando,28.5468,-82.6456,,,48.3,polygon,FALSE,America/New_York,34607
+Doctor Phillips-FL,1840013119,Doctor Phillips,Doctor Phillips,FL,Doctor Phillips-FL,Florida,12095,Orange,28.4473,-81.4911,,,1783.7,polygon,FALSE,America/New_York,32836 32819
+Summerfield-FL,1840028783,Summerfield,Summerfield,FL,Summerfield-FL,Florida,12083,Marion,29.0086,-82.0348,,,92.2,point,FALSE,America/New_York,34491
+Kendrick-FL,1840028712,Kendrick,Kendrick,FL,Kendrick-FL,Florida,12083,Marion,29.2536,-82.1679,,,64.5,point,FALSE,America/New_York,34475
+Charleston Park-FL,1840028976,Charleston Park,Charleston Park,FL,Charleston Park-FL,Florida,12071,Lee,26.7056,-81.5807,,,318.9,polygon,FALSE,America/New_York,33920
+Melbourne Village-FL,1840017234,Melbourne Village,Melbourne Village,FL,Melbourne Village-FL,Florida,12009,Brevard,28.0879,-80.6651,701,701,463,polygon,TRUE,America/New_York,32904
+Lorida-FL,1840028836,Lorida,Lorida,FL,Lorida-FL,Florida,12055,Highlands,27.4434,-81.2537,,,89.1,point,FALSE,America/New_York,33857
+Callaway-FL,1840013958,Callaway,Callaway,FL,Callaway-FL,Florida,12005,Bay,30.1352,-85.56,15269,15269,661,polygon,TRUE,America/Chicago,32404
+Tice-FL,1840014219,Tice,Tice,FL,Tice-FL,Florida,12071,Lee,26.6757,-81.8171,,,1230.3,polygon,FALSE,America/New_York,33905
+West Miami-FL,1840016009,West Miami,West Miami,FL,West Miami-FL,Florida,12086,Miami-Dade,25.7578,-80.2969,7459,7459,4064,polygon,TRUE,America/New_York,33144 33155
+Whitfield-FL,1840028920,Whitfield,Whitfield,FL,Whitfield-FL,Florida,12113,Santa Rosa,30.8787,-87.0613,,,31.6,polygon,FALSE,America/Chicago,32570
+Tallahassee-FL,1840015913,Tallahassee,Tallahassee,FL,Tallahassee-FL,Florida,12073,Leon,30.4549,-84.2527,252825,190894,733,polygon,TRUE,America/New_York,32311 32312 32399 32304 32303 32301 32309 32308 32302 32306 32307 32313 32314 32315 32316 32395
+Panama City Beach-FL,1840015035,Panama City Beach,Panama City Beach,FL,Panama City Beach-FL,Florida,12005,Bay,30.237,-85.8776,12776,12776,255,polygon,TRUE,America/Chicago,32407 32413
+Olympia Heights-FL,1840014247,Olympia Heights,Olympia Heights,FL,Olympia Heights-FL,Florida,12086,Miami-Dade,25.7241,-80.339,,,3028.1,polygon,FALSE,America/New_York,33165 33155
+South Brooksville-FL,1840029077,South Brooksville,South Brooksville,FL,South Brooksville-FL,Florida,12053,Hernando,28.5243,-82.4157,,,251.5,polygon,FALSE,America/New_York,34604 34601
+Ona-FL,1840025170,Ona,Ona,FL,Ona-FL,Florida,12049,Hardee,27.483,-81.9098,,,71.2,polygon,FALSE,America/New_York,33873 33865
+Altha-FL,1840015919,Altha,Altha,FL,Altha-FL,Florida,12013,Calhoun,30.572,-85.127,530,530,140,polygon,TRUE,America/Chicago,32421
+Shamrock-FL,1840028777,Shamrock,Shamrock,FL,Shamrock-FL,Florida,12029,Dixie,29.6433,-83.1449,,,13.2,point,FALSE,America/New_York,32628
+White City-FL,1840028858,White City,White City,FL,White City-FL,Florida,12045,Gulf,29.8841,-85.2199,,,235.2,point,FALSE,America/Chicago,32465
+Allandale-FL,1840028620,Allandale,Allandale,FL,Allandale-FL,Florida,12127,Volusia,29.1217,-80.9764,,,1587.3,point,FALSE,America/New_York,32127
+Citrus Springs-FL,1840014062,Citrus Springs,Citrus Springs,FL,Citrus Springs-FL,Florida,12017,Citrus,28.9932,-82.4595,,,954.7,polygon,FALSE,America/New_York,34433 34434 34445
+Gaskin-FL,1840028684,Gaskin,Gaskin,FL,Gaskin-FL,Florida,12131,Walton,30.971,-86.1355,,,30.4,point,FALSE,America/Chicago,32464
+Orchid-FL,1840017247,Orchid,Orchid,FL,Orchid-FL,Florida,12061,Indian River,27.7733,-80.418,448,448,140,polygon,TRUE,America/New_York,32963
+Northdale-FL,1840029107,Northdale,Northdale,FL,Northdale-FL,Florida,12057,Hillsborough,28.1058,-82.5263,,,467.2,polygon,FALSE,America/New_York,33624 33548 33558
+Marathon-FL,1840016010,Marathon,Marathon,FL,Marathon-FL,Florida,12087,Monroe,24.7262,-81.0377,9626,8910,407,polygon,TRUE,America/New_York,33050 33052
+Loughman-FL,1840014130,Loughman,Loughman,FL,Loughman-FL,Florida,12105,Polk,28.238,-81.5682,,,850,polygon,FALSE,America/New_York,33896 33837 33858
+Gonzalez-FL,1840013910,Gonzalez,Gonzalez,FL,Gonzalez-FL,Florida,12033,Escambia,30.5822,-87.2906,,,626.2,polygon,FALSE,America/Chicago,32533 32534 32560
+Orange City-FL,1840015075,Orange City,Orange City,FL,Orange City-FL,Florida,12127,Volusia,28.9345,-81.2886,11403,11403,605,polygon,TRUE,America/New_York,32763 32774
+Manasota Key-FL,1840029056,Manasota Key,Manasota Key,FL,Manasota Key-FL,Florida,12015,Charlotte,26.9226,-82.3537,,,1038.2,polygon,FALSE,America/New_York,34223
+Clarcona-FL,1840025145,Clarcona,Clarcona,FL,Clarcona-FL,Florida,12095,Orange,28.6218,-81.4993,,,933.8,polygon,FALSE,America/New_York,32703 32818 32710
+Jay-FL,1840017156,Jay,Jay,FL,Jay-FL,Florida,12113,Santa Rosa,30.9503,-87.1522,590,590,135,polygon,TRUE,America/Chicago,32565
+Limestone Creek-FL,1840028992,Limestone Creek,Limestone Creek,FL,Limestone Creek-FL,Florida,12099,Palm Beach,26.9427,-80.1407,,,751.1,polygon,FALSE,America/New_York,33458
+Land O' Lakes-FL,1840014120,Land O' Lakes,Land O' Lakes,FL,Land O' Lakes-FL,Florida,12101,Pasco,28.2075,-82.4476,,,793.1,polygon,FALSE,America/New_York,33549 33559 34639 34638
+Pinewood-FL,1840029066,Pinewood,Pinewood,FL,Pinewood-FL,Florida,12086,Miami-Dade,25.8697,-80.2174,,,4637.7,polygon,FALSE,America/New_York,33147 33167 33168 33150
+Sanford-FL,1840015958,Sanford,Sanford,FL,Sanford-FL,Florida,12117,Seminole,28.7892,-81.276,58605,58605,982,polygon,TRUE,America/New_York,32773 32771 32772
+Fairview Shores-FL,1840013120,Fairview Shores,Fairview Shores,FL,Fairview Shores-FL,Florida,12095,Orange,28.6021,-81.3947,,,1188.7,polygon,FALSE,America/New_York,32804 32789 32810
+Paxton-FL,1840017165,Paxton,Paxton,FL,Paxton-FL,Florida,12131,Walton,30.9751,-86.3095,774,774,79,polygon,TRUE,America/Chicago,32567 32538
+Bellview-FL,1840013912,Bellview,Bellview,FL,Bellview-FL,Florida,12033,Escambia,30.462,-87.312,,,684.2,polygon,FALSE,America/Chicago,32526
+Inwood-FL,1840014123,Inwood,Inwood,FL,Inwood-FL,Florida,12105,Polk,28.0391,-81.7677,,,2141.7,polygon,FALSE,America/New_York,33881 33880
+El Portal-FL,1840018332,El Portal,El Portal,FL,El Portal-FL,Florida,12086,Miami-Dade,25.8556,-80.1954,2480,2480,2303,polygon,TRUE,America/New_York,33138 33150
+Trinity-FL,1840029012,Trinity,Trinity,FL,Trinity-FL,Florida,12101,Pasco,28.1809,-82.6584,,,1197.7,polygon,FALSE,America/New_York,34655
+Dekle Beach-FL,1840028665,Dekle Beach,Dekle Beach,FL,Dekle Beach-FL,Florida,12123,Taylor,29.8491,-83.6193,,,46,point,FALSE,America/New_York,32348
+Richmond Heights-FL,1840014249,Richmond Heights,Richmond Heights,FL,Richmond Heights-FL,Florida,12086,Miami-Dade,25.6348,-80.3721,,,2930.6,polygon,FALSE,America/New_York,33176 33186
+Waverly-FL,1840014126,Waverly,Waverly,FL,Waverly-FL,Florida,12105,Polk,27.9839,-81.6196,,,277.7,polygon,FALSE,America/New_York,33877 33859
+Leonia-FL,1840028912,Leonia,Leonia,FL,Leonia-FL,Florida,12059,Holmes,30.9085,-86.0249,,,4.7,point,FALSE,America/Chicago,32464
+Marco-FL,1840028724,Marco,Marco,FL,Marco-FL,Florida,12021,Collier,25.9726,-81.729,,,1525.8,point,TRUE,America/New_York,34145
+Wallace-FL,1840027010,Wallace,Wallace,FL,Wallace-FL,Florida,12113,Santa Rosa,30.6746,-87.1997,,,56.7,polygon,FALSE,America/Chicago,32571
+Cypress-FL,1840028659,Cypress,Cypress,FL,Cypress-FL,Florida,12063,Jackson,30.7132,-85.0738,,,69.3,point,FALSE,America/Chicago,32442
+Econfina-FL,1840028874,Econfina,Econfina,FL,Econfina-FL,Florida,12005,Bay,30.4121,-85.5358,,,9.5,point,FALSE,America/Chicago,32466
+Lake Mary-FL,1840015090,Lake Mary,Lake Mary,FL,Lake Mary-FL,Florida,12117,Seminole,28.7591,-81.336,16198,16198,683,polygon,TRUE,America/New_York,32746 32795 32799
+Royal Palm Beach-FL,1840018309,Royal Palm Beach,Royal Palm Beach,FL,Royal Palm Beach-FL,Florida,12099,Palm Beach,26.7046,-80.2246,38006,38006,1317,polygon,TRUE,America/New_York,33411
+Floridatown-FL,1840027009,Floridatown,Floridatown,FL,Floridatown-FL,Florida,12113,Santa Rosa,30.5828,-87.1615,,,189.3,polygon,FALSE,America/Chicago,32571
+Merritt Island-FL,1840014076,Merritt Island,Merritt Island,FL,Merritt Island-FL,Florida,12009,Brevard,28.3146,-80.6713,,,0.1,polygon,FALSE,America/New_York,32952 32953 32954
+Apollo Beach-FL,1840014149,Apollo Beach,Apollo Beach,FL,Apollo Beach-FL,Florida,12057,Hillsborough,27.7619,-82.4003,,,1816,polygon,FALSE,America/New_York,33573 33572
+Harbor Bluffs-FL,1840014140,Harbor Bluffs,Harbor Bluffs,FL,Harbor Bluffs-FL,Florida,12103,Pinellas,27.9083,-82.8269,,,1334,polygon,FALSE,America/New_York,33770
+Ponce de Leon-FL,1840017164,Ponce de Leon,Ponce de Leon,FL,Ponce de Leon-FL,Florida,12059,Holmes,30.7233,-85.9374,555,555,43,polygon,TRUE,America/Chicago,32455
+Pinetta-FL,1840028756,Pinetta,Pinetta,FL,Pinetta-FL,Florida,12079,Madison,30.5941,-83.3524,,,82.9,point,FALSE,America/New_York,32350
+North Sarasota-FL,1840029061,North Sarasota,North Sarasota,FL,North Sarasota-FL,Florida,12115,Sarasota,27.371,-82.5177,,,524.7,polygon,FALSE,America/New_York,34234 34243
+Leesburg-FL,1840015083,Leesburg,Leesburg,FL,Leesburg-FL,Florida,12069,Lake,28.7674,-81.8983,146398,22419,272,polygon,TRUE,America/New_York,34748 34762 34736 34749 34789
+Crystal Lake-FL,1840029030,Crystal Lake,Crystal Lake,FL,Crystal Lake-FL,Florida,12105,Polk,28.0371,-81.9063,,,2644.7,polygon,FALSE,America/New_York,33801
+Istachatta-FL,1840014103,Istachatta,Istachatta,FL,Istachatta-FL,Florida,12053,Hernando,28.6634,-82.2725,,,158.3,polygon,FALSE,America/New_York,34601
+Lauderdale-by-the-Sea-FL,1840017271,Lauderdale-by-the-Sea,Lauderdale-by-the-Sea,FL,Lauderdale-by-the-Sea-FL,Florida,12011,Broward,26.1989,-80.0972,6512,6512,2882,polygon,TRUE,America/New_York,33308 33062
+Miami-FL,1840015149,Miami,Miami,FL,Miami-FL,Florida,12086,Miami-Dade,25.784,-80.2102,6247425,453579,4866,polygon,TRUE,America/New_York,33129 33125 33126 33127 33128 33149 33144 33145 33142 33139 33138 33137 33136 33135 33134 33133 33132 33131 33130 33150 33101 33109 33102 33111 33114 33116 33119 33124 33151 33152 33153 33163 33164 33188 33192 33195 33197 33199 33222 33231 33233 33234 33238 33239 33242 33243 33245 33247 33255 33256 33257 33261 33265 33266 33269 33280 33283 33296 33299
+Ponce Inlet-FL,1840017227,Ponce Inlet,Ponce Inlet,FL,Ponce Inlet-FL,Florida,12127,Volusia,29.0925,-80.9471,3220,3220,275,polygon,TRUE,America/New_York,32127 32168
+West Park-FL,1840016002,West Park,West Park,FL,West Park-FL,Florida,12011,Broward,25.984,-80.1922,15112,15112,2655,polygon,TRUE,America/New_York,33023
+Brooker-FL,1840015939,Brooker,Brooker,FL,Brooker-FL,Florida,12007,Bradford,29.8877,-82.3329,332,332,242,polygon,TRUE,America/New_York,32622
+Palmetto-FL,1840015116,Palmetto,Palmetto,FL,Palmetto-FL,Florida,12081,Manatee,27.525,-82.5749,13446,13446,961,polygon,TRUE,America/New_York,34221 34220
+Indialantic-FL,1840017231,Indialantic,Indialantic,FL,Indialantic-FL,Florida,12009,Brevard,28.0869,-80.57,2890,2890,1145,polygon,TRUE,America/New_York,32903
+North Fort Myers-FL,1840014222,North Fort Myers,North Fort Myers,FL,North Fort Myers-FL,Florida,12071,Lee,26.7243,-81.8491,,,954.8,polygon,FALSE,America/New_York,33917 33903
+The Meadows-FL,1840029087,The Meadows,The Meadows,FL,The Meadows-FL,Florida,12115,Sarasota,27.3653,-82.4724,,,909.4,polygon,FALSE,America/New_York,34235
+Webster-FL,1840015955,Webster,Webster,FL,Webster-FL,Florida,12119,Sumter,28.6115,-82.051,1086,1086,316,polygon,TRUE,America/New_York,33597
+Venus-FL,1840028855,Venus,Venus,FL,Venus-FL,Florida,12055,Highlands,27.0673,-81.3567,,,5.8,point,FALSE,America/New_York,33960
+Pineola-FL,1840028896,Pineola,Pineola,FL,Pineola-FL,Florida,12017,Citrus,28.6889,-82.2729,,,16.4,point,FALSE,America/New_York,34436
+Mount Plymouth-FL,1840014049,Mount Plymouth,Mount Plymouth,FL,Mount Plymouth-FL,Florida,12069,Lake,28.8024,-81.5351,,,533.2,polygon,FALSE,America/New_York,32776
+Rotonda-FL,1840014201,Rotonda,Rotonda,FL,Rotonda-FL,Florida,12015,Charlotte,26.8845,-82.2791,,,727.8,polygon,FALSE,America/New_York,33947
+North Port-FL,1840015120,North Port,North Port,FL,North Port-FL,Florida,12115,Sarasota,27.0577,-82.1976,190003,64274,249,polygon,TRUE,America/New_York,34286 34287 34288 34289 34293 34291 34266 34223 34290
+West Palm Beach-FL,1840015993,West Palm Beach,West Palm Beach,FL,West Palm Beach-FL,Florida,12099,Palm Beach,26.7468,-80.1315,108161,108161,756,polygon,TRUE,America/New_York,33411 33412 33417 33409 33407 33405 33401 33402 33416 33419 33420 33421 33422
+Eustis-FL,1840014054,Eustis,Eustis,FL,Eustis-FL,Florida,12069,Lake,28.8568,-81.6783,20768,20768,771,polygon,TRUE,America/New_York,32726 32736 32727
+Key Colony Beach-FL,1840015160,Key Colony Beach,Key Colony Beach,FL,Key Colony Beach-FL,Florida,12087,Monroe,24.7234,-81.0215,852,852,747,polygon,TRUE,America/New_York,33051
+Curlew-FL,1840028658,Curlew,Curlew,FL,Curlew-FL,Florida,12103,Pinellas,28.0531,-82.7429,,,1015.7,point,FALSE,America/New_York,34684
+Baskin-FL,1840028627,Baskin,Baskin,FL,Baskin-FL,Florida,12103,Pinellas,27.897,-82.7951,,,1558.6,point,FALSE,America/New_York,33778
+Seville-FL,1840025144,Seville,Seville,FL,Seville-FL,Florida,12127,Volusia,29.3364,-81.5065,,,208.9,polygon,FALSE,America/New_York,32190
+Palm Coast-FL,1840015064,Palm Coast,Palm Coast,FL,Palm Coast-FL,Florida,12035,Flagler,29.5403,-81.2468,395224,85109,346,polygon,TRUE,America/New_York,32164 32137 32135 32142 32143
+Branford-FL,1840015930,Branford,Branford,FL,Branford-FL,Florida,12121,Suwannee,29.9621,-82.9256,726,726,280,polygon,TRUE,America/New_York,32008
+South Punta Gorda Heights-FL,1840028780,South Punta Gorda Heights,South Punta Gorda Heights,FL,South Punta Gorda Heights-FL,Florida,12015,Charlotte,26.8656,-81.9909,,,85.4,point,FALSE,America/New_York,33955
+Pine Island Center-FL,1840014223,Pine Island Center,Pine Island Center,FL,Pine Island Center-FL,Florida,12071,Lee,26.6351,-82.1253,,,150.8,polygon,FALSE,America/New_York,33922
+Town 'n' Country-FL,1840029089,Town 'n' Country,Town 'n' Country,FL,Town 'n' Country-FL,Florida,12057,Hillsborough,28.0108,-82.576,,,1515.7,polygon,FALSE,America/New_York,33634 33635 33615
+Biscayne Park-FL,1840018331,Biscayne Park,Biscayne Park,FL,Biscayne Park-FL,Florida,12086,Miami-Dade,25.8818,-80.1814,3198,3198,1991,polygon,TRUE,America/New_York,33161
+Turnbull-FL,1840028908,Turnbull,Turnbull,FL,Turnbull-FL,Florida,12009,Brevard,28.7103,-80.8623,,,211.6,point,FALSE,America/New_York,32754
+Boynton Beach-FL,1840014208,Boynton Beach,Boynton Beach,FL,Boynton Beach-FL,Florida,12099,Palm Beach,26.5282,-80.0812,75569,75569,1802,polygon,TRUE,America/New_York,33426 33436 33435 33424 33425 33474
+Tamiami-FL,1840029085,Tamiami,Tamiami,FL,Tamiami-FL,Florida,12086,Miami-Dade,25.7556,-80.4016,,,1657,polygon,FALSE,America/New_York,33175 33182 33184
+Heathrow-FL,1840014070,Heathrow,Heathrow,FL,Heathrow-FL,Florida,12117,Seminole,28.7754,-81.3721,,,765.6,polygon,FALSE,America/New_York,32746
+Port Salerno-FL,1840014193,Port Salerno,Port Salerno,FL,Port Salerno-FL,Florida,12085,Martin,27.1462,-80.1894,,,1207.2,polygon,FALSE,America/New_York,34997 34992
+Bokeelia-FL,1840014215,Bokeelia,Bokeelia,FL,Bokeelia-FL,Florida,12071,Lee,26.68,-82.1409,,,440,polygon,FALSE,America/New_York,33922
+Sunnyside-FL,1840028905,Sunnyside,Sunnyside,FL,Sunnyside-FL,Florida,12069,Lake,28.7989,-81.8354,,,246.6,point,FALSE,America/New_York,34748
+Palmona Park-FL,1840028922,Palmona Park,Palmona Park,FL,Palmona Park-FL,Florida,12071,Lee,26.6892,-81.8947,,,1389.5,polygon,FALSE,America/New_York,33903
+Waukeenah-FL,1840026008,Waukeenah,Waukeenah,FL,Waukeenah-FL,Florida,12065,Jefferson,30.402,-83.96,,,95,polygon,FALSE,America/New_York,32344
+Drifton-FL,1840028669,Drifton,Drifton,FL,Drifton-FL,Florida,12065,Jefferson,30.4955,-83.8793,,,39.6,point,FALSE,America/New_York,32344
+Fort Walton Beach-FL,1840013923,Fort Walton Beach,Fort Walton Beach,FL,Fort Walton Beach-FL,Florida,12091,Okaloosa,30.4244,-86.6192,21971,21971,1132,polygon,TRUE,America/Chicago,32548 32547 32549
+Dukes-FL,1840028873,Dukes,Dukes,FL,Dukes-FL,Florida,12125,Union,29.9664,-82.4073,,,6.3,point,FALSE,America/New_York,32054
+Carrabelle-FL,1840015055,Carrabelle,Carrabelle,FL,Carrabelle-FL,Florida,12037,Franklin,29.8542,-84.6687,2744,2744,232,polygon,TRUE,America/New_York,32322
+Scottsmoor-FL,1840028774,Scottsmoor,Scottsmoor,FL,Scottsmoor-FL,Florida,12009,Brevard,28.7669,-80.8781,,,55.5,point,FALSE,America/New_York,32754
+Martel-FL,1840028725,Martel,Martel,FL,Martel-FL,Florida,12083,Marion,29.1866,-82.2465,,,358.6,point,FALSE,America/New_York,34482
+Seminole Manor-FL,1840029003,Seminole Manor,Seminole Manor,FL,Seminole Manor-FL,Florida,12099,Palm Beach,26.5839,-80.1001,,,1750.9,polygon,FALSE,America/New_York,33462
+Golden Gate-FL,1840014228,Golden Gate,Golden Gate,FL,Golden Gate-FL,Florida,12021,Collier,26.1844,-81.7031,,,3308.3,polygon,FALSE,America/New_York,34116
+Meadowbrook Terrace-FL,1840028729,Meadowbrook Terrace,Meadowbrook Terrace,FL,Meadowbrook Terrace-FL,Florida,12019,Clay,30.1775,-81.7345,,,1194.8,point,FALSE,America/New_York,32073
+Good Hope-FL,1840028932,Good Hope,Good Hope,FL,Good Hope-FL,Florida,12091,Okaloosa,30.9691,-86.6313,,,10.2,point,FALSE,America/Chicago,32531
+Highland View-FL,1840028692,Highland View,Highland View,FL,Highland View-FL,Florida,12045,Gulf,29.838,-85.3158,,,468.5,point,FALSE,America/New_York,32456
+Hypoluxo-FL,1840017253,Hypoluxo,Hypoluxo,FL,Hypoluxo-FL,Florida,12099,Palm Beach,26.5635,-80.0531,2738,2738,1708,polygon,TRUE,America/New_York,33462
+Miramar-FL,1840015137,Miramar,Miramar,FL,Miramar-FL,Florida,12011,Broward,25.9773,-80.3357,138449,138449,1819,polygon,TRUE,America/New_York,33029 33023 33027 33025
+Gandy-FL,1840029037,Gandy,Gandy,FL,Gandy-FL,Florida,12103,Pinellas,27.8685,-82.6161,,,431.7,point,FALSE,America/New_York,33702
+Avon Park-FL,1840014166,Avon Park,Avon Park,FL,Avon Park-FL,Florida,12055,Highlands,27.5934,-81.5086,10259,10259,457,polygon,TRUE,America/New_York,33825 33826
+Hawthorne-FL,1840015059,Hawthorne,Hawthorne,FL,Hawthorne-FL,Florida,12001,Alachua,29.588,-82.0842,1525,1525,122,polygon,TRUE,America/New_York,32640
+Romeo-FL,1840028849,Romeo,Romeo,FL,Romeo-FL,Florida,12083,Marion,29.2064,-82.4362,,,30.3,point,FALSE,America/New_York,34432
+Bay Pines-FL,1840014141,Bay Pines,Bay Pines,FL,Bay Pines-FL,Florida,12103,Pinellas,27.8144,-82.7744,,,442.1,polygon,FALSE,America/New_York,33708 33744
+Grant-Valkaria-FL,1840017235,Grant-Valkaria,Grant-Valkaria,FL,Grant-Valkaria-FL,Florida,12009,Brevard,27.9323,-80.5654,4150,4150,58,polygon,TRUE,America/New_York,32909 32950 32949
+Lely-FL,1840029052,Lely,Lely,FL,Lely-FL,Florida,12021,Collier,26.1032,-81.7296,,,821.6,polygon,FALSE,America/New_York,34113
+Palm Bay-FL,1840015094,Palm Bay,Palm Bay,FL,Palm Bay-FL,Florida,12009,Brevard,27.9861,-80.6628,483098,110104,646,polygon,TRUE,America/New_York,32909 32908 32905 32907 32906 32910 32911
+Ward Ridge-FL,1840028970,Ward Ridge,Ward Ridge,FL,Ward Ridge-FL,Florida,12045,Gulf,29.7885,-85.2849,,,157.1,point,FALSE,America/New_York,32456
+Campton-FL,1840028926,Campton,Campton,FL,Campton-FL,Florida,12091,Okaloosa,30.8735,-86.5183,,,12.9,point,FALSE,America/Chicago,32567
+Safety Harbor-FL,1840015975,Safety Harbor,Safety Harbor,FL,Safety Harbor-FL,Florida,12103,Pinellas,28.008,-82.6965,17606,17606,1385,polygon,TRUE,America/New_York,34695
+Bostwick-FL,1840028639,Bostwick,Bostwick,FL,Bostwick-FL,Florida,12107,Putnam,29.7741,-81.637,,,81.8,point,FALSE,America/New_York,32177
+Bloomingdale-FL,1840014150,Bloomingdale,Bloomingdale,FL,Bloomingdale-FL,Florida,12057,Hillsborough,27.8784,-82.2624,,,1017,polygon,FALSE,America/New_York,33511 33596
+Highland Park-FL,1840018289,Highland Park,Highland Park,FL,Highland Park-FL,Florida,12105,Polk,27.8612,-81.5617,255,255,205,polygon,TRUE,America/New_York,33898
+Miami Beach-FL,1840015150,Miami Beach,Miami Beach,FL,Miami Beach-FL,Florida,12086,Miami-Dade,25.8171,-80.1396,91917,91917,4618,polygon,TRUE,America/New_York,33140 33141 33139 33109
+Gun Club Estates-FL,1840028984,Gun Club Estates,Gun Club Estates,FL,Gun Club Estates-FL,Florida,12099,Palm Beach,26.6753,-80.1081,,,342.3,polygon,FALSE,America/New_York,33406
+Steinhatchee-FL,1840026030,Steinhatchee,Steinhatchee,FL,Steinhatchee-FL,Florida,12123,Taylor,29.6795,-83.3837,,,111.6,polygon,FALSE,America/New_York,32359
+Alford-FL,1840015898,Alford,Alford,FL,Alford-FL,Florida,12063,Jackson,30.6961,-85.3946,466,466,167,polygon,TRUE,America/Chicago,32420
+Lake Wales-FL,1840015107,Lake Wales,Lake Wales,FL,Lake Wales-FL,Florida,12105,Polk,27.9192,-81.5969,15860,15860,323,polygon,TRUE,America/New_York,33898 33853 33859
+Balm-FL,1840025162,Balm,Balm,FL,Balm-FL,Florida,12057,Hillsborough,27.7542,-82.2882,,,94.6,polygon,FALSE,America/New_York,33598 33503
+Watertown-FL,1840013955,Watertown,Watertown,FL,Watertown-FL,Florida,12023,Columbia,30.1854,-82.6023,,,495.5,polygon,FALSE,America/New_York,32055 32025
+Immokalee-FL,1840014230,Immokalee,Immokalee,FL,Immokalee-FL,Florida,12021,Collier,26.4253,-81.4252,,,2088.2,polygon,FALSE,America/New_York,34142 34143
+South Bradenton-FL,1840029076,South Bradenton,South Bradenton,FL,South Bradenton-FL,Florida,12081,Manatee,27.4612,-82.5821,,,2190.7,polygon,FALSE,America/New_York,34205 34207 34210
+Center Hill-FL,1840015086,Center Hill,Center Hill,FL,Center Hill-FL,Florida,12119,Sumter,28.6321,-82.0003,1350,1350,87,polygon,TRUE,America/New_York,33514 33597
+Alva-FL,1840014214,Alva,Alva,FL,Alva-FL,Florida,12071,Lee,26.7188,-81.6269,,,155.4,polygon,FALSE,America/New_York,33920
+Lake Magdalene-FL,1840029049,Lake Magdalene,Lake Magdalene,FL,Lake Magdalene-FL,Florida,12057,Hillsborough,28.0874,-82.4791,,,890,polygon,FALSE,America/New_York,33618 33613 33612
+Belleview-FL,1840014040,Belleview,Belleview,FL,Belleview-FL,Florida,12083,Marion,29.0613,-82.0565,4869,4869,494,polygon,TRUE,America/New_York,34420 34421
+Boca Grande-FL,1840028638,Boca Grande,Boca Grande,FL,Boca Grande-FL,Florida,12071,Lee,26.749,-82.262,,,533.4,point,FALSE,America/New_York,33921
+Ponte Vedra Beach-FL,1840028957,Ponte Vedra Beach,Ponte Vedra Beach,FL,Ponte Vedra Beach-FL,Florida,12109,St. Johns,30.2397,-81.3856,,,1102.5,point,FALSE,America/New_York,32082
+Saint Leo-FL,1840018288,Saint Leo,Saint Leo,FL,Saint Leo-FL,Florida,12101,Pasco,28.3372,-82.2586,1422,1422,403,polygon,TRUE,America/New_York,33525 33574
+Beacon Square-FL,1840028798,Beacon Square,Beacon Square,FL,Beacon Square-FL,Florida,12101,Pasco,28.2118,-82.7504,,,1847.4,polygon,FALSE,America/New_York,34691 34652
+Dunnellon-FL,1840014039,Dunnellon,Dunnellon,FL,Dunnellon-FL,Florida,12083,Marion,29.0529,-82.4414,1803,1803,111,polygon,TRUE,America/New_York,34432 34431 34430
+Atlantic Beach-FL,1840013956,Atlantic Beach,Atlantic Beach,FL,Atlantic Beach-FL,Florida,12031,Duval,30.3372,-81.4128,13452,13452,1486,polygon,TRUE,America/New_York,32233
+Perrine-FL,1840028753,Perrine,Perrine,FL,Perrine-FL,Florida,12086,Miami-Dade,25.6051,-80.3537,,,1175.4,point,FALSE,America/New_York,33157
+Ellzey-FL,1840028875,Ellzey,Ellzey,FL,Ellzey-FL,Florida,12075,Levy,29.3111,-82.7934,,,21,point,FALSE,America/New_York,32683
+North Naples-FL,1840028738,North Naples,North Naples,FL,North Naples-FL,Florida,12021,Collier,26.2193,-81.7918,,,371.3,point,FALSE,America/New_York,34108
+Wesley Chapel-FL,1840014118,Wesley Chapel,Wesley Chapel,FL,Wesley Chapel-FL,Florida,12101,Pasco,28.2106,-82.3238,,,345.2,polygon,FALSE,America/New_York,33543 33544 33545 33559
+Wabasso-FL,1840014162,Wabasso,Wabasso,FL,Wabasso-FL,Florida,12061,Indian River,27.7478,-80.4363,,,136.3,polygon,FALSE,America/New_York,32967 32970 32958
+Delray Beach-FL,1840015123,Delray Beach,Delray Beach,FL,Delray Beach-FL,Florida,12099,Palm Beach,26.455,-80.0905,67371,67371,1633,polygon,TRUE,America/New_York,33445 33444 33483 33448 33482
+Oakland Park-FL,1840015139,Oakland Park,Oakland Park,FL,Oakland Park-FL,Florida,12011,Broward,26.1779,-80.1527,44326,44326,2277,polygon,TRUE,America/New_York,33306 33309 33334 33311
+Layton-FL,1840015162,Layton,Layton,FL,Layton-FL,Florida,12087,Monroe,24.8246,-80.8128,189,189,437,polygon,TRUE,America/New_York,33001
+Indian River Estates-FL,1840029044,Indian River Estates,Indian River Estates,FL,Indian River Estates-FL,Florida,12111,St. Lucie,27.3565,-80.2986,,,751.5,polygon,FALSE,America/New_York,34982
+East Milton-FL,1840025112,East Milton,East Milton,FL,East Milton-FL,Florida,12113,Santa Rosa,30.6175,-86.9636,,,109.8,polygon,FALSE,America/Chicago,32583
+Ebro-FL,1840017178,Ebro,Ebro,FL,Ebro-FL,Florida,12133,Washington,30.4379,-85.879,272,272,21,polygon,TRUE,America/Chicago,32437
+Sunrise-FL,1840016000,Sunrise,Sunrise,FL,Sunrise-FL,Florida,12011,Broward,26.1547,-80.2998,93734,93734,2214,polygon,TRUE,America/New_York,33322 33323 33326 33351 33313
+Glen Ridge-FL,1840017264,Glen Ridge,Glen Ridge,FL,Glen Ridge-FL,Florida,12099,Palm Beach,26.6717,-80.0757,235,235,427,polygon,TRUE,America/New_York,33406
+Bratt-FL,1840028642,Bratt,Bratt,FL,Bratt-FL,Florida,12033,Escambia,30.9657,-87.4275,,,40.4,point,FALSE,America/Chicago,32535
+Chokoloskee-FL,1840014231,Chokoloskee,Chokoloskee,FL,Chokoloskee-FL,Florida,12021,Collier,25.8142,-81.3601,,,816.1,polygon,FALSE,America/New_York,34138
+Chipley-FL,1840015015,Chipley,Chipley,FL,Chipley-FL,Florida,12133,Washington,30.7755,-85.5405,3819,3580,330,polygon,TRUE,America/Chicago,32428
+Chaires-FL,1840028649,Chaires,Chaires,FL,Chaires-FL,Florida,12073,Leon,30.4363,-84.1174,,,75,point,FALSE,America/New_York,32317
+Juno Ridge-FL,1840028987,Juno Ridge,Juno Ridge,FL,Juno Ridge-FL,Florida,12099,Palm Beach,26.8491,-80.0619,,,1085.9,polygon,FALSE,America/New_York,33408
+Holley-FL,1840027015,Holley,Holley,FL,Holley-FL,Florida,12113,Santa Rosa,30.454,-86.9036,,,295,polygon,FALSE,America/Chicago,32566
+Sunny Isles Beach-FL,1840016007,Sunny Isles Beach,Sunny Isles Beach,FL,Sunny Isles Beach-FL,Florida,12086,Miami-Dade,25.9385,-80.1245,22086,22086,8441,polygon,TRUE,America/New_York,33160
+Jensen Beach-FL,1840014190,Jensen Beach,Jensen Beach,FL,Jensen Beach-FL,Florida,12085,Martin,27.2437,-80.2422,,,695.3,polygon,FALSE,America/New_York,34957 34958
+DeLand-FL,1840015071,DeLand,DeLand,FL,DeLand-FL,Florida,12127,Volusia,29.0225,-81.2872,31569,31569,658,polygon,TRUE,America/New_York,32724 32720 32723
+South Patrick Shores-FL,1840029080,South Patrick Shores,South Patrick Shores,FL,South Patrick Shores-FL,Florida,12009,Brevard,28.2021,-80.6137,,,1399.1,polygon,FALSE,America/New_York,32937
+Grand Island-FL,1840028933,Grand Island,Grand Island,FL,Grand Island-FL,Florida,12069,Lake,28.8825,-81.729,,,753.1,point,FALSE,America/New_York,32735
+Saint James City-FL,1840014211,Saint James City,Saint James City,FL,Saint James City-FL,Florida,12071,Lee,26.5507,-82.098,,,703.4,polygon,FALSE,America/New_York,33956
+Newburn-FL,1840028890,Newburn,Newburn,FL,Newburn-FL,Florida,12121,Suwannee,30.2724,-83.1407,,,13.8,point,FALSE,America/New_York,32060
+Georgetown-FL,1840028931,Georgetown,Georgetown,FL,Georgetown-FL,Florida,12107,Putnam,29.3914,-81.6387,,,118.3,point,FALSE,America/New_York,32139
+Noma-FL,1840017163,Noma,Noma,FL,Noma-FL,Florida,12059,Holmes,30.9801,-85.6223,207,207,76,polygon,TRUE,America/Chicago,32425 32452
+Winfield-FL,1840028911,Winfield,Winfield,FL,Winfield-FL,Florida,12023,Columbia,30.263,-82.686,,,14.7,point,FALSE,America/New_York,32055
+Redington Beach-FL,1840018294,Redington Beach,Redington Beach,FL,Redington Beach-FL,Florida,12103,Pinellas,27.8127,-82.8094,1483,1483,1598,polygon,TRUE,America/New_York,33708
+Wewahitchka-FL,1840015938,Wewahitchka,Wewahitchka,FL,Wewahitchka-FL,Florida,12045,Gulf,30.1153,-85.1932,2024,2024,120,polygon,TRUE,America/Chicago,32465
+Hollywood-FL,1840015144,Hollywood,Hollywood,FL,Hollywood-FL,Florida,12011,Broward,26.0293,-80.1679,151998,151998,2151,polygon,TRUE,America/New_York,33019 33024 33021 33020 33023 33004 33316 33312 33022 33081 33083
+Jasmine Estates-FL,1840014116,Jasmine Estates,Jasmine Estates,FL,Jasmine Estates-FL,Florida,12101,Pasco,28.293,-82.6907,,,3047.9,polygon,FALSE,America/New_York,34668
+Fuller Heights-FL,1840025156,Fuller Heights,Fuller Heights,FL,Fuller Heights-FL,Florida,12105,Polk,27.9227,-81.9978,,,375,polygon,FALSE,America/New_York,33860
+The Acreage-FL,1840026061,The Acreage,The Acreage,FL,The Acreage-FL,Florida,12099,Palm Beach,26.7709,-80.2812,,,512.6,polygon,FALSE,America/New_York,33411 33412 33470
+Wiscon-FL,1840025148,Wiscon,Wiscon,FL,Wiscon-FL,Florida,12053,Hernando,28.5409,-82.4664,,,392.7,polygon,FALSE,America/New_York,34613 34601
+Weeki Wachee-FL,1840015967,Weeki Wachee,Weeki Wachee,FL,Weeki Wachee-FL,Florida,12053,Hernando,28.517,-82.5775,13,13,4,polygon,TRUE,America/New_York,34613 34606
+Putnam Hall-FL,1840028802,Putnam Hall,Putnam Hall,FL,Putnam Hall-FL,Florida,12107,Putnam,29.7366,-81.9593,,,41.3,point,FALSE,America/New_York,32666
+Winter Beach-FL,1840014163,Winter Beach,Winter Beach,FL,Winter Beach-FL,Florida,12061,Indian River,27.712,-80.4254,,,96.9,polygon,FALSE,America/New_York,32967 32971
+Fort Myers Beach-FL,1840017269,Fort Myers Beach,Fort Myers Beach,FL,Fort Myers Beach-FL,Florida,12071,Lee,26.4325,-81.9169,7085,7085,983,polygon,TRUE,America/New_York,33931 33932
+McAlpin-FL,1840028727,McAlpin,McAlpin,FL,McAlpin-FL,Florida,12121,Suwannee,30.1391,-82.9518,,,20.5,point,FALSE,America/New_York,32062
+Lake Monroe-FL,1840028717,Lake Monroe,Lake Monroe,FL,Lake Monroe-FL,Florida,12117,Seminole,28.8247,-81.327,,,30.6,point,FALSE,America/New_York,32771
+Summer Haven-FL,1840028961,Summer Haven,Summer Haven,FL,Summer Haven-FL,Florida,12109,St. Johns,29.6991,-81.2234,,,230.7,point,FALSE,America/New_York,32080
+Jamieson-FL,1840028707,Jamieson,Jamieson,FL,Jamieson-FL,Florida,12039,Gadsden,30.6627,-84.4505,,,19.6,point,FALSE,America/New_York,32333
+Wimauma-FL,1840014155,Wimauma,Wimauma,FL,Wimauma-FL,Florida,12057,Hillsborough,27.6965,-82.3034,,,460.6,polygon,FALSE,America/New_York,33598
+Black Diamond-FL,1840028973,Black Diamond,Black Diamond,FL,Black Diamond-FL,Florida,12017,Citrus,28.9066,-82.4947,,,202.1,polygon,FALSE,America/New_York,34461 34465
+Satsuma-FL,1840028773,Satsuma,Satsuma,FL,Satsuma-FL,Florida,12107,Putnam,29.555,-81.6559,,,89.6,point,FALSE,America/New_York,32189
+Chattahoochee-FL,1840015020,Chattahoochee,Chattahoochee,FL,Chattahoochee-FL,Florida,12039,Gadsden,30.6977,-84.834,4754,3152,221,polygon,TRUE,America/New_York,32324
+Welaka-FL,1840017219,Welaka,Welaka,FL,Welaka-FL,Florida,12107,Putnam,29.4819,-81.6659,684,684,176,polygon,TRUE,America/New_York,32193 32189
+Pompano Park-FL,1840028761,Pompano Park,Pompano Park,FL,Pompano Park-FL,Florida,12011,Broward,26.1993,-80.2084,,,2643.3,point,FALSE,America/New_York,33319
+Hacienda Village-FL,1840028689,Hacienda Village,Hacienda Village,FL,Hacienda Village-FL,Florida,12011,Broward,26.0854,-80.2012,,,1087.1,point,FALSE,America/New_York,33312
+Lake Park-FL,1840017258,Lake Park,Lake Park,FL,Lake Park-FL,Florida,12099,Palm Beach,26.7998,-80.0689,8595,8595,1535,polygon,TRUE,America/New_York,33403
+Oakdale-FL,1840028839,Oakdale,Oakdale,FL,Oakdale-FL,Florida,12063,Jackson,30.7105,-85.1852,,,16.5,point,FALSE,America/Chicago,32448
+Bradfordville-FL,1840028817,Bradfordville,Bradfordville,FL,Bradfordville-FL,Florida,12073,Leon,30.5613,-84.2177,,,121.8,point,FALSE,America/New_York,32312
+Chassahowitzka-FL,1840028651,Chassahowitzka,Chassahowitzka,FL,Chassahowitzka-FL,Florida,12017,Citrus,28.713,-82.5743,,,341.8,point,FALSE,America/New_York,34448
+Goldenrod-FL,1840014080,Goldenrod,Goldenrod,FL,Goldenrod-FL,Florida,12117,Seminole,28.6114,-81.2915,,,1575.4,polygon,FALSE,America/New_York,32792 32733
+Micco-FL,1840014077,Micco,Micco,FL,Micco-FL,Florida,12009,Brevard,27.8683,-80.51,,,249.5,polygon,FALSE,America/New_York,32976
+Seagrove Beach-FL,1840028775,Seagrove Beach,Seagrove Beach,FL,Seagrove Beach-FL,Florida,12131,Walton,30.3185,-86.1302,,,255.6,point,FALSE,America/Chicago,32459
+La Crosse-FL,1840017214,La Crosse,La Crosse,FL,La Crosse-FL,Florida,12001,Alachua,29.8412,-82.3797,382,382,33,polygon,TRUE,America/New_York,32609 32622 32658
+Amelia City-FL,1840028811,Amelia City,Amelia City,FL,Amelia City-FL,Florida,12089,Nassau,30.5902,-81.4573,,,583.2,point,FALSE,America/New_York,32034
+Sunset-FL,1840029084,Sunset,Sunset,FL,Sunset-FL,Florida,12086,Miami-Dade,25.7061,-80.353,,,876.8,polygon,FALSE,America/New_York,33173
+Enterprise-FL,1840028673,Enterprise,Enterprise,FL,Enterprise-FL,Florida,12127,Volusia,28.8692,-81.2667,,,113.8,point,FALSE,America/New_York,32725
+South Highpoint-FL,1840029006,South Highpoint,South Highpoint,FL,South Highpoint-FL,Florida,12103,Pinellas,27.9085,-82.7162,,,649.1,polygon,FALSE,America/New_York,33760
+Hastings-FL,1840017203,Hastings,Hastings,FL,Hastings-FL,Florida,12109,St. Johns,29.7104,-81.5102,644,644,149,polygon,TRUE,America/New_York,32145
+Lantana-FL,1840017259,Lantana,Lantana,FL,Lantana-FL,Florida,12099,Palm Beach,26.5834,-80.0558,11221,11221,1875,polygon,TRUE,America/New_York,33462
+Vero Beach-FL,1840015985,Vero Beach,Vero Beach,FL,Vero Beach-FL,Florida,12061,Indian River,27.6463,-80.3929,16751,16751,565,polygon,TRUE,America/New_York,32963 32960 32961 32964 32965 32969
+Woodville-FL,1840013944,Woodville,Woodville,FL,Woodville-FL,Florida,12073,Leon,30.3114,-84.2595,,,398.4,polygon,FALSE,America/New_York,32305 32362
+Bayshore Gardens-FL,1840014168,Bayshore Gardens,Bayshore Gardens,FL,Bayshore Gardens-FL,Florida,12081,Manatee,27.4346,-82.5793,,,2086,polygon,FALSE,America/New_York,34207
+Ridge Wood Heights-FL,1840029070,Ridge Wood Heights,Ridge Wood Heights,FL,Ridge Wood Heights-FL,Florida,12115,Sarasota,27.2874,-82.5137,,,1490.5,polygon,FALSE,America/New_York,34231
+Wright-FL,1840013921,Wright,Wright,FL,Wright-FL,Florida,12091,Okaloosa,30.4445,-86.642,,,855,polygon,FALSE,America/Chicago,32547
+Gifford-FL,1840014160,Gifford,Gifford,FL,Gifford-FL,Florida,12061,Indian River,27.6748,-80.4099,,,369.4,polygon,FALSE,America/New_York,32967 32960
+Sumterville-FL,1840028784,Sumterville,Sumterville,FL,Sumterville-FL,Florida,12119,Sumter,28.745,-82.0634,,,322.1,point,FALSE,America/New_York,33585
+Sanderson-FL,1840028943,Sanderson,Sanderson,FL,Sanderson-FL,Florida,12003,Baker,30.2522,-82.2729,,,268.1,point,FALSE,America/New_York,32087
+Warm Mineral Springs-FL,1840014183,Warm Mineral Springs,Warm Mineral Springs,FL,Warm Mineral Springs-FL,Florida,12115,Sarasota,27.0469,-82.2701,,,230.8,polygon,FALSE,America/New_York,34287
+Barberville-FL,1840028626,Barberville,Barberville,FL,Barberville-FL,Florida,12127,Volusia,29.1872,-81.4209,,,48.5,point,FALSE,America/New_York,32180
+Port LaBelle-FL,1840014210,Port LaBelle,Port LaBelle,FL,Port LaBelle-FL,Florida,12051,Hendry,26.7493,-81.3877,,,703.9,polygon,FALSE,America/New_York,33935
+Rubonia-FL,1840028765,Rubonia,Rubonia,FL,Rubonia-FL,Florida,12081,Manatee,27.5789,-82.5526,,,517.1,point,FALSE,America/New_York,34221
+Desoto Lakes-FL,1840029033,Desoto Lakes,Desoto Lakes,FL,Desoto Lakes-FL,Florida,12115,Sarasota,27.373,-82.4968,,,539.9,polygon,FALSE,America/New_York,34235
+Pembroke Park-FL,1840017273,Pembroke Park,Pembroke Park,FL,Pembroke Park-FL,Florida,12011,Broward,25.9852,-80.1779,6312,6312,1778,polygon,TRUE,America/New_York,33023 33009
+DeBary-FL,1840015070,DeBary,DeBary,FL,DeBary-FL,Florida,12127,Volusia,28.8815,-81.324,20394,20394,415,polygon,TRUE,America/New_York,32713 32753
+South Palm Beach-FL,1840018305,South Palm Beach,South Palm Beach,FL,South Palm Beach-FL,Florida,12099,Palm Beach,26.5899,-80.0391,1434,1434,4487,polygon,TRUE,America/New_York,33480
+Silver Springs Shores-FL,1840028949,Silver Springs Shores,Silver Springs Shores,FL,Silver Springs Shores-FL,Florida,12083,Marion,29.1031,-82.005,,,983.4,polygon,FALSE,America/New_York,34472
+West DeLand-FL,1840029095,West DeLand,West DeLand,FL,West DeLand-FL,Florida,12127,Volusia,29.0162,-81.3343,,,1004.1,polygon,FALSE,America/New_York,32720
+Blackman-FL,1840028925,Blackman,Blackman,FL,Blackman-FL,Florida,12091,Okaloosa,30.9246,-86.6366,,,5.5,point,FALSE,America/Chicago,32531
+Gulf Stream-FL,1840017265,Gulf Stream,Gulf Stream,FL,Gulf Stream-FL,Florida,12099,Palm Beach,26.489,-80.0574,849,849,442,polygon,TRUE,America/New_York,33483
+Palm Valley-FL,1840013971,Palm Valley,Palm Valley,FL,Palm Valley-FL,Florida,12109,St. Johns,30.2011,-81.3949,,,596.9,polygon,FALSE,America/New_York,32082
+San Carlos Park-FL,1840014218,San Carlos Park,San Carlos Park,FL,San Carlos Park-FL,Florida,12071,Lee,26.4765,-81.8192,,,2325.9,polygon,FALSE,America/New_York,33967
+South Apopka-FL,1840028779,South Apopka,South Apopka,FL,South Apopka-FL,Florida,12095,Orange,28.6564,-81.5055,,,1621.1,polygon,FALSE,America/New_York,32703
+Wacissa-FL,1840026007,Wacissa,Wacissa,FL,Wacissa-FL,Florida,12065,Jefferson,30.3567,-83.9937,,,29.5,polygon,FALSE,America/New_York,32361 32344
+Capps-FL,1840028647,Capps,Capps,FL,Capps-FL,Florida,12065,Jefferson,30.4105,-83.911,,,2.5,point,FALSE,America/New_York,32344
+Bal Harbour-FL,1840018330,Bal Harbour,Bal Harbour,FL,Bal Harbour-FL,Florida,12086,Miami-Dade,25.8935,-80.1258,3050,3050,3071,polygon,TRUE,America/New_York,33154
+Miami Gardens-FL,1840015151,Miami Gardens,Miami Gardens,FL,Miami Gardens-FL,Florida,12086,Miami-Dade,25.9433,-80.2425,113058,113058,2394,polygon,TRUE,America/New_York,33014 33169 33055 33056 33054
+Myakka City-FL,1840028735,Myakka City,Myakka City,FL,Myakka City-FL,Florida,12081,Manatee,27.3498,-82.1615,,,53.5,point,FALSE,America/New_York,34251
+Saint Petersburg-FL,1840015977,Saint Petersburg,Saint Petersburg,FL,Saint Petersburg-FL,Florida,12103,Pinellas,27.7931,-82.6652,260999,260999,1631,polygon,TRUE,America/New_York,33705 33707 33702 33762 33713 33712 33711 33710 33716 33715 33714 33701 33703 33704 33729 33730 33731 33732 33733 33734 33736 33737 33738 33740 33741 33742 33743 33747 33784
+Lower Grand Lagoon-FL,1840029054,Lower Grand Lagoon,Lower Grand Lagoon,FL,Lower Grand Lagoon-FL,Florida,12005,Bay,30.1445,-85.7527,,,1625.5,polygon,FALSE,America/Chicago,32408
+Theressa-FL,1840028907,Theressa,Theressa,FL,Theressa-FL,Florida,12007,Bradford,29.8352,-82.0707,,,55.3,point,FALSE,America/New_York,32091
+Willow Oak-FL,1840028919,Willow Oak,Willow Oak,FL,Willow Oak-FL,Florida,12105,Polk,27.9216,-82.0244,,,1088.5,polygon,FALSE,America/New_York,33860 33811
+West Melbourne-FL,1840015963,West Melbourne,West Melbourne,FL,West Melbourne-FL,Florida,12009,Brevard,28.0698,-80.6737,21293,21293,774,polygon,TRUE,America/New_York,32904
+Fort Myers-FL,1840014226,Fort Myers,Fort Myers,FL,Fort Myers-FL,Florida,12071,Lee,26.6197,-81.8306,77146,77146,751,polygon,TRUE,America/New_York,33913 33916 33966 33901 33907 33905 33902 33906 33911 33918 33994
+Ormond-by-the-Sea-FL,1840014042,Ormond-by-the-Sea,Ormond-by-the-Sea,FL,Ormond-by-the-Sea-FL,Florida,12127,Volusia,29.3437,-81.0677,,,1340.4,polygon,FALSE,America/New_York,32176
+Naples-FL,1840015131,Naples,Naples,FL,Naples-FL,Florida,12021,Collier,26.1504,-81.7936,21845,21845,684,polygon,TRUE,America/New_York,34103 34102 34101 34105 34104 34106
+Island Grove-FL,1840028704,Island Grove,Island Grove,FL,Island Grove-FL,Florida,12001,Alachua,29.4536,-82.1065,,,28.2,point,FALSE,America/New_York,32640
+Odessa-FL,1840014121,Odessa,Odessa,FL,Odessa-FL,Florida,12101,Pasco,28.182,-82.553,,,75.6,polygon,FALSE,America/New_York,33556 33558
+Edgewood-FL,1840014099,Edgewood,Edgewood,FL,Edgewood-FL,Florida,12095,Orange,28.488,-81.3768,2852,2852,917,polygon,TRUE,America/New_York,32806 32809 32839
+Wakulla Beach-FL,1840028947,Wakulla Beach,Wakulla Beach,FL,Wakulla Beach-FL,Florida,12129,Wakulla,30.1094,-84.2591,,,3.3,point,FALSE,America/New_York,32327
+Pine Manor-FL,1840028755,Pine Manor,Pine Manor,FL,Pine Manor-FL,Florida,12071,Lee,26.5727,-81.8775,,,3878.6,polygon,FALSE,America/New_York,33907
+Crystal River-FL,1840015084,Crystal River,Crystal River,FL,Crystal River-FL,Florida,12017,Citrus,28.8967,-82.5994,4430,3138,163,polygon,TRUE,America/New_York,34428 34429 34423
+Florahome-FL,1840028680,Florahome,Florahome,FL,Florahome-FL,Florida,12107,Putnam,29.7327,-81.8834,,,110.3,point,FALSE,America/New_York,32140
+Alton-FL,1840028810,Alton,Alton,FL,Alton-FL,Florida,12067,Lafayette,30.053,-83.1379,,,23.1,point,FALSE,America/New_York,32066
+West Samoset-FL,1840029097,West Samoset,West Samoset,FL,West Samoset-FL,Florida,12081,Manatee,27.4702,-82.5552,,,2332.7,polygon,FALSE,America/New_York,34208 34203
+Olustee-FL,1840028939,Olustee,Olustee,FL,Olustee-FL,Florida,12003,Baker,30.2041,-82.4287,,,107.8,point,FALSE,America/New_York,32072
+Everglades City-FL,1840028676,Everglades City,Everglades City,FL,Everglades City-FL,Florida,12021,Collier,25.8601,-81.3804,,,70.6,point,TRUE,America/New_York,34141
+Fanning Springs-FL,1840014038,Fanning Springs,Fanning Springs,FL,Fanning Springs-FL,Florida,12041,Gilchrist,29.5877,-82.9244,991,991,78,polygon,TRUE,America/New_York,32693
+Newberry-FL,1840015058,Newberry,Newberry,FL,Newberry-FL,Florida,12001,Alachua,29.6347,-82.6046,5709,5709,41,polygon,TRUE,America/New_York,32669
+Minneola-FL,1840015081,Minneola,Minneola,FL,Minneola-FL,Florida,12069,Lake,28.607,-81.7321,11078,11078,393,polygon,TRUE,America/New_York,34715 34755
+Drexel-FL,1840028807,Drexel,Drexel,FL,Drexel-FL,Florida,12101,Pasco,28.2428,-82.4598,,,416.6,point,FALSE,America/New_York,34638
+Goulding-FL,1840013911,Goulding,Goulding,FL,Goulding-FL,Florida,12033,Escambia,30.4396,-87.23,,,691.6,polygon,FALSE,America/Chicago,32501 32503
+West Bradenton-FL,1840029094,West Bradenton,West Bradenton,FL,West Bradenton-FL,Florida,12081,Manatee,27.5016,-82.6146,,,1366.2,polygon,FALSE,America/New_York,34209
+Royal Palm Estates-FL,1840029001,Royal Palm Estates,Royal Palm Estates,FL,Royal Palm Estates-FL,Florida,12099,Palm Beach,26.6815,-80.1266,,,2255.3,polygon,FALSE,America/New_York,33413 33415
+Lake Sarasota-FL,1840029050,Lake Sarasota,Lake Sarasota,FL,Lake Sarasota-FL,Florida,12115,Sarasota,27.2916,-82.437,,,2033.5,polygon,FALSE,America/New_York,34241
+Nokomis-FL,1840014185,Nokomis,Nokomis,FL,Nokomis-FL,Florida,12115,Sarasota,27.1228,-82.4369,,,865.5,polygon,FALSE,America/New_York,34275 34274
+Point Baker-FL,1840025118,Point Baker,Point Baker,FL,Point Baker-FL,Florida,12113,Santa Rosa,30.6847,-87.0524,,,308.2,polygon,FALSE,America/Chicago,32570
+Lloyd-FL,1840026006,Lloyd,Lloyd,FL,Lloyd-FL,Florida,12065,Jefferson,30.4822,-84.0244,,,96.4,polygon,FALSE,America/New_York,32344
+Lake Helen-FL,1840015079,Lake Helen,Lake Helen,FL,Lake Helen-FL,Florida,12127,Volusia,28.9829,-81.231,2740,2740,238,polygon,TRUE,America/New_York,32744
+Cypress Quarters-FL,1840013126,Cypress Quarters,Cypress Quarters,FL,Cypress Quarters-FL,Florida,12093,Okeechobee,27.2479,-80.8116,,,539.8,polygon,FALSE,America/New_York,34972 34974
+Hallandale Beach-FL,1840014237,Hallandale Beach,Hallandale Beach,FL,Hallandale Beach-FL,Florida,12011,Broward,25.9854,-80.1423,39500,39500,3618,polygon,TRUE,America/New_York,33009 33008
+Dellwood-FL,1840028666,Dellwood,Dellwood,FL,Dellwood-FL,Florida,12063,Jackson,30.8238,-85.0496,,,17.3,point,FALSE,America/Chicago,32442
+Cheval-FL,1840028977,Cheval,Cheval,FL,Cheval-FL,Florida,12057,Hillsborough,28.1459,-82.5184,,,645.6,polygon,FALSE,America/New_York,33558
+Nobleton-FL,1840014109,Nobleton,Nobleton,FL,Nobleton-FL,Florida,12053,Hernando,28.6451,-82.2621,,,441.4,polygon,FALSE,America/New_York,34661
+Crooked Lake Park-FL,1840028657,Crooked Lake Park,Crooked Lake Park,FL,Crooked Lake Park-FL,Florida,12105,Polk,27.8294,-81.5897,,,1260.5,polygon,FALSE,America/New_York,33859
+Fort Basinger-FL,1840028878,Fort Basinger,Fort Basinger,FL,Fort Basinger-FL,Florida,12055,Highlands,27.3623,-81.057,,,16.6,point,FALSE,America/New_York,33857
+Becker-FL,1840028631,Becker,Becker,FL,Becker-FL,Florida,12089,Nassau,30.6713,-81.6412,,,14.4,point,FALSE,America/New_York,32097
+Broadview Park-FL,1840028918,Broadview Park,Broadview Park,FL,Broadview Park-FL,Florida,12011,Broward,26.0979,-80.2088,,,2560.2,polygon,FALSE,America/New_York,33317
+Williston-FL,1840015949,Williston,Williston,FL,Williston-FL,Florida,12075,Levy,29.3736,-82.4576,3235,2760,158,polygon,TRUE,America/New_York,32696
+Dixonville-FL,1840029113,Dixonville,Dixonville,FL,Dixonville-FL,Florida,12133,Washington,30.9865,-87.0416,,,21.5,polygon,FALSE,America/Chicago,32565
+Sanibel-FL,1840015996,Sanibel,Sanibel,FL,Sanibel-FL,Florida,12071,Lee,26.4535,-82.1024,7351,7351,176,polygon,TRUE,America/New_York,33957
+Trenton-FL,1840015945,Trenton,Trenton,FL,Trenton-FL,Florida,12041,Gilchrist,29.6094,-82.8147,2846,2089,235,polygon,TRUE,America/New_York,32693
+Florida Ridge-FL,1840029035,Florida Ridge,Florida Ridge,FL,Florida Ridge-FL,Florida,12061,Indian River,27.5805,-80.3848,,,294.2,polygon,FALSE,America/New_York,32962
+Izagora-FL,1840028834,Izagora,Izagora,FL,Izagora-FL,Florida,12059,Holmes,30.9102,-85.8416,,,14.6,point,FALSE,America/Chicago,32425
+Fernandina Beach-FL,1840013929,Fernandina Beach,Fernandina Beach,FL,Fernandina Beach-FL,Florida,12089,Nassau,30.6589,-81.4499,27371,12459,429,polygon,TRUE,America/New_York,32034 32035
+Groveland-FL,1840014056,Groveland,Groveland,FL,Groveland-FL,Florida,12069,Lake,28.602,-81.8205,12493,12493,300,polygon,TRUE,America/New_York,34736 34737
+Lakeside-FL,1840029051,Lakeside,Lakeside,FL,Lakeside-FL,Florida,12019,Clay,30.1357,-81.7674,,,1042.1,polygon,FALSE,America/New_York,32068 32065 32073 32030
+Beverly Hills-FL,1840014061,Beverly Hills,Beverly Hills,FL,Beverly Hills-FL,Florida,12017,Citrus,28.9175,-82.4541,,,1828.9,polygon,FALSE,America/New_York,34465 34464
+Coral Gables-FL,1840015147,Coral Gables,Coral Gables,FL,Coral Gables-FL,Florida,12086,Miami-Dade,25.7037,-80.2715,50815,50815,1517,polygon,TRUE,America/New_York,33146 33143 33134 33158 33156 33206
+Lauderhill-FL,1840015146,Lauderhill,Lauderhill,FL,Lauderhill-FL,Florida,12011,Broward,26.1605,-80.2241,71626,71626,3244,polygon,TRUE,America/New_York,33351 33313 33311 33319
+Wausau-FL,1840017179,Wausau,Wausau,FL,Wausau-FL,Florida,12133,Washington,30.6334,-85.5872,377,377,125,polygon,TRUE,America/Chicago,32428 32463
+Callahan-FL,1840015907,Callahan,Callahan,FL,Callahan-FL,Florida,12089,Nassau,30.5618,-81.8321,1279,1279,339,polygon,TRUE,America/New_York,32011
+Lisbon-FL,1840028935,Lisbon,Lisbon,FL,Lisbon-FL,Florida,12069,Lake,28.8824,-81.7813,,,673,polygon,FALSE,America/New_York,34788
+Clewiston-FL,1840015128,Clewiston,Clewiston,FL,Clewiston-FL,Florida,12051,Hendry,26.7532,-80.9399,13716,7648,628,polygon,TRUE,America/New_York,33440
+Chumuckla-FL,1840025111,Chumuckla,Chumuckla,FL,Chumuckla-FL,Florida,12113,Santa Rosa,30.7826,-87.2309,,,10.7,polygon,FALSE,America/Chicago,32571 32565
+Holden Heights-FL,1840029043,Holden Heights,Holden Heights,FL,Holden Heights-FL,Florida,12095,Orange,28.5011,-81.3877,,,1073.4,polygon,FALSE,America/New_York,32805 32839
+Santos-FL,1840028772,Santos,Santos,FL,Santos-FL,Florida,12083,Marion,29.1091,-82.0929,,,305.6,point,FALSE,America/New_York,34480
+South Ponte Vedra Beach-FL,1840028960,South Ponte Vedra Beach,South Ponte Vedra Beach,FL,South Ponte Vedra Beach-FL,Florida,12109,St. Johns,30.0225,-81.3237,,,161.4,point,FALSE,America/New_York,32082
+Sharpes-FL,1840014075,Sharpes,Sharpes,FL,Sharpes-FL,Florida,12009,Brevard,28.4368,-80.7555,,,271.2,polygon,FALSE,America/New_York,32927 32926 32959
+Eridu-FL,1840028674,Eridu,Eridu,FL,Eridu-FL,Florida,12123,Taylor,30.3019,-83.7471,,,11,point,FALSE,America/New_York,32331
+Cortez-FL,1840013125,Cortez,Cortez,FL,Cortez-FL,Florida,12081,Manatee,27.4668,-82.6688,,,800.2,polygon,FALSE,America/New_York,34215 34210
+Crescent Beach-FL,1840013108,Crescent Beach,Crescent Beach,FL,Crescent Beach-FL,Florida,12109,St. Johns,29.7357,-81.2414,,,717.2,polygon,FALSE,America/New_York,32080
+Osteen-FL,1840028747,Osteen,Osteen,FL,Osteen-FL,Florida,12127,Volusia,28.8461,-81.1626,,,176.8,point,FALSE,America/New_York,32764
+Raiford-FL,1840018256,Raiford,Raiford,FL,Raiford-FL,Florida,12125,Union,30.0636,-82.2391,244,244,165,polygon,TRUE,America/New_York,32083
+Eldridge-FL,1840028921,Eldridge,Eldridge,FL,Eldridge-FL,Florida,12127,Volusia,29.2114,-81.4573,,,92.9,point,FALSE,America/New_York,32180
+Basinger-FL,1840028814,Basinger,Basinger,FL,Basinger-FL,Florida,12093,Okeechobee,27.4003,-81.0165,,,4,point,FALSE,America/New_York,34972
+Doral-FL,1840015148,Doral,Doral,FL,Doral-FL,Florida,12086,Miami-Dade,25.815,-80.3565,57947,57947,1610,polygon,TRUE,America/New_York,33178 33172 33122 33126 33166 33191
+Powell-FL,1840028763,Powell,Powell,FL,Powell-FL,Florida,12053,Hernando,28.4925,-82.4284,,,254.8,point,FALSE,America/New_York,34601
+Tavares-FL,1840015953,Tavares,Tavares,FL,Tavares-FL,Florida,12069,Lake,28.7927,-81.7365,15922,15922,532,polygon,TRUE,America/New_York,32778
+Ridgecrest-FL,1840029000,Ridgecrest,Ridgecrest,FL,Ridgecrest-FL,Florida,12103,Pinellas,27.8952,-82.8063,,,1327.1,polygon,FALSE,America/New_York,33774 33778
+Pinland-FL,1840028897,Pinland,Pinland,FL,Pinland-FL,Florida,12123,Taylor,30.018,-83.5279,,,21.7,point,FALSE,America/New_York,32348
+Mims-FL,1840014078,Mims,Mims,FL,Mims-FL,Florida,12009,Brevard,28.6928,-80.8468,,,449.8,polygon,FALSE,America/New_York,32754
+Southgate-FL,1840029078,Southgate,Southgate,FL,Southgate-FL,Florida,12115,Sarasota,27.3082,-82.5096,,,1297,polygon,FALSE,America/New_York,34239
+Vermont Heights-FL,1840028962,Vermont Heights,Vermont Heights,FL,Vermont Heights-FL,Florida,12109,St. Johns,29.8102,-81.397,,,390.2,point,FALSE,America/New_York,32033
+Astatula-FL,1840015952,Astatula,Astatula,FL,Astatula-FL,Florida,12069,Lake,28.7065,-81.7346,1955,1955,243,polygon,TRUE,America/New_York,34705
+Naples Manor-FL,1840014232,Naples Manor,Naples Manor,FL,Naples Manor-FL,Florida,12021,Collier,26.0892,-81.7254,,,1895.4,polygon,FALSE,America/New_York,34113
+Treasure Island-FL,1840015981,Treasure Island,Treasure Island,FL,Treasure Island-FL,Florida,12103,Pinellas,27.7731,-82.766,6937,6937,1733,polygon,TRUE,America/New_York,33706
+Azalea Park-FL,1840014082,Azalea Park,Azalea Park,FL,Azalea Park-FL,Florida,12095,Orange,28.5467,-81.2957,,,2737.1,polygon,FALSE,America/New_York,32822 32807
+Fern Park-FL,1840014068,Fern Park,Fern Park,FL,Fern Park-FL,Florida,12117,Seminole,28.6484,-81.3457,,,880.3,polygon,FALSE,America/New_York,32751 32730
+Big Pine Key-FL,1840014251,Big Pine Key,Big Pine Key,FL,Big Pine Key-FL,Florida,12087,Monroe,24.6892,-81.3676,,,131.7,polygon,FALSE,America/New_York,33043
+Lake Harbor-FL,1840014204,Lake Harbor,Lake Harbor,FL,Lake Harbor-FL,Florida,12099,Palm Beach,26.6884,-80.8079,,,25.8,polygon,FALSE,America/New_York,33440
+Lecanto-FL,1840014064,Lecanto,Lecanto,FL,Lecanto-FL,Florida,12017,Citrus,28.8359,-82.488,,,48.8,polygon,FALSE,America/New_York,34461 34460
+Navarre-FL,1840027017,Navarre,Navarre,FL,Navarre-FL,Florida,12113,Santa Rosa,30.4174,-86.8907,,,420.7,polygon,FALSE,America/Chicago,32566
+Palm Harbor-FL,1840014143,Palm Harbor,Palm Harbor,FL,Palm Harbor-FL,Florida,12103,Pinellas,28.0847,-82.7481,,,1345,polygon,FALSE,America/New_York,34684 34681 34683 34660 34682
+Port Saint Joe-FL,1840015048,Port Saint Joe,Port Saint Joe,FL,Port Saint Joe-FL,Florida,12045,Gulf,29.8275,-85.3071,3665,3474,141,polygon,TRUE,America/New_York,32456
+Oslo-FL,1840028893,Oslo,Oslo,FL,Oslo-FL,Florida,12061,Indian River,27.5867,-80.3803,,,302,point,FALSE,America/New_York,32962
+Fruitland Park-FL,1840014055,Fruitland Park,Fruitland Park,FL,Fruitland Park-FL,Florida,12069,Lake,28.8599,-81.9192,6018,6018,391,polygon,TRUE,America/New_York,34731
+Belleair Bluffs-FL,1840014147,Belleair Bluffs,Belleair Bluffs,FL,Belleair Bluffs-FL,Florida,12103,Pinellas,27.92,-82.8195,2111,2111,1817,polygon,TRUE,America/New_York,33770
+Miramar Beach-FL,1840013925,Miramar Beach,Miramar Beach,FL,Miramar Beach-FL,Florida,12131,Walton,30.3854,-86.3443,,,190.2,polygon,FALSE,America/Chicago,32550
+Doctors Inlet-FL,1840028667,Doctors Inlet,Doctors Inlet,FL,Doctors Inlet-FL,Florida,12019,Clay,30.1002,-81.7762,,,1298,point,FALSE,America/New_York,32068
+Westview-FL,1840029098,Westview,Westview,FL,Westview-FL,Florida,12086,Miami-Dade,25.8825,-80.2415,,,580.3,polygon,FALSE,America/New_York,33167
+Havana-FL,1840015912,Havana,Havana,FL,Havana-FL,Florida,12039,Gadsden,30.6297,-84.4134,2668,1689,236,polygon,TRUE,America/New_York,32333
+Indian Creek Village-FL,1840028699,Indian Creek Village,Indian Creek Village,FL,Indian Creek Village-FL,Florida,12086,Miami-Dade,25.8782,-80.1362,,,82.8,point,TRUE,America/New_York,33154
+Altamonte Springs-FL,1840014072,Altamonte Springs,Altamonte Springs,FL,Altamonte Springs-FL,Florida,12117,Seminole,28.6616,-81.395,43492,43492,1858,polygon,TRUE,America/New_York,32714 32701 32715 32716
+Southchase-FL,1840029005,Southchase,Southchase,FL,Southchase-FL,Florida,12095,Orange,28.3791,-81.3901,,,1975.1,polygon,FALSE,America/New_York,32824 32837
+Montbrook-FL,1840028732,Montbrook,Montbrook,FL,Montbrook-FL,Florida,12075,Levy,29.3272,-82.4504,,,59.3,point,FALSE,America/New_York,32696
+Mary Esther-FL,1840015902,Mary Esther,Mary Esther,FL,Mary Esther-FL,Florida,12091,Okaloosa,30.4128,-86.6588,4289,4289,1108,polygon,TRUE,America/Chicago,32569
+Roosevelt Gardens-FL,1840029108,Roosevelt Gardens,Roosevelt Gardens,FL,Roosevelt Gardens-FL,Florida,12011,Broward,26.1405,-80.181,,,2227.4,polygon,FALSE,America/New_York,33311
+Homosassa Springs-FL,1840014060,Homosassa Springs,Homosassa Springs,FL,Homosassa Springs-FL,Florida,12017,Citrus,28.8118,-82.5392,,,110.8,polygon,FALSE,America/New_York,34448 34446 34447
+Marianna-FL,1840015897,Marianna,Marianna,FL,Marianna-FL,Florida,12063,Jackson,30.7907,-85.23,9027,9052,208,polygon,TRUE,America/Chicago,32447 32446 32448
+Newport-FL,1840028737,Newport,Newport,FL,Newport-FL,Florida,12129,Wakulla,30.1994,-84.1807,,,4.7,point,FALSE,America/New_York,32327
+Bassville Park-FL,1840028628,Bassville Park,Bassville Park,FL,Bassville Park-FL,Florida,12069,Lake,28.8405,-81.7687,,,663.9,point,FALSE,America/New_York,34788
+Orange Heights-FL,1840028744,Orange Heights,Orange Heights,FL,Orange Heights-FL,Florida,12001,Alachua,29.7197,-82.1393,,,95.2,point,FALSE,America/New_York,32640
+Sanborn-FL,1840028942,Sanborn,Sanborn,FL,Sanborn-FL,Florida,12129,Wakulla,30.0719,-84.6043,,,4.4,point,FALSE,America/New_York,32358
+Largo-FL,1840015114,Largo,Largo,FL,Largo-FL,Florida,12103,Pinellas,27.9088,-82.7714,83065,83065,1760,polygon,TRUE,America/New_York,33756 33770 33773 33774 33760 33764 33778 33771 33779
+Oak Grove-FL,1840028740,Oak Grove,Oak Grove,FL,Oak Grove-FL,Florida,12039,Gadsden,30.6919,-84.7333,,,12.7,point,FALSE,America/New_York,32324
+Midway-FL,1840015021,Midway,Midway,FL,Midway-FL,Florida,12039,Gadsden,30.4996,-84.4585,3263,3263,127,polygon,TRUE,America/New_York,32343
+Lockhart-FL,1840014095,Lockhart,Lockhart,FL,Lockhart-FL,Florida,12095,Orange,28.6271,-81.4354,,,691.1,polygon,FALSE,America/New_York,32703 32810
+Holly Hill-FL,1840015078,Holly Hill,Holly Hill,FL,Holly Hill-FL,Florida,12127,Volusia,29.2442,-81.0461,12142,12142,1191,polygon,TRUE,America/New_York,32117
+North Key Largo-FL,1840029060,North Key Largo,North Key Largo,FL,North Key Largo-FL,Florida,12087,Monroe,25.2574,-80.3242,,,0,polygon,FALSE,America/New_York,33037
+Tamarac-FL,1840016001,Tamarac,Tamarac,FL,Tamarac-FL,Florida,12011,Broward,26.2057,-80.2547,65199,65199,2165,polygon,TRUE,America/New_York,33321 33319
+Alliance-FL,1840028860,Alliance,Alliance,FL,Alliance-FL,Florida,12063,Jackson,30.6099,-85.1135,,,7.9,point,FALSE,America/Chicago,32448
+Pine Hills-FL,1840014098,Pine Hills,Pine Hills,FL,Pine Hills-FL,Florida,12095,Orange,28.5818,-81.4692,,,1549.6,polygon,FALSE,America/New_York,32808 32818
+Browardale-FL,1840029023,Browardale,Browardale,FL,Browardale-FL,Florida,12011,Broward,26.1287,-80.1925,,,2585.6,point,FALSE,America/New_York,33311
+Kenneth City-FL,1840017244,Kenneth City,Kenneth City,FL,Kenneth City-FL,Florida,12103,Pinellas,27.8156,-82.7162,5101,5101,2699,polygon,TRUE,America/New_York,33709
+Okeechobee-FL,1840015118,Okeechobee,Okeechobee,FL,Okeechobee-FL,Florida,12093,Okeechobee,27.2412,-80.8298,25692,5691,539,polygon,TRUE,America/New_York,34972 34974 34973
+Cypress Lake-FL,1840029032,Cypress Lake,Cypress Lake,FL,Cypress Lake-FL,Florida,12071,Lee,26.5391,-81.9,,,1071.9,polygon,FALSE,America/New_York,33919
+Bell-FL,1840015944,Bell,Bell,FL,Bell-FL,Florida,12041,Gilchrist,29.7569,-82.8618,469,469,108,polygon,TRUE,America/New_York,32619
+Westlake-FL,1840029114,Westlake,Westlake,FL,Westlake-FL,Florida,12099,Palm Beach,26.7582,-80.3073,,,0,point,TRUE,America/New_York,33470
+Sneads-FL,1840018207,Sneads,Sneads,FL,Sneads-FL,Florida,12063,Jackson,30.7085,-84.9247,1768,1768,154,polygon,TRUE,America/Chicago,32460
+Eureka-FL,1840028930,Eureka,Eureka,FL,Eureka-FL,Florida,12083,Marion,29.3722,-81.9045,,,15,point,FALSE,America/New_York,32134
+De Funiak Springs-FL,1840015011,De Funiak Springs,De Funiak Springs,FL,De Funiak Springs-FL,Florida,12131,Walton,30.7121,-86.1207,7055,6284,175,polygon,TRUE,America/Chicago,32433 32435
+Rio-FL,1840014194,Rio,Rio,FL,Rio-FL,Florida,12085,Martin,27.216,-80.2401,,,841.7,polygon,FALSE,America/New_York,34957
+Oak Ridge-FL,1840029062,Oak Ridge,Oak Ridge,FL,Oak Ridge-FL,Florida,12095,Orange,28.4726,-81.4169,,,2725.3,polygon,FALSE,America/New_York,32809 32839
+Jupiter-FL,1840017255,Jupiter,Jupiter,FL,Jupiter-FL,Florida,12099,Palm Beach,26.9195,-80.1123,63813,63813,1127,polygon,TRUE,America/New_York,33477 33458 33468
+Darlington-FL,1840028662,Darlington,Darlington,FL,Darlington-FL,Florida,12131,Walton,30.9438,-86.0574,,,33,point,FALSE,America/Chicago,32464
+Resota Beach-FL,1840028901,Resota Beach,Resota Beach,FL,Resota Beach-FL,Florida,12005,Bay,30.3035,-85.5935,,,295.9,point,FALSE,America/Chicago,32409
+Bellwood-FL,1840028634,Bellwood,Bellwood,FL,Bellwood-FL,Florida,12009,Brevard,28.505,-80.7845,,,85.6,point,FALSE,America/New_York,32780
+South Beach-FL,1840029075,South Beach,South Beach,FL,South Beach-FL,Florida,12061,Indian River,27.5882,-80.3434,,,587.3,polygon,FALSE,America/New_York,32963
+Brent-FL,1840013913,Brent,Brent,FL,Brent-FL,Florida,12033,Escambia,30.4729,-87.2496,,,2032.7,polygon,FALSE,America/Chicago,32505 32503
+Vineyards-FL,1840029014,Vineyards,Vineyards,FL,Vineyards-FL,Florida,12021,Collier,26.2279,-81.728,,,312.6,polygon,FALSE,America/New_York,34119
+Shalimar-FL,1840018212,Shalimar,Shalimar,FL,Shalimar-FL,Florida,12091,Okaloosa,30.4433,-86.583,805,805,1081,polygon,TRUE,America/Chicago,32579
+Orlovista-FL,1840014096,Orlovista,Orlovista,FL,Orlovista-FL,Florida,12095,Orange,28.5441,-81.4629,,,1107.4,polygon,FALSE,America/New_York,32808 32835 32811
+Gulfport-FL,1840014145,Gulfport,Gulfport,FL,Gulfport-FL,Florida,12103,Pinellas,27.7463,-82.7099,12407,12407,1736,polygon,TRUE,America/New_York,33707 33711
+Palm River-FL,1840029064,Palm River,Palm River,FL,Palm River-FL,Florida,12021,Collier,26.2773,-81.7762,,,1169.3,point,FALSE,America/New_York,34110
+Placida-FL,1840028758,Placida,Placida,FL,Placida-FL,Florida,12015,Charlotte,26.8323,-82.2648,,,197.6,point,FALSE,America/New_York,33946
+Grant-FL,1840028686,Grant,Grant,FL,Grant-FL,Florida,12009,Brevard,27.9289,-80.5264,,,163,point,FALSE,America/New_York,32949
+Polk City-FL,1840017242,Polk City,Polk City,FL,Polk City-FL,Florida,12105,Polk,28.1803,-81.8297,1973,1973,169,polygon,TRUE,America/New_York,33868
+Paradise Beach-FL,1840028751,Paradise Beach,Paradise Beach,FL,Paradise Beach-FL,Florida,12033,Escambia,30.4008,-87.4205,,,624.8,point,FALSE,America/Chicago,32506
+High Springs-FL,1840015060,High Springs,High Springs,FL,High Springs-FL,Florida,12001,Alachua,29.808,-82.5956,3355,5941,104,polygon,TRUE,America/New_York,32643 32655
+Old Town-FL,1840028743,Old Town,Old Town,FL,Old Town-FL,Florida,12029,Dixie,29.6013,-82.9818,,,33.4,point,FALSE,America/New_York,32680
+Yulee-FL,1840013928,Yulee,Yulee,FL,Yulee-FL,Florida,12089,Nassau,30.635,-81.5678,,,231.8,polygon,FALSE,America/New_York,32097 32041
+Gotha-FL,1840014081,Gotha,Gotha,FL,Gotha-FL,Florida,12095,Orange,28.5308,-81.5189,,,427.1,polygon,FALSE,America/New_York,34734 34786
+Lynn Haven-FL,1840015922,Lynn Haven,Lynn Haven,FL,Lynn Haven-FL,Florida,12005,Bay,30.2362,-85.6389,20850,20850,774,polygon,TRUE,America/Chicago,32404 32405 32444
+Hernando Beach-FL,1840014102,Hernando Beach,Hernando Beach,FL,Hernando Beach-FL,Florida,12053,Hernando,28.4753,-82.6612,,,39.2,polygon,FALSE,America/New_York,34607
+Walnut Hill-FL,1840028792,Walnut Hill,Walnut Hill,FL,Walnut Hill-FL,Florida,12033,Escambia,30.8855,-87.51,,,121.6,point,FALSE,America/Chicago,32568
+Key West-FL,1840015161,Key West,Key West,FL,Key West-FL,Florida,12087,Monroe,24.5636,-81.7768,35140,26990,1860,polygon,TRUE,America/New_York,33040 33041 33045
+Auburn-FL,1840028862,Auburn,Auburn,FL,Auburn-FL,Florida,12091,Okaloosa,30.8202,-86.5377,,,231.6,point,FALSE,America/Chicago,32536
+South Miami Heights-FL,1840014240,South Miami Heights,South Miami Heights,FL,South Miami Heights-FL,Florida,12086,Miami-Dade,25.5886,-80.3862,,,2802.8,polygon,FALSE,America/New_York,33177 33157
+North Redington Beach-FL,1840017245,North Redington Beach,North Redington Beach,FL,North Redington Beach-FL,Florida,12103,Pinellas,27.8214,-82.8186,1475,1475,2153,polygon,TRUE,America/New_York,33708
+Clear Springs-FL,1840028866,Clear Springs,Clear Springs,FL,Clear Springs-FL,Florida,12131,Walton,30.9799,-86.3452,,,37.6,point,FALSE,America/Chicago,32567
+Alcoma-FL,1840028619,Alcoma,Alcoma,FL,Alcoma-FL,Florida,12105,Polk,27.895,-81.4823,,,10.5,point,FALSE,America/New_York,33898
+Country Club-FL,1840029029,Country Club,Country Club,FL,Country Club-FL,Florida,12086,Miami-Dade,25.9407,-80.3102,,,1498.1,polygon,FALSE,America/New_York,33015
+Fern Crest Village-FL,1840028678,Fern Crest Village,Fern Crest Village,FL,Fern Crest Village-FL,Florida,12011,Broward,26.0893,-80.2192,,,1971.6,point,FALSE,America/New_York,33314
+Lake Buena Vista-FL,1840015100,Lake Buena Vista,Lake Buena Vista,FL,Lake Buena Vista-FL,Florida,12095,Orange,28.3793,-81.5266,11,11,1,polygon,TRUE,America/New_York,32836 32830
+Hillcrest Heights-FL,1840017239,Hillcrest Heights,Hillcrest Heights,FL,Hillcrest Heights-FL,Florida,12105,Polk,27.8083,-81.5694,282,282,682,polygon,TRUE,America/New_York,33827 33859 33843
+Berrydale-FL,1840025109,Berrydale,Berrydale,FL,Berrydale-FL,Florida,12113,Santa Rosa,30.8982,-87.035,,,14,polygon,FALSE,America/Chicago,32570 32565
+Ocean Ridge-FL,1840017266,Ocean Ridge,Ocean Ridge,FL,Ocean Ridge-FL,Florida,12099,Palm Beach,26.5285,-80.05,1923,1923,855,polygon,TRUE,America/New_York,33435
+Palmetto Estates-FL,1840029063,Palmetto Estates,Palmetto Estates,FL,Palmetto Estates-FL,Florida,12086,Miami-Dade,25.6211,-80.3616,,,2875.6,polygon,FALSE,America/New_York,33157
+Port Mayaca-FL,1840028809,Port Mayaca,Port Mayaca,FL,Port Mayaca-FL,Florida,12085,Martin,26.9864,-80.6062,,,2.3,point,FALSE,America/New_York,33438
+Lake Clarke Shores-FL,1840017257,Lake Clarke Shores,Lake Clarke Shores,FL,Lake Clarke Shores-FL,Florida,12099,Palm Beach,26.6462,-80.0752,3578,3578,1414,polygon,TRUE,America/New_York,33406
+Summerland Key-FL,1840028969,Summerland Key,Summerland Key,FL,Summerland Key-FL,Florida,12087,Monroe,24.6657,-81.4423,,,284.4,point,FALSE,America/New_York,33042
+Three Oaks-FL,1840029011,Three Oaks,Three Oaks,FL,Three Oaks-FL,Florida,12071,Lee,26.4737,-81.7959,,,1350.4,polygon,FALSE,America/New_York,33967
+San Antonio-FL,1840015969,San Antonio,San Antonio,FL,San Antonio-FL,Florida,12101,Pasco,28.3396,-82.279,1359,1359,397,polygon,TRUE,America/New_York,33525 33576
+Alturas-FL,1840025153,Alturas,Alturas,FL,Alturas-FL,Florida,12105,Polk,27.8417,-81.6952,,,138.4,polygon,FALSE,America/New_York,33859 33830 33841
+Mossy Head-FL,1840028733,Mossy Head,Mossy Head,FL,Mossy Head-FL,Florida,12131,Walton,30.7432,-86.3149,,,152.8,point,FALSE,America/Chicago,32433
+Lemon Grove-FL,1840025168,Lemon Grove,Lemon Grove,FL,Lemon Grove-FL,Florida,12049,Hardee,27.5765,-81.636,,,7,polygon,FALSE,America/New_York,33890 33873
+Cypress Gardens-FL,1840028660,Cypress Gardens,Cypress Gardens,FL,Cypress Gardens-FL,Florida,12105,Polk,28.0028,-81.686,,,673,polygon,FALSE,America/New_York,33884
+Ferry Pass-FL,1840013909,Ferry Pass,Ferry Pass,FL,Ferry Pass-FL,Florida,12033,Escambia,30.5202,-87.1904,,,614.7,polygon,FALSE,America/Chicago,32504 32514
+Cooks Hammock-FL,1840028868,Cooks Hammock,Cooks Hammock,FL,Cooks Hammock-FL,Florida,12067,Lafayette,29.9297,-83.2765,,,2.7,point,FALSE,America/New_York,32066
+South Sarasota-FL,1840029081,South Sarasota,South Sarasota,FL,South Sarasota-FL,Florida,12115,Sarasota,27.2856,-82.5333,,,1130.5,polygon,FALSE,America/New_York,34231
+Wabasso Beach-FL,1840014161,Wabasso Beach,Wabasso Beach,FL,Wabasso Beach-FL,Florida,12061,Indian River,27.757,-80.3992,,,457.9,polygon,FALSE,America/New_York,32963
+Hunters Creek-FL,1840028986,Hunters Creek,Hunters Creek,FL,Hunters Creek-FL,Florida,12095,Orange,28.3611,-81.4356,,,2336.9,polygon,FALSE,America/New_York,32837
+Westwood Lake-FL,1840028796,Westwood Lake,Westwood Lake,FL,Westwood Lake-FL,Florida,12086,Miami-Dade,25.7237,-80.3717,,,3252.8,polygon,FALSE,America/New_York,33165
+Lochloosa-FL,1840028885,Lochloosa,Lochloosa,FL,Lochloosa-FL,Florida,12001,Alachua,29.5116,-82.1004,,,22.8,point,FALSE,America/New_York,32640
+Franklin Park-FL,1840029104,Franklin Park,Franklin Park,FL,Franklin Park-FL,Florida,12011,Broward,26.134,-80.1762,,,2227.4,polygon,FALSE,America/New_York,33311
+Mount Carmel-FL,1840025114,Mount Carmel,Mount Carmel,FL,Mount Carmel-FL,Florida,12113,Santa Rosa,30.9868,-87.121,,,11.9,polygon,FALSE,America/Chicago,32565
+Pinecrest-FL,1840018336,Pinecrest,Pinecrest,FL,Pinecrest-FL,Florida,12086,Miami-Dade,25.665,-80.3042,19444,19444,1008,polygon,TRUE,America/New_York,33156
+Pompano Beach-FL,1840015143,Pompano Beach,Pompano Beach,FL,Pompano Beach-FL,Florida,12011,Broward,26.2428,-80.1312,109393,109393,1756,polygon,TRUE,America/New_York,33060 33062 33064 33069 33061 33072 33074 33075 33077 33093 33097
+Malabar-FL,1840017232,Malabar,Malabar,FL,Malabar-FL,Florida,12009,Brevard,27.9885,-80.578,3007,3007,108,polygon,TRUE,America/New_York,32950
+Holopaw-FL,1840028696,Holopaw,Holopaw,FL,Holopaw-FL,Florida,12097,Osceola,28.1358,-81.0762,,,43,point,FALSE,America/New_York,34773
+Umatilla-FL,1840015954,Umatilla,Umatilla,FL,Umatilla-FL,Florida,12069,Lake,28.9272,-81.6651,3757,3757,405,polygon,TRUE,America/New_York,32784
+Palm Beach-FL,1840017267,Palm Beach,Palm Beach,FL,Palm Beach-FL,Florida,12099,Palm Beach,26.6928,-80.0405,8690,8690,798,polygon,TRUE,America/New_York,33480
+Sorrento-FL,1840014047,Sorrento,Sorrento,FL,Sorrento-FL,Florida,12069,Lake,28.8087,-81.5631,,,337.7,polygon,FALSE,America/New_York,32776
+Youngstown-FL,1840028797,Youngstown,Youngstown,FL,Youngstown-FL,Florida,12005,Bay,30.3644,-85.4383,,,42.8,point,FALSE,America/Chicago,32466
+Santa Fe-FL,1840028770,Santa Fe,Santa Fe,FL,Santa Fe-FL,Florida,12001,Alachua,29.8836,-82.4304,,,17.5,point,FALSE,America/New_York,32615
+Rockledge-FL,1840015095,Rockledge,Rockledge,FL,Rockledge-FL,Florida,12009,Brevard,28.3199,-80.7318,27068,27068,859,polygon,TRUE,America/New_York,32955 32956
+Lawtey-FL,1840015051,Lawtey,Lawtey,FL,Lawtey-FL,Florida,12007,Bradford,30.0475,-82.0721,718,718,192,polygon,TRUE,America/New_York,32058
+Destin-FL,1840015008,Destin,Destin,FL,Destin-FL,Florida,12091,Okaloosa,30.395,-86.4701,13654,13654,685,polygon,TRUE,America/Chicago,32541 32540
+Cottage Hill-FL,1840028656,Cottage Hill,Cottage Hill,FL,Cottage Hill-FL,Florida,12033,Escambia,30.6327,-87.32,,,157.9,point,FALSE,America/Chicago,32533
+Iona-FL,1840028702,Iona,Iona,FL,Iona-FL,Florida,12071,Lee,26.516,-81.9601,,,1544,polygon,FALSE,America/New_York,33908
+Plantation Mobile Home Park-FL,1840028999,Plantation Mobile Home Park,Plantation Mobile Home Park,FL,Plantation Mobile Home Park-FL,Florida,12099,Palm Beach,26.7035,-80.1318,,,1988.8,polygon,FALSE,America/New_York,33417
+Tildenville-FL,1840014089,Tildenville,Tildenville,FL,Tildenville-FL,Florida,12095,Orange,28.5374,-81.6025,,,273.5,polygon,FALSE,America/New_York,34787
+Riviera Beach-FL,1840015126,Riviera Beach,Riviera Beach,FL,Riviera Beach-FL,Florida,12099,Palm Beach,26.7814,-80.0741,34244,34244,1552,polygon,TRUE,America/New_York,33407 33404
+Virginia Gardens-FL,1840018337,Virginia Gardens,Virginia Gardens,FL,Virginia Gardens-FL,Florida,12086,Miami-Dade,25.8095,-80.2975,2472,2472,3239,polygon,TRUE,America/New_York,33166
+Wedgefield-FL,1840014091,Wedgefield,Wedgefield,FL,Wedgefield-FL,Florida,12095,Orange,28.4847,-81.0808,,,93.9,polygon,FALSE,America/New_York,32833
+Quintette-FL,1840028899,Quintette,Quintette,FL,Quintette-FL,Florida,12033,Escambia,30.6663,-87.3128,,,58.7,point,FALSE,America/Chicago,32577
+Tangerine-FL,1840014088,Tangerine,Tangerine,FL,Tangerine-FL,Florida,12095,Orange,28.7589,-81.6341,,,488.4,polygon,FALSE,America/New_York,32757 32777
+Palm Springs-FL,1840018308,Palm Springs,Palm Springs,FL,Palm Springs-FL,Florida,12099,Palm Beach,26.6372,-80.0961,24051,24051,2513,polygon,TRUE,America/New_York,33461 33406
+Melbourne Beach-FL,1840017233,Melbourne Beach,Melbourne Beach,FL,Melbourne Beach-FL,Florida,12009,Brevard,28.0667,-80.561,3276,3276,1288,polygon,TRUE,America/New_York,32951
+Pelican Bay-FL,1840028996,Pelican Bay,Pelican Bay,FL,Pelican Bay-FL,Florida,12021,Collier,26.2327,-81.8108,,,780.8,polygon,FALSE,America/New_York,34108
+Monticello-FL,1840015025,Monticello,Monticello,FL,Monticello-FL,Florida,12065,Jefferson,30.5423,-83.8722,2402,2402,233,polygon,TRUE,America/New_York,32344 32345
+Fairbanks-FL,1840028677,Fairbanks,Fairbanks,FL,Fairbanks-FL,Florida,12001,Alachua,29.7247,-82.264,,,211.9,point,FALSE,America/New_York,32609
+Ojus-FL,1840028742,Ojus,Ojus,FL,Ojus-FL,Florida,12086,Miami-Dade,25.9563,-80.1606,,,1825.3,polygon,FALSE,America/New_York,33179 33180
+Tallevast-FL,1840028787,Tallevast,Tallevast,FL,Tallevast-FL,Florida,12081,Manatee,27.4017,-82.5429,,,236.4,point,FALSE,America/New_York,34243
+Grand Ridge-FL,1840017151,Grand Ridge,Grand Ridge,FL,Grand Ridge-FL,Florida,12063,Jackson,30.7083,-85.0207,868,868,78,polygon,TRUE,America/Chicago,32442
+Frontenac-FL,1840028683,Frontenac,Frontenac,FL,Frontenac-FL,Florida,12009,Brevard,28.4617,-80.7634,,,449.6,point,FALSE,America/New_York,32927
+Fort Green Springs-FL,1840025165,Fort Green Springs,Fort Green Springs,FL,Fort Green Springs-FL,Florida,12049,Hardee,27.5876,-81.9402,,,32.4,polygon,FALSE,America/New_York,33834
+Madeira Beach-FL,1840015972,Madeira Beach,Madeira Beach,FL,Madeira Beach-FL,Florida,12103,Pinellas,27.7986,-82.7889,4412,4412,1731,polygon,TRUE,America/New_York,33708
+Viking-FL,1840028963,Viking,Viking,FL,Viking-FL,Florida,12111,St. Lucie,27.5417,-80.362,,,4.9,point,FALSE,America/New_York,34946
+McDavid-FL,1840028728,McDavid,McDavid,FL,McDavid-FL,Florida,12033,Escambia,30.8663,-87.3197,,,19.1,point,FALSE,America/Chicago,32568
+Holiday-FL,1840014114,Holiday,Holiday,FL,Holiday-FL,Florida,12101,Pasco,28.1864,-82.7429,,,955.1,polygon,FALSE,America/New_York,34691 34690 34692
+South Gate Ridge-FL,1840029079,South Gate Ridge,South Gate Ridge,FL,South Gate Ridge-FL,Florida,12115,Sarasota,27.2856,-82.497,,,1501,polygon,FALSE,America/New_York,34231 34233
+Sirmans-FL,1840028915,Sirmans,Sirmans,FL,Sirmans-FL,Florida,12079,Madison,30.3508,-83.6568,,,29.7,point,FALSE,America/New_York,32331
+Highland Beach-FL,1840015995,Highland Beach,Highland Beach,FL,Highland Beach-FL,Florida,12099,Palm Beach,26.4071,-80.0665,3760,3760,2832,polygon,TRUE,America/New_York,33487
+Lakeview-FL,1840028884,Lakeview,Lakeview,FL,Lakeview-FL,Florida,12011,Broward,26.2995,-80.16,,,2110.7,point,FALSE,America/New_York,33442
+Bagdad-FL,1840013918,Bagdad,Bagdad,FL,Bagdad-FL,Florida,12113,Santa Rosa,30.5824,-87.0447,,,273.3,polygon,FALSE,America/Chicago,32583 32530
+Inverness-FL,1840015085,Inverness,Inverness,FL,Inverness-FL,Florida,12017,Citrus,28.8397,-82.3437,7347,7347,373,polygon,TRUE,America/New_York,34450 34453 34452 34451
+Key Largo-FL,1840014253,Key Largo,Key Largo,FL,Key Largo-FL,Florida,12087,Monroe,25.1224,-80.412,,,409.2,polygon,FALSE,America/New_York,33037
+Cape Coral-FL,1840015130,Cape Coral,Cape Coral,FL,Cape Coral-FL,Florida,12071,Lee,26.644,-81.9961,617896,179804,657,polygon,TRUE,America/New_York,33914 33991 33990 33993 33909 33904 33910 33915
+Sebastian-FL,1840015984,Sebastian,Sebastian,FL,Sebastian-FL,Florida,12061,Indian River,27.7882,-80.4813,24772,24772,698,polygon,TRUE,America/New_York,32958 32978
+Moore Haven-FL,1840015121,Moore Haven,Moore Haven,FL,Moore Haven-FL,Florida,12043,Glades,26.8339,-81.0977,3505,1838,659,polygon,TRUE,America/New_York,33471
+Charlotte Harbor-FL,1840014198,Charlotte Harbor,Charlotte Harbor,FL,Charlotte Harbor-FL,Florida,12015,Charlotte,26.9629,-82.0571,,,463.9,polygon,FALSE,America/New_York,33980
+Gretna-FL,1840013943,Gretna,Gretna,FL,Gretna-FL,Florida,12039,Gadsden,30.5901,-84.6856,1382,1382,69,polygon,TRUE,America/New_York,32351 32332
+Zephyrhills-FL,1840015968,Zephyrhills,Zephyrhills,FL,Zephyrhills-FL,Florida,12101,Pasco,28.2404,-82.1796,74712,14907,614,polygon,TRUE,America/New_York,33542 33540 33541 33539
+Hobe Sound-FL,1840014188,Hobe Sound,Hobe Sound,FL,Hobe Sound-FL,Florida,12085,Martin,27.0729,-80.1425,,,698.5,polygon,FALSE,America/New_York,33455 33475
+Islamorada-FL,1840028703,Islamorada,Islamorada,FL,Islamorada-FL,Florida,12087,Monroe,24.9243,-80.6278,,,414.3,point,TRUE,America/New_York,33036
+Suwannee-FL,1840028786,Suwannee,Suwannee,FL,Suwannee-FL,Florida,12029,Dixie,29.3288,-83.1443,,,148,point,FALSE,America/New_York,32692
+Pensacola-FL,1840015005,Pensacola,Pensacola,FL,Pensacola-FL,Florida,12033,Escambia,30.4427,-87.1886,352187,53779,918,polygon,TRUE,America/Chicago,32504 32501 32503 32502 32512 32513 32516 32520 32521 32522 32523 32524 32559 32591
+Saint Augustine South-FL,1840029110,Saint Augustine South,Saint Augustine South,FL,Saint Augustine South-FL,Florida,12109,St. Johns,29.8449,-81.3156,,,1636.7,polygon,FALSE,America/New_York,32086
+Princeton-FL,1840014248,Princeton,Princeton,FL,Princeton-FL,Florida,12086,Miami-Dade,25.5397,-80.3971,,,74,polygon,FALSE,America/New_York,33032
+New Hope-FL,1840028888,New Hope,New Hope,FL,New Hope-FL,Florida,12059,Holmes,30.9477,-85.8794,,,33.9,point,FALSE,America/Chicago,32464
+Clermont-FL,1840015080,Clermont,Clermont,FL,Clermont-FL,Florida,12069,Lake,28.5403,-81.7296,33549,33549,908,polygon,TRUE,America/New_York,34711 34712 34713
+Temple Terrace-FL,1840015983,Temple Terrace,Temple Terrace,FL,Temple Terrace-FL,Florida,12057,Hillsborough,28.044,-82.378,26515,26515,1450,polygon,TRUE,America/New_York,33637 33617
+Belle Glade-FL,1840014206,Belle Glade,Belle Glade,FL,Belle Glade-FL,Florida,12099,Palm Beach,26.6865,-80.6674,27236,19130,1319,polygon,TRUE,America/New_York,33430
+Wellington-FL,1840018311,Wellington,Wellington,FL,Wellington-FL,Florida,12099,Palm Beach,26.6464,-80.2708,63900,63900,546,polygon,TRUE,America/New_York,33449 33414 33470
+Maitland-FL,1840015964,Maitland,Maitland,FL,Maitland-FL,Florida,12095,Orange,28.6293,-81.3716,17519,17519,1281,polygon,TRUE,America/New_York,32751 32794
+Blanton-FL,1840028636,Blanton,Blanton,FL,Blanton-FL,Florida,12101,Pasco,28.4117,-82.2465,,,94.2,point,FALSE,America/New_York,33523
+Bogia-FL,1840028864,Bogia,Bogia,FL,Bogia-FL,Florida,12033,Escambia,30.8424,-87.3244,,,31.9,point,FALSE,America/Chicago,32568
+Gulf Breeze-FL,1840013920,Gulf Breeze,Gulf Breeze,FL,Gulf Breeze-FL,Florida,12113,Santa Rosa,30.3685,-87.1769,6466,6466,533,polygon,TRUE,America/Chicago,32561 32562
+Lovett-FL,1840028837,Lovett,Lovett,FL,Lovett-FL,Florida,12079,Madison,30.6283,-83.5732,,,5.2,point,FALSE,America/New_York,32331
+Stuart-FL,1840015990,Stuart,Stuart,FL,Stuart-FL,Florida,12085,Martin,27.1962,-80.2438,16623,16623,965,polygon,TRUE,America/New_York,34994 34996 34957 34995
+Knights-FL,1840028715,Knights,Knights,FL,Knights-FL,Florida,12057,Hillsborough,28.0764,-82.1376,,,87.1,point,FALSE,America/New_York,33565
+Vilano Beach-FL,1840028964,Vilano Beach,Vilano Beach,FL,Vilano Beach-FL,Florida,12109,St. Johns,29.9189,-81.2928,,,660.1,point,FALSE,America/New_York,32084
+Lakewood Park-FL,1840014177,Lakewood Park,Lakewood Park,FL,Lakewood Park-FL,Florida,12111,St. Lucie,27.539,-80.3865,,,1108.2,polygon,FALSE,America/New_York,34951
+Davenport-FL,1840015104,Davenport,Davenport,FL,Davenport-FL,Florida,12105,Polk,28.1585,-81.6117,3982,3982,469,polygon,TRUE,America/New_York,33844 33837 33836
+Rerdell-FL,1840028900,Rerdell,Rerdell,FL,Rerdell-FL,Florida,12053,Hernando,28.5675,-82.1562,,,25.8,point,FALSE,America/New_York,33597
+Durbin-FL,1840028954,Durbin,Durbin,FL,Durbin-FL,Florida,12109,St. Johns,30.0875,-81.4612,,,34.7,point,FALSE,America/New_York,32095
+Three Lakes-FL,1840029010,Three Lakes,Three Lakes,FL,Three Lakes-FL,Florida,12086,Miami-Dade,25.6415,-80.4001,,,352.2,polygon,FALSE,America/New_York,33186
+Wakulla-FL,1840028791,Wakulla,Wakulla,FL,Wakulla-FL,Florida,12129,Wakulla,30.2369,-84.231,,,125,point,FALSE,America/New_York,32327
+Conway-FL,1840013121,Conway,Conway,FL,Conway-FL,Florida,12095,Orange,28.4968,-81.3316,,,1817.6,polygon,FALSE,America/New_York,32806 32812
+Deltona-FL,1840015072,Deltona,Deltona,FL,Deltona-FL,Florida,12127,Volusia,28.9051,-81.2134,192730,90124,927,polygon,TRUE,America/New_York,32725 32738 32728 32739
+Palmdale-FL,1840028750,Palmdale,Palmdale,FL,Palmdale-FL,Florida,12043,Glades,26.9453,-81.3162,,,95.1,point,FALSE,America/New_York,33944
+Bayonet Point-FL,1840014117,Bayonet Point,Bayonet Point,FL,Bayonet Point-FL,Florida,12101,Pasco,28.3255,-82.6834,,,2099.4,polygon,FALSE,America/New_York,34668 34667
+Stacey Street-FL,1840029007,Stacey Street,Stacey Street,FL,Stacey Street-FL,Florida,12099,Palm Beach,26.6977,-80.1238,,,2086.3,polygon,FALSE,America/New_York,33417
+Cloud Lake-FL,1840017263,Cloud Lake,Cloud Lake,FL,Cloud Lake-FL,Florida,12099,Palm Beach,26.6744,-80.0732,146,146,966,polygon,TRUE,America/New_York,33406
+Fisher Island-FL,1840028981,Fisher Island,Fisher Island,FL,Fisher Island-FL,Florida,12086,Miami-Dade,25.7607,-80.1415,,,1557.8,polygon,FALSE,America/New_York,33109
+Westville-FL,1840017162,Westville,Westville,FL,Westville-FL,Florida,12059,Holmes,30.7697,-85.8465,278,278,14,polygon,TRUE,America/Chicago,32464
+Salem-FL,1840028850,Salem,Salem,FL,Salem-FL,Florida,12123,Taylor,29.8869,-83.4129,,,13.5,point,FALSE,America/New_York,32356
+Tampa-FL,1840015982,Tampa,Tampa,FL,Tampa-FL,Florida,12057,Hillsborough,27.9937,-82.4454,2744107,377165,1283,polygon,TRUE,America/New_York,33637 33629 33621 33620 33647 33602 33619 33616 33613 33611 33617 33614 33610 33612 33605 33604 33609 33607 33606 33603 33601 33608 33622 33623 33630 33631 33633 33646 33650 33655 33660 33661 33662 33663 33664 33672 33673 33674 33675 33677 33679 33680 33681 33682 33684 33685 33686 33687 33688 33689 33694
+Cleveland-FL,1840013128,Cleveland,Cleveland,FL,Cleveland-FL,Florida,12015,Charlotte,26.9529,-81.9924,,,247.8,polygon,FALSE,America/New_York,33982
+Campbell-FL,1840014137,Campbell,Campbell,FL,Campbell-FL,Florida,12097,Osceola,28.2603,-81.4525,,,516.4,polygon,FALSE,America/New_York,34746
+Citrus Park-FL,1840014152,Citrus Park,Citrus Park,FL,Citrus Park-FL,Florida,12057,Hillsborough,28.073,-82.5628,,,826.8,polygon,FALSE,America/New_York,33625 33556
+Round Lake-FL,1840028903,Round Lake,Round Lake,FL,Round Lake-FL,Florida,12063,Jackson,30.6516,-85.3888,,,46,point,FALSE,America/Chicago,32420
+Hill 'n Dale-FL,1840028916,Hill 'n Dale,Hill 'n Dale,FL,Hill 'n Dale-FL,Florida,12053,Hernando,28.519,-82.2918,,,520.7,polygon,FALSE,America/New_York,34602
+Saint Augustine-FL,1840015935,Saint Augustine,Saint Augustine,FL,Saint Augustine-FL,Florida,12109,St. Johns,29.8979,-81.31,76129,14280,584,polygon,TRUE,America/New_York,32080 32095 32084 32085
+Lealman-FL,1840025161,Lealman,Lealman,FL,Lealman-FL,Florida,12103,Pinellas,27.8197,-82.6849,,,1992.2,polygon,FALSE,America/New_York,33702 33709 33714
+Jacobs-FL,1840028706,Jacobs,Jacobs,FL,Jacobs-FL,Florida,12063,Jackson,30.8949,-85.3977,,,11.9,point,TRUE,America/Chicago,32431
+Kenansville-FL,1840028711,Kenansville,Kenansville,FL,Kenansville-FL,Florida,12097,Osceola,27.8764,-80.9878,,,23.6,point,FALSE,America/New_York,34739
+Micanopy-FL,1840017215,Micanopy,Micanopy,FL,Micanopy-FL,Florida,12001,Alachua,29.506,-82.2806,638,638,234,polygon,TRUE,America/New_York,32667
+Forest City-FL,1840028825,Forest City,Forest City,FL,Forest City-FL,Florida,12117,Seminole,28.6619,-81.4444,,,934.9,polygon,FALSE,America/New_York,32714 32703
+Mexico Beach-FL,1840015033,Mexico Beach,Mexico Beach,FL,Mexico Beach-FL,Florida,12005,Bay,29.9451,-85.4105,1190,1190,258,polygon,TRUE,America/Chicago,32456 32410
+Tierra Verde-FL,1840014142,Tierra Verde,Tierra Verde,FL,Tierra Verde-FL,Florida,12103,Pinellas,27.6685,-82.73,,,1269.6,polygon,FALSE,America/New_York,33715
+Mount Dora-FL,1840015082,Mount Dora,Mount Dora,FL,Mount Dora-FL,Florida,12069,Lake,28.8143,-81.6344,13818,13818,664,polygon,TRUE,America/New_York,32757 32756
+Lake Lorraine-FL,1840029048,Lake Lorraine,Lake Lorraine,FL,Lake Lorraine-FL,Florida,12091,Okaloosa,30.4407,-86.5657,,,1516.5,polygon,FALSE,America/Chicago,32579
+Pine Castle-FL,1840014097,Pine Castle,Pine Castle,FL,Pine Castle-FL,Florida,12095,Orange,28.4651,-81.374,,,853.9,polygon,FALSE,America/New_York,32809 32839
+Lauderdale Lakes-FL,1840015145,Lauderdale Lakes,Lauderdale Lakes,FL,Lauderdale Lakes-FL,Florida,12011,Broward,26.1683,-80.2017,34790,34790,3643,polygon,TRUE,America/New_York,33309 33313 33311 33319
+Plantation-FL,1840015142,Plantation,Plantation,FL,Plantation-FL,Florida,12011,Broward,26.126,-80.2617,92706,92706,1654,polygon,TRUE,America/New_York,33322 33323 33324 33325 33317 33313
+Rochelle-FL,1840028848,Rochelle,Rochelle,FL,Rochelle-FL,Florida,12001,Alachua,29.5966,-82.2176,,,46.9,point,FALSE,America/New_York,32641
+Cutler Bay-FL,1840017276,Cutler Bay,Cutler Bay,FL,Cutler Bay-FL,Florida,12086,Miami-Dade,25.5765,-80.3357,44707,44707,1756,polygon,TRUE,America/New_York,33190 33157 33189
+Page Park-FL,1840028749,Page Park,Page Park,FL,Page Park-FL,Florida,12071,Lee,26.5782,-81.8615,,,793.2,polygon,FALSE,America/New_York,33907
+Florida City-FL,1840014250,Florida City,Florida City,FL,Florida City-FL,Florida,12086,Miami-Dade,25.4418,-80.4685,12078,12078,782,polygon,TRUE,America/New_York,33034
+Athena-FL,1840028861,Athena,Athena,FL,Athena-FL,Florida,12123,Taylor,29.988,-83.4943,,,17.5,point,FALSE,America/New_York,32348
+Foley-FL,1840028681,Foley,Foley,FL,Foley-FL,Florida,12123,Taylor,30.0694,-83.5307,,,6.8,point,FALSE,America/New_York,32348
+Lowell-FL,1840028719,Lowell,Lowell,FL,Lowell-FL,Florida,12083,Marion,29.3305,-82.1915,,,125.8,point,FALSE,America/New_York,32686
+Norfleet-FL,1840028938,Norfleet,Norfleet,FL,Norfleet-FL,Florida,12073,Leon,30.4427,-84.3918,,,85.6,point,FALSE,America/New_York,32310
+Oak Hill-FL,1840015074,Oak Hill,Oak Hill,FL,Oak Hill-FL,Florida,12127,Volusia,28.8784,-80.8349,2029,2029,118,polygon,TRUE,America/New_York,32759
+Belle Isle-FL,1840014101,Belle Isle,Belle Isle,FL,Belle Isle-FL,Florida,12095,Orange,28.4724,-81.3491,6825,6825,1107,polygon,TRUE,America/New_York,32809 32812
+Saint Augustine Shores-FL,1840013972,Saint Augustine Shores,Saint Augustine Shores,FL,Saint Augustine Shores-FL,Florida,12109,St. Johns,29.8039,-81.3086,,,1615,polygon,FALSE,America/New_York,32086
+North Lauderdale-FL,1840015138,North Lauderdale,North Lauderdale,FL,North Lauderdale-FL,Florida,12011,Broward,26.2113,-80.2209,43699,43699,3666,polygon,TRUE,America/New_York,33068
+Paradise Heights-FL,1840028994,Paradise Heights,Paradise Heights,FL,Paradise Heights-FL,Florida,12095,Orange,28.6236,-81.5439,,,1233.9,polygon,FALSE,America/New_York,32703
+Campbellton-FL,1840015900,Campbellton,Campbellton,FL,Campbellton-FL,Florida,12063,Jackson,30.9511,-85.4019,221,221,33,polygon,TRUE,America/Chicago,32426
+Bay Hill-FL,1840029020,Bay Hill,Bay Hill,FL,Bay Hill-FL,Florida,12095,Orange,28.4558,-81.5122,,,686.2,polygon,FALSE,America/New_York,32836 32819
+Naranja-FL,1840014246,Naranja,Naranja,FL,Naranja-FL,Florida,12086,Miami-Dade,25.5165,-80.4218,,,1925.8,polygon,FALSE,America/New_York,33032
+Apopka-FL,1840014093,Apopka,Apopka,FL,Apopka-FL,Florida,12095,Orange,28.7006,-81.5303,49458,49458,600,polygon,TRUE,America/New_York,32712 32703 32704
+Fort Pierce-FL,1840014178,Fort Pierce,Fort Pierce,FL,Fort Pierce-FL,Florida,12111,St. Lucie,27.4263,-80.3421,45295,45295,763,polygon,TRUE,America/New_York,34949 34947 34981 34982 34950 34948 34954 34979
+Murdock-FL,1840028734,Murdock,Murdock,FL,Murdock-FL,Florida,12015,Charlotte,27.0128,-82.1462,,,12.3,point,FALSE,America/New_York,33948
+Satellite Beach-FL,1840015961,Satellite Beach,Satellite Beach,FL,Satellite Beach-FL,Florida,12009,Brevard,28.1782,-80.602,10832,10832,1433,polygon,TRUE,America/New_York,32937
+Oxford-FL,1840028748,Oxford,Oxford,FL,Oxford-FL,Florida,12119,Sumter,28.9275,-82.0373,,,180,point,FALSE,America/New_York,34484
+Red Head-FL,1840028847,Red Head,Red Head,FL,Red Head-FL,Florida,12133,Washington,30.4866,-85.8419,,,2.5,point,FALSE,America/Chicago,32462
+Pine Barren-FL,1840028754,Pine Barren,Pine Barren,FL,Pine Barren-FL,Florida,12033,Escambia,30.7774,-87.3344,,,15.3,point,FALSE,America/Chicago,32577
+Pineda-FL,1840028844,Pineda,Pineda,FL,Pineda-FL,Florida,12009,Brevard,28.2372,-80.6784,,,510.6,point,FALSE,America/New_York,32955
+Combee Settlement-FL,1840029027,Combee Settlement,Combee Settlement,FL,Combee Settlement-FL,Florida,12105,Polk,28.0597,-81.9053,,,1625.6,polygon,FALSE,America/New_York,33801
+Dickerson City-FL,1840029112,Dickerson City,Dickerson City,FL,Dickerson City-FL,Florida,12113,Santa Rosa,30.4826,-87.0651,,,73.3,polygon,FALSE,America/Chicago,32583
+Coconut Creek-FL,1840015132,Coconut Creek,Coconut Creek,FL,Coconut Creek-FL,Florida,12011,Broward,26.2803,-80.1842,59405,59405,1934,polygon,TRUE,America/New_York,33073 33063 33066
+Shady-FL,1840028851,Shady,Shady,FL,Shady-FL,Florida,12083,Marion,29.0955,-82.169,,,305.1,point,FALSE,America/New_York,34476
+Freeport-FL,1840013926,Freeport,Freeport,FL,Freeport-FL,Florida,12131,Walton,30.503,-86.1409,2119,2119,49,polygon,TRUE,America/Chicago,32439
+Fountainebleau-FL,1840028983,Fountainebleau,Fountainebleau,FL,Fountainebleau-FL,Florida,12086,Miami-Dade,25.7721,-80.3454,,,8827.7,polygon,FALSE,America/New_York,33172 33174 33126 33144
+Malone-FL,1840017149,Malone,Malone,FL,Malone-FL,Florida,12063,Jackson,30.9586,-85.1621,2084,2084,257,polygon,TRUE,America/Chicago,32445
+West Lake Wales-FL,1840028795,West Lake Wales,West Lake Wales,FL,West Lake Wales-FL,Florida,12105,Polk,27.8903,-81.6465,,,81.1,point,FALSE,America/New_York,33859
+Deerfield Beach-FL,1840015136,Deerfield Beach,Deerfield Beach,FL,Deerfield Beach-FL,Florida,12011,Broward,26.305,-80.1278,79764,79764,2040,polygon,TRUE,America/New_York,33442 33441 33064 33443
+Holmes Beach-FL,1840015117,Holmes Beach,Holmes Beach,FL,Holmes Beach-FL,Florida,12081,Manatee,27.5109,-82.7153,4285,4285,986,polygon,TRUE,America/New_York,34217 34218
+Raleigh-FL,1840026044,Raleigh,Raleigh,FL,Raleigh-FL,Florida,12075,Levy,29.4479,-82.4681,,,69.5,polygon,FALSE,America/New_York,32696
+Bristol-FL,1840013953,Bristol,Bristol,FL,Bristol-FL,Florida,12077,Liberty,30.4255,-84.9773,966,966,226,polygon,TRUE,America/New_York,32321
+Glendale-FL,1840028685,Glendale,Glendale,FL,Glendale-FL,Florida,12131,Walton,30.863,-86.1144,,,58,point,FALSE,America/Chicago,32433
+Atlantis-FL,1840014203,Atlantis,Atlantis,FL,Atlantis-FL,Florida,12099,Palm Beach,26.5961,-80.1032,2122,2122,586,polygon,TRUE,America/New_York,33462
+Salt Springs-FL,1840028941,Salt Springs,Salt Springs,FL,Salt Springs-FL,Florida,12083,Marion,29.3511,-81.7351,,,291.6,point,FALSE,America/New_York,32134
+Beverly Beach-FL,1840015947,Beverly Beach,Beverly Beach,FL,Beverly Beach-FL,Florida,12035,Flagler,29.5164,-81.1475,377,377,427,polygon,TRUE,America/New_York,32136
+Buenaventura Lakes-FL,1840028974,Buenaventura Lakes,Buenaventura Lakes,FL,Buenaventura Lakes-FL,Florida,12097,Osceola,28.3349,-81.3539,,,2619.3,polygon,FALSE,America/New_York,34743
+Houston-FL,1840028881,Houston,Houston,FL,Houston-FL,Florida,12121,Suwannee,30.2569,-82.9026,,,65.7,point,FALSE,America/New_York,32060
+Hampton-FL,1840014006,Hampton,Hampton,FL,Hampton-FL,Florida,12007,Bradford,29.8642,-82.1379,488,488,181,polygon,TRUE,America/New_York,32044
+Lazy Lake-FL,1840028718,Lazy Lake,Lazy Lake,FL,Lazy Lake-FL,Florida,12011,Broward,26.1563,-80.1452,26,26,431,polygon,TRUE,America/New_York,33305
+Worthington Springs-FL,1840017213,Worthington Springs,Worthington Springs,FL,Worthington Springs-FL,Florida,12125,Union,29.9331,-82.4153,382,382,143,polygon,TRUE,America/New_York,32054 32697
+Manatee Road-FL,1840028993,Manatee Road,Manatee Road,FL,Manatee Road-FL,Florida,12075,Levy,29.5144,-82.9182,,,130.7,polygon,FALSE,America/New_York,32626 32693
+Lulu-FL,1840028720,Lulu,Lulu,FL,Lulu-FL,Florida,12023,Columbia,30.1075,-82.4912,,,10.2,point,FALSE,America/New_York,32061
+Boulevard Gardens-FL,1840029103,Boulevard Gardens,Boulevard Gardens,FL,Boulevard Gardens-FL,Florida,12011,Broward,26.1252,-80.1822,,,2270.3,polygon,FALSE,America/New_York,33311
+Denaud-FL,1840028872,Denaud,Denaud,FL,Denaud-FL,Florida,12051,Hendry,26.7423,-81.5101,,,86.6,point,FALSE,America/New_York,33935
+White Springs-FL,1840017189,White Springs,White Springs,FL,White Springs-FL,Florida,12047,Hamilton,30.3318,-82.7563,775,775,162,polygon,TRUE,America/New_York,32096
+Matlacha-FL,1840014221,Matlacha,Matlacha,FL,Matlacha-FL,Florida,12071,Lee,26.6304,-82.0719,,,1471,polygon,FALSE,America/New_York,33993
+Palm Beach Gardens-FL,1840015125,Palm Beach Gardens,Palm Beach Gardens,FL,Palm Beach Gardens-FL,Florida,12099,Palm Beach,26.8489,-80.1654,53778,53778,370,polygon,TRUE,America/New_York,33418 33410 33412 33403
+Andrews-FL,1840028972,Andrews,Andrews,FL,Andrews-FL,Florida,12075,Levy,29.5482,-82.888,,,30.2,polygon,FALSE,America/New_York,32626 32693
+Portland-FL,1840028762,Portland,Portland,FL,Portland-FL,Florida,12131,Walton,30.5124,-86.1958,,,143.7,point,FALSE,America/Chicago,32439
+Highpoint-FL,1840029042,Highpoint,Highpoint,FL,Highpoint-FL,Florida,12103,Pinellas,27.917,-82.7129,,,649.1,point,FALSE,America/New_York,33760
+Indian Harbour Beach-FL,1840015096,Indian Harbour Beach,Indian Harbour Beach,FL,Indian Harbour Beach-FL,Florida,12009,Brevard,28.1528,-80.5974,8586,8586,1570,polygon,TRUE,America/New_York,32937
+Charlotte Park-FL,1840028650,Charlotte Park,Charlotte Park,FL,Charlotte Park-FL,Florida,12015,Charlotte,26.9031,-82.0486,,,893.7,polygon,FALSE,America/New_York,33950
+Hinson-FL,1840028694,Hinson,Hinson,FL,Hinson-FL,Florida,12039,Gadsden,30.6474,-84.4166,,,60.4,point,FALSE,America/New_York,32333
+Port Charlotte-FL,1840014200,Port Charlotte,Port Charlotte,FL,Port Charlotte-FL,Florida,12015,Charlotte,26.9918,-82.114,,,1081,polygon,FALSE,America/New_York,33954 33948 33980 33952 33938 33949
+Indian Shores-FL,1840017243,Indian Shores,Indian Shores,FL,Indian Shores-FL,Florida,12103,Pinellas,27.8535,-82.8439,1499,1499,1710,polygon,TRUE,America/New_York,33785
+Russell-FL,1840028766,Russell,Russell,FL,Russell-FL,Florida,12019,Clay,30.0564,-81.7473,,,52.6,point,FALSE,America/New_York,32043
+Jacksonville Beach-FL,1840015032,Jacksonville Beach,Jacksonville Beach,FL,Jacksonville Beach-FL,Florida,12031,Duval,30.2782,-81.4045,23387,23387,1231,polygon,TRUE,America/New_York,32250 32240
+Parkland-FL,1840015140,Parkland,Parkland,FL,Parkland-FL,Florida,12011,Broward,26.319,-80.2489,31507,31507,993,polygon,TRUE,America/New_York,33076 33067
+Pine Log-FL,1840028895,Pine Log,Pine Log,FL,Pine Log-FL,Florida,12005,Bay,30.4038,-85.9116,,,14.5,point,FALSE,America/Chicago,32437
+Cedar Key-FL,1840015065,Cedar Key,Cedar Key,FL,Cedar Key-FL,Florida,12075,Levy,29.146,-83.0386,706,706,283,polygon,TRUE,America/New_York,32625
+Williamsburg-FL,1840029100,Williamsburg,Williamsburg,FL,Williamsburg-FL,Florida,12095,Orange,28.4014,-81.4462,,,1610.8,polygon,FALSE,America/New_York,32821
+Lumberton-FL,1840028721,Lumberton,Lumberton,FL,Lumberton-FL,Florida,12101,Pasco,28.2661,-82.1365,,,102.2,point,FALSE,America/New_York,33540
+Titusville-FL,1840015962,Titusville,Titusville,FL,Titusville-FL,Florida,12009,Brevard,28.5725,-80.8193,57193,46019,605,polygon,TRUE,America/New_York,32796 32780 32781 32783
+Avalon Beach-FL,1840027012,Avalon Beach,Avalon Beach,FL,Avalon Beach-FL,Florida,12113,Santa Rosa,30.5302,-87.1016,,,33.9,point,FALSE,America/Chicago,32583
+Big Coppitt Key-FL,1840029021,Big Coppitt Key,Big Coppitt Key,FL,Big Coppitt Key-FL,Florida,12087,Monroe,24.5915,-81.6574,,,1629.3,polygon,FALSE,America/New_York,33040
+Panacea-FL,1840026031,Panacea,Panacea,FL,Panacea-FL,Florida,12129,Wakulla,30.0282,-84.3936,,,192.4,polygon,FALSE,America/New_York,32346
+Astor Park-FL,1840028924,Astor Park,Astor Park,FL,Astor Park-FL,Florida,12069,Lake,29.1536,-81.572,,,46.6,point,FALSE,America/New_York,32102
+Suncoast Estates-FL,1840029083,Suncoast Estates,Suncoast Estates,FL,Suncoast Estates-FL,Florida,12071,Lee,26.7123,-81.8684,,,953.4,polygon,FALSE,America/New_York,33917
+Candler-FL,1840028927,Candler,Candler,FL,Candler-FL,Florida,12083,Marion,29.0714,-81.9681,,,189.6,point,FALSE,America/New_York,34472
+Intercession City-FL,1840028701,Intercession City,Intercession City,FL,Intercession City-FL,Florida,12097,Osceola,28.2625,-81.5079,,,515.1,point,FALSE,America/New_York,33848
+Medulla-FL,1840014131,Medulla,Medulla,FL,Medulla-FL,Florida,12105,Polk,27.957,-81.9866,,,844.4,polygon,FALSE,America/New_York,33813 33811
+Pittman-FL,1840014053,Pittman,Pittman,FL,Pittman-FL,Florida,12069,Lake,28.9967,-81.6462,,,120.5,polygon,FALSE,America/New_York,32702
+Kensington Park-FL,1840029046,Kensington Park,Kensington Park,FL,Kensington Park-FL,Florida,12115,Sarasota,27.3591,-82.4932,,,1357.3,polygon,FALSE,America/New_York,34235
+Hilden-FL,1840028955,Hilden,Hilden,FL,Hilden-FL,Florida,12109,St. Johns,30.0658,-81.4401,,,31.2,point,FALSE,America/New_York,32095
+East Lake Weir-FL,1840028929,East Lake Weir,East Lake Weir,FL,East Lake Weir-FL,Florida,12083,Marion,29.02,-81.9083,,,91.9,point,FALSE,America/New_York,32133
+Barrineau Park-FL,1840028801,Barrineau Park,Barrineau Park,FL,Barrineau Park-FL,Florida,12033,Escambia,30.6938,-87.4361,,,8.8,point,FALSE,America/Chicago,32577
+Auburndale-FL,1840014127,Auburndale,Auburndale,FL,Auburndale-FL,Florida,12105,Polk,28.0966,-81.8007,15540,15540,445,polygon,TRUE,America/New_York,33868 33823
+Solana-FL,1840014199,Solana,Solana,FL,Solana-FL,Florida,12015,Charlotte,26.9388,-82.0277,,,682.7,polygon,FALSE,America/New_York,33950
+Live Oak-FL,1840015929,Live Oak,Live Oak,FL,Live Oak-FL,Florida,12121,Suwannee,30.2956,-82.9846,7110,6965,355,polygon,TRUE,America/New_York,32064
+Poinciana-FL,1840014132,Poinciana,Poinciana,FL,Poinciana-FL,Florida,12097,Osceola,28.1217,-81.482,,,843.3,polygon,FALSE,America/New_York,34758 34759
+Orangetree-FL,1840014234,Orangetree,Orangetree,FL,Orangetree-FL,Florida,12021,Collier,26.293,-81.5786,,,831.8,polygon,FALSE,America/New_York,34120
+Opa-locka-FL,1840015156,Opa-locka,Opa-locka,FL,Opa-locka-FL,Florida,12086,Miami-Dade,25.8997,-80.2551,16457,16457,1476,polygon,TRUE,America/New_York,33054
+Berkeley-FL,1840028635,Berkeley,Berkeley,FL,Berkeley-FL,Florida,12053,Hernando,28.5028,-82.5887,,,282.7,point,FALSE,America/New_York,34607
+Goodno-FL,1840028830,Goodno,Goodno,FL,Goodno-FL,Florida,12043,Glades,26.7687,-81.3117,,,5.7,point,FALSE,America/New_York,33935
+De Soto City-FL,1840028663,De Soto City,De Soto City,FL,De Soto City-FL,Florida,12055,Highlands,27.4425,-81.4051,,,137.5,point,FALSE,America/New_York,33876
+North Miami Beach-FL,1840015155,North Miami Beach,North Miami Beach,FL,North Miami Beach-FL,Florida,12086,Miami-Dade,25.9302,-80.166,43891,43891,3509,polygon,TRUE,America/New_York,33162 33160
+Westchase-FL,1840029017,Westchase,Westchase,FL,Westchase-FL,Florida,12057,Hillsborough,28.0597,-82.611,,,437.7,polygon,FALSE,America/New_York,33626
+Fort White-FL,1840017190,Fort White,Fort White,FL,Fort White-FL,Florida,12023,Columbia,29.9225,-82.7136,576,576,92,polygon,TRUE,America/New_York,32038
+Greenwood-FL,1840017152,Greenwood,Greenwood,FL,Greenwood-FL,Florida,12063,Jackson,30.8729,-85.161,654,654,54,polygon,TRUE,America/Chicago,32443
+Eau Gallie-FL,1840028806,Eau Gallie,Eau Gallie,FL,Eau Gallie-FL,Florida,12009,Brevard,28.1292,-80.6303,,,892.6,point,FALSE,America/New_York,32935
+Crystal Beach-FL,1840028799,Crystal Beach,Crystal Beach,FL,Crystal Beach-FL,Florida,12103,Pinellas,28.0914,-82.7798,,,1285.1,point,FALSE,America/New_York,34681
+University Park-FL,1840029013,University Park,University Park,FL,University Park-FL,Florida,12086,Miami-Dade,25.7469,-80.3684,,,1979.5,polygon,FALSE,America/New_York,33174 33165
+Blountstown-FL,1840013952,Blountstown,Blountstown,FL,Blountstown-FL,Florida,12013,Calhoun,30.443,-85.0454,4725,2500,304,polygon,TRUE,America/Chicago,32424
+Honeyville-FL,1840028698,Honeyville,Honeyville,FL,Honeyville-FL,Florida,12045,Gulf,30.058,-85.1899,,,56.5,point,FALSE,America/Chicago,32465
+Sky Lake-FL,1840014085,Sky Lake,Sky Lake,FL,Sky Lake-FL,Florida,12095,Orange,28.4611,-81.3913,,,2497.9,polygon,FALSE,America/New_York,32809
+Coconut-FL,1840028867,Coconut,Coconut,FL,Coconut-FL,Florida,12071,Lee,26.3995,-81.8395,,,226.2,point,FALSE,America/New_York,34134
+Pebble Creek-FL,1840028995,Pebble Creek,Pebble Creek,FL,Pebble Creek-FL,Florida,12057,Hillsborough,28.1582,-82.3411,,,1723.1,polygon,FALSE,America/New_York,33647
+South Venice-FL,1840014180,South Venice,South Venice,FL,South Venice-FL,Florida,12115,Sarasota,27.0435,-82.4152,,,1435.4,polygon,FALSE,America/New_York,34293
+Villano Beach-FL,1840029091,Villano Beach,Villano Beach,FL,Villano Beach-FL,Florida,12109,St. Johns,29.936,-81.3021,,,902.2,polygon,FALSE,America/New_York,32084
+Plant City-FL,1840015115,Plant City,Plant City,FL,Plant City-FL,Florida,12057,Hillsborough,28.0145,-82.1202,38200,38200,542,polygon,TRUE,America/New_York,33563 33565 33566 33564
+Harlem-FL,1840014209,Harlem,Harlem,FL,Harlem-FL,Florida,12051,Hendry,26.7324,-80.9518,,,1062.6,polygon,FALSE,America/New_York,33440
+Dunedin-FL,1840014144,Dunedin,Dunedin,FL,Dunedin-FL,Florida,12103,Pinellas,28.0328,-82.7865,36381,36381,1351,polygon,TRUE,America/New_York,34698 34697
+Miami Shores-FL,1840018334,Miami Shores,Miami Shores,FL,Miami Shores-FL,Florida,12086,Miami-Dade,25.867,-80.178,10762,10762,1671,polygon,TRUE,America/New_York,33141 33138
+Fort Meade-FL,1840014134,Fort Meade,Fort Meade,FL,Fort Meade-FL,Florida,12105,Polk,27.7641,-81.8054,6686,6035,280,polygon,TRUE,America/New_York,33847 33841
+Port Richey-FL,1840015103,Port Richey,Port Richey,FL,Port Richey-FL,Florida,12101,Pasco,28.2758,-82.7251,2812,2812,489,polygon,TRUE,America/New_York,34668 34673
+North DeLand-FL,1840029059,North DeLand,North DeLand,FL,North DeLand-FL,Florida,12127,Volusia,29.0483,-81.2965,,,1062.8,polygon,FALSE,America/New_York,32724
+Pine Island-FL,1840014110,Pine Island,Pine Island,FL,Pine Island-FL,Florida,12053,Hernando,28.5727,-82.6545,,,50.6,polygon,FALSE,America/New_York,34607
+Chuluota-FL,1840014071,Chuluota,Chuluota,FL,Chuluota-FL,Florida,12117,Seminole,28.638,-81.1158,,,1118.5,polygon,FALSE,America/New_York,32766
+Fellsmere-FL,1840014165,Fellsmere,Fellsmere,FL,Fellsmere-FL,Florida,12061,Indian River,27.7243,-80.5978,5649,5547,36,polygon,TRUE,America/New_York,32966 32948
+West Perrine-FL,1840029018,West Perrine,West Perrine,FL,West Perrine-FL,Florida,12086,Miami-Dade,25.6061,-80.3639,,,2845.5,polygon,FALSE,America/New_York,33157
+Jasper-FL,1840015028,Jasper,Jasper,FL,Jasper-FL,Florida,12047,Hamilton,30.5085,-82.954,4987,4196,706,polygon,TRUE,America/New_York,32052
+Lake Alfred-FL,1840015106,Lake Alfred,Lake Alfred,FL,Lake Alfred-FL,Florida,12105,Polk,28.1041,-81.7264,5766,5766,239,polygon,TRUE,America/New_York,33850
+Milton-FL,1840015006,Milton,Milton,FL,Milton-FL,Florida,12113,Santa Rosa,30.6286,-87.0522,9839,9839,682,polygon,TRUE,America/Chicago,32583 32570 32572
+Naples Park-FL,1840014233,Naples Park,Naples Park,FL,Naples Park-FL,Florida,12021,Collier,26.2633,-81.8094,,,2358.5,polygon,FALSE,America/New_York,34108
+Daytona Beach Shores-FL,1840015069,Daytona Beach Shores,Daytona Beach Shores,FL,Daytona Beach Shores-FL,Florida,12127,Volusia,29.1731,-80.9812,4481,4481,1914,polygon,TRUE,America/New_York,32118
+Perry-FL,1840015046,Perry,Perry,FL,Perry-FL,Florida,12123,Taylor,30.1092,-83.582,6960,7045,289,polygon,TRUE,America/New_York,32347 32348
+Coral Terrace-FL,1840029028,Coral Terrace,Coral Terrace,FL,Coral Terrace-FL,Florida,12086,Miami-Dade,25.7464,-80.3049,,,3077.8,polygon,FALSE,America/New_York,33144 33155
+Kendale Lakes-FL,1840029045,Kendale Lakes,Kendale Lakes,FL,Kendale Lakes-FL,Florida,12086,Miami-Dade,25.7081,-80.4078,,,5348.2,polygon,FALSE,America/New_York,33175 33183
+Gainesville-FL,1840014022,Gainesville,Gainesville,FL,Gainesville-FL,Florida,12001,Alachua,29.6814,-82.3454,198702,131591,820,polygon,TRUE,America/New_York,32608 32609 32612 32653 32603 32601 32607 32605 32602 32604 32610 32611 32614 32627 32635
+Longboat Key-FL,1840017250,Longboat Key,Longboat Key,FL,Longboat Key-FL,Florida,12081,Manatee,27.3926,-82.6341,7326,7326,684,polygon,TRUE,America/New_York,34228
+Saint Lucie-FL,1840028959,Saint Lucie,Saint Lucie,FL,Saint Lucie-FL,Florida,12111,St. Lucie,27.4969,-80.3417,636,636,279,polygon,TRUE,America/New_York,34946
+Brandon-FL,1840014151,Brandon,Brandon,FL,Brandon-FL,Florida,12057,Hillsborough,27.9367,-82.3,,,576.2,polygon,FALSE,America/New_York,33511 33510 33594 33619 33584 33508 33509 33595
+Lake Belvedere Estates-FL,1840028988,Lake Belvedere Estates,Lake Belvedere Estates,FL,Lake Belvedere Estates-FL,Florida,12099,Palm Beach,26.6887,-80.1372,,,1993.4,polygon,FALSE,America/New_York,33413
+Plains-FL,1840028898,Plains,Plains,FL,Plains-FL,Florida,12055,Highlands,27.4095,-81.1842,,,1.2,point,FALSE,America/New_York,33857
+Hanson-FL,1840028880,Hanson,Hanson,FL,Hanson-FL,Florida,12079,Madison,30.5516,-83.3671,,,20.2,point,FALSE,America/New_York,32340
+Blue Mountain Beach-FL,1840028637,Blue Mountain Beach,Blue Mountain Beach,FL,Blue Mountain Beach-FL,Florida,12131,Walton,30.3374,-86.1972,,,135.1,point,FALSE,America/Chicago,32459
+LaBelle-FL,1840015129,LaBelle,LaBelle,FL,LaBelle-FL,Florida,12051,Hendry,26.7212,-81.4526,12337,4749,118,polygon,TRUE,America/New_York,33935
+Cross City-FL,1840017280,Cross City,Cross City,FL,Cross City-FL,Florida,12029,Dixie,29.6388,-83.1247,3733,1710,351,polygon,TRUE,America/New_York,32628
+Riverview-FL,1840014158,Riverview,Riverview,FL,Riverview-FL,Florida,12057,Hillsborough,27.8227,-82.3023,,,735.3,polygon,FALSE,America/New_York,33579 33569 33503 33578 33568
+Williston Highlands-FL,1840014037,Williston Highlands,Williston Highlands,FL,Williston Highlands-FL,Florida,12075,Levy,29.3336,-82.5357,,,48.5,polygon,FALSE,America/New_York,32696 32668
+Hialeah-FL,1840015157,Hialeah,Hialeah,FL,Hialeah-FL,Florida,12086,Miami-Dade,25.8696,-80.3045,236387,236387,4249,polygon,TRUE,America/New_York,33014 33016 33010 33012 33013 33018 33002 33011 33017
+Santa Rosa Beach-FL,1840028771,Santa Rosa Beach,Santa Rosa Beach,FL,Santa Rosa Beach-FL,Florida,12131,Walton,30.396,-86.2288,,,507.4,point,FALSE,America/Chicago,32459
+American Beach-FL,1840028621,American Beach,American Beach,FL,American Beach-FL,Florida,12089,Nassau,30.575,-81.444,,,374.7,point,FALSE,America/New_York,32034
+Pahokee-FL,1840015124,Pahokee,Pahokee,FL,Pahokee-FL,Florida,12099,Palm Beach,26.8205,-80.6613,7745,6094,424,polygon,TRUE,America/New_York,33476
+Upper Grand Lagoon-FL,1840029090,Upper Grand Lagoon,Upper Grand Lagoon,FL,Upper Grand Lagoon-FL,Florida,12005,Bay,30.169,-85.7407,,,653.4,polygon,FALSE,America/Chicago,32408 32407
+Ives Estates-FL,1840028705,Ives Estates,Ives Estates,FL,Ives Estates-FL,Florida,12086,Miami-Dade,25.9632,-80.183,,,3234.9,polygon,FALSE,America/New_York,33179
+Plantation Island-FL,1840028759,Plantation Island,Plantation Island,FL,Plantation Island-FL,Florida,12021,Collier,25.8475,-81.3755,,,20.9,polygon,FALSE,America/New_York,34139
+Lee-FL,1840017186,Lee,Lee,FL,Lee-FL,Florida,12079,Madison,30.4114,-83.3004,327,327,52,polygon,TRUE,America/New_York,32059
+Roseland-FL,1840014164,Roseland,Roseland,FL,Roseland-FL,Florida,12061,Indian River,27.836,-80.4884,,,530.8,polygon,FALSE,America/New_York,32958 32957
+Casselberry-FL,1840015088,Casselberry,Casselberry,FL,Casselberry-FL,Florida,12117,Seminole,28.6621,-81.3217,27053,27053,1481,polygon,TRUE,America/New_York,32707 32718
+Woodlawn Beach-FL,1840027011,Woodlawn Beach,Woodlawn Beach,FL,Woodlawn Beach-FL,Florida,12113,Santa Rosa,30.3861,-86.9931,,,182.2,polygon,FALSE,America/Chicago,32563
+Asbury Lake-FL,1840029019,Asbury Lake,Asbury Lake,FL,Asbury Lake-FL,Florida,12019,Clay,30.0472,-81.7855,,,421.3,polygon,FALSE,America/New_York,32043
+Neptune Beach-FL,1840015030,Neptune Beach,Neptune Beach,FL,Neptune Beach-FL,Florida,12031,Duval,30.3165,-81.4118,7337,7337,1214,polygon,TRUE,America/New_York,32266
+Lamont-FL,1840026005,Lamont,Lamont,FL,Lamont-FL,Florida,12065,Jefferson,30.3797,-83.8134,,,38.5,polygon,FALSE,America/New_York,32336
+Ratliff-FL,1840028846,Ratliff,Ratliff,FL,Ratliff-FL,Florida,12089,Nassau,30.5077,-81.8001,,,114,point,FALSE,America/New_York,32011
+South Pasadena-FL,1840015979,South Pasadena,South Pasadena,FL,South Pasadena-FL,Florida,12103,Pinellas,27.7524,-82.7395,5111,5111,3248,polygon,TRUE,America/New_York,33707
+Frink-FL,1840028827,Frink,Frink,FL,Frink-FL,Florida,12013,Calhoun,30.3685,-85.2141,,,3.2,point,FALSE,America/Chicago,32430
+Favoretta-FL,1840028800,Favoretta,Favoretta,FL,Favoretta-FL,Florida,12035,Flagler,29.3669,-81.1748,,,21.3,point,FALSE,America/New_York,32110
+Korona-FL,1840028716,Korona,Korona,FL,Korona-FL,Florida,12035,Flagler,29.4069,-81.1965,,,56.3,point,FALSE,America/New_York,32110
+Laurel Hill-FL,1840015010,Laurel Hill,Laurel Hill,FL,Laurel Hill-FL,Florida,12091,Okaloosa,30.9633,-86.4567,588,588,72,polygon,TRUE,America/Chicago,32567
+Stock Island-FL,1840029082,Stock Island,Stock Island,FL,Stock Island-FL,Florida,12087,Monroe,24.5658,-81.7351,,,1755.4,polygon,FALSE,America/New_York,33040
+Narcoossee-FL,1840028736,Narcoossee,Narcoossee,FL,Narcoossee-FL,Florida,12097,Osceola,28.2983,-81.239,,,232.4,point,FALSE,America/New_York,34771
+Armstrong-FL,1840028953,Armstrong,Armstrong,FL,Armstrong-FL,Florida,12109,St. Johns,29.7622,-81.4479,,,50.9,point,FALSE,America/New_York,32033
+Holder-FL,1840028695,Holder,Holder,FL,Holder-FL,Florida,12017,Citrus,28.9669,-82.4207,,,69.7,point,FALSE,America/New_York,34445
+East Lake-FL,1840028980,East Lake,East Lake,FL,East Lake-FL,Florida,12103,Pinellas,28.1205,-82.6869,,,1037.2,polygon,FALSE,America/New_York,34677 34685 34688
+Duck Key-FL,1840013130,Duck Key,Duck Key,FL,Duck Key-FL,Florida,12087,Monroe,24.771,-80.9132,,,478.3,polygon,FALSE,America/New_York,33050
+Southport-FL,1840028781,Southport,Southport,FL,Southport-FL,Florida,12005,Bay,30.2894,-85.6405,,,156.3,point,FALSE,America/Chicago,32409
+Ashville-FL,1840028813,Ashville,Ashville,FL,Ashville-FL,Florida,12065,Jefferson,30.6166,-83.6465,,,4.4,point,FALSE,America/New_York,32344
+Arcadia-FL,1840014187,Arcadia,Arcadia,FL,Arcadia-FL,Florida,12027,DeSoto,27.2213,-81.8586,18184,7941,710,polygon,TRUE,America/New_York,34266 34265
+Cinco Bayou-FL,1840017158,Cinco Bayou,Cinco Bayou,FL,Cinco Bayou-FL,Florida,12091,Okaloosa,30.4222,-86.6095,425,425,941,polygon,TRUE,America/Chicago,32548
+Surfside-FL,1840017278,Surfside,Surfside,FL,Surfside-FL,Florida,12086,Miami-Dade,25.8787,-80.1251,5811,5811,4025,polygon,TRUE,America/New_York,33154
+Saint Marks-FL,1840015933,Saint Marks,Saint Marks,FL,Saint Marks-FL,Florida,12129,Wakulla,30.1653,-84.2079,305,305,60,polygon,TRUE,America/New_York,32355
+Medart-FL,1840028937,Medart,Medart,FL,Medart-FL,Florida,12129,Wakulla,30.0827,-84.3871,,,19.3,point,FALSE,America/New_York,32327
+Baker-FL,1840028624,Baker,Baker,FL,Baker-FL,Florida,12091,Okaloosa,30.7971,-86.6813,,,181.6,point,FALSE,America/Chicago,32531
+North Brooksville-FL,1840029058,North Brooksville,North Brooksville,FL,North Brooksville-FL,Florida,12053,Hernando,28.573,-82.3748,,,18.1,polygon,FALSE,America/New_York,34601
+Goulds-FL,1840014239,Goulds,Goulds,FL,Goulds-FL,Florida,12086,Miami-Dade,25.5615,-80.388,,,1618.8,polygon,FALSE,America/New_York,33170 33177
+Davie-FL,1840017272,Davie,Davie,FL,Davie-FL,Florida,12011,Broward,26.0789,-80.287,101871,101871,1127,polygon,TRUE,America/New_York,33328 33324 33325 33331 33330 33317 33314
+Cantonment-FL,1840028645,Cantonment,Cantonment,FL,Cantonment-FL,Florida,12033,Escambia,30.6085,-87.34,,,160.5,point,FALSE,America/Chicago,32533
+Timber Pines-FL,1840029088,Timber Pines,Timber Pines,FL,Timber Pines-FL,Florida,12053,Hernando,28.469,-82.5999,,,993.7,polygon,FALSE,America/New_York,34606
+Pace-FL,1840013919,Pace,Pace,FL,Pace-FL,Florida,12113,Santa Rosa,30.6187,-87.1667,,,496,polygon,FALSE,America/Chicago,32571
+Orange Lake-FL,1840028745,Orange Lake,Orange Lake,FL,Orange Lake-FL,Florida,12083,Marion,29.4236,-82.2168,,,259.5,point,FALSE,America/New_York,32686
+Bartow-FL,1840014128,Bartow,Bartow,FL,Bartow-FL,Florida,12105,Polk,27.8862,-81.8212,19499,19499,163,polygon,TRUE,America/New_York,33880 33830 33831
+Beacon Hill-FL,1840028630,Beacon Hill,Beacon Hill,FL,Beacon Hill-FL,Florida,12045,Gulf,29.923,-85.3858,,,413.3,point,FALSE,America/New_York,32456
+Deer Park-FL,1840028664,Deer Park,Deer Park,FL,Deer Park-FL,Florida,12097,Osceola,28.0914,-80.8978,,,4.2,point,FALSE,America/New_York,34773
+Fish Hawk-FL,1840028982,Fish Hawk,Fish Hawk,FL,Fish Hawk-FL,Florida,12057,Hillsborough,27.8511,-82.2164,,,413.3,polygon,FALSE,America/New_York,33547 33569
+Margate-FL,1840015999,Margate,Margate,FL,Margate-FL,Florida,12011,Broward,26.2465,-80.2119,57870,57870,2522,polygon,TRUE,America/New_York,33068 33063
+Brownsville-FL,1840029024,Brownsville,Brownsville,FL,Brownsville-FL,Florida,12086,Miami-Dade,25.8216,-80.2418,,,3777.2,polygon,FALSE,America/New_York,33142
+Ludlam-FL,1840028971,Ludlam,Ludlam,FL,Ludlam-FL,Florida,12086,Miami-Dade,25.7337,-80.3014,,,2668.3,point,FALSE,America/New_York,33155
+Kendall-FL,1840014244,Kendall,Kendall,FL,Kendall-FL,Florida,12086,Miami-Dade,25.6697,-80.3556,,,2710.9,polygon,FALSE,America/New_York,33173 33176 33156 33183
+Interlachen-FL,1840017218,Interlachen,Interlachen,FL,Interlachen-FL,Florida,12107,Putnam,29.6203,-81.8963,1361,1361,89,polygon,TRUE,America/New_York,32148 32149
+Madison-FL,1840015917,Madison,Madison,FL,Madison-FL,Florida,12079,Madison,30.4685,-83.416,3856,2853,431,polygon,TRUE,America/New_York,32340 32341
+Tennille-FL,1840028906,Tennille,Tennille,FL,Tennille-FL,Florida,12123,Taylor,29.778,-83.326,,,15.8,point,FALSE,America/New_York,32359
+Windermere-FL,1840017238,Windermere,Windermere,FL,Windermere-FL,Florida,12095,Orange,28.5034,-81.5411,3327,3327,676,polygon,TRUE,America/New_York,34786
+Villas-FL,1840029092,Villas,Villas,FL,Villas-FL,Florida,12071,Lee,26.5505,-81.8678,,,760.2,polygon,FALSE,America/New_York,33912 33907
+Aucilla-FL,1840026004,Aucilla,Aucilla,FL,Aucilla-FL,Florida,12065,Jefferson,30.477,-83.7604,,,33.1,polygon,FALSE,America/New_York,32344
+Cape Canaveral-FL,1840015091,Cape Canaveral,Cape Canaveral,FL,Cape Canaveral-FL,Florida,12009,Brevard,28.3934,-80.605,10352,10352,1789,polygon,TRUE,America/New_York,32920
+Cocoa Beach-FL,1840015093,Cocoa Beach,Cocoa Beach,FL,Cocoa Beach-FL,Florida,12009,Brevard,28.3328,-80.6274,11761,11761,975,polygon,TRUE,America/New_York,32931 32932
+Lake Hamilton-FL,1840017240,Lake Hamilton,Lake Hamilton,FL,Lake Hamilton-FL,Florida,12105,Polk,28.0478,-81.627,1382,1382,169,polygon,TRUE,America/New_York,33851 33844
+Spring Lake-FL,1840014106,Spring Lake,Spring Lake,FL,Spring Lake-FL,Florida,12053,Hernando,28.4952,-82.3017,,,55.1,polygon,FALSE,America/New_York,34601 34602
+Cocoa-FL,1840015092,Cocoa,Cocoa,FL,Cocoa-FL,Florida,12009,Brevard,28.3821,-80.7675,18102,18102,524,polygon,TRUE,America/New_York,32922 32926 32923 32924
+Zellwood-FL,1840014092,Zellwood,Zellwood,FL,Zellwood-FL,Florida,12095,Orange,28.7294,-81.5894,,,297.5,polygon,FALSE,America/New_York,32798 32757
+New River-FL,1840028889,New River,New River,FL,New River-FL,Florida,12007,Bradford,29.9611,-82.2654,,,6.9,point,FALSE,America/New_York,32622
+Ridge Manor-FL,1840014111,Ridge Manor,Ridge Manor,FL,Ridge Manor-FL,Florida,12053,Hernando,28.4988,-82.1833,,,232.6,polygon,FALSE,America/New_York,33523
+Brownsdale-FL,1840025110,Brownsdale,Brownsdale,FL,Brownsdale-FL,Florida,12113,Santa Rosa,30.8859,-87.2218,,,32.9,polygon,FALSE,America/Chicago,32565
+Molino-FL,1840013916,Molino,Molino,FL,Molino-FL,Florida,12033,Escambia,30.7123,-87.324,,,172.2,polygon,FALSE,America/Chicago,32577
+Gomez-FL,1840028829,Gomez,Gomez,FL,Gomez-FL,Florida,12085,Martin,27.0848,-80.1434,,,1062.8,point,FALSE,America/New_York,33455
+Babson Park-FL,1840014124,Babson Park,Babson Park,FL,Babson Park-FL,Florida,12105,Polk,27.8342,-81.5281,,,219.8,polygon,FALSE,America/New_York,33827
+Eastpoint-FL,1840013112,Eastpoint,Eastpoint,FL,Eastpoint-FL,Florida,12037,Franklin,29.7548,-84.8693,,,519.5,polygon,FALSE,America/New_York,32328
+New Smyrna Beach-FL,1840015073,New Smyrna Beach,New Smyrna Beach,FL,New Smyrna Beach-FL,Florida,12127,Volusia,29.0246,-80.9637,25796,25796,284,polygon,TRUE,America/New_York,32169 32168 32170
+Dania Beach-FL,1840015135,Dania Beach,Dania Beach,FL,Dania Beach-FL,Florida,12011,Broward,26.0594,-80.1641,31422,31422,1496,polygon,TRUE,America/New_York,33004 33312
+Hatchbend-FL,1840028831,Hatchbend,Hatchbend,FL,Hatchbend-FL,Florida,12067,Lafayette,29.8472,-82.9182,,,20.2,point,FALSE,America/New_York,32008
+Pasco-FL,1840028843,Pasco,Pasco,FL,Pasco-FL,Florida,12101,Pasco,28.3247,-82.337,,,328.2,point,FALSE,America/New_York,33576
+East Palatka-FL,1840013115,East Palatka,East Palatka,FL,East Palatka-FL,Florida,12107,Putnam,29.6506,-81.5982,,,343.7,polygon,FALSE,America/New_York,32131
+Dallas-FL,1840028661,Dallas,Dallas,FL,Dallas-FL,Florida,12083,Marion,28.9711,-82.0409,,,842.7,point,FALSE,America/New_York,34491
+Indian River Shores-FL,1840017246,Indian River Shores,Indian River Shores,FL,Indian River Shores-FL,Florida,12061,Indian River,27.7089,-80.3853,4228,4228,318,polygon,TRUE,America/New_York,32963
+Lake Butler-FL,1840015052,Lake Butler,Lake Butler,FL,Lake Butler-FL,Florida,12125,Union,30.018,-82.3421,4838,1815,309,polygon,TRUE,America/New_York,32054
+Cassadaga-FL,1840028648,Cassadaga,Cassadaga,FL,Cassadaga-FL,Florida,12127,Volusia,28.9664,-81.2359,,,251.5,point,FALSE,America/New_York,32744
+Penney Farms-FL,1840017207,Penney Farms,Penney Farms,FL,Penney Farms-FL,Florida,12019,Clay,29.9804,-81.8113,821,821,219,polygon,TRUE,America/New_York,32079 32043
+Greenville-FL,1840017187,Greenville,Greenville,FL,Greenville-FL,Florida,12079,Madison,30.4668,-83.6352,796,796,234,polygon,TRUE,America/New_York,32331
+Keystone-FL,1840028914,Keystone,Keystone,FL,Keystone-FL,Florida,12057,Hillsborough,28.1312,-82.5999,,,27.6,polygon,FALSE,America/New_York,33626 33556 33558
+Shady Grove-FL,1840028776,Shady Grove,Shady Grove,FL,Shady Grove-FL,Florida,12123,Taylor,30.288,-83.6318,,,9.4,point,FALSE,America/New_York,32331
+Arredondo-FL,1840028623,Arredondo,Arredondo,FL,Arredondo-FL,Florida,12001,Alachua,29.605,-82.4093,,,716.7,point,FALSE,America/New_York,32608
+Whiskey Creek-FL,1840029099,Whiskey Creek,Whiskey Creek,FL,Whiskey Creek-FL,Florida,12071,Lee,26.5734,-81.8903,,,1347.8,polygon,FALSE,America/New_York,33919
+Verna-FL,1840028856,Verna,Verna,FL,Verna-FL,Florida,12081,Manatee,27.3873,-82.2681,,,80.6,point,FALSE,America/New_York,34251
+Fort Lauderdale-FL,1840014236,Fort Lauderdale,Fort Lauderdale,FL,Fort Lauderdale-FL,Florida,12011,Broward,26.1412,-80.1464,178752,178752,1994,polygon,TRUE,America/New_York,33301 33304 33305 33306 33308 33309 33334 33316 33315 33312 33311 33302 33303 33307 33310 33318 33320 33329 33335 33336 33337 33338 33339 33340 33345 33346 33348 33349 33355 33359 33388 33394
+Harold-FL,1840025113,Harold,Harold,FL,Harold-FL,Florida,12113,Santa Rosa,30.6771,-86.831,,,51.2,polygon,FALSE,America/Chicago,32583 32564
+Bakers Mill-FL,1840028625,Bakers Mill,Bakers Mill,FL,Bakers Mill-FL,Florida,12047,Hamilton,30.5797,-82.9393,,,2.2,point,FALSE,America/New_York,32052
+Green Cove Springs-FL,1840013999,Green Cove Springs,Green Cove Springs,FL,Green Cove Springs-FL,Florida,12019,Clay,29.9903,-81.6808,7666,7666,400,polygon,TRUE,America/New_York,32043
+Oriole Beach-FL,1840027018,Oriole Beach,Oriole Beach,FL,Oriole Beach-FL,Florida,12113,Santa Rosa,30.3687,-87.0962,,,1133,polygon,FALSE,America/Chicago,32563
+Lutz-FL,1840014156,Lutz,Lutz,FL,Lutz-FL,Florida,12057,Hillsborough,28.1396,-82.4462,,,456.4,polygon,FALSE,America/New_York,33548 33647 33549 33559
+Valrico-FL,1840028790,Valrico,Valrico,FL,Valrico-FL,Florida,12057,Hillsborough,27.9193,-82.2293,,,1335,polygon,FALSE,America/New_York,33594 33596 33530 33587
+Five Points-FL,1840013954,Five Points,Five Points,FL,Five Points-FL,Florida,12023,Columbia,30.2225,-82.6463,,,564.3,polygon,FALSE,America/New_York,32055
+Anthony-FL,1840028622,Anthony,Anthony,FL,Anthony-FL,Florida,12083,Marion,29.2894,-82.1118,,,433.7,point,FALSE,America/New_York,32617
+Eva-FL,1840028877,Eva,Eva,FL,Eva-FL,Florida,12105,Polk,28.3264,-81.8334,,,16.9,point,FALSE,America/New_York,33868
+Fort Ogden-FL,1840028803,Fort Ogden,Fort Ogden,FL,Fort Ogden-FL,Florida,12027,DeSoto,27.0873,-81.9523,,,112.1,point,FALSE,America/New_York,34266
+Lake Worth-FL,1840015127,Lake Worth,Lake Worth,FL,Lake Worth-FL,Florida,12099,Palm Beach,26.6195,-80.0592,37812,37812,2484,polygon,TRUE,America/New_York,33461 33460 33454 33464 33465 33466
+Saint Augustine Beach-FL,1840015936,Saint Augustine Beach,Saint Augustine Beach,FL,Saint Augustine Beach-FL,Florida,12109,St. Johns,29.8413,-81.2713,6979,6979,1272,polygon,TRUE,America/New_York,32080
+Reddick-FL,1840018275,Reddick,Reddick,FL,Reddick-FL,Florida,12083,Marion,29.3687,-82.1974,527,527,160,polygon,TRUE,America/New_York,32686
+Parrish-FL,1840028752,Parrish,Parrish,FL,Parrish-FL,Florida,12081,Manatee,27.5875,-82.4251,,,292.9,point,FALSE,America/New_York,34219
+Pine Island Ridge-FL,1840029065,Pine Island Ridge,Pine Island Ridge,FL,Pine Island Ridge-FL,Florida,12011,Broward,26.0948,-80.2739,,,3105.6,point,FALSE,America/New_York,33324
+Kissimmee-FL,1840015109,Kissimmee,Kissimmee,FL,Kissimmee-FL,Florida,12097,Osceola,28.3042,-81.4164,365099,69369,1287,polygon,TRUE,America/New_York,34741 34743 34746 34744 34742 34745
+Sawgrass-FL,1840029073,Sawgrass,Sawgrass,FL,Sawgrass-FL,Florida,12109,St. Johns,30.19,-81.3704,,,916.2,polygon,FALSE,America/New_York,32082
+Homestead-FL,1840015159,Homestead,Homestead,FL,Homestead-FL,Florida,12086,Miami-Dade,25.4664,-80.4472,67996,67996,1734,polygon,TRUE,America/New_York,33033 33030 33035 33090 33092
+Wekiwa Springs-FL,1840029016,Wekiwa Springs,Wekiwa Springs,FL,Wekiwa Springs-FL,Florida,12117,Seminole,28.6984,-81.4249,,,1147,polygon,FALSE,America/New_York,32779
+Englewood-FL,1840013127,Englewood,Englewood,FL,Englewood-FL,Florida,12115,Sarasota,26.9604,-82.3535,,,795.3,polygon,FALSE,America/New_York,34223 34224 34295
+Brookridge-FL,1840029022,Brookridge,Brookridge,FL,Brookridge-FL,Florida,12053,Hernando,28.5484,-82.4897,,,973.7,polygon,FALSE,America/New_York,34613
+Boca Raton-FL,1840014207,Boca Raton,Boca Raton,FL,Boca Raton-FL,Florida,12099,Palm Beach,26.3749,-80.1078,96114,96114,1265,polygon,TRUE,America/New_York,33496 33487 33486 33434 33432 33433 33431 33427 33429 33481 33488 33497 33499
+Waldo-FL,1840015943,Waldo,Waldo,FL,Waldo-FL,Florida,12001,Alachua,29.7919,-82.1667,1030,1030,182,polygon,TRUE,America/New_York,32694
+Belleair-FL,1840015973,Belleair,Belleair,FL,Belleair-FL,Florida,12103,Pinellas,27.9363,-82.8118,4022,4022,902,polygon,TRUE,America/New_York,33756
+Orange Park-FL,1840017206,Orange Park,Orange Park,FL,Orange Park-FL,Florida,12019,Clay,30.1706,-81.704,8783,8783,935,polygon,TRUE,America/New_York,32073 32067
+Samsula-FL,1840028769,Samsula,Samsula,FL,Samsula-FL,Florida,12127,Volusia,29.0261,-81.0503,,,52.2,point,FALSE,America/New_York,32168
+Port Saint John-FL,1840014079,Port Saint John,Port Saint John,FL,Port Saint John-FL,Florida,12009,Brevard,28.4771,-80.7874,,,1489.1,polygon,FALSE,America/New_York,32927
+Ellenton-FL,1840013124,Ellenton,Ellenton,FL,Ellenton-FL,Florida,12081,Manatee,27.5265,-82.5262,,,964.2,polygon,FALSE,America/New_York,34222 34221
+Haines City-FL,1840014136,Haines City,Haines City,FL,Haines City-FL,Florida,12105,Polk,28.1098,-81.6158,23454,23454,488,polygon,TRUE,America/New_York,33844 33845
+Taft-FL,1840014086,Taft,Taft,FL,Taft-FL,Florida,12095,Orange,28.428,-81.3666,,,1584.7,polygon,FALSE,America/New_York,32824
+Weirsdale-FL,1840028793,Weirsdale,Weirsdale,FL,Weirsdale-FL,Florida,12083,Marion,28.9819,-81.9242,,,59,point,FALSE,America/New_York,32195
+Winter Park-FL,1840015966,Winter Park,Winter Park,FL,Winter Park-FL,Florida,12095,Orange,28.5986,-81.3436,30208,30208,1342,polygon,TRUE,America/New_York,32792 32789 32790 32793
+Shady Hills-FL,1840029004,Shady Hills,Shady Hills,FL,Shady Hills-FL,Florida,12101,Pasco,28.4043,-82.5468,,,247.3,polygon,FALSE,America/New_York,34610
+Ocean Breeze Park-FL,1840017252,Ocean Breeze Park,Ocean Breeze Park,FL,Ocean Breeze Park-FL,Florida,12085,Martin,27.2411,-80.2259,357,357,831,polygon,TRUE,America/New_York,34957
+Ruskin-FL,1840014159,Ruskin,Ruskin,FL,Ruskin-FL,Florida,12057,Hillsborough,27.7065,-82.421,,,539.7,polygon,FALSE,America/New_York,33570 33575
+Highland-FL,1840028832,Highland,Highland,FL,Highland-FL,Florida,12019,Clay,30.1125,-82.0457,,,27,point,FALSE,America/New_York,32058
+Bee Ridge-FL,1840028632,Bee Ridge,Bee Ridge,FL,Bee Ridge-FL,Florida,12115,Sarasota,27.2855,-82.4731,,,1625.1,polygon,FALSE,America/New_York,34233
+Greensboro-FL,1840017183,Greensboro,Greensboro,FL,Greensboro-FL,Florida,12039,Gadsden,30.5704,-84.7327,607,607,102,polygon,TRUE,America/New_York,32351 32330
+Bascom-FL,1840015899,Bascom,Bascom,FL,Bascom-FL,Florida,12063,Jackson,30.928,-85.118,118,118,188,polygon,TRUE,America/Chicago,32423
+Sink Creek-FL,1840028778,Sink Creek,Sink Creek,FL,Sink Creek-FL,Florida,12063,Jackson,30.6227,-85.1516,,,29.1,point,FALSE,America/Chicago,32448
+Crescent City-FL,1840015061,Crescent City,Crescent City,FL,Crescent City-FL,Florida,12107,Putnam,29.4375,-81.5175,2760,1548,285,polygon,TRUE,America/New_York,32112
+Golf-FL,1840018306,Golf,Golf,FL,Golf-FL,Florida,12099,Palm Beach,26.5043,-80.1091,281,281,133,polygon,TRUE,America/New_York,33436
+Lundy-FL,1840028722,Lundy,Lundy,FL,Lundy-FL,Florida,12107,Putnam,29.6183,-81.6476,,,123.1,point,FALSE,America/New_York,32177
+Punta Gorda-FL,1840015122,Punta Gorda,Punta Gorda,FL,Punta Gorda-FL,Florida,12015,Charlotte,26.8933,-82.0524,18796,18796,483,polygon,TRUE,America/New_York,33950 33927 33951
+Century-FL,1840017155,Century,Century,FL,Century-FL,Florida,12033,Escambia,30.9767,-87.2628,3493,1786,213,polygon,TRUE,America/Chicago,32535
+Hampton Springs-FL,1840028690,Hampton Springs,Hampton Springs,FL,Hampton Springs-FL,Florida,12123,Taylor,30.0855,-83.6549,,,7.2,point,FALSE,America/New_York,32347
+Memphis-FL,1840014172,Memphis,Memphis,FL,Memphis-FL,Florida,12081,Manatee,27.5435,-82.5607,,,1552.5,polygon,FALSE,America/New_York,34221
+Sun City-FL,1840028785,Sun City,Sun City,FL,Sun City-FL,Florida,12057,Hillsborough,27.6784,-82.4787,,,229.7,point,FALSE,America/New_York,33570
+Ensley-FL,1840013104,Ensley,Ensley,FL,Ensley-FL,Florida,12033,Escambia,30.5261,-87.2735,,,739.6,polygon,FALSE,America/Chicago,32514 32534
+Hialeah Gardens-FL,1840015158,Hialeah Gardens,Hialeah Gardens,FL,Hialeah Gardens-FL,Florida,12086,Miami-Dade,25.888,-80.3573,23837,23837,2787,polygon,TRUE,America/New_York,33016 33018
+Keysville-FL,1840028713,Keysville,Keysville,FL,Keysville-FL,Florida,12057,Hillsborough,27.8692,-82.0956,,,152.8,point,FALSE,America/New_York,33547
+Caryville-FL,1840017177,Caryville,Caryville,FL,Caryville-FL,Florida,12133,Washington,30.7753,-85.812,281,281,35,polygon,TRUE,America/Chicago,32427
+Gulf Hammock-FL,1840028688,Gulf Hammock,Gulf Hammock,FL,Gulf Hammock-FL,Florida,12075,Levy,29.253,-82.7309,,,2.8,point,FALSE,America/New_York,32639
+North Miami-FL,1840015154,North Miami,North Miami,FL,North Miami-FL,Florida,12086,Miami-Dade,25.9008,-80.1686,62139,62139,2833,polygon,TRUE,America/New_York,33167 33160 33161 33168 33181
+Italia-FL,1840028833,Italia,Italia,FL,Italia-FL,Florida,12089,Nassau,30.6166,-81.717,,,19.8,point,FALSE,America/New_York,32097
+Saint Teresa-FL,1840028967,Saint Teresa,Saint Teresa,FL,Saint Teresa-FL,Florida,12037,Franklin,29.9308,-84.4541,,,30.2,point,FALSE,America/New_York,32358
+Lehigh Acres-FL,1840014220,Lehigh Acres,Lehigh Acres,FL,Lehigh Acres-FL,Florida,12071,Lee,26.612,-81.6388,,,279.5,polygon,FALSE,America/New_York,33936 33973 33972 33971 33976 33974 33970
+The Hammocks-FL,1840029009,The Hammocks,The Hammocks,FL,The Hammocks-FL,Florida,12086,Miami-Dade,25.67,-80.4483,,,6900.5,polygon,FALSE,America/New_York,33196 33186
+Sweetwater-FL,1840016008,Sweetwater,Sweetwater,FL,Sweetwater-FL,Florida,12086,Miami-Dade,25.7785,-80.3762,20701,20701,3519,polygon,TRUE,America/New_York,33172 33174
+North Bay Village-FL,1840015153,North Bay Village,North Bay Village,FL,North Bay Village-FL,Florida,12086,Miami-Dade,25.8487,-80.1535,8262,8262,8627,polygon,TRUE,America/New_York,33141
+Howie In The Hills-FL,1840028859,Howie In The Hills,Howie In The Hills,FL,Howie In The Hills-FL,Florida,12069,Lake,28.7098,-81.7799,1181,1181,144,polygon,TRUE,America/New_York,34737
+Mangonia Park-FL,1840017262,Mangonia Park,Mangonia Park,FL,Mangonia Park-FL,Florida,12099,Palm Beach,26.7586,-80.0761,1992,1992,1035,polygon,TRUE,America/New_York,33407
+Pine Ridge-FL,1840028997,Pine Ridge,Pine Ridge,FL,Pine Ridge-FL,Florida,12017,Citrus,28.933,-82.4761,,,249.8,polygon,FALSE,America/New_York,34465 34442 34445
+Hudson-FL,1840014115,Hudson,Hudson,FL,Hudson-FL,Florida,12101,Pasco,28.3594,-82.6888,,,631.1,polygon,FALSE,America/New_York,34667 34674
+Pineland-FL,1840014224,Pineland,Pineland,FL,Pineland-FL,Florida,12071,Lee,26.6643,-82.1477,,,157.9,polygon,FALSE,America/New_York,33922
+Flagler Beach-FL,1840014035,Flagler Beach,Flagler Beach,FL,Flagler Beach-FL,Florida,12035,Flagler,29.4712,-81.13,4999,4999,527,polygon,TRUE,America/New_York,32136
+Yeehaw Junction-FL,1840014139,Yeehaw Junction,Yeehaw Junction,FL,Yeehaw Junction-FL,Florida,12097,Osceola,27.6993,-80.8871,,,1.1,polygon,FALSE,America/New_York,34972
+Trilby-FL,1840025152,Trilby,Trilby,FL,Trilby-FL,Florida,12101,Pasco,28.4565,-82.194,,,239.1,polygon,FALSE,America/New_York,33523
+Homeland-FL,1840025157,Homeland,Homeland,FL,Homeland-FL,Florida,12105,Polk,27.8182,-81.8269,,,122.8,polygon,FALSE,America/New_York,33847 33830
+Fidelis-FL,1840027008,Fidelis,Fidelis,FL,Fidelis-FL,Florida,12113,Santa Rosa,30.9343,-87.0246,,,20.3,polygon,FALSE,America/Chicago,32565
+Espanola-FL,1840028675,Espanola,Espanola,FL,Espanola-FL,Florida,12035,Flagler,29.5072,-81.3095,,,172.1,point,FALSE,America/New_York,32110
+Indian River City-FL,1840028700,Indian River City,Indian River City,FL,Indian River City-FL,Florida,12009,Brevard,28.5597,-80.7992,,,806.7,point,FALSE,America/New_York,32780
+Springfield-FL,1840015923,Springfield,Springfield,FL,Springfield-FL,Florida,12005,Bay,30.1689,-85.6092,9494,9494,849,polygon,TRUE,America/Chicago,32401 32404 32405
+Laurel-FL,1840014184,Laurel,Laurel,FL,Laurel-FL,Florida,12115,Sarasota,27.1446,-82.4618,,,699.1,polygon,FALSE,America/New_York,34275 34272
+South Daytona-FL,1840015950,South Daytona,South Daytona,FL,South Daytona-FL,Florida,12127,Volusia,29.1656,-81.0056,12789,12789,1329,polygon,TRUE,America/New_York,32119
+Weston-FL,1840016003,Weston,Weston,FL,Weston-FL,Florida,12011,Broward,26.1003,-80.4052,70015,70015,1109,polygon,TRUE,America/New_York,33326 33327 33331 33332
+Lochmoor Waterway Estates-FL,1840029053,Lochmoor Waterway Estates,Lochmoor Waterway Estates,FL,Lochmoor Waterway Estates-FL,Florida,12071,Lee,26.6436,-81.91,,,1602.7,polygon,FALSE,America/New_York,33903
+Aripeka-FL,1840025149,Aripeka,Aripeka,FL,Aripeka-FL,Florida,12101,Pasco,28.4308,-82.6669,,,200.8,polygon,FALSE,America/New_York,34667 34679 34607
+Geneva-FL,1840014069,Geneva,Geneva,FL,Geneva-FL,Florida,12117,Seminole,28.7377,-81.1143,,,190.6,polygon,FALSE,America/New_York,32732
+Sun City Center-FL,1840001841,Sun City Center,Sun City Center,FL,Sun City Center-FL,Florida,12057,Hillsborough,27.715,-82.3569,,,772.6,polygon,FALSE,America/New_York,33598 33573 33571
+Mayo-FL,1840017202,Mayo,Mayo,FL,Mayo-FL,Florida,12067,Lafayette,30.051,-83.1766,1232,1232,528,polygon,TRUE,America/New_York,32066
+Coral Springs-FL,1840015134,Coral Springs,Coral Springs,FL,Coral Springs-FL,Florida,12011,Broward,26.2702,-80.2593,130059,130059,2110,polygon,TRUE,America/New_York,33071 33076 33065 33067
+West Pensacola-FL,1840013915,West Pensacola,West Pensacola,FL,West Pensacola-FL,Florida,12033,Escambia,30.4263,-87.2679,,,1566.9,polygon,FALSE,America/Chicago,32505 32507 32506
+Sarasota Springs-FL,1840029072,Sarasota Springs,Sarasota Springs,FL,Sarasota Springs-FL,Florida,12115,Sarasota,27.3092,-82.4788,,,1921.5,polygon,FALSE,America/New_York,34232
+Southwest Ranches-FL,1840018328,Southwest Ranches,Southwest Ranches,FL,Southwest Ranches-FL,Florida,12011,Broward,26.0476,-80.3762,7898,7898,232,polygon,TRUE,America/New_York,33331 33330 33332
+Pine Lakes-FL,1840014052,Pine Lakes,Pine Lakes,FL,Pine Lakes-FL,Florida,12069,Lake,28.939,-81.4308,,,546.2,polygon,FALSE,America/New_York,32736
+Mulberry-FL,1840015105,Mulberry,Mulberry,FL,Mulberry-FL,Florida,12105,Polk,27.9057,-81.9871,4031,4031,251,polygon,TRUE,America/New_York,33860 33830
+Hernando-FL,1840014058,Hernando,Hernando,FL,Hernando-FL,Florida,12017,Citrus,28.9451,-82.3781,,,120.5,polygon,FALSE,America/New_York,34434 34442 34441
+Samoset-FL,1840014169,Samoset,Samoset,FL,Samoset-FL,Florida,12081,Manatee,27.4765,-82.543,,,1409.2,polygon,FALSE,America/New_York,34208
+Boulogne-FL,1840028640,Boulogne,Boulogne,FL,Boulogne-FL,Florida,12089,Nassau,30.7716,-81.9759,,,90.7,point,FALSE,America/New_York,32046
+Homosassa-FL,1840014059,Homosassa,Homosassa,FL,Homosassa-FL,Florida,12017,Citrus,28.7849,-82.6079,,,270.7,polygon,FALSE,America/New_York,34448 34487
+Osprey-FL,1840014186,Osprey,Osprey,FL,Osprey-FL,Florida,12115,Sarasota,27.1914,-82.48,,,560.6,polygon,FALSE,America/New_York,34229
+Jacksonville-FL,1840015031,Jacksonville,Jacksonville,FL,Jacksonville-FL,Florida,12031,Duval,30.3322,-81.6749,1141459,880619,454,polygon,TRUE,America/New_York,32224 32225 32226 32227 32220 32221 32222 32223 32228 32219 32218 32217 32216 32211 32210 32212 32246 32244 32233 32234 32206 32205 32202 32250 32254 32257 32256 32208 32209 32204 32258 32277 32207 32099 32201 32203 32214 32229 32231 32232 32235 32236 32237 32238 32239 32241 32245 32247 32255 32260
+Nocatee-FL,1840028805,Nocatee,Nocatee,FL,Nocatee-FL,Florida,12027,DeSoto,30.0918,-81.4097,,,28.2,polygon,FALSE,America/New_York,32081
+Ferndale-FL,1840014044,Ferndale,Ferndale,FL,Ferndale-FL,Florida,12069,Lake,28.622,-81.7014,,,149.9,polygon,FALSE,America/New_York,34715 34729
+Bradley Junction-FL,1840025154,Bradley Junction,Bradley Junction,FL,Bradley Junction-FL,Florida,12105,Polk,27.7942,-81.9784,,,411.1,polygon,FALSE,America/New_York,33860
+Crestview-FL,1840015007,Crestview,Crestview,FL,Crestview-FL,Florida,12091,Okaloosa,30.748,-86.5784,36433,23567,567,polygon,TRUE,America/Chicago,32536 32539
+Piney Point-FL,1840028757,Piney Point,Piney Point,FL,Piney Point-FL,Florida,12081,Manatee,27.6342,-82.5404,,,742.1,point,FALSE,America/New_York,34221
+Bithlo-FL,1840014083,Bithlo,Bithlo,FL,Bithlo-FL,Florida,12095,Orange,28.5644,-81.1067,,,522.4,polygon,FALSE,America/New_York,32820 32833
+Feather Sound-FL,1840029034,Feather Sound,Feather Sound,FL,Feather Sound-FL,Florida,12103,Pinellas,27.9062,-82.6804,,,2.8,polygon,FALSE,America/New_York,33762
+Juno Beach-FL,1840017254,Juno Beach,Juno Beach,FL,Juno Beach-FL,Florida,12099,Palm Beach,26.8756,-80.0589,3564,3564,675,polygon,TRUE,America/New_York,33408
+Parmalee-FL,1840028842,Parmalee,Parmalee,FL,Parmalee-FL,Florida,12081,Manatee,27.3712,-82.2181,,,21.8,point,FALSE,America/New_York,34251
+Palm Shores-FL,1840017236,Palm Shores,Palm Shores,FL,Palm Shores-FL,Florida,12009,Brevard,28.1923,-80.6598,1034,1034,698,polygon,TRUE,America/New_York,32935 32940
+Melbourne-FL,1840015960,Melbourne,Melbourne,FL,Melbourne-FL,Florida,12009,Brevard,28.1152,-80.653,81185,81185,835,polygon,TRUE,America/New_York,32901 32903 32934 32935 32902 32912 32919 32936 32941
+Plymouth-FL,1840028760,Plymouth,Plymouth,FL,Plymouth-FL,Florida,12095,Orange,28.6922,-81.5473,,,965.3,point,FALSE,America/New_York,32712
+Longwood-FL,1840015957,Longwood,Longwood,FL,Longwood-FL,Florida,12117,Seminole,28.7016,-81.3489,15011,15011,1060,polygon,TRUE,America/New_York,32750 32752 32791
+Golden Beach-FL,1840017277,Golden Beach,Golden Beach,FL,Golden Beach-FL,Florida,12086,Miami-Dade,25.966,-80.121,968,968,1150,polygon,TRUE,America/New_York,33160
+Riverland-FL,1840029071,Riverland,Riverland,FL,Riverland-FL,Florida,12011,Broward,26.094,-80.1867,,,2199.1,point,FALSE,America/New_York,33312
+Bereah-FL,1840028816,Bereah,Bereah,FL,Bereah-FL,Florida,12105,Polk,27.6611,-81.6256,,,2.8,point,FALSE,America/New_York,33841
+Golden Glades-FL,1840029039,Golden Glades,Golden Glades,FL,Golden Glades-FL,Florida,12086,Miami-Dade,25.9129,-80.2013,,,2603.5,polygon,FALSE,America/New_York,33162 33161 33168 33169
+Macclenny-FL,1840015921,Macclenny,Macclenny,FL,Macclenny-FL,Florida,12003,Baker,30.2818,-82.1246,11307,6562,534,polygon,TRUE,America/New_York,32063
+Bay Harbor Islands-FL,1840016005,Bay Harbor Islands,Bay Harbor Islands,FL,Bay Harbor Islands-FL,Florida,12086,Miami-Dade,25.8878,-80.1335,5975,5975,5829,polygon,TRUE,America/New_York,33154
+Dover-FL,1840013123,Dover,Dover,FL,Dover-FL,Florida,12057,Hillsborough,27.9927,-82.2198,,,544.1,polygon,FALSE,America/New_York,33527
+Montverde-FL,1840017230,Montverde,Montverde,FL,Montverde-FL,Florida,12069,Lake,28.5971,-81.6787,1644,1644,378,polygon,TRUE,America/New_York,34756
+Weeki Wachee Gardens-FL,1840029093,Weeki Wachee Gardens,Weeki Wachee Gardens,FL,Weeki Wachee Gardens-FL,Florida,12053,Hernando,28.5375,-82.6208,,,326,polygon,FALSE,America/New_York,34607
+Limestone-FL,1840025169,Limestone,Limestone,FL,Limestone-FL,Florida,12049,Hardee,27.3673,-81.9048,,,33,polygon,FALSE,America/New_York,33865
+Wellborn-FL,1840028794,Wellborn,Wellborn,FL,Wellborn-FL,Florida,12121,Suwannee,30.2311,-82.8196,,,222.7,point,FALSE,America/New_York,32094
+Gulf Gate Estates-FL,1840029040,Gulf Gate Estates,Gulf Gate Estates,FL,Gulf Gate Estates-FL,Florida,12115,Sarasota,27.2588,-82.5066,,,1705,polygon,FALSE,America/New_York,34231
+Palatka-FL,1840015062,Palatka,Palatka,FL,Palatka-FL,Florida,12107,Putnam,29.6488,-81.6618,23740,10452,472,polygon,TRUE,America/New_York,32177 32178
+Seffner-FL,1840014153,Seffner,Seffner,FL,Seffner-FL,Florida,12057,Hillsborough,27.9981,-82.2734,,,1438.2,polygon,FALSE,America/New_York,33584 33583
+Progress Village-FL,1840028917,Progress Village,Progress Village,FL,Progress Village-FL,Florida,12057,Hillsborough,27.8832,-82.3593,,,1677.5,polygon,FALSE,America/New_York,33619 33578
+Redington Shores-FL,1840018295,Redington Shores,Redington Shores,FL,Redington Shores-FL,Florida,12103,Pinellas,27.8294,-82.8274,2234,2234,2647,polygon,TRUE,America/New_York,33708
+Lakeland Highlands-FL,1840029047,Lakeland Highlands,Lakeland Highlands,FL,Lakeland Highlands-FL,Florida,12105,Polk,27.9572,-81.9496,,,885.7,polygon,FALSE,America/New_York,33813
+Kinard-FL,1840028883,Kinard,Kinard,FL,Kinard-FL,Florida,12013,Calhoun,30.2808,-85.2638,,,8.9,point,FALSE,America/Chicago,32449
+Palm Beach Shores-FL,1840017268,Palm Beach Shores,Palm Beach Shores,FL,Palm Beach Shores-FL,Florida,12099,Palm Beach,26.7773,-80.0365,1237,1237,1756,polygon,TRUE,America/New_York,33404
+Graceville-FL,1840013906,Graceville,Graceville,FL,Graceville-FL,Florida,12063,Jackson,30.9609,-85.5125,3920,2212,198,polygon,TRUE,America/Chicago,32440
+West Little River-FL,1840029096,West Little River,West Little River,FL,West Little River-FL,Florida,12086,Miami-Dade,25.857,-80.2366,,,2875.4,polygon,FALSE,America/New_York,33147 33150
+Oakland-FL,1840015097,Oakland,Oakland,FL,Oakland-FL,Florida,12095,Orange,28.5538,-81.6335,2887,2887,530,polygon,TRUE,America/New_York,34760 34787 34740
+Gateway-FL,1840014213,Gateway,Gateway,FL,Gateway-FL,Florida,12071,Lee,26.5809,-81.746,,,1060.6,polygon,FALSE,America/New_York,33913
+The Crossings-FL,1840029008,The Crossings,The Crossings,FL,The Crossings-FL,Florida,12086,Miami-Dade,25.6708,-80.4018,,,2225.3,polygon,FALSE,America/New_York,33186

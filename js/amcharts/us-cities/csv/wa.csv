@@ -1,0 +1,843 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Prairie Ridge-WA,1840037882,Prairie Ridge,Prairie Ridge,WA,Prairie Ridge-WA,Washington,53053,Pierce,47.1443,-122.1408,,,1349.8,polygon,FALSE,America/Los_Angeles,98360 98391
+Edison-WA,1840017314,Edison,Edison,WA,Edison-WA,Washington,53057,Skagit,48.5602,-122.4311,,,127.4,polygon,FALSE,America/Los_Angeles,98232
+Packwood-WA,1840025265,Packwood,Packwood,WA,Packwood-WA,Washington,53041,Lewis,46.6085,-121.6702,,,213.9,polygon,FALSE,America/Los_Angeles,98361
+Wautauga Beach-WA,1840037725,Wautauga Beach,Wautauga Beach,WA,Wautauga Beach-WA,Washington,53035,Kitsap,47.5862,-122.5482,,,261.7,point,FALSE,America/Los_Angeles,98366
+Harper-WA,1840037659,Harper,Harper,WA,Harper-WA,Washington,53035,Kitsap,47.5207,-122.5196,,,342.1,point,FALSE,America/Los_Angeles,98366
+Telma-WA,1840037825,Telma,Telma,WA,Telma-WA,Washington,53007,Chelan,47.8432,-120.8157,,,1.4,point,FALSE,America/Los_Angeles,98826
+Kahlotus-WA,1840018478,Kahlotus,Kahlotus,WA,Kahlotus-WA,Washington,53021,Franklin,46.6436,-118.5566,189,189,156,polygon,TRUE,America/Los_Angeles,99335
+Mondovi-WA,1840037576,Mondovi,Mondovi,WA,Mondovi-WA,Washington,53043,Lincoln,47.6813,-118.0164,,,9.4,point,FALSE,America/Los_Angeles,99122
+Washtucna-WA,1840022312,Washtucna,Washtucna,WA,Washtucna-WA,Washington,53001,Adams,46.7539,-118.3104,195,195,108,polygon,TRUE,America/Los_Angeles,99371
+Pleasant Hill-WA,1840037805,Pleasant Hill,Pleasant Hill,WA,Pleasant Hill-WA,Washington,53033,King,47.6154,-121.9096,,,25.8,point,FALSE,America/Los_Angeles,98014
+Toledo-WA,1840021162,Toledo,Toledo,WA,Toledo-WA,Washington,53041,Lewis,46.4412,-122.8494,738,738,708,polygon,TRUE,America/Los_Angeles,98591
+Wabash-WA,1840037831,Wabash,Wabash,WA,Wabash-WA,Washington,53033,King,47.2429,-122.0576,,,56.2,point,FALSE,America/Los_Angeles,98022
+Renton-WA,1840019827,Renton,Renton,WA,Renton-WA,Washington,53033,King,47.4757,-122.1904,100953,100953,1663,polygon,TRUE,America/Los_Angeles,98059 98058 98057 98056 98055
+Chehalis-WA,1840018472,Chehalis,Chehalis,WA,Chehalis-WA,Washington,53041,Lewis,46.6649,-122.966,7498,7498,523,polygon,TRUE,America/Los_Angeles,98532
+Central Valley-WA,1840037628,Central Valley,Central Valley,WA,Central Valley-WA,Washington,53035,Kitsap,47.6632,-122.6499,,,157.5,point,FALSE,America/Los_Angeles,98370
+Lake City-WA,1840037674,Lake City,Lake City,WA,Lake City-WA,Washington,53053,Pierce,47.1487,-122.5512,,,1944.4,point,FALSE,America/Los_Angeles,98498
+Megler-WA,1840037572,Megler,Megler,WA,Megler-WA,Washington,53049,Pacific,46.2509,-123.8576,,,9.9,point,FALSE,America/Los_Angeles,98638
+Alder-WA,1840023829,Alder,Alder,WA,Alder-WA,Washington,53053,Pierce,46.7872,-122.2666,,,14.4,polygon,FALSE,America/Los_Angeles,98328
+Ronald-WA,1840018438,Ronald,Ronald,WA,Ronald-WA,Washington,53037,Kittitas,47.2338,-121.0335,,,187.8,polygon,FALSE,America/Los_Angeles,98940
+Belvedere-WA,1840037529,Belvedere,Belvedere,WA,Belvedere-WA,Washington,53047,Okanogan,48.0499,-118.985,,,4.6,point,FALSE,America/Los_Angeles,99116
+Waverly-WA,1840022291,Waverly,Waverly,WA,Waverly-WA,Washington,53063,Spokane,47.338,-117.2313,110,110,102,polygon,TRUE,America/Los_Angeles,99012 99039
+Turner Corner-WA,1840037720,Turner Corner,Turner Corner,WA,Turner Corner-WA,Washington,53061,Snohomish,47.8045,-122.1435,,,161,point,FALSE,America/Los_Angeles,98072
+Lofall-WA,1840023798,Lofall,Lofall,WA,Lofall-WA,Washington,53035,Kitsap,47.8113,-122.6564,,,260.6,polygon,FALSE,America/Los_Angeles,98370
+Kennydale-WA,1840037672,Kennydale,Kennydale,WA,Kennydale-WA,Washington,53033,King,47.5207,-122.2068,,,2263.7,point,FALSE,America/Los_Angeles,98056
+Easton-WA,1840017354,Easton,Easton,WA,Easton-WA,Washington,53037,Kittitas,47.2405,-121.1733,,,122.5,polygon,FALSE,America/Los_Angeles,98925
+Navy Yard City-WA,1840018407,Navy Yard City,Navy Yard City,WA,Navy Yard City-WA,Washington,53035,Kitsap,47.5508,-122.6654,,,1659.8,polygon,FALSE,America/Los_Angeles,98312
+Mercer Island-WA,1840019830,Mercer Island,Mercer Island,WA,Mercer Island-WA,Washington,53033,King,47.5624,-122.2265,25134,25134,1535,polygon,TRUE,America/Los_Angeles,98040
+Lynnwood-WA,1840019788,Lynnwood,Lynnwood,WA,Lynnwood-WA,Washington,53061,Snohomish,47.8285,-122.3034,38092,38092,1873,polygon,TRUE,America/Los_Angeles,98037 98036 98046
+Coulee City-WA,1840022293,Coulee City,Coulee City,WA,Coulee City-WA,Washington,53025,Grant,47.6123,-119.289,569,569,243,polygon,TRUE,America/Los_Angeles,99115
+Douglas-WA,1840037763,Douglas,Douglas,WA,Douglas-WA,Washington,53017,Douglas,47.6212,-120.0048,,,16.4,point,FALSE,America/Los_Angeles,98858
+Centralia-WA,1840018471,Centralia,Centralia,WA,Centralia-WA,Washington,53041,Lewis,46.7226,-122.9695,41077,16982,875,polygon,TRUE,America/Los_Angeles,98531
+Colbert-WA,1840037633,Colbert,Colbert,WA,Colbert-WA,Washington,53063,Spokane,47.8266,-117.3419,,,115.6,point,FALSE,America/Los_Angeles,99005
+Bryn Mawr-WA,1840037837,Bryn Mawr,Bryn Mawr,WA,Bryn Mawr-WA,Washington,53033,King,47.5034,-122.2329,,,2502.5,point,FALSE,America/Los_Angeles,98178
+Silverdale-WA,1840018406,Silverdale,Silverdale,WA,Silverdale-WA,Washington,53035,Kitsap,47.6663,-122.6828,,,595.7,polygon,FALSE,America/Los_Angeles,98311 98370 98383
+Lyle-WA,1840017402,Lyle,Lyle,WA,Lyle-WA,Washington,53039,Klickitat,45.6956,-121.2805,,,579.9,polygon,FALSE,America/Los_Angeles,98635
+Malott-WA,1840025236,Malott,Malott,WA,Malott-WA,Washington,53047,Okanogan,48.2919,-119.6954,,,155.5,polygon,FALSE,America/Los_Angeles,98840 98829
+Mountlake Terrace-WA,1840019792,Mountlake Terrace,Mountlake Terrace,WA,Mountlake Terrace-WA,Washington,53061,Snohomish,47.7921,-122.3077,21182,21182,2015,polygon,TRUE,America/Los_Angeles,98043
+Ilwaco-WA,1840018470,Ilwaco,Ilwaco,WA,Ilwaco-WA,Washington,53049,Pacific,46.3099,-124.0417,929,929,170,polygon,TRUE,America/Los_Angeles,98624
+Fairwood-WA,1840037517,Fairwood,Fairwood,WA,Fairwood-WA,Washington,53033,King,47.4467,-122.143,,,1858.6,polygon,FALSE,America/Los_Angeles,98058
+Warm Beach-WA,1840018377,Warm Beach,Warm Beach,WA,Warm Beach-WA,Washington,53061,Snohomish,48.1649,-122.3442,,,693,polygon,FALSE,America/Los_Angeles,98292
+Thomas-WA,1840037715,Thomas,Thomas,WA,Thomas-WA,Washington,53033,King,47.3537,-122.229,,,158.9,point,FALSE,America/Los_Angeles,98002
+Parker-WA,1840023856,Parker,Parker,WA,Parker-WA,Washington,53077,Yakima,46.5022,-120.4668,,,14.8,polygon,FALSE,America/Los_Angeles,98939 98951
+Steptoe-WA,1840025258,Steptoe,Steptoe,WA,Steptoe-WA,Washington,53075,Whitman,47.0075,-117.3502,,,90.9,polygon,FALSE,America/Los_Angeles,99111 99174
+Vail-WA,1840037829,Vail,Vail,WA,Vail-WA,Washington,53067,Thurston,46.8451,-122.6562,,,106.3,point,FALSE,America/Los_Angeles,98576
+Magnolia Beach-WA,1840037501,Magnolia Beach,Magnolia Beach,WA,Magnolia Beach-WA,Washington,53033,King,47.382,-122.4832,,,182.7,point,FALSE,America/Los_Angeles,98070
+Lakeview-WA,1840037676,Lakeview,Lakeview,WA,Lakeview-WA,Washington,53053,Pierce,47.1593,-122.4982,,,2782.1,point,FALSE,America/Los_Angeles,98499
+Shaw Island-WA,1840037589,Shaw Island,Shaw Island,WA,Shaw Island-WA,Washington,53055,San Juan,48.5843,-122.9291,,,17,point,FALSE,America/Los_Angeles,98286
+Oakesdale-WA,1840022314,Oakesdale,Oakesdale,WA,Oakesdale-WA,Washington,53075,Whitman,47.1304,-117.2465,435,435,161,polygon,TRUE,America/Los_Angeles,99158
+Rosburg-WA,1840023878,Rosburg,Rosburg,WA,Rosburg-WA,Washington,53069,Wahkiakum,46.3076,-123.6344,,,11.1,polygon,FALSE,America/Los_Angeles,98643
+Seattle-WA,1840021117,Seattle,Seattle,WA,Seattle-WA,Washington,53033,King,47.6217,-122.3238,3541236,704352,3243,polygon,TRUE,America/Los_Angeles,98109 98108 98104 98107 98106 98101 98103 98102 98105 98154 98122 98121 98126 98125 98178 98174 98177 98144 98146 98195 98199 98118 98119 98116 98117 98115 98112 98164 98134 98136 98133 98111 98113 98114 98124 98127 98129 98139 98141 98145 98161 98165 98170 98175 98181 98185 98191 98194
+Onalaska-WA,1840025264,Onalaska,Onalaska,WA,Onalaska-WA,Washington,53041,Lewis,46.5782,-122.7112,,,462,polygon,FALSE,America/Los_Angeles,98570
+George-WA,1840019814,George,George,WA,George-WA,Washington,53025,Grant,47.0847,-119.8601,495,495,143,polygon,TRUE,America/Los_Angeles,98848 98824
+Index-WA,1840021082,Index,Index,WA,Index-WA,Washington,53061,Snohomish,47.8214,-121.556,199,199,340,polygon,TRUE,America/Los_Angeles,98256
+Winchester-WA,1840037602,Winchester,Winchester,WA,Winchester-WA,Washington,53025,Grant,47.249,-119.7198,,,16.7,point,FALSE,America/Los_Angeles,98848
+Chelatchie-WA,1840037753,Chelatchie,Chelatchie,WA,Chelatchie-WA,Washington,53011,Clark,45.9279,-122.3795,,,20.2,point,FALSE,America/Los_Angeles,98601
+Allentown-WA,1840037613,Allentown,Allentown,WA,Allentown-WA,Washington,53033,King,47.4943,-122.2762,,,1653.6,point,FALSE,America/Los_Angeles,98178
+Novelty-WA,1840037580,Novelty,Novelty,WA,Novelty-WA,Washington,53033,King,47.709,-121.9846,,,12,point,FALSE,America/Los_Angeles,98019
+Rosalia-WA,1840021138,Rosalia,Rosalia,WA,Rosalia-WA,Washington,53075,Whitman,47.2365,-117.3762,565,565,354,polygon,TRUE,America/Los_Angeles,99170
+Richmond Beach-WA,1840037706,Richmond Beach,Richmond Beach,WA,Richmond Beach-WA,Washington,53033,King,47.7695,-122.3901,,,2048.9,point,FALSE,America/Los_Angeles,98177
+Lakota-WA,1840037562,Lakota,Lakota,WA,Lakota-WA,Washington,53033,King,47.3329,-122.3723,,,526.2,point,FALSE,America/Los_Angeles,98023
+Liberty Lake-WA,1840037678,Liberty Lake,Liberty Lake,WA,Liberty Lake-WA,Washington,53063,Spokane,47.6687,-117.1031,9209,9209,579,polygon,TRUE,America/Los_Angeles,99019 99016
+Airway Heights-WA,1840018399,Airway Heights,Airway Heights,WA,Airway Heights-WA,Washington,53063,Spokane,47.6464,-117.5802,6672,6672,500,polygon,TRUE,America/Los_Angeles,99224 99001
+Reardan-WA,1840021110,Reardan,Reardan,WA,Reardan-WA,Washington,53043,Lincoln,47.67,-117.8778,567,567,447,polygon,TRUE,America/Los_Angeles,99029
+Silvana-WA,1840018373,Silvana,Silvana,WA,Silvana-WA,Washington,53061,Snohomish,48.2018,-122.2461,,,25.9,polygon,FALSE,America/Los_Angeles,98292
+Brier-WA,1840018379,Brier,Brier,WA,Brier-WA,Washington,53061,Snohomish,47.7924,-122.2736,6743,6743,1196,polygon,TRUE,America/Los_Angeles,98036
+Robe-WA,1840037811,Robe,Robe,WA,Robe-WA,Washington,53061,Snohomish,48.0973,-121.8135,,,38.7,point,FALSE,America/Los_Angeles,98252
+Elk Plain-WA,1840037546,Elk Plain,Elk Plain,WA,Elk Plain-WA,Washington,53053,Pierce,47.0448,-122.3671,,,105.5,polygon,FALSE,America/Los_Angeles,98387 98338
+Port Townsend-WA,1840019797,Port Townsend,Port Townsend,WA,Port Townsend-WA,Washington,53031,Jefferson,48.1219,-122.7873,8782,9527,527,polygon,TRUE,America/Los_Angeles,98368
+Ocean City-WA,1840018444,Ocean City,Ocean City,WA,Ocean City-WA,Washington,53027,Grays Harbor,47.0762,-124.1619,,,44.7,polygon,FALSE,America/Los_Angeles,98569
+Boulevard Park-WA,1840037519,Boulevard Park,Boulevard Park,WA,Boulevard Park-WA,Washington,53033,King,47.5135,-122.3158,,,1426.1,polygon,FALSE,America/Los_Angeles,98108 98168
+Newhalem-WA,1840037799,Newhalem,Newhalem,WA,Newhalem-WA,Washington,53073,Whatcom,48.6737,-121.2473,,,20.9,point,FALSE,America/Los_Angeles,98283
+Ford-WA,1840037496,Ford,Ford,WA,Ford-WA,Washington,53065,Stevens,47.9082,-117.8058,,,2.6,point,FALSE,America/Los_Angeles,99013
+Waterville-WA,1840022287,Waterville,Waterville,WA,Waterville-WA,Washington,53017,Douglas,47.648,-120.0707,1181,1181,521,polygon,TRUE,America/Los_Angeles,98858
+Quinault-WA,1840037808,Quinault,Quinault,WA,Quinault-WA,Washington,53027,Grays Harbor,47.467,-123.8455,,,33,point,FALSE,America/Los_Angeles,98575
+Humptulips-WA,1840017361,Humptulips,Humptulips,WA,Humptulips-WA,Washington,53027,Grays Harbor,47.2491,-123.9348,,,49.8,polygon,FALSE,America/Los_Angeles,98552
+Hamilton-WA,1840021067,Hamilton,Hamilton,WA,Hamilton-WA,Washington,53057,Skagit,48.5281,-121.9837,299,299,103,polygon,TRUE,America/Los_Angeles,98255 98284
+Oak Harbor-WA,1840019779,Oak Harbor,Oak Harbor,WA,Oak Harbor-WA,Washington,53029,Island,48.2965,-122.6331,34689,23204,928,polygon,TRUE,America/Los_Angeles,98277
+Naches-WA,1840022318,Naches,Naches,WA,Naches-WA,Washington,53077,Yakima,46.727,-120.6941,823,823,462,polygon,TRUE,America/Los_Angeles,98937
+Anacortes-WA,1840018366,Anacortes,Anacortes,WA,Anacortes-WA,Washington,53057,Skagit,48.4878,-122.6291,17667,16681,548,polygon,TRUE,America/Los_Angeles,98221
+Kettle Falls-WA,1840019764,Kettle Falls,Kettle Falls,WA,Kettle Falls-WA,Washington,53065,Stevens,48.6055,-118.0612,1604,1604,551,polygon,TRUE,America/Los_Angeles,99141
+Walnut Grove-WA,1840018522,Walnut Grove,Walnut Grove,WA,Walnut Grove-WA,Washington,53011,Clark,45.6769,-122.6072,,,1575,polygon,FALSE,America/Los_Angeles,98665 98661 98662
+Salkum-WA,1840037813,Salkum,Salkum,WA,Salkum-WA,Washington,53041,Lewis,46.5321,-122.6259,,,72.1,point,FALSE,America/Los_Angeles,98582
+Cunningham-WA,1840037636,Cunningham,Cunningham,WA,Cunningham-WA,Washington,53001,Adams,46.8221,-118.8064,,,8.3,point,FALSE,America/Los_Angeles,99344
+Irby-WA,1840037557,Irby,Irby,WA,Irby-WA,Washington,53043,Lincoln,47.3593,-118.8511,,,2,point,FALSE,America/Los_Angeles,99159
+Electric City-WA,1840021104,Electric City,Electric City,WA,Electric City-WA,Washington,53025,Grant,47.9222,-119.0476,1001,1001,195,polygon,TRUE,America/Los_Angeles,99123 99133
+Burbank-WA,1840017383,Burbank,Burbank,WA,Burbank-WA,Washington,53071,Walla Walla,46.1991,-118.9728,,,640.5,polygon,FALSE,America/Los_Angeles,99323
+Silver Lake-WA,1840037509,Silver Lake,Silver Lake,WA,Silver Lake-WA,Washington,53015,Cowlitz,46.2973,-122.8107,,,45.1,point,FALSE,America/Los_Angeles,98645
+Dash Point-WA,1840037637,Dash Point,Dash Point,WA,Dash Point-WA,Washington,53053,Pierce,47.313,-122.4153,,,1057.7,polygon,FALSE,America/Los_Angeles,98422
+Woods Creek-WA,1840037864,Woods Creek,Woods Creek,WA,Woods Creek-WA,Washington,53061,Snohomish,47.8821,-121.8982,,,173.1,polygon,FALSE,America/Los_Angeles,98272
+McKenna-WA,1840023836,McKenna,McKenna,WA,McKenna-WA,Washington,53053,Pierce,46.9366,-122.5501,,,337.2,polygon,FALSE,America/Los_Angeles,98580 98558
+Island View-WA,1840037667,Island View,Island View,WA,Island View-WA,Washington,53005,Benton,46.2393,-119.2233,,,584,point,FALSE,America/Los_Angeles,99352
+Kalama-WA,1840018502,Kalama,Kalama,WA,Kalama-WA,Washington,53015,Cowlitz,46.0115,-122.8369,3508,2484,346,polygon,TRUE,America/Los_Angeles,98625
+Grandview-WA,1840019871,Grandview,Grandview,WA,Grandview-WA,Washington,53077,Yakima,46.2432,-119.9082,18909,11159,686,polygon,TRUE,America/Los_Angeles,98935 98930
+Winthrop-WA,1840022272,Winthrop,Winthrop,WA,Winthrop-WA,Washington,53047,Okanogan,48.4719,-120.179,430,430,176,polygon,TRUE,America/Los_Angeles,98862
+Maltby-WA,1840017326,Maltby,Maltby,WA,Maltby-WA,Washington,53061,Snohomish,47.8026,-122.1044,,,80.4,polygon,FALSE,America/Los_Angeles,98021 98296 98072 98077
+Spangle-WA,1840022290,Spangle,Spangle,WA,Spangle-WA,Washington,53063,Spokane,47.4297,-117.3813,297,297,322,polygon,TRUE,America/Los_Angeles,99031
+Blanchard-WA,1840037747,Blanchard,Blanchard,WA,Blanchard-WA,Washington,53057,Skagit,48.5934,-122.4166,,,39.7,point,FALSE,America/Los_Angeles,98232
+Artondale-WA,1840037617,Artondale,Artondale,WA,Artondale-WA,Washington,53053,Pierce,47.3023,-122.6398,,,350.1,polygon,FALSE,America/Los_Angeles,98335
+May Creek-WA,1840037857,May Creek,May Creek,WA,May Creek-WA,Washington,53061,Snohomish,47.8555,-121.6742,,,301.6,polygon,FALSE,America/Los_Angeles,98251
+Home-WA,1840023831,Home,Home,WA,Home-WA,Washington,53053,Pierce,47.279,-122.7744,,,198.6,polygon,FALSE,America/Los_Angeles,98349
+Vashon-WA,1840018414,Vashon,Vashon,WA,Vashon-WA,Washington,53033,King,47.4122,-122.4726,,,386.3,polygon,FALSE,America/Los_Angeles,98070 98013
+Snoqualmie Falls-WA,1840037818,Snoqualmie Falls,Snoqualmie Falls,WA,Snoqualmie Falls-WA,Washington,53033,King,47.5398,-121.8098,,,1.6,point,FALSE,America/Los_Angeles,98065
+Laurier-WA,1840026092,Laurier,Laurier,WA,Laurier-WA,Washington,53019,Ferry,48.9974,-118.2247,,,5.1,polygon,FALSE,America/Los_Angeles,99146
+Quincy-WA,1840019818,Quincy,Quincy,WA,Quincy-WA,Washington,53025,Grant,47.2342,-119.8512,7644,7387,572,polygon,TRUE,America/Los_Angeles,98848
+Lake McMurray-WA,1840037893,Lake McMurray,Lake McMurray,WA,Lake McMurray-WA,Washington,53057,Skagit,48.3129,-122.2317,,,122.2,polygon,FALSE,America/Los_Angeles,98274
+Martha Lake-WA,1840037875,Martha Lake,Martha Lake,WA,Martha Lake-WA,Washington,53061,Snohomish,47.8479,-122.2327,,,2050.6,polygon,FALSE,America/Los_Angeles,98087 98012 98208
+Ariel-WA,1840037526,Ariel,Ariel,WA,Ariel-WA,Washington,53015,Cowlitz,45.9568,-122.5709,,,54.8,point,FALSE,America/Los_Angeles,98603
+Loon Lake-WA,1840023998,Loon Lake,Loon Lake,WA,Loon Lake-WA,Washington,53065,Stevens,48.0686,-117.6299,,,133.7,polygon,FALSE,America/Los_Angeles,99148
+Thornton-WA,1840037512,Thornton,Thornton,WA,Thornton-WA,Washington,53075,Whitman,47.1207,-117.3896,,,10.7,point,FALSE,America/Los_Angeles,99176
+Starbuck-WA,1840022325,Starbuck,Starbuck,WA,Starbuck-WA,Washington,53013,Columbia,46.5184,-118.1251,126,126,234,polygon,TRUE,America/Los_Angeles,99359
+Mirrormont-WA,1840037876,Mirrormont,Mirrormont,WA,Mirrormont-WA,Washington,53033,King,47.4616,-121.9936,,,582.8,polygon,FALSE,America/Los_Angeles,98027
+Kelso-WA,1840018503,Kelso,Kelso,WA,Kelso-WA,Washington,53015,Cowlitz,46.1249,-122.8907,12047,12047,571,polygon,TRUE,America/Los_Angeles,98626 98632
+Meadowdale-WA,1840023774,Meadowdale,Meadowdale,WA,Meadowdale-WA,Washington,53061,Snohomish,47.8584,-122.3161,,,450.5,polygon,FALSE,America/Los_Angeles,98026
+Cottage Lake-WA,1840037848,Cottage Lake,Cottage Lake,WA,Cottage Lake-WA,Washington,53033,King,47.7465,-122.0755,,,880.7,polygon,FALSE,America/Los_Angeles,98072 98077
+Cheney-WA,1840018398,Cheney,Cheney,WA,Cheney-WA,Washington,53063,Spokane,47.49,-117.5789,12213,12237,1086,polygon,TRUE,America/Los_Angeles,99004
+Woodway-WA,1840037730,Woodway,Woodway,WA,Woodway-WA,Washington,53061,Snohomish,47.7906,-122.3849,1377,1377,480,polygon,TRUE,America/Los_Angeles,98020
+Lacey-WA,1840019866,Lacey,Lacey,WA,Lacey-WA,Washington,53067,Thurston,47.0444,-122.7933,47688,47688,1139,polygon,TRUE,America/Los_Angeles,98503 98516 98509
+Harrah-WA,1840021156,Harrah,Harrah,WA,Harrah-WA,Washington,53077,Yakima,46.407,-120.5422,624,624,1119,polygon,TRUE,America/Los_Angeles,98933
+Allyn-WA,1840025251,Allyn,Allyn,WA,Allyn-WA,Washington,53045,Mason,47.3863,-122.8386,,,301.1,polygon,FALSE,America/Los_Angeles,98524
+South Bend-WA,1840021161,South Bend,South Bend,WA,South Bend-WA,Washington,53049,Pacific,46.6683,-123.8016,1636,1636,388,polygon,TRUE,America/Los_Angeles,98586 98577
+Barstow-WA,1840026089,Barstow,Barstow,WA,Barstow-WA,Washington,53019,Ferry,48.7783,-118.1329,,,10.7,polygon,FALSE,America/Los_Angeles,99141
+Tiger-WA,1840037834,Tiger,Tiger,WA,Tiger-WA,Washington,53051,Pend Oreille,48.6916,-117.4077,,,26.3,point,FALSE,America/Los_Angeles,99119
+Warden-WA,1840021103,Warden,Warden,WA,Warden-WA,Washington,53025,Grant,46.9682,-119.0512,2706,2719,394,polygon,TRUE,America/Los_Angeles,98857
+Junction City-WA,1840017362,Junction City,Junction City,WA,Junction City-WA,Washington,53027,Grays Harbor,46.9712,-123.7651,,,1.8,polygon,FALSE,America/Los_Angeles,98520
+Blyn-WA,1840017318,Blyn,Blyn,WA,Blyn-WA,Washington,53009,Clallam,48.0131,-122.9897,,,42.8,polygon,FALSE,America/Los_Angeles,98382
+Lakebay-WA,1840037737,Lakebay,Lakebay,WA,Lakebay-WA,Washington,53053,Pierce,47.257,-122.7585,,,51.7,point,FALSE,America/Los_Angeles,98349
+Tahuya-WA,1840037823,Tahuya,Tahuya,WA,Tahuya-WA,Washington,53045,Mason,47.3712,-123.0557,,,155,point,FALSE,America/Los_Angeles,98588
+Selah-WA,1840021149,Selah,Selah,WA,Selah-WA,Washington,53077,Yakima,46.648,-120.5388,7768,7768,657,polygon,TRUE,America/Los_Angeles,98942
+Kitsap Lake-WA,1840037673,Kitsap Lake,Kitsap Lake,WA,Kitsap Lake-WA,Washington,53035,Kitsap,47.5829,-122.7085,,,571.9,point,FALSE,America/Los_Angeles,98312
+Sultan-WA,1840021080,Sultan,Sultan,WA,Sultan-WA,Washington,53061,Snohomish,47.8703,-121.8036,8681,5059,620,polygon,TRUE,America/Los_Angeles,98294
+Plain-WA,1840037804,Plain,Plain,WA,Plain-WA,Washington,53007,Chelan,47.7626,-120.6573,,,10.2,point,FALSE,America/Los_Angeles,98826
+Tanner-WA,1840037824,Tanner,Tanner,WA,Tanner-WA,Washington,53033,King,47.4813,-121.6925,,,206.5,polygon,FALSE,America/Los_Angeles,98045
+Edmonds-WA,1840037645,Edmonds,Edmonds,WA,Edmonds-WA,Washington,53061,Snohomish,47.8114,-122.3534,41840,41840,1814,polygon,TRUE,America/Los_Angeles,98026 98020
+North Hill-WA,1840037877,North Hill,North Hill,WA,North Hill-WA,Washington,53033,King,47.4193,-122.3235,,,2208.6,point,FALSE,America/Los_Angeles,98198
+Zillah-WA,1840021155,Zillah,Zillah,WA,Zillah-WA,Washington,53077,Yakima,46.4085,-120.273,3144,3144,657,polygon,TRUE,America/Los_Angeles,98953
+Monse-WA,1840037798,Monse,Monse,WA,Monse-WA,Washington,53047,Okanogan,48.1413,-119.6778,,,7.9,point,FALSE,America/Los_Angeles,98812
+Lake Forest Park-WA,1840019837,Lake Forest Park,Lake Forest Park,WA,Lake Forest Park-WA,Washington,53033,King,47.7592,-122.2877,13266,13266,1449,polygon,TRUE,America/Los_Angeles,98155
+Marlin-WA,1840037844,Marlin,Marlin,WA,Marlin-WA,Washington,53025,Grant,47.4074,-118.985,,,23.8,point,TRUE,America/Los_Angeles,98832
+Chinook-WA,1840017374,Chinook,Chinook,WA,Chinook-WA,Washington,53049,Pacific,46.2755,-123.9425,,,323.8,polygon,FALSE,America/Los_Angeles,98624 98614
+Albion-WA,1840021136,Albion,Albion,WA,Albion-WA,Washington,53075,Whitman,46.792,-117.2506,591,591,642,polygon,TRUE,America/Los_Angeles,99163 99102
+Skykomish-WA,1840022299,Skykomish,Skykomish,WA,Skykomish-WA,Washington,53033,King,47.7103,-121.3585,206,206,246,polygon,TRUE,America/Los_Angeles,98288
+Yakima-WA,1840021154,Yakima,Yakima,WA,Yakima-WA,Washington,53077,Yakima,46.5926,-120.5492,133687,93986,1313,polygon,TRUE,America/Los_Angeles,98901 98903 98902 98908 98904 98907
+Pacific-WA,1840019834,Pacific,Pacific,WA,Pacific-WA,Washington,53033,King,47.261,-122.2507,7122,7122,1141,polygon,TRUE,America/Los_Angeles,98001 98047
+Wishram-WA,1840018528,Wishram,Wishram,WA,Wishram-WA,Washington,53039,Klickitat,45.6599,-120.9698,,,106.8,polygon,FALSE,America/Los_Angeles,98673
+Cascade Valley-WA,1840037865,Cascade Valley,Cascade Valley,WA,Cascade Valley-WA,Washington,53025,Grant,47.1406,-119.3289,,,576.1,polygon,FALSE,America/Los_Angeles,98837
+Cathcart-WA,1840017324,Cathcart,Cathcart,WA,Cathcart-WA,Washington,53061,Snohomish,47.8525,-122.1058,,,214,polygon,FALSE,America/Los_Angeles,98296
+Brush Prairie-WA,1840017398,Brush Prairie,Brush Prairie,WA,Brush Prairie-WA,Washington,53011,Clark,45.7251,-122.5483,,,119.5,polygon,FALSE,America/Los_Angeles,98606 98662
+Amboy-WA,1840017396,Amboy,Amboy,WA,Amboy-WA,Washington,53011,Clark,45.9122,-122.4795,,,120.2,polygon,FALSE,America/Los_Angeles,98601 98675
+Centerville-WA,1840017401,Centerville,Centerville,WA,Centerville-WA,Washington,53039,Klickitat,45.754,-120.908,,,37.3,polygon,FALSE,America/Los_Angeles,98613
+Verlot-WA,1840018376,Verlot,Verlot,WA,Verlot-WA,Washington,53061,Snohomish,48.1003,-121.7679,,,27.5,polygon,FALSE,America/Los_Angeles,98252
+Alstown-WA,1840037525,Alstown,Alstown,WA,Alstown-WA,Washington,53017,Douglas,47.561,-119.9951,,,1,point,FALSE,America/Los_Angeles,98858
+Synarep-WA,1840037822,Synarep,Synarep,WA,Synarep-WA,Washington,53047,Okanogan,48.521,-119.3309,,,4.2,point,FALSE,America/Los_Angeles,98849
+Annapolis-WA,1840037615,Annapolis,Annapolis,WA,Annapolis-WA,Washington,53035,Kitsap,47.5476,-122.6207,,,1582,point,FALSE,America/Los_Angeles,98366
+Port Gamble-WA,1840037702,Port Gamble,Port Gamble,WA,Port Gamble-WA,Washington,53035,Kitsap,47.8543,-122.5838,,,138.5,point,FALSE,America/Los_Angeles,98370
+Eatonville-WA,1840021131,Eatonville,Eatonville,WA,Eatonville-WA,Washington,53053,Pierce,46.8682,-122.2697,3005,2959,626,polygon,TRUE,America/Los_Angeles,98328
+Similk Beach-WA,1840037712,Similk Beach,Similk Beach,WA,Similk Beach-WA,Washington,53057,Skagit,48.4479,-122.5779,,,269.4,point,FALSE,America/Los_Angeles,98221
+Cougar-WA,1840037758,Cougar,Cougar,WA,Cougar-WA,Washington,53015,Cowlitz,46.0515,-122.2995,,,52.9,point,FALSE,America/Los_Angeles,98616
+Eglon-WA,1840037647,Eglon,Eglon,WA,Eglon-WA,Washington,53035,Kitsap,47.8626,-122.5146,,,72.7,point,FALSE,America/Los_Angeles,98346
+Paterson-WA,1840037581,Paterson,Paterson,WA,Paterson-WA,Washington,53005,Benton,45.9371,-119.6028,,,43.3,point,FALSE,America/Los_Angeles,99350
+Tenino-WA,1840021144,Tenino,Tenino,WA,Tenino-WA,Washington,53067,Thurston,46.8538,-122.8603,1819,1819,488,polygon,TRUE,America/Los_Angeles,98589
+Minnehaha-WA,1840018518,Minnehaha,Minnehaha,WA,Minnehaha-WA,Washington,53011,Clark,45.6576,-122.6204,,,1002.8,polygon,FALSE,America/Los_Angeles,98661
+Raymond-WA,1840019881,Raymond,Raymond,WA,Raymond-WA,Washington,53049,Pacific,46.6841,-123.7375,4066,2871,272,polygon,TRUE,America/Los_Angeles,98577
+Alger-WA,1840017312,Alger,Alger,WA,Alger-WA,Washington,53057,Skagit,48.6176,-122.3369,,,64.5,polygon,FALSE,America/Los_Angeles,98229 98233 98232 98284
+Roy-WA,1840019856,Roy,Roy,WA,Roy-WA,Washington,53053,Pierce,46.9971,-122.5424,822,822,653,polygon,TRUE,America/Los_Angeles,98580
+Snoqualmie-WA,1840021119,Snoqualmie,Snoqualmie,WA,Snoqualmie-WA,Washington,53033,King,47.5292,-121.8409,25455,13190,705,polygon,TRUE,America/Los_Angeles,98065
+Fragaria-WA,1840037550,Fragaria,Fragaria,WA,Fragaria-WA,Washington,53035,Kitsap,47.464,-122.5312,,,164.3,point,FALSE,America/Los_Angeles,98359
+Green Bluff-WA,1840023785,Green Bluff,Green Bluff,WA,Green Bluff-WA,Washington,53063,Spokane,47.819,-117.277,,,65.5,polygon,FALSE,America/Los_Angeles,99021 99005
+Woodmont Beach-WA,1840037729,Woodmont Beach,Woodmont Beach,WA,Woodmont Beach-WA,Washington,53033,King,47.3615,-122.3121,,,1596.9,point,FALSE,America/Los_Angeles,98198
+Frances-WA,1840037654,Frances,Frances,WA,Frances-WA,Washington,53049,Pacific,46.5423,-123.5049,,,13.2,point,FALSE,America/Los_Angeles,98577
+Lynden-WA,1840019752,Lynden,Lynden,WA,Lynden-WA,Washington,53073,Whatcom,48.9502,-122.4542,16966,13952,1024,polygon,TRUE,America/Los_Angeles,98264
+Clayton-WA,1840025239,Clayton,Clayton,WA,Clayton-WA,Washington,53065,Stevens,48.0012,-117.5611,,,125.4,polygon,FALSE,America/Los_Angeles,99110
+Everson-WA,1840019750,Everson,Everson,WA,Everson-WA,Washington,53073,Whatcom,48.9124,-122.3509,4596,2634,774,polygon,TRUE,America/Los_Angeles,98247
+White Swan-WA,1840018464,White Swan,White Swan,WA,White Swan-WA,Washington,53077,Yakima,46.3769,-120.7381,,,347.5,polygon,FALSE,America/Los_Angeles,98952
+Camano-WA,1840037492,Camano,Camano,WA,Camano-WA,Washington,53029,Island,48.1866,-122.4707,,,306.3,polygon,FALSE,America/Los_Angeles,98282
+Cedar Grove-WA,1840037534,Cedar Grove,Cedar Grove,WA,Cedar Grove-WA,Washington,53033,King,47.4357,-122.0621,,,107.3,point,FALSE,America/Los_Angeles,98038
+Winton-WA,1840037833,Winton,Winton,WA,Winton-WA,Washington,53007,Chelan,47.7354,-120.7412,,,16.8,point,FALSE,America/Los_Angeles,98826
+East Olympia-WA,1840037493,East Olympia,East Olympia,WA,East Olympia-WA,Washington,53067,Thurston,46.9676,-122.8357,,,241.2,point,FALSE,America/Los_Angeles,98501
+Sunset Beach-WA,1840037714,Sunset Beach,Sunset Beach,WA,Sunset Beach-WA,Washington,53053,Pierce,47.2182,-122.5726,,,698.7,point,FALSE,America/Los_Angeles,98466
+Belfair-WA,1840025252,Belfair,Belfair,WA,Belfair-WA,Washington,53045,Mason,47.4512,-122.8473,,,257.3,polygon,FALSE,America/Los_Angeles,98528
+Oso-WA,1840018374,Oso,Oso,WA,Oso-WA,Washington,53061,Snohomish,48.2837,-121.9238,,,72.7,polygon,FALSE,America/Los_Angeles,98223
+Federal Way-WA,1840019826,Federal Way,Federal Way,WA,Federal Way-WA,Washington,53033,King,47.3091,-122.3358,96757,96757,1677,polygon,TRUE,America/Los_Angeles,98023 98001 98003 98063 98093
+Scandia-WA,1840037840,Scandia,Scandia,WA,Scandia-WA,Washington,53035,Kitsap,47.7165,-122.6579,,,292.5,point,FALSE,America/Los_Angeles,98370
+Quilcene-WA,1840018389,Quilcene,Quilcene,WA,Quilcene-WA,Washington,53031,Jefferson,47.8369,-122.9058,,,119,polygon,FALSE,America/Los_Angeles,98376
+Covada-WA,1840037542,Covada,Covada,WA,Covada-WA,Washington,53019,Ferry,48.2204,-118.2089,,,1.9,point,FALSE,America/Los_Angeles,99138
+Hartline-WA,1840021105,Hartline,Hartline,WA,Hartline-WA,Washington,53025,Grant,47.6894,-119.1081,155,155,180,polygon,TRUE,America/Los_Angeles,99135
+Juanita-WA,1840037670,Juanita,Juanita,WA,Juanita-WA,Washington,53033,King,47.7032,-122.2071,,,3292.4,point,FALSE,America/Los_Angeles,98033
+Molson-WA,1840037796,Molson,Molson,WA,Molson-WA,Washington,53047,Okanogan,48.981,-119.2006,,,5,point,FALSE,America/Los_Angeles,98844
+Daisy-WA,1840037760,Daisy,Daisy,WA,Daisy-WA,Washington,53065,Stevens,48.3613,-118.16,,,21.8,point,FALSE,America/Los_Angeles,99167
+Sumas-WA,1840021045,Sumas,Sumas,WA,Sumas-WA,Washington,53073,Whatcom,48.9955,-122.2695,1409,1409,368,polygon,TRUE,America/Los_Angeles,98295
+Mill Creek-WA,1840019790,Mill Creek,Mill Creek,WA,Mill Creek-WA,Washington,53061,Snohomish,47.8631,-122.2037,20303,20303,1682,polygon,TRUE,America/Los_Angeles,98012 98082
+Lakewood-WA,1840019860,Lakewood,Lakewood,WA,Lakewood-WA,Washington,53053,Pierce,47.1627,-122.5299,60665,60665,1363,polygon,TRUE,America/Los_Angeles,98498 98499 98496 98497
+Venersborg-WA,1840018521,Venersborg,Venersborg,WA,Venersborg-WA,Washington,53011,Clark,45.786,-122.4721,,,77,polygon,FALSE,America/Los_Angeles,98604
+Port Angeles-WA,1840019782,Port Angeles,Port Angeles,WA,Port Angeles-WA,Washington,53009,Clallam,48.1141,-123.4565,23818,19833,715,polygon,TRUE,America/Los_Angeles,98362 98363
+Fairmont-WA,1840037612,Fairmont,Fairmont,WA,Fairmont-WA,Washington,53061,Snohomish,47.902,-122.2543,,,2665.2,point,FALSE,America/Los_Angeles,98204
+Wapato-WA,1840021153,Wapato,Wapato,WA,Wapato-WA,Washington,53077,Yakima,46.4435,-120.4213,7723,5073,1658,polygon,TRUE,America/Los_Angeles,98951
+East Port Orchard-WA,1840037838,East Port Orchard,East Port Orchard,WA,East Port Orchard-WA,Washington,53035,Kitsap,47.5192,-122.6183,,,961.3,polygon,FALSE,America/Los_Angeles,98366
+North Omak-WA,1840037879,North Omak,North Omak,WA,North Omak-WA,Washington,53047,Okanogan,48.444,-119.4459,,,5.3,polygon,FALSE,America/Los_Angeles,98841
+East Farms-WA,1840037644,East Farms,East Farms,WA,East Farms-WA,Washington,53063,Spokane,47.7074,-117.0524,,,753,point,FALSE,America/Los_Angeles,99025
+Eschbach-WA,1840017369,Eschbach,Eschbach,WA,Eschbach-WA,Washington,53077,Yakima,46.667,-120.6337,,,231.1,polygon,FALSE,America/Los_Angeles,98908
+Chattaroy-WA,1840037629,Chattaroy,Chattaroy,WA,Chattaroy-WA,Washington,53063,Spokane,47.8896,-117.3577,,,68.3,point,FALSE,America/Los_Angeles,99003
+Inchelium-WA,1840017307,Inchelium,Inchelium,WA,Inchelium-WA,Washington,53019,Ferry,48.3379,-118.2372,,,164.9,polygon,FALSE,America/Los_Angeles,99138
+Maxwelton-WA,1840037681,Maxwelton,Maxwelton,WA,Maxwelton-WA,Washington,53029,Island,47.9373,-122.4443,,,194.6,point,FALSE,America/Los_Angeles,98236
+White Center-WA,1840037727,White Center,White Center,WA,White Center-WA,Washington,53033,King,47.5086,-122.348,,,4133.9,polygon,FALSE,America/Los_Angeles,98106 98146 98168
+Medical Lake-WA,1840019804,Medical Lake,Medical Lake,WA,Medical Lake-WA,Washington,53063,Spokane,47.5713,-117.6896,4825,4964,563,polygon,TRUE,America/Los_Angeles,99022
+Lyman-WA,1840021069,Lyman,Lyman,WA,Lyman-WA,Washington,53057,Skagit,48.523,-122.0634,454,454,261,polygon,TRUE,America/Los_Angeles,98263 98284
+Arlington-WA,1840018378,Arlington,Arlington,WA,Arlington-WA,Washington,53061,Snohomish,48.1698,-122.144,19112,19112,758,polygon,TRUE,America/Los_Angeles,98223
+Ruston-WA,1840021132,Ruston,Ruston,WA,Ruston-WA,Washington,53053,Pierce,47.2982,-122.5104,816,816,1227,polygon,TRUE,America/Los_Angeles,98407
+McCleary-WA,1840019846,McCleary,McCleary,WA,McCleary-WA,Washington,53027,Grays Harbor,47.0584,-123.2725,1630,1630,307,polygon,TRUE,America/Los_Angeles,98557
+Sammamish-WA,1840021115,Sammamish,Sammamish,WA,Sammamish-WA,Washington,53033,King,47.6045,-122.0446,63773,63773,1337,polygon,TRUE,America/Los_Angeles,98075 98074
+Covington-WA,1840018425,Covington,Covington,WA,Covington-WA,Washington,53033,King,47.3665,-122.105,20478,20478,1359,polygon,TRUE,America/Los_Angeles,98042
+McMillin-WA,1840023837,McMillin,McMillin,WA,McMillin-WA,Washington,53053,Pierce,47.1286,-122.2374,,,245.2,polygon,FALSE,America/Los_Angeles,98360 98374
+La Grande-WA,1840023834,La Grande,La Grande,WA,La Grande-WA,Washington,53053,Pierce,46.8199,-122.2962,,,8.7,polygon,FALSE,America/Los_Angeles,98328
+Cromwell-WA,1840037543,Cromwell,Cromwell,WA,Cromwell-WA,Washington,53053,Pierce,47.2743,-122.6224,,,394.2,point,FALSE,America/Los_Angeles,98335
+Berrydale-WA,1840037515,Berrydale,Berrydale,WA,Berrydale-WA,Washington,53033,King,47.3398,-122.1279,,,358.7,point,FALSE,America/Los_Angeles,98042
+Wenatchee-WA,1840021074,Wenatchee,Wenatchee,WA,Wenatchee-WA,Washington,53007,Chelan,47.4251,-120.329,71426,33921,1667,polygon,TRUE,America/Los_Angeles,98801
+Urban-WA,1840037597,Urban,Urban,WA,Urban-WA,Washington,53057,Skagit,48.6179,-122.6921,,,2.8,point,FALSE,America/Los_Angeles,98221
+Maplewood-WA,1840037569,Maplewood,Maplewood,WA,Maplewood-WA,Washington,53053,Pierce,47.3715,-122.5689,,,153.7,polygon,FALSE,America/Los_Angeles,98332
+Marys Corner-WA,1840037570,Marys Corner,Marys Corner,WA,Marys Corner-WA,Washington,53041,Lewis,46.5471,-122.8226,,,112.6,point,FALSE,America/Los_Angeles,98532
+Mattawa-WA,1840022292,Mattawa,Mattawa,WA,Mattawa-WA,Washington,53025,Grant,46.7365,-119.9023,4961,4413,2289,polygon,TRUE,America/Los_Angeles,99349
+Cove-WA,1840037635,Cove,Cove,WA,Cove-WA,Washington,53033,King,47.452,-122.5079,,,125.5,point,FALSE,America/Los_Angeles,98070
+Chico-WA,1840037630,Chico,Chico,WA,Chico-WA,Washington,53035,Kitsap,47.6234,-122.7198,,,438.7,polygon,FALSE,America/Los_Angeles,98312 98383
+Maple Falls-WA,1840017290,Maple Falls,Maple Falls,WA,Maple Falls-WA,Washington,53073,Whatcom,48.9135,-122.1049,,,154.4,polygon,FALSE,America/Los_Angeles,98244
+Colvos-WA,1840037541,Colvos,Colvos,WA,Colvos-WA,Washington,53033,King,47.4762,-122.4907,,,118.3,point,FALSE,America/Los_Angeles,98070
+Ames Lake-WA,1840037846,Ames Lake,Ames Lake,WA,Ames Lake-WA,Washington,53033,King,47.6346,-121.9664,,,379.3,polygon,FALSE,America/Los_Angeles,98014 98053
+Ellisforde-WA,1840037843,Ellisforde,Ellisforde,WA,Ellisforde-WA,Washington,53047,Okanogan,48.7899,-119.4012,,,28.7,point,FALSE,America/Los_Angeles,98855
+Pine Lake-WA,1840037881,Pine Lake,Pine Lake,WA,Pine Lake-WA,Washington,53033,King,47.5787,-122.0462,,,1057.1,point,FALSE,America/Los_Angeles,98075
+Tampico-WA,1840023857,Tampico,Tampico,WA,Tampico-WA,Washington,53077,Yakima,46.5325,-120.8727,,,35.6,polygon,FALSE,America/Los_Angeles,98903
+Colton-WA,1840022315,Colton,Colton,WA,Colton-WA,Washington,53075,Whitman,46.5677,-117.1284,466,466,304,polygon,TRUE,America/Los_Angeles,99113
+Usk-WA,1840037828,Usk,Usk,WA,Usk-WA,Washington,53051,Pend Oreille,48.3138,-117.2797,,,120,point,FALSE,America/Los_Angeles,99180
+Cle Elum-WA,1840018440,Cle Elum,Cle Elum,WA,Cle Elum-WA,Washington,53037,Kittitas,47.1937,-120.9575,3685,1949,197,polygon,TRUE,America/Los_Angeles,98943 98922
+Omak-WA,1840019761,Omak,Omak,WA,Omak-WA,Washington,53047,Okanogan,48.4214,-119.5178,8208,4833,539,polygon,TRUE,America/Los_Angeles,98841
+Harrington-WA,1840019819,Harrington,Harrington,WA,Harrington-WA,Washington,53043,Lincoln,47.4799,-118.2555,401,401,405,polygon,TRUE,America/Los_Angeles,99134
+Sedro-Woolley-WA,1840021066,Sedro-Woolley,Sedro-Woolley,WA,Sedro-Woolley-WA,Washington,53057,Skagit,48.5095,-122.2344,11476,11476,1128,polygon,TRUE,America/Los_Angeles,98284
+Cherry Grove-WA,1840037538,Cherry Grove,Cherry Grove,WA,Cherry Grove-WA,Washington,53011,Clark,45.8021,-122.5764,,,120.6,polygon,FALSE,America/Los_Angeles,98604
+La Push-WA,1840037839,La Push,La Push,WA,La Push-WA,Washington,53009,Clallam,47.9087,-124.6366,,,149.1,point,FALSE,America/Los_Angeles,98350
+Lake Ketchum-WA,1840037852,Lake Ketchum,Lake Ketchum,WA,Lake Ketchum-WA,Washington,53061,Snohomish,48.282,-122.348,,,352.6,polygon,FALSE,America/Los_Angeles,98292
+Arletta-WA,1840037616,Arletta,Arletta,WA,Arletta-WA,Washington,53053,Pierce,47.2901,-122.6676,,,251.3,point,FALSE,America/Los_Angeles,98335
+Opportunity-WA,1840037693,Opportunity,Opportunity,WA,Opportunity-WA,Washington,53063,Spokane,47.6574,-117.2399,,,1210.6,point,FALSE,America/Los_Angeles,99206
+Glenoma-WA,1840037768,Glenoma,Glenoma,WA,Glenoma-WA,Washington,53041,Lewis,46.5146,-122.1601,,,30.1,point,FALSE,America/Los_Angeles,98336
+Curlew-WA,1840025242,Curlew,Curlew,WA,Curlew-WA,Washington,53019,Ferry,48.8777,-118.6045,,,66.4,polygon,FALSE,America/Los_Angeles,99118
+Midland-WA,1840018452,Midland,Midland,WA,Midland-WA,Washington,53053,Pierce,47.1734,-122.412,,,783.9,polygon,FALSE,America/Los_Angeles,98404 98445
+Adna-WA,1840037489,Adna,Adna,WA,Adna-WA,Washington,53041,Lewis,46.629,-123.0612,,,72,point,FALSE,America/Los_Angeles,98532
+Roslyn-WA,1840019842,Roslyn,Roslyn,WA,Roslyn-WA,Washington,53037,Kittitas,47.2511,-121.0992,927,927,81,polygon,TRUE,America/Los_Angeles,98941 98068 98925
+Deer Park-WA,1840018400,Deer Park,Deer Park,WA,Deer Park-WA,Washington,53063,Spokane,47.9642,-117.4398,3780,3987,223,polygon,TRUE,America/Los_Angeles,99006
+Tracyton-WA,1840018408,Tracyton,Tracyton,WA,Tracyton-WA,Washington,53035,Kitsap,47.6095,-122.6533,,,787.1,polygon,FALSE,America/Los_Angeles,98310 98311
+Hunts Point-WA,1840021122,Hunts Point,Hunts Point,WA,Hunts Point-WA,Washington,53033,King,47.6418,-122.2289,439,439,552,polygon,TRUE,America/Los_Angeles,98004
+Koontzville-WA,1840037560,Koontzville,Koontzville,WA,Koontzville-WA,Washington,53047,Okanogan,48.0157,-118.9472,,,27.6,point,FALSE,America/Los_Angeles,99116
+Fruitland-WA,1840037552,Fruitland,Fruitland,WA,Fruitland-WA,Washington,53065,Stevens,48.071,-118.1989,,,5.1,point,FALSE,America/Los_Angeles,99129
+Chewelah-WA,1840018360,Chewelah,Chewelah,WA,Chewelah-WA,Washington,53065,Stevens,48.2929,-117.7337,2635,2635,341,polygon,TRUE,America/Los_Angeles,99109
+Mohler-WA,1840037575,Mohler,Mohler,WA,Mohler-WA,Washington,53043,Lincoln,47.4049,-118.3291,,,4,point,FALSE,America/Los_Angeles,99134
+East Renton Highlands-WA,1840037866,East Renton Highlands,East Renton Highlands,WA,East Renton Highlands-WA,Washington,53033,King,47.4718,-122.0854,,,318.4,polygon,FALSE,America/Los_Angeles,98027 98059 98038
+Sunnyside-WA,1840021150,Sunnyside,Sunnyside,WA,Sunnyside-WA,Washington,53077,Yakima,46.3159,-120.0058,17931,16411,843,polygon,TRUE,America/Los_Angeles,98944
+Long Lake-WA,1840037566,Long Lake,Long Lake,WA,Long Lake-WA,Washington,53043,Lincoln,47.836,-117.8488,,,11.4,point,FALSE,America/Los_Angeles,99013
+Wauna-WA,1840023842,Wauna,Wauna,WA,Wauna-WA,Washington,53053,Pierce,47.3862,-122.6692,,,429.3,polygon,FALSE,America/Los_Angeles,98329
+Liberty-WA,1840037787,Liberty,Liberty,WA,Liberty-WA,Washington,53037,Kittitas,47.2537,-120.6654,,,15,point,FALSE,America/Los_Angeles,98922
+Normandy Park-WA,1840019832,Normandy Park,Normandy Park,WA,Normandy Park-WA,Washington,53033,King,47.4344,-122.3436,6651,6651,1019,polygon,TRUE,America/Los_Angeles,98166
+Parkwood-WA,1840037518,Parkwood,Parkwood,WA,Parkwood-WA,Washington,53035,Kitsap,47.5266,-122.5986,,,918.9,polygon,FALSE,America/Los_Angeles,98366
+Jamestown-WA,1840037668,Jamestown,Jamestown,WA,Jamestown-WA,Washington,53009,Clallam,48.1229,-123.0911,,,145.8,polygon,FALSE,America/Los_Angeles,98382
+Forks-WA,1840019781,Forks,Forks,WA,Forks-WA,Washington,53009,Clallam,47.9526,-124.3906,4219,3783,354,polygon,TRUE,America/Los_Angeles,98331
+Wallula-WA,1840018489,Wallula,Wallula,WA,Wallula-WA,Washington,53071,Walla Walla,46.0847,-118.9056,,,213,polygon,FALSE,America/Los_Angeles,99363
+SeaTac-WA,1840021116,SeaTac,SeaTac,WA,SeaTac-WA,Washington,53033,King,47.4444,-122.2985,28873,28873,1111,polygon,TRUE,America/Los_Angeles,98158 98148 98198 98168 98188 98131
+Royal City-WA,1840019816,Royal City,Royal City,WA,Royal City-WA,Washington,53025,Grant,46.9,-119.6143,2196,2196,629,polygon,TRUE,America/Los_Angeles,99357
+Beaux Arts Village-WA,1840019838,Beaux Arts Village,Beaux Arts Village,WA,Beaux Arts Village-WA,Washington,53033,King,47.5853,-122.2009,326,326,1515,polygon,TRUE,America/Los_Angeles,98004
+Steilacoom-WA,1840022309,Steilacoom,Steilacoom,WA,Steilacoom-WA,Washington,53053,Pierce,47.1702,-122.5938,6309,6309,1191,polygon,TRUE,America/Los_Angeles,98388
+Northport-WA,1840022274,Northport,Northport,WA,Northport-WA,Washington,53065,Stevens,48.9158,-117.7799,290,290,193,polygon,TRUE,America/Los_Angeles,99157
+Eldon-WA,1840037764,Eldon,Eldon,WA,Eldon-WA,Washington,53045,Mason,47.5454,-123.046,,,9.2,point,FALSE,America/Los_Angeles,98555
+Ridgefield-WA,1840019909,Ridgefield,Ridgefield,WA,Ridgefield-WA,Washington,53011,Clark,45.8112,-122.7053,6318,7066,385,polygon,TRUE,America/Los_Angeles,98642
+Ryderwood-WA,1840025275,Ryderwood,Ryderwood,WA,Ryderwood-WA,Washington,53015,Cowlitz,46.375,-123.0441,,,332.9,polygon,FALSE,America/Los_Angeles,98581
+Manchester-WA,1840017336,Manchester,Manchester,WA,Manchester-WA,Washington,53035,Kitsap,47.5519,-122.5517,,,870.2,polygon,FALSE,America/Los_Angeles,98366
+Vashon Heights-WA,1840037598,Vashon Heights,Vashon Heights,WA,Vashon Heights-WA,Washington,53033,King,47.5057,-122.4654,,,492.3,point,FALSE,America/Los_Angeles,98070
+Salmon Creek-WA,1840018520,Salmon Creek,Salmon Creek,WA,Salmon Creek-WA,Washington,53011,Clark,45.7099,-122.6632,,,406.7,polygon,FALSE,America/Los_Angeles,98686 98685
+Vantage-WA,1840018441,Vantage,Vantage,WA,Vantage-WA,Washington,53037,Kittitas,46.9453,-119.9922,,,116,polygon,FALSE,America/Los_Angeles,98950
+Creston-WA,1840021109,Creston,Creston,WA,Creston-WA,Washington,53043,Lincoln,47.7596,-118.5199,218,218,205,polygon,TRUE,America/Los_Angeles,99117
+Soap Lake-WA,1840021102,Soap Lake,Soap Lake,WA,Soap Lake-WA,Washington,53025,Grant,47.3884,-119.4905,1571,1571,467,polygon,TRUE,America/Los_Angeles,98851
+Silver Firs-WA,1840037898,Silver Firs,Silver Firs,WA,Silver Firs-WA,Washington,53061,Snohomish,47.8635,-122.1497,,,2275.3,polygon,FALSE,America/Los_Angeles,98296 98012 98208
+Plaza-WA,1840037701,Plaza,Plaza,WA,Plaza-WA,Washington,53063,Spokane,47.3202,-117.3838,,,23.5,point,FALSE,America/Los_Angeles,99170
+Machias-WA,1840017325,Machias,Machias,WA,Machias-WA,Washington,53061,Snohomish,47.9917,-122.0515,,,258.3,polygon,FALSE,America/Los_Angeles,98258 98290
+Neah Bay-WA,1840023937,Neah Bay,Neah Bay,WA,Neah Bay-WA,Washington,53009,Clallam,48.3612,-124.6115,,,1589.2,polygon,FALSE,America/Los_Angeles,98357
+Malo-WA,1840026093,Malo,Malo,WA,Malo-WA,Washington,53019,Ferry,48.7996,-118.612,,,27.2,polygon,FALSE,America/Los_Angeles,99150
+Clyde Hill-WA,1840018413,Clyde Hill,Clyde Hill,WA,Clyde Hill-WA,Washington,53033,King,47.6303,-122.218,3268,3268,1195,polygon,TRUE,America/Los_Angeles,98004
+Keyport-WA,1840023797,Keyport,Keyport,WA,Keyport-WA,Washington,53035,Kitsap,47.6993,-122.6232,,,579.7,polygon,FALSE,America/Los_Angeles,98345
+North Yelm-WA,1840037880,North Yelm,North Yelm,WA,North Yelm-WA,Washington,53067,Thurston,46.9647,-122.6029,,,190.9,polygon,FALSE,America/Los_Angeles,98597
+Grand Coulee-WA,1840019815,Grand Coulee,Grand Coulee,WA,Grand Coulee-WA,Washington,53025,Grant,47.9388,-119.003,1044,1044,324,polygon,TRUE,America/Los_Angeles,99133
+Outlook-WA,1840023855,Outlook,Outlook,WA,Outlook-WA,Washington,53077,Yakima,46.3312,-120.0913,,,169.6,polygon,FALSE,America/Los_Angeles,98938
+Clinton-WA,1840037632,Clinton,Clinton,WA,Clinton-WA,Washington,53029,Island,47.9731,-122.3577,,,487.7,polygon,FALSE,America/Los_Angeles,98236
+Evans-WA,1840037765,Evans,Evans,WA,Evans-WA,Washington,53065,Stevens,48.7135,-118.0253,,,20.2,point,FALSE,America/Los_Angeles,99126
+Browns Point-WA,1840037624,Browns Point,Browns Point,WA,Browns Point-WA,Washington,53053,Pierce,47.3036,-122.4369,,,1179.1,polygon,FALSE,America/Los_Angeles,98422
+Kennewick-WA,1840018481,Kennewick,Kennewick,WA,Kennewick-WA,Washington,53005,Benton,46.1979,-119.1732,229624,80454,1134,polygon,TRUE,America/Los_Angeles,99337 99336 99338
+North Marysville-WA,1840037878,North Marysville,North Marysville,WA,North Marysville-WA,Washington,53061,Snohomish,48.111,-122.1459,,,77.3,polygon,FALSE,America/Los_Angeles,98223 98271
+Beaver Valley-WA,1840037528,Beaver Valley,Beaver Valley,WA,Beaver Valley-WA,Washington,53031,Jefferson,47.9259,-122.7302,,,34.3,point,FALSE,America/Los_Angeles,98365
+Ahtanum-WA,1840017368,Ahtanum,Ahtanum,WA,Ahtanum-WA,Washington,53077,Yakima,46.5581,-120.6058,,,323.4,polygon,FALSE,America/Los_Angeles,98903 98908 98909
+Carbonado-WA,1840022307,Carbonado,Carbonado,WA,Carbonado-WA,Washington,53053,Pierce,47.0805,-122.0537,663,663,614,polygon,TRUE,America/Los_Angeles,98396 98323
+Hyak-WA,1840037777,Hyak,Hyak,WA,Hyak-WA,Washington,53037,Kittitas,47.3929,-121.3929,,,69.4,point,FALSE,America/Los_Angeles,98068
+Arlington Heights-WA,1840037743,Arlington Heights,Arlington Heights,WA,Arlington Heights-WA,Washington,53061,Snohomish,48.2119,-122.0631,,,226.1,polygon,FALSE,America/Los_Angeles,98223
+North Sultan-WA,1840037859,North Sultan,North Sultan,WA,North Sultan-WA,Washington,53061,Snohomish,47.8828,-121.8251,,,306.2,polygon,FALSE,America/Los_Angeles,98294
+Pullman-WA,1840019864,Pullman,Pullman,WA,Pullman-WA,Washington,53075,Whitman,46.7327,-117.1634,33204,33282,1300,polygon,TRUE,America/Los_Angeles,99164 99163
+Longview-WA,1840019904,Longview,Longview,WA,Longview-WA,Washington,53015,Cowlitz,46.1471,-122.9642,65156,37337,991,polygon,TRUE,America/Los_Angeles,98632
+Adelaide-WA,1840037521,Adelaide,Adelaide,WA,Adelaide-WA,Washington,53033,King,47.3309,-122.3604,,,1388.4,point,FALSE,America/Los_Angeles,98023
+Peaceful Valley-WA,1840037896,Peaceful Valley,Peaceful Valley,WA,Peaceful Valley-WA,Washington,53073,Whatcom,48.9477,-122.1406,,,762.6,polygon,FALSE,America/Los_Angeles,98295 98244 98266
+West Richland-WA,1840021168,West Richland,West Richland,WA,West Richland-WA,Washington,53005,Benton,46.3115,-119.3996,14198,14198,249,polygon,TRUE,America/Los_Angeles,99320 99353
+Fife Heights-WA,1840037653,Fife Heights,Fife Heights,WA,Fife Heights-WA,Washington,53053,Pierce,47.2586,-122.3454,,,523.6,polygon,FALSE,America/Los_Angeles,98422 98424
+Manson-WA,1840025246,Manson,Manson,WA,Manson-WA,Washington,53007,Chelan,47.8858,-120.1563,,,683.5,polygon,FALSE,America/Los_Angeles,98831
+Sprague-WA,1840021107,Sprague,Sprague,WA,Sprague-WA,Washington,53043,Lincoln,47.3003,-117.9757,427,427,261,polygon,TRUE,America/Los_Angeles,99032
+Cosmopolis-WA,1840018448,Cosmopolis,Cosmopolis,WA,Cosmopolis-WA,Washington,53027,Grays Harbor,46.9541,-123.7727,1601,1601,464,polygon,TRUE,America/Los_Angeles,98520 98563 98537
+Redondo-WA,1840037705,Redondo,Redondo,WA,Redondo-WA,Washington,53033,King,47.3484,-122.3235,,,1190.8,point,FALSE,America/Los_Angeles,98198
+Waller-WA,1840037889,Waller,Waller,WA,Waller-WA,Washington,53053,Pierce,47.2035,-122.37,,,818.3,polygon,FALSE,America/Los_Angeles,98404 98371 98443
+Addy-WA,1840025238,Addy,Addy,WA,Addy-WA,Washington,53065,Stevens,48.3588,-117.8372,,,279.3,polygon,FALSE,America/Los_Angeles,99101
+Matlock-WA,1840037793,Matlock,Matlock,WA,Matlock-WA,Washington,53045,Mason,47.2379,-123.4079,,,1.4,point,FALSE,America/Los_Angeles,98541
+Longbranch-WA,1840023835,Longbranch,Longbranch,WA,Longbranch-WA,Washington,53053,Pierce,47.2257,-122.7739,,,97.4,polygon,FALSE,America/Los_Angeles,98349 98351
+North Bonneville-WA,1840019903,North Bonneville,North Bonneville,WA,North Bonneville-WA,Washington,53059,Skamania,45.6426,-121.9695,980,980,157,polygon,TRUE,America/Los_Angeles,98648 98639
+Pomeroy-WA,1840019891,Pomeroy,Pomeroy,WA,Pomeroy-WA,Washington,53023,Garfield,46.4739,-117.5971,1410,1410,306,polygon,TRUE,America/Los_Angeles,99347
+Colville-WA,1840018361,Colville,Colville,WA,Colville-WA,Washington,53065,Stevens,48.545,-117.8975,5088,4788,622,polygon,TRUE,America/Los_Angeles,99114
+Palmer-WA,1840037802,Palmer,Palmer,WA,Palmer-WA,Washington,53033,King,47.3143,-121.8923,,,36.7,point,FALSE,America/Los_Angeles,98051
+Skyway-WA,1840037620,Skyway,Skyway,WA,Skyway-WA,Washington,53033,King,47.4915,-122.2543,,,2440.5,point,FALSE,America/Los_Angeles,98178
+Medina-WA,1840019829,Medina,Medina,WA,Medina-WA,Washington,53033,King,47.6257,-122.2338,3246,3246,866,polygon,TRUE,America/Los_Angeles,98039
+Algona-WA,1840018415,Algona,Algona,WA,Algona-WA,Washington,53033,King,47.2819,-122.2504,3156,3156,939,polygon,TRUE,America/Los_Angeles,98001 98047
+Nine Mile Falls-WA,1840037609,Nine Mile Falls,Nine Mile Falls,WA,Nine Mile Falls-WA,Washington,53063,Spokane,47.7757,-117.5461,,,53.5,point,FALSE,America/Los_Angeles,99026
+Black Diamond-WA,1840018418,Black Diamond,Black Diamond,WA,Black Diamond-WA,Washington,53033,King,47.313,-122.0181,4384,4384,258,polygon,TRUE,America/Los_Angeles,98010
+Gold Bar-WA,1840019786,Gold Bar,Gold Bar,WA,Gold Bar-WA,Washington,53061,Snohomish,47.8562,-121.6919,2131,2131,798,polygon,TRUE,America/Los_Angeles,98251
+Mesa-WA,1840019887,Mesa,Mesa,WA,Mesa-WA,Washington,53021,Franklin,46.5736,-119.0013,486,486,114,polygon,TRUE,America/Los_Angeles,99326 99343
+Cavalero Corner-WA,1840037734,Cavalero Corner,Cavalero Corner,WA,Cavalero Corner-WA,Washington,53061,Snohomish,47.9782,-122.1349,,,149.6,point,FALSE,America/Los_Angeles,98205
+Lilliwaup-WA,1840037788,Lilliwaup,Lilliwaup,WA,Lilliwaup-WA,Washington,53045,Mason,47.4634,-123.1143,,,34.3,point,FALSE,America/Los_Angeles,98555
+La Conner-WA,1840021068,La Conner,La Conner,WA,La Conner-WA,Washington,53057,Skagit,48.3925,-122.4945,3464,936,874,polygon,TRUE,America/Los_Angeles,98257
+Sheridan Beach-WA,1840037884,Sheridan Beach,Sheridan Beach,WA,Sheridan Beach-WA,Washington,53033,King,47.7448,-122.2882,,,2013,point,FALSE,America/Los_Angeles,98155
+Lincoln-WA,1840037499,Lincoln,Lincoln,WA,Lincoln-WA,Washington,53043,Lincoln,47.829,-118.415,,,18.3,point,FALSE,America/Los_Angeles,99147
+Markham-WA,1840017359,Markham,Markham,WA,Markham-WA,Washington,53027,Grays Harbor,46.9155,-123.9814,,,47.4,polygon,FALSE,America/Los_Angeles,98520
+Eltopia-WA,1840037650,Eltopia,Eltopia,WA,Eltopia-WA,Washington,53021,Franklin,46.4587,-119.0172,,,79.4,point,FALSE,America/Los_Angeles,99330
+Stevenson-WA,1840021180,Stevenson,Stevenson,WA,Stevenson-WA,Washington,53059,Skamania,45.6944,-121.8933,1527,1527,358,polygon,TRUE,America/Los_Angeles,98648
+Greenwater-WA,1840017343,Greenwater,Greenwater,WA,Greenwater-WA,Washington,53053,Pierce,47.1467,-121.6327,,,55.3,polygon,FALSE,America/Los_Angeles,98022
+Copalis Beach-WA,1840017356,Copalis Beach,Copalis Beach,WA,Copalis Beach-WA,Washington,53027,Grays Harbor,47.1205,-124.1722,,,111.7,polygon,FALSE,America/Los_Angeles,98535 98536
+Roosevelt-WA,1840037586,Roosevelt,Roosevelt,WA,Roosevelt-WA,Washington,53061,Snohomish,47.8923,-122.0123,,,106.3,point,FALSE,America/Los_Angeles,98290
+La Crosse-WA,1840037498,La Crosse,La Crosse,WA,La Crosse-WA,Washington,53075,Whitman,46.8027,-117.9014,317,317,157,polygon,TRUE,America/Los_Angeles,99143
+Summit-WA,1840018456,Summit,Summit,WA,Summit-WA,Washington,53053,Pierce,47.1694,-122.3629,,,647.3,polygon,FALSE,America/Los_Angeles,98373 98371 98446
+Ohop-WA,1840037801,Ohop,Ohop,WA,Ohop-WA,Washington,53053,Pierce,46.9457,-122.1907,,,2.7,point,FALSE,America/Los_Angeles,98360
+Malden-WA,1840022313,Malden,Malden,WA,Malden-WA,Washington,53075,Whitman,47.2296,-117.4732,205,205,118,polygon,TRUE,America/Los_Angeles,99149
+Beverly-WA,1840037491,Beverly,Beverly,WA,Beverly-WA,Washington,53025,Grant,46.8368,-119.9331,,,205.8,point,FALSE,America/Los_Angeles,99321
+Prosser-WA,1840019890,Prosser,Prosser,WA,Prosser-WA,Washington,53005,Benton,46.2065,-119.7659,6040,6040,513,polygon,TRUE,America/Los_Angeles,99350
+Lake Roesiger-WA,1840037853,Lake Roesiger,Lake Roesiger,WA,Lake Roesiger-WA,Washington,53061,Snohomish,47.9839,-121.9129,,,11.9,polygon,FALSE,America/Los_Angeles,98290
+Fern Prairie-WA,1840023890,Fern Prairie,Fern Prairie,WA,Fern Prairie-WA,Washington,53011,Clark,45.637,-122.3963,,,172.1,polygon,FALSE,America/Los_Angeles,98607
+Maple Valley-WA,1840019828,Maple Valley,Maple Valley,WA,Maple Valley-WA,Washington,53033,King,47.3664,-122.037,25698,25698,1731,polygon,TRUE,America/Los_Angeles,98038
+Gifford-WA,1840037767,Gifford,Gifford,WA,Gifford-WA,Washington,53065,Stevens,48.3063,-118.1464,,,2.2,point,FALSE,America/Los_Angeles,99131
+Auburn-WA,1840018416,Auburn,Auburn,WA,Auburn-WA,Washington,53033,King,47.3039,-122.2108,77472,77472,1008,polygon,TRUE,America/Los_Angeles,98001 98002 98092
+Burton-WA,1840037625,Burton,Burton,WA,Burton-WA,Washington,53033,King,47.389,-122.4607,,,438.4,point,FALSE,America/Los_Angeles,98070
+Burlington-WA,1840018367,Burlington,Burlington,WA,Burlington-WA,Washington,53057,Skagit,48.4676,-122.3298,8768,8768,796,polygon,TRUE,America/Los_Angeles,98233
+Carrolls-WA,1840037627,Carrolls,Carrolls,WA,Carrolls-WA,Washington,53015,Cowlitz,46.0715,-122.8623,,,126.6,point,FALSE,America/Los_Angeles,98626
+Bayne-WA,1840037746,Bayne,Bayne,WA,Bayne-WA,Washington,53033,King,47.2951,-121.9096,,,10.2,point,FALSE,America/Los_Angeles,98022
+East Cathlamet-WA,1840037849,East Cathlamet,East Cathlamet,WA,East Cathlamet-WA,Washington,53069,Wahkiakum,46.1968,-123.358,,,636.3,polygon,FALSE,America/Los_Angeles,98612
+Purdy-WA,1840023838,Purdy,Purdy,WA,Purdy-WA,Washington,53053,Pierce,47.3938,-122.6114,,,379.3,polygon,FALSE,America/Los_Angeles,98332
+Kapowsin-WA,1840023832,Kapowsin,Kapowsin,WA,Kapowsin-WA,Washington,53053,Pierce,46.9727,-122.2272,,,55.4,polygon,FALSE,America/Los_Angeles,98360 98338 98344
+Ketron-WA,1840037558,Ketron,Ketron,WA,Ketron-WA,Washington,53053,Pierce,47.1569,-122.6343,,,1.9,polygon,FALSE,America/Los_Angeles,98388
+Connell-WA,1840018479,Connell,Connell,WA,Connell-WA,Washington,53021,Franklin,46.6627,-118.8403,5243,5414,265,polygon,TRUE,America/Los_Angeles,99326
+Shore Acres-WA,1840037590,Shore Acres,Shore Acres,WA,Shore Acres-WA,Washington,53053,Pierce,47.3104,-122.5715,,,787,point,FALSE,America/Los_Angeles,98335
+Clear Lake-WA,1840023932,Clear Lake,Clear Lake,WA,Clear Lake-WA,Washington,53057,Skagit,48.4561,-122.2378,,,370.7,polygon,FALSE,America/Los_Angeles,98235 98284 98273
+Kittitas-WA,1840019843,Kittitas,Kittitas,WA,Kittitas-WA,Washington,53037,Kittitas,46.9844,-120.4198,1439,1439,765,polygon,TRUE,America/Los_Angeles,98934 98926
+Bucoda-WA,1840021143,Bucoda,Bucoda,WA,Bucoda-WA,Washington,53067,Thurston,46.7969,-122.8679,575,575,388,polygon,TRUE,America/Los_Angeles,98530
+Ardenvoir-WA,1840037742,Ardenvoir,Ardenvoir,WA,Ardenvoir-WA,Washington,53007,Chelan,47.7373,-120.369,,,83.7,point,FALSE,America/Los_Angeles,98811
+Ellisport-WA,1840037649,Ellisport,Ellisport,WA,Ellisport-WA,Washington,53033,King,47.4204,-122.4354,,,329.3,point,FALSE,America/Los_Angeles,98070
+Bainbridge Island-WA,1840018409,Bainbridge Island,Bainbridge Island,WA,Bainbridge Island-WA,Washington,53035,Kitsap,47.6439,-122.5434,24404,24404,341,polygon,TRUE,America/Los_Angeles,98110 98061
+Danville-WA,1840037761,Danville,Danville,WA,Danville-WA,Washington,53019,Ferry,48.9938,-118.5068,,,13.7,polygon,FALSE,America/Los_Angeles,99121
+Hazelwood-WA,1840037663,Hazelwood,Hazelwood,WA,Hazelwood-WA,Washington,53033,King,47.5509,-122.1915,,,781.7,point,FALSE,America/Los_Angeles,98006
+Holly-WA,1840037775,Holly,Holly,WA,Holly-WA,Washington,53035,Kitsap,47.5576,-122.9785,,,23.6,point,FALSE,America/Los_Angeles,98380
+Valley-WA,1840025241,Valley,Valley,WA,Valley-WA,Washington,53065,Stevens,48.173,-117.7244,,,111.2,polygon,FALSE,America/Los_Angeles,99181
+Republic-WA,1840019766,Republic,Republic,WA,Republic-WA,Washington,53019,Ferry,48.6485,-118.733,1069,1069,259,polygon,TRUE,America/Los_Angeles,99166
+Odessa-WA,1840022295,Odessa,Odessa,WA,Odessa-WA,Washington,53043,Lincoln,47.3326,-118.6893,869,869,408,polygon,TRUE,America/Los_Angeles,99159
+Edgewood-WA,1840019852,Edgewood,Edgewood,WA,Edgewood-WA,Washington,53053,Pierce,47.2309,-122.2832,10734,10734,492,polygon,TRUE,America/Los_Angeles,98372 98371
+Rice-WA,1840037810,Rice,Rice,WA,Rice-WA,Washington,53065,Stevens,48.4288,-118.1703,,,13.4,point,FALSE,America/Los_Angeles,99167
+Shoreline-WA,1840021118,Shoreline,Shoreline,WA,Shoreline-WA,Washington,53033,King,47.7563,-122.3425,55333,55333,1830,polygon,TRUE,America/Los_Angeles,98155 98177 98133 98160
+Cusick-WA,1840021060,Cusick,Cusick,WA,Cusick-WA,Washington,53051,Pend Oreille,48.3327,-117.2963,208,208,152,polygon,TRUE,America/Los_Angeles,99119
+Virginia-WA,1840037724,Virginia,Virginia,WA,Virginia-WA,Washington,53035,Kitsap,47.7073,-122.6374,,,327.7,point,FALSE,America/Los_Angeles,98370
+Concrete-WA,1840022283,Concrete,Concrete,WA,Concrete-WA,Washington,53057,Skagit,48.5371,-121.7511,724,724,238,polygon,TRUE,America/Los_Angeles,98237
+Langley-WA,1840019780,Langley,Langley,WA,Langley-WA,Washington,53029,Island,48.0336,-122.408,1097,1097,393,polygon,TRUE,America/Los_Angeles,98260
+Othello-WA,1840019862,Othello,Othello,WA,Othello-WA,Washington,53001,Adams,46.8226,-119.1654,12324,8099,820,polygon,TRUE,America/Los_Angeles,99344
+North City-WA,1840037689,North City,North City,WA,North City-WA,Washington,53033,King,47.7557,-122.3135,,,2860.9,point,FALSE,America/Los_Angeles,98155
+Hazel Dell-WA,1840037662,Hazel Dell,Hazel Dell,WA,Hazel Dell-WA,Washington,53011,Clark,45.6797,-122.6553,,,1388.9,polygon,FALSE,America/Los_Angeles,98665
+Colfax-WA,1840018458,Colfax,Colfax,WA,Colfax-WA,Washington,53075,Whitman,46.9032,-117.3386,2806,2895,295,polygon,TRUE,America/Los_Angeles,99111
+Metaline-WA,1840022276,Metaline,Metaline,WA,Metaline-WA,Washington,53051,Pend Oreille,48.8539,-117.3898,172,172,215,polygon,TRUE,America/Los_Angeles,99152
+Randle-WA,1840037809,Randle,Randle,WA,Randle-WA,Washington,53041,Lewis,46.5351,-121.957,,,29.6,point,FALSE,America/Los_Angeles,98377
+Millwood-WA,1840022289,Millwood,Millwood,WA,Millwood-WA,Washington,53063,Spokane,47.6858,-117.2805,1787,1787,983,polygon,TRUE,America/Los_Angeles,99206 99212
+Snoqualmie Pass-WA,1840037862,Snoqualmie Pass,Snoqualmie Pass,WA,Snoqualmie Pass-WA,Washington,53037,Kittitas,47.4015,-121.411,,,78,polygon,FALSE,America/Los_Angeles,98068
+Bangor-WA,1840037618,Bangor,Bangor,WA,Bangor-WA,Washington,53035,Kitsap,47.7209,-122.746,,,240.9,point,FALSE,America/Los_Angeles,98383
+Thorp-WA,1840018439,Thorp,Thorp,WA,Thorp-WA,Washington,53037,Kittitas,47.0655,-120.6709,,,95.3,polygon,FALSE,America/Los_Angeles,98946
+Tahlequah-WA,1840037596,Tahlequah,Tahlequah,WA,Tahlequah-WA,Washington,53033,King,47.3326,-122.5073,,,179.8,point,FALSE,America/Los_Angeles,98070
+Prescott-WA,1840021175,Prescott,Prescott,WA,Prescott-WA,Washington,53071,Walla Walla,46.2989,-118.3126,304,304,290,polygon,TRUE,America/Los_Angeles,99348
+Buckley-WA,1840018455,Buckley,Buckley,WA,Buckley-WA,Washington,53053,Pierce,47.1614,-122.02,4682,4682,466,polygon,TRUE,America/Los_Angeles,98321
+Dalkena-WA,1840037841,Dalkena,Dalkena,WA,Dalkena-WA,Washington,53051,Pend Oreille,48.2449,-117.2377,,,45.3,point,FALSE,America/Los_Angeles,99156
+Leland-WA,1840037785,Leland,Leland,WA,Leland-WA,Washington,53031,Jefferson,47.8918,-122.8866,,,7.1,point,FALSE,America/Los_Angeles,98376
+Fruitvale-WA,1840037656,Fruitvale,Fruitvale,WA,Fruitvale-WA,Washington,53077,Yakima,46.6179,-120.5531,,,513.9,point,FALSE,America/Los_Angeles,98902
+Port Hadlock-WA,1840037773,Port Hadlock,Port Hadlock,WA,Port Hadlock-WA,Washington,53031,Jefferson,48.0318,-122.7582,,,187.6,point,FALSE,America/Los_Angeles,98339
+University Place-WA,1840021130,University Place,University Place,WA,University Place-WA,Washington,53053,Pierce,47.2146,-122.5461,33288,33288,1525,polygon,TRUE,America/Los_Angeles,98466 98467 98464
+Morton-WA,1840019882,Morton,Morton,WA,Morton-WA,Washington,53041,Lewis,46.5576,-122.2815,1145,1145,537,polygon,TRUE,America/Los_Angeles,98356
+Deep River-WA,1840023929,Deep River,Deep River,WA,Deep River-WA,Washington,53069,Wahkiakum,46.3523,-123.6983,,,8.6,polygon,FALSE,America/Los_Angeles,98638
+Elberton-WA,1840037648,Elberton,Elberton,WA,Elberton-WA,Washington,53075,Whitman,46.9813,-117.2213,,,5.1,point,FALSE,America/Los_Angeles,99130
+Kingston-WA,1840017338,Kingston,Kingston,WA,Kingston-WA,Washington,53035,Kitsap,47.8014,-122.4989,,,402.1,polygon,FALSE,America/Los_Angeles,98346
+Palouse-WA,1840019863,Palouse,Palouse,WA,Palouse-WA,Washington,53075,Whitman,46.9103,-117.0753,1045,1045,375,polygon,TRUE,America/Los_Angeles,99161
+Vader-WA,1840021163,Vader,Vader,WA,Vader-WA,Washington,53041,Lewis,46.4046,-122.9569,629,629,261,polygon,TRUE,America/Los_Angeles,98593 98596
+Donald-WA,1840023853,Donald,Donald,WA,Donald-WA,Washington,53077,Yakima,46.4737,-120.3923,,,29.1,polygon,FALSE,America/Los_Angeles,98951
+Miles-WA,1840037686,Miles,Miles,WA,Miles-WA,Washington,53043,Lincoln,47.9107,-118.2925,,,11.7,point,FALSE,America/Los_Angeles,99122
+Asotin-WA,1840018500,Asotin,Asotin,WA,Asotin-WA,Washington,53003,Asotin,46.3372,-117.043,1295,1295,477,polygon,TRUE,America/Los_Angeles,99402
+Joyce-WA,1840037779,Joyce,Joyce,WA,Joyce-WA,Washington,53009,Clallam,48.1365,-123.7341,,,48.1,point,FALSE,America/Los_Angeles,98363
+Eagledale-WA,1840037643,Eagledale,Eagledale,WA,Eagledale-WA,Washington,53035,Kitsap,47.6143,-122.5154,,,447.1,point,FALSE,America/Los_Angeles,98110
+Port Ludlow-WA,1840018388,Port Ludlow,Port Ludlow,WA,Port Ludlow-WA,Washington,53031,Jefferson,47.9101,-122.7006,,,598.8,polygon,FALSE,America/Los_Angeles,98365
+Loomis-WA,1840025235,Loomis,Loomis,WA,Loomis-WA,Washington,53047,Okanogan,48.8235,-119.6398,,,154.6,polygon,FALSE,America/Los_Angeles,98827
+New London-WA,1840037504,New London,New London,WA,New London-WA,Washington,53027,Grays Harbor,47.0573,-123.9271,,,22.5,point,FALSE,America/Los_Angeles,98550
+Desert Aire-WA,1840037611,Desert Aire,Desert Aire,WA,Desert Aire-WA,Washington,53025,Grant,46.6873,-119.9311,,,367.3,polygon,FALSE,America/Los_Angeles,99349
+Poulsbo-WA,1840019822,Poulsbo,Poulsbo,WA,Poulsbo-WA,Washington,53035,Kitsap,47.7417,-122.6408,10400,10400,846,polygon,TRUE,America/Los_Angeles,98370
+Cedonia-WA,1840037537,Cedonia,Cedonia,WA,Cedonia-WA,Washington,53065,Stevens,48.1538,-118.1692,,,22.2,point,FALSE,America/Los_Angeles,99137
+Union-WA,1840025253,Union,Union,WA,Union-WA,Washington,53045,Mason,47.3475,-123.0952,,,196.1,polygon,FALSE,America/Los_Angeles,98592
+Suquamish-WA,1840018411,Suquamish,Suquamish,WA,Suquamish-WA,Washington,53035,Kitsap,47.7236,-122.5831,,,1418.8,polygon,FALSE,America/Los_Angeles,98392 98370
+Deep Creek-WA,1840023917,Deep Creek,Deep Creek,WA,Deep Creek-WA,Washington,53063,Spokane,47.6429,-117.7122,,,20.5,point,FALSE,America/Los_Angeles,99029
+Yoman-WA,1840023916,Yoman,Yoman,WA,Yoman-WA,Washington,53053,Pierce,47.1865,-122.7062,,,15.4,point,FALSE,America/Los_Angeles,98004
+Cordell-WA,1840037757,Cordell,Cordell,WA,Cordell-WA,Washington,53047,Okanogan,48.8665,-119.412,,,7.7,point,FALSE,America/Los_Angeles,98844
+Hoquiam-WA,1840019845,Hoquiam,Hoquiam,WA,Hoquiam-WA,Washington,53027,Grays Harbor,46.9857,-123.9006,8434,8434,358,polygon,TRUE,America/Los_Angeles,98550
+Nespelem-WA,1840022268,Nespelem,Nespelem,WA,Nespelem-WA,Washington,53047,Okanogan,48.1669,-118.9724,283,283,569,polygon,TRUE,America/Los_Angeles,99155
+Ephrata-WA,1840019813,Ephrata,Ephrata,WA,Ephrata-WA,Washington,53025,Grant,47.3119,-119.5342,7289,8032,299,polygon,TRUE,America/Los_Angeles,98823
+Kent-WA,1840018424,Kent,Kent,WA,Kent-WA,Washington,53033,King,47.3887,-122.2128,127514,127514,1459,polygon,TRUE,America/Los_Angeles,98031 98030 98032 98042 98035 98064 98089
+Mukilteo-WA,1840019793,Mukilteo,Mukilteo,WA,Mukilteo-WA,Washington,53061,Snohomish,47.9096,-122.3035,21462,21462,1306,polygon,TRUE,America/Los_Angeles,98275
+Boise-WA,1840037748,Boise,Boise,WA,Boise-WA,Washington,53033,King,47.1804,-122.0157,,,118,point,FALSE,America/Los_Angeles,98022
+Kirkland-WA,1840019836,Kirkland,Kirkland,WA,Kirkland-WA,Washington,53033,King,47.6996,-122.1982,87701,87701,1900,polygon,TRUE,America/Los_Angeles,98033 98011 98034 98083
+Waitsburg-WA,1840021173,Waitsburg,Waitsburg,WA,Waitsburg-WA,Washington,53071,Walla Walla,46.2696,-118.1499,1187,1187,411,polygon,TRUE,America/Los_Angeles,99361
+Ridgecrest-WA,1840023907,Ridgecrest,Ridgecrest,WA,Ridgecrest-WA,Washington,53033,King,47.7473,-122.3179,,,2379.9,point,FALSE,America/Los_Angeles,98586 98577
+Freeman-WA,1840037655,Freeman,Freeman,WA,Freeman-WA,Washington,53063,Spokane,47.5182,-117.1958,,,7.3,point,FALSE,America/Los_Angeles,99036
+Dallesport-WA,1840018525,Dallesport,Dallesport,WA,Dallesport-WA,Washington,53039,Klickitat,45.6316,-121.1749,,,220.6,polygon,FALSE,America/Los_Angeles,98617 98635
+Redmond-WA,1840019835,Redmond,Redmond,WA,Redmond-WA,Washington,53033,King,47.6776,-122.1176,62458,62458,1464,polygon,TRUE,America/Los_Angeles,98052 98073
+Wilkeson-WA,1840022310,Wilkeson,Wilkeson,WA,Wilkeson-WA,Washington,53053,Pierce,47.1034,-122.0496,492,492,404,polygon,TRUE,America/Los_Angeles,98396
+Sisco Heights-WA,1840037510,Sisco Heights,Sisco Heights,WA,Sisco Heights-WA,Washington,53061,Snohomish,48.1187,-122.1076,,,102.6,polygon,FALSE,America/Los_Angeles,98223
+Lewisville-WA,1840037855,Lewisville,Lewisville,WA,Lewisville-WA,Washington,53011,Clark,45.8124,-122.5146,,,123.3,polygon,FALSE,America/Los_Angeles,98604 98622
+Kennard Corner-WA,1840037671,Kennard Corner,Kennard Corner,WA,Kennard Corner-WA,Washington,53061,Snohomish,47.8201,-122.2076,,,2936.7,point,FALSE,America/Los_Angeles,98012
+Benge-WA,1840037619,Benge,Benge,WA,Benge-WA,Washington,53001,Adams,46.9093,-118.1025,,,10.5,point,FALSE,America/Los_Angeles,99105
+Granger-WA,1840019872,Granger,Granger,WA,Granger-WA,Washington,53077,Yakima,46.3459,-120.1928,3493,3720,800,polygon,TRUE,America/Los_Angeles,98932
+Yarrow Point-WA,1840022300,Yarrow Point,Yarrow Point,WA,Yarrow Point-WA,Washington,53033,King,47.6452,-122.2178,1096,1096,1135,polygon,TRUE,America/Los_Angeles,98004
+Lost Creek-WA,1840037790,Lost Creek,Lost Creek,WA,Lost Creek-WA,Washington,53051,Pend Oreille,48.6094,-117.3636,,,15.2,point,FALSE,America/Los_Angeles,99119
+Moxee City-WA,1840037687,Moxee City,Moxee City,WA,Moxee City-WA,Washington,53077,Yakima,46.5537,-120.3831,,,2666.3,point,TRUE,America/Los_Angeles,98936
+Hockinson-WA,1840017399,Hockinson,Hockinson,WA,Hockinson-WA,Washington,53011,Clark,45.7302,-122.4833,,,237.5,polygon,FALSE,America/Los_Angeles,98606
+Oakville-WA,1840019848,Oakville,Oakville,WA,Oakville-WA,Washington,53027,Grays Harbor,46.8402,-123.2348,665,665,517,polygon,TRUE,America/Los_Angeles,98568
+Tukwila-WA,1840021120,Tukwila,Tukwila,WA,Tukwila-WA,Washington,53033,King,47.4749,-122.2727,20033,20033,843,polygon,TRUE,America/Los_Angeles,98108 98178 98168 98188 98138 98190
+Mabana-WA,1840037567,Mabana,Mabana,WA,Mabana-WA,Washington,53029,Island,48.0945,-122.4151,,,209,point,FALSE,America/Los_Angeles,98282
+Kangley-WA,1840037782,Kangley,Kangley,WA,Kangley-WA,Washington,53033,King,47.3618,-121.8801,,,49.9,point,FALSE,America/Los_Angeles,98051
+Clallam Bay-WA,1840025247,Clallam Bay,Clallam Bay,WA,Clallam Bay-WA,Washington,53009,Clallam,48.2536,-124.2579,,,313.1,polygon,FALSE,America/Los_Angeles,98326
+Newport-WA,1840019765,Newport,Newport,WA,Newport-WA,Washington,53051,Pend Oreille,48.1791,-117.0546,2608,2118,603,polygon,TRUE,America/Los_Angeles,99156
+Enetai-WA,1840023794,Enetai,Enetai,WA,Enetai-WA,Washington,53035,Kitsap,47.5884,-122.6056,,,540.5,polygon,FALSE,America/Los_Angeles,98310
+Clearview-WA,1840023773,Clearview,Clearview,WA,Clearview-WA,Washington,53061,Snohomish,47.8292,-122.1452,,,249.5,polygon,FALSE,America/Los_Angeles,98296 98012 98072
+Sahalee-WA,1840037883,Sahalee,Sahalee,WA,Sahalee-WA,Washington,53033,King,47.6348,-122.0554,,,602.5,point,FALSE,America/Los_Angeles,98074
+Yelm-WA,1840021146,Yelm,Yelm,WA,Yelm-WA,Washington,53067,Thurston,46.9398,-122.6261,16125,8915,605,polygon,TRUE,America/Los_Angeles,98576 98597
+Midway-WA,1840037574,Midway,Midway,WA,Midway-WA,Washington,53053,Pierce,47.3048,-122.5896,,,1083.6,point,FALSE,America/Los_Angeles,98335
+Olympia-WA,1840019865,Olympia,Olympia,WA,Olympia-WA,Washington,53067,Thurston,47.0417,-122.8958,194532,51202,1086,polygon,TRUE,America/Los_Angeles,98501 98502 98506 98504 98507 98508
+Endicott-WA,1840021137,Endicott,Endicott,WA,Endicott-WA,Washington,53075,Whitman,46.928,-117.6865,291,291,392,polygon,TRUE,America/Los_Angeles,99125
+Lind-WA,1840021134,Lind,Lind,WA,Lind-WA,Washington,53001,Adams,46.9706,-118.614,550,550,198,polygon,TRUE,America/Los_Angeles,99341
+Fife-WA,1840019853,Fife,Fife,WA,Fife-WA,Washington,53053,Pierce,47.2327,-122.3519,10103,10103,686,polygon,TRUE,America/Los_Angeles,98424
+Newport Hills-WA,1840037688,Newport Hills,Newport Hills,WA,Newport Hills-WA,Washington,53033,King,47.5409,-122.1765,,,1462.4,point,FALSE,America/Los_Angeles,98056
+Upper Preston-WA,1840037827,Upper Preston,Upper Preston,WA,Upper Preston-WA,Washington,53033,King,47.5051,-121.9076,,,153.1,point,FALSE,America/Los_Angeles,98027
+Pateros-WA,1840019763,Pateros,Pateros,WA,Pateros-WA,Washington,53047,Okanogan,48.0555,-119.9,688,688,541,polygon,TRUE,America/Los_Angeles,98846
+Nordland-WA,1840037579,Nordland,Nordland,WA,Nordland-WA,Washington,53031,Jefferson,48.0509,-122.691,,,72.6,point,FALSE,America/Los_Angeles,98358
+Tyler-WA,1840037721,Tyler,Tyler,WA,Tyler-WA,Washington,53063,Spokane,47.436,-117.7835,,,9.9,point,FALSE,America/Los_Angeles,99004
+Camden-WA,1840037533,Camden,Camden,WA,Camden-WA,Washington,53051,Pend Oreille,48.0474,-117.2399,,,18.4,point,FALSE,America/Los_Angeles,99009
+Rockport-WA,1840018365,Rockport,Rockport,WA,Rockport-WA,Washington,53057,Skagit,48.4854,-121.6065,,,144.1,polygon,FALSE,America/Los_Angeles,98283
+Port Orchard-WA,1840019821,Port Orchard,Port Orchard,WA,Port Orchard-WA,Washington,53035,Kitsap,47.516,-122.6616,13945,13945,556,polygon,TRUE,America/Los_Angeles,98366 98367
+Preston-WA,1840037806,Preston,Preston,WA,Preston-WA,Washington,53033,King,47.5237,-121.9271,,,160.2,point,FALSE,America/Los_Angeles,98027
+Tieton-WA,1840022319,Tieton,Tieton,WA,Tieton-WA,Washington,53077,Yakima,46.7027,-120.756,1276,1276,554,polygon,TRUE,America/Los_Angeles,98947
+Rochester-WA,1840018459,Rochester,Rochester,WA,Rochester-WA,Washington,53067,Thurston,46.8287,-123.0721,,,437,polygon,FALSE,America/Los_Angeles,98579
+Bingen-WA,1840018529,Bingen,Bingen,WA,Bingen-WA,Washington,53039,Klickitat,45.7151,-121.4695,722,722,449,polygon,TRUE,America/Los_Angeles,98605
+Harbour Pointe-WA,1840037871,Harbour Pointe,Harbour Pointe,WA,Harbour Pointe-WA,Washington,53061,Snohomish,47.8857,-122.3051,,,2484.9,point,FALSE,America/Los_Angeles,98275
+Wellpinit-WA,1840037726,Wellpinit,Wellpinit,WA,Wellpinit-WA,Washington,53065,Stevens,47.8879,-117.988,,,109.9,point,FALSE,America/Los_Angeles,99040
+Glacier-WA,1840017292,Glacier,Glacier,WA,Glacier-WA,Washington,53073,Whatcom,48.8902,-121.9323,,,18.9,polygon,FALSE,America/Los_Angeles,98244
+Farmington-WA,1840021140,Farmington,Farmington,WA,Farmington-WA,Washington,53075,Whitman,47.0887,-117.0464,156,156,176,polygon,TRUE,America/Los_Angeles,99128
+Eastsound-WA,1840037735,Eastsound,Eastsound,WA,Eastsound-WA,Washington,53055,San Juan,48.6968,-122.9055,,,386.6,point,FALSE,America/Los_Angeles,98245
+Central Park-WA,1840017358,Central Park,Central Park,WA,Central Park-WA,Washington,53027,Grays Harbor,46.9705,-123.7018,,,420.5,polygon,FALSE,America/Los_Angeles,98520
+Bremerton-WA,1840018410,Bremerton,Bremerton,WA,Bremerton-WA,Washington,53035,Kitsap,47.5436,-122.7121,214549,40675,552,polygon,TRUE,America/Los_Angeles,98310 98312 98314 98367 98337
+Friday Harbor-WA,1840021065,Friday Harbor,Friday Harbor,WA,Friday Harbor-WA,Washington,53055,San Juan,48.5324,-123.0656,2338,2338,425,polygon,TRUE,America/Los_Angeles,98250
+Carnation-WA,1840018421,Carnation,Carnation,WA,Carnation-WA,Washington,53033,King,47.6443,-121.9041,1995,1995,665,polygon,TRUE,America/Los_Angeles,98014
+Lake Shore-WA,1840037873,Lake Shore,Lake Shore,WA,Lake Shore-WA,Washington,53011,Clark,45.6911,-122.6912,,,2221.8,polygon,FALSE,America/Los_Angeles,98665 98685
+Houghton-WA,1840037664,Houghton,Houghton,WA,Houghton-WA,Washington,53033,King,47.6609,-122.206,,,2649,point,FALSE,America/Los_Angeles,98033
+Lake Cavanaugh-WA,1840037851,Lake Cavanaugh,Lake Cavanaugh,WA,Lake Cavanaugh-WA,Washington,53057,Skagit,48.3225,-122.0121,,,73.3,polygon,FALSE,America/Los_Angeles,98274
+Lake Stevens-WA,1840019794,Lake Stevens,Lake Stevens,WA,Lake Stevens-WA,Washington,53061,Snohomish,48.0028,-122.0964,31679,31679,1378,polygon,TRUE,America/Los_Angeles,98258 98205
+Mineral-WA,1840025263,Mineral,Mineral,WA,Mineral-WA,Washington,53041,Lewis,46.7193,-122.1859,,,160,polygon,FALSE,America/Los_Angeles,98355
+Lake Stickney-WA,1840037894,Lake Stickney,Lake Stickney,WA,Lake Stickney-WA,Washington,53061,Snohomish,47.8709,-122.2596,,,1569.6,polygon,FALSE,America/Los_Angeles,98087 98204
+Acme-WA,1840017288,Acme,Acme,WA,Acme-WA,Washington,53073,Whatcom,48.7146,-122.2293,,,82.2,polygon,FALSE,America/Los_Angeles,98220
+Oyehut-WA,1840037697,Oyehut,Oyehut,WA,Oyehut-WA,Washington,53027,Grays Harbor,47.0233,-124.1632,,,108.8,polygon,FALSE,America/Los_Angeles,98550
+Mossyrock-WA,1840019883,Mossyrock,Mossyrock,WA,Mossyrock-WA,Washington,53041,Lewis,46.5305,-122.4887,763,763,431,polygon,TRUE,America/Los_Angeles,98564
+Bridgeport-WA,1840018387,Bridgeport,Bridgeport,WA,Bridgeport-WA,Washington,53017,Douglas,48.0062,-119.6732,2509,2509,924,polygon,TRUE,America/Los_Angeles,98813
+Fobes Hill-WA,1840037736,Fobes Hill,Fobes Hill,WA,Fobes Hill-WA,Washington,53061,Snohomish,47.9392,-122.1341,,,235.5,polygon,FALSE,America/Los_Angeles,98290
+Rosario-WA,1840037708,Rosario,Rosario,WA,Rosario-WA,Washington,53055,San Juan,48.6487,-122.876,,,189.8,point,FALSE,America/Los_Angeles,98245
+Brewster-WA,1840018359,Brewster,Brewster,WA,Brewster-WA,Washington,53047,Okanogan,48.1034,-119.7758,2341,2341,762,polygon,TRUE,America/Los_Angeles,98812
+Fox Island-WA,1840037870,Fox Island,Fox Island,WA,Fox Island-WA,Washington,53053,Pierce,47.2475,-122.6255,,,241.2,polygon,FALSE,America/Los_Angeles,98333
+Canyon Park-WA,1840037626,Canyon Park,Canyon Park,WA,Canyon Park-WA,Washington,53061,Snohomish,47.7909,-122.1926,,,1282.8,point,FALSE,America/Los_Angeles,98021
+Rock Island-WA,1840019796,Rock Island,Rock Island,WA,Rock Island-WA,Washington,53017,Douglas,47.3738,-120.1369,932,932,581,polygon,TRUE,America/Los_Angeles,98850
+High Rock-WA,1840037774,High Rock,High Rock,WA,High Rock-WA,Washington,53061,Snohomish,47.8129,-121.9826,,,59.2,point,FALSE,America/Los_Angeles,98272
+Rockford-WA,1840021095,Rockford,Rockford,WA,Rockford-WA,Washington,53063,Spokane,47.4512,-117.1309,468,468,265,polygon,TRUE,America/Los_Angeles,99030
+Erlands Point-WA,1840037651,Erlands Point,Erlands Point,WA,Erlands Point-WA,Washington,53035,Kitsap,47.5998,-122.6929,,,1097.5,point,FALSE,America/Los_Angeles,98312
+Montesano-WA,1840019847,Montesano,Montesano,WA,Montesano-WA,Washington,53027,Grays Harbor,47.0108,-123.5868,8385,3912,142,polygon,TRUE,America/Los_Angeles,98563
+Gorst-WA,1840023795,Gorst,Gorst,WA,Gorst-WA,Washington,53035,Kitsap,47.5238,-122.7056,,,213.9,polygon,FALSE,America/Los_Angeles,98312 98367
+Johnson-WA,1840037669,Johnson,Johnson,WA,Johnson-WA,Washington,53075,Whitman,46.6316,-117.1379,,,12.8,point,FALSE,America/Los_Angeles,99113
+Alderton-WA,1840037523,Alderton,Alderton,WA,Alderton-WA,Washington,53053,Pierce,47.1718,-122.2192,,,208.1,polygon,FALSE,America/Los_Angeles,98390 98372 98374
+Dusty-WA,1840037642,Dusty,Dusty,WA,Dusty-WA,Washington,53075,Whitman,46.8102,-117.6519,,,2,point,FALSE,America/Los_Angeles,99143
+Tekoa-WA,1840021135,Tekoa,Tekoa,WA,Tekoa-WA,Washington,53075,Whitman,47.2254,-117.074,808,808,273,polygon,TRUE,America/Los_Angeles,99033
+Bay Center-WA,1840017375,Bay Center,Bay Center,WA,Bay Center-WA,Washington,53049,Pacific,46.6211,-123.9533,,,205,polygon,FALSE,America/Los_Angeles,98527
+La Center-WA,1840019910,La Center,La Center,WA,La Center-WA,Washington,53011,Clark,45.8585,-122.6752,3098,3144,548,polygon,TRUE,America/Los_Angeles,98629 98642
+Mazama-WA,1840037794,Mazama,Mazama,WA,Mazama-WA,Washington,53047,Okanogan,48.5921,-120.404,,,2.8,point,FALSE,America/Los_Angeles,98862
+Selleck-WA,1840037816,Selleck,Selleck,WA,Selleck-WA,Washington,53033,King,47.3757,-121.8684,,,89.9,point,FALSE,America/Los_Angeles,98051
+Amanda Park-WA,1840023816,Amanda Park,Amanda Park,WA,Amanda Park-WA,Washington,53027,Grays Harbor,47.4532,-123.9194,,,93.2,polygon,FALSE,America/Los_Angeles,98526
+Sequim-WA,1840021076,Sequim,Sequim,WA,Sequim-WA,Washington,53009,Clallam,48.0747,-123.0948,20330,6964,425,polygon,TRUE,America/Los_Angeles,98382
+Sunnydale-WA,1840037713,Sunnydale,Sunnydale,WA,Sunnydale-WA,Washington,53033,King,47.4632,-122.3337,,,2662.9,point,FALSE,America/Los_Angeles,98148
+Van Zandt-WA,1840037830,Van Zandt,Van Zandt,WA,Van Zandt-WA,Washington,53073,Whatcom,48.789,-122.1918,,,36.1,point,FALSE,America/Los_Angeles,98244
+McDonald-WA,1840037571,McDonald,McDonald,WA,McDonald-WA,Washington,53025,Grant,47.0713,-119.2156,,,20.1,point,FALSE,America/Los_Angeles,98837
+Moclips-WA,1840018442,Moclips,Moclips,WA,Moclips-WA,Washington,53027,Grays Harbor,47.2348,-124.2025,,,147.5,polygon,FALSE,America/Los_Angeles,98571 98562
+Ocean Park-WA,1840018468,Ocean Park,Ocean Park,WA,Ocean Park-WA,Washington,53049,Pacific,46.4961,-124.0443,,,162.8,polygon,FALSE,America/Los_Angeles,98640 98637
+West Valley-WA,1840037892,West Valley,West Valley,WA,West Valley-WA,Washington,53077,Yakima,46.5921,-120.6051,,,1455.1,point,FALSE,America/Los_Angeles,98908
+Thompson Place-WA,1840037716,Thompson Place,Thompson Place,WA,Thompson Place-WA,Washington,53067,Thurston,47.0554,-122.7835,,,1959.9,point,FALSE,America/Los_Angeles,98516
+Dungeness-WA,1840037641,Dungeness,Dungeness,WA,Dungeness-WA,Washington,53009,Clallam,48.1468,-123.1232,,,221.4,point,FALSE,America/Los_Angeles,98382
+Birch Bay-WA,1840017289,Birch Bay,Birch Bay,WA,Birch Bay-WA,Washington,53073,Whatcom,48.923,-122.7543,,,475.2,polygon,FALSE,America/Los_Angeles,98230
+Stratford-WA,1840037595,Stratford,Stratford,WA,Stratford-WA,Washington,53025,Grant,47.4268,-119.2816,,,15.5,point,FALSE,America/Los_Angeles,98851
+Ione-WA,1840021061,Ione,Ione,WA,Ione-WA,Washington,53051,Pend Oreille,48.7401,-117.4224,450,450,324,polygon,TRUE,America/Los_Angeles,99139
+Tacoma-WA,1840021129,Tacoma,Tacoma,WA,Tacoma-WA,Washington,53053,Pierce,47.2431,-122.4531,211277,211277,1640,polygon,TRUE,America/Los_Angeles,98422 98403 98404 98405 98408 98409 98402 98406 98407 98465 98418 98416 98444 98421 98401 98411 98412 98413 98415 98417 98419 98448 98471 98481 98490
+Barberton-WA,1840017397,Barberton,Barberton,WA,Barberton-WA,Washington,53011,Clark,45.7136,-122.6114,,,282.6,polygon,FALSE,America/Los_Angeles,98662 98686 98666 98668
+Yacolt-WA,1840022333,Yacolt,Yacolt,WA,Yacolt-WA,Washington,53011,Clark,45.8653,-122.4065,1690,1690,1304,polygon,TRUE,America/Los_Angeles,98675
+Coulee Dam-WA,1840022270,Coulee Dam,Coulee Dam,WA,Coulee Dam-WA,Washington,53047,Okanogan,47.9688,-118.9759,1090,1090,585,polygon,TRUE,America/Los_Angeles,99116
+Almota-WA,1840037524,Almota,Almota,WA,Almota-WA,Washington,53075,Whitman,46.7029,-117.4694,,,3.9,point,FALSE,America/Los_Angeles,99111
+Skamokawa-WA,1840037511,Skamokawa,Skamokawa,WA,Skamokawa-WA,Washington,53069,Wahkiakum,46.2704,-123.4571,,,34.6,point,FALSE,America/Los_Angeles,98647
+Woodinville-WA,1840021121,Woodinville,Woodinville,WA,Woodinville-WA,Washington,53033,King,47.7568,-122.1479,12000,12000,827,polygon,TRUE,America/Los_Angeles,98072
+Swinomish Village-WA,1840037887,Swinomish Village,Swinomish Village,WA,Swinomish Village-WA,Washington,53057,Skagit,48.4082,-122.5113,,,30.2,point,FALSE,America/Los_Angeles,98257
+Methow-WA,1840025237,Methow,Methow,WA,Methow-WA,Washington,53047,Okanogan,48.1289,-120.0056,,,43.4,polygon,FALSE,America/Los_Angeles,98834
+Bay View-WA,1840037745,Bay View,Bay View,WA,Bay View-WA,Washington,53057,Skagit,48.487,-122.4628,,,184.1,polygon,FALSE,America/Los_Angeles,98273
+Newaukum-WA,1840037578,Newaukum,Newaukum,WA,Newaukum-WA,Washington,53033,King,47.2573,-122.1018,,,106.4,point,FALSE,America/Los_Angeles,98092
+Meadow Glade-WA,1840018517,Meadow Glade,Meadow Glade,WA,Meadow Glade-WA,Washington,53011,Clark,45.7523,-122.5614,,,375.5,polygon,FALSE,America/Los_Angeles,98604
+Disautel-WA,1840023755,Disautel,Disautel,WA,Disautel-WA,Washington,53047,Okanogan,48.345,-119.2299,,,13.8,polygon,FALSE,America/Los_Angeles,98841
+Copalis Crossing-WA,1840037634,Copalis Crossing,Copalis Crossing,WA,Copalis Crossing-WA,Washington,53027,Grays Harbor,47.1079,-124.0693,,,34.6,point,FALSE,America/Los_Angeles,98550
+Burley-WA,1840023793,Burley,Burley,WA,Burley-WA,Washington,53035,Kitsap,47.4167,-122.6376,,,153.2,polygon,FALSE,America/Los_Angeles,98359 98367 98322
+Riverside-WA,1840021059,Riverside,Riverside,WA,Riverside-WA,Washington,53047,Okanogan,48.5046,-119.5109,268,268,106,polygon,TRUE,America/Los_Angeles,98849
+Ocean Shores-WA,1840019849,Ocean Shores,Ocean Shores,WA,Ocean Shores-WA,Washington,53027,Grays Harbor,46.9686,-124.1521,5463,5831,264,polygon,TRUE,America/Los_Angeles,98569
+Bethel-WA,1840023792,Bethel,Bethel,WA,Bethel-WA,Washington,53035,Kitsap,47.4874,-122.6176,,,738.3,polygon,FALSE,America/Los_Angeles,98367
+South Hill-WA,1840037886,South Hill,South Hill,WA,South Hill-WA,Washington,53053,Pierce,47.1203,-122.2848,,,2183.6,polygon,FALSE,America/Los_Angeles,98375 98374 98373
+Baring-WA,1840017339,Baring,Baring,WA,Baring-WA,Washington,53033,King,47.7661,-121.4803,,,122.6,polygon,FALSE,America/Los_Angeles,98224
+Winona-WA,1840037514,Winona,Winona,WA,Winona-WA,Washington,53075,Whitman,46.9457,-117.8005,,,9.3,point,FALSE,America/Los_Angeles,99125
+Leadpoint-WA,1840037784,Leadpoint,Leadpoint,WA,Leadpoint-WA,Washington,53065,Stevens,48.9094,-117.5875,,,6.3,point,FALSE,America/Los_Angeles,99114
+Brooklyn-WA,1840037531,Brooklyn,Brooklyn,WA,Brooklyn-WA,Washington,53049,Pacific,46.7762,-123.5099,,,12.8,point,FALSE,America/Los_Angeles,98537
+Mansfield-WA,1840022286,Mansfield,Mansfield,WA,Mansfield-WA,Washington,53017,Douglas,47.8118,-119.6384,334,334,421,polygon,TRUE,America/Los_Angeles,98830
+Esperance-WA,1840037867,Esperance,Esperance,WA,Esperance-WA,Washington,53061,Snohomish,47.7937,-122.3468,,,2544.1,polygon,FALSE,America/Los_Angeles,98026
+Springdale-WA,1840022275,Springdale,Springdale,WA,Springdale-WA,Washington,53065,Stevens,48.0572,-117.7466,276,276,93,polygon,TRUE,America/Los_Angeles,99173
+Okanogan-WA,1840019760,Okanogan,Okanogan,WA,Okanogan-WA,Washington,53047,Okanogan,48.3683,-119.5775,2561,2561,496,polygon,TRUE,America/Los_Angeles,98840
+Cedar Mountain-WA,1840037535,Cedar Mountain,Cedar Mountain,WA,Cedar Mountain-WA,Washington,53033,King,47.4482,-122.0732,,,41.6,point,FALSE,America/Los_Angeles,98038
+Moses Lake-WA,1840019817,Moses Lake,Moses Lake,WA,Moses Lake-WA,Washington,53025,Grant,47.1276,-119.2762,36662,22641,487,polygon,TRUE,America/Los_Angeles,98837
+Littlerock-WA,1840037679,Littlerock,Littlerock,WA,Littlerock-WA,Washington,53067,Thurston,46.9018,-123.0179,,,113.8,point,FALSE,America/Los_Angeles,98512
+Trentwood-WA,1840037718,Trentwood,Trentwood,WA,Trentwood-WA,Washington,53063,Spokane,47.6966,-117.2108,,,989.6,point,FALSE,America/Los_Angeles,99216
+Mabton-WA,1840019873,Mabton,Mabton,WA,Mabton-WA,Washington,53077,Yakima,46.2115,-119.9937,2544,2295,1068,polygon,TRUE,America/Los_Angeles,98935
+Klickitat-WA,1840017404,Klickitat,Klickitat,WA,Klickitat-WA,Washington,53039,Klickitat,45.818,-121.1626,,,99.3,polygon,FALSE,America/Los_Angeles,98628
+Puyallup-WA,1840019859,Puyallup,Puyallup,WA,Puyallup-WA,Washington,53053,Pierce,47.1794,-122.2901,40640,40640,1109,polygon,TRUE,America/Los_Angeles,98372 98374 98373 98371 98352
+Cinebar-WA,1840037756,Cinebar,Cinebar,WA,Cinebar-WA,Washington,53041,Lewis,46.6043,-122.5318,,,17.8,point,FALSE,America/Los_Angeles,98533
+San de Fuca-WA,1840037739,San de Fuca,San de Fuca,WA,San de Fuca-WA,Washington,53029,Island,48.2351,-122.7232,,,125.8,point,FALSE,America/Los_Angeles,98277
+Cathlamet-WA,1840022327,Cathlamet,Cathlamet,WA,Cathlamet-WA,Washington,53069,Wahkiakum,46.2058,-123.3836,545,545,431,polygon,TRUE,America/Los_Angeles,98612
+Richardson-WA,1840037585,Richardson,Richardson,WA,Richardson-WA,Washington,53055,San Juan,48.4515,-122.8988,,,20.7,point,FALSE,America/Los_Angeles,98261
+Sumner-WA,1840021128,Sumner,Sumner,WA,Sumner-WA,Washington,53053,Pierce,47.219,-122.2337,9969,9969,512,polygon,TRUE,America/Los_Angeles,98390
+Davenport-WA,1840018404,Davenport,Davenport,WA,Davenport-WA,Washington,53043,Lincoln,47.6562,-118.1519,1688,1688,358,polygon,TRUE,America/Los_Angeles,99122
+Cliffdell-WA,1840023851,Cliffdell,Cliffdell,WA,Cliffdell-WA,Washington,53077,Yakima,46.9214,-121.042,,,23.1,polygon,FALSE,America/Los_Angeles,98937
+Fall City-WA,1840017342,Fall City,Fall City,WA,Fall City-WA,Washington,53033,King,47.5717,-121.9134,,,150.2,polygon,FALSE,America/Los_Angeles,98024
+Dockton-WA,1840037639,Dockton,Dockton,WA,Dockton-WA,Washington,53033,King,47.3718,-122.4593,,,252.2,point,FALSE,America/Los_Angeles,98070
+Conway-WA,1840017311,Conway,Conway,WA,Conway-WA,Washington,53057,Skagit,48.3356,-122.3444,,,122.3,polygon,FALSE,America/Los_Angeles,98238
+Marshall-WA,1840037516,Marshall,Marshall,WA,Marshall-WA,Washington,53063,Spokane,47.5649,-117.4994,,,186.8,point,FALSE,America/Los_Angeles,99224
+Walla Walla-WA,1840021174,Walla Walla,Walla Walla,WA,Walla Walla-WA,Washington,53071,Walla Walla,46.0678,-118.3364,56509,32132,969,polygon,TRUE,America/Los_Angeles,99362
+Canterwood-WA,1840037842,Canterwood,Canterwood,WA,Canterwood-WA,Washington,53053,Pierce,47.3765,-122.6022,,,275,polygon,FALSE,America/Los_Angeles,98332
+Lexington-WA,1840037677,Lexington,Lexington,WA,Lexington-WA,Washington,53015,Cowlitz,46.1873,-122.9054,,,1164.3,point,FALSE,America/Los_Angeles,98626
+Country Homes-WA,1840017334,Country Homes,Country Homes,WA,Country Homes-WA,Washington,53063,Spokane,47.7478,-117.4196,,,1113.3,polygon,FALSE,America/Los_Angeles,99208 99218 99251
+Altoona-WA,1840023875,Altoona,Altoona,WA,Altoona-WA,Washington,53069,Wahkiakum,46.2699,-123.6145,,,3.4,polygon,FALSE,America/Los_Angeles,98643
+South Cle Elum-WA,1840022304,South Cle Elum,South Cle Elum,WA,South Cle Elum-WA,Washington,53037,Kittitas,47.1859,-120.9522,547,547,535,polygon,TRUE,America/Los_Angeles,98943 98922
+Waldron-WA,1840037599,Waldron,Waldron,WA,Waldron-WA,Washington,53055,San Juan,48.6876,-123.0369,,,7.8,point,FALSE,America/Los_Angeles,98297
+Chesaw-WA,1840037754,Chesaw,Chesaw,WA,Chesaw-WA,Washington,53047,Okanogan,48.946,-119.0514,,,26.2,point,FALSE,America/Los_Angeles,98844
+Sunnyslope-WA,1840023968,Sunnyslope,Sunnyslope,WA,Sunnyslope-WA,Washington,53035,Kitsap,47.5045,-122.729,,,523.8,point,FALSE,America/Los_Angeles,98148
+Olympic View-WA,1840037692,Olympic View,Olympic View,WA,Olympic View-WA,Washington,53035,Kitsap,47.694,-122.7404,,,220.8,point,FALSE,America/Los_Angeles,98383
+Hood-WA,1840037555,Hood,Hood,WA,Hood-WA,Washington,53059,Skamania,45.7248,-121.5581,,,7.4,point,FALSE,America/Los_Angeles,98651
+Elbe-WA,1840017364,Elbe,Elbe,WA,Elbe-WA,Washington,53053,Pierce,46.7653,-122.1946,,,136.4,polygon,FALSE,America/Los_Angeles,98330
+Venice-WA,1840037722,Venice,Venice,WA,Venice-WA,Washington,53035,Kitsap,47.667,-122.5799,,,421.9,point,FALSE,America/Los_Angeles,98110
+Cumberland-WA,1840037759,Cumberland,Cumberland,WA,Cumberland-WA,Washington,53033,King,47.2829,-121.9271,,,136.6,point,FALSE,America/Los_Angeles,98022
+Ostrander-WA,1840037695,Ostrander,Ostrander,WA,Ostrander-WA,Washington,53015,Cowlitz,46.1926,-122.8921,,,127,point,FALSE,America/Los_Angeles,98626
+Cohassett Beach-WA,1840017355,Cohassett Beach,Cohassett Beach,WA,Cohassett Beach-WA,Washington,53027,Grays Harbor,46.8655,-124.1053,,,386.7,polygon,FALSE,America/Los_Angeles,98595
+Deming-WA,1840018345,Deming,Deming,WA,Deming-WA,Washington,53073,Whatcom,48.8381,-122.2313,,,52.9,polygon,FALSE,America/Los_Angeles,98247 98244
+Sekiu-WA,1840025248,Sekiu,Sekiu,WA,Sekiu-WA,Washington,53009,Clallam,48.2637,-124.3012,,,88.6,polygon,FALSE,America/Los_Angeles,98381
+Terrace Heights-WA,1840018465,Terrace Heights,Terrace Heights,WA,Terrace Heights-WA,Washington,53077,Yakima,46.6022,-120.4474,,,529.5,polygon,FALSE,America/Los_Angeles,98901
+Nemah-WA,1840037577,Nemah,Nemah,WA,Nemah-WA,Washington,53049,Pacific,46.512,-123.886,,,2.6,point,FALSE,America/Los_Angeles,98586
+Neilton-WA,1840018443,Neilton,Neilton,WA,Neilton-WA,Washington,53027,Grays Harbor,47.4031,-123.8782,,,16.7,polygon,FALSE,America/Los_Angeles,98552 98575 98566
+Grays River-WA,1840023877,Grays River,Grays River,WA,Grays River-WA,Washington,53069,Wahkiakum,46.3607,-123.5892,,,11.3,polygon,FALSE,America/Los_Angeles,98621
+Ashford-WA,1840017363,Ashford,Ashford,WA,Ashford-WA,Washington,53053,Pierce,46.7537,-122.0113,,,37.1,polygon,FALSE,America/Los_Angeles,98304
+Boistfort-WA,1840037530,Boistfort,Boistfort,WA,Boistfort-WA,Washington,53041,Lewis,46.5351,-123.1337,,,22.6,point,FALSE,America/Los_Angeles,98532
+Almira-WA,1840021108,Almira,Almira,WA,Almira-WA,Washington,53043,Lincoln,47.7105,-118.9369,267,267,198,polygon,TRUE,America/Los_Angeles,99103
+Bothell-WA,1840018419,Bothell,Bothell,WA,Bothell-WA,Washington,53033,King,47.774,-122.2039,44546,44546,1291,polygon,TRUE,America/Los_Angeles,98021 98011
+South Broadway-WA,1840037885,South Broadway,South Broadway,WA,South Broadway-WA,Washington,53077,Yakima,46.5662,-120.5167,,,290.7,point,FALSE,America/Los_Angeles,98903
+Edwall-WA,1840037646,Edwall,Edwall,WA,Edwall-WA,Washington,53043,Lincoln,47.5046,-117.9511,,,54.2,point,FALSE,America/Los_Angeles,99008
+Georgetown-WA,1840037766,Georgetown,Georgetown,WA,Georgetown-WA,Washington,53033,King,47.3576,-121.9737,,,12.4,point,FALSE,America/Los_Angeles,98051
+Maryhill-WA,1840017403,Maryhill,Maryhill,WA,Maryhill-WA,Washington,53039,Klickitat,45.6928,-120.807,,,28.9,polygon,FALSE,America/Los_Angeles,98620
+Huntsville-WA,1840037666,Huntsville,Huntsville,WA,Huntsville-WA,Washington,53013,Columbia,46.2871,-118.1072,,,12.7,point,FALSE,America/Los_Angeles,99328
+Greenbank-WA,1840037497,Greenbank,Greenbank,WA,Greenbank-WA,Washington,53029,Island,48.0982,-122.5729,,,96.8,point,FALSE,America/Los_Angeles,98253
+Murphys Corner-WA,1840037503,Murphys Corner,Murphys Corner,WA,Murphys Corner-WA,Washington,53061,Snohomish,47.8782,-122.2068,,,1343.5,point,FALSE,America/Los_Angeles,98012
+Tokeland-WA,1840018469,Tokeland,Tokeland,WA,Tokeland-WA,Washington,53049,Pacific,46.709,-123.9839,,,118.4,polygon,FALSE,America/Los_Angeles,98590
+Felida-WA,1840037495,Felida,Felida,WA,Felida-WA,Washington,53011,Clark,45.7138,-122.7103,,,1377,polygon,FALSE,America/Los_Angeles,98685
+Fairview-WA,1840037652,Fairview,Fairview,WA,Fairview-WA,Washington,53035,Kitsap,47.6215,-122.6685,,,623.2,point,FALSE,America/Los_Angeles,98311
+Tumwater-WA,1840021145,Tumwater,Tumwater,WA,Tumwater-WA,Washington,53067,Thurston,46.9925,-122.9227,22538,22538,605,polygon,TRUE,America/Los_Angeles,98501 98512 98511
+Uniontown-WA,1840022316,Uniontown,Uniontown,WA,Uniontown-WA,Washington,53075,Whitman,46.539,-117.0862,333,333,138,polygon,TRUE,America/Los_Angeles,99179
+Coupeville-WA,1840021075,Coupeville,Coupeville,WA,Coupeville-WA,Washington,53029,Island,48.2172,-122.6778,1920,1920,599,polygon,TRUE,America/Los_Angeles,98239
+River Road-WA,1840037861,River Road,River Road,WA,River Road-WA,Washington,53009,Clallam,48.0677,-123.1276,,,502.2,polygon,FALSE,America/Los_Angeles,98382
+Duvall-WA,1840018427,Duvall,Duvall,WA,Duvall-WA,Washington,53033,King,47.7354,-121.9726,7701,7701,1214,polygon,TRUE,America/Los_Angeles,98019
+Marcus-WA,1840022273,Marcus,Marcus,WA,Marcus-WA,Washington,53065,Stevens,48.6643,-118.06,187,187,325,polygon,TRUE,America/Los_Angeles,99126 99151
+Seattle Heights-WA,1840037711,Seattle Heights,Seattle Heights,WA,Seattle Heights-WA,Washington,53061,Snohomish,47.8104,-122.324,,,3537.2,point,FALSE,America/Los_Angeles,98036
+Strandell-WA,1840037594,Strandell,Strandell,WA,Strandell-WA,Washington,53073,Whatcom,48.9121,-122.3582,,,984.7,point,FALSE,America/Los_Angeles,98247
+Key Center-WA,1840023833,Key Center,Key Center,WA,Key Center-WA,Washington,53053,Pierce,47.3376,-122.7506,,,98.2,polygon,FALSE,America/Los_Angeles,98349 98394 98329 98395
+Grand Mound-WA,1840017366,Grand Mound,Grand Mound,WA,Grand Mound-WA,Washington,53067,Thurston,46.8051,-123.0119,,,112.2,polygon,FALSE,America/Los_Angeles,98579 98531
+Taholah-WA,1840018447,Taholah,Taholah,WA,Taholah-WA,Washington,53027,Grays Harbor,47.3283,-124.2728,,,600.2,polygon,FALSE,America/Los_Angeles,98587
+Port Blakely-WA,1840037582,Port Blakely,Port Blakely,WA,Port Blakely-WA,Washington,53035,Kitsap,47.5973,-122.5101,,,176.8,point,FALSE,America/Los_Angeles,98110
+Malone-WA,1840026097,Malone,Malone,WA,Malone-WA,Washington,53027,Grays Harbor,46.9779,-123.3035,,,179.4,polygon,FALSE,America/Los_Angeles,98559 98541
+Boston Harbor-WA,1840037622,Boston Harbor,Boston Harbor,WA,Boston Harbor-WA,Washington,53067,Thurston,47.1384,-122.901,,,526.9,point,FALSE,America/Los_Angeles,98506
+Rainier-WA,1840021147,Rainier,Rainier,WA,Rainier-WA,Washington,53067,Thurston,46.8917,-122.6866,2011,2011,448,polygon,TRUE,America/Los_Angeles,98576
+Menlo-WA,1840037683,Menlo,Menlo,WA,Menlo-WA,Washington,53049,Pacific,46.6215,-123.6471,,,53.3,point,FALSE,America/Los_Angeles,98577
+Azwell-WA,1840037744,Azwell,Azwell,WA,Azwell-WA,Washington,53007,Chelan,47.9371,-119.8765,,,14,point,FALSE,America/Los_Angeles,98816
+Glendale-WA,1840037658,Glendale,Glendale,WA,Glendale-WA,Washington,53029,Island,47.9395,-122.3585,,,43.4,point,FALSE,America/Los_Angeles,98236
+Monroe-WA,1840019791,Monroe,Monroe,WA,Monroe-WA,Washington,53061,Snohomish,47.8594,-121.9854,18408,18408,1175,polygon,TRUE,America/Los_Angeles,98272
+Sawyer-WA,1840037587,Sawyer,Sawyer,WA,Sawyer-WA,Washington,53077,Yakima,46.4565,-120.3614,,,27.2,point,FALSE,America/Los_Angeles,98951
+Clarkston-WA,1840018499,Clarkston,Clarkston,WA,Clarkston-WA,Washington,53003,Asotin,46.4154,-117.0501,7341,7341,1411,polygon,TRUE,America/Los_Angeles,99403
+Spanaway-WA,1840018451,Spanaway,Spanaway,WA,Spanaway-WA,Washington,53053,Pierce,47.0979,-122.4233,,,1279.8,polygon,FALSE,America/Los_Angeles,98387 98445
+Gig Harbor-WA,1840019855,Gig Harbor,Gig Harbor,WA,Gig Harbor-WA,Washington,53053,Pierce,47.335,-122.5966,9110,9110,590,polygon,TRUE,America/Los_Angeles,98332 98335
+Big Lake-WA,1840017313,Big Lake,Big Lake,WA,Big Lake-WA,Washington,53057,Skagit,48.3933,-122.2422,,,36.4,polygon,FALSE,America/Los_Angeles,98274
+Smyrna-WA,1840037592,Smyrna,Smyrna,WA,Smyrna-WA,Washington,53025,Grant,46.8393,-119.6623,,,1.3,point,FALSE,America/Los_Angeles,99357
+Carlton-WA,1840037751,Carlton,Carlton,WA,Carlton-WA,Washington,53047,Okanogan,48.2482,-120.1162,,,24.6,point,FALSE,America/Los_Angeles,98814
+Monitor-WA,1840037797,Monitor,Monitor,WA,Monitor-WA,Washington,53007,Chelan,47.4868,-120.4181,,,176.4,point,FALSE,America/Los_Angeles,98836
+Des Moines-WA,1840018426,Des Moines,Des Moines,WA,Des Moines-WA,Washington,53033,King,47.3914,-122.3154,31172,31172,1853,polygon,TRUE,America/Los_Angeles,98148 98198
+Carlisle-WA,1840037750,Carlisle,Carlisle,WA,Carlisle-WA,Washington,53027,Grays Harbor,47.1548,-124.0985,,,2,point,FALSE,America/Los_Angeles,98536
+Metaline Falls-WA,1840022277,Metaline Falls,Metaline Falls,WA,Metaline Falls-WA,Washington,53051,Pend Oreille,48.8616,-117.3707,242,242,436,polygon,TRUE,America/Los_Angeles,99153
+Breidablick-WA,1840037623,Breidablick,Breidablick,WA,Breidablick-WA,Washington,53035,Kitsap,47.802,-122.6493,,,92,point,FALSE,America/Los_Angeles,98370
+Snohomish-WA,1840021078,Snohomish,Snohomish,WA,Snohomish-WA,Washington,53061,Snohomish,47.9277,-122.0971,9915,9915,1106,polygon,TRUE,America/Los_Angeles,98290 98291
+Richland-WA,1840019889,Richland,Richland,WA,Richland-WA,Washington,53005,Benton,46.2828,-119.2939,54989,54989,546,polygon,TRUE,America/Los_Angeles,99352 99354
+Parkland-WA,1840018453,Parkland,Parkland,WA,Parkland-WA,Washington,53053,Pierce,47.1417,-122.4376,,,2215.1,polygon,FALSE,America/Los_Angeles,98444 98445 98447
+Veradale-WA,1840037723,Veradale,Veradale,WA,Veradale-WA,Washington,53063,Spokane,47.6568,-117.1963,,,1727.4,point,FALSE,America/Los_Angeles,99037
+Kummer-WA,1840037561,Kummer,Kummer,WA,Kummer-WA,Washington,53033,King,47.2868,-122.0212,,,134.9,point,FALSE,America/Los_Angeles,98010
+Woodland-WA,1840021181,Woodland,Woodland,WA,Woodland-WA,Washington,53015,Cowlitz,45.9147,-122.7503,6333,5952,568,polygon,TRUE,America/Los_Angeles,98674
+Washougal-WA,1840021190,Washougal,Washougal,WA,Washougal-WA,Washington,53011,Clark,45.5812,-122.3433,15466,15466,1092,polygon,TRUE,America/Los_Angeles,98671
+Boyds-WA,1840026091,Boyds,Boyds,WA,Boyds-WA,Washington,53019,Ferry,48.7244,-118.1322,,,33.4,polygon,FALSE,America/Los_Angeles,99141
+Bonney Lake-WA,1840018454,Bonney Lake,Bonney Lake,WA,Bonney Lake-WA,Washington,53053,Pierce,47.1789,-122.1698,20310,20310,987,polygon,TRUE,America/Los_Angeles,98391
+South Prairie-WA,1840022308,South Prairie,South Prairie,WA,South Prairie-WA,Washington,53053,Pierce,47.1373,-122.094,435,435,433,polygon,TRUE,America/Los_Angeles,98385
+Larimers Corner-WA,1840037564,Larimers Corner,Larimers Corner,WA,Larimers Corner-WA,Washington,53061,Snohomish,47.8918,-122.1446,,,72.4,point,FALSE,America/Los_Angeles,98296
+Porter-WA,1840023818,Porter,Porter,WA,Porter-WA,Washington,53027,Grays Harbor,46.9489,-123.2736,,,32.5,polygon,FALSE,America/Los_Angeles,98541
+Lisabeula-WA,1840037565,Lisabeula,Lisabeula,WA,Lisabeula-WA,Washington,53033,King,47.4073,-122.5176,,,73,point,FALSE,America/Los_Angeles,98070
+Saint John-WA,1840021139,Saint John,Saint John,WA,Saint John-WA,Washington,53075,Whitman,47.0912,-117.5883,558,558,335,polygon,TRUE,America/Los_Angeles,99171
+Spokane Valley-WA,1840021094,Spokane Valley,Spokane Valley,WA,Spokane Valley-WA,Washington,53063,Spokane,47.6625,-117.2345,96340,96340,986,polygon,TRUE,America/Los_Angeles,99206 99016 99212 99216 99037 99211 99213 99215
+Bellevue-WA,1840018417,Bellevue,Bellevue,WA,Bellevue-WA,Washington,53033,King,47.5953,-122.155,141400,141400,1630,polygon,TRUE,America/Los_Angeles,98004 98005 98006 98007 98008 98009 98015
+Custer-WA,1840018344,Custer,Custer,WA,Custer-WA,Washington,53073,Whatcom,48.9143,-122.6397,,,128.4,polygon,FALSE,America/Los_Angeles,98240 98248
+Orcas-WA,1840037694,Orcas,Orcas,WA,Orcas-WA,Washington,53055,San Juan,48.5979,-122.9446,,,73.7,point,FALSE,America/Los_Angeles,98280
+Diablo-WA,1840037762,Diablo,Diablo,WA,Diablo-WA,Washington,53073,Whatcom,48.7135,-121.1412,,,30.7,point,FALSE,America/Los_Angeles,98283
+Christopher-WA,1840037539,Christopher,Christopher,WA,Christopher-WA,Washington,53033,King,47.334,-122.2321,,,11.5,point,FALSE,America/Los_Angeles,98001
+Midvale Corner-WA,1840037573,Midvale Corner,Midvale Corner,WA,Midvale Corner-WA,Washington,53029,Island,47.9926,-122.4176,,,75.9,point,FALSE,America/Los_Angeles,98236
+Marysville-WA,1840019789,Marysville,Marysville,WA,Marysville-WA,Washington,53061,Snohomish,48.0812,-122.1559,163547,67626,1261,polygon,TRUE,America/Los_Angeles,98271 98270
+Newcastle-WA,1840019831,Newcastle,Newcastle,WA,Newcastle-WA,Washington,53033,King,47.5304,-122.1633,11567,11567,1004,polygon,TRUE,America/Los_Angeles,98059 98056
+North Bend-WA,1840019833,North Bend,North Bend,WA,North Bend-WA,Washington,53033,King,47.4899,-121.7741,6739,6739,594,polygon,TRUE,America/Los_Angeles,98045
+Three Lakes-WA,1840018375,Three Lakes,Three Lakes,WA,Three Lakes-WA,Washington,53061,Snohomish,47.942,-121.9924,,,110.4,polygon,FALSE,America/Los_Angeles,98290
+Kendall-WA,1840017293,Kendall,Kendall,WA,Kendall-WA,Washington,53073,Whatcom,48.9167,-122.1381,,,146.2,polygon,FALSE,America/Los_Angeles,98244 98266
+Kanaskat-WA,1840037781,Kanaskat,Kanaskat,WA,Kanaskat-WA,Washington,53033,King,47.3204,-121.8937,,,112.1,point,FALSE,America/Los_Angeles,98051
+Wilbur-WA,1840022296,Wilbur,Wilbur,WA,Wilbur-WA,Washington,53043,Lincoln,47.7579,-118.7144,835,835,229,polygon,TRUE,America/Los_Angeles,99185
+Enumclaw-WA,1840019825,Enumclaw,Enumclaw,WA,Enumclaw-WA,Washington,53033,King,47.2018,-121.9898,11654,11654,872,polygon,TRUE,America/Los_Angeles,98022
+Nile-WA,1840023854,Nile,Nile,WA,Nile-WA,Washington,53077,Yakima,46.8368,-120.9455,,,49.4,polygon,FALSE,America/Los_Angeles,98937
+Alderwood Manor-WA,1840017323,Alderwood Manor,Alderwood Manor,WA,Alderwood Manor-WA,Washington,53061,Snohomish,47.8145,-122.2676,,,636.6,polygon,FALSE,America/Los_Angeles,98036
+Clarkston Heights-WA,1840037631,Clarkston Heights,Clarkston Heights,WA,Clarkston Heights-WA,Washington,53003,Asotin,46.3963,-117.0824,,,545.3,point,FALSE,America/Los_Angeles,99403
+Pacific Beach-WA,1840023817,Pacific Beach,Pacific Beach,WA,Pacific Beach-WA,Washington,53027,Grays Harbor,47.215,-124.1967,,,157.8,polygon,FALSE,America/Los_Angeles,98571
+Napavine-WA,1840019884,Napavine,Napavine,WA,Napavine-WA,Washington,53041,Lewis,46.5856,-122.9043,1868,1868,303,polygon,TRUE,America/Los_Angeles,98565 98532
+Hatton-WA,1840021133,Hatton,Hatton,WA,Hatton-WA,Washington,53001,Adams,46.7736,-118.8276,100,100,103,polygon,TRUE,America/Los_Angeles,99344
+Shelton-WA,1840021123,Shelton,Shelton,WA,Shelton-WA,Washington,53045,Mason,47.2186,-123.1128,18981,9980,669,polygon,TRUE,America/Los_Angeles,98584
+Chimacum-WA,1840037755,Chimacum,Chimacum,WA,Chimacum-WA,Washington,53031,Jefferson,48.0109,-122.7688,,,66.9,point,FALSE,America/Los_Angeles,98325
+Naselle-WA,1840018467,Naselle,Naselle,WA,Naselle-WA,Washington,53049,Pacific,46.365,-123.8013,,,126.2,polygon,FALSE,America/Los_Angeles,98638
+Grotto-WA,1840037772,Grotto,Grotto,WA,Grotto-WA,Washington,53033,King,47.7362,-121.4234,,,45.9,point,FALSE,America/Los_Angeles,98224
+Bellingham-WA,1840018346,Bellingham,Bellingham,WA,Bellingham-WA,Washington,53073,Whatcom,48.7534,-122.4683,123933,87574,1249,polygon,TRUE,America/Los_Angeles,98229 98225 98226 98228
+Castle Rock-WA,1840018501,Castle Rock,Castle Rock,WA,Castle Rock-WA,Washington,53015,Cowlitz,46.2717,-122.9056,2805,2212,428,polygon,TRUE,America/Los_Angeles,98611
+Pine City-WA,1840037700,Pine City,Pine City,WA,Pine City-WA,Washington,53075,Whitman,47.2024,-117.5244,,,17,point,FALSE,America/Los_Angeles,99170
+Nooksack-WA,1840019753,Nooksack,Nooksack,WA,Nooksack-WA,Washington,53073,Whatcom,48.9276,-122.3213,1525,1525,835,polygon,TRUE,America/Los_Angeles,98247 98276
+Elma-WA,1840019844,Elma,Elma,WA,Elma-WA,Washington,53027,Grays Harbor,47.007,-123.4049,3053,3053,623,polygon,TRUE,America/Los_Angeles,98541
+Kenmore-WA,1840018423,Kenmore,Kenmore,WA,Kenmore-WA,Washington,53033,King,47.7531,-122.246,22357,22357,1400,polygon,TRUE,America/Los_Angeles,98028
+Ellensburg-WA,1840019841,Ellensburg,Ellensburg,WA,Ellensburg-WA,Washington,53037,Kittitas,47.001,-120.5491,22847,19786,1086,polygon,TRUE,America/Los_Angeles,98926
+Belmont-WA,1840037733,Belmont,Belmont,WA,Belmont-WA,Washington,53075,Whitman,47.0879,-117.1624,,,1.1,point,FALSE,America/Los_Angeles,99158
+DuPont-WA,1840018457,DuPont,DuPont,WA,DuPont-WA,Washington,53053,Pierce,47.1079,-122.6496,9497,9497,625,polygon,TRUE,America/Los_Angeles,98327
+Long Beach-WA,1840019880,Long Beach,Long Beach,WA,Long Beach-WA,Washington,53049,Pacific,46.3555,-124.0557,1389,1389,397,polygon,TRUE,America/Los_Angeles,98631
+Seabeck-WA,1840023799,Seabeck,Seabeck,WA,Seabeck-WA,Washington,53035,Kitsap,47.6437,-122.8219,,,63.4,polygon,FALSE,America/Los_Angeles,98380
+Granite Falls-WA,1840019787,Granite Falls,Granite Falls,WA,Granite Falls-WA,Washington,53061,Snohomish,48.0874,-121.9705,6421,3525,621,polygon,TRUE,America/Los_Angeles,98252
+Tonasket-WA,1840021057,Tonasket,Tonasket,WA,Tonasket-WA,Washington,53047,Okanogan,48.7087,-119.4431,1013,1013,487,polygon,TRUE,America/Los_Angeles,98855
+Otis Orchards-WA,1840037696,Otis Orchards,Otis Orchards,WA,Otis Orchards-WA,Washington,53063,Spokane,47.7005,-117.1063,,,588.9,point,FALSE,America/Los_Angeles,99027
+Milton-WA,1840019857,Milton,Milton,WA,Milton-WA,Washington,53053,Pierce,47.2522,-122.3153,7970,7970,1172,polygon,TRUE,America/Los_Angeles,98354
+West Pasco-WA,1840037891,West Pasco,West Pasco,WA,West Pasco-WA,Washington,53021,Franklin,46.2522,-119.1842,,,340.9,polygon,FALSE,America/Los_Angeles,99301
+Badger-WA,1840037527,Badger,Badger,WA,Badger-WA,Washington,53005,Benton,46.2001,-119.3595,,,118.7,point,FALSE,America/Los_Angeles,99320
+Lamont-WA,1840021142,Lamont,Lamont,WA,Lamont-WA,Washington,53075,Whitman,47.2003,-117.905,73,73,97,polygon,TRUE,America/Los_Angeles,99017
+Ravensdale-WA,1840018412,Ravensdale,Ravensdale,WA,Ravensdale-WA,Washington,53033,King,47.3563,-121.9692,,,359.3,polygon,FALSE,America/Los_Angeles,98051 98038
+Rollingbay-WA,1840037508,Rollingbay,Rollingbay,WA,Rollingbay-WA,Washington,53035,Kitsap,47.6645,-122.5101,,,473,point,FALSE,America/Los_Angeles,98110
+Rocky Point-WA,1840037507,Rocky Point,Rocky Point,WA,Rocky Point-WA,Washington,53035,Kitsap,47.5877,-122.6665,,,856.8,polygon,FALSE,America/Los_Angeles,98312
+Garrett-WA,1840017384,Garrett,Garrett,WA,Garrett-WA,Washington,53071,Walla Walla,46.0634,-118.3863,,,376.6,polygon,FALSE,America/Los_Angeles,99362
+Grayland-WA,1840017360,Grayland,Grayland,WA,Grayland-WA,Washington,53027,Grays Harbor,46.8304,-124.0898,,,282.6,polygon,FALSE,America/Los_Angeles,98547
+Gilberton-WA,1840037657,Gilberton,Gilberton,WA,Gilberton-WA,Washington,53035,Kitsap,47.639,-122.6049,,,840.3,point,FALSE,America/Los_Angeles,98311
+Withrow-WA,1840037728,Withrow,Withrow,WA,Withrow-WA,Washington,53017,Douglas,47.7049,-119.8087,,,39.9,point,FALSE,America/Los_Angeles,98858
+Stanwood-WA,1840021079,Stanwood,Stanwood,WA,Stanwood-WA,Washington,53061,Snohomish,48.245,-122.3427,7073,7009,961,polygon,TRUE,America/Los_Angeles,98292
+Sudden Valley-WA,1840037740,Sudden Valley,Sudden Valley,WA,Sudden Valley-WA,Washington,53073,Whatcom,48.7199,-122.3468,,,1380.3,polygon,FALSE,America/Los_Angeles,98229
+Meridian-WA,1840037684,Meridian,Meridian,WA,Meridian-WA,Washington,53033,King,47.6695,-122.3304,,,4501.6,point,FALSE,America/Los_Angeles,98103
+Aberdeen Gardens-WA,1840037845,Aberdeen Gardens,Aberdeen Gardens,WA,Aberdeen Gardens-WA,Washington,53027,Grays Harbor,47.0587,-123.7792,,,55.4,polygon,FALSE,America/Los_Angeles,98520
+Possession-WA,1840037704,Possession,Possession,WA,Possession-WA,Washington,53029,Island,47.9176,-122.3762,,,84.9,point,FALSE,America/Los_Angeles,98236
+Benton City-WA,1840018480,Benton City,Benton City,WA,Benton City-WA,Washington,53005,Benton,46.2624,-119.4814,4464,3276,520,polygon,TRUE,America/Los_Angeles,99320
+Bickleton-WA,1840017400,Bickleton,Bickleton,WA,Bickleton-WA,Washington,53039,Klickitat,46.0056,-120.308,,,57.3,polygon,FALSE,America/Los_Angeles,99322
+Elmer City-WA,1840021058,Elmer City,Elmer City,WA,Elmer City-WA,Washington,53047,Okanogan,48,-118.9528,239,239,441,polygon,TRUE,America/Los_Angeles,99124
+Doty-WA,1840037640,Doty,Doty,WA,Doty-WA,Washington,53041,Lewis,46.6345,-123.2776,,,227.3,point,FALSE,America/Los_Angeles,98532
+East Wenatchee-WA,1840019795,East Wenatchee,East Wenatchee,WA,East Wenatchee-WA,Washington,53017,Douglas,47.4172,-120.2809,13968,13968,1418,polygon,TRUE,America/Los_Angeles,98802
+Newman Lake-WA,1840037604,Newman Lake,Newman Lake,WA,Newman Lake-WA,Washington,53063,Spokane,47.7768,-117.0949,,,44,point,FALSE,America/Los_Angeles,99025
+Freeland-WA,1840017317,Freeland,Freeland,WA,Freeland-WA,Washington,53029,Island,48.0185,-122.5358,,,251.7,polygon,FALSE,America/Los_Angeles,98249
+Indianola-WA,1840017337,Indianola,Indianola,WA,Indianola-WA,Washington,53035,Kitsap,47.7566,-122.5143,,,610.3,polygon,FALSE,America/Los_Angeles,98342 98346 98370
+Cowiche-WA,1840023852,Cowiche,Cowiche,WA,Cowiche-WA,Washington,53077,Yakima,46.6729,-120.7154,,,345.9,polygon,FALSE,America/Los_Angeles,98923
+Husum-WA,1840037776,Husum,Husum,WA,Husum-WA,Washington,53039,Klickitat,45.7993,-121.487,,,79.2,point,FALSE,America/Los_Angeles,98672
+Pataha-WA,1840037699,Pataha,Pataha,WA,Pataha-WA,Washington,53023,Garfield,46.4732,-117.5366,,,53.2,point,FALSE,America/Los_Angeles,99347
+Lamona-WA,1840037563,Lamona,Lamona,WA,Lamona-WA,Washington,53043,Lincoln,47.3593,-118.4825,,,2.9,point,FALSE,America/Los_Angeles,99144
+Skokomish-WA,1840018433,Skokomish,Skokomish,WA,Skokomish-WA,Washington,53045,Mason,47.3298,-123.1579,,,152.4,polygon,FALSE,America/Los_Angeles,98584
+Vaughn-WA,1840023841,Vaughn,Vaughn,WA,Vaughn-WA,Washington,53053,Pierce,47.355,-122.7773,,,81.9,polygon,FALSE,America/Los_Angeles,98394 98329
+Ruby-WA,1840037812,Ruby,Ruby,WA,Ruby-WA,Washington,53051,Pend Oreille,48.5221,-117.2991,,,9.9,point,FALSE,America/Los_Angeles,99119
+Bryant-WA,1840023772,Bryant,Bryant,WA,Bryant-WA,Washington,53061,Snohomish,48.24,-122.1638,,,102.9,polygon,FALSE,America/Los_Angeles,98223
+Coalfield-WA,1840037540,Coalfield,Coalfield,WA,Coalfield-WA,Washington,53033,King,47.5026,-122.1218,,,165.6,point,FALSE,America/Los_Angeles,98059
+Swede Heaven-WA,1840037821,Swede Heaven,Swede Heaven,WA,Swede Heaven-WA,Washington,53061,Snohomish,48.2826,-121.7133,,,36.7,polygon,FALSE,America/Los_Angeles,98223
+Spokane-WA,1840021093,Spokane,Spokane,WA,Spokane-WA,Washington,53063,Spokane,47.6671,-117.433,400936,215973,1213,polygon,TRUE,America/Los_Angeles,99201 99203 99202 99205 99204 99207 99208 99224 99223 99001 99212 99209 99210 99219 99220 99252 99256 99258 99260
+Brady-WA,1840017357,Brady,Brady,WA,Brady-WA,Washington,53027,Grays Harbor,47.0064,-123.5321,,,65.4,polygon,FALSE,America/Los_Angeles,98563
+Spring Glen-WA,1840037819,Spring Glen,Spring Glen,WA,Spring Glen-WA,Washington,53033,King,47.5612,-121.8615,,,183.2,point,FALSE,America/Los_Angeles,98024
+Hoodsport-WA,1840025233,Hoodsport,Hoodsport,WA,Hoodsport-WA,Washington,53045,Mason,47.402,-123.1542,,,387.7,polygon,FALSE,America/Los_Angeles,98548
+Leavenworth-WA,1840019778,Leavenworth,Leavenworth,WA,Leavenworth-WA,Washington,53007,Chelan,47.5943,-120.6633,3330,1994,627,polygon,TRUE,America/Los_Angeles,98826
+Tanglewilde-WA,1840037899,Tanglewilde,Tanglewilde,WA,Tanglewilde-WA,Washington,53067,Thurston,47.0511,-122.781,,,1848.3,polygon,FALSE,America/Los_Angeles,98503 98516
+Bow-WA,1840037749,Bow,Bow,WA,Bow-WA,Washington,53057,Skagit,48.5618,-122.3982,,,142.7,point,FALSE,America/Los_Angeles,98232
+Carlsborg-WA,1840017319,Carlsborg,Carlsborg,WA,Carlsborg-WA,Washington,53009,Clallam,48.0842,-123.1697,,,370.3,polygon,FALSE,America/Los_Angeles,98382
+North Lynnwood-WA,1840037895,North Lynnwood,North Lynnwood,WA,North Lynnwood-WA,Washington,53061,Snohomish,47.8534,-122.2762,,,2462,polygon,FALSE,America/Los_Angeles,98087 98037
+Cedar Falls-WA,1840037752,Cedar Falls,Cedar Falls,WA,Cedar Falls-WA,Washington,53033,King,47.4254,-121.7768,,,8.7,point,FALSE,America/Los_Angeles,98045
+Chelan-WA,1840018369,Chelan,Chelan,WA,Chelan-WA,Washington,53007,Chelan,47.8414,-120.026,6023,4108,249,polygon,TRUE,America/Los_Angeles,98816
+Wilson Creek-WA,1840022294,Wilson Creek,Wilson Creek,WA,Wilson Creek-WA,Washington,53025,Grant,47.4229,-119.1176,210,210,84,polygon,TRUE,America/Los_Angeles,98860
+Latah-WA,1840021097,Latah,Latah,WA,Latah-WA,Washington,53063,Spokane,47.282,-117.1554,187,187,234,polygon,TRUE,America/Los_Angeles,99018
+Brownsville-WA,1840037532,Brownsville,Brownsville,WA,Brownsville-WA,Washington,53035,Kitsap,47.6557,-122.6165,,,629,point,FALSE,America/Los_Angeles,98370
+Amber-WA,1840037614,Amber,Amber,WA,Amber-WA,Washington,53063,Spokane,47.3518,-117.7116,,,1.8,point,FALSE,America/Los_Angeles,99004
+Zenith-WA,1840037731,Zenith,Zenith,WA,Zenith-WA,Washington,53033,King,47.3865,-122.3232,,,2316.8,point,FALSE,America/Los_Angeles,98198
+Goodnoe Hills-WA,1840037553,Goodnoe Hills,Goodnoe Hills,WA,Goodnoe Hills-WA,Washington,53039,Klickitat,45.7512,-120.4803,,,1.7,point,FALSE,America/Los_Angeles,98620
+Camas-WA,1840018524,Camas,Camas,WA,Camas-WA,Washington,53011,Clark,45.6006,-122.4301,22449,22449,630,polygon,TRUE,America/Los_Angeles,98607
+Olalla-WA,1840037691,Olalla,Olalla,WA,Olalla-WA,Washington,53035,Kitsap,47.4293,-122.5457,,,129.2,point,FALSE,America/Los_Angeles,98359
+Basin City-WA,1840017379,Basin City,Basin City,WA,Basin City-WA,Washington,53021,Franklin,46.589,-119.1567,,,267.3,polygon,FALSE,America/Los_Angeles,99343
+Blaine-WA,1840018347,Blaine,Blaine,WA,Blaine-WA,Washington,53073,Whatcom,48.9839,-122.7406,5164,5164,354,polygon,TRUE,America/Los_Angeles,98230 98231
+Oroville-WA,1840019762,Oroville,Oroville,WA,Oroville-WA,Washington,53047,Okanogan,48.9421,-119.4293,1677,1677,394,polygon,TRUE,America/Los_Angeles,98844
+Orchards-WA,1840018519,Orchards,Orchards,WA,Orchards-WA,Washington,53011,Clark,45.6888,-122.5305,,,744.8,polygon,FALSE,America/Los_Angeles,98682
+Union Gap-WA,1840021152,Union Gap,Union Gap,WA,Union Gap-WA,Washington,53077,Yakima,46.5569,-120.4937,6110,6110,466,polygon,TRUE,America/Los_Angeles,98903
+Mead-WA,1840023786,Mead,Mead,WA,Mead-WA,Washington,53063,Spokane,47.7795,-117.35,,,710.9,polygon,FALSE,America/Los_Angeles,99021
+Manzanita-WA,1840037568,Manzanita,Manzanita,WA,Manzanita-WA,Washington,53035,Kitsap,47.6762,-122.5596,,,251.3,point,FALSE,America/Los_Angeles,98110
+Pasco-WA,1840019888,Pasco,Pasco,WA,Pasco-WA,Washington,53021,Franklin,46.2499,-119.1271,70579,70579,843,polygon,TRUE,America/Los_Angeles,99301 99302
+Touchet-WA,1840018488,Touchet,Touchet,WA,Touchet-WA,Washington,53071,Walla Walla,46.0411,-118.6724,,,386.5,polygon,FALSE,America/Los_Angeles,99360
+Pe Ell-WA,1840022321,Pe Ell,Pe Ell,WA,Pe Ell-WA,Washington,53041,Lewis,46.5712,-123.2981,643,643,419,polygon,TRUE,America/Los_Angeles,98572 98522
+Sappho-WA,1840037815,Sappho,Sappho,WA,Sappho-WA,Washington,53009,Clallam,48.0701,-124.2794,,,10.6,point,FALSE,America/Los_Angeles,98305
+Hunters-WA,1840037665,Hunters,Hunters,WA,Hunters-WA,Washington,53065,Stevens,48.1168,-118.2019,,,88.3,point,FALSE,America/Los_Angeles,99137
+Gleed-WA,1840017370,Gleed,Gleed,WA,Gleed-WA,Washington,53077,Yakima,46.6594,-120.6025,,,160.7,polygon,FALSE,America/Los_Angeles,98937 98908
+Fairfield-WA,1840021096,Fairfield,Fairfield,WA,Fairfield-WA,Washington,53063,Spokane,47.3848,-117.1748,605,605,380,polygon,TRUE,America/Los_Angeles,99012
+Torboy-WA,1840026090,Torboy,Torboy,WA,Torboy-WA,Washington,53019,Ferry,48.6772,-118.6689,,,33.9,polygon,FALSE,America/Los_Angeles,99166
+Cashmere-WA,1840018368,Cashmere,Cashmere,WA,Cashmere-WA,Washington,53007,Chelan,47.5174,-120.4669,4878,3162,1096,polygon,TRUE,America/Los_Angeles,98815
+Willapa-WA,1840025262,Willapa,Willapa,WA,Willapa-WA,Washington,53049,Pacific,46.6755,-123.6648,,,66,polygon,FALSE,America/Los_Angeles,98577
+Issaquah-WA,1840018422,Issaquah,Issaquah,WA,Issaquah-WA,Washington,53033,King,47.5414,-122.0436,37322,37322,1263,polygon,TRUE,America/Los_Angeles,98029 98027
+Toppenish-WA,1840021151,Toppenish,Toppenish,WA,Toppenish-WA,Washington,53077,Yakima,46.3807,-120.3125,14550,8973,1643,polygon,TRUE,America/Los_Angeles,98948
+Finley-WA,1840017380,Finley,Finley,WA,Finley-WA,Washington,53005,Benton,46.1697,-119.0446,,,240.7,polygon,FALSE,America/Los_Angeles,99337
+Darrington-WA,1840021081,Darrington,Darrington,WA,Darrington-WA,Washington,53061,Snohomish,48.2542,-121.6029,1385,1385,323,polygon,TRUE,America/Los_Angeles,98241
+Picnic Point-WA,1840037897,Picnic Point,Picnic Point,WA,Picnic Point-WA,Washington,53061,Snohomish,47.8744,-122.3077,,,420.1,polygon,FALSE,America/Los_Angeles,98026 98087
+Aeneas-WA,1840037741,Aeneas,Aeneas,WA,Aeneas-WA,Washington,53047,Okanogan,48.5474,-118.9786,,,9.7,point,FALSE,America/Los_Angeles,98855
+Cedarhurst-WA,1840037536,Cedarhurst,Cedarhurst,WA,Cedarhurst-WA,Washington,53033,King,47.482,-122.4793,,,101,point,FALSE,America/Los_Angeles,98070
+Four Lakes-WA,1840023784,Four Lakes,Four Lakes,WA,Four Lakes-WA,Washington,53063,Spokane,47.5582,-117.5891,,,181.6,polygon,FALSE,America/Los_Angeles,99004 99014
+Dayton-WA,1840018486,Dayton,Dayton,WA,Dayton-WA,Washington,53013,Columbia,46.3171,-117.9768,2576,2427,657,polygon,TRUE,America/Los_Angeles,99328
+Port Madison-WA,1840037703,Port Madison,Port Madison,WA,Port Madison-WA,Washington,53035,Kitsap,47.7026,-122.5243,,,439.8,point,FALSE,America/Los_Angeles,98110
+Orting-WA,1840019858,Orting,Orting,WA,Orting-WA,Washington,53053,Pierce,47.0967,-122.2113,7693,7693,1088,polygon,TRUE,America/Los_Angeles,98360
+Wheeler-WA,1840037601,Wheeler,Wheeler,WA,Wheeler-WA,Washington,53025,Grant,47.1307,-119.172,,,37.2,point,FALSE,America/Los_Angeles,98837
+Fircrest-WA,1840019854,Fircrest,Fircrest,WA,Fircrest-WA,Washington,53053,Pierce,47.2308,-122.5157,6780,6780,1661,polygon,TRUE,America/Los_Angeles,98466
+Lebam-WA,1840017376,Lebam,Lebam,WA,Lebam-WA,Washington,53049,Pacific,46.5641,-123.551,,,38,polygon,FALSE,America/Los_Angeles,98577 98554
+Marrowstone-WA,1840037856,Marrowstone,Marrowstone,WA,Marrowstone-WA,Washington,53031,Jefferson,48.0568,-122.6933,,,72.6,polygon,FALSE,America/Los_Angeles,98358
+North Puyallup-WA,1840037690,North Puyallup,North Puyallup,WA,North Puyallup-WA,Washington,53053,Pierce,47.2015,-122.2744,,,667.2,polygon,FALSE,America/Los_Angeles,98372
+Five Corners-WA,1840037869,Five Corners,Five Corners,WA,Five Corners-WA,Washington,53011,Clark,45.6882,-122.574,,,2103.2,polygon,FALSE,America/Los_Angeles,98662
+Graham-WA,1840017365,Graham,Graham,WA,Graham-WA,Washington,53053,Pierce,47.0407,-122.2757,,,261.1,polygon,FALSE,America/Los_Angeles,98338
+Longview Heights-WA,1840037874,Longview Heights,Longview Heights,WA,Longview Heights-WA,Washington,53015,Cowlitz,46.1797,-122.9578,,,362.3,polygon,FALSE,America/Los_Angeles,98632
+Hobart-WA,1840017344,Hobart,Hobart,WA,Hobart-WA,Washington,53033,King,47.412,-121.996,,,142.8,polygon,FALSE,America/Los_Angeles,98038
+Point Roberts-WA,1840025234,Point Roberts,Point Roberts,WA,Point Roberts-WA,Washington,53073,Whatcom,48.9883,-123.0576,,,64.2,polygon,FALSE,America/Los_Angeles,98281
+Town and Country-WA,1840037888,Town and Country,Town and Country,WA,Town and Country-WA,Washington,53063,Spokane,47.7259,-117.4221,,,1502.5,polygon,FALSE,America/Los_Angeles,99208
+Lake Hills-WA,1840037675,Lake Hills,Lake Hills,WA,Lake Hills-WA,Washington,53033,King,47.6134,-122.1215,,,2082,point,FALSE,America/Los_Angeles,98008
+Rosedale-WA,1840023839,Rosedale,Rosedale,WA,Rosedale-WA,Washington,53053,Pierce,47.3453,-122.6376,,,554.8,polygon,FALSE,America/Los_Angeles,98332
+Irondale-WA,1840037778,Irondale,Irondale,WA,Irondale-WA,Washington,53031,Jefferson,48.042,-122.7727,,,469.3,point,FALSE,America/Los_Angeles,98339
+Dishman-WA,1840037638,Dishman,Dishman,WA,Dishman-WA,Washington,53063,Spokane,47.6568,-117.2833,,,1055.2,point,FALSE,America/Los_Angeles,99212
+Bayview-WA,1840037732,Bayview,Bayview,WA,Bayview-WA,Washington,53053,Pierce,47.2795,-122.6057,,,315.1,point,FALSE,America/Los_Angeles,98335
+Conconully-WA,1840022269,Conconully,Conconully,WA,Conconully-WA,Washington,53047,Okanogan,48.5575,-119.7513,213,213,268,polygon,TRUE,America/Los_Angeles,98819
+Entiat-WA,1840019777,Entiat,Entiat,WA,Entiat-WA,Washington,53007,Chelan,47.6781,-120.2171,1208,1208,220,polygon,TRUE,America/Los_Angeles,98822
+Lochsloy-WA,1840037500,Lochsloy,Lochsloy,WA,Lochsloy-WA,Washington,53061,Snohomish,48.0597,-122.0411,,,489.9,polygon,FALSE,America/Los_Angeles,98258
+Brinnon-WA,1840017329,Brinnon,Brinnon,WA,Brinnon-WA,Washington,53031,Jefferson,47.6688,-122.925,,,78.1,polygon,FALSE,America/Los_Angeles,98320
+Seahurst-WA,1840037710,Seahurst,Seahurst,WA,Seahurst-WA,Washington,53033,King,47.4693,-122.3621,,,1330.3,point,FALSE,America/Los_Angeles,98166
+Dixie-WA,1840018487,Dixie,Dixie,WA,Dixie-WA,Washington,53071,Walla Walla,46.1392,-118.148,,,155.6,polygon,FALSE,America/Los_Angeles,99329 99361
+Eastgate-WA,1840017341,Eastgate,Eastgate,WA,Eastgate-WA,Washington,53033,King,47.5727,-122.1458,,,1777,point,FALSE,America/Los_Angeles,98006
+Blockhouse-WA,1840037621,Blockhouse,Blockhouse,WA,Blockhouse-WA,Washington,53039,Klickitat,45.8396,-120.9376,,,16.6,point,FALSE,America/Los_Angeles,98620
+Buena-WA,1840023850,Buena,Buena,WA,Buena-WA,Washington,53077,Yakima,46.4299,-120.3176,,,744.7,polygon,FALSE,America/Los_Angeles,98921 98953
+Grapeview-WA,1840037554,Grapeview,Grapeview,WA,Grapeview-WA,Washington,53045,Mason,47.3316,-122.8413,,,101.5,polygon,FALSE,America/Los_Angeles,98524 98546
+Startup-WA,1840018380,Startup,Startup,WA,Startup-WA,Washington,53061,Snohomish,47.8671,-121.7491,,,245.1,polygon,FALSE,America/Los_Angeles,98294 98293
+Hayford-WA,1840037661,Hayford,Hayford,WA,Hayford-WA,Washington,53063,Spokane,47.6063,-117.5638,,,37.6,point,FALSE,America/Los_Angeles,99224
+Westport-WA,1840021124,Westport,Westport,WA,Westport-WA,Washington,53027,Grays Harbor,46.8919,-124.112,2035,2035,213,polygon,TRUE,America/Los_Angeles,98595
+Southworth-WA,1840023800,Southworth,Southworth,WA,Southworth-WA,Washington,53035,Kitsap,47.5126,-122.5298,,,363,polygon,FALSE,America/Los_Angeles,98366 98384 98386
+Twisp-WA,1840022271,Twisp,Twisp,WA,Twisp-WA,Washington,53047,Okanogan,48.3615,-120.1165,952,952,310,polygon,TRUE,America/Los_Angeles,98856
+Milan-WA,1840037685,Milan,Milan,WA,Milan-WA,Washington,53063,Spokane,47.9668,-117.3316,,,37.8,point,FALSE,America/Los_Angeles,99003
+Ritzville-WA,1840019861,Ritzville,Ritzville,WA,Ritzville-WA,Washington,53001,Adams,47.1259,-118.3821,1626,1626,368,polygon,TRUE,America/Los_Angeles,99169
+Lake Goodwin-WA,1840037872,Lake Goodwin,Lake Goodwin,WA,Lake Goodwin-WA,Washington,53061,Snohomish,48.1388,-122.2804,,,328.3,polygon,FALSE,America/Los_Angeles,98223 98292 98271
+McMurray-WA,1840037682,McMurray,McMurray,WA,McMurray-WA,Washington,53057,Skagit,48.3162,-122.2354,,,77.5,point,FALSE,America/Los_Angeles,98274
+Portage-WA,1840037506,Portage,Portage,WA,Portage-WA,Washington,53033,King,47.4073,-122.4376,,,185.3,point,FALSE,America/Los_Angeles,98070
+Lake Bosworth-WA,1840037850,Lake Bosworth,Lake Bosworth,WA,Lake Bosworth-WA,Washington,53061,Snohomish,48.0532,-121.9812,,,204.9,polygon,FALSE,America/Los_Angeles,98290 98252
+Fords Prairie-WA,1840017377,Fords Prairie,Fords Prairie,WA,Fords Prairie-WA,Washington,53041,Lewis,46.7461,-123.0028,,,675.7,polygon,FALSE,America/Los_Angeles,98531
+Carson-WA,1840017391,Carson,Carson,WA,Carson-WA,Washington,53059,Skamania,45.7353,-121.8219,,,315.1,polygon,FALSE,America/Los_Angeles,98610
+Mount Vista-WA,1840037858,Mount Vista,Mount Vista,WA,Mount Vista-WA,Washington,53011,Clark,45.7373,-122.6315,,,250.7,polygon,FALSE,America/Los_Angeles,98642 98686
+Vancouver-WA,1840021189,Vancouver,Vancouver,WA,Vancouver-WA,Washington,53011,Clark,45.6352,-122.5972,174826,174826,1440,polygon,TRUE,America/Los_Angeles,98684 98664 98660 98661 98662 98663 98682 98683 98687
+Chelan Falls-WA,1840025245,Chelan Falls,Chelan Falls,WA,Chelan Falls-WA,Washington,53007,Chelan,47.7995,-119.9883,,,334.4,polygon,FALSE,America/Los_Angeles,98817
+Espanola-WA,1840037547,Espanola,Espanola,WA,Espanola-WA,Washington,53063,Spokane,47.6032,-117.7416,,,19.2,point,FALSE,America/Los_Angeles,99022
+Battle Ground-WA,1840018523,Battle Ground,Battle Ground,WA,Battle Ground-WA,Washington,53011,Clark,45.7763,-122.5415,20110,20110,921,polygon,TRUE,America/Los_Angeles,98604
+Summitview-WA,1840037863,Summitview,Summitview,WA,Summitview-WA,Washington,53077,Yakima,46.598,-120.6514,,,185.2,polygon,FALSE,America/Los_Angeles,98908
+Geneva-WA,1840017291,Geneva,Geneva,WA,Geneva-WA,Washington,53073,Whatcom,48.7462,-122.4063,,,1072.1,polygon,FALSE,America/Los_Angeles,98229
+Queets-WA,1840037807,Queets,Queets,WA,Queets-WA,Washington,53031,Jefferson,47.5314,-124.3386,,,159.7,polygon,FALSE,America/Los_Angeles,98331
+Wollochet-WA,1840023843,Wollochet,Wollochet,WA,Wollochet-WA,Washington,53053,Pierce,47.2827,-122.5769,,,349.2,polygon,FALSE,America/Los_Angeles,98335
+College Place-WA,1840018490,College Place,College Place,WA,College Place-WA,Washington,53071,Walla Walla,46.043,-118.3869,9142,9142,1319,polygon,TRUE,America/Los_Angeles,99324 99362
+Garfield-WA,1840021141,Garfield,Garfield,WA,Garfield-WA,Washington,53075,Whitman,47.0099,-117.1395,611,611,269,polygon,TRUE,America/Los_Angeles,99130
+Ruff-WA,1840037709,Ruff,Ruff,WA,Ruff-WA,Washington,53025,Grant,47.1696,-118.9983,,,20,point,FALSE,America/Los_Angeles,98832
+Bell Hill-WA,1840037847,Bell Hill,Bell Hill,WA,Bell Hill-WA,Washington,53009,Clallam,48.055,-123.087,,,102.2,polygon,FALSE,America/Los_Angeles,98382
+Glenwood-WA,1840037769,Glenwood,Glenwood,WA,Glenwood-WA,Washington,53039,Klickitat,46.0228,-121.2926,,,85.3,polygon,FALSE,America/Los_Angeles,98619
+Riverbend-WA,1840037860,Riverbend,Riverbend,WA,Riverbend-WA,Washington,53033,King,47.4651,-121.7491,,,478.1,polygon,FALSE,America/Los_Angeles,98045
+Samish-WA,1840037814,Samish,Samish,WA,Samish-WA,Washington,53057,Skagit,48.6109,-122.4357,,,11.1,point,FALSE,America/Los_Angeles,98232
+Trout Lake-WA,1840024000,Trout Lake,Trout Lake,WA,Trout Lake-WA,Washington,53039,Klickitat,45.9976,-121.5291,,,127.2,polygon,FALSE,America/Los_Angeles,98650
+Mount Vernon-WA,1840019774,Mount Vernon,Mount Vernon,WA,Mount Vernon-WA,Washington,53057,Skagit,48.4203,-122.3114,68613,34590,1093,polygon,TRUE,America/Los_Angeles,98274 98273
+Ferndale-WA,1840019751,Ferndale,Ferndale,WA,Ferndale-WA,Washington,53073,Whatcom,48.8525,-122.5893,13403,13403,736,polygon,TRUE,America/Los_Angeles,98248
+Hansville-WA,1840023796,Hansville,Hansville,WA,Hansville-WA,Washington,53035,Kitsap,47.8978,-122.5579,,,272.5,polygon,FALSE,America/Los_Angeles,98340 98346
+Wickersham-WA,1840037832,Wickersham,Wickersham,WA,Wickersham-WA,Washington,53073,Whatcom,48.6551,-122.2129,,,109.4,point,FALSE,America/Los_Angeles,98220
+White Salmon-WA,1840021191,White Salmon,White Salmon,WA,White Salmon-WA,Washington,53039,Klickitat,45.7284,-121.4853,2473,2473,770,polygon,TRUE,America/Los_Angeles,98672
+Oysterville-WA,1840037698,Oysterville,Oysterville,WA,Oysterville-WA,Washington,53049,Pacific,46.549,-124.0282,,,33.8,point,FALSE,America/Los_Angeles,98640
+Aberdeen-WA,1840018446,Aberdeen,Aberdeen,WA,Aberdeen-WA,Washington,53027,Grays Harbor,46.9768,-123.8083,28863,16334,592,polygon,TRUE,America/Los_Angeles,98520
+Melbourne-WA,1840037502,Melbourne,Melbourne,WA,Melbourne-WA,Washington,53027,Grays Harbor,46.9454,-123.626,,,20.7,point,FALSE,America/Los_Angeles,98563
+Plymouth-WA,1840037505,Plymouth,Plymouth,WA,Plymouth-WA,Washington,53005,Benton,45.9346,-119.3503,,,238.7,point,FALSE,America/Los_Angeles,99346
+Winlock-WA,1840021164,Winlock,Winlock,WA,Winlock-WA,Washington,53041,Lewis,46.4907,-122.9342,1337,1337,400,polygon,TRUE,America/Los_Angeles,98596
+Satsop-WA,1840018445,Satsop,Satsop,WA,Satsop-WA,Washington,53027,Grays Harbor,47.0223,-123.4737,,,147.1,polygon,FALSE,America/Los_Angeles,98583 98541
+Merritt-WA,1840037795,Merritt,Merritt,WA,Merritt-WA,Washington,53007,Chelan,47.781,-120.8432,,,12,point,FALSE,America/Los_Angeles,98826
+Peshastin-WA,1840037803,Peshastin,Peshastin,WA,Peshastin-WA,Washington,53007,Chelan,47.5707,-120.604,,,632.9,point,FALSE,America/Los_Angeles,98847
+Marble-WA,1840037792,Marble,Marble,WA,Marble-WA,Washington,53065,Stevens,48.8491,-117.9017,,,43.4,point,FALSE,America/Los_Angeles,99157
+South Snohomish-WA,1840037593,South Snohomish,South Snohomish,WA,South Snohomish-WA,Washington,53061,Snohomish,47.899,-122.109,,,5.4,point,FALSE,America/Los_Angeles,98296
+Richmond Highlands-WA,1840037707,Richmond Highlands,Richmond Highlands,WA,Richmond Highlands-WA,Washington,53033,King,47.7612,-122.3462,,,1912.4,point,FALSE,America/Los_Angeles,98133
+Goldendale-WA,1840019911,Goldendale,Goldendale,WA,Goldendale-WA,Washington,53039,Klickitat,45.8214,-120.8191,3369,3449,527,polygon,TRUE,America/Los_Angeles,98620
+Nisqually-WA,1840037738,Nisqually,Nisqually,WA,Nisqually-WA,Washington,53067,Thurston,47.0565,-122.7012,,,341.3,point,FALSE,America/Los_Angeles,98513
+Tillicum-WA,1840037717,Tillicum,Tillicum,WA,Tillicum-WA,Washington,53053,Pierce,47.1234,-122.5571,,,1111.9,point,FALSE,America/Los_Angeles,98498
+Anatone-WA,1840037490,Anatone,Anatone,WA,Anatone-WA,Washington,53003,Asotin,46.1349,-117.1324,,,31.1,point,FALSE,America/Los_Angeles,99401
+Tulalip-WA,1840037719,Tulalip,Tulalip,WA,Tulalip-WA,Washington,53061,Snohomish,48.0684,-122.2918,,,434.1,point,FALSE,America/Los_Angeles,98271
+Orient-WA,1840025243,Orient,Orient,WA,Orient-WA,Washington,53019,Ferry,48.8637,-118.2059,,,109.1,polygon,FALSE,America/Los_Angeles,99160
+Dieringer-WA,1840037544,Dieringer,Dieringer,WA,Dieringer-WA,Washington,53053,Pierce,47.2407,-122.2251,,,2.8,point,FALSE,America/Los_Angeles,98390
+Frederickson-WA,1840037551,Frederickson,Frederickson,WA,Frederickson-WA,Washington,53053,Pierce,47.0914,-122.3594,,,127.9,polygon,FALSE,America/Los_Angeles,98375 98387 98446
+Keller-WA,1840023756,Keller,Keller,WA,Keller-WA,Washington,53019,Ferry,48.0851,-118.7162,,,28.9,polygon,FALSE,America/Los_Angeles,99140
+Marblemount-WA,1840017315,Marblemount,Marblemount,WA,Marblemount-WA,Washington,53057,Skagit,48.5379,-121.4346,,,34.5,polygon,FALSE,America/Los_Angeles,98267
+Turner-WA,1840037513,Turner,Turner,WA,Turner-WA,Washington,53013,Columbia,46.4124,-117.8547,,,13.1,point,FALSE,America/Los_Angeles,99328
+Everett-WA,1840019785,Everett,Everett,WA,Everett-WA,Washington,53061,Snohomish,47.9524,-122.1672,109043,109043,1271,polygon,TRUE,America/Los_Angeles,98207 98204 98205 98203 98201 98208 98275 98206 98213
+Burien-WA,1840018420,Burien,Burien,WA,Burien-WA,Washington,53033,King,47.4761,-122.3393,50997,50997,1958,polygon,TRUE,America/Los_Angeles,98146 98148 98168 98166 98062

@@ -1,0 +1,926 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Pine Mountain Valley-GA,1840029432,Pine Mountain Valley,Pine Mountain Valley,GA,Pine Mountain Valley-GA,Georgia,13145,Harris,32.7987,-84.8233,,,67,point,FALSE,America/New_York,31823
+Blackwells-GA,1840029220,Blackwells,Blackwells,GA,Blackwells-GA,Georgia,13067,Cobb,33.9948,-84.518,,,507,point,FALSE,America/New_York,30066
+Godwinsville-GA,1840029196,Godwinsville,Godwinsville,GA,Godwinsville-GA,Georgia,13091,Dodge,32.1357,-83.1271,,,20.8,point,FALSE,America/New_York,31023
+Madras-GA,1840029151,Madras,Madras,GA,Madras-GA,Georgia,13077,Coweta,33.4401,-84.7422,,,106.5,point,FALSE,America/New_York,30265
+Milner-GA,1840014855,Milner,Milner,GA,Milner-GA,Georgia,13171,Lamar,33.1178,-84.1926,615,615,117,polygon,TRUE,America/New_York,30257
+Eatonton-GA,1840013764,Eatonton,Eatonton,GA,Eatonton-GA,Georgia,13237,Putnam,33.3258,-83.3886,3934,6555,123,polygon,TRUE,America/New_York,31024 31026
+Bushnell-GA,1840029191,Bushnell,Bushnell,GA,Bushnell-GA,Georgia,13069,Coffee,31.5602,-82.9599,,,49.5,point,FALSE,America/New_York,31533
+Richland-GA,1840014916,Richland,Richland,GA,Richland-GA,Georgia,13259,Stewart,32.0885,-84.6625,1411,1411,170,polygon,TRUE,America/New_York,31825
+Edison-GA,1840013867,Edison,Edison,GA,Edison-GA,Georgia,13037,Calhoun,31.5608,-84.7374,1451,1451,239,polygon,TRUE,America/New_York,39846
+Faceville-GA,1840029137,Faceville,Faceville,GA,Faceville-GA,Georgia,13087,Decatur,30.7532,-84.6399,,,33.2,point,FALSE,America/New_York,39819
+Lookout Mountain-GA,1840015530,Lookout Mountain,Lookout Mountain,GA,Lookout Mountain-GA,Georgia,13295,Walker,34.9664,-85.3622,1577,1577,228,polygon,TRUE,America/New_York,30750
+Plainville-GA,1840014675,Plainville,Plainville,GA,Plainville-GA,Georgia,13129,Gordon,34.4053,-85.0312,323,323,172,polygon,TRUE,America/New_York,30733
+Blakely-GA,1840013872,Blakely,Blakely,GA,Blakely-GA,Georgia,13099,Early,31.3827,-84.9228,3477,4702,103,polygon,TRUE,America/New_York,39823
+Cadley-GA,1840029227,Cadley,Cadley,GA,Cadley-GA,Georgia,13301,Warren,33.5337,-82.6596,,,1.4,point,FALSE,America/New_York,30821
+Fort Valley-GA,1840013819,Fort Valley,Fort Valley,GA,Fort Valley-GA,Georgia,13225,Peach,32.5522,-83.8816,9339,8643,445,polygon,TRUE,America/New_York,31030
+Sumner-GA,1840017062,Sumner,Sumner,GA,Sumner-GA,Georgia,13321,Worth,31.5104,-83.7368,402,402,87,polygon,TRUE,America/New_York,31781 31789
+Appling-GA,1840029376,Appling,Appling,GA,Appling-GA,Georgia,13073,Columbia,33.5588,-82.3183,,,32.4,polygon,FALSE,America/New_York,30802
+Eulonia-GA,1840029193,Eulonia,Eulonia,GA,Eulonia-GA,Georgia,13191,McIntosh,31.5333,-81.427,,,28.9,point,FALSE,America/New_York,31331
+Rayle-GA,1840017993,Rayle,Rayle,GA,Rayle-GA,Georgia,13317,Wilkes,33.7902,-82.9031,189,189,71,polygon,TRUE,America/New_York,30660
+Lake City-GA,1840014817,Lake City,Lake City,GA,Lake City-GA,Georgia,13063,Clayton,33.6065,-84.3411,2781,2781,581,polygon,TRUE,America/New_York,30260
+Ephesus-GA,1840013768,Ephesus,Ephesus,GA,Ephesus-GA,Georgia,13149,Heard,33.407,-85.2596,419,419,53,polygon,TRUE,America/New_York,30170 30108 30217
+Buford-GA,1840013678,Buford,Buford,GA,Buford-GA,Georgia,13135,Gwinnett,34.1183,-83.9918,14356,14356,325,polygon,TRUE,America/New_York,30518 30519 30515
+Payne-GA,1840014868,Payne,Payne,GA,Payne-GA,Georgia,13021,Bibb,32.8519,-83.6794,205,205,1844,polygon,TRUE,America/New_York,31204
+Ranger-GA,1840017929,Ranger,Ranger,GA,Ranger-GA,Georgia,13129,Gordon,34.5013,-84.7111,135,135,63,polygon,TRUE,America/New_York,30734
+Richmond Hill-GA,1840014913,Richmond Hill,Richmond Hill,GA,Richmond Hill-GA,Georgia,13029,Bryan,31.9207,-81.3181,12482,12482,275,polygon,TRUE,America/New_York,31324
+Tallulah Falls-GA,1840016568,Tallulah Falls,Tallulah Falls,GA,Tallulah Falls-GA,Georgia,13137,Habersham,34.7257,-83.3816,170,170,8,polygon,TRUE,America/New_York,30523 30573 30552
+Modoc-GA,1840029160,Modoc,Modoc,GA,Modoc-GA,Georgia,13107,Emanuel,32.6557,-82.3093,,,27.8,point,FALSE,America/New_York,30401
+Normantown-GA,1840029165,Normantown,Normantown,GA,Normantown-GA,Georgia,13279,Toombs,32.3063,-82.3696,,,54.6,point,FALSE,America/New_York,30474
+Atlanta-GA,1840013660,Atlanta,Atlanta,GA,Atlanta-GA,Georgia,13121,Fulton,33.7627,-84.4231,5080712,472522,1370,polygon,TRUE,America/New_York,30334 30331 30332 30309 30308 30307 30303 30354 30327 30326 30324 30319 30316 30342 30305 30306 30317 30314 30315 30312 30313 30310 30311 30363 30318 30301 30302 30304 30321 30325 30343 30348 30353 30355 30357 30358 30361 30362 30368 30369 30370 30371 30375 30377 30378 30380 30385 30388 30392 30394 30396 30398 31106 31107 31119 31126 31131 31139 31141 31145 31146 31150 31156 31192 31193 31195 31196 39901
+Potterville-GA,1840029317,Potterville,Potterville,GA,Potterville-GA,Georgia,13269,Taylor,32.5146,-84.1174,,,67.3,point,FALSE,America/New_York,31076
+Uvalda-GA,1840015816,Uvalda,Uvalda,GA,Uvalda-GA,Georgia,13209,Montgomery,32.0371,-82.508,590,590,120,polygon,TRUE,America/New_York,30473
+Holland-GA,1840029212,Holland,Holland,GA,Holland-GA,Georgia,13055,Chattooga,34.352,-85.3725,,,19.6,point,FALSE,America/New_York,30730
+Montrose-GA,1840016972,Montrose,Montrose,GA,Montrose-GA,Georgia,13175,Laurens,32.5594,-83.1535,213,213,50,polygon,TRUE,America/New_York,31065
+Noonday-GA,1840029299,Noonday,Noonday,GA,Noonday-GA,Georgia,13067,Cobb,34.062,-84.5213,,,392.2,point,FALSE,America/New_York,30066
+Lakeland-GA,1840012921,Lakeland,Lakeland,GA,Lakeland-GA,Georgia,13173,Lanier,31.041,-83.0748,2849,3295,412,polygon,TRUE,America/New_York,31635
+McKinnon-GA,1840029288,McKinnon,McKinnon,GA,McKinnon-GA,Georgia,13305,Wayne,31.4252,-81.9268,,,60.1,point,FALSE,America/New_York,31546
+Boykin-GA,1840025978,Boykin,Boykin,GA,Boykin-GA,Georgia,13201,Miller,31.1017,-84.6848,,,37.1,polygon,FALSE,America/New_York,39837
+Gloster-GA,1840029258,Gloster,Gloster,GA,Gloster-GA,Georgia,13135,Gwinnett,33.9098,-84.0652,,,1027.3,point,FALSE,America/New_York,30044
+Haddock-GA,1840029422,Haddock,Haddock,GA,Haddock-GA,Georgia,13169,Jones,33.0326,-83.4291,,,104.7,point,FALSE,America/New_York,31033
+Veal-GA,1840029209,Veal,Veal,GA,Veal-GA,Georgia,13045,Carroll,33.4359,-85.2302,,,31.5,point,FALSE,America/New_York,30108
+Mount Bethel-GA,1840029200,Mount Bethel,Mount Bethel,GA,Mount Bethel-GA,Georgia,13067,Cobb,33.9662,-84.4113,,,864.5,point,FALSE,America/New_York,30068
+Vesta-GA,1840029210,Vesta,Vesta,GA,Vesta-GA,Georgia,13221,Oglethorpe,33.9565,-82.9385,,,9,point,FALSE,America/New_York,30627
+Hagan-GA,1840013834,Hagan,Hagan,GA,Hagan-GA,Georgia,13109,Evans,32.1536,-81.9305,971,971,183,polygon,TRUE,America/New_York,30429 30417
+Jersey-GA,1840014787,Jersey,Jersey,GA,Jersey-GA,Georgia,13297,Walton,33.7177,-83.8001,147,147,73,polygon,TRUE,America/New_York,30014 30018
+Union Point-GA,1840015686,Union Point,Union Point,GA,Union Point-GA,Georgia,13133,Greene,33.6177,-83.0756,1746,1746,351,polygon,TRUE,America/New_York,30669
+Dickey-GA,1840029401,Dickey,Dickey,GA,Dickey-GA,Georgia,13037,Calhoun,31.5571,-84.6602,,,2.6,point,FALSE,America/New_York,39846
+Rentz-GA,1840014882,Rentz,Rentz,GA,Rentz-GA,Georgia,13175,Laurens,32.3835,-82.9917,292,292,107,polygon,TRUE,America/New_York,31075
+Pitts-GA,1840014927,Pitts,Pitts,GA,Pitts-GA,Georgia,13315,Wilcox,31.9462,-83.5418,306,306,147,polygon,TRUE,America/New_York,31072
+Arabi-GA,1840015847,Arabi,Arabi,GA,Arabi-GA,Georgia,13081,Crisp,31.8282,-83.7302,562,562,34,polygon,TRUE,America/New_York,31712
+Lakeview-GA,1840013553,Lakeview,Lakeview,GA,Lakeview-GA,Georgia,13047,Catoosa,34.9777,-85.2539,,,1074.6,polygon,FALSE,America/New_York,30741
+Arnoldsville-GA,1840013695,Arnoldsville,Arnoldsville,GA,Arnoldsville-GA,Georgia,13221,Oglethorpe,33.9103,-83.2181,355,355,80,polygon,TRUE,America/New_York,30619
+White Sulphur Springs-GA,1840029367,White Sulphur Springs,White Sulphur Springs,GA,White Sulphur Springs-GA,Georgia,13199,Meriwether,32.9079,-84.8033,,,66.8,point,FALSE,America/New_York,31822
+Godfrey-GA,1840029417,Godfrey,Godfrey,GA,Godfrey-GA,Georgia,13211,Morgan,33.4535,-83.5049,,,43.8,point,FALSE,America/New_York,30650
+Moxley-GA,1840029162,Moxley,Moxley,GA,Moxley-GA,Georgia,13163,Jefferson,32.9196,-82.3912,,,12.7,point,FALSE,America/New_York,30477
+Pineview-GA,1840017041,Pineview,Pineview,GA,Pineview-GA,Georgia,13315,Wilcox,32.1084,-83.5029,502,502,99,polygon,TRUE,America/New_York,31071
+Sugar Hill-GA,1840015615,Sugar Hill,Sugar Hill,GA,Sugar Hill-GA,Georgia,13135,Gwinnett,34.1082,-84.0558,22197,22197,780,polygon,TRUE,America/New_York,30518
+Rex-GA,1840029326,Rex,Rex,GA,Rex-GA,Georgia,13063,Clayton,33.5921,-84.2699,,,993.6,point,FALSE,America/New_York,30273
+Deenwood-GA,1840029444,Deenwood,Deenwood,GA,Deenwood-GA,Georgia,13299,Ware,31.2477,-82.3677,,,301.6,polygon,FALSE,America/New_York,31501 31503
+Flemington-GA,1840013847,Flemington,Flemington,GA,Flemington-GA,Georgia,13179,Liberty,31.8506,-81.5605,717,717,58,polygon,TRUE,America/New_York,31313
+Barwick-GA,1840013901,Barwick,Barwick,GA,Barwick-GA,Georgia,13275,Thomas,30.8933,-83.7391,381,381,204,polygon,TRUE,America/New_York,31720
+Howard-GA,1840025898,Howard,Howard,GA,Howard-GA,Georgia,13269,Taylor,32.5982,-84.3786,,,43.8,polygon,FALSE,America/New_York,31039 31812
+Coosa-GA,1840029392,Coosa,Coosa,GA,Coosa-GA,Georgia,13115,Floyd,34.2545,-85.3544,,,7.9,point,FALSE,America/New_York,30165
+Allentown-GA,1840013791,Allentown,Allentown,GA,Allentown-GA,Georgia,13289,Twiggs,32.5927,-83.2258,161,161,20,polygon,TRUE,America/New_York,31065 31003 31017
+Crawfordville-GA,1840014811,Crawfordville,Crawfordville,GA,Crawfordville-GA,Georgia,13265,Taliaferro,33.5545,-82.8965,495,495,61,polygon,TRUE,America/New_York,30631
+Satolah-GA,1840029335,Satolah,Satolah,GA,Satolah-GA,Georgia,13241,Rabun,34.9904,-83.1929,,,6.9,point,FALSE,America/New_York,30525
+Durand-GA,1840029406,Durand,Durand,GA,Durand-GA,Georgia,13199,Meriwether,32.9171,-84.7738,,,35.1,point,FALSE,America/New_York,31830
+Swainsboro-GA,1840015787,Swainsboro,Swainsboro,GA,Swainsboro-GA,Georgia,13107,Emanuel,32.5866,-82.3345,7699,7486,229,polygon,TRUE,America/New_York,30401
+Collins-GA,1840014907,Collins,Collins,GA,Collins-GA,Georgia,13267,Tattnall,32.1793,-82.1103,577,577,218,polygon,TRUE,America/New_York,30421
+Abbeville-GA,1840013845,Abbeville,Abbeville,GA,Abbeville-GA,Georgia,13315,Wilcox,31.9925,-83.3068,2761,2761,348,polygon,TRUE,America/New_York,31001
+Townsend-GA,1840029182,Townsend,Townsend,GA,Townsend-GA,Georgia,13191,McIntosh,31.5394,-81.5226,,,38.7,point,FALSE,America/New_York,31331
+Morganville-GA,1840029294,Morganville,Morganville,GA,Morganville-GA,Georgia,13083,Dade,34.9365,-85.4536,,,54.6,point,FALSE,America/New_York,30757
+Tunnel Hill-GA,1840015527,Tunnel Hill,Tunnel Hill,GA,Tunnel Hill-GA,Georgia,13313,Whitfield,34.8477,-85.0408,876,876,210,polygon,TRUE,America/New_York,30755
+Martinez-GA,1840013747,Martinez,Martinez,GA,Martinez-GA,Georgia,13073,Columbia,33.5209,-82.0985,,,1106.9,polygon,FALSE,America/New_York,30907
+Waleska-GA,1840015573,Waleska,Waleska,GA,Waleska-GA,Georgia,13057,Cherokee,34.317,-84.5505,879,879,232,polygon,TRUE,America/New_York,30183
+Saint Marks-GA,1840029174,Saint Marks,Saint Marks,GA,Saint Marks-GA,Georgia,13199,Meriwether,33.1254,-84.821,,,11.3,point,FALSE,America/New_York,30230
+Cherry Log-GA,1840025844,Cherry Log,Cherry Log,GA,Cherry Log-GA,Georgia,13123,Gilmer,34.786,-84.3836,,,28.7,polygon,FALSE,America/New_York,30522
+Walnut Grove-GA,1840015659,Walnut Grove,Walnut Grove,GA,Walnut Grove-GA,Georgia,13297,Walton,33.7455,-83.8503,1387,1387,175,polygon,TRUE,America/New_York,30014 30052
+Gum Branch-GA,1840029263,Gum Branch,Gum Branch,GA,Gum Branch-GA,Georgia,13179,Liberty,31.8368,-81.6839,253,253,119,polygon,TRUE,America/New_York,31313
+Avera-GA,1840013780,Avera,Avera,GA,Avera-GA,Georgia,13163,Jefferson,33.1934,-82.5288,233,233,138,polygon,TRUE,America/New_York,30803
+Hamilton-GA,1840013803,Hamilton,Hamilton,GA,Hamilton-GA,Georgia,13145,Harris,32.7646,-84.876,1077,1077,125,polygon,TRUE,America/New_York,31811
+Enigma-GA,1840017103,Enigma,Enigma,GA,Enigma-GA,Georgia,13019,Berrien,31.4076,-83.329,1305,1305,154,polygon,TRUE,America/New_York,31749
+Henderson-GA,1840029265,Henderson,Henderson,GA,Henderson-GA,Georgia,13153,Houston,32.3413,-83.7893,,,8.7,point,FALSE,America/New_York,31025
+Wrens-GA,1840015739,Wrens,Wrens,GA,Wrens-GA,Georgia,13163,Jefferson,33.207,-82.3878,2042,2042,251,polygon,TRUE,America/New_York,30833
+Rock Spring-GA,1840029214,Rock Spring,Rock Spring,GA,Rock Spring-GA,Georgia,13295,Walker,34.8242,-85.2427,,,62,point,FALSE,America/New_York,30739
+West Green-GA,1840029443,West Green,West Green,GA,West Green-GA,Georgia,13069,Coffee,31.613,-82.7346,,,83,point,FALSE,America/New_York,31567
+Winokur-GA,1840029187,Winokur,Winokur,GA,Winokur-GA,Georgia,13049,Charlton,31.0383,-82.0201,,,16.1,point,FALSE,America/New_York,31537
+Gracewood-GA,1840029260,Gracewood,Gracewood,GA,Gracewood-GA,Georgia,13245,Richmond,33.3726,-82.0321,,,529.1,point,FALSE,America/New_York,30906
+Toccoa-GA,1840015551,Toccoa,Toccoa,GA,Toccoa-GA,Georgia,13257,Stephens,34.5807,-83.3256,10744,8412,341,polygon,TRUE,America/New_York,30577 30598
+North Druid Hills-GA,1840029449,North Druid Hills,North Druid Hills,GA,North Druid Hills-GA,Georgia,13089,DeKalb,33.8182,-84.3255,,,1237.3,polygon,FALSE,America/New_York,30329 30324 30033 30359
+Sylvester-GA,1840015855,Sylvester,Sylvester,GA,Sylvester-GA,Georgia,13321,Worth,31.53,-83.8337,6551,6064,355,polygon,TRUE,America/New_York,31791
+Dixie Union-GA,1840029132,Dixie Union,Dixie Union,GA,Dixie Union-GA,Georgia,13299,Ware,31.3394,-82.4632,,,71.2,point,FALSE,America/New_York,31503
+Cedartown-GA,1840014752,Cedartown,Cedartown,GA,Cedartown-GA,Georgia,13233,Polk,34.0217,-85.25,12565,9799,435,polygon,TRUE,America/New_York,30125
+Crabapple-GA,1840029242,Crabapple,Crabapple,GA,Crabapple-GA,Georgia,13121,Fulton,34.0901,-84.3385,,,471.8,point,FALSE,America/New_York,30004
+Rest Haven-GA,1840017972,Rest Haven,Rest Haven,GA,Rest Haven-GA,Georgia,13135,Gwinnett,34.1337,-83.976,66,66,73,polygon,TRUE,America/New_York,30518
+Calvary-GA,1840025988,Calvary,Calvary,GA,Calvary-GA,Georgia,13131,Grady,30.7225,-84.3541,,,96.4,polygon,FALSE,America/New_York,39828 39829
+Newton-GA,1840014966,Newton,Newton,GA,Newton-GA,Georgia,13007,Baker,31.3172,-84.3376,588,588,78,polygon,TRUE,America/New_York,39870
+Wrightsville-GA,1840015789,Wrightsville,Wrightsville,GA,Wrightsville-GA,Georgia,13167,Johnson,32.7265,-82.7197,5685,3616,396,polygon,TRUE,America/New_York,31096
+Hoboken-GA,1840014973,Hoboken,Hoboken,GA,Hoboken-GA,Georgia,13025,Brantley,31.1813,-82.1313,526,526,59,polygon,TRUE,America/New_York,31542
+Oakdale-GA,1840029300,Oakdale,Oakdale,GA,Oakdale-GA,Georgia,13067,Cobb,33.8187,-84.4977,,,139.2,point,FALSE,America/New_York,30126
+Gibson-GA,1840013779,Gibson,Gibson,GA,Gibson-GA,Georgia,13125,Glascock,33.2334,-82.596,646,646,243,polygon,TRUE,America/New_York,30810
+Webb-GA,1840029363,Webb,Webb,GA,Webb-GA,Georgia,13121,Fulton,34.0973,-84.2594,,,1494.8,point,FALSE,America/New_York,30004
+Cochran-GA,1840014890,Cochran,Cochran,GA,Cochran-GA,Georgia,13023,Bleckley,32.3875,-83.3523,6184,5036,413,polygon,TRUE,America/New_York,31014
+Lyons-GA,1840015818,Lyons,Lyons,GA,Lyons-GA,Georgia,13279,Toombs,32.2052,-82.3214,4369,4369,206,polygon,TRUE,America/New_York,30436
+Moultrie-GA,1840014977,Moultrie,Moultrie,GA,Moultrie-GA,Georgia,13071,Colquitt,31.1591,-83.7705,18799,14361,335,polygon,TRUE,America/New_York,31768 31788 31776
+Vernonburg-GA,1840017031,Vernonburg,Vernonburg,GA,Vernonburg-GA,Georgia,13051,Chatham,31.9638,-81.1258,130,130,145,polygon,TRUE,America/New_York,31419
+Grayson-GA,1840013676,Grayson,Grayson,GA,Grayson-GA,Georgia,13135,Gwinnett,33.89,-83.9575,3742,3742,582,polygon,TRUE,America/New_York,30017
+Milledgeville-GA,1840014857,Milledgeville,Milledgeville,GA,Milledgeville-GA,Georgia,13009,Baldwin,33.0874,-83.2414,31856,18933,359,polygon,TRUE,America/New_York,31062 31061
+Baldwin-GA,1840013576,Baldwin,Baldwin,GA,Baldwin-GA,Georgia,13137,Habersham,34.4864,-83.5492,3304,3304,260,polygon,TRUE,America/New_York,30531 30510 30511
+Metter-GA,1840014896,Metter,Metter,GA,Metter-GA,Georgia,13043,Candler,32.3959,-82.0625,3585,4076,204,polygon,TRUE,America/New_York,30439
+Pooler-GA,1840014914,Pooler,Pooler,GA,Pooler-GA,Georgia,13051,Chatham,32.1023,-81.2539,23744,23744,309,polygon,TRUE,America/New_York,31322
+Dexter-GA,1840016973,Dexter,Dexter,GA,Dexter-GA,Georgia,13175,Laurens,32.4331,-83.0595,568,568,285,polygon,TRUE,America/New_York,31019
+Coal Mountain-GA,1840029238,Coal Mountain,Coal Mountain,GA,Coal Mountain-GA,Georgia,13117,Forsyth,34.2715,-84.1007,,,193.9,point,FALSE,America/New_York,30040
+Tarboro-GA,1840029352,Tarboro,Tarboro,GA,Tarboro-GA,Georgia,13039,Camden,31.0177,-81.8054,,,6.2,point,FALSE,America/New_York,31568
+Haralson-GA,1840016860,Haralson,Haralson,GA,Haralson-GA,Georgia,13077,Coweta,33.2285,-84.569,187,187,92,polygon,TRUE,America/New_York,30276 30229
+Emory-GA,1840012955,Emory,Emory,GA,Emory-GA,Georgia,13089,DeKalb,33.789,-84.3208,,,1221.2,point,FALSE,America/New_York,30102
+Chicopee-GA,1840029234,Chicopee,Chicopee,GA,Chicopee-GA,Georgia,13139,Hall,34.2534,-83.8435,,,794.2,point,FALSE,America/New_York,30504
+Canton-GA,1840014703,Canton,Canton,GA,Canton-GA,Georgia,13057,Cherokee,34.2468,-84.4902,26340,26340,545,polygon,TRUE,America/New_York,30114
+Claxton-GA,1840014910,Claxton,Claxton,GA,Claxton-GA,Georgia,13109,Evans,32.1613,-81.9093,3562,2297,510,polygon,TRUE,America/New_York,30417
+Vidalia-GA,1840015820,Vidalia,Vidalia,GA,Vidalia-GA,Georgia,13279,Toombs,32.2134,-82.4035,13736,10703,238,polygon,TRUE,America/New_York,30474 30436
+Acree-GA,1840029115,Acree,Acree,GA,Acree-GA,Georgia,13095,Dougherty,31.5555,-83.996,,,27.2,point,FALSE,America/New_York,31791
+Lincoln Park-GA,1840013797,Lincoln Park,Lincoln Park,GA,Lincoln Park-GA,Georgia,13293,Upson,32.8674,-84.3348,,,412.5,polygon,FALSE,America/New_York,30286
+Weber-GA,1840029364,Weber,Weber,GA,Weber-GA,Georgia,13019,Berrien,31.2371,-83.1399,,,16.9,point,FALSE,America/New_York,31639
+Acworth-GA,1840013688,Acworth,Acworth,GA,Acworth-GA,Georgia,13067,Cobb,34.0564,-84.6688,22418,22418,1044,polygon,TRUE,America/New_York,30144 30101
+Ashburn-GA,1840013854,Ashburn,Ashburn,GA,Ashburn-GA,Georgia,13287,Turner,31.7096,-83.6528,4040,3737,305,polygon,TRUE,America/New_York,31714
+Hazlehurst-GA,1840014937,Hazlehurst,Hazlehurst,GA,Hazlehurst-GA,Georgia,13161,Jeff Davis,31.8651,-82.5994,4551,4186,341,polygon,TRUE,America/New_York,31539
+Buena Vista-GA,1840013827,Buena Vista,Buena Vista,GA,Buena Vista-GA,Georgia,13197,Marion,32.3188,-84.5177,2142,2142,256,polygon,TRUE,America/New_York,31803
+Johns Creek-GA,1840014742,Johns Creek,Johns Creek,GA,Johns Creek-GA,Georgia,13121,Fulton,34.0333,-84.2027,83873,83873,1051,polygon,TRUE,America/New_York,30022 30097 30005
+Hortense-GA,1840029270,Hortense,Hortense,GA,Hortense-GA,Georgia,13025,Brantley,31.3366,-81.9562,,,78.5,point,FALSE,America/New_York,31543
+Whigham-GA,1840015891,Whigham,Whigham,GA,Whigham-GA,Georgia,13131,Grady,30.8845,-84.3247,473,473,155,polygon,TRUE,America/New_York,39897
+Tiger-GA,1840016508,Tiger,Tiger,GA,Tiger-GA,Georgia,13241,Rabun,34.8458,-83.433,406,406,189,polygon,TRUE,America/New_York,30576
+Cadwell-GA,1840015796,Cadwell,Cadwell,GA,Cadwell-GA,Georgia,13175,Laurens,32.3396,-83.042,526,526,162,polygon,TRUE,America/New_York,31009
+Valdosta-GA,1840015894,Valdosta,Valdosta,GA,Valdosta-GA,Georgia,13185,Lowndes,30.8503,-83.2789,79844,56474,608,polygon,TRUE,America/New_York,31698 31602 31601 31605 31603 31604
+Guyton-GA,1840013823,Guyton,Guyton,GA,Guyton-GA,Georgia,13103,Effingham,32.341,-81.4225,1892,1892,227,polygon,TRUE,America/New_York,31312
+Dames Ferry-GA,1840029397,Dames Ferry,Dames Ferry,GA,Dames Ferry-GA,Georgia,13207,Monroe,33.0221,-83.7249,,,2.6,point,FALSE,America/New_York,31046
+Towns-GA,1840029356,Towns,Towns,GA,Towns-GA,Georgia,13271,Telfair,32.0043,-82.7546,,,26.5,point,FALSE,America/New_York,31055
+Springvale-GA,1840029179,Springvale,Springvale,GA,Springvale-GA,Georgia,13243,Randolph,31.8282,-84.8796,,,10.2,point,FALSE,America/New_York,39867
+Junction City-GA,1840016956,Junction City,Junction City,GA,Junction City-GA,Georgia,13263,Talbot,32.6032,-84.4573,162,162,26,polygon,TRUE,America/New_York,31812
+Shellman Bluff-GA,1840029337,Shellman Bluff,Shellman Bluff,GA,Shellman Bluff-GA,Georgia,13191,McIntosh,31.5727,-81.3232,,,104,point,FALSE,America/New_York,31331
+Irwinton-GA,1840014865,Irwinton,Irwinton,GA,Irwinton-GA,Georgia,13319,Wilkinson,32.8108,-83.1737,568,568,69,polygon,TRUE,America/New_York,31042
+Chatsworth-GA,1840014648,Chatsworth,Chatsworth,GA,Chatsworth-GA,Georgia,13213,Murray,34.7808,-84.7835,4264,4264,309,polygon,TRUE,America/New_York,30705
+Vinings-GA,1840013687,Vinings,Vinings,GA,Vinings-GA,Georgia,13067,Cobb,33.8608,-84.4686,,,778,polygon,FALSE,America/New_York,30339
+Gumlog-GA,1840029455,Gumlog,Gumlog,GA,Gumlog-GA,Georgia,13119,Franklin,34.4953,-83.0975,,,150.4,polygon,FALSE,America/New_York,30553 30557
+Hatley-GA,1840029424,Hatley,Hatley,GA,Hatley-GA,Georgia,13081,Crisp,31.8993,-83.6132,,,8.5,point,FALSE,America/New_York,31015
+Doles-GA,1840029192,Doles,Doles,GA,Doles-GA,Georgia,13321,Worth,31.6993,-83.8852,,,14.5,point,FALSE,America/New_York,31791
+Lavonia-GA,1840014692,Lavonia,Lavonia,GA,Lavonia-GA,Georgia,13119,Franklin,34.4345,-83.1082,2167,2167,182,polygon,TRUE,America/New_York,30553
+Huber-GA,1840029427,Huber,Huber,GA,Huber-GA,Georgia,13289,Twiggs,32.7043,-83.5563,,,42.7,point,FALSE,America/New_York,31217
+Norcross-GA,1840014744,Norcross,Norcross,GA,Norcross-GA,Georgia,13135,Gwinnett,33.9379,-84.2065,16787,16787,1059,polygon,TRUE,America/New_York,30071 30003 30010 30091
+Morrow-GA,1840014814,Morrow,Morrow,GA,Morrow-GA,Georgia,13063,Clayton,33.5816,-84.3391,7276,7276,833,polygon,TRUE,America/New_York,30260 30287
+Emerson-GA,1840013621,Emerson,Emerson,GA,Emerson-GA,Georgia,13015,Bartow,34.1297,-84.7444,1565,1565,81,polygon,TRUE,America/New_York,30137 30121
+Millhaven-GA,1840029430,Millhaven,Millhaven,GA,Millhaven-GA,Georgia,13251,Screven,32.9338,-81.6496,,,1.6,point,FALSE,America/New_York,30467
+Byron-GA,1840013820,Byron,Byron,GA,Byron-GA,Georgia,13225,Peach,32.6477,-83.7539,5133,5133,229,polygon,TRUE,America/New_York,31008
+Statesboro-GA,1840015801,Statesboro,Statesboro,GA,Statesboro-GA,Georgia,13031,Bulloch,32.4376,-81.775,40141,31419,822,polygon,TRUE,America/New_York,30460 30461 30458 30459
+Shingler-GA,1840029338,Shingler,Shingler,GA,Shingler-GA,Georgia,13321,Worth,31.5782,-83.7846,,,59.3,point,FALSE,America/New_York,31781
+Glennville-GA,1840013832,Glennville,Glennville,GA,Glennville-GA,Georgia,13267,Tattnall,31.9382,-81.9305,4514,5098,278,polygon,TRUE,America/New_York,30427
+Tyrone-GA,1840016845,Tyrone,Tyrone,GA,Tyrone-GA,Georgia,13113,Fayette,33.4751,-84.5942,7215,7215,222,polygon,TRUE,America/New_York,30290
+Culverton-GA,1840029394,Culverton,Culverton,GA,Culverton-GA,Georgia,13141,Hancock,33.3085,-82.8951,,,5.5,point,FALSE,America/New_York,31087
+Stovall-GA,1840029347,Stovall,Stovall,GA,Stovall-GA,Georgia,13199,Meriwether,32.961,-84.8519,,,17.1,point,FALSE,America/New_York,30222
+Elmodel-GA,1840029250,Elmodel,Elmodel,GA,Elmodel-GA,Georgia,13007,Baker,31.3457,-84.4724,,,3.7,point,FALSE,America/New_York,39870
+Round Oak-GA,1840029435,Round Oak,Round Oak,GA,Round Oak-GA,Georgia,13169,Jones,33.111,-83.6152,,,6.2,point,FALSE,America/New_York,31038
+Dunwoody-GA,1840022929,Dunwoody,Dunwoody,GA,Dunwoody-GA,Georgia,13089,DeKalb,33.9418,-84.3123,48884,48884,1455,polygon,TRUE,America/New_York,30338 30346 30360 30356
+Hartwell-GA,1840013614,Hartwell,Hartwell,GA,Hartwell-GA,Georgia,13147,Hart,34.3501,-82.9287,5930,4505,341,polygon,TRUE,America/New_York,30643
+Excelsior-GA,1840029413,Excelsior,Excelsior,GA,Excelsior-GA,Georgia,13043,Candler,32.3135,-81.966,,,6.3,point,FALSE,America/New_York,30439
+Centerville-GA,1840014884,Centerville,Centerville,GA,Centerville-GA,Georgia,13153,Houston,32.6341,-83.6854,7615,7615,740,polygon,TRUE,America/New_York,31028 31093
+Zebulon-GA,1840015754,Zebulon,Zebulon,GA,Zebulon-GA,Georgia,13231,Pike,33.0944,-84.3424,1166,1166,100,polygon,TRUE,America/New_York,30295
+Sharon-GA,1840015692,Sharon,Sharon,GA,Sharon-GA,Georgia,13265,Taliaferro,33.5601,-82.7949,132,132,65,polygon,TRUE,America/New_York,30631 30664
+Denton-GA,1840014936,Denton,Denton,GA,Denton-GA,Georgia,13161,Jeff Davis,31.7222,-82.6968,251,251,63,polygon,TRUE,America/New_York,31532
+Wayside-GA,1840029442,Wayside,Wayside,GA,Wayside-GA,Georgia,13169,Jones,33.0612,-83.6049,,,24.8,point,FALSE,America/New_York,31032
+Coolidge-GA,1840014996,Coolidge,Coolidge,GA,Coolidge-GA,Georgia,13275,Thomas,31.0113,-83.866,528,528,249,polygon,TRUE,America/New_York,31738
+Donalsonville-GA,1840014997,Donalsonville,Donalsonville,GA,Donalsonville-GA,Georgia,13253,Seminole,31.0404,-84.8792,2731,2637,256,polygon,TRUE,America/New_York,39845
+Gordy-GA,1840029418,Gordy,Gordy,GA,Gordy-GA,Georgia,13321,Worth,31.4805,-83.8799,,,22,point,FALSE,America/New_York,31791
+Peachtree City-GA,1840014822,Peachtree City,Peachtree City,GA,Peachtree City-GA,Georgia,13113,Fayette,33.3943,-84.5711,35186,35186,553,polygon,TRUE,America/New_York,30269 30270 31169
+Calhoun-GA,1840013596,Calhoun,Calhoun,GA,Calhoun-GA,Georgia,13129,Gordon,34.4925,-84.9394,33092,16445,425,polygon,TRUE,America/New_York,30701 30703
+Inman-GA,1840029272,Inman,Inman,GA,Inman-GA,Georgia,13113,Fayette,33.3854,-84.4119,,,73,point,FALSE,America/New_York,30215
+Whitesburg-GA,1840015680,Whitesburg,Whitesburg,GA,Whitesburg-GA,Georgia,13045,Carroll,33.4928,-84.9137,604,604,84,polygon,TRUE,America/New_York,30185
+Chauncey-GA,1840014903,Chauncey,Chauncey,GA,Chauncey-GA,Georgia,13091,Dodge,32.1059,-83.0645,320,320,71,polygon,TRUE,America/New_York,31011
+Chula-GA,1840029389,Chula,Chula,GA,Chula-GA,Georgia,13277,Tift,31.5496,-83.5474,,,82.8,point,FALSE,America/New_York,31733
+Cornelia-GA,1840014661,Cornelia,Cornelia,GA,Cornelia-GA,Georgia,13137,Habersham,34.5164,-83.5308,19055,4267,416,polygon,TRUE,America/New_York,30531
+Coleman-GA,1840027003,Coleman,Coleman,GA,Coleman-GA,Georgia,13243,Randolph,31.6717,-84.8903,,,46.4,polygon,FALSE,America/New_York,39836
+Ellijay-GA,1840013575,Ellijay,Ellijay,GA,Ellijay-GA,Georgia,13123,Gilmer,34.6912,-84.484,3658,1694,184,polygon,TRUE,America/New_York,30540
+Cataula-GA,1840029230,Cataula,Cataula,GA,Cataula-GA,Georgia,13145,Harris,32.6554,-84.8685,,,83.3,point,FALSE,America/New_York,31804
+Williamson-GA,1840015755,Williamson,Williamson,GA,Williamson-GA,Georgia,13231,Pike,33.1811,-84.3626,459,459,298,polygon,TRUE,America/New_York,30292
+Raymond-GA,1840029323,Raymond,Raymond,GA,Raymond-GA,Georgia,13077,Coweta,33.3387,-84.7147,,,92.1,point,FALSE,America/New_York,30265
+Phelps-GA,1840029309,Phelps,Phelps,GA,Phelps-GA,Georgia,13313,Whitfield,34.6981,-84.9833,,,23,point,FALSE,America/New_York,30721
+Gresham Park-GA,1840029454,Gresham Park,Gresham Park,GA,Gresham Park-GA,Georgia,13089,DeKalb,33.7053,-84.3155,,,1207,polygon,FALSE,America/New_York,30316
+Locust Grove-GA,1840015705,Locust Grove,Locust Grove,GA,Locust Grove-GA,Georgia,13151,Henry,33.3439,-84.107,5940,5940,213,polygon,TRUE,America/New_York,30248
+Remerton-GA,1840014999,Remerton,Remerton,GA,Remerton-GA,Georgia,13185,Lowndes,30.8441,-83.3086,1123,1123,2125,polygon,TRUE,America/New_York,31602 31601
+Clayton-GA,1840014636,Clayton,Clayton,GA,Clayton-GA,Georgia,13241,Rabun,34.8775,-83.4019,3733,2266,262,polygon,TRUE,America/New_York,30525
+Carrollton-GA,1840014801,Carrollton,Carrollton,GA,Carrollton-GA,Georgia,13045,Carroll,33.5819,-85.0837,46695,26562,459,polygon,TRUE,America/New_York,30118 30116 30117 30112 30119
+Chickamauga-GA,1840014654,Chickamauga,Chickamauga,GA,Chickamauga-GA,Georgia,13295,Walker,34.8744,-85.289,3101,3101,466,polygon,TRUE,America/New_York,30707
+Summerville-GA,1840015554,Summerville,Summerville,GA,Summerville-GA,Georgia,13055,Chattooga,34.4788,-85.3491,10616,4360,419,polygon,TRUE,America/New_York,30747
+Ohoopee-GA,1840029306,Ohoopee,Ohoopee,GA,Ohoopee-GA,Georgia,13279,Toombs,32.1802,-82.2196,,,9.1,point,FALSE,America/New_York,30436
+Ellaville-GA,1840013830,Ellaville,Ellaville,GA,Ellaville-GA,Georgia,13249,Schley,32.238,-84.3089,1850,1850,226,polygon,TRUE,America/New_York,31806
+Byromville-GA,1840015827,Byromville,Byromville,GA,Byromville-GA,Georgia,13093,Dooly,32.2017,-83.9072,506,506,539,polygon,TRUE,America/New_York,31007
+Alpharetta-GA,1840013659,Alpharetta,Alpharetta,GA,Alpharetta-GA,Georgia,13121,Fulton,34.0704,-84.2739,65338,65338,937,polygon,TRUE,America/New_York,30022 30004 30005 30009 30023
+Tarrytown-GA,1840017011,Tarrytown,Tarrytown,GA,Tarrytown-GA,Georgia,13209,Montgomery,32.3187,-82.5595,87,87,39,polygon,TRUE,America/New_York,30470
+Apalachee-GA,1840029375,Apalachee,Apalachee,GA,Apalachee-GA,Georgia,13211,Morgan,33.6865,-83.431,,,22.3,point,FALSE,America/New_York,30650
+Talbotton-GA,1840015780,Talbotton,Talbotton,GA,Talbotton-GA,Georgia,13263,Talbot,32.6773,-84.5406,850,850,105,polygon,TRUE,America/New_York,31827
+Willacoochee-GA,1840015875,Willacoochee,Willacoochee,GA,Willacoochee-GA,Georgia,13003,Atkinson,31.3358,-83.0446,1370,1370,138,polygon,TRUE,America/New_York,31650
+Snellville-GA,1840015614,Snellville,Snellville,GA,Snellville-GA,Georgia,13135,Gwinnett,33.856,-84.0039,19738,19738,728,polygon,TRUE,America/New_York,30078
+Sumac-GA,1840029349,Sumac,Sumac,GA,Sumac-GA,Georgia,13213,Murray,34.8837,-84.7994,,,75.2,point,FALSE,America/New_York,30705
+East Ellijay-GA,1840013574,East Ellijay,East Ellijay,GA,East Ellijay-GA,Georgia,13123,Gilmer,34.6759,-84.4761,559,559,63,polygon,TRUE,America/New_York,30536 30540 30539
+Barnesville-GA,1840013783,Barnesville,Barnesville,GA,Barnesville-GA,Georgia,13171,Lamar,33.0511,-84.1526,7103,6696,426,polygon,TRUE,America/New_York,30204
+Pine Mountain-GA,1840016961,Pine Mountain,Pine Mountain,GA,Pine Mountain-GA,Georgia,13145,Harris,32.8524,-84.8531,1374,1374,183,polygon,TRUE,America/New_York,31822
+Duluth-GA,1840013675,Duluth,Duluth,GA,Duluth-GA,Georgia,13135,Gwinnett,34.0054,-84.1493,29331,29331,1117,polygon,TRUE,America/New_York,30097 30096 30026 30029 30095 30098 30099
+Braselton-GA,1840015596,Braselton,Braselton,GA,Braselton-GA,Georgia,13157,Jackson,34.1086,-83.8124,10234,10234,316,polygon,TRUE,America/New_York,30548 30517
+Howell-GA,1840029143,Howell,Howell,GA,Howell-GA,Georgia,13101,Echols,30.8277,-83.0538,,,41.2,point,FALSE,America/New_York,31636
+Sea Island-GA,1840029336,Sea Island,Sea Island,GA,Sea Island-GA,Georgia,13127,Glynn,31.1836,-81.3498,,,50.1,point,FALSE,America/New_York,31561
+Martin-GA,1840016613,Martin,Martin,GA,Martin-GA,Georgia,13257,Stephens,34.4856,-83.1983,371,371,57,polygon,TRUE,America/New_York,30557
+Oak Park-GA,1840016962,Oak Park,Oak Park,GA,Oak Park-GA,Georgia,13107,Emanuel,32.3822,-82.3153,477,477,26,polygon,TRUE,America/New_York,30471 30436
+Ellenwood-GA,1840029248,Ellenwood,Ellenwood,GA,Ellenwood-GA,Georgia,13063,Clayton,33.6101,-84.288,,,331.9,point,FALSE,America/New_York,30294
+Starrs Mill-GA,1840029346,Starrs Mill,Starrs Mill,GA,Starrs Mill-GA,Georgia,13113,Fayette,33.3273,-84.5124,,,329.3,point,FALSE,America/New_York,30276
+Baden-GA,1840029121,Baden,Baden,GA,Baden-GA,Georgia,13027,Brooks,30.7174,-83.5652,,,9.3,point,FALSE,America/New_York,31643
+Habersham-GA,1840029421,Habersham,Habersham,GA,Habersham-GA,Georgia,13137,Habersham,34.5898,-83.5605,,,54.5,point,FALSE,America/New_York,30535
+Elko-GA,1840029135,Elko,Elko,GA,Elko-GA,Georgia,13153,Houston,32.331,-83.7063,,,87.8,point,FALSE,America/New_York,31025
+Leslie-GA,1840014919,Leslie,Leslie,GA,Leslie-GA,Georgia,13261,Sumter,31.9545,-84.0864,384,384,83,polygon,TRUE,America/New_York,31764
+Horns-GA,1840029269,Horns,Horns,GA,Horns-GA,Georgia,13079,Crawford,32.6754,-84.0035,,,35.3,point,FALSE,America/New_York,31078
+Whitesville-GA,1840029186,Whitesville,Whitesville,GA,Whitesville-GA,Georgia,13145,Harris,32.8176,-85.0313,,,24.2,point,FALSE,America/New_York,31833
+Loganville-GA,1840015656,Loganville,Loganville,GA,Loganville-GA,Georgia,13297,Walton,33.8353,-83.8957,11674,11674,614,polygon,TRUE,America/New_York,30052
+Lithonia-GA,1840015644,Lithonia,Lithonia,GA,Lithonia-GA,Georgia,13089,DeKalb,33.7129,-84.106,2082,2082,901,polygon,TRUE,America/New_York,30058
+Resaca-GA,1840017930,Resaca,Resaca,GA,Resaca-GA,Georgia,13129,Gordon,34.5789,-84.944,781,781,109,polygon,TRUE,America/New_York,30735 30701
+McKinney-GA,1840029287,McKinney,McKinney,GA,McKinney-GA,Georgia,13293,Upson,32.926,-84.2919,,,40.7,point,FALSE,America/New_York,30286
+Pinehurst-GA,1840014909,Pinehurst,Pinehurst,GA,Pinehurst-GA,Georgia,13093,Dooly,32.1955,-83.7596,328,328,124,polygon,TRUE,America/New_York,31070
+Barney-GA,1840029122,Barney,Barney,GA,Barney-GA,Georgia,13027,Brooks,31.0082,-83.5129,,,41.3,point,FALSE,America/New_York,31625
+Rosier-GA,1840029172,Rosier,Rosier,GA,Rosier-GA,Georgia,13033,Burke,32.9782,-82.2426,,,6.3,point,FALSE,America/New_York,30434
+Arlington-GA,1840013866,Arlington,Arlington,GA,Arlington-GA,Georgia,13037,Calhoun,31.4383,-84.7253,1380,1380,133,polygon,TRUE,America/New_York,39813
+Eagle Grove-GA,1840025854,Eagle Grove,Eagle Grove,GA,Eagle Grove-GA,Georgia,13147,Hart,34.2918,-83.0043,,,31.8,polygon,FALSE,America/New_York,30520
+Roper-GA,1840029204,Roper,Roper,GA,Roper-GA,Georgia,13161,Jeff Davis,31.8121,-82.6515,,,21.5,point,FALSE,America/New_York,31539
+Twin Lakes-GA,1840029372,Twin Lakes,Twin Lakes,GA,Twin Lakes-GA,Georgia,13185,Lowndes,30.696,-83.2057,,,1010.4,point,FALSE,America/New_York,31636
+Dudley-GA,1840013814,Dudley,Dudley,GA,Dudley-GA,Georgia,13175,Laurens,32.5321,-83.0805,569,569,64,polygon,TRUE,America/New_York,31022
+Montgomery-GA,1840013838,Montgomery,Montgomery,GA,Montgomery-GA,Georgia,13051,Chatham,31.9438,-81.108,,,166.2,polygon,FALSE,America/New_York,31406
+Covington-GA,1840014808,Covington,Covington,GA,Covington-GA,Georgia,13217,Newton,33.6049,-83.8466,13977,13977,341,polygon,TRUE,America/New_York,30014 30015
+Braswell-GA,1840015632,Braswell,Braswell,GA,Braswell-GA,Georgia,13223,Paulding,33.9836,-84.9591,389,389,47,polygon,TRUE,America/New_York,30132 30153
+Odessadale-GA,1840029304,Odessadale,Odessadale,GA,Odessadale-GA,Georgia,13199,Meriwether,33.016,-84.813,,,38.9,point,FALSE,America/New_York,30222
+Bellville-GA,1840013835,Bellville,Bellville,GA,Bellville-GA,Georgia,13109,Evans,32.1526,-81.9743,120,120,46,polygon,TRUE,America/New_York,30417 30414
+Indian Springs-GA,1840013552,Indian Springs,Indian Springs,GA,Indian Springs-GA,Georgia,13047,Catoosa,34.9606,-85.1592,,,336.8,polygon,FALSE,America/New_York,30736
+White-GA,1840015572,White,White,GA,White-GA,Georgia,13015,Bartow,34.2825,-84.7472,725,725,290,polygon,TRUE,America/New_York,30184
+Pine Park-GA,1840029168,Pine Park,Pine Park,GA,Pine Park-GA,Georgia,13131,Grady,30.8513,-84.1018,,,138.7,point,FALSE,America/New_York,39828
+Brookfield-GA,1840029126,Brookfield,Brookfield,GA,Brookfield-GA,Georgia,13277,Tift,31.4185,-83.391,,,50,point,FALSE,America/New_York,31794
+Bluffton-GA,1840015859,Bluffton,Bluffton,GA,Bluffton-GA,Georgia,13061,Clay,31.5198,-84.8691,99,99,23,polygon,TRUE,America/New_York,39824
+Waverly-GA,1840029362,Waverly,Waverly,GA,Waverly-GA,Georgia,13039,Camden,31.0958,-81.7226,,,50,point,FALSE,America/New_York,31565
+Watkinsville-GA,1840012722,Watkinsville,Watkinsville,GA,Watkinsville-GA,Georgia,13219,Oconee,33.8613,-83.4073,2863,2863,338,polygon,TRUE,America/New_York,30677
+Porterdale-GA,1840014810,Porterdale,Porterdale,GA,Porterdale-GA,Georgia,13217,Newton,33.5742,-83.8942,1495,1495,249,polygon,TRUE,America/New_York,30070 30014
+Ray City-GA,1840014965,Ray City,Ray City,GA,Ray City-GA,Georgia,13019,Berrien,31.0756,-83.1969,1053,1053,456,polygon,TRUE,America/New_York,31645
+Epworth-GA,1840025840,Epworth,Epworth,GA,Epworth-GA,Georgia,13111,Fannin,34.951,-84.3809,,,108,polygon,FALSE,America/New_York,30541 30513
+Lumpkin-GA,1840015832,Lumpkin,Lumpkin,GA,Lumpkin-GA,Georgia,13259,Stewart,32.0487,-84.798,1091,1091,266,polygon,TRUE,America/New_York,31815
+Monticello-GA,1840014832,Monticello,Monticello,GA,Monticello-GA,Georgia,13159,Jasper,33.3076,-83.6861,2498,2618,314,polygon,TRUE,America/New_York,31064
+Brooks-GA,1840015714,Brooks,Brooks,GA,Brooks-GA,Georgia,13113,Fayette,33.2925,-84.4588,550,550,49,polygon,TRUE,America/New_York,30205
+Wesley-GA,1840029183,Wesley,Wesley,GA,Wesley-GA,Georgia,13107,Emanuel,32.4835,-82.331,,,16.4,point,FALSE,America/New_York,30401
+Marietta-GA,1840015633,Marietta,Marietta,GA,Marietta-GA,Georgia,13067,Cobb,33.9532,-84.542,60941,60941,1011,polygon,TRUE,America/New_York,30060 30062 30064 30067 30008 30006 30007 30061 30063 30065 30069 30090
+Doyle-GA,1840029405,Doyle,Doyle,GA,Doyle-GA,Georgia,13197,Marion,32.2843,-84.4438,,,2.4,point,FALSE,America/New_York,31803
+Tallapoosa-GA,1840015662,Tallapoosa,Tallapoosa,GA,Tallapoosa-GA,Georgia,13143,Haralson,33.7335,-85.2859,3187,3187,122,polygon,TRUE,America/New_York,30176
+Helen-GA,1840014666,Helen,Helen,GA,Helen-GA,Georgia,13311,White,34.7045,-83.7201,542,542,96,polygon,TRUE,America/New_York,30545
+Jonesboro-GA,1840014816,Jonesboro,Jonesboro,GA,Jonesboro-GA,Georgia,13063,Clayton,33.5212,-84.3541,4729,4729,722,polygon,TRUE,America/New_York,30236 30237
+Hartford-GA,1840029423,Hartford,Hartford,GA,Hartford-GA,Georgia,13235,Pulaski,32.2857,-83.4491,,,79.9,point,FALSE,America/New_York,31036
+Winterville-GA,1840015638,Winterville,Winterville,GA,Winterville-GA,Georgia,13059,Clarke,33.9666,-83.2815,1197,1197,176,polygon,TRUE,America/New_York,30683
+Leesburg-GA,1840014940,Leesburg,Leesburg,GA,Leesburg-GA,Georgia,13177,Lee,31.7325,-84.1687,3768,3006,235,polygon,TRUE,America/New_York,31763
+Rutledge-GA,1840014800,Rutledge,Rutledge,GA,Rutledge-GA,Georgia,13211,Morgan,33.6263,-83.6112,800,800,94,polygon,TRUE,America/New_York,30663
+Blythe-GA,1840015715,Blythe,Blythe,GA,Blythe-GA,Georgia,13245,Richmond,33.3012,-82.2026,694,694,95,polygon,TRUE,America/New_York,30805
+Stapleton-GA,1840015737,Stapleton,Stapleton,GA,Stapleton-GA,Georgia,13163,Jefferson,33.217,-82.4672,402,402,89,polygon,TRUE,America/New_York,30823
+Raoul-GA,1840013577,Raoul,Raoul,GA,Raoul-GA,Georgia,13137,Habersham,34.4545,-83.6001,,,569.8,polygon,FALSE,America/New_York,30510
+Register-GA,1840018089,Register,Register,GA,Register-GA,Georgia,13031,Bulloch,32.3659,-81.8848,179,179,89,polygon,TRUE,America/New_York,30452
+Augusta-GA,1840029462,Augusta,Augusta,GA,Augusta-GA,Georgia,13245,Richmond,33.3644,-82.0708,389215,197081,251,polygon,TRUE,America/New_York,30912 30815 30812 30907 30906 30904 30901 30909 30905 30805 30914 30916 30917 30919 30999
+Oak Grove-GA,1840029446,Oak Grove,Oak Grove,GA,Oak Grove-GA,Georgia,13057,Cherokee,34.092,-84.6152,,,1154.6,point,FALSE,America/New_York,30102
+Palmetto-GA,1840014740,Palmetto,Palmetto,GA,Palmetto-GA,Georgia,13121,Fulton,33.5311,-84.6678,4707,4707,153,polygon,TRUE,America/New_York,30268
+Rome-GA,1840014681,Rome,Rome,GA,Rome-GA,Georgia,13115,Floyd,34.2657,-85.1863,61019,36407,442,polygon,TRUE,America/New_York,30161 30165 30162
+Woodstock-GA,1840015574,Woodstock,Woodstock,GA,Woodstock-GA,Georgia,13057,Cherokee,34.1027,-84.5092,30929,30929,1018,polygon,TRUE,America/New_York,30188 30189
+Broxton-GA,1840013858,Broxton,Broxton,GA,Broxton-GA,Georgia,13069,Coffee,31.6248,-82.8877,1185,1185,141,polygon,TRUE,America/New_York,31519
+Starrsville-GA,1840029206,Starrsville,Starrsville,GA,Starrsville-GA,Georgia,13217,Newton,33.5396,-83.8193,,,43,point,FALSE,America/New_York,30014
+Brookhaven-GA,1840029224,Brookhaven,Brookhaven,GA,Brookhaven-GA,Georgia,13089,DeKalb,33.8746,-84.3315,52444,52444,1747,polygon,TRUE,America/New_York,30329 30319
+Blackshear-GA,1840013870,Blackshear,Blackshear,GA,Blackshear-GA,Georgia,13229,Pierce,31.299,-82.2429,4042,3595,314,polygon,TRUE,America/New_York,31516
+Stillwell-GA,1840029181,Stillwell,Stillwell,GA,Stillwell-GA,Georgia,13103,Effingham,32.378,-81.2504,,,10.3,point,FALSE,America/New_York,31329
+Sasser-GA,1840018155,Sasser,Sasser,GA,Sasser-GA,Georgia,13273,Terrell,31.7199,-84.3478,260,260,128,polygon,TRUE,America/New_York,39842 39885
+Phillipsburg-GA,1840029310,Phillipsburg,Phillipsburg,GA,Phillipsburg-GA,Georgia,13277,Tift,31.4389,-83.5203,,,769.9,polygon,FALSE,America/New_York,31794
+Hogansville-GA,1840014852,Hogansville,Hogansville,GA,Hogansville-GA,Georgia,13285,Troup,33.1675,-84.9028,3139,3139,167,polygon,TRUE,America/New_York,30230
+Hutchins-GA,1840029271,Hutchins,Hutchins,GA,Hutchins-GA,Georgia,13221,Oglethorpe,33.8418,-83.1679,,,16.8,point,FALSE,America/New_York,30630
+Savannah-GA,1840015830,Savannah,Savannah,GA,Savannah-GA,Georgia,13051,Chatham,32.0282,-81.1784,280692,146763,548,polygon,TRUE,America/New_York,31322 31409 31408 31401 31405 31404 31407 31406 31419 31415 31402 31403 31412 31414 31416 31418 31420 31421
+Mershon-GA,1840029157,Mershon,Mershon,GA,Mershon-GA,Georgia,13229,Pierce,31.4641,-82.2573,,,25.2,point,FALSE,America/New_York,31551
+Argyle-GA,1840015885,Argyle,Argyle,GA,Argyle-GA,Georgia,13065,Clinch,31.0733,-82.6489,214,214,48,polygon,TRUE,America/New_York,31634 31623
+Dillard-GA,1840014637,Dillard,Dillard,GA,Dillard-GA,Georgia,13241,Rabun,34.9748,-83.3821,337,337,74,polygon,TRUE,America/New_York,30537
+Plainfield-GA,1840029315,Plainfield,Plainfield,GA,Plainfield-GA,Georgia,13091,Dodge,32.2888,-83.1121,,,60.9,point,FALSE,America/New_York,31023
+Seville-GA,1840025929,Seville,Seville,GA,Seville-GA,Georgia,13315,Wilcox,31.9607,-83.6012,,,173,polygon,FALSE,America/New_York,31084 31072
+Milan-GA,1840014922,Milan,Milan,GA,Milan-GA,Georgia,13271,Telfair,32.0194,-83.0631,760,760,94,polygon,TRUE,America/New_York,31060
+Rockmart-GA,1840014753,Rockmart,Rockmart,GA,Rockmart-GA,Georgia,13233,Polk,34.0103,-85.0442,7827,4299,294,polygon,TRUE,America/New_York,30153
+Groveland-GA,1840029420,Groveland,Groveland,GA,Groveland-GA,Georgia,13029,Bryan,32.1444,-81.7457,,,30.4,point,FALSE,America/New_York,31321
+White Oak-GA,1840029185,White Oak,White Oak,GA,White Oak-GA,Georgia,13039,Camden,31.0313,-81.7304,,,6.2,point,FALSE,America/New_York,31568
+Darien-GA,1840014952,Darien,Darien,GA,Darien-GA,Georgia,13191,McIntosh,31.3568,-81.4314,3439,1845,33,polygon,TRUE,America/New_York,31305 31331
+Talmo-GA,1840016714,Talmo,Talmo,GA,Talmo-GA,Georgia,13157,Jackson,34.1843,-83.7175,192,192,33,polygon,TRUE,America/New_York,30567 30575
+Rhine-GA,1840018116,Rhine,Rhine,GA,Rhine-GA,Georgia,13091,Dodge,31.9891,-83.2,371,371,45,polygon,TRUE,America/New_York,31077
+Sparks-GA,1840018187,Sparks,Sparks,GA,Sparks-GA,Georgia,13075,Cook,31.1693,-83.4405,2002,2002,197,polygon,TRUE,America/New_York,31647
+Canon-GA,1840014689,Canon,Canon,GA,Canon-GA,Georgia,13147,Hart,34.3455,-83.1107,804,804,99,polygon,TRUE,America/New_York,30520
+Bartow-GA,1840015736,Bartow,Bartow,GA,Bartow-GA,Georgia,13163,Jefferson,32.8816,-82.4713,259,259,88,polygon,TRUE,America/New_York,30413
+Mountain City-GA,1840016507,Mountain City,Mountain City,GA,Mountain City-GA,Georgia,13241,Rabun,34.9196,-83.3854,1075,1075,228,polygon,TRUE,America/New_York,30562
+McRae-GA,1840015835,McRae,McRae,GA,McRae-GA,Georgia,13271,Telfair,32.068,-82.9007,,,415.4,point,FALSE,America/New_York,31055
+Jefferson-GA,1840014723,Jefferson,Jefferson,GA,Jefferson-GA,Georgia,13157,Jackson,34.1368,-83.6022,11610,10486,186,polygon,TRUE,America/New_York,30549
+Six Mile-GA,1840029436,Six Mile,Six Mile,GA,Six Mile-GA,Georgia,13115,Floyd,34.1773,-85.2063,,,90.3,point,FALSE,America/New_York,30161
+Mora-GA,1840029293,Mora,Mora,GA,Mora-GA,Georgia,13069,Coffee,31.4141,-82.9538,,,15.2,point,FALSE,America/New_York,31650
+Sunset Village-GA,1840013796,Sunset Village,Sunset Village,GA,Sunset Village-GA,Georgia,13293,Upson,32.8946,-84.4057,,,133.4,polygon,FALSE,America/New_York,30286
+Stonecrest-GA,1840029466,Stonecrest,Stonecrest,GA,Stonecrest-GA,Georgia,13089,DeKalb,33.701,-84.1719,,,141.5,point,TRUE,America/New_York,30038
+Funston-GA,1840013881,Funston,Funston,GA,Funston-GA,Georgia,13071,Colquitt,31.1989,-83.8771,447,447,151,polygon,TRUE,America/New_York,31768 31753
+Meansville-GA,1840015753,Meansville,Meansville,GA,Meansville-GA,Georgia,13231,Pike,33.0509,-84.3083,183,183,139,polygon,TRUE,America/New_York,30256
+Elizabeth-GA,1840029246,Elizabeth,Elizabeth,GA,Elizabeth-GA,Georgia,13067,Cobb,33.9762,-84.5474,,,74.4,point,FALSE,America/New_York,30060
+Good Hope-GA,1840013713,Good Hope,Good Hope,GA,Good Hope-GA,Georgia,13297,Walton,33.785,-83.6094,291,291,60,polygon,TRUE,America/New_York,30641
+Clyo-GA,1840029129,Clyo,Clyo,GA,Clyo-GA,Georgia,13103,Effingham,32.4841,-81.2671,,,41.1,point,FALSE,America/New_York,31303
+Attapulgus-GA,1840013898,Attapulgus,Attapulgus,GA,Attapulgus-GA,Georgia,13087,Decatur,30.7495,-84.4839,432,432,209,polygon,TRUE,America/New_York,39815
+Zebina-GA,1840029370,Zebina,Zebina,GA,Zebina-GA,Georgia,13163,Jefferson,33.1646,-82.3537,,,6.5,point,FALSE,America/New_York,30833
+Halfmoon Landing-GA,1840029264,Halfmoon Landing,Halfmoon Landing,GA,Halfmoon Landing-GA,Georgia,13179,Liberty,31.6997,-81.2784,,,3,point,FALSE,America/New_York,31320
+Juliette-GA,1840029275,Juliette,Juliette,GA,Juliette-GA,Georgia,13207,Monroe,33.1074,-83.8002,,,50.7,point,FALSE,America/New_York,31046
+Snapfinger-GA,1840029345,Snapfinger,Snapfinger,GA,Snapfinger-GA,Georgia,13089,DeKalb,33.6871,-84.2016,,,812.4,point,FALSE,America/New_York,30034
+Carnesville-GA,1840014690,Carnesville,Carnesville,GA,Carnesville-GA,Georgia,13119,Franklin,34.3716,-83.2328,578,578,85,polygon,TRUE,America/New_York,30521
+Kennesaw-GA,1840014756,Kennesaw,Kennesaw,GA,Kennesaw-GA,Georgia,13067,Cobb,34.0261,-84.6177,33627,33627,1355,polygon,TRUE,America/New_York,30152 30144
+Bostwick-GA,1840013737,Bostwick,Bostwick,GA,Bostwick-GA,Georgia,13211,Morgan,33.7378,-83.515,372,372,45,polygon,TRUE,America/New_York,30623 30621
+Bloomingdale-GA,1840013840,Bloomingdale,Bloomingdale,GA,Bloomingdale-GA,Georgia,13051,Chatham,32.125,-81.3077,2717,2717,82,polygon,TRUE,America/New_York,31302
+Commerce-GA,1840014720,Commerce,Commerce,GA,Commerce-GA,Georgia,13157,Jackson,34.2129,-83.473,6871,6788,224,polygon,TRUE,America/New_York,30529 30599
+Isle of Hope-GA,1840013837,Isle of Hope,Isle of Hope,GA,Isle of Hope-GA,Georgia,13051,Chatham,31.9848,-81.0532,,,754.9,polygon,FALSE,America/New_York,31406
+Flippen-GA,1840029138,Flippen,Flippen,GA,Flippen-GA,Georgia,13151,Henry,33.4832,-84.1874,,,365.9,point,FALSE,America/New_York,30253
+Hoschton-GA,1840014722,Hoschton,Hoschton,GA,Hoschton-GA,Georgia,13157,Jackson,34.0933,-83.7617,1495,1495,223,polygon,TRUE,America/New_York,30548
+Mableton-GA,1840013690,Mableton,Mableton,GA,Mableton-GA,Georgia,13067,Cobb,33.8132,-84.5656,,,455.4,polygon,FALSE,America/New_York,30126 30168
+Fowlstown-GA,1840029415,Fowlstown,Fowlstown,GA,Fowlstown-GA,Georgia,13087,Decatur,30.8027,-84.5471,,,47.4,point,FALSE,America/New_York,39815
+Benevolence-GA,1840029218,Benevolence,Benevolence,GA,Benevolence-GA,Georgia,13243,Randolph,31.8818,-84.7346,,,23.5,point,FALSE,America/New_York,39840
+Glen Haven-GA,1840029257,Glen Haven,Glen Haven,GA,Glen Haven-GA,Georgia,13089,DeKalb,33.744,-84.218,,,833.6,point,FALSE,America/New_York,30035
+Hinesville-GA,1840014931,Hinesville,Hinesville,GA,Hinesville-GA,Georgia,13179,Liberty,31.8269,-81.6216,51673,33577,613,polygon,TRUE,America/New_York,31313 31310
+Ivey-GA,1840014866,Ivey,Ivey,GA,Ivey-GA,Georgia,13319,Wilkinson,32.9092,-83.2983,920,920,137,polygon,TRUE,America/New_York,31031
+Aragon-GA,1840013684,Aragon,Aragon,GA,Aragon-GA,Georgia,13233,Polk,34.0457,-85.057,1242,1242,427,polygon,TRUE,America/New_York,30104
+Pelham-GA,1840014967,Pelham,Pelham,GA,Pelham-GA,Georgia,13205,Mitchell,31.1267,-84.1514,3510,3649,346,polygon,TRUE,America/New_York,31779
+Fair Oaks-GA,1840013091,Fair Oaks,Fair Oaks,GA,Fair Oaks-GA,Georgia,13067,Cobb,33.9193,-84.5444,,,1400.6,polygon,FALSE,America/New_York,30060 30008 30080
+Port Wentworth-GA,1840014915,Port Wentworth,Port Wentworth,GA,Port Wentworth-GA,Georgia,13051,Chatham,32.1941,-81.1983,7933,7933,187,polygon,TRUE,America/New_York,31407
+Evans-GA,1840013095,Evans,Evans,GA,Evans-GA,Georgia,13073,Columbia,33.5619,-82.1351,,,355.5,polygon,FALSE,America/New_York,30809
+Boston-GA,1840013902,Boston,Boston,GA,Boston-GA,Georgia,13275,Thomas,30.792,-83.7899,1329,1329,227,polygon,TRUE,America/New_York,31626
+Centralhatchee-GA,1840016876,Centralhatchee,Centralhatchee,GA,Centralhatchee-GA,Georgia,13149,Heard,33.3689,-85.1037,389,389,45,polygon,TRUE,America/New_York,30217
+Jesup-GA,1840014943,Jesup,Jesup,GA,Jesup-GA,Georgia,13305,Wayne,31.5991,-81.8898,12605,10170,239,polygon,TRUE,America/New_York,31545 31546 31598 31599
+Fairburn-GA,1840013662,Fairburn,Fairburn,GA,Fairburn-GA,Georgia,13121,Fulton,33.5497,-84.5914,14182,14182,323,polygon,TRUE,America/New_York,30268 30213
+Ocilla-GA,1840014950,Ocilla,Ocilla,GA,Ocilla-GA,Georgia,13155,Irwin,31.5987,-83.2499,3553,3604,546,polygon,TRUE,America/New_York,31774
+Summertown-GA,1840015786,Summertown,Summertown,GA,Summertown-GA,Georgia,13107,Emanuel,32.7458,-82.2763,162,162,79,polygon,TRUE,America/New_York,30441
+Folkston-GA,1840013903,Folkston,Folkston,GA,Folkston-GA,Georgia,13049,Charlton,30.8392,-82.0072,11407,4788,441,polygon,TRUE,America/New_York,31537
+Winder-GA,1840015623,Winder,Winder,GA,Winder-GA,Georgia,13013,Barrow,33.9918,-83.7218,42330,15777,449,polygon,TRUE,America/New_York,30680
+Shellman-GA,1840015851,Shellman,Shellman,GA,Shellman-GA,Georgia,13243,Randolph,31.7571,-84.6159,985,985,120,polygon,TRUE,America/New_York,39886
+Lyerly-GA,1840016622,Lyerly,Lyerly,GA,Lyerly-GA,Georgia,13055,Chattooga,34.4035,-85.4041,528,528,271,polygon,TRUE,America/New_York,30730
+Colemans Lake-GA,1840029239,Colemans Lake,Colemans Lake,GA,Colemans Lake-GA,Georgia,13107,Emanuel,32.821,-82.2751,,,16.4,point,FALSE,America/New_York,30441
+Pine Lake-GA,1840014779,Pine Lake,Pine Lake,GA,Pine Lake-GA,Georgia,13089,DeKalb,33.7905,-84.2061,762,762,1192,polygon,TRUE,America/New_York,30072 30083
+Daisy-GA,1840014911,Daisy,Daisy,GA,Daisy-GA,Georgia,13109,Evans,32.151,-81.8362,142,142,56,polygon,TRUE,America/New_York,30423 30417
+Swords-GA,1840029351,Swords,Swords,GA,Swords-GA,Georgia,13211,Morgan,33.5443,-83.3068,,,64.8,point,FALSE,America/New_York,30625
+Cobbtown-GA,1840014906,Cobbtown,Cobbtown,GA,Cobbtown-GA,Georgia,13267,Tattnall,32.2806,-82.1387,348,348,200,polygon,TRUE,America/New_York,30420
+Louvale-GA,1840029429,Louvale,Louvale,GA,Louvale-GA,Georgia,13259,Stewart,32.1752,-84.8252,,,7.7,point,FALSE,America/New_York,31814
+Dacula-GA,1840014743,Dacula,Dacula,GA,Dacula-GA,Georgia,13135,Gwinnett,33.9812,-83.8936,5632,5632,438,polygon,TRUE,America/New_York,30019
+Stockbridge-GA,1840015707,Stockbridge,Stockbridge,GA,Stockbridge-GA,Georgia,13151,Henry,33.5265,-84.2293,28677,28677,840,polygon,TRUE,America/New_York,30253 30281
+Fort Oglethorpe-GA,1840013554,Fort Oglethorpe,Fort Oglethorpe,GA,Fort Oglethorpe-GA,Georgia,13047,Catoosa,34.9318,-85.2461,9839,9839,273,polygon,TRUE,America/New_York,30736 30741 30707 30742
+Grantville-GA,1840013760,Grantville,Grantville,GA,Grantville-GA,Georgia,13077,Coweta,33.2371,-84.8293,2707,3202,213,polygon,TRUE,America/New_York,30220
+Hollywood-GA,1840029268,Hollywood,Hollywood,GA,Hollywood-GA,Georgia,13137,Habersham,34.6495,-83.4474,,,33.8,point,FALSE,America/New_York,30523
+Halls-GA,1840029188,Halls,Halls,GA,Halls-GA,Georgia,13015,Bartow,34.2984,-84.9399,,,54.6,point,FALSE,America/New_York,30145
+Moniac-GA,1840029292,Moniac,Moniac,GA,Moniac-GA,Georgia,13049,Charlton,30.5183,-82.2251,,,16.5,point,FALSE,America/New_York,31562
+Sparta-GA,1840015725,Sparta,Sparta,GA,Sparta-GA,Georgia,13141,Hancock,33.2767,-82.9704,3313,1281,272,polygon,TRUE,America/New_York,31087
+Leathersville-GA,1840029198,Leathersville,Leathersville,GA,Leathersville-GA,Georgia,13181,Lincoln,33.7168,-82.4398,,,16.2,point,FALSE,America/New_York,30817
+Jeffersonville-GA,1840014871,Jeffersonville,Jeffersonville,GA,Jeffersonville-GA,Georgia,13289,Twiggs,32.6863,-83.3433,950,950,100,polygon,TRUE,America/New_York,31044
+Parrott-GA,1840017053,Parrott,Parrott,GA,Parrott-GA,Georgia,13273,Terrell,31.8943,-84.5118,149,149,73,polygon,TRUE,America/New_York,39877
+Matthews-GA,1840025882,Matthews,Matthews,GA,Matthews-GA,Georgia,13163,Jefferson,33.2176,-82.3079,,,39.3,polygon,FALSE,America/New_York,30818
+Rebecca-GA,1840018156,Rebecca,Rebecca,GA,Rebecca-GA,Georgia,13287,Turner,31.8072,-83.4876,168,168,82,polygon,TRUE,America/New_York,31783
+Lake Park-GA,1840015000,Lake Park,Lake Park,GA,Lake Park-GA,Georgia,13185,Lowndes,30.6852,-83.1875,3335,726,199,polygon,TRUE,America/New_York,31636
+Alexander-GA,1840029116,Alexander,Alexander,GA,Alexander-GA,Georgia,13033,Burke,33.0221,-81.8768,,,31.6,point,FALSE,America/New_York,30830
+Davisboro-GA,1840014850,Davisboro,Davisboro,GA,Davisboro-GA,Georgia,13303,Washington,32.9826,-82.6032,1697,1697,214,polygon,TRUE,America/New_York,31018
+Knoxville-GA,1840026999,Knoxville,Knoxville,GA,Knoxville-GA,Georgia,13079,Crawford,32.7232,-83.996,,,54,polygon,FALSE,America/New_York,31066 31050 31078
+Almon-GA,1840029117,Almon,Almon,GA,Almon-GA,Georgia,13217,Newton,33.6193,-83.9221,,,251.5,point,FALSE,America/New_York,30014
+Withers-GA,1840029211,Withers,Withers,GA,Withers-GA,Georgia,13065,Clinch,30.8549,-82.9032,,,3.1,point,FALSE,America/New_York,31630
+Doerun-GA,1840014976,Doerun,Doerun,GA,Doerun-GA,Georgia,13071,Colquitt,31.3218,-83.9171,770,770,237,polygon,TRUE,America/New_York,31744
+Hayneville-GA,1840029142,Hayneville,Hayneville,GA,Hayneville-GA,Georgia,13153,Houston,32.3835,-83.6207,,,64.9,point,FALSE,America/New_York,31036
+Royston-GA,1840014691,Royston,Royston,GA,Royston-GA,Georgia,13147,Hart,34.2859,-83.1097,2979,2563,290,polygon,TRUE,America/New_York,30662
+Rising Fawn-GA,1840029328,Rising Fawn,Rising Fawn,GA,Rising Fawn-GA,Georgia,13083,Dade,34.7601,-85.5311,,,69.2,point,FALSE,America/New_York,30738
+Waycross-GA,1840015871,Waycross,Waycross,GA,Waycross-GA,Georgia,13299,Ware,31.211,-82.3578,24741,14089,458,polygon,TRUE,America/New_York,31501 31503 31502
+Trion-GA,1840016623,Trion,Trion,GA,Trion-GA,Georgia,13055,Chattooga,34.548,-85.3108,1780,1780,179,polygon,TRUE,America/New_York,30753
+Bemiss-GA,1840029379,Bemiss,Bemiss,GA,Bemiss-GA,Georgia,13185,Lowndes,30.9333,-83.2413,,,592.3,point,FALSE,America/New_York,31605
+Arco-GA,1840029118,Arco,Arco,GA,Arco-GA,Georgia,13127,Glynn,31.2013,-81.5062,,,282.8,point,FALSE,America/New_York,31520
+Rocky Mount-GA,1840029329,Rocky Mount,Rocky Mount,GA,Rocky Mount-GA,Georgia,13199,Meriwether,33.1654,-84.6733,,,13.2,point,FALSE,America/New_York,30251
+Adgateville-GA,1840029374,Adgateville,Adgateville,GA,Adgateville-GA,Georgia,13159,Jasper,33.2232,-83.671,,,41.4,point,FALSE,America/New_York,31038
+Musella-GA,1840029163,Musella,Musella,GA,Musella-GA,Georgia,13079,Crawford,32.7979,-84.0321,,,19.9,point,FALSE,America/New_York,31066
+Flowery Branch-GA,1840013611,Flowery Branch,Flowery Branch,GA,Flowery Branch-GA,Georgia,13139,Hall,34.1707,-83.9141,7073,7073,393,polygon,TRUE,America/New_York,30542
+Unadilla-GA,1840015828,Unadilla,Unadilla,GA,Unadilla-GA,Georgia,13093,Dooly,32.2583,-83.7356,3253,3626,231,polygon,TRUE,America/New_York,31091
+Auburn-GA,1840013680,Auburn,Auburn,GA,Auburn-GA,Georgia,13013,Barrow,34.0151,-83.8316,7603,7603,444,polygon,TRUE,America/New_York,30011
+Ramhurst-GA,1840029433,Ramhurst,Ramhurst,GA,Ramhurst-GA,Georgia,13213,Murray,34.6981,-84.7308,,,65.9,point,FALSE,America/New_York,30705
+Douglasville-GA,1840014804,Douglasville,Douglasville,GA,Douglasville-GA,Georgia,13097,Douglas,33.7382,-84.7071,33252,33252,571,polygon,TRUE,America/New_York,30134 30135 30122 30133 30154
+Shiloh-GA,1840015784,Shiloh,Shiloh,GA,Shiloh-GA,Georgia,13145,Harris,32.812,-84.6989,460,460,79,polygon,TRUE,America/New_York,31826
+Cecil-GA,1840014975,Cecil,Cecil,GA,Cecil-GA,Georgia,13075,Cook,31.0465,-83.3907,275,275,111,polygon,TRUE,America/New_York,31632 31627 31620
+Van Wert-GA,1840029359,Van Wert,Van Wert,GA,Van Wert-GA,Georgia,13233,Polk,33.9873,-85.0433,,,254.5,point,FALSE,America/New_York,30153
+The Rock-GA,1840025092,The Rock,The Rock,GA,The Rock-GA,Georgia,13293,Upson,32.9635,-84.2378,,,18.1,polygon,FALSE,America/New_York,30285
+Americus-GA,1840013841,Americus,Americus,GA,Americus-GA,Georgia,13261,Sumter,32.0737,-84.2248,17775,15854,543,polygon,TRUE,America/New_York,31719 31709
+Waring-GA,1840029360,Waring,Waring,GA,Waring-GA,Georgia,13313,Whitfield,34.8345,-84.9713,,,252.1,point,FALSE,America/New_York,30721
+Ailey-GA,1840013831,Ailey,Ailey,GA,Ailey-GA,Georgia,13209,Montgomery,32.1882,-82.5699,556,556,99,polygon,TRUE,America/New_York,30410 30445
+Farmington-GA,1840029252,Farmington,Farmington,GA,Farmington-GA,Georgia,13219,Oconee,33.7762,-83.4235,,,38.3,point,FALSE,America/New_York,30677
+Bolingbroke-GA,1840029380,Bolingbroke,Bolingbroke,GA,Bolingbroke-GA,Georgia,13207,Monroe,32.9493,-83.8032,,,93,point,FALSE,America/New_York,31210
+New Hope-GA,1840029298,New Hope,New Hope,GA,New Hope-GA,Georgia,13223,Paulding,33.9582,-84.7894,,,554.6,point,FALSE,America/New_York,30157
+Lovett-GA,1840029149,Lovett,Lovett,GA,Lovett-GA,Georgia,13175,Laurens,32.6382,-82.7676,,,8.1,point,FALSE,America/New_York,31027
+Bullard-GA,1840029383,Bullard,Bullard,GA,Bullard-GA,Georgia,13289,Twiggs,32.6304,-83.4971,,,8.4,point,FALSE,America/New_York,31020
+Meinhard-GA,1840029155,Meinhard,Meinhard,GA,Meinhard-GA,Georgia,13051,Chatham,32.1816,-81.2109,,,61.8,point,FALSE,America/New_York,31407
+Chamblee-GA,1840014775,Chamblee,Chamblee,GA,Chamblee-GA,Georgia,13089,DeKalb,33.8842,-84.3008,28306,28306,1418,polygon,TRUE,America/New_York,30341 30345 30366
+Wadley-GA,1840015738,Wadley,Wadley,GA,Wadley-GA,Georgia,13163,Jefferson,32.8663,-82.4014,1944,1944,164,polygon,TRUE,America/New_York,30477
+Yorkville-GA,1840029369,Yorkville,Yorkville,GA,Yorkville-GA,Georgia,13223,Paulding,33.9243,-84.9955,,,321,point,FALSE,America/New_York,30153
+Putney-GA,1840013865,Putney,Putney,GA,Putney-GA,Georgia,13095,Dougherty,31.4755,-84.1006,,,137.4,polygon,FALSE,America/New_York,31705 31782
+Renfroe-GA,1840029325,Renfroe,Renfroe,GA,Renfroe-GA,Georgia,13053,Chattahoochee,32.2327,-84.7124,,,4.3,point,FALSE,America/New_York,31805
+Crawford-GA,1840014763,Crawford,Crawford,GA,Crawford-GA,Georgia,13221,Oglethorpe,33.883,-83.1552,828,828,274,polygon,TRUE,America/New_York,30630
+Mount Airy-GA,1840016567,Mount Airy,Mount Airy,GA,Mount Airy-GA,Georgia,13137,Habersham,34.5219,-83.4975,1300,1300,193,polygon,TRUE,America/New_York,30563 30531
+Doctortown-GA,1840029403,Doctortown,Doctortown,GA,Doctortown-GA,Georgia,13305,Wayne,31.6535,-81.8293,,,1.4,point,FALSE,America/New_York,31546
+Patterson-GA,1840014959,Patterson,Patterson,GA,Patterson-GA,Georgia,13229,Pierce,31.3854,-82.1375,754,754,110,polygon,TRUE,America/New_York,31557
+Unionville-GA,1840029357,Unionville,Unionville,GA,Unionville-GA,Georgia,13277,Tift,31.4363,-83.5084,,,918.6,polygon,FALSE,America/New_York,31794
+Moreland-GA,1840016859,Moreland,Moreland,GA,Moreland-GA,Georgia,13077,Coweta,33.2861,-84.7699,422,422,180,polygon,TRUE,America/New_York,30259
+Linwood-GA,1840029283,Linwood,Linwood,GA,Linwood-GA,Georgia,13295,Walker,34.7129,-85.2891,,,440,point,FALSE,America/New_York,30728
+Fortsonia-GA,1840029255,Fortsonia,Fortsonia,GA,Fortsonia-GA,Georgia,13105,Elbert,34.0151,-82.779,,,16.7,point,FALSE,America/New_York,30635
+Chalybeate Springs-GA,1840029388,Chalybeate Springs,Chalybeate Springs,GA,Chalybeate Springs-GA,Georgia,13199,Meriwether,32.8568,-84.5802,,,101.2,point,FALSE,America/New_York,31816
+Emmalane-GA,1840029136,Emmalane,Emmalane,GA,Emmalane-GA,Georgia,13165,Jenkins,32.7599,-81.9982,,,10.4,point,FALSE,America/New_York,30442
+Satilla-GA,1840025935,Satilla,Satilla,GA,Satilla-GA,Georgia,13161,Jeff Davis,31.7921,-82.564,,,114.4,polygon,FALSE,America/New_York,31539
+Dawesville-GA,1840029243,Dawesville,Dawesville,GA,Dawesville-GA,Georgia,13275,Thomas,30.9224,-84.0091,,,7.6,point,FALSE,America/New_York,31792
+Toomsboro-GA,1840015774,Toomsboro,Toomsboro,GA,Toomsboro-GA,Georgia,13319,Wilkinson,32.8224,-83.0827,444,444,92,polygon,TRUE,America/New_York,31090
+Silk Hope-GA,1840029341,Silk Hope,Silk Hope,GA,Silk Hope-GA,Georgia,13051,Chatham,32.043,-81.1918,,,274.2,point,FALSE,America/New_York,31405
+Orchard Hill-GA,1840016884,Orchard Hill,Orchard Hill,GA,Orchard Hill-GA,Georgia,13255,Spalding,33.1851,-84.2123,210,210,228,polygon,TRUE,America/New_York,30224 30266
+Pridgen-GA,1840029319,Pridgen,Pridgen,GA,Pridgen-GA,Georgia,13069,Coffee,31.6969,-82.9229,,,32.8,point,FALSE,America/New_York,31519
+Omega-GA,1840014957,Omega,Omega,GA,Omega-GA,Georgia,13277,Tift,31.3389,-83.595,1227,1227,265,polygon,TRUE,America/New_York,31775
+Decatur-GA,1840014777,Decatur,Decatur,GA,Decatur-GA,Georgia,13089,DeKalb,33.7711,-84.2968,22813,22813,1989,polygon,TRUE,America/New_York,30030 30031 30036 30037
+Munnerlyn-GA,1840029201,Munnerlyn,Munnerlyn,GA,Munnerlyn-GA,Georgia,13033,Burke,32.9535,-81.9621,,,1.6,point,FALSE,America/New_York,30830
+Canoochee-GA,1840025894,Canoochee,Canoochee,GA,Canoochee-GA,Georgia,13107,Emanuel,32.6786,-82.1786,,,6.3,polygon,FALSE,America/New_York,30471
+Millwood-GA,1840029291,Millwood,Millwood,GA,Millwood-GA,Georgia,13299,Ware,31.2658,-82.6604,,,45.2,point,FALSE,America/New_York,31552
+Scottdale-GA,1840013700,Scottdale,Scottdale,GA,Scottdale-GA,Georgia,13089,DeKalb,33.7951,-84.2629,,,567.2,polygon,FALSE,America/New_York,30079 30021 30033 30002
+Sycamore-GA,1840015854,Sycamore,Sycamore,GA,Sycamore-GA,Georgia,13287,Turner,31.671,-83.6352,654,654,255,polygon,TRUE,America/New_York,31790
+Highland Mills-GA,1840029267,Highland Mills,Highland Mills,GA,Highland Mills-GA,Georgia,13255,Spalding,33.2779,-84.2827,,,316.6,point,FALSE,America/New_York,30223
+Higgston-GA,1840015817,Higgston,Higgston,GA,Higgston-GA,Georgia,13209,Montgomery,32.2164,-82.467,310,310,38,polygon,TRUE,America/New_York,30474 30410
+Mechanicsville-GA,1840029289,Mechanicsville,Mechanicsville,GA,Mechanicsville-GA,Georgia,13135,Gwinnett,33.9276,-84.2424,,,252,point,FALSE,America/New_York,30340
+Lumber City-GA,1840015834,Lumber City,Lumber City,GA,Lumber City-GA,Georgia,13271,Telfair,31.933,-82.6828,1264,1264,253,polygon,TRUE,America/New_York,31549
+Manassas-GA,1840015822,Manassas,Manassas,GA,Manassas-GA,Georgia,13267,Tattnall,32.1603,-82.02,88,88,43,polygon,TRUE,America/New_York,30421 30417 30438
+Hilltop-GA,1840029450,Hilltop,Hilltop,GA,Hilltop-GA,Georgia,13231,Pike,33.1063,-84.4383,,,208.2,polygon,FALSE,America/New_York,30206
+Reed Creek-GA,1840013613,Reed Creek,Reed Creek,GA,Reed Creek-GA,Georgia,13147,Hart,34.4395,-82.9103,,,22,polygon,FALSE,America/New_York,30643
+Leland-GA,1840029281,Leland,Leland,GA,Leland-GA,Georgia,13067,Cobb,33.8123,-84.5588,,,479.7,point,FALSE,America/New_York,30126
+Arnold Mill-GA,1840029216,Arnold Mill,Arnold Mill,GA,Arnold Mill-GA,Georgia,13121,Fulton,34.1176,-84.388,,,417.3,point,FALSE,America/New_York,30075
+Comer-GA,1840014726,Comer,Comer,GA,Comer-GA,Georgia,13195,Madison,34.0625,-83.1263,1159,1159,138,polygon,TRUE,America/New_York,30629
+Warthen-GA,1840029371,Warthen,Warthen,GA,Warthen-GA,Georgia,13303,Washington,33.1021,-82.8037,,,31.4,point,FALSE,America/New_York,31094
+Hannahs Mill-GA,1840013795,Hannahs Mill,Hannahs Mill,GA,Hannahs Mill-GA,Georgia,13293,Upson,32.9369,-84.3405,,,526.2,polygon,FALSE,America/New_York,30286
+Saint George-GA,1840029173,Saint George,Saint George,GA,Saint George-GA,Georgia,13049,Charlton,30.5211,-82.0376,,,184.5,point,FALSE,America/New_York,31562
+Alston-GA,1840015815,Alston,Alston,GA,Alston-GA,Georgia,13209,Montgomery,32.081,-82.4789,159,159,21,polygon,TRUE,America/New_York,30473 30410 30412
+Elberton-GA,1840013651,Elberton,Elberton,GA,Elberton-GA,Georgia,13105,Elbert,34.1064,-82.8706,5628,4420,376,polygon,TRUE,America/New_York,30635
+Kingston-GA,1840014702,Kingston,Kingston,GA,Kingston-GA,Georgia,13015,Bartow,34.232,-84.9445,654,654,200,polygon,TRUE,America/New_York,30145
+Union City-GA,1840015610,Union City,Union City,GA,Union City-GA,Georgia,13121,Fulton,33.5939,-84.5629,20919,20919,411,polygon,TRUE,America/New_York,30349 30291 30213 30272
+Grovetown-GA,1840013748,Grovetown,Grovetown,GA,Grovetown-GA,Georgia,13073,Columbia,33.4495,-82.2066,13463,13463,1076,polygon,TRUE,America/New_York,30813
+Newborn-GA,1840016816,Newborn,Newborn,GA,Newborn-GA,Georgia,13217,Newton,33.5163,-83.6959,745,745,180,polygon,TRUE,America/New_York,30056
+Garfield-GA,1840013804,Garfield,Garfield,GA,Garfield-GA,Georgia,13107,Emanuel,32.6495,-82.0963,203,203,99,polygon,TRUE,America/New_York,30425
+Barretts-GA,1840029123,Barretts,Barretts,GA,Barretts-GA,Georgia,13185,Lowndes,31.0016,-83.1993,,,165.6,point,FALSE,America/New_York,31645
+Monroe-GA,1840014786,Monroe,Monroe,GA,Monroe-GA,Georgia,13297,Walton,33.7997,-83.7155,16146,13478,342,polygon,TRUE,America/New_York,30656 30655
+Country Club Estates-GA,1840029452,Country Club Estates,Country Club Estates,GA,Country Club Estates-GA,Georgia,13127,Glynn,31.2113,-81.4622,,,311.4,polygon,FALSE,America/New_York,31525
+Maysville-GA,1840016660,Maysville,Maysville,GA,Maysville-GA,Georgia,13011,Banks,34.2556,-83.5528,1889,1889,163,polygon,TRUE,America/New_York,30558
+Rupert-GA,1840029331,Rupert,Rupert,GA,Rupert-GA,Georgia,13269,Taylor,32.4404,-84.2799,,,10.1,point,FALSE,America/New_York,31081
+Reynolds-GA,1840014879,Reynolds,Reynolds,GA,Reynolds-GA,Georgia,13269,Taylor,32.5608,-84.0943,1025,1025,198,polygon,TRUE,America/New_York,31076
+Bishop-GA,1840015647,Bishop,Bishop,GA,Bishop-GA,Georgia,13219,Oconee,33.8171,-83.4372,251,251,123,polygon,TRUE,America/New_York,30621
+Lincolnton-GA,1840015643,Lincolnton,Lincolnton,GA,Lincolnton-GA,Georgia,13181,Lincoln,33.7931,-82.4776,1520,1520,167,polygon,TRUE,America/New_York,30817
+Poulan-GA,1840014941,Poulan,Poulan,GA,Poulan-GA,Georgia,13321,Worth,31.5145,-83.7898,803,803,185,polygon,TRUE,America/New_York,31781
+DeWitt-GA,1840029399,DeWitt,DeWitt,GA,DeWitt-GA,Georgia,13205,Mitchell,31.4199,-84.1399,,,1.8,point,FALSE,America/New_York,31716
+Shawnee-GA,1840029177,Shawnee,Shawnee,GA,Shawnee-GA,Georgia,13103,Effingham,32.4757,-81.4082,,,23.1,point,FALSE,America/New_York,31329
+Cordele-GA,1840014934,Cordele,Cordele,GA,Cordele-GA,Georgia,13081,Crisp,31.9563,-83.7695,12092,10856,413,polygon,TRUE,America/New_York,31015 31010
+Gabbettville-GA,1840029256,Gabbettville,Gabbettville,GA,Gabbettville-GA,Georgia,13285,Troup,32.9446,-85.1333,,,19.4,point,FALSE,America/New_York,30240
+Colbert-GA,1840014725,Colbert,Colbert,GA,Colbert-GA,Georgia,13195,Madison,34.037,-83.2139,609,609,230,polygon,TRUE,America/New_York,30628
+McDonough-GA,1840015706,McDonough,McDonough,GA,McDonough-GA,Georgia,13151,Henry,33.4399,-84.1507,23964,23964,733,polygon,TRUE,America/New_York,30253 30252
+Center Post-GA,1840029387,Center Post,Center Post,GA,Center Post-GA,Georgia,13295,Walker,34.6081,-85.353,,,35.1,point,FALSE,America/New_York,30753
+Screven-GA,1840015857,Screven,Screven,GA,Screven-GA,Georgia,13305,Wayne,31.484,-82.0171,776,776,138,polygon,TRUE,America/New_York,31560
+Newnan-GA,1840014833,Newnan,Newnan,GA,Newnan-GA,Georgia,13077,Coweta,33.3763,-84.7758,37912,37912,767,polygon,TRUE,America/New_York,30263 30265 30264 30271
+Lilly-GA,1840015826,Lilly,Lilly,GA,Lilly-GA,Georgia,13093,Dooly,32.1465,-83.8775,201,201,128,polygon,TRUE,America/New_York,31051 31092
+Dasher-GA,1840017144,Dasher,Dasher,GA,Dasher-GA,Georgia,13185,Lowndes,30.7462,-83.2253,979,979,83,polygon,TRUE,America/New_York,31636 31601 31606
+Tucker-GA,1840013701,Tucker,Tucker,GA,Tucker-GA,Georgia,13089,DeKalb,33.8534,-84.2229,,,474.4,polygon,TRUE,America/New_York,30340 30084 30085
+Blairsville-GA,1840013555,Blairsville,Blairsville,GA,Blairsville-GA,Georgia,13291,Union,34.8761,-83.9548,576,576,201,polygon,TRUE,America/New_York,30512 30514
+Dover-GA,1840029404,Dover,Dover,GA,Dover-GA,Georgia,13251,Screven,32.5771,-81.7151,,,20.1,point,FALSE,America/New_York,30467
+Brookwood-GA,1840029225,Brookwood,Brookwood,GA,Brookwood-GA,Georgia,13117,Forsyth,34.0951,-84.1766,,,486.6,point,FALSE,America/New_York,30041
+Hull-GA,1840014728,Hull,Hull,GA,Hull-GA,Georgia,13195,Madison,34.0155,-83.2939,203,203,245,polygon,TRUE,America/New_York,30646
+Tybee Island-GA,1840015831,Tybee Island,Tybee Island,GA,Tybee Island-GA,Georgia,13051,Chatham,32.01,-80.8527,3333,3113,410,polygon,TRUE,America/New_York,31328
+Berlin-GA,1840013882,Berlin,Berlin,GA,Berlin-GA,Georgia,13071,Colquitt,31.0682,-83.6236,560,560,258,polygon,TRUE,America/New_York,31788 31722
+Pine Log-GA,1840029431,Pine Log,Pine Log,GA,Pine Log-GA,Georgia,13015,Bartow,34.3429,-84.7322,,,102.3,point,FALSE,America/New_York,30171
+Upatoi-GA,1840029358,Upatoi,Upatoi,GA,Upatoi-GA,Georgia,13215,Muscogee,32.5488,-84.7399,,,46.8,point,FALSE,America/New_York,31829
+Newtown-GA,1840029202,Newtown,Newtown,GA,Newtown-GA,Georgia,13121,Fulton,34.0212,-84.2699,,,1054.7,point,FALSE,America/New_York,30022
+DeSoto-GA,1840029398,DeSoto,DeSoto,GA,DeSoto-GA,Georgia,13261,Sumter,31.9548,-84.0636,180,180,85,polygon,TRUE,America/New_York,31743
+Mount Zion-GA,1840014802,Mount Zion,Mount Zion,GA,Mount Zion-GA,Georgia,13045,Carroll,33.6408,-85.18,1763,1763,70,polygon,TRUE,America/New_York,30182 30117 30150
+Naylor-GA,1840029297,Naylor,Naylor,GA,Naylor-GA,Georgia,13185,Lowndes,30.9088,-83.0782,,,63.4,point,FALSE,America/New_York,31641
+Powder Springs-GA,1840014755,Powder Springs,Powder Springs,GA,Powder Springs-GA,Georgia,13067,Cobb,33.866,-84.6838,14956,14956,803,polygon,TRUE,America/New_York,30127
+Homer-GA,1840016659,Homer,Homer,GA,Homer-GA,Georgia,13011,Banks,34.335,-83.4987,1136,1136,45,polygon,TRUE,America/New_York,30547
+Pembroke-GA,1840014912,Pembroke,Pembroke,GA,Pembroke-GA,Georgia,13029,Bryan,32.1455,-81.6185,2484,2484,126,polygon,TRUE,America/New_York,31321
+Westoak-GA,1840029184,Westoak,Westoak,GA,Westoak-GA,Georgia,13067,Cobb,33.9879,-84.5316,,,309,point,FALSE,America/New_York,30062
+Fitzgerald-GA,1840013855,Fitzgerald,Fitzgerald,GA,Fitzgerald-GA,Georgia,13017,Ben Hill,31.7135,-83.2515,11476,8927,386,polygon,TRUE,America/New_York,31750
+Dublin-GA,1840013813,Dublin,Dublin,GA,Dublin-GA,Georgia,13175,Laurens,32.5358,-82.9279,20872,16104,390,polygon,TRUE,America/New_York,31021 31040
+Lexington-GA,1840014764,Lexington,Lexington,GA,Lexington-GA,Georgia,13221,Oglethorpe,33.8701,-83.1102,228,228,160,polygon,TRUE,America/New_York,30648
+Bremen-GA,1840013715,Bremen,Bremen,GA,Bremen-GA,Georgia,13143,Haralson,33.7089,-85.1493,6718,6421,235,polygon,TRUE,America/New_York,30182 30110
+Axson-GA,1840029377,Axson,Axson,GA,Axson-GA,Georgia,13003,Atkinson,31.2763,-82.7343,,,51.6,point,FALSE,America/New_York,31624
+Sunny Side-GA,1840015734,Sunny Side,Sunny Side,GA,Sunny Side-GA,Georgia,13255,Spalding,33.3421,-84.2911,134,134,262,polygon,TRUE,America/New_York,30228 30284
+Cohutta-GA,1840014650,Cohutta,Cohutta,GA,Cohutta-GA,Georgia,13313,Whitfield,34.9538,-84.9594,635,635,52,polygon,TRUE,America/New_York,30710
+Woodville-GA,1840015688,Woodville,Woodville,GA,Woodville-GA,Georgia,13133,Greene,33.6714,-83.1063,342,342,27,polygon,TRUE,America/New_York,30669
+McCaysville-GA,1840015526,McCaysville,McCaysville,GA,McCaysville-GA,Georgia,13111,Fannin,34.9811,-84.3705,1108,1108,275,polygon,TRUE,America/New_York,30555
+Midway-GA,1840014929,Midway,Midway,GA,Midway-GA,Georgia,13179,Liberty,31.8003,-81.419,1997,1997,119,polygon,TRUE,America/New_York,31320
+Warner Robins-GA,1840015800,Warner Robins,Warner Robins,GA,Warner Robins-GA,Georgia,13153,Houston,32.5981,-83.6528,148686,74388,795,polygon,TRUE,America/New_York,31088 31005 31093 31095 31099
+Young Harris-GA,1840015523,Young Harris,Young Harris,GA,Young Harris-GA,Georgia,13281,Towns,34.9355,-83.8471,1431,1431,520,polygon,TRUE,America/New_York,30582
+Offerman-GA,1840014958,Offerman,Offerman,GA,Offerman-GA,Georgia,13229,Pierce,31.4088,-82.1132,438,438,51,polygon,TRUE,America/New_York,31557 31556
+Siloam-GA,1840018004,Siloam,Siloam,GA,Siloam-GA,Georgia,13133,Greene,33.5366,-83.0813,277,277,88,polygon,TRUE,America/New_York,30665 30642
+Reeves-GA,1840029434,Reeves,Reeves,GA,Reeves-GA,Georgia,13129,Gordon,34.4615,-85.0127,,,64.4,point,FALSE,America/New_York,30701
+Buchanan-GA,1840013716,Buchanan,Buchanan,GA,Buchanan-GA,Georgia,13143,Haralson,33.803,-85.1803,1141,1141,297,polygon,TRUE,America/New_York,30113
+Concord-GA,1840014853,Concord,Concord,GA,Concord-GA,Georgia,13231,Pike,33.0919,-84.4383,379,379,179,polygon,TRUE,America/New_York,30206
+Washington-GA,1840015641,Washington,Washington,GA,Washington-GA,Georgia,13317,Wilkes,33.7355,-82.7427,3327,3978,199,polygon,TRUE,America/New_York,30673
+Colquitt-GA,1840014983,Colquitt,Colquitt,GA,Colquitt-GA,Georgia,13201,Miller,31.1741,-84.7319,1910,1910,89,polygon,TRUE,America/New_York,39837
+Tilton-GA,1840029355,Tilton,Tilton,GA,Tilton-GA,Georgia,13313,Whitfield,34.6651,-84.9394,,,99.9,point,FALSE,America/New_York,30721
+Warrenton-GA,1840015710,Warrenton,Warrenton,GA,Warrenton-GA,Georgia,13301,Warren,33.4067,-82.6653,1805,1805,366,polygon,TRUE,America/New_York,30828
+Manchester-GA,1840015749,Manchester,Manchester,GA,Manchester-GA,Georgia,13199,Meriwether,32.8565,-84.6329,3932,4061,195,polygon,TRUE,America/New_York,31816 31830
+Blue Ridge-GA,1840013551,Blue Ridge,Blue Ridge,GA,Blue Ridge-GA,Georgia,13111,Fannin,34.8662,-84.3227,1391,1391,218,polygon,TRUE,America/New_York,30513
+Dalton-GA,1840014651,Dalton,Dalton,GA,Dalton-GA,Georgia,13313,Whitfield,34.7688,-84.9711,87688,34077,648,polygon,TRUE,America/New_York,30721 30720 30719 30722
+Sandy Springs-GA,1840015609,Sandy Springs,Sandy Springs,GA,Sandy Springs-GA,Georgia,13121,Fulton,33.9366,-84.3703,105703,105703,1083,polygon,TRUE,America/New_York,30339 30350 30328 30327 30342
+Tazewell-GA,1840029439,Tazewell,Tazewell,GA,Tazewell-GA,Georgia,13197,Marion,32.3804,-84.4408,,,35.9,point,FALSE,America/New_York,31803
+White Plains-GA,1840015687,White Plains,White Plains,GA,White Plains-GA,Georgia,13133,Greene,33.4807,-83.0372,306,306,23,polygon,TRUE,America/New_York,30678
+Dawsonville-GA,1840014677,Dawsonville,Dawsonville,GA,Dawsonville-GA,Georgia,13085,Dawson,34.4364,-84.1242,2634,2634,124,polygon,TRUE,America/New_York,30534
+Jackson-GA,1840014836,Jackson,Jackson,GA,Jackson-GA,Georgia,13035,Butts,33.2913,-83.968,5244,5071,313,polygon,TRUE,America/New_York,30233
+Campton-GA,1840029384,Campton,Campton,GA,Campton-GA,Georgia,13297,Walton,33.8718,-83.7202,,,101.1,point,FALSE,America/New_York,30656
+Holly Springs-GA,1840014704,Holly Springs,Holly Springs,GA,Holly Springs-GA,Georgia,13057,Cherokee,34.1678,-84.4856,11281,11281,657,polygon,TRUE,America/New_York,30114 30115 30142
+Grovania-GA,1840029262,Grovania,Grovania,GA,Grovania-GA,Georgia,13153,Houston,32.366,-83.6632,,,10,point,FALSE,America/New_York,31036
+Aldora-GA,1840015756,Aldora,Aldora,GA,Aldora-GA,Georgia,13171,Lamar,33.0509,-84.1759,105,105,167,polygon,TRUE,America/New_York,30204
+Silco-GA,1840029340,Silco,Silco,GA,Silco-GA,Georgia,13039,Camden,30.8683,-81.8309,,,3.9,point,FALSE,America/New_York,31537
+Villa Rica-GA,1840015679,Villa Rica,Villa Rica,GA,Villa Rica-GA,Georgia,13045,Carroll,33.7305,-84.9168,15201,15201,412,polygon,TRUE,America/New_York,30180
+Keithsburg-GA,1840029197,Keithsburg,Keithsburg,GA,Keithsburg-GA,Georgia,13057,Cherokee,34.2745,-84.4516,,,118.8,point,FALSE,America/New_York,30114
+Waverly Hall-GA,1840016960,Waverly Hall,Waverly Hall,GA,Waverly Hall-GA,Georgia,13145,Harris,32.6837,-84.7378,759,759,87,polygon,TRUE,America/New_York,31831
+Butler-GA,1840013809,Butler,Butler,GA,Butler-GA,Georgia,13269,Taylor,32.557,-84.2377,1871,1871,222,polygon,TRUE,America/New_York,31006
+Midville-GA,1840014846,Midville,Midville,GA,Midville-GA,Georgia,13033,Burke,32.8218,-82.2346,263,263,51,polygon,TRUE,America/New_York,30441
+Evansville-GA,1840029251,Evansville,Evansville,GA,Evansville-GA,Georgia,13285,Troup,33.0662,-85.2241,,,24.5,point,FALSE,America/New_York,36855
+Russell-GA,1840013681,Russell,Russell,GA,Russell-GA,Georgia,13013,Barrow,33.9797,-83.6923,,,561.6,polygon,FALSE,America/New_York,30680
+Merrillville-GA,1840029290,Merrillville,Merrillville,GA,Merrillville-GA,Georgia,13275,Thomas,30.9491,-83.8799,,,77.7,point,FALSE,America/New_York,31757
+Saint Clair-GA,1840029332,Saint Clair,Saint Clair,GA,Saint Clair-GA,Georgia,13033,Burke,33.151,-82.2179,,,12.5,point,FALSE,America/New_York,30816
+Taylorsville-GA,1840016671,Taylorsville,Taylorsville,GA,Taylorsville-GA,Georgia,13015,Bartow,34.086,-84.9876,215,215,55,polygon,TRUE,America/New_York,30178
+Avondale Estates-GA,1840013702,Avondale Estates,Avondale Estates,GA,Avondale Estates-GA,Georgia,13089,DeKalb,33.7698,-84.2647,3150,3150,1002,polygon,TRUE,America/New_York,30002
+Helena-GA,1840014923,Helena,Helena,GA,Helena-GA,Georgia,13271,Telfair,32.0738,-82.9146,,,762.3,point,FALSE,America/New_York,31037
+Osierfield-GA,1840029167,Osierfield,Osierfield,GA,Osierfield-GA,Georgia,13155,Irwin,31.6671,-83.116,,,2.1,point,FALSE,America/New_York,31750
+Rincon-GA,1840018091,Rincon,Rincon,GA,Rincon-GA,Georgia,13103,Effingham,32.2936,-81.2357,13617,9935,421,polygon,TRUE,America/New_York,31326
+Lakeview Estates-GA,1840029280,Lakeview Estates,Lakeview Estates,GA,Lakeview Estates-GA,Georgia,13247,Rockdale,33.7046,-84.0367,,,1148.8,polygon,FALSE,America/New_York,30012
+Windsor Forest-GA,1840029368,Windsor Forest,Windsor Forest,GA,Windsor Forest-GA,Georgia,13051,Chatham,31.9766,-81.1323,,,2200.3,point,FALSE,America/New_York,31419
+Sharpsburg-GA,1840018012,Sharpsburg,Sharpsburg,GA,Sharpsburg-GA,Georgia,13077,Coweta,33.3381,-84.6495,366,366,185,polygon,TRUE,America/New_York,30277
+Chattahoochee Hills-GA,1840022892,Chattahoochee Hills,Chattahoochee Hills,GA,Chattahoochee Hills-GA,Georgia,13121,Fulton,33.5605,-84.7512,2804,2804,21,polygon,TRUE,America/New_York,30268 30213
+Cogdell-GA,1840029390,Cogdell,Cogdell,GA,Cogdell-GA,Georgia,13065,Clinch,31.1649,-82.7179,,,30.4,point,FALSE,America/New_York,31634
+McIntyre-GA,1840016941,McIntyre,McIntyre,GA,McIntyre-GA,Georgia,13319,Wilkinson,32.8466,-83.2011,616,616,45,polygon,TRUE,America/New_York,31054
+Rocky Ford-GA,1840018051,Rocky Ford,Rocky Ford,GA,Rocky Ford-GA,Georgia,13251,Screven,32.6637,-81.8297,141,141,44,polygon,TRUE,America/New_York,30455
+Druid Hills-GA,1840013092,Druid Hills,Druid Hills,GA,Druid Hills-GA,Georgia,13089,DeKalb,33.7879,-84.3263,,,805.1,polygon,FALSE,America/New_York,30307 30322 30306 30333
+Yatesville-GA,1840016946,Yatesville,Yatesville,GA,Yatesville-GA,Georgia,13293,Upson,32.9133,-84.1423,346,346,154,polygon,TRUE,America/New_York,31097
+Oglethorpe-GA,1840014899,Oglethorpe,Oglethorpe,GA,Oglethorpe-GA,Georgia,13193,Macon,32.2935,-84.0623,1194,1194,231,polygon,TRUE,America/New_York,31068
+Hiawassee-GA,1840014645,Hiawassee,Hiawassee,GA,Hiawassee-GA,Georgia,13281,Towns,34.9501,-83.7529,916,916,213,polygon,TRUE,America/New_York,30546
+Danielsville-GA,1840014727,Danielsville,Danielsville,GA,Danielsville-GA,Georgia,13195,Madison,34.1238,-83.2201,585,585,156,polygon,TRUE,America/New_York,30633
+Edgehill-GA,1840029409,Edgehill,Edgehill,GA,Edgehill-GA,Georgia,13125,Glascock,33.1534,-82.625,24,24,50,polygon,TRUE,America/New_York,30810
+Mount Carmel-GA,1840029296,Mount Carmel,Mount Carmel,GA,Mount Carmel-GA,Georgia,13295,Walker,34.6629,-85.31,,,92.7,point,FALSE,America/New_York,30728
+Sky Valley-GA,1840015514,Sky Valley,Sky Valley,GA,Sky Valley-GA,Georgia,13241,Rabun,34.984,-83.3314,269,269,34,polygon,TRUE,America/New_York,30537
+Big Creek-GA,1840029219,Big Creek,Big Creek,GA,Big Creek-GA,Georgia,13117,Forsyth,34.1165,-84.1752,,,469.3,point,FALSE,America/New_York,30041
+Friendship-GA,1840029195,Friendship,Friendship,GA,Friendship-GA,Georgia,13261,Sumter,32.1502,-84.4213,,,2.4,point,FALSE,America/New_York,31719
+Gillsville-GA,1840013616,Gillsville,Gillsville,GA,Gillsville-GA,Georgia,13011,Banks,34.3093,-83.6381,249,249,85,polygon,TRUE,America/New_York,30543
+Marshallville-GA,1840015810,Marshallville,Marshallville,GA,Marshallville-GA,Georgia,13193,Macon,32.4564,-83.9407,1312,1312,162,polygon,TRUE,America/New_York,31057
+Gay-GA,1840016899,Gay,Gay,GA,Gay-GA,Georgia,13199,Meriwether,33.0936,-84.5755,86,86,38,polygon,TRUE,America/New_York,30218
+Suwanee-GA,1840015616,Suwanee,Suwanee,GA,Suwanee-GA,Georgia,13135,Gwinnett,34.0506,-84.0687,19421,19421,688,polygon,TRUE,America/New_York,30024
+Talking Rock-GA,1840016628,Talking Rock,Talking Rock,GA,Talking Rock-GA,Georgia,13227,Pickens,34.5278,-84.4941,67,67,17,polygon,TRUE,America/New_York,30175
+Devereux-GA,1840029400,Devereux,Devereux,GA,Devereux-GA,Georgia,13141,Hancock,33.2221,-83.0735,,,4.6,point,FALSE,America/New_York,31087
+Deepstep-GA,1840016896,Deepstep,Deepstep,GA,Deepstep-GA,Georgia,13303,Washington,33.0176,-82.9679,127,127,60,polygon,TRUE,America/New_York,31082
+Thomson-GA,1840015703,Thomson,Thomson,GA,Thomson-GA,Georgia,13189,McDuffie,33.4666,-82.4993,8414,6678,587,polygon,TRUE,America/New_York,30824
+North Decatur-GA,1840013704,North Decatur,North Decatur,GA,North Decatur-GA,Georgia,13089,DeKalb,33.8073,-84.2889,,,1918.1,polygon,FALSE,America/New_York,30033
+Smithville-GA,1840015852,Smithville,Smithville,GA,Smithville-GA,Georgia,13177,Lee,31.9013,-84.2552,587,587,90,polygon,TRUE,America/New_York,31787
+Needmore-GA,1840029164,Needmore,Needmore,GA,Needmore-GA,Georgia,13101,Echols,30.6791,-82.7115,,,2.3,point,FALSE,America/New_York,31631
+Chattanooga Valley-GA,1840029373,Chattanooga Valley,Chattanooga Valley,GA,Chattanooga Valley-GA,Georgia,13295,Walker,34.9241,-85.3432,,,230.2,polygon,FALSE,America/New_York,30741 30725
+Luthersville-GA,1840015748,Luthersville,Luthersville,GA,Luthersville-GA,Georgia,13199,Meriwether,33.2096,-84.7442,817,817,99,polygon,TRUE,America/New_York,30251
+Dawson-GA,1840014938,Dawson,Dawson,GA,Dawson-GA,Georgia,13273,Terrell,31.7721,-84.4437,4220,4291,441,polygon,TRUE,America/New_York,39842
+Graham-GA,1840013849,Graham,Graham,GA,Graham-GA,Georgia,13001,Appling,31.8292,-82.503,299,299,66,polygon,TRUE,America/New_York,31513 31539
+Cotton-GA,1840029393,Cotton,Cotton,GA,Cotton-GA,Georgia,13205,Mitchell,31.1616,-84.0668,,,21.3,point,FALSE,America/New_York,31765
+La Grange-GA,1840029147,La Grange,La Grange,GA,La Grange-GA,Georgia,13285,Troup,33.0276,-85.0383,36270,30771,283,polygon,TRUE,America/New_York,30240 30241
+Riddleville-GA,1840018046,Riddleville,Riddleville,GA,Riddleville-GA,Georgia,13303,Washington,32.9069,-82.6661,93,93,46,polygon,TRUE,America/New_York,31035
+Lenox-GA,1840017112,Lenox,Lenox,GA,Lenox-GA,Georgia,13075,Cook,31.2672,-83.4673,851,851,206,polygon,TRUE,America/New_York,31637
+Forest Park-GA,1840013750,Forest Park,Forest Park,GA,Forest Park-GA,Georgia,13063,Clayton,33.6209,-84.3592,19731,19731,821,polygon,TRUE,America/New_York,30297 30294 30298
+Austell-GA,1840013689,Austell,Austell,GA,Austell-GA,Georgia,13067,Cobb,33.8202,-84.6453,7139,7139,458,polygon,TRUE,America/New_York,30127 30106 30168 30111
+Oakman-GA,1840029166,Oakman,Oakman,GA,Oakman-GA,Georgia,13129,Gordon,34.5665,-84.7083,,,19.7,point,FALSE,America/New_York,30734
+Richwood-GA,1840029327,Richwood,Richwood,GA,Richwood-GA,Georgia,13093,Dooly,32.0418,-83.7863,,,9.5,point,FALSE,America/New_York,31092
+Dallas-GA,1840014757,Dallas,Dallas,GA,Dallas-GA,Georgia,13223,Paulding,33.9153,-84.8416,13108,13108,685,polygon,TRUE,America/New_York,30132 30157
+Fortson-GA,1840029414,Fortson,Fortson,GA,Fortson-GA,Georgia,13215,Muscogee,32.6071,-84.9372,,,34,point,FALSE,America/New_York,31808
+Oliver-GA,1840014863,Oliver,Oliver,GA,Oliver-GA,Georgia,13251,Screven,32.5214,-81.5331,224,224,93,polygon,TRUE,America/New_York,30449 30446
+Powelton-GA,1840029203,Powelton,Powelton,GA,Powelton-GA,Georgia,13141,Hancock,33.4287,-82.8707,,,1.1,point,FALSE,America/New_York,31087
+Carnegie-GA,1840029385,Carnegie,Carnegie,GA,Carnegie-GA,Georgia,13243,Randolph,31.6429,-84.7791,,,9.9,point,FALSE,America/New_York,39840
+Clarkdale-GA,1840029236,Clarkdale,Clarkdale,GA,Clarkdale-GA,Georgia,13067,Cobb,33.8309,-84.6497,,,353.6,point,FALSE,America/New_York,30106
+Smarr-GA,1840029344,Smarr,Smarr,GA,Smarr-GA,Georgia,13207,Monroe,32.9854,-83.8821,,,27.6,point,FALSE,America/New_York,31029
+Senoia-GA,1840015719,Senoia,Senoia,GA,Senoia-GA,Georgia,13077,Coweta,33.3094,-84.5546,4137,4137,277,polygon,TRUE,America/New_York,30276
+Riverside-GA,1840018192,Riverside,Riverside,GA,Riverside-GA,Georgia,13071,Colquitt,31.1782,-83.8054,35,35,64,polygon,TRUE,America/New_York,31768
+Turin-GA,1840016861,Turin,Turin,GA,Turin-GA,Georgia,13077,Coweta,33.326,-84.6371,342,342,104,polygon,TRUE,America/New_York,30277 30276 30289
+Cedar Springs-GA,1840025967,Cedar Springs,Cedar Springs,GA,Cedar Springs-GA,Georgia,13099,Early,31.1873,-85.0324,,,15.1,polygon,FALSE,America/New_York,39861 39823 39832
+Peachtree Corners-GA,1840029447,Peachtree Corners,Peachtree Corners,GA,Peachtree Corners-GA,Georgia,13135,Gwinnett,33.9668,-84.2321,42773,42773,1020,polygon,TRUE,America/New_York,30071 30092 30360
+Metcalf-GA,1840029158,Metcalf,Metcalf,GA,Metcalf-GA,Georgia,13275,Thomas,30.7002,-83.9879,,,125.3,point,FALSE,America/New_York,31792
+Mendes-GA,1840025918,Mendes,Mendes,GA,Mendes-GA,Georgia,13267,Tattnall,31.9953,-81.9709,,,98.9,polygon,FALSE,America/New_York,30427
+Louise-GA,1840029284,Louise,Louise,GA,Louise-GA,Georgia,13285,Troup,33.084,-84.9358,,,60.9,point,FALSE,America/New_York,30230
+Brooklyn-GA,1840029382,Brooklyn,Brooklyn,GA,Brooklyn-GA,Georgia,13259,Stewart,32.1738,-84.7085,,,7.9,point,FALSE,America/New_York,31825
+Baxley-GA,1840013850,Baxley,Baxley,GA,Baxley-GA,Georgia,13001,Appling,31.7652,-82.3512,5612,4741,225,polygon,TRUE,America/New_York,31513 31515
+Mansfield-GA,1840015691,Mansfield,Mansfield,GA,Mansfield-GA,Georgia,13217,Newton,33.5179,-83.7353,440,440,162,polygon,TRUE,America/New_York,30055
+Carl-GA,1840015621,Carl,Carl,GA,Carl-GA,Georgia,13013,Barrow,34.0046,-83.8128,220,220,78,polygon,TRUE,America/New_York,30680 30011
+Redan-GA,1840013706,Redan,Redan,GA,Redan-GA,Georgia,13089,DeKalb,33.7376,-84.1589,,,899.4,polygon,FALSE,America/New_York,30058 30088 30074
+Queensland-GA,1840029320,Queensland,Queensland,GA,Queensland-GA,Georgia,13017,Ben Hill,31.7991,-83.2363,,,132.6,point,FALSE,America/New_York,31750
+Waynesboro-GA,1840015742,Waynesboro,Waynesboro,GA,Waynesboro-GA,Georgia,13033,Burke,33.0909,-82.0146,5763,5701,401,polygon,TRUE,America/New_York,30830
+Alapaha-GA,1840015870,Alapaha,Alapaha,GA,Alapaha-GA,Georgia,13019,Berrien,31.3832,-83.2237,662,662,248,polygon,TRUE,America/New_York,31622
+Pittman-GA,1840029314,Pittman,Pittman,GA,Pittman-GA,Georgia,13135,Gwinnett,33.972,-84.1696,,,600.3,point,FALSE,America/New_York,30096
+Allenhurst-GA,1840013846,Allenhurst,Allenhurst,GA,Allenhurst-GA,Georgia,13179,Liberty,31.784,-81.6077,663,663,232,polygon,TRUE,America/New_York,31301 31313
+Leary-GA,1840014954,Leary,Leary,GA,Leary-GA,Georgia,13037,Calhoun,31.4847,-84.5133,579,579,69,polygon,TRUE,America/New_York,39862
+Oakland Heights-GA,1840029302,Oakland Heights,Oakland Heights,GA,Oakland Heights-GA,Georgia,13015,Bartow,34.2123,-84.7952,,,366.5,point,FALSE,America/New_York,30121
+Center-GA,1840029386,Center,Center,GA,Center-GA,Georgia,13157,Jackson,34.0559,-83.4193,,,130.9,point,FALSE,America/New_York,30607
+Montezuma-GA,1840014898,Montezuma,Montezuma,GA,Montezuma-GA,Georgia,13193,Macon,32.2997,-84.0246,6266,3142,265,polygon,TRUE,America/New_York,31063
+Ocee-GA,1840029303,Ocee,Ocee,GA,Ocee-GA,Georgia,13121,Fulton,34.0645,-84.2127,,,1584.4,point,FALSE,America/New_York,30005
+Clermont-GA,1840016648,Clermont,Clermont,GA,Clermont-GA,Georgia,13139,Hall,34.4782,-83.773,947,947,122,polygon,TRUE,America/New_York,30527
+Ducktown-GA,1840029133,Ducktown,Ducktown,GA,Ducktown-GA,Georgia,13117,Forsyth,34.244,-84.2494,,,314.8,point,FALSE,America/New_York,30028
+Macland-GA,1840029199,Macland,Macland,GA,Macland-GA,Georgia,13067,Cobb,33.9023,-84.6724,,,235.3,point,FALSE,America/New_York,30127
+Corinth-GA,1840029130,Corinth,Corinth,GA,Corinth-GA,Georgia,13149,Heard,33.2301,-84.9455,,,119.9,point,FALSE,America/New_York,30230
+Franklin Springs-GA,1840013608,Franklin Springs,Franklin Springs,GA,Franklin Springs-GA,Georgia,13119,Franklin,34.284,-83.1459,1130,1130,200,polygon,TRUE,America/New_York,30662 30639
+Marlow-GA,1840029153,Marlow,Marlow,GA,Marlow-GA,Georgia,13103,Effingham,32.2691,-81.3907,,,174.1,point,FALSE,America/New_York,31312
+Mayfield-GA,1840029286,Mayfield,Mayfield,GA,Mayfield-GA,Georgia,13141,Hancock,33.3551,-82.8007,,,15.5,point,FALSE,America/New_York,31087
+Kingsland-GA,1840014991,Kingsland,Kingsland,GA,Kingsland-GA,Georgia,13039,Camden,30.8193,-81.7219,16720,16720,151,polygon,TRUE,America/New_York,31548
+Douglas-GA,1840014946,Douglas,Douglas,GA,Douglas-GA,Georgia,13069,Coffee,31.5074,-82.8543,14323,11727,338,polygon,TRUE,America/New_York,31533 31535 31534
+Whitemarsh Island-GA,1840029460,Whitemarsh Island,Whitemarsh Island,GA,Whitemarsh Island-GA,Georgia,13051,Chatham,32.0304,-81.0109,,,494.3,polygon,FALSE,America/New_York,31410
+Fayetteville-GA,1840013755,Fayetteville,Fayetteville,GA,Fayetteville-GA,Georgia,13113,Fayette,33.4497,-84.4703,17519,17519,532,polygon,TRUE,America/New_York,30215 30214
+Free Home-GA,1840029139,Free Home,Free Home,GA,Free Home-GA,Georgia,13057,Cherokee,34.2387,-84.2888,,,65.7,point,FALSE,America/New_York,30115
+Ringgold-GA,1840014652,Ringgold,Ringgold,GA,Ringgold-GA,Georgia,13047,Catoosa,34.9141,-85.1212,4378,4378,343,polygon,TRUE,America/New_York,30736
+Bowdon Junction-GA,1840029221,Bowdon Junction,Bowdon Junction,GA,Bowdon Junction-GA,Georgia,13045,Carroll,33.6632,-85.1469,,,96.4,point,FALSE,America/New_York,30117
+Bonaire-GA,1840029125,Bonaire,Bonaire,GA,Bonaire-GA,Georgia,13153,Houston,32.5438,-83.596,,,159.5,point,FALSE,America/New_York,31005
+Hickox-GA,1840029266,Hickox,Hickox,GA,Hickox-GA,Georgia,13025,Brantley,31.1505,-81.9965,,,80.4,point,FALSE,America/New_York,31553
+Rossville-GA,1840014655,Rossville,Rossville,GA,Rossville-GA,Georgia,13295,Walker,34.9747,-85.2898,3982,3982,851,polygon,TRUE,America/New_York,30741
+Sandy Plains-GA,1840029175,Sandy Plains,Sandy Plains,GA,Sandy Plains-GA,Georgia,13067,Cobb,34.0132,-84.4955,,,823.2,point,FALSE,America/New_York,30062
+Dewy Rose-GA,1840025863,Dewy Rose,Dewy Rose,GA,Dewy Rose-GA,Georgia,13105,Elbert,34.1681,-82.9395,,,22.9,polygon,FALSE,America/New_York,30634
+Belvedere Park-GA,1840013699,Belvedere Park,Belvedere Park,GA,Belvedere Park-GA,Georgia,13089,DeKalb,33.7488,-84.2599,,,572.3,polygon,FALSE,America/New_York,30032 30030
+Eton-GA,1840013550,Eton,Eton,GA,Eton-GA,Georgia,13213,Murray,34.8265,-84.7668,897,897,287,polygon,TRUE,America/New_York,30705 30724
+Salem-GA,1840029451,Salem,Salem,GA,Salem-GA,Georgia,13293,Upson,32.7592,-84.1916,,,15.4,polygon,FALSE,America/New_York,31016
+Bethlehem-GA,1840015620,Bethlehem,Bethlehem,GA,Bethlehem-GA,Georgia,13013,Barrow,33.9371,-83.7097,688,688,106,polygon,TRUE,America/New_York,30620 30680
+Harrison-GA,1840016897,Harrison,Harrison,GA,Harrison-GA,Georgia,13303,Washington,32.8263,-82.7258,461,461,104,polygon,TRUE,America/New_York,31035
+Cleveland-GA,1840014665,Cleveland,Cleveland,GA,Cleveland-GA,Georgia,13311,White,34.5971,-83.7622,4967,3851,388,polygon,TRUE,America/New_York,30528
+Tignall-GA,1840016771,Tignall,Tignall,GA,Tignall-GA,Georgia,13317,Wilkes,33.8674,-82.742,510,510,71,polygon,TRUE,America/New_York,30668
+East Newnan-GA,1840013097,East Newnan,East Newnan,GA,East Newnan-GA,Georgia,13077,Coweta,33.3461,-84.7763,,,576.9,polygon,FALSE,America/New_York,30263
+Doraville-GA,1840014778,Doraville,Doraville,GA,Doraville-GA,Georgia,13089,DeKalb,33.9072,-84.2711,10501,10501,827,polygon,TRUE,America/New_York,30340 30360
+Shannon-GA,1840013603,Shannon,Shannon,GA,Shannon-GA,Georgia,13115,Floyd,34.3406,-85.0854,,,263.7,polygon,FALSE,America/New_York,30161 30172
+Culloden-GA,1840014856,Culloden,Culloden,GA,Culloden-GA,Georgia,13207,Monroe,32.8632,-84.094,179,179,88,polygon,TRUE,America/New_York,31016
+Bronwood-GA,1840015850,Bronwood,Bronwood,GA,Bronwood-GA,Georgia,13273,Terrell,31.8306,-84.3644,383,383,187,polygon,TRUE,America/New_York,39842 39826
+Graysville-GA,1840029419,Graysville,Graysville,GA,Graysville-GA,Georgia,13047,Catoosa,34.9765,-85.1413,,,88.7,point,FALSE,America/New_York,30726
+Turnerville-GA,1840029440,Turnerville,Turnerville,GA,Turnerville-GA,Georgia,13137,Habersham,34.6868,-83.426,,,60.7,point,FALSE,America/New_York,30523
+Primrose-GA,1840029169,Primrose,Primrose,GA,Primrose-GA,Georgia,13199,Meriwether,33.1435,-84.7419,,,18.7,point,FALSE,America/New_York,30222
+Mineral Bluff-GA,1840025841,Mineral Bluff,Mineral Bluff,GA,Mineral Bluff-GA,Georgia,13111,Fannin,34.9139,-84.2781,,,66.1,polygon,FALSE,America/New_York,30559
+Danville-GA,1840016955,Danville,Danville,GA,Danville-GA,Georgia,13289,Twiggs,32.606,-83.246,220,220,107,polygon,TRUE,America/New_York,31017
+Athens-GA,1840029463,Athens,Athens,GA,Athens-GA,Georgia,13059,Clarke,33.9508,-83.3689,137582,123371,409,polygon,TRUE,America/New_York,30601 30622 30602 30605 30606 30607 30609 30683 30603 30604 30608 30612
+Morganton-GA,1840014649,Morganton,Morganton,GA,Morganton-GA,Georgia,13111,Fannin,34.8757,-84.2446,315,315,146,polygon,TRUE,America/New_York,30560
+Pulaski-GA,1840018104,Pulaski,Pulaski,GA,Pulaski-GA,Georgia,13043,Candler,32.3904,-81.9566,268,268,129,polygon,TRUE,America/New_York,30439 30451
+Atkinson-GA,1840029217,Atkinson,Atkinson,GA,Atkinson-GA,Georgia,13025,Brantley,31.2233,-81.8526,,,44.3,point,FALSE,America/New_York,31543
+Rochelle-GA,1840014928,Rochelle,Rochelle,GA,Rochelle-GA,Georgia,13315,Wilcox,31.9488,-83.4568,1112,1112,225,polygon,TRUE,America/New_York,31079
+Pearson-GA,1840014971,Pearson,Pearson,GA,Pearson-GA,Georgia,13003,Atkinson,31.297,-82.8544,2083,2083,239,polygon,TRUE,America/New_York,31642
+East Griffin-GA,1840013098,East Griffin,East Griffin,GA,East Griffin-GA,Georgia,13255,Spalding,33.2439,-84.2318,,,256.3,polygon,FALSE,America/New_York,30223
+Beach-GA,1840029190,Beach,Beach,GA,Beach-GA,Georgia,13299,Ware,31.4399,-82.5037,,,1.7,point,FALSE,America/New_York,31554
+Cumming-GA,1840014712,Cumming,Cumming,GA,Cumming-GA,Georgia,13117,Forsyth,34.2068,-84.1339,6225,6225,365,polygon,TRUE,America/New_York,30040 30041
+Hawkinsville-GA,1840014904,Hawkinsville,Hawkinsville,GA,Hawkinsville-GA,Georgia,13235,Pulaski,32.2966,-83.483,4712,5409,421,polygon,TRUE,America/New_York,31036
+Lizella-GA,1840029148,Lizella,Lizella,GA,Lizella-GA,Georgia,13021,Bibb,32.8071,-83.8199,,,113.9,point,FALSE,America/New_York,31052
+Georgetown-GA,1840029416,Georgetown,Georgetown,GA,Georgetown-GA,Georgia,13239,Quitman,31.8846,-85.1074,,,136.7,point,TRUE,America/New_York,39854
+Odum-GA,1840014942,Odum,Odum,GA,Odum-GA,Georgia,13305,Wayne,31.6666,-82.0269,505,505,96,polygon,TRUE,America/New_York,31555
+Pavo-GA,1840014994,Pavo,Pavo,GA,Pavo-GA,Georgia,13027,Brooks,30.9597,-83.738,621,621,136,polygon,TRUE,America/New_York,31778
+Luke-GA,1840029285,Luke,Luke,GA,Luke-GA,Georgia,13099,Early,31.338,-85.0002,,,3.1,point,FALSE,America/New_York,39823
+Nashville-GA,1840014964,Nashville,Nashville,GA,Nashville-GA,Georgia,13019,Berrien,31.2051,-83.2487,4531,4864,403,polygon,TRUE,America/New_York,31639
+Campbellton-GA,1840029228,Campbellton,Campbellton,GA,Campbellton-GA,Georgia,13121,Fulton,33.6504,-84.6694,,,39.1,point,FALSE,America/New_York,30213
+Lovejoy-GA,1840015704,Lovejoy,Lovejoy,GA,Lovejoy-GA,Georgia,13063,Clayton,33.4422,-84.3178,6367,6367,947,polygon,TRUE,America/New_York,30228 30250
+Iron City-GA,1840017143,Iron City,Iron City,GA,Iron City-GA,Georgia,13253,Seminole,31.0136,-84.8133,303,303,146,polygon,TRUE,America/New_York,39859
+Bowersville-GA,1840015564,Bowersville,Bowersville,GA,Bowersville-GA,Georgia,13147,Hart,34.3728,-83.0831,469,469,58,polygon,TRUE,America/New_York,30516
+East Juliette-GA,1840029407,East Juliette,East Juliette,GA,East Juliette-GA,Georgia,13169,Jones,33.1087,-83.7924,,,1.8,point,FALSE,America/New_York,31046
+LaFayette-GA,1840014656,LaFayette,LaFayette,GA,LaFayette-GA,Georgia,13295,Walker,34.7088,-85.2815,7403,7159,341,polygon,TRUE,America/New_York,30728
+Fairview-GA,1840013084,Fairview,Fairview,GA,Fairview-GA,Georgia,13295,Walker,34.9296,-85.294,,,706.3,polygon,FALSE,America/New_York,30741 30707
+Garden City-GA,1840013839,Garden City,Garden City,GA,Garden City-GA,Georgia,13051,Chatham,32.0867,-81.1773,8900,8900,240,polygon,TRUE,America/New_York,31408 31405 31415
+Oxford-GA,1840014809,Oxford,Oxford,GA,Oxford-GA,Georgia,13217,Newton,33.6277,-83.8721,2224,2224,398,polygon,TRUE,America/New_York,30054
+Dock Junction-GA,1840029453,Dock Junction,Dock Junction,GA,Dock Junction-GA,Georgia,13127,Glynn,31.2031,-81.5156,,,246.4,polygon,FALSE,America/New_York,31523 31520
+Waco-GA,1840015663,Waco,Waco,GA,Waco-GA,Georgia,13143,Haralson,33.7026,-85.1892,522,522,109,polygon,TRUE,America/New_York,30182 30110
+Skidaway Island-GA,1840029458,Skidaway Island,Skidaway Island,GA,Skidaway Island-GA,Georgia,13051,Chatham,31.9372,-81.0448,,,402,polygon,FALSE,America/New_York,31411
+Hardwick-GA,1840013785,Hardwick,Hardwick,GA,Hardwick-GA,Georgia,13009,Baldwin,33.0523,-83.244,,,288,polygon,FALSE,America/New_York,31061
+Homerville-GA,1840014984,Homerville,Homerville,GA,Homerville-GA,Georgia,13065,Clinch,31.0385,-82.742,2682,2450,271,polygon,TRUE,America/New_York,31634
+Lithia Springs-GA,1840013740,Lithia Springs,Lithia Springs,GA,Lithia Springs-GA,Georgia,13097,Douglas,33.7809,-84.6484,,,608,polygon,FALSE,America/New_York,30122
+Brewton-GA,1840029381,Brewton,Brewton,GA,Brewton-GA,Georgia,13175,Laurens,32.5938,-82.7979,,,19.5,point,FALSE,America/New_York,31027
+Alma-GA,1840013863,Alma,Alma,GA,Alma-GA,Georgia,13005,Bacon,31.5432,-82.4745,3495,3556,225,polygon,TRUE,America/New_York,31510
+Ila-GA,1840014729,Ila,Ila,GA,Ila-GA,Georgia,13195,Madison,34.1729,-83.2929,345,345,172,polygon,TRUE,America/New_York,30530 30633 30647
+Cox-GA,1840029131,Cox,Cox,GA,Cox-GA,Georgia,13191,McIntosh,31.4552,-81.5634,,,15.8,point,FALSE,America/New_York,31331
+Euharlee-GA,1840013622,Euharlee,Euharlee,GA,Euharlee-GA,Georgia,13015,Bartow,34.1441,-84.9327,4293,4293,306,polygon,TRUE,America/New_York,30145 30120
+Reidsville-GA,1840014908,Reidsville,Reidsville,GA,Reidsville-GA,Georgia,13267,Tattnall,32.0871,-82.1244,2613,2613,133,polygon,TRUE,America/New_York,30453 30499
+Morris-GA,1840029295,Morris,Morris,GA,Morris-GA,Georgia,13239,Quitman,31.7943,-84.9463,,,4.8,point,FALSE,America/New_York,39867
+Raleigh-GA,1840029322,Raleigh,Raleigh,GA,Raleigh-GA,Georgia,13199,Meriwether,32.9368,-84.6363,,,44.9,point,FALSE,America/New_York,30293
+Menlo-GA,1840014679,Menlo,Menlo,GA,Menlo-GA,Georgia,13055,Chattooga,34.4835,-85.4776,468,468,230,polygon,TRUE,America/New_York,30731
+Mitchell-GA,1840016889,Mitchell,Mitchell,GA,Mitchell-GA,Georgia,13125,Glascock,33.2198,-82.7031,197,197,51,polygon,TRUE,America/New_York,30820
+Buckhead-GA,1840015677,Buckhead,Buckhead,GA,Buckhead-GA,Georgia,13211,Morgan,33.5685,-83.3623,172,172,83,polygon,TRUE,America/New_York,30625 30650
+Hampton-GA,1840013751,Hampton,Hampton,GA,Hampton-GA,Georgia,13151,Henry,33.3834,-84.2853,7532,7532,532,polygon,TRUE,America/New_York,30228
+Clarkston-GA,1840014776,Clarkston,Clarkston,GA,Clarkston-GA,Georgia,13089,DeKalb,33.8138,-84.2381,12742,12742,3293,polygon,TRUE,America/New_York,30021
+Juniper-GA,1840029276,Juniper,Juniper,GA,Juniper-GA,Georgia,13197,Marion,32.5313,-84.6044,,,13.7,point,FALSE,America/New_York,31801
+Riceboro-GA,1840014930,Riceboro,Riceboro,GA,Riceboro-GA,Georgia,13179,Liberty,31.7264,-81.4438,765,765,26,polygon,TRUE,America/New_York,31323
+Smyrna-GA,1840015634,Smyrna,Smyrna,GA,Smyrna-GA,Georgia,13067,Cobb,33.864,-84.5169,56664,56664,1424,polygon,TRUE,America/New_York,30126 30082 30080 30081
+Reno-GA,1840029170,Reno,Reno,GA,Reno-GA,Georgia,13131,Grady,30.7738,-84.2921,,,34,point,FALSE,America/New_York,39828
+Perkins-GA,1840025890,Perkins,Perkins,GA,Perkins-GA,Georgia,13165,Jenkins,32.9149,-81.949,,,20.7,polygon,FALSE,America/New_York,30822
+Wilmington Island-GA,1840029461,Wilmington Island,Wilmington Island,GA,Wilmington Island-GA,Georgia,13051,Chatham,32.0036,-80.9752,,,1671.4,polygon,FALSE,America/New_York,31410
+Carsonville-GA,1840029229,Carsonville,Carsonville,GA,Carsonville-GA,Georgia,13269,Taylor,32.7132,-84.2896,,,2.2,point,FALSE,America/New_York,31006
+Carlton-GA,1840014724,Carlton,Carlton,GA,Carlton-GA,Georgia,13195,Madison,34.0427,-83.0386,264,264,101,polygon,TRUE,America/New_York,30627
+Millen-GA,1840014867,Millen,Millen,GA,Millen-GA,Georgia,13165,Jenkins,32.8071,-81.9423,2618,2889,311,polygon,TRUE,America/New_York,30442
+Lula-GA,1840015559,Lula,Lula,GA,Lula-GA,Georgia,13139,Hall,34.3954,-83.6652,2706,2882,257,polygon,TRUE,America/New_York,30554
+Jerusalem-GA,1840029273,Jerusalem,Jerusalem,GA,Jerusalem-GA,Georgia,13039,Camden,30.9783,-81.8457,,,5.4,point,FALSE,America/New_York,31568
+East Dublin-GA,1840013815,East Dublin,East Dublin,GA,East Dublin-GA,Georgia,13175,Laurens,32.5477,-82.8688,2381,2381,232,polygon,TRUE,America/New_York,31027
+Gordon-GA,1840013792,Gordon,Gordon,GA,Gordon-GA,Georgia,13319,Wilkinson,32.8866,-83.335,1952,1952,140,polygon,TRUE,America/New_York,31031
+Albany-GA,1840013864,Albany,Albany,GA,Albany-GA,Georgia,13095,Dougherty,31.5776,-84.1762,91284,73801,517,polygon,TRUE,America/New_York,31721 31701 31705 31707 31702 31703 31704 31706 31708
+Griffin-GA,1840013776,Griffin,Griffin,GA,Griffin-GA,Georgia,13255,Spalding,33.2418,-84.2747,22928,22928,635,polygon,TRUE,America/New_York,30224 30223
+Sapelo Island-GA,1840029333,Sapelo Island,Sapelo Island,GA,Sapelo Island-GA,Georgia,13191,McIntosh,31.3974,-81.2787,,,3.1,point,FALSE,America/New_York,31327
+Pineora-GA,1840029313,Pineora,Pineora,GA,Pineora-GA,Georgia,13103,Effingham,32.2869,-81.3915,,,98.1,point,FALSE,America/New_York,31312
+Conyers-GA,1840014806,Conyers,Conyers,GA,Conyers-GA,Georgia,13247,Rockdale,33.6645,-83.9967,15919,15919,526,polygon,TRUE,America/New_York,30013 30012 30094
+Woodland-GA,1840015781,Woodland,Woodland,GA,Woodland-GA,Georgia,13263,Talbot,32.7877,-84.5606,358,358,176,polygon,TRUE,America/New_York,31836
+Sigsbee-GA,1840029339,Sigsbee,Sigsbee,GA,Sigsbee-GA,Georgia,13071,Colquitt,31.2652,-83.8593,,,47.2,point,FALSE,America/New_York,31768
+Sargent-GA,1840029334,Sargent,Sargent,GA,Sargent-GA,Georgia,13077,Coweta,33.4323,-84.8694,,,434.9,point,FALSE,America/New_York,30263
+Saint Marys-GA,1840015888,Saint Marys,Saint Marys,GA,Saint Marys-GA,Georgia,13039,Camden,30.7567,-81.5722,36587,18088,308,polygon,TRUE,America/New_York,31558
+Haylow-GA,1840029141,Haylow,Haylow,GA,Haylow-GA,Georgia,13101,Echols,30.826,-82.9051,,,3.6,point,FALSE,America/New_York,31630
+Ellabell-GA,1840029247,Ellabell,Ellabell,GA,Ellabell-GA,Georgia,13029,Bryan,32.1235,-81.4857,,,62,point,FALSE,America/New_York,31308
+Flovilla-GA,1840013767,Flovilla,Flovilla,GA,Flovilla-GA,Georgia,13035,Butts,33.2524,-83.903,640,640,126,polygon,TRUE,America/New_York,30216
+Johnson Corner-GA,1840029274,Johnson Corner,Johnson Corner,GA,Johnson Corner-GA,Georgia,13279,Toombs,32.0652,-82.3012,,,35.5,point,FALSE,America/New_York,30436
+Sirmans-GA,1840029343,Sirmans,Sirmans,GA,Sirmans-GA,Georgia,13065,Clinch,31.0813,-82.9693,,,1.5,point,FALSE,America/New_York,31634
+Sterling-GA,1840029180,Sterling,Sterling,GA,Sterling-GA,Georgia,13127,Glynn,31.2724,-81.5615,,,161.5,point,FALSE,America/New_York,31525
+Clarkesville-GA,1840014660,Clarkesville,Clarkesville,GA,Clarkesville-GA,Georgia,13137,Habersham,34.6102,-83.5283,1770,1770,277,polygon,TRUE,America/New_York,30523
+Milford-GA,1840029159,Milford,Milford,GA,Milford-GA,Georgia,13007,Baker,31.3818,-84.5435,,,7.5,point,FALSE,America/New_York,39862
+Harlem-GA,1840013749,Harlem,Harlem,GA,Harlem-GA,Georgia,13073,Columbia,33.4154,-82.3139,3062,3018,257,polygon,TRUE,America/New_York,30814
+Stone Mountain-GA,1840015645,Stone Mountain,Stone Mountain,GA,Stone Mountain-GA,Georgia,13089,DeKalb,33.8037,-84.172,6328,6328,1435,polygon,TRUE,America/New_York,30083 30086
+Statham-GA,1840015622,Statham,Statham,GA,Statham-GA,Georgia,13013,Barrow,33.9646,-83.6024,2647,2647,252,polygon,TRUE,America/New_York,30666
+Draketown-GA,1840029245,Draketown,Draketown,GA,Draketown-GA,Georgia,13143,Haralson,33.8262,-85.0441,,,67.4,point,FALSE,America/New_York,30179
+Spring Place-GA,1840029437,Spring Place,Spring Place,GA,Spring Place-GA,Georgia,13213,Murray,34.7581,-84.8211,,,253,point,FALSE,America/New_York,30705
+Woolsey-GA,1840016846,Woolsey,Woolsey,GA,Woolsey-GA,Georgia,13113,Fayette,33.3627,-84.4112,168,168,79,polygon,TRUE,America/New_York,30215
+Norman Park-GA,1840014978,Norman Park,Norman Park,GA,Norman Park-GA,Georgia,13071,Colquitt,31.2692,-83.6843,969,969,121,polygon,TRUE,America/New_York,31771
+Warm Springs-GA,1840015750,Warm Springs,Warm Springs,GA,Warm Springs-GA,Georgia,13199,Meriwether,32.8853,-84.6766,401,401,114,polygon,TRUE,America/New_York,31830
+Lilburn-GA,1840015613,Lilburn,Lilburn,GA,Lilburn-GA,Georgia,13135,Gwinnett,33.8887,-84.1379,12675,12675,765,polygon,TRUE,America/New_York,30047 30048
+Cartersville-GA,1840014701,Cartersville,Cartersville,GA,Cartersville-GA,Georgia,13015,Bartow,34.1631,-84.8007,55195,20753,274,polygon,TRUE,America/New_York,30121 30120
+Alto-GA,1840015543,Alto,Alto,GA,Alto-GA,Georgia,13011,Banks,34.4652,-83.5727,1164,1164,406,polygon,TRUE,America/New_York,30510
+Roberta-GA,1840014874,Roberta,Roberta,GA,Roberta-GA,Georgia,13079,Crawford,32.7196,-84.0104,992,992,257,polygon,TRUE,America/New_York,31078
+Woodbine-GA,1840015889,Woodbine,Woodbine,GA,Woodbine-GA,Georgia,13039,Camden,30.9595,-81.7175,1322,1322,203,polygon,TRUE,America/New_York,31569
+Brinson-GA,1840015890,Brinson,Brinson,GA,Brinson-GA,Georgia,13087,Decatur,30.9784,-84.7379,208,208,39,polygon,TRUE,America/New_York,39825
+Bowman-GA,1840013652,Bowman,Bowman,GA,Bowman-GA,Georgia,13105,Elbert,34.2051,-83.0309,811,811,100,polygon,TRUE,America/New_York,30624
+James-GA,1840029145,James,James,GA,James-GA,Georgia,13169,Jones,32.9665,-83.4738,,,61.3,point,FALSE,America/New_York,31032
+Adairsville-GA,1840013620,Adairsville,Adairsville,GA,Adairsville-GA,Georgia,13015,Bartow,34.3702,-84.9214,4816,4816,204,polygon,TRUE,America/New_York,30103
+Sardis-GA,1840015740,Sardis,Sardis,GA,Sardis-GA,Georgia,13033,Burke,32.9756,-81.7621,975,975,243,polygon,TRUE,America/New_York,30456
+Alamo-GA,1840015824,Alamo,Alamo,GA,Alamo-GA,Georgia,13309,Wheeler,32.1469,-82.7798,3389,3389,667,polygon,TRUE,America/New_York,30411
+Nelson-GA,1840014686,Nelson,Nelson,GA,Nelson-GA,Georgia,13227,Pickens,34.379,-84.3708,4237,1361,350,polygon,TRUE,America/New_York,30177 30107 30151
+Tate City-GA,1840025839,Tate City,Tate City,GA,Tate City-GA,Georgia,13281,Towns,34.9788,-83.554,,,4.2,polygon,FALSE,America/New_York,30546
+Gough-GA,1840029259,Gough,Gough,GA,Gough-GA,Georgia,13033,Burke,33.0918,-82.2265,,,25.2,point,FALSE,America/New_York,30816
+Bowdon-GA,1840013738,Bowdon,Bowdon,GA,Bowdon-GA,Georgia,13045,Carroll,33.5378,-85.2539,2097,2097,238,polygon,TRUE,America/New_York,30108
+Baconton-GA,1840013876,Baconton,Baconton,GA,Baconton-GA,Georgia,13205,Mitchell,31.3804,-84.1592,857,857,169,polygon,TRUE,America/New_York,31716
+Social Circle-GA,1840015658,Social Circle,Social Circle,GA,Social Circle-GA,Georgia,13297,Walton,33.6523,-83.712,3476,4452,124,polygon,TRUE,America/New_York,30025
+Cisco-GA,1840029235,Cisco,Cisco,GA,Cisco-GA,Georgia,13213,Murray,34.9512,-84.7363,,,63.1,point,FALSE,America/New_York,30711
+Kite-GA,1840014876,Kite,Kite,GA,Kite-GA,Georgia,13167,Johnson,32.6921,-82.5136,223,223,106,polygon,TRUE,America/New_York,31049
+Molena-GA,1840014854,Molena,Molena,GA,Molena-GA,Georgia,13231,Pike,33.0119,-84.5001,371,371,83,polygon,TRUE,America/New_York,30258
+Elliotts Bluff-GA,1840029249,Elliotts Bluff,Elliotts Bluff,GA,Elliotts Bluff-GA,Georgia,13039,Camden,30.8458,-81.5615,,,323.5,point,FALSE,America/New_York,31558
+Dahlonega-GA,1840014672,Dahlonega,Dahlonega,GA,Dahlonega-GA,Georgia,13187,Lumpkin,34.5303,-83.9796,5909,6437,289,polygon,TRUE,America/New_York,30533 30597
+Belmont-GA,1840029189,Belmont,Belmont,GA,Belmont-GA,Georgia,13089,DeKalb,33.7234,-84.1663,,,971,point,FALSE,America/New_York,30058
+Louisville-GA,1840015735,Louisville,Louisville,GA,Louisville-GA,Georgia,13163,Jefferson,32.9954,-82.4,3128,2383,255,polygon,TRUE,America/New_York,30434
+Jacksonville-GA,1840014924,Jacksonville,Jacksonville,GA,Jacksonville-GA,Georgia,13271,Telfair,31.8126,-82.979,136,136,48,polygon,TRUE,America/New_York,31544
+Sylvania-GA,1840015763,Sylvania,Sylvania,GA,Sylvania-GA,Georgia,13251,Screven,32.7465,-81.641,2628,2526,195,polygon,TRUE,America/New_York,30467
+Shady Dale-GA,1840018011,Shady Dale,Shady Dale,GA,Shady Dale-GA,Georgia,13159,Jasper,33.4007,-83.5883,239,239,105,polygon,TRUE,America/New_York,31085
+Jasper-GA,1840014687,Jasper,Jasper,GA,Jasper-GA,Georgia,13227,Pickens,34.4711,-84.4495,6126,3819,173,polygon,TRUE,America/New_York,30143 30175
+Cairo-GA,1840013900,Cairo,Cairo,GA,Cairo-GA,Georgia,13131,Grady,30.8789,-84.2051,9378,9570,379,polygon,TRUE,America/New_York,39828
+Dakota-GA,1840029396,Dakota,Dakota,GA,Dakota-GA,Georgia,13287,Turner,31.776,-83.6932,,,11.4,point,FALSE,America/New_York,31714
+South Fulton-GA,1840029465,South Fulton,South Fulton,GA,South Fulton-GA,Georgia,13121,Fulton,33.6015,-84.5505,,,223.8,point,TRUE,America/New_York,30349
+Brooklet-GA,1840013821,Brooklet,Brooklet,GA,Brooklet-GA,Georgia,13031,Bulloch,32.3898,-81.6668,1523,1523,178,polygon,TRUE,America/New_York,30415
+Hiltonia-GA,1840016921,Hiltonia,Hiltonia,GA,Hiltonia-GA,Georgia,13251,Screven,32.8833,-81.6613,323,323,72,polygon,TRUE,America/New_York,30467
+Lakemont-GA,1840029428,Lakemont,Lakemont,GA,Lakemont-GA,Georgia,13241,Rabun,34.782,-83.4163,,,78.6,point,FALSE,America/New_York,30552
+Alvaton-GA,1840029215,Alvaton,Alvaton,GA,Alvaton-GA,Georgia,13199,Meriwether,33.171,-84.5805,,,17.2,point,FALSE,America/New_York,30218
+Perry-GA,1840014885,Perry,Perry,GA,Perry-GA,Georgia,13153,Houston,32.4713,-83.7282,16200,16200,237,polygon,TRUE,America/New_York,31069
+Wenona-GA,1840029365,Wenona,Wenona,GA,Wenona-GA,Georgia,13081,Crisp,31.9055,-83.7668,,,16.5,point,FALSE,America/New_York,31015
+Walthourville-GA,1840015840,Walthourville,Walthourville,GA,Walthourville-GA,Georgia,13179,Liberty,31.7716,-81.6217,3959,3959,397,polygon,TRUE,America/New_York,31301 31313 31333
+Arcade-GA,1840013650,Arcade,Arcade,GA,Arcade-GA,Georgia,13157,Jackson,34.0711,-83.5403,1808,1808,82,polygon,TRUE,America/New_York,30549
+Warwick-GA,1840015856,Warwick,Warwick,GA,Warwick-GA,Georgia,13321,Worth,31.8298,-83.9206,409,409,194,polygon,TRUE,America/New_York,31796
+Topeka Junction-GA,1840029208,Topeka Junction,Topeka Junction,GA,Topeka Junction-GA,Georgia,13293,Upson,32.9746,-84.2085,,,6.6,point,FALSE,America/New_York,30285
+Sumter-GA,1840029350,Sumter,Sumter,GA,Sumter-GA,Georgia,13261,Sumter,31.9493,-84.2549,,,4.5,point,FALSE,America/New_York,31709
+Andersonville-GA,1840013842,Andersonville,Andersonville,GA,Andersonville-GA,Georgia,13261,Sumter,32.1965,-84.1454,234,234,65,polygon,TRUE,America/New_York,31711
+Gainesville-GA,1840013612,Gainesville,Gainesville,GA,Gainesville-GA,Georgia,13139,Hall,34.2903,-83.8299,154859,40000,468,polygon,TRUE,America/New_York,30501 30507 30504 30503
+Plains-GA,1840014918,Plains,Plains,GA,Plains-GA,Georgia,13261,Sumter,32.0331,-84.3946,734,734,348,polygon,TRUE,America/New_York,31780
+Bonanza-GA,1840029445,Bonanza,Bonanza,GA,Bonanza-GA,Georgia,13063,Clayton,33.4587,-84.3372,,,1380.2,polygon,FALSE,America/New_York,30228 30238
+Between-GA,1840015657,Between,Between,GA,Between-GA,Georgia,13297,Walton,33.8177,-83.8043,342,342,111,polygon,TRUE,America/New_York,30656 30655
+Fargo-GA,1840013893,Fargo,Fargo,GA,Fargo-GA,Georgia,13065,Clinch,30.6881,-82.5721,320,320,45,polygon,TRUE,America/New_York,31631
+Griswoldville-GA,1840029261,Griswoldville,Griswoldville,GA,Griswoldville-GA,Georgia,13169,Jones,32.8707,-83.4888,,,33.2,point,FALSE,America/New_York,31217
+East Point-GA,1840013661,East Point,East Point,GA,East Point-GA,Georgia,13121,Fulton,33.6696,-84.47,35471,35471,931,polygon,TRUE,America/New_York,30344 30349 30364
+Piedmont-GA,1840029312,Piedmont,Piedmont,GA,Piedmont-GA,Georgia,13171,Lamar,33.0171,-84.2508,,,10.7,point,FALSE,America/New_York,30204
+Meridian-GA,1840029156,Meridian,Meridian,GA,Meridian-GA,Georgia,13191,McIntosh,31.4519,-81.3779,,,55.5,point,FALSE,America/New_York,31305
+Vienna-GA,1840015829,Vienna,Vienna,GA,Vienna-GA,Georgia,13093,Dooly,32.0925,-83.7864,3232,3699,261,polygon,TRUE,America/New_York,31092
+Chestnut Mountain-GA,1840029127,Chestnut Mountain,Chestnut Mountain,GA,Chestnut Mountain-GA,Georgia,13139,Hall,34.1726,-83.838,,,166.5,point,FALSE,America/New_York,30542
+College Park-GA,1840014737,College Park,College Park,GA,College Park-GA,Georgia,13121,Fulton,33.6385,-84.4597,15035,15035,576,polygon,TRUE,America/New_York,30337 30349
+Dooling-GA,1840017021,Dooling,Dooling,GA,Dooling-GA,Georgia,13093,Dooly,32.23,-83.9289,137,137,114,polygon,TRUE,America/New_York,31063 31007
+Gardi-GA,1840029140,Gardi,Gardi,GA,Gardi-GA,Georgia,13305,Wayne,31.5383,-81.7982,,,58.8,point,FALSE,America/New_York,31546
+Hiram-GA,1840014758,Hiram,Hiram,GA,Hiram-GA,Georgia,13223,Paulding,33.8773,-84.7707,3898,3898,380,polygon,TRUE,America/New_York,30141
+Temple-GA,1840015678,Temple,Temple,GA,Temple-GA,Georgia,13045,Carroll,33.7342,-85.0289,4378,4378,248,polygon,TRUE,America/New_York,30179
+Oconee-GA,1840014851,Oconee,Oconee,GA,Oconee-GA,Georgia,13303,Washington,32.8534,-82.9577,256,256,76,polygon,TRUE,America/New_York,31067
+Charing-GA,1840029231,Charing,Charing,GA,Charing-GA,Georgia,13269,Taylor,32.4615,-84.3616,,,2.2,point,FALSE,America/New_York,31058
+Irwinville-GA,1840029144,Irwinville,Irwinville,GA,Irwinville-GA,Georgia,13155,Irwin,31.6482,-83.3827,,,63.5,point,FALSE,America/New_York,31774
+Sugar Valley-GA,1840029348,Sugar Valley,Sugar Valley,GA,Sugar Valley-GA,Georgia,13129,Gordon,34.5581,-85.0119,,,55.6,point,FALSE,America/New_York,30746
+Vidette-GA,1840015741,Vidette,Vidette,GA,Vidette-GA,Georgia,13033,Burke,33.0376,-82.2475,110,110,43,polygon,TRUE,America/New_York,30830 30434
+Oakfield-GA,1840029301,Oakfield,Oakfield,GA,Oakfield-GA,Georgia,13321,Worth,31.778,-83.9713,,,47.7,point,FALSE,America/New_York,31772
+Brunswick-GA,1840013875,Brunswick,Brunswick,GA,Brunswick-GA,Georgia,13127,Glynn,31.145,-81.474,54213,16346,369,polygon,TRUE,America/New_York,31520 31521
+Gray-GA,1840013786,Gray,Gray,GA,Gray-GA,Georgia,13169,Jones,33.0023,-83.5376,4555,3268,324,polygon,TRUE,America/New_York,31032
+Dearing-GA,1840016837,Dearing,Dearing,GA,Dearing-GA,Georgia,13189,McDuffie,33.4149,-82.3852,546,546,258,polygon,TRUE,America/New_York,30808
+Sandersville-GA,1840015746,Sandersville,Sandersville,GA,Sandersville-GA,Georgia,13303,Washington,32.9827,-82.8093,7026,5700,172,polygon,TRUE,America/New_York,31082
+Nicholson-GA,1840014721,Nicholson,Nicholson,GA,Nicholson-GA,Georgia,13157,Jackson,34.1172,-83.4289,1724,1724,167,polygon,TRUE,America/New_York,30565 30529
+Columbus-GA,1840014887,Columbus,Columbus,GA,Columbus-GA,Georgia,13215,Muscogee,32.51,-84.8771,263737,197485,352,polygon,TRUE,America/New_York,31820 31829 31909 31904 31905 31906 31907 31901 31903 31808 31902 31908 31914 31917 31993 31997 31998 31999
+Burroughs-GA,1840029226,Burroughs,Burroughs,GA,Burroughs-GA,Georgia,13051,Chatham,31.9749,-81.2476,,,624.7,point,FALSE,America/New_York,31419
+Waresboro-GA,1840029441,Waresboro,Waresboro,GA,Waresboro-GA,Georgia,13299,Ware,31.248,-82.4737,,,94.7,point,FALSE,America/New_York,31503
+Chester-GA,1840017004,Chester,Chester,GA,Chester-GA,Georgia,13091,Dodge,32.3945,-83.1551,1567,1567,687,polygon,TRUE,America/New_York,31012
+Forsyth-GA,1840013784,Forsyth,Forsyth,GA,Forsyth-GA,Georgia,13207,Monroe,33.0347,-83.938,5264,4125,270,polygon,TRUE,America/New_York,31029
+Saint Simons-GA,1840013874,Saint Simons,Saint Simons,GA,Saint Simons-GA,Georgia,13127,Glynn,31.1766,-81.3863,,,1059,polygon,FALSE,America/New_York,31522
+Philomath-GA,1840029311,Philomath,Philomath,GA,Philomath-GA,Georgia,13221,Oglethorpe,33.7273,-82.9913,,,6.7,point,FALSE,America/New_York,30660
+Santa Claus-GA,1840015819,Santa Claus,Santa Claus,GA,Santa Claus-GA,Georgia,13279,Toombs,32.1712,-82.3298,166,166,347,polygon,TRUE,America/New_York,30436
+Macon-GA,1840015779,Macon,Macon,GA,Macon-GA,Georgia,13021,Bibb,32.8407,-83.6324,,,812.9,point,TRUE,America/New_York,31201
+Newington-GA,1840016922,Newington,Newington,GA,Newington-GA,Georgia,13251,Screven,32.5887,-81.5062,261,261,124,polygon,TRUE,America/New_York,30446
+West Point-GA,1840015752,West Point,West Point,GA,West Point-GA,Georgia,13285,Troup,32.8955,-85.1453,3766,3766,131,polygon,TRUE,America/New_York,31833 30240
+Madison-GA,1840015676,Madison,Madison,GA,Madison-GA,Georgia,13211,Morgan,33.5791,-83.4758,4491,4060,180,polygon,TRUE,America/New_York,30650
+Tennille-GA,1840015747,Tennille,Tennille,GA,Tennille-GA,Georgia,13303,Washington,32.9359,-82.8134,1854,1854,404,polygon,TRUE,America/New_York,31089
+Stillmore-GA,1840015785,Stillmore,Stillmore,GA,Stillmore-GA,Georgia,13107,Emanuel,32.441,-82.2145,522,522,65,polygon,TRUE,America/New_York,30471 30464
+Ochlocknee-GA,1840017142,Ochlocknee,Ochlocknee,GA,Ochlocknee-GA,Georgia,13275,Thomas,30.9752,-84.0517,680,680,283,polygon,TRUE,America/New_York,31773
+Esom Hill-GA,1840029411,Esom Hill,Esom Hill,GA,Esom Hill-GA,Georgia,13233,Polk,33.949,-85.3877,,,24.1,point,FALSE,America/New_York,30125
+Oglesby-GA,1840029305,Oglesby,Oglesby,GA,Oglesby-GA,Georgia,13105,Elbert,34.0757,-82.9671,,,19.3,point,FALSE,America/New_York,30635
+Nicholls-GA,1840014947,Nicholls,Nicholls,GA,Nicholls-GA,Georgia,13069,Coffee,31.5191,-82.6386,3331,3331,703,polygon,TRUE,America/New_York,31554
+Eldorendo-GA,1840029134,Eldorendo,Eldorendo,GA,Eldorendo-GA,Georgia,13087,Decatur,31.0441,-84.6519,,,34.3,point,FALSE,America/New_York,39837
+Nahunta-GA,1840014972,Nahunta,Nahunta,GA,Nahunta-GA,Georgia,13025,Brantley,31.2065,-81.9814,1048,1048,143,polygon,TRUE,America/New_York,31553
+Red Oak-GA,1840029324,Red Oak,Red Oak,GA,Red Oak-GA,Georgia,13121,Fulton,33.6248,-84.4985,,,131.6,point,FALSE,America/New_York,30349
+Camak-GA,1840015709,Camak,Camak,GA,Camak-GA,Georgia,13301,Warren,33.4526,-82.6463,131,131,63,polygon,TRUE,America/New_York,30828 30807
+Cusseta-GA,1840029395,Cusseta,Cusseta,GA,Cusseta-GA,Georgia,13053,Chattahoochee,32.347,-84.787,10922,10922,16,polygon,TRUE,America/New_York,31905 31805 31995
+North Atlanta-GA,1840013703,North Atlanta,North Atlanta,GA,North Atlanta-GA,Georgia,13089,DeKalb,33.8651,-84.3366,,,1623.8,point,FALSE,America/New_York,30319
+Skipperton-GA,1840029178,Skipperton,Skipperton,GA,Skipperton-GA,Georgia,13021,Bibb,32.7438,-83.6924,,,326.3,point,FALSE,America/New_York,31216
+Bridgeboro-GA,1840029222,Bridgeboro,Bridgeboro,GA,Bridgeboro-GA,Georgia,13321,Worth,31.4016,-83.9749,,,25.4,point,FALSE,America/New_York,31744
+Blitchton-GA,1840029124,Blitchton,Blitchton,GA,Blitchton-GA,Georgia,13029,Bryan,32.1971,-81.4379,,,102.6,point,FALSE,America/New_York,31308
+Pendergrass-GA,1840016715,Pendergrass,Pendergrass,GA,Pendergrass-GA,Georgia,13157,Jackson,34.1647,-83.6828,463,463,59,polygon,TRUE,America/New_York,30567
+Meigs-GA,1840015892,Meigs,Meigs,GA,Meigs-GA,Georgia,13275,Thomas,31.0713,-84.0922,1038,1038,257,polygon,TRUE,America/New_York,31765
+Du Pont-GA,1840017139,Du Pont,Du Pont,GA,Du Pont-GA,Georgia,13065,Clinch,30.9891,-82.8691,123,123,60,polygon,TRUE,America/New_York,31634 31630
+Nunez-GA,1840014875,Nunez,Nunez,GA,Nunez-GA,Georgia,13107,Emanuel,32.492,-82.3466,148,148,43,polygon,TRUE,America/New_York,30401 30448
+Scotland-GA,1840015836,Scotland,Scotland,GA,Scotland-GA,Georgia,13271,Telfair,32.0472,-82.818,344,344,92,polygon,TRUE,America/New_York,31083
+Greenville-GA,1840013782,Greenville,Greenville,GA,Greenville-GA,Georgia,13199,Meriwether,33.0322,-84.7163,855,855,140,polygon,TRUE,America/New_York,30222
+Linton-GA,1840029282,Linton,Linton,GA,Linton-GA,Georgia,13141,Hancock,33.1165,-82.9926,,,10.5,point,FALSE,America/New_York,31087
+Ruckersville-GA,1840029330,Ruckersville,Ruckersville,GA,Ruckersville-GA,Georgia,13105,Elbert,34.1648,-82.7882,,,9.7,point,FALSE,America/New_York,30635
+Experiment-GA,1840013099,Experiment,Experiment,GA,Experiment-GA,Georgia,13255,Spalding,33.2789,-84.276,,,653.8,polygon,FALSE,America/New_York,30223 30212
+Arcola-GA,1840029119,Arcola,Arcola,GA,Arcola-GA,Georgia,13031,Bulloch,32.3435,-81.6021,,,6.2,point,FALSE,America/New_York,30415
+Berkeley Lake-GA,1840013677,Berkeley Lake,Berkeley Lake,GA,Berkeley Lake-GA,Georgia,13135,Gwinnett,33.9806,-84.1839,2062,2062,454,polygon,TRUE,America/New_York,30071 30096
+Thomasville-GA,1840015893,Thomasville,Thomasville,GA,Thomasville-GA,Georgia,13275,Thomas,30.8394,-83.9782,24678,18826,484,polygon,TRUE,America/New_York,31792 31758 31799
+Tifton-GA,1840015863,Tifton,Tifton,GA,Tifton-GA,Georgia,13277,Tift,31.4624,-83.5205,24463,16836,515,polygon,TRUE,America/New_York,31793 31794
+Penfield-GA,1840029213,Penfield,Penfield,GA,Penfield-GA,Georgia,13133,Greene,33.6673,-83.1774,,,17.1,point,FALSE,America/New_York,30669
+Eldorado-GA,1840029410,Eldorado,Eldorado,GA,Eldorado-GA,Georgia,13277,Tift,31.3538,-83.4854,,,42.9,point,FALSE,America/New_York,31794
+Statenville-GA,1840027019,Statenville,Statenville,GA,Statenville-GA,Georgia,13101,Echols,30.7064,-83.019,,,96.7,polygon,FALSE,America/New_York,31648
+Garden Lakes-GA,1840012768,Garden Lakes,Garden Lakes,GA,Garden Lakes-GA,Georgia,13115,Floyd,34.2879,-85.2316,,,1349.9,point,FALSE,America/New_York,30334 30331 30332 30309 30308 30307 30303 30354 30327 30326 30324 30319 30316 30342 30305 30306 30317 30314 30315 30312 30313 30310 30311 30363 30318 30301 30302 30304 30321 30325 30343 30348 30353 30355 30357 30358 30361 30362 30368 30369 30370 30371 30375 30377 30378 30380 30385 30388 30392 30394 30396 30398 31106 31107 31119 31126 31131 31139 31141 31145 31146 31150 31156 31192 31193 31195 31196 39901
+Floyd-GA,1840029254,Floyd,Floyd,GA,Floyd-GA,Georgia,13067,Cobb,33.847,-84.5855,,,725.2,point,FALSE,America/New_York,30126
+Sunnyside-GA,1840029459,Sunnyside,Sunnyside,GA,Sunnyside-GA,Georgia,13299,Ware,31.2406,-82.3411,,,735.7,polygon,FALSE,America/New_York,31501
+Portal-GA,1840016978,Portal,Portal,GA,Portal-GA,Georgia,13031,Bulloch,32.5389,-81.9295,650,650,118,polygon,TRUE,America/New_York,30450
+Stewart-GA,1840029207,Stewart,Stewart,GA,Stewart-GA,Georgia,13217,Newton,33.4221,-83.8521,,,163.4,point,FALSE,America/New_York,30014
+Ludowici-GA,1840015848,Ludowici,Ludowici,GA,Ludowici-GA,Georgia,13183,Long,31.7096,-81.7457,2162,2162,358,polygon,TRUE,America/New_York,31316
+Herod-GA,1840029425,Herod,Herod,GA,Herod-GA,Georgia,13273,Terrell,31.6988,-84.4413,,,2.5,point,FALSE,America/New_York,39842
+Ambrose-GA,1840013857,Ambrose,Ambrose,GA,Ambrose-GA,Georgia,13069,Coffee,31.5944,-83.0137,382,382,48,polygon,TRUE,America/New_York,31512
+Jenkinsburg-GA,1840016872,Jenkinsburg,Jenkinsburg,GA,Jenkinsburg-GA,Georgia,13035,Butts,33.3228,-84.0384,371,371,115,polygon,TRUE,America/New_York,30234
+Norwood-GA,1840014818,Norwood,Norwood,GA,Norwood-GA,Georgia,13301,Warren,33.4626,-82.7055,227,227,107,polygon,TRUE,America/New_York,30821
+Trenton-GA,1840015529,Trenton,Trenton,GA,Trenton-GA,Georgia,13083,Dade,34.8741,-85.5096,2793,2255,270,polygon,TRUE,America/New_York,30752
+Lindale-GA,1840013604,Lindale,Lindale,GA,Lindale-GA,Georgia,13115,Floyd,34.1881,-85.1808,,,436,polygon,FALSE,America/New_York,30147 30161
+Maxeys-GA,1840016758,Maxeys,Maxeys,GA,Maxeys-GA,Georgia,13221,Oglethorpe,33.7555,-83.1737,224,224,36,polygon,TRUE,America/New_York,30667 30671
+Ellenton-GA,1840017122,Ellenton,Ellenton,GA,Ellenton-GA,Georgia,13071,Colquitt,31.1759,-83.5876,284,284,138,polygon,TRUE,America/New_York,31747
+Hahira-GA,1840013904,Hahira,Hahira,GA,Hahira-GA,Georgia,13185,Lowndes,30.9941,-83.3787,2937,2937,422,polygon,TRUE,America/New_York,31632
+Franklin-GA,1840013769,Franklin,Franklin,GA,Franklin-GA,Georgia,13149,Heard,33.2792,-85.098,964,964,111,polygon,TRUE,America/New_York,30217
+Irondale-GA,1840029456,Irondale,Irondale,GA,Irondale-GA,Georgia,13063,Clayton,33.4773,-84.36,,,474.1,polygon,FALSE,America/New_York,30238
+Adrian-GA,1840013805,Adrian,Adrian,GA,Adrian-GA,Georgia,13107,Emanuel,32.5306,-82.592,651,651,182,polygon,TRUE,America/New_York,31002
+Clyattville-GA,1840029128,Clyattville,Clyattville,GA,Clyattville-GA,Georgia,13185,Lowndes,30.6916,-83.3152,,,65.1,point,FALSE,America/New_York,31601
+Eastman-GA,1840013829,Eastman,Eastman,GA,Eastman-GA,Georgia,13091,Dodge,32.1973,-83.1714,6290,5157,310,polygon,TRUE,America/New_York,31023
+Greensboro-GA,1840013744,Greensboro,Greensboro,GA,Greensboro-GA,Georgia,13133,Greene,33.5678,-83.1878,2780,3384,194,polygon,TRUE,America/New_York,30642
+Morven-GA,1840014993,Morven,Morven,GA,Morven-GA,Georgia,13027,Brooks,30.9433,-83.5003,533,533,119,polygon,TRUE,America/New_York,31638
+Geneva-GA,1840016957,Geneva,Geneva,GA,Geneva-GA,Georgia,13263,Talbot,32.5789,-84.5516,98,98,48,polygon,TRUE,America/New_York,31810
+Dixie-GA,1840029402,Dixie,Dixie,GA,Dixie-GA,Georgia,13027,Brooks,30.7858,-83.6643,,,32.6,point,FALSE,America/New_York,31629
+Stockton-GA,1840012952,Stockton,Stockton,GA,Stockton-GA,Georgia,13173,Lanier,30.9394,-82.9996,,,32,point,FALSE,America/New_York,31649
+Damascus-GA,1840014961,Damascus,Damascus,GA,Damascus-GA,Georgia,13099,Early,31.2988,-84.717,236,236,51,polygon,TRUE,America/New_York,39841
+Lawrenceville-GA,1840014745,Lawrenceville,Lawrenceville,GA,Lawrenceville-GA,Georgia,13135,Gwinnett,33.9524,-83.993,30782,30782,887,polygon,TRUE,America/New_York,30046 30042 30049
+South Newport-GA,1840029205,South Newport,South Newport,GA,South Newport-GA,Georgia,13191,McIntosh,31.6349,-81.3962,,,16.2,point,FALSE,America/New_York,31331
+Preston-GA,1840029318,Preston,Preston,GA,Preston-GA,Georgia,13307,Webster,32.066,-84.5374,,,101.5,point,TRUE,America/New_York,31824
+Sale City-GA,1840015872,Sale City,Sale City,GA,Sale City-GA,Georgia,13205,Mitchell,31.2626,-84.0214,348,348,73,polygon,TRUE,America/New_York,31784
+Panthersville-GA,1840013705,Panthersville,Panthersville,GA,Panthersville-GA,Georgia,13089,DeKalb,33.7059,-84.2764,,,1345.7,polygon,FALSE,America/New_York,30034
+Reynoldsville-GA,1840029171,Reynoldsville,Reynoldsville,GA,Reynoldsville-GA,Georgia,13253,Seminole,30.8571,-84.778,,,31.7,point,FALSE,America/New_York,39845
+North High Shoals-GA,1840016783,North High Shoals,North High Shoals,GA,North High Shoals-GA,Georgia,13219,Oconee,33.8273,-83.5015,723,723,113,polygon,TRUE,America/New_York,30621 30645
+Silver City-GA,1840029342,Silver City,Silver City,GA,Silver City-GA,Georgia,13085,Dawson,34.3343,-84.116,,,103.9,point,FALSE,America/New_York,30028
+Keysville-GA,1840014847,Keysville,Keysville,GA,Keysville-GA,Georgia,13033,Burke,33.2375,-82.2289,304,304,111,polygon,TRUE,America/New_York,30815 30816
+Soperton-GA,1840015811,Soperton,Soperton,GA,Soperton-GA,Georgia,13283,Treutlen,32.3782,-82.5944,2715,2986,261,polygon,TRUE,America/New_York,30457
+Bainbridge-GA,1840013899,Bainbridge,Bainbridge,GA,Bainbridge-GA,Georgia,13087,Decatur,30.9046,-84.5722,11713,12274,252,polygon,TRUE,America/New_York,39819 39817 39818
+Ideal-GA,1840014900,Ideal,Ideal,GA,Ideal-GA,Georgia,13193,Macon,32.3726,-84.1894,456,456,153,polygon,TRUE,America/New_York,31041
+Cave Spring-GA,1840014680,Cave Spring,Cave Spring,GA,Cave Spring-GA,Georgia,13115,Floyd,34.1065,-85.339,1154,1154,109,polygon,TRUE,America/New_York,30124
+Demorest-GA,1840014662,Demorest,Demorest,GA,Demorest-GA,Georgia,13137,Habersham,34.5648,-83.5424,2061,2061,354,polygon,TRUE,America/New_York,30535
+Coverdale-GA,1840029241,Coverdale,Coverdale,GA,Coverdale-GA,Georgia,13287,Turner,31.6282,-83.7191,,,19.5,point,FALSE,America/New_York,31714
+Oakwood-GA,1840014697,Oakwood,Oakwood,GA,Oakwood-GA,Georgia,13139,Hall,34.2235,-83.8851,4161,4161,302,polygon,TRUE,America/New_York,30566 30542 30502
+Tate-GA,1840029438,Tate,Tate,GA,Tate-GA,Georgia,13227,Pickens,34.4184,-84.3827,,,66.4,point,FALSE,America/New_York,30177
+Hephzibah-GA,1840014829,Hephzibah,Hephzibah,GA,Hephzibah-GA,Georgia,13245,Richmond,33.2907,-82.0995,3898,3898,77,polygon,TRUE,America/New_York,30815
+McBean-GA,1840029154,McBean,McBean,GA,McBean-GA,Georgia,13245,Richmond,33.2435,-81.9507,,,32,point,FALSE,America/New_York,30815
+Conley-GA,1840013096,Conley,Conley,GA,Conley-GA,Georgia,13063,Clayton,33.6398,-84.3376,,,959.4,polygon,FALSE,America/New_York,30288 30297 30294
+Thomaston-GA,1840015776,Thomaston,Thomaston,GA,Thomaston-GA,Georgia,13293,Upson,32.8907,-84.3272,14089,8962,362,polygon,TRUE,America/New_York,30286
+Rockingham-GA,1840025953,Rockingham,Rockingham,GA,Rockingham-GA,Georgia,13005,Bacon,31.544,-82.4145,,,105.1,polygon,FALSE,America/New_York,31510
+Camilla-GA,1840013877,Camilla,Camilla,GA,Camilla-GA,Georgia,13205,Mitchell,31.2337,-84.2088,6692,5170,302,polygon,TRUE,America/New_York,31730
+Homeland-GA,1840014998,Homeland,Homeland,GA,Homeland-GA,Georgia,13049,Charlton,30.8603,-82.0211,864,864,135,polygon,TRUE,America/New_York,31537
+Yonah-GA,1840025846,Yonah,Yonah,GA,Yonah-GA,Georgia,13311,White,34.6437,-83.7411,,,67,polygon,FALSE,America/New_York,30528
+Cooper Heights-GA,1840029391,Cooper Heights,Cooper Heights,GA,Cooper Heights-GA,Georgia,13295,Walker,34.8073,-85.3891,,,28.3,point,FALSE,America/New_York,30707
+Hillsboro-GA,1840029426,Hillsboro,Hillsboro,GA,Hillsboro-GA,Georgia,13159,Jasper,33.1799,-83.641,,,36.9,point,FALSE,America/New_York,31038
+Springfield-GA,1840015803,Springfield,Springfield,GA,Springfield-GA,Georgia,13103,Effingham,32.3641,-81.3079,5151,4027,565,polygon,TRUE,America/New_York,31329
+Weston-GA,1840029366,Weston,Weston,GA,Weston-GA,Georgia,13307,Webster,31.976,-84.6149,,,19.5,point,TRUE,America/New_York,31832
+Thunderbolt-GA,1840017030,Thunderbolt,Thunderbolt,GA,Thunderbolt-GA,Georgia,13051,Chatham,32.0339,-81.0478,2683,2683,771,polygon,TRUE,America/New_York,31404 31410
+Manor-GA,1840029152,Manor,Manor,GA,Manor-GA,Georgia,13299,Ware,31.1038,-82.5732,,,93.6,point,FALSE,America/New_York,31550
+Woodbury-GA,1840015751,Woodbury,Woodbury,GA,Woodbury-GA,Georgia,13199,Meriwether,32.9848,-84.5821,900,900,170,polygon,TRUE,America/New_York,30293
+Jakin-GA,1840014962,Jakin,Jakin,GA,Jakin-GA,Georgia,13099,Early,31.0901,-84.9822,149,149,46,polygon,TRUE,America/New_York,39861
+Varnell-GA,1840015528,Varnell,Varnell,GA,Varnell-GA,Georgia,13313,Whitfield,34.9013,-84.9652,1795,1795,204,polygon,TRUE,America/New_York,30756 30721 30710
+Avalon-GA,1840015550,Avalon,Avalon,GA,Avalon-GA,Georgia,13257,Stephens,34.5027,-83.1967,207,207,45,polygon,TRUE,America/New_York,30577 30557
+Glenwood-GA,1840013833,Glenwood,Glenwood,GA,Glenwood-GA,Georgia,13309,Wheeler,32.1805,-82.6712,742,742,91,polygon,TRUE,America/New_York,30428
+Thalmann-GA,1840029354,Thalmann,Thalmann,GA,Thalmann-GA,Georgia,13127,Glynn,31.2908,-81.6887,,,58.2,point,FALSE,America/New_York,31523
+Ty Ty-GA,1840015864,Ty Ty,Ty Ty,GA,Ty Ty-GA,Georgia,13277,Tift,31.472,-83.6509,726,726,355,polygon,TRUE,America/New_York,31795
+Mountain Park-GA,1840014739,Mountain Park,Mountain Park,GA,Mountain Park-GA,Georgia,13121,Fulton,34.083,-84.4133,582,582,486,polygon,TRUE,America/New_York,30075
+Norristown-GA,1840025895,Norristown,Norristown,GA,Norristown-GA,Georgia,13107,Emanuel,32.5064,-82.4981,,,74.7,polygon,FALSE,America/New_York,30401 31002
+Quitman-GA,1840014995,Quitman,Quitman,GA,Quitman-GA,Georgia,13027,Brooks,30.7849,-83.5603,3805,3888,363,polygon,TRUE,America/New_York,31643
+Mount Vernon-GA,1840014905,Mount Vernon,Mount Vernon,GA,Mount Vernon-GA,Georgia,13209,Montgomery,32.1836,-82.5953,2278,2278,220,polygon,TRUE,America/New_York,30445
+Milton-GA,1840014738,Milton,Milton,GA,Milton-GA,Georgia,13121,Fulton,34.1353,-84.3138,38411,38411,384,polygon,TRUE,America/New_York,30004 30009
+Kinderlou-GA,1840029279,Kinderlou,Kinderlou,GA,Kinderlou-GA,Georgia,13185,Lowndes,30.801,-83.3674,,,10.3,point,FALSE,America/New_York,31601
+Omaha-GA,1840029307,Omaha,Omaha,GA,Omaha-GA,Georgia,13259,Stewart,32.1463,-85.0133,,,114.7,point,FALSE,America/Chicago,31821
+Surrency-GA,1840017054,Surrency,Surrency,GA,Surrency-GA,Georgia,13001,Appling,31.7215,-82.1987,206,206,102,polygon,TRUE,America/New_York,31563
+Keller-GA,1840029277,Keller,Keller,GA,Keller-GA,Georgia,13029,Bryan,31.8433,-81.2537,,,106.1,point,FALSE,America/New_York,31324
+Fort Gaines-GA,1840013859,Fort Gaines,Fort Gaines,GA,Fort Gaines-GA,Georgia,13061,Clay,31.6238,-85.0528,1046,1046,84,polygon,TRUE,America/New_York,39851
+Ball Ground-GA,1840013623,Ball Ground,Ball Ground,GA,Ball Ground-GA,Georgia,13057,Cherokee,34.3419,-84.3622,1909,1909,125,polygon,TRUE,America/New_York,30107
+Luella-GA,1840029150,Luella,Luella,GA,Luella-GA,Georgia,13151,Henry,33.3521,-84.1785,,,82,point,FALSE,America/New_York,30248
+Morgan-GA,1840014953,Morgan,Morgan,GA,Morgan-GA,Georgia,13037,Calhoun,31.5381,-84.6033,1782,1782,525,polygon,TRUE,America/New_York,39866
+Kildare-GA,1840029278,Kildare,Kildare,GA,Kildare-GA,Georgia,13103,Effingham,32.5343,-81.4554,,,5.4,point,FALSE,America/New_York,30446
+Riverdale-GA,1840014815,Riverdale,Riverdale,GA,Riverdale-GA,Georgia,13063,Clayton,33.5645,-84.4098,16258,16258,1376,polygon,TRUE,America/New_York,30274 30296
+Eastanollee-GA,1840029408,Eastanollee,Eastanollee,GA,Eastanollee-GA,Georgia,13257,Stephens,34.5204,-83.2554,,,140.5,point,FALSE,America/New_York,30538
+Lone Oak-GA,1840016898,Lone Oak,Lone Oak,GA,Lone Oak-GA,Georgia,13199,Meriwether,33.1724,-84.8173,89,89,54,polygon,TRUE,America/New_York,30220 30230
+Adel-GA,1840013879,Adel,Adel,GA,Adel-GA,Georgia,13075,Cook,31.1316,-83.4249,7014,5355,255,polygon,TRUE,America/New_York,31620
+Roopville-GA,1840018001,Roopville,Roopville,GA,Roopville-GA,Georgia,13045,Carroll,33.4566,-85.1304,228,228,111,polygon,TRUE,America/New_York,30170
+Twin City-GA,1840015788,Twin City,Twin City,GA,Twin City-GA,Georgia,13107,Emanuel,32.5829,-82.1575,1699,1699,183,polygon,TRUE,America/New_York,30471
+Girard-GA,1840016890,Girard,Girard,GA,Girard-GA,Georgia,13033,Burke,33.04,-81.7122,151,151,18,polygon,TRUE,America/New_York,30426
+Fairmount-GA,1840013595,Fairmount,Fairmount,GA,Fairmount-GA,Georgia,13129,Gordon,34.4378,-84.6997,738,738,159,polygon,TRUE,America/New_York,30139
+Cuthbert-GA,1840014939,Cuthbert,Cuthbert,GA,Cuthbert-GA,Georgia,13243,Randolph,31.7713,-84.794,3605,3664,464,polygon,TRUE,America/New_York,39840
+Roswell-GA,1840014741,Roswell,Roswell,GA,Roswell-GA,Georgia,13121,Fulton,34.0391,-84.3513,94598,94598,897,polygon,TRUE,America/New_York,30076 30075 30077
+Hapeville-GA,1840013663,Hapeville,Hapeville,GA,Hapeville-GA,Georgia,13121,Fulton,33.6609,-84.4093,6627,6627,1063,polygon,TRUE,America/New_York,30354
+Climax-GA,1840014992,Climax,Climax,GA,Climax-GA,Georgia,13087,Decatur,30.8756,-84.4312,271,271,131,polygon,TRUE,America/New_York,39834
+Charles-GA,1840029232,Charles,Charles,GA,Charles-GA,Georgia,13279,Toombs,32.2219,-82.4287,,,201.6,point,FALSE,America/New_York,30474
+Donovan-GA,1840029244,Donovan,Donovan,GA,Donovan-GA,Georgia,13167,Johnson,32.7713,-82.7129,,,22.1,point,FALSE,America/New_York,31096
+Fleming-GA,1840029194,Fleming,Fleming,GA,Fleming-GA,Georgia,13179,Liberty,31.8808,-81.4265,,,76.1,point,FALSE,America/New_York,31309
+Scott-GA,1840029176,Scott,Scott,GA,Scott-GA,Georgia,13167,Johnson,32.5518,-82.6668,,,82.9,point,FALSE,America/New_York,31002
+Bogart-GA,1840015648,Bogart,Bogart,GA,Bogart-GA,Georgia,13219,Oconee,33.9474,-83.5335,1056,1056,172,polygon,TRUE,America/New_York,30622
+Clem-GA,1840029237,Clem,Clem,GA,Clem-GA,Georgia,13045,Carroll,33.5282,-85.0133,,,123.5,point,FALSE,America/New_York,30116
+Empire-GA,1840025914,Empire,Empire,GA,Empire-GA,Georgia,13091,Dodge,32.3394,-83.295,,,143.1,polygon,FALSE,America/New_York,31014
+Finleyson-GA,1840029253,Finleyson,Finleyson,GA,Finleyson-GA,Georgia,13235,Pulaski,32.1299,-83.5007,,,51.7,point,FALSE,America/New_York,31071
+Everett-GA,1840029412,Everett,Everett,GA,Everett-GA,Georgia,13127,Glynn,31.3905,-81.6387,,,20.2,point,FALSE,America/New_York,31525
+Warsaw-GA,1840029361,Warsaw,Warsaw,GA,Warsaw-GA,Georgia,13121,Fulton,34.0182,-84.1902,,,962.1,point,FALSE,America/New_York,30097

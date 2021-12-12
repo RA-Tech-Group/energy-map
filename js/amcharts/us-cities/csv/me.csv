@@ -1,0 +1,178 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Bridgton-ME,1840002548,Bridgton,Bridgton,ME,Bridgton-ME,Maine,23005,Cumberland,44.0735,-70.71,,,415.7,polygon,FALSE,America/New_York,04009 04057
+South Windham-ME,1840026140,South Windham,South Windham,ME,South Windham-ME,Maine,23005,Cumberland,43.738,-70.4236,,,295.5,polygon,FALSE,America/New_York,04062 04082
+Lille-ME,1840031521,Lille,Lille,ME,Lille-ME,Maine,23003,Aroostook,47.28,-68.1098,,,30,point,FALSE,America/Moncton,4746
+Van Buren-ME,1840001915,Van Buren,Van Buren,ME,Van Buren-ME,Maine,23003,Aroostook,47.1667,-67.9526,,,632.3,polygon,FALSE,America/New_York,4785
+Rockwood-ME,1840031534,Rockwood,Rockwood,ME,Rockwood-ME,Maine,23025,Somerset,45.6778,-69.7409,,,105.3,point,FALSE,America/New_York,4478
+Olamon-ME,1840031529,Olamon,Olamon,ME,Olamon-ME,Maine,23019,Penobscot,45.1209,-68.6106,,,69.8,point,FALSE,America/New_York,4418
+South Eliot-ME,1840002673,South Eliot,South Eliot,ME,South Eliot-ME,Maine,23031,York,43.1287,-70.7952,,,784.6,polygon,FALSE,America/New_York,3903
+Presque Isle-ME,1840000146,Presque Isle,Presque Isle,ME,Presque Isle-ME,Maine,23003,Aroostook,46.6868,-67.9874,5713,9106,46,polygon,TRUE,America/New_York,4769
+Lisbon Falls-ME,1840002189,Lisbon Falls,Lisbon Falls,ME,Lisbon Falls-ME,Maine,23001,Androscoggin,44.0086,-70.057,,,982,polygon,FALSE,America/New_York,4252
+Stratton-ME,1840031544,Stratton,Stratton,ME,Stratton-ME,Maine,23007,Franklin,45.1412,-70.4406,,,198.5,point,FALSE,America/New_York,4982
+Biddeford-ME,1840000342,Biddeford,Biddeford,ME,Biddeford-ME,Maine,23031,York,43.4674,-70.4512,21362,21362,274,polygon,TRUE,America/New_York,04005 04006 04007
+Brunswick-ME,1840002549,Brunswick,Brunswick,ME,Brunswick-ME,Maine,23005,Cumberland,43.9077,-69.9456,,,1769.2,polygon,FALSE,America/New_York,4011
+Port Clyde-ME,1840031532,Port Clyde,Port Clyde,ME,Port Clyde-ME,Maine,23013,Knox,43.9273,-69.2528,,,108.9,point,FALSE,America/New_York,4855
+South Paris-ME,1840001583,South Paris,South Paris,ME,South Paris-ME,Maine,23017,Oxford,44.219,-70.5113,,,908.8,polygon,FALSE,America/New_York,4281
+Addison-ME,1840031501,Addison,Addison,ME,Addison-ME,Maine,23029,Washington,44.6184,-67.7442,,,81.9,point,FALSE,America/New_York,4606
+Milford-ME,1840001978,Milford,Milford,ME,Milford-ME,Maine,23019,Penobscot,44.9518,-68.6334,,,864.1,polygon,FALSE,America/New_York,4461
+Lubec-ME,1840026106,Lubec,Lubec,ME,Lubec-ME,Maine,23029,Washington,44.855,-66.9898,,,508.4,polygon,FALSE,America/New_York,4652
+South Lagrange-ME,1840031543,South Lagrange,South Lagrange,ME,South Lagrange-ME,Maine,23019,Penobscot,45.1162,-68.815,,,39.7,point,FALSE,America/New_York,4453
+Castine-ME,1840026110,Castine,Castine,ME,Castine-ME,Maine,23009,Hancock,44.3923,-68.8067,,,448.6,polygon,FALSE,America/New_York,04421 04420
+Falmouth-ME,1840024003,Falmouth,Falmouth,ME,Falmouth-ME,Maine,23005,Cumberland,43.712,-70.2344,,,260.1,polygon,FALSE,America/New_York,4105
+Hampden Highlands-ME,1840031516,Hampden Highlands,Hampden Highlands,ME,Hampden Highlands-ME,Maine,23019,Penobscot,44.7323,-68.8411,,,245.5,point,FALSE,America/New_York,4444
+Bar Harbor-ME,1840002111,Bar Harbor,Bar Harbor,ME,Bar Harbor-ME,Maine,23009,Hancock,44.3816,-68.2114,,,1280.1,polygon,FALSE,America/New_York,4609
+West Forks-ME,1840031552,West Forks,West Forks,ME,West Forks-ME,Maine,23025,Somerset,45.397,-70.0362,,,1,point,FALSE,America/New_York,4945
+Anson-ME,1840001954,Anson,Anson,ME,Anson-ME,Maine,23025,Somerset,44.7983,-69.8961,,,189.1,polygon,FALSE,America/New_York,4911
+Mechanic Falls-ME,1840002191,Mechanic Falls,Mechanic Falls,ME,Mechanic Falls-ME,Maine,23001,Androscoggin,44.1122,-70.3941,,,627.9,polygon,FALSE,America/New_York,4256
+Fort Fairfield-ME,1840001910,Fort Fairfield,Fort Fairfield,ME,Fort Fairfield-ME,Maine,23003,Aroostook,46.766,-67.833,,,632.3,polygon,FALSE,America/New_York,4742
+Winterville-ME,1840031554,Winterville,Winterville,ME,Winterville-ME,Maine,23003,Aroostook,46.9703,-68.5712,,,4.9,point,FALSE,America/New_York,4739
+Hampden-ME,1840001975,Hampden,Hampden,ME,Hampden-ME,Maine,23019,Penobscot,44.7478,-68.836,,,268.9,polygon,FALSE,America/New_York,4444
+Washburn-ME,1840023827,Washburn,Washburn,ME,Washburn-ME,Maine,23003,Aroostook,46.786,-68.1447,,,427.3,polygon,FALSE,America/New_York,4786
+Woodland-ME,1840002060,Woodland,Woodland,ME,Woodland-ME,Maine,23029,Washington,45.1597,-67.4124,,,587.5,polygon,FALSE,America/New_York,4694
+Millinocket-ME,1840001979,Millinocket,Millinocket,ME,Millinocket-ME,Maine,23019,Penobscot,45.6596,-68.6996,,,1125.8,polygon,FALSE,America/New_York,4462
+Madawaska-ME,1840001914,Madawaska,Madawaska,ME,Madawaska-ME,Maine,23003,Aroostook,47.3432,-68.3308,,,118.3,polygon,FALSE,America/New_York,4756
+Skowhegan-ME,1840001961,Skowhegan,Skowhegan,ME,Skowhegan-ME,Maine,23025,Somerset,44.7735,-69.7124,,,784.9,polygon,FALSE,America/New_York,4976
+Farmingdale-ME,1840002315,Farmingdale,Farmingdale,ME,Farmingdale-ME,Maine,23011,Kennebec,44.2506,-69.7827,,,358.3,polygon,FALSE,America/New_York,4344
+Gorham-ME,1840004144,Gorham,Gorham,ME,Gorham-ME,Maine,23005,Cumberland,43.6822,-70.4413,,,1875.6,polygon,FALSE,America/New_York,4038
+Topsham-ME,1840002558,Topsham,Topsham,ME,Topsham-ME,Maine,23023,Sagadahoc,43.9411,-69.9352,,,232.3,polygon,FALSE,America/New_York,4086
+Kennebunkport-ME,1840002667,Kennebunkport,Kennebunkport,ME,Kennebunkport-ME,Maine,23031,York,43.3598,-70.4632,,,309.5,polygon,FALSE,America/New_York,4046
+Richmond-ME,1840002557,Richmond,Richmond,ME,Richmond-ME,Maine,23023,Sagadahoc,44.1056,-69.8117,,,391.6,polygon,FALSE,America/New_York,4357
+Dover-Foxcroft-ME,1840001962,Dover-Foxcroft,Dover-Foxcroft,ME,Dover-Foxcroft-ME,Maine,23021,Piscataquis,45.1936,-69.221,,,669.1,polygon,FALSE,America/New_York,4426
+Dixfield-ME,1840001577,Dixfield,Dixfield,ME,Dixfield-ME,Maine,23017,Oxford,44.5369,-70.4502,,,628.7,polygon,FALSE,America/New_York,4224
+Littlejohn Island-ME,1840024005,Littlejohn Island,Littlejohn Island,ME,Littlejohn Island-ME,Maine,23005,Cumberland,43.7599,-70.1284,,,189.2,polygon,FALSE,America/New_York,4096
+Saco-ME,1840000343,Saco,Saco,ME,Saco-ME,Maine,23031,York,43.539,-70.4624,19213,19213,192,polygon,TRUE,America/New_York,4072
+Dickey-ME,1840031550,Dickey,Dickey,ME,Dickey-ME,Maine,23003,Aroostook,47.1095,-69.0864,,,8.3,point,FALSE,America/New_York,4774
+Macwahoc-ME,1840031558,Macwahoc,Macwahoc,ME,Macwahoc-ME,Maine,23003,Aroostook,45.6284,-68.2628,,,20.7,point,FALSE,America/New_York,4451
+Camden-ME,1840002201,Camden,Camden,ME,Camden-ME,Maine,23013,Knox,44.2132,-69.0675,,,538.9,polygon,FALSE,America/New_York,4843
+Milo-ME,1840001965,Milo,Milo,ME,Milo-ME,Maine,23021,Piscataquis,45.2461,-68.9751,,,659.7,polygon,FALSE,America/New_York,4463
+Norridgewock-ME,1840001959,Norridgewock,Norridgewock,ME,Norridgewock-ME,Maine,23025,Somerset,44.712,-69.7838,,,158.5,polygon,FALSE,America/New_York,4957
+Falmouth Foreside-ME,1840002551,Falmouth Foreside,Falmouth Foreside,ME,Falmouth Foreside-ME,Maine,23005,Cumberland,43.7348,-70.2152,,,659.5,polygon,FALSE,America/New_York,4105
+Brookton-ME,1840031508,Brookton,Brookton,ME,Brookton-ME,Maine,23029,Washington,45.5298,-67.7656,,,10.4,point,FALSE,America/New_York,4413
+Orono-ME,1840001981,Orono,Orono,ME,Orono-ME,Maine,23019,Penobscot,44.8811,-68.6792,,,1085.4,polygon,FALSE,America/New_York,04473 04469
+Blue Hill-ME,1840026109,Blue Hill,Blue Hill,ME,Blue Hill-ME,Maine,23009,Hancock,44.4093,-68.5881,,,208.8,polygon,FALSE,America/New_York,4614
+Bar Mills-ME,1840031505,Bar Mills,Bar Mills,ME,Bar Mills-ME,Maine,23031,York,43.6131,-70.5498,,,229.4,point,FALSE,America/New_York,4093
+Standish-ME,1840024007,Standish,Standish,ME,Standish-ME,Maine,23005,Cumberland,43.7353,-70.5525,,,118,polygon,FALSE,America/New_York,4084
+Wilton-ME,1840002063,Wilton,Wilton,ME,Wilton-ME,Maine,23007,Franklin,44.5961,-70.2372,,,468.4,polygon,FALSE,America/New_York,4294
+Wilsons Mills-ME,1840031553,Wilsons Mills,Wilsons Mills,ME,Wilsons Mills-ME,Maine,23017,Oxford,44.9381,-71.0354,,,3.6,point,FALSE,America/New_York,3579
+Calais-ME,1840000271,Calais,Calais,ME,Calais-ME,Maine,23029,Washington,45.134,-67.224,2377,2965,33,polygon,TRUE,America/New_York,4619
+Old Town-ME,1840000240,Old Town,Old Town,ME,Old Town-ME,Maine,23019,Penobscot,44.9491,-68.7249,7518,7518,74,polygon,TRUE,America/New_York,04468 04489
+Unity-ME,1840002307,Unity,Unity,ME,Unity-ME,Maine,23027,Waldo,44.6154,-69.3342,,,176.5,polygon,FALSE,America/New_York,4988
+Alfred-ME,1840031502,Alfred,Alfred,ME,Alfred-ME,Maine,23031,York,43.4767,-70.72,,,86.4,polygon,FALSE,America/New_York,4002
+Sanford-ME,1840002672,Sanford,Sanford,ME,Sanford-ME,Maine,23031,York,43.4244,-70.7573,29139,20938,169,polygon,TRUE,America/New_York,04073 04083
+Auburn-ME,1840000319,Auburn,Auburn,ME,Auburn-ME,Maine,23001,Androscoggin,44.085,-70.2492,22948,22948,149,polygon,TRUE,America/New_York,04210 04211 04212 04223
+Norway-ME,1840001580,Norway,Norway,ME,Norway-ME,Maine,23017,Oxford,44.2168,-70.5511,,,467.1,polygon,FALSE,America/New_York,4268
+South Portland-ME,1840000328,South Portland,South Portland,ME,South Portland-ME,Maine,23005,Cumberland,43.631,-70.2895,25577,25577,819,polygon,TRUE,America/New_York,04106 04116
+Cape Neddick-ME,1840002665,Cape Neddick,Cape Neddick,ME,Cape Neddick-ME,Maine,23031,York,43.1706,-70.622,,,72.2,polygon,FALSE,America/New_York,03909 03910
+Waterville-ME,1840000305,Waterville,Waterville,ME,Waterville-ME,Maine,23011,Kennebec,44.544,-69.6626,26806,16406,466,polygon,TRUE,America/New_York,04901 04903
+Livermore Falls-ME,1840002190,Livermore Falls,Livermore Falls,ME,Livermore Falls-ME,Maine,23001,Androscoggin,44.4723,-70.1808,,,1137.7,polygon,FALSE,America/New_York,4254
+Mexico-ME,1840001579,Mexico,Mexico,ME,Mexico-ME,Maine,23017,Oxford,44.555,-70.5364,,,768.7,polygon,FALSE,America/New_York,4257
+Rockland-ME,1840000322,Rockland,Rockland,ME,Rockland-ME,Maine,23013,Knox,44.1274,-69.1369,8633,7179,215,polygon,TRUE,America/New_York,4841
+Guilford-ME,1840001964,Guilford,Guilford,ME,Guilford-ME,Maine,23021,Piscataquis,45.1734,-69.3928,,,447.1,polygon,FALSE,America/New_York,4443
+Saint David-ME,1840031535,Saint David,Saint David,ME,Saint David-ME,Maine,23003,Aroostook,47.3395,-68.2314,,,30.9,point,FALSE,America/New_York,4773
+Pittsfield-ME,1840001960,Pittsfield,Pittsfield,ME,Pittsfield-ME,Maine,23025,Somerset,44.7717,-69.38,,,991.3,polygon,FALSE,America/New_York,4967
+North Amity-ME,1840031527,North Amity,North Amity,ME,North Amity-ME,Maine,23003,Aroostook,45.9417,-67.8303,,,17.7,point,FALSE,America/New_York,4471
+Kezar Falls-ME,1840031519,Kezar Falls,Kezar Falls,ME,Kezar Falls-ME,Maine,23017,Oxford,43.8079,-70.889,,,194.8,point,FALSE,America/New_York,4068
+Ashville-ME,1840031503,Ashville,Ashville,ME,Ashville-ME,Maine,23009,Hancock,44.4879,-68.1211,,,39.4,point,FALSE,America/New_York,4607
+Long Pond-ME,1840031523,Long Pond,Long Pond,ME,Long Pond-ME,Maine,23025,Somerset,45.6214,-70.0865,,,5.1,point,FALSE,America/New_York,4945
+Chisholm-ME,1840002061,Chisholm,Chisholm,ME,Chisholm-ME,Maine,23007,Franklin,44.4917,-70.1918,,,1262.7,polygon,FALSE,America/New_York,4239
+Winter Harbor-ME,1840026112,Winter Harbor,Winter Harbor,ME,Winter Harbor-ME,Maine,23009,Hancock,44.3926,-68.0918,,,163,polygon,FALSE,America/New_York,4693
+Gray-ME,1840024004,Gray,Gray,ME,Gray-ME,Maine,23005,Cumberland,43.8864,-70.3241,,,200.9,polygon,FALSE,America/New_York,4039
+Smyrna Mills-ME,1840031540,Smyrna Mills,Smyrna Mills,ME,Smyrna Mills-ME,Maine,23003,Aroostook,46.1295,-68.1642,,,93.4,point,FALSE,America/New_York,4780
+Old Orchard Beach-ME,1840031555,Old Orchard Beach,Old Orchard Beach,ME,Old Orchard Beach-ME,Maine,23031,York,43.5239,-70.3904,,,882.5,polygon,FALSE,America/New_York,04063 04064
+South Sanford-ME,1840002674,South Sanford,South Sanford,ME,South Sanford-ME,Maine,23031,York,43.4112,-70.7426,,,91,point,FALSE,America/New_York,4073
+Oquossoc-ME,1840031530,Oquossoc,Oquossoc,ME,Oquossoc-ME,Maine,23007,Franklin,44.9664,-70.7737,,,60.4,point,FALSE,America/New_York,4964
+South China-ME,1840031542,South China,South China,ME,South China-ME,Maine,23011,Kennebec,44.3956,-69.5712,,,80.6,point,FALSE,America/New_York,4358
+Eagle Lake-ME,1840023824,Eagle Lake,Eagle Lake,ME,Eagle Lake-ME,Maine,23003,Aroostook,47.0347,-68.5888,,,165.1,polygon,FALSE,America/New_York,4739
+Damariscotta-ME,1840031512,Damariscotta,Damariscotta,ME,Damariscotta-ME,Maine,23015,Lincoln,44.0232,-69.5216,,,192.4,polygon,FALSE,America/New_York,4543
+Hallowell-ME,1840000304,Hallowell,Hallowell,ME,Hallowell-ME,Maine,23011,Kennebec,44.2905,-69.8141,2326,2326,152,polygon,TRUE,America/New_York,4347
+York Harbor-ME,1840002677,York Harbor,York Harbor,ME,York Harbor-ME,Maine,23031,York,43.1435,-70.649,,,641.3,polygon,FALSE,America/New_York,03909 03911
+Seboeis-ME,1840031537,Seboeis,Seboeis,ME,Seboeis-ME,Maine,23019,Penobscot,45.3631,-68.7111,,,4.3,point,FALSE,America/New_York,4448
+Carrabassett-ME,1840031548,Carrabassett,Carrabassett,ME,Carrabassett-ME,Maine,23007,Franklin,45.0778,-70.212,,,78.9,point,FALSE,America/New_York,4947
+Oxbow-ME,1840031531,Oxbow,Oxbow,ME,Oxbow-ME,Maine,23003,Aroostook,46.4187,-68.49,,,4.7,point,FALSE,America/New_York,4764
+Machias-ME,1840002059,Machias,Machias,ME,Machias-ME,Maine,23029,Washington,44.7075,-67.4772,,,674.6,polygon,FALSE,America/New_York,4654
+Green Lake-ME,1840031515,Green Lake,Green Lake,ME,Green Lake-ME,Maine,23009,Hancock,44.6712,-68.5547,,,22.9,point,FALSE,America/New_York,4429
+Madison-ME,1840001958,Madison,Madison,ME,Madison-ME,Maine,23025,Somerset,44.8003,-69.8655,,,1003.2,polygon,FALSE,America/New_York,4950
+Clinton-ME,1840002314,Clinton,Clinton,ME,Clinton-ME,Maine,23011,Kennebec,44.6501,-69.4859,,,477.9,polygon,FALSE,America/New_York,4927
+Winthrop-ME,1840002319,Winthrop,Winthrop,ME,Winthrop-ME,Maine,23011,Kennebec,44.3129,-69.9649,,,389.6,polygon,FALSE,America/New_York,4364
+Bass Harbor-ME,1840031506,Bass Harbor,Bass Harbor,ME,Bass Harbor-ME,Maine,23009,Hancock,44.2401,-68.3439,,,192.8,point,FALSE,America/New_York,4653
+Bucksport-ME,1840002112,Bucksport,Bucksport,ME,Bucksport-ME,Maine,23009,Hancock,44.6006,-68.7944,,,1325.6,polygon,FALSE,America/New_York,4416
+Sweden-ME,1840031545,Sweden,Sweden,ME,Sweden-ME,Maine,23003,Aroostook,46.9417,-68.1395,,,45.7,point,FALSE,America/New_York,4762
+Brownville Junction-ME,1840031509,Brownville Junction,Brownville Junction,ME,Brownville Junction-ME,Maine,23021,Piscataquis,45.3501,-69.0523,,,276,point,FALSE,America/New_York,4414
+North Waterford-ME,1840031556,North Waterford,North Waterford,ME,North Waterford-ME,Maine,23017,Oxford,44.2317,-70.7687,,,43.3,point,FALSE,America/New_York,4088
+Lake Arrowhead-ME,1840002670,Lake Arrowhead,Lake Arrowhead,ME,Lake Arrowhead-ME,Maine,23031,York,43.6634,-70.7382,,,472.8,polygon,FALSE,America/New_York,04048 04061
+Soldier Pond-ME,1840031541,Soldier Pond,Soldier Pond,ME,Soldier Pond-ME,Maine,23003,Aroostook,47.1562,-68.5759,,,45.9,point,FALSE,America/New_York,4781
+Blaine-ME,1840031507,Blaine,Blaine,ME,Blaine-ME,Maine,23003,Aroostook,46.499,-67.8688,,,91.8,polygon,FALSE,America/New_York,4734
+Rumford-ME,1840001582,Rumford,Rumford,ME,Rumford-ME,Maine,23017,Oxford,44.5502,-70.568,,,1342.2,polygon,FALSE,America/New_York,4276
+Dexter-ME,1840001973,Dexter,Dexter,ME,Dexter-ME,Maine,23019,Penobscot,45.0164,-69.2946,,,725.2,polygon,FALSE,America/New_York,4930
+Belfast-ME,1840000300,Belfast,Belfast,ME,Belfast-ME,Maine,23027,Waldo,44.428,-69.0325,3347,6647,75,polygon,TRUE,America/New_York,4915
+East Millinocket-ME,1840001974,East Millinocket,East Millinocket,ME,East Millinocket-ME,Maine,23019,Penobscot,45.626,-68.5741,,,1540.9,polygon,FALSE,America/New_York,4430
+Howland-ME,1840001976,Howland,Howland,ME,Howland-ME,Maine,23019,Penobscot,45.2543,-68.6647,,,92.2,polygon,FALSE,America/New_York,4448
+Steep Falls-ME,1840024008,Steep Falls,Steep Falls,ME,Steep Falls-ME,Maine,23005,Cumberland,43.7905,-70.6275,,,80.7,polygon,FALSE,America/New_York,04085 04084
+Greenville-ME,1840001963,Greenville,Greenville,ME,Greenville-ME,Maine,23021,Piscataquis,45.4663,-69.5881,,,232.9,polygon,FALSE,America/New_York,4441
+Bryant Pond-ME,1840031510,Bryant Pond,Bryant Pond,ME,Bryant Pond-ME,Maine,23017,Oxford,44.3784,-70.6459,,,116.3,point,FALSE,America/New_York,4219
+Fairfield-ME,1840001956,Fairfield,Fairfield,ME,Fairfield-ME,Maine,23025,Somerset,44.5892,-69.6067,,,1086.1,polygon,FALSE,America/New_York,4937
+Fryeburg-ME,1840001578,Fryeburg,Fryeburg,ME,Fryeburg-ME,Maine,23017,Oxford,44.0201,-70.9733,,,763.1,polygon,FALSE,America/New_York,4037
+Scarborough-ME,1840002555,Scarborough,Scarborough,ME,Scarborough-ME,Maine,23005,Cumberland,43.5983,-70.3351,,,234,polygon,FALSE,America/New_York,04074 04070
+Wiscasset-ME,1840002205,Wiscasset,Wiscasset,ME,Wiscasset-ME,Maine,23015,Lincoln,44.0116,-69.6735,,,609.4,polygon,FALSE,America/New_York,4578
+Kittery Point-ME,1840002669,Kittery Point,Kittery Point,ME,Kittery Point-ME,Maine,23031,York,43.0883,-70.6988,,,253.2,polygon,FALSE,America/New_York,3905
+Bingham-ME,1840001955,Bingham,Bingham,ME,Bingham-ME,Maine,23025,Somerset,45.0581,-69.873,,,153.5,polygon,FALSE,America/New_York,4920
+Eastport-ME,1840000272,Eastport,Eastport,ME,Eastport-ME,Maine,23029,Washington,44.9137,-67.0183,1255,1255,133,polygon,TRUE,America/Moncton,4631
+Caribou-ME,1840000145,Caribou,Caribou,ME,Caribou-ME,Maine,23003,Aroostook,46.8662,-67.9919,7736,7736,37,polygon,TRUE,America/New_York,4736
+Gardiner-ME,1840000303,Gardiner,Gardiner,ME,Gardiner-ME,Maine,23011,Kennebec,44.191,-69.7921,5620,5620,138,polygon,TRUE,America/New_York,04345 04359
+Cousins Island-ME,1840024002,Cousins Island,Cousins Island,ME,Cousins Island-ME,Maine,23005,Cumberland,43.7631,-70.1409,,,277.3,polygon,FALSE,America/New_York,4096
+Kokadjo-ME,1840031520,Kokadjo,Kokadjo,ME,Kokadjo-ME,Maine,23021,Piscataquis,45.6712,-69.447,,,1.4,point,FALSE,America/New_York,4441
+East Holden-ME,1840031513,East Holden,East Holden,ME,East Holden-ME,Maine,23019,Penobscot,44.7376,-68.6331,,,40,point,FALSE,America/New_York,4429
+Portage-ME,1840031533,Portage,Portage,ME,Portage-ME,Maine,23003,Aroostook,46.7631,-68.4759,,,80.5,point,FALSE,America/New_York,4768
+Southwest Harbor-ME,1840026111,Southwest Harbor,Southwest Harbor,ME,Southwest Harbor-ME,Maine,23009,Hancock,44.2784,-68.3282,,,199.6,polygon,FALSE,America/New_York,4679
+Kittery-ME,1840002668,Kittery,Kittery,ME,Kittery-ME,Maine,23031,York,43.0918,-70.7374,,,826.7,polygon,FALSE,America/New_York,3904
+Springvale-ME,1840002675,Springvale,Springvale,ME,Springvale-ME,Maine,23031,York,43.4667,-70.7937,,,906.9,point,FALSE,America/New_York,4083
+West Kennebunk-ME,1840002676,West Kennebunk,West Kennebunk,ME,West Kennebunk-ME,Maine,23031,York,43.4142,-70.581,,,191.2,polygon,FALSE,America/New_York,4043
+Lincoln-ME,1840001977,Lincoln,Lincoln,ME,Lincoln-ME,Maine,23019,Penobscot,45.3627,-68.4996,,,716.6,polygon,FALSE,America/New_York,4457
+Houlton-ME,1840001912,Houlton,Houlton,ME,Houlton-ME,Maine,23003,Aroostook,46.1215,-67.8322,,,1253.1,polygon,FALSE,America/New_York,4730
+Little Falls-ME,1840031522,Little Falls,Little Falls,ME,Little Falls-ME,Maine,23005,Cumberland,43.7312,-70.4301,,,336.1,polygon,FALSE,America/New_York,4038
+Newcastle-ME,1840023994,Newcastle,Newcastle,ME,Newcastle-ME,Maine,23015,Lincoln,44.0426,-69.5361,,,220.8,polygon,FALSE,America/New_York,4553
+Yarmouth-ME,1840002556,Yarmouth,Yarmouth,ME,Yarmouth-ME,Maine,23005,Cumberland,43.8017,-70.1875,,,358.6,polygon,FALSE,America/New_York,4096
+Norcross-ME,1840031526,Norcross,Norcross,ME,Norcross-ME,Maine,23019,Penobscot,45.6295,-68.8025,,,24.5,point,FALSE,America/New_York,4462
+Westbrook-ME,1840000329,Westbrook,Westbrook,ME,Westbrook-ME,Maine,23005,Cumberland,43.6955,-70.3538,18402,18402,414,polygon,TRUE,America/New_York,04092 04098
+Searsport-ME,1840002306,Searsport,Searsport,ME,Searsport-ME,Maine,23027,Waldo,44.4675,-68.9191,,,206.7,polygon,FALSE,America/New_York,4974
+Mars Hill-ME,1840023826,Mars Hill,Mars Hill,ME,Mars Hill-ME,Maine,23003,Aroostook,46.5211,-67.8717,,,138,polygon,FALSE,America/New_York,4758
+Lewiston-ME,1840000320,Lewiston,Lewiston,ME,Lewiston-ME,Maine,23001,Androscoggin,44.0915,-70.1681,58664,36140,408,polygon,TRUE,America/New_York,04240 04241 04243
+Bowdoinham-ME,1840026141,Bowdoinham,Bowdoinham,ME,Bowdoinham-ME,Maine,23023,Sagadahoc,44.0212,-69.9012,,,204.9,polygon,FALSE,America/New_York,04287 04008
+Shirley Mills-ME,1840031539,Shirley Mills,Shirley Mills,ME,Shirley Mills-ME,Maine,23021,Piscataquis,45.3656,-69.6181,,,9.3,point,FALSE,America/New_York,4485
+Hinckley-ME,1840031517,Hinckley,Hinckley,ME,Hinckley-ME,Maine,23025,Somerset,44.6856,-69.6325,,,27.1,point,FALSE,America/New_York,4937
+Bath-ME,1840000332,Bath,Bath,ME,Bath-ME,Maine,23023,Sagadahoc,43.9346,-69.8346,8303,8303,351,polygon,TRUE,America/New_York,4530
+Kennebunk-ME,1840002666,Kennebunk,Kennebunk,ME,Kennebunk-ME,Maine,23031,York,43.3841,-70.5442,,,651.6,polygon,FALSE,America/New_York,4043
+Salem-ME,1840031536,Salem,Salem,ME,Salem-ME,Maine,23007,Franklin,44.9006,-70.2781,,,8.2,point,FALSE,America/New_York,4983
+Winslow-ME,1840002318,Winslow,Winslow,ME,Winslow-ME,Maine,23011,Kennebec,44.5277,-69.5768,,,1740,polygon,FALSE,America/New_York,4901
+Wytopitlock-ME,1840031547,Wytopitlock,Wytopitlock,ME,Wytopitlock-ME,Maine,23003,Aroostook,45.6406,-68.0756,,,9.5,point,FALSE,America/New_York,4497
+North Windham-ME,1840002553,North Windham,North Windham,ME,North Windham-ME,Maine,23005,Cumberland,43.8238,-70.4288,,,234.1,polygon,FALSE,America/New_York,4062
+Winterport-ME,1840002308,Winterport,Winterport,ME,Winterport-ME,Maine,23027,Waldo,44.6453,-68.8561,,,579.3,polygon,FALSE,America/New_York,4496
+Farmington-ME,1840002062,Farmington,Farmington,ME,Farmington-ME,Maine,23007,Franklin,44.6681,-70.1459,,,516.8,polygon,FALSE,America/New_York,04938 04992
+Thomaston-ME,1840002202,Thomaston,Thomaston,ME,Thomaston-ME,Maine,23013,Knox,44.0803,-69.1807,,,774.9,polygon,FALSE,America/New_York,4861
+Somesville-ME,1840031557,Somesville,Somesville,ME,Somesville-ME,Maine,23009,Hancock,44.3623,-68.3342,,,83.5,point,FALSE,America/New_York,4660
+Naples-ME,1840024006,Naples,Naples,ME,Naples-ME,Maine,23005,Cumberland,43.9623,-70.6025,,,63.2,polygon,FALSE,America/New_York,4055
+Hartland-ME,1840001957,Hartland,Hartland,ME,Hartland-ME,Maine,23025,Somerset,44.8815,-69.4585,,,340.7,polygon,FALSE,America/New_York,4943
+Fort Kent-ME,1840001911,Fort Kent,Fort Kent,ME,Fort Kent-ME,Maine,23003,Aroostook,47.2535,-68.5893,,,270.3,polygon,FALSE,America/New_York,04743 04744
+Exeter Corners-ME,1840031514,Exeter Corners,Exeter Corners,ME,Exeter Corners-ME,Maine,23019,Penobscot,44.9848,-69.1453,,,9.8,point,FALSE,America/New_York,4435
+Casco-ME,1840024001,Casco,Casco,ME,Casco-ME,Maine,23005,Cumberland,43.9966,-70.5293,,,137.3,polygon,FALSE,America/New_York,4015
+Atlantic-ME,1840031504,Atlantic,Atlantic,ME,Atlantic-ME,Maine,23009,Hancock,44.1717,-68.4242,,,26.8,point,FALSE,America/New_York,4685
+Oxford-ME,1840001581,Oxford,Oxford,ME,Oxford-ME,Maine,23017,Oxford,44.1384,-70.5092,,,147.4,polygon,FALSE,America/New_York,4270
+Berwick-ME,1840002664,Berwick,Berwick,ME,Berwick-ME,Maine,23031,York,43.2686,-70.8623,,,1971.6,polygon,FALSE,America/New_York,3901
+Mapleton-ME,1840023825,Mapleton,Mapleton,ME,Mapleton-ME,Maine,23003,Aroostook,46.6808,-68.1513,,,202.9,polygon,FALSE,America/New_York,4757
+Freeport-ME,1840002552,Freeport,Freeport,ME,Freeport-ME,Maine,23005,Cumberland,43.857,-70.1026,,,288.5,polygon,FALSE,America/New_York,04032 04033 04034 04078
+Waldoboro-ME,1840002204,Waldoboro,Waldoboro,ME,Waldoboro-ME,Maine,23015,Lincoln,44.0909,-69.3753,,,391.7,polygon,FALSE,America/New_York,4572
+Cumberland Center-ME,1840002550,Cumberland Center,Cumberland Center,ME,Cumberland Center-ME,Maine,23005,Cumberland,43.7982,-70.2541,,,105.2,polygon,FALSE,America/New_York,4021
+Bangor-ME,1840000238,Bangor,Bangor,ME,Bangor-ME,Maine,23019,Penobscot,44.8322,-68.7906,59259,31985,360,polygon,TRUE,America/New_York,04401 04402
+Ashland-ME,1840023823,Ashland,Ashland,ME,Ashland-ME,Maine,23003,Aroostook,46.6241,-68.3964,,,274.9,polygon,FALSE,America/New_York,4732
+Augusta-ME,1840000302,Augusta,Augusta,ME,Augusta-ME,Maine,23011,Kennebec,44.3341,-69.7319,21876,18494,129,polygon,TRUE,America/New_York,04330 04332 04333 04336 04338
+Sherman Station-ME,1840031538,Sherman Station,Sherman Station,ME,Sherman Station-ME,Maine,23019,Penobscot,45.8992,-68.4295,,,60.2,point,FALSE,America/New_York,4777
+Limestone-ME,1840001913,Limestone,Limestone,ME,Limestone-ME,Maine,23003,Aroostook,46.9112,-67.8308,,,454.3,polygon,FALSE,America/New_York,04750 04751
+Boothbay Harbor-ME,1840002203,Boothbay Harbor,Boothbay Harbor,ME,Boothbay Harbor-ME,Maine,23015,Lincoln,43.8556,-69.6233,,,660.4,polygon,FALSE,America/New_York,4538
+Brewer-ME,1840000239,Brewer,Brewer,ME,Brewer-ME,Maine,23019,Penobscot,44.7835,-68.7352,9107,9107,230,polygon,TRUE,America/New_York,4412
+West Seboeis-ME,1840031546,West Seboeis,West Seboeis,ME,West Seboeis-ME,Maine,23019,Penobscot,45.5292,-68.8787,,,5.9,point,FALSE,America/New_York,4462
+North Berwick-ME,1840002671,North Berwick,North Berwick,ME,North Berwick-ME,Maine,23031,York,43.302,-70.7324,,,659.5,polygon,FALSE,America/New_York,3906
+Newport-ME,1840001980,Newport,Newport,ME,Newport-ME,Maine,23019,Penobscot,44.8378,-69.2616,,,565.3,polygon,FALSE,America/New_York,4953
+Portland-ME,1840000327,Portland,Portland,ME,Portland-ME,Maine,23005,Cumberland,43.6772,-70.2713,206193,66937,1199,polygon,TRUE,America/New_York,04101 04102 04108 04109 04019 04103 04104 04112 04122 04123 04124
+Oakland-ME,1840002316,Oakland,Oakland,ME,Oakland-ME,Maine,23011,Kennebec,44.5499,-69.7078,,,277.2,polygon,FALSE,America/New_York,4963
+Randolph-ME,1840002317,Randolph,Randolph,ME,Randolph-ME,Maine,23011,Kennebec,44.2347,-69.7506,,,1002.9,polygon,FALSE,America/New_York,4346
+Ellsworth-ME,1840000281,Ellsworth,Ellsworth,ME,Ellsworth-ME,Maine,23009,Hancock,44.5847,-68.4875,7911,7911,38,polygon,TRUE,America/New_York,4605

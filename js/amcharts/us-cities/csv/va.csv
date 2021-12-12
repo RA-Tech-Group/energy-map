@@ -1,0 +1,749 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Riner-VA,1840024792,Riner,Riner,VA,Riner-VA,Virginia,51121,Montgomery,37.0675,-80.4405,,,263.7,polygon,FALSE,America/New_York,24149
+Powhatan-VA,1840037427,Powhatan,Powhatan,VA,Powhatan-VA,Virginia,51145,Powhatan,37.5427,-77.9267,,,88.9,polygon,FALSE,America/New_York,23139
+Natural Bridge-VA,1840037316,Natural Bridge,Natural Bridge,VA,Natural Bridge-VA,Virginia,51163,Rockbridge,37.6301,-79.5431,,,12,point,FALSE,America/New_York,24578
+Chamberlayne Heights-VA,1840037429,Chamberlayne Heights,Chamberlayne Heights,VA,Chamberlayne Heights-VA,Virginia,51087,Henrico,37.6274,-77.4322,,,661,point,FALSE,America/New_York,23227
+Manassas Park-VA,1840003838,Manassas Park,Manassas Park,VA,Manassas Park-VA,Virginia,51685,Manassas Park (city),38.7717,-77.4448,15915,15915,2420,polygon,TRUE,America/New_York,20111
+McClure-VA,1840037348,McClure,McClure,VA,McClure-VA,Virginia,51051,Dickenson,37.1026,-82.3763,,,70.1,point,FALSE,America/New_York,24269
+Brownsburg-VA,1840037333,Brownsburg,Brownsburg,VA,Brownsburg-VA,Virginia,51163,Rockbridge,37.9285,-79.3192,,,45.6,point,FALSE,America/New_York,24415
+Burgess-VA,1840037335,Burgess,Burgess,VA,Burgess-VA,Virginia,51133,Northumberland,37.8832,-76.3477,,,24.8,point,FALSE,America/New_York,22432
+Lake Barcroft-VA,1840006033,Lake Barcroft,Lake Barcroft,VA,Lake Barcroft-VA,Virginia,51059,Fairfax,38.8514,-77.1579,,,1093.7,polygon,FALSE,America/New_York,22044 22041
+Clover-VA,1840024810,Clover,Clover,VA,Clover-VA,Virginia,51083,Halifax,36.839,-78.7284,,,86.6,polygon,FALSE,America/New_York,23962 24534
+Columbia-VA,1840006343,Columbia,Columbia,VA,Columbia-VA,Virginia,51065,Fluvanna,37.7533,-78.1638,80,80,159,polygon,TRUE,America/New_York,23038
+Verona-VA,1840006248,Verona,Verona,VA,Verona-VA,Virginia,51015,Augusta,38.1939,-79.0087,,,764,polygon,FALSE,America/New_York,24401 24482
+Fairfax-VA,1840001650,Fairfax,Fairfax,VA,Fairfax-VA,Virginia,51600,Fairfax (city),38.8531,-77.2998,24164,24164,1495,polygon,TRUE,America/New_York,22030 22031 22034 22036 22037 22038
+Falmouth-VA,1840006215,Falmouth,Falmouth,VA,Falmouth-VA,Virginia,51179,Stafford,38.3319,-77.4655,,,436.2,polygon,FALSE,America/New_York,22405
+Scottsburg-VA,1840006506,Scottsburg,Scottsburg,VA,Scottsburg-VA,Virginia,51083,Halifax,36.7588,-78.7914,131,131,68,polygon,TRUE,America/New_York,24589
+Ashburn-VA,1840024495,Ashburn,Ashburn,VA,Ashburn-VA,Virginia,51107,Loudoun,39.0302,-77.4712,,,1456.5,polygon,FALSE,America/New_York,20166 20147 20146 20149
+Big Stone Gap-VA,1840006481,Big Stone Gap,Big Stone Gap,VA,Big Stone Gap-VA,Virginia,51195,Wise,36.8615,-82.7774,7885,5372,424,polygon,TRUE,America/New_York,24219
+Gwynn-VA,1840026848,Gwynn,Gwynn,VA,Gwynn-VA,Virginia,51115,Mathews,37.4984,-76.2883,,,119,polygon,FALSE,America/New_York,23064 23066
+Jewell Valley-VA,1840037386,Jewell Valley,Jewell Valley,VA,Jewell Valley-VA,Virginia,51027,Buchanan,37.2473,-81.8015,,,3.3,point,FALSE,America/New_York,24622
+Waynesboro-VA,1840003848,Waynesboro,Waynesboro,VA,Waynesboro-VA,Virginia,51820,Waynesboro (city),38.0673,-78.9012,21887,21887,562,polygon,TRUE,America/New_York,22980
+University Heights-VA,1840037464,University Heights,University Heights,VA,University Heights-VA,Virginia,51003,Albemarle,38.041,-78.5222,,,810.7,point,FALSE,America/New_York,22903
+Batesville-VA,1840037329,Batesville,Batesville,VA,Batesville-VA,Virginia,51003,Albemarle,37.9957,-78.7222,,,75,point,FALSE,America/New_York,22903
+Whitetop-VA,1840037408,Whitetop,Whitetop,VA,Whitetop-VA,Virginia,51077,Grayson,36.6015,-81.6257,,,29.8,point,FALSE,America/New_York,24292
+Nellysford-VA,1840024714,Nellysford,Nellysford,VA,Nellysford-VA,Virginia,51125,Nelson,37.913,-78.8828,,,52.1,polygon,FALSE,America/New_York,22958
+Montrose-VA,1840006389,Montrose,Montrose,VA,Montrose-VA,Virginia,51087,Henrico,37.5199,-77.3771,,,1147,polygon,FALSE,America/New_York,23223 23231
+Lexington-VA,1840001689,Lexington,Lexington,VA,Lexington-VA,Virginia,51678,Lexington (city),37.7825,-79.444,8765,7045,1089,polygon,TRUE,America/New_York,24450
+Clinchco-VA,1840006458,Clinchco,Clinchco,VA,Clinchco-VA,Virginia,51051,Dickenson,37.1598,-82.3564,312,312,42,polygon,TRUE,America/New_York,24226
+Dante-VA,1840026885,Dante,Dante,VA,Dante-VA,Virginia,51167,Russell,36.9791,-82.2961,,,175.6,polygon,FALSE,America/New_York,24237 24272
+Ivor-VA,1840006521,Ivor,Ivor,VA,Ivor-VA,Virginia,51175,Southampton,36.9052,-76.8978,327,327,115,polygon,TRUE,America/New_York,23866
+Montross-VA,1840006283,Montross,Montross,VA,Montross-VA,Virginia,51193,Westmoreland,38.0941,-76.8229,389,389,145,polygon,TRUE,America/New_York,22520
+Wintergreen-VA,1840024717,Wintergreen,Wintergreen,VA,Wintergreen-VA,Virginia,51125,Nelson,37.9161,-78.9382,,,30.9,polygon,FALSE,America/New_York,22958 22967
+Vesta-VA,1840037281,Vesta,Vesta,VA,Vesta-VA,Virginia,51141,Patrick,36.7168,-80.3578,,,26.2,point,FALSE,America/New_York,24120
+Henry-VA,1840037346,Henry,Henry,VA,Henry-VA,Virginia,51067,Franklin,36.8293,-79.9917,,,48.8,point,FALSE,America/New_York,24102
+Jonesville-VA,1840006534,Jonesville,Jonesville,VA,Jonesville-VA,Virginia,51105,Lee,36.6871,-83.1152,956,956,335,polygon,TRUE,America/New_York,24263
+Evington-VA,1840037376,Evington,Evington,VA,Evington-VA,Virginia,51031,Campbell,37.2338,-79.2895,,,72.5,point,FALSE,America/New_York,24550
+Duffield-VA,1840006542,Duffield,Duffield,VA,Duffield-VA,Virginia,51169,Scott,36.7196,-82.7962,85,85,53,polygon,TRUE,America/New_York,24244
+McKenney-VA,1840006463,McKenney,McKenney,VA,McKenney-VA,Virginia,51053,Dinwiddie,36.9853,-77.7219,482,482,200,polygon,TRUE,America/New_York,23872
+Fancy Gap-VA,1840006524,Fancy Gap,Fancy Gap,VA,Fancy Gap-VA,Virginia,51035,Carroll,36.6771,-80.6997,,,19.5,polygon,FALSE,America/New_York,24328
+Goshen-VA,1840006316,Goshen,Goshen,VA,Goshen-VA,Virginia,51163,Rockbridge,37.9906,-79.5071,354,354,80,polygon,TRUE,America/New_York,24439
+Onley-VA,1840006327,Onley,Onley,VA,Onley-VA,Virginia,51001,Accomack,37.6917,-75.7182,513,513,243,polygon,TRUE,America/New_York,23417 23418
+Exmore-VA,1840006415,Exmore,Exmore,VA,Exmore-VA,Virginia,51131,Northampton,37.5295,-75.8283,1442,1442,213,polygon,TRUE,America/New_York,23350
+Schuyler-VA,1840024715,Schuyler,Schuyler,VA,Schuyler-VA,Virginia,51125,Nelson,37.7939,-78.7002,,,46.2,polygon,FALSE,America/New_York,22969
+Kenbridge-VA,1840006497,Kenbridge,Kenbridge,VA,Kenbridge-VA,Virginia,51111,Lunenburg,36.9608,-78.1283,1221,1221,204,polygon,TRUE,America/New_York,23944
+Penhook-VA,1840006475,Penhook,Penhook,VA,Penhook-VA,Virginia,51067,Franklin,36.9905,-79.6318,,,22.5,polygon,FALSE,America/New_York,24137
+Mollusk-VA,1840037438,Mollusk,Mollusk,VA,Mollusk-VA,Virginia,51103,Lancaster,37.7301,-76.538,,,71,point,FALSE,America/New_York,22503
+Toga-VA,1840037306,Toga,Toga,VA,Toga-VA,Virginia,51029,Buckingham,37.494,-78.6333,,,4.6,point,FALSE,America/New_York,23936
+Laurel Park-VA,1840006556,Laurel Park,Laurel Park,VA,Laurel Park-VA,Virginia,51089,Henry,36.6871,-79.7872,,,291.6,polygon,FALSE,America/New_York,24112
+Bayside-VA,1840024719,Bayside,Bayside,VA,Bayside-VA,Virginia,51001,Accomack,37.7547,-75.7129,,,18.2,polygon,FALSE,America/New_York,23417
+Lignum-VA,1840037367,Lignum,Lignum,VA,Lignum-VA,Virginia,51047,Culpeper,38.416,-77.8267,,,88.8,point,FALSE,America/New_York,22726
+Winchester-VA,1840001623,Winchester,Winchester,VA,Winchester-VA,Virginia,51840,Winchester (city),39.1734,-78.1745,72928,27516,1150,polygon,TRUE,America/New_York,22601 22604
+Lebanon-VA,1840006492,Lebanon,Lebanon,VA,Lebanon-VA,Virginia,51167,Russell,36.8992,-82.0783,3237,3285,284,polygon,TRUE,America/New_York,24266
+Tysons-VA,1840006040,Tysons,Tysons,VA,Tysons-VA,Virginia,51059,Fairfax,38.9187,-77.2311,,,30.4,point,FALSE,America/New_York,22182
+Mappsburg-VA,1840024733,Mappsburg,Mappsburg,VA,Mappsburg-VA,Virginia,51001,Accomack,37.576,-75.7593,,,11.8,polygon,FALSE,America/New_York,23420 23423
+Orange-VA,1840006268,Orange,Orange,VA,Orange-VA,Virginia,51137,Orange,38.2484,-78.1125,5179,4988,582,polygon,TRUE,America/New_York,22960
+Midlothian-VA,1840037396,Midlothian,Midlothian,VA,Midlothian-VA,Virginia,51041,Chesterfield,37.506,-77.6492,,,901.3,point,FALSE,America/New_York,23113
+Calverton-VA,1840024590,Calverton,Calverton,VA,Calverton-VA,Virginia,51061,Fauquier,38.6355,-77.6661,,,49.1,polygon,FALSE,America/New_York,20119 22728 20138
+Fulks Run-VA,1840037364,Fulks Run,Fulks Run,VA,Fulks Run-VA,Virginia,51165,Rockingham,38.6601,-78.9061,,,10.7,point,FALSE,America/New_York,22830
+Amelia Court House-VA,1840026850,Amelia Court House,Amelia Court House,VA,Amelia Court House-VA,Virginia,51007,Amelia,37.3366,-77.9882,,,130.7,polygon,FALSE,America/New_York,23002
+Boydton-VA,1840006537,Boydton,Boydton,VA,Boydton-VA,Virginia,51117,Mecklenburg,36.666,-78.3908,416,416,195,polygon,TRUE,America/New_York,23917
+Konnarock-VA,1840037389,Konnarock,Konnarock,VA,Konnarock-VA,Virginia,51191,Washington,36.666,-81.6382,,,54.4,point,FALSE,America/New_York,24236
+Kilmarnock-VA,1840006370,Kilmarnock,Kilmarnock,VA,Kilmarnock-VA,Virginia,51103,Lancaster,37.7118,-76.3834,1438,1438,162,polygon,TRUE,America/New_York,22482
+Crockett-VA,1840037313,Crockett,Crockett,VA,Crockett-VA,Virginia,51197,Wythe,36.8862,-81.192,,,43.6,point,FALSE,America/New_York,24323
+Buckingham-VA,1840037422,Buckingham,Buckingham,VA,Buckingham-VA,Virginia,51029,Buckingham,37.5501,-78.5556,,,46.5,point,FALSE,America/New_York,23921
+Hamilton-VA,1840005870,Hamilton,Hamilton,VA,Hamilton-VA,Virginia,51107,Loudoun,39.135,-77.6641,625,625,1149,polygon,TRUE,America/New_York,20158
+Broadlands-VA,1840024498,Broadlands,Broadlands,VA,Broadlands-VA,Virginia,51107,Loudoun,39.0169,-77.5166,,,2286.6,polygon,FALSE,America/New_York,20148
+Mineral-VA,1840006313,Mineral,Mineral,VA,Mineral-VA,Virginia,51109,Louisa,38.0068,-77.9061,492,492,213,polygon,TRUE,America/New_York,23117
+Apple Grove-VA,1840037409,Apple Grove,Apple Grove,VA,Apple Grove-VA,Virginia,51109,Louisa,37.8929,-77.8969,,,43.8,point,FALSE,America/New_York,23117
+Susan-VA,1840037304,Susan,Susan,VA,Susan-VA,Virginia,51115,Mathews,37.366,-76.3136,,,47.4,point,FALSE,America/New_York,23163
+Free Union-VA,1840026775,Free Union,Free Union,VA,Free Union-VA,Virginia,51003,Albemarle,38.1539,-78.5595,,,87,polygon,FALSE,America/New_York,22901 22940
+Keokee-VA,1840006533,Keokee,Keokee,VA,Keokee-VA,Virginia,51105,Lee,36.8622,-82.9161,,,95.5,polygon,FALSE,America/New_York,24265
+Cleveland-VA,1840006491,Cleveland,Cleveland,VA,Cleveland-VA,Virginia,51167,Russell,36.9434,-82.1527,184,184,564,polygon,TRUE,America/New_York,24225
+Fairfax Station-VA,1840024566,Fairfax Station,Fairfax Station,VA,Fairfax Station-VA,Virginia,51059,Fairfax,38.7942,-77.3358,,,463.5,polygon,FALSE,America/New_York,22039 22030 22032
+Bensley-VA,1840006408,Bensley,Bensley,VA,Bensley-VA,Virginia,51041,Chesterfield,37.4469,-77.442,,,1405.6,polygon,FALSE,America/New_York,23234 23237
+Lebanon Church-VA,1840037269,Lebanon Church,Lebanon Church,VA,Lebanon Church-VA,Virginia,51171,Shenandoah,39.0551,-78.3681,,,49.4,point,FALSE,America/New_York,22657
+Brumley Gap-VA,1840037357,Brumley Gap,Brumley Gap,VA,Brumley Gap-VA,Virginia,51191,Washington,36.8021,-82.0268,,,25.8,point,FALSE,America/New_York,24210
+Patrick Springs-VA,1840006548,Patrick Springs,Patrick Springs,VA,Patrick Springs-VA,Virginia,51141,Patrick,36.6344,-80.1985,,,137.3,polygon,FALSE,America/New_York,24171 24133
+Wachapreague-VA,1840003849,Wachapreague,Wachapreague,VA,Wachapreague-VA,Virginia,51001,Accomack,37.6062,-75.6897,230,230,378,polygon,TRUE,America/New_York,23480
+Spencer-VA,1840037302,Spencer,Spencer,VA,Spencer-VA,Virginia,51089,Henry,36.6199,-80.0073,,,24.6,point,FALSE,America/New_York,24165
+Gressitt-VA,1840037379,Gressitt,Gressitt,VA,Gressitt-VA,Virginia,51097,King and Queen,37.4874,-76.7077,,,19.2,point,FALSE,America/New_York,23156
+Commonwealth-VA,1840037467,Commonwealth,Commonwealth,VA,Commonwealth-VA,Virginia,51003,Albemarle,38.0749,-78.4872,,,1458.4,point,FALSE,America/New_York,22901
+Oak Level-VA,1840006554,Oak Level,Oak Level,VA,Oak Level-VA,Virginia,51089,Henry,36.7944,-79.9392,,,86.6,polygon,FALSE,America/New_York,24055
+Adwolf-VA,1840006511,Adwolf,Adwolf,VA,Adwolf-VA,Virginia,51173,Smyth,36.7929,-81.5927,,,160.2,polygon,FALSE,America/New_York,24354 24319
+Cana-VA,1840006525,Cana,Cana,VA,Cana-VA,Virginia,51035,Carroll,36.5815,-80.6688,,,88.4,polygon,FALSE,America/New_York,24317
+Haynesville-VA,1840037267,Haynesville,Haynesville,VA,Haynesville-VA,Virginia,51159,Richmond,37.9501,-76.6625,,,123.5,point,FALSE,America/New_York,22572
+Jarratt-VA,1840006498,Jarratt,Jarratt,VA,Jarratt-VA,Virginia,51081,Greensville,36.816,-77.4689,614,614,188,polygon,TRUE,America/New_York,23867 23870
+Strasburg-VA,1840006004,Strasburg,Strasburg,VA,Strasburg-VA,Virginia,51171,Shenandoah,38.9944,-78.3541,7218,6583,678,polygon,TRUE,America/New_York,22657
+Charles City-VA,1840026851,Charles City,Charles City,VA,Charles City-VA,Virginia,51036,Charles City,37.344,-77.0687,,,21.7,polygon,FALSE,America/New_York,23030
+Rose Hill Farms-VA,1840037354,Rose Hill Farms,Rose Hill Farms,VA,Rose Hill Farms-VA,Virginia,51059,Fairfax,38.7776,-77.113,,,1457.6,point,FALSE,America/New_York,22310
+Radford-VA,1840003864,Radford,Radford,VA,Radford-VA,Virginia,51750,Radford (city),37.1229,-80.5583,17483,17483,683,polygon,TRUE,America/New_York,24142 24141 24129 24143
+Savageville-VA,1840024745,Savageville,Savageville,VA,Savageville-VA,Virginia,51001,Accomack,37.6826,-75.7591,,,75.1,polygon,FALSE,America/New_York,23417
+Emory-VA,1840024856,Emory,Emory,VA,Emory-VA,Virginia,51191,Washington,36.78,-81.828,,,212.5,polygon,FALSE,America/New_York,24361 24340
+Cartersville-VA,1840037336,Cartersville,Cartersville,VA,Cartersville-VA,Virginia,51049,Cumberland,37.6674,-78.0883,,,37.1,point,FALSE,America/New_York,23027
+Apple Mountain Lake-VA,1840026696,Apple Mountain Lake,Apple Mountain Lake,VA,Apple Mountain Lake-VA,Virginia,51187,Warren,38.9231,-78.1033,,,425.9,polygon,FALSE,America/New_York,22642
+Richmond-VA,1840001698,Richmond,Richmond,VA,Richmond-VA,Virginia,51760,Richmond (city),37.5294,-77.4755,1041877,223170,1440,polygon,TRUE,America/New_York,23219 23222 23223 23220 23221 23226 23227 23224 23225 23230 23235 23234 23173 23218 23232 23241 23242 23249 23255 23260 23261 23269 23273 23274 23276 23278 23279 23282 23284 23285 23286 23288 23289 23290 23291 23292 23293 23295 23297 23298
+Barracks-VA,1840037465,Barracks,Barracks,VA,Barracks-VA,Virginia,51003,Albemarle,38.0576,-78.5133,,,859.3,point,FALSE,America/New_York,22901
+Alberta-VA,1840006508,Alberta,Alberta,VA,Alberta-VA,Virginia,51025,Brunswick,36.8553,-77.8937,283,283,51,polygon,TRUE,America/New_York,23821
+Luray-VA,1840006141,Luray,Luray,VA,Luray-VA,Virginia,51139,Page,38.6653,-78.4545,4692,4816,391,polygon,TRUE,America/New_York,22835
+Middleburg-VA,1840005874,Middleburg,Middleburg,VA,Middleburg-VA,Virginia,51107,Loudoun,38.9716,-77.7427,828,828,308,polygon,TRUE,America/New_York,20118 20117
+Centreville-VA,1840006015,Centreville,Centreville,VA,Centreville-VA,Virginia,51059,Fairfax,38.8391,-77.4388,,,2038.1,polygon,FALSE,America/New_York,20124 20121 20120 20122
+Sherando-VA,1840006246,Sherando,Sherando,VA,Sherando-VA,Virginia,51015,Augusta,37.9889,-78.9442,,,146.5,polygon,FALSE,America/New_York,22952 24477
+Drakes Branch-VA,1840006464,Drakes Branch,Drakes Branch,VA,Drakes Branch-VA,Virginia,51037,Charlotte,36.9933,-78.601,511,511,47,polygon,TRUE,America/New_York,23937
+Wicomico Church-VA,1840037283,Wicomico Church,Wicomico Church,VA,Wicomico Church-VA,Virginia,51133,Northumberland,37.8151,-76.3777,,,32.4,point,FALSE,America/New_York,22473
+Short Pump-VA,1840006394,Short Pump,Short Pump,VA,Short Pump-VA,Virginia,51087,Henrico,37.6549,-77.6201,,,386.4,polygon,FALSE,America/New_York,23059 23233
+Fairview Beach-VA,1840001665,Fairview Beach,Fairview Beach,VA,Fairview Beach-VA,Virginia,51099,King George,38.3282,-77.2423,,,606.3,polygon,FALSE,America/New_York,22485
+Lunenburg-VA,1840026889,Lunenburg,Lunenburg,VA,Lunenburg-VA,Virginia,51111,Lunenburg,36.9585,-78.2683,,,18.8,polygon,FALSE,America/New_York,23974 23952
+Mustoe-VA,1840037414,Mustoe,Mustoe,VA,Mustoe-VA,Virginia,51091,Highland,38.3237,-79.6403,,,1.3,point,FALSE,America/New_York,24465
+Chilhowie-VA,1840006514,Chilhowie,Chilhowie,VA,Chilhowie-VA,Virginia,51173,Smyth,36.801,-81.6835,1721,1721,258,polygon,TRUE,America/New_York,24319
+Newington-VA,1840006021,Newington,Newington,VA,Newington-VA,Virginia,51059,Fairfax,38.7358,-77.1993,,,121.4,polygon,FALSE,America/New_York,22153 22150 22079 22122
+Greenbush-VA,1840024728,Greenbush,Greenbush,VA,Greenbush-VA,Virginia,51001,Accomack,37.7398,-75.6797,,,59.4,polygon,FALSE,America/New_York,23357
+Glen Lyn-VA,1840006431,Glen Lyn,Glen Lyn,VA,Glen Lyn-VA,Virginia,51071,Giles,37.373,-80.8576,118,118,70,polygon,TRUE,America/New_York,24093
+Ridgeway-VA,1840006560,Ridgeway,Ridgeway,VA,Ridgeway-VA,Virginia,51089,Henry,36.5781,-79.8583,697,697,281,polygon,TRUE,America/New_York,24148
+Gargatha-VA,1840024726,Gargatha,Gargatha,VA,Gargatha-VA,Virginia,51001,Accomack,37.7905,-75.5819,,,73.5,polygon,FALSE,America/New_York,23421
+Massanutten-VA,1840006132,Massanutten,Massanutten,VA,Massanutten-VA,Virginia,51165,Rockingham,38.4115,-78.7269,,,66.3,polygon,FALSE,America/New_York,22840
+Rustburg-VA,1840006436,Rustburg,Rustburg,VA,Rustburg-VA,Virginia,51031,Campbell,37.2712,-79.0961,,,293.4,polygon,FALSE,America/New_York,24588
+Providence Forge-VA,1840037442,Providence Forge,Providence Forge,VA,Providence Forge-VA,Virginia,51127,New Kent,37.4418,-77.0436,,,30.9,point,FALSE,America/New_York,23140
+Boykins-VA,1840006517,Boykins,Boykins,VA,Boykins-VA,Virginia,51175,Southampton,36.5778,-77.1989,542,542,301,polygon,TRUE,America/New_York,23827
+Lee Mont-VA,1840024731,Lee Mont,Lee Mont,VA,Lee Mont-VA,Virginia,51001,Accomack,37.7799,-75.6802,,,80.5,polygon,FALSE,America/New_York,23421
+Monterey-VA,1840006214,Monterey,Monterey,VA,Monterey-VA,Virginia,51091,Highland,38.4116,-79.5809,136,136,166,polygon,TRUE,America/New_York,24465
+Dungannon-VA,1840006543,Dungannon,Dungannon,VA,Dungannon-VA,Virginia,51169,Scott,36.8284,-82.4683,310,310,329,polygon,TRUE,America/New_York,24245
+Wilderness-VA,1840037284,Wilderness,Wilderness,VA,Wilderness-VA,Virginia,51137,Orange,38.3257,-77.7258,,,23.4,point,FALSE,America/New_York,22553
+Allisonia-VA,1840024799,Allisonia,Allisonia,VA,Allisonia-VA,Virginia,51155,Pulaski,36.9342,-80.7255,,,26.2,polygon,FALSE,America/New_York,24347
+Rose Hill-VA,1840006532,Rose Hill,Rose Hill,VA,Rose Hill-VA,Virginia,51105,Lee,36.667,-83.3753,,,212.3,polygon,FALSE,America/New_York,24281
+Bowling Green-VA,1840006303,Bowling Green,Bowling Green,VA,Bowling Green-VA,Virginia,51033,Caroline,38.0533,-77.3473,1167,1167,278,polygon,TRUE,America/New_York,22427 22428
+Mappsville-VA,1840024734,Mappsville,Mappsville,VA,Mappsville-VA,Virginia,51001,Accomack,37.8433,-75.5689,,,194.1,polygon,FALSE,America/New_York,23407 23359 23308
+Mountain Road-VA,1840024812,Mountain Road,Mountain Road,VA,Mountain Road-VA,Virginia,51083,Halifax,36.7585,-78.989,,,65.1,polygon,FALSE,America/New_York,24558
+Virginia Beach-VA,1840003871,Virginia Beach,Virginia Beach,VA,Virginia Beach-VA,Virginia,51810,Virginia Beach (city),36.7335,-76.0435,1487505,452602,699,polygon,TRUE,America/New_York,23459 23451 23453 23452 23455 23457 23456 23454 23460 23461 23462 23464 23450 23458 23463 23465 23466 23467 23471 23479
+Toms Brook-VA,1840006005,Toms Brook,Toms Brook,VA,Toms Brook-VA,Virginia,51171,Shenandoah,38.9469,-78.4397,262,262,699,polygon,TRUE,America/New_York,22660
+Boston-VA,1840024721,Boston,Boston,VA,Boston-VA,Virginia,51001,Accomack,37.6039,-75.8437,,,53,polygon,FALSE,America/New_York,23420
+Elliston-VA,1840024789,Elliston,Elliston,VA,Elliston-VA,Virginia,51121,Montgomery,37.2164,-80.2245,,,259,polygon,FALSE,America/New_York,24087
+Gordonsville-VA,1840006267,Gordonsville,Gordonsville,VA,Gordonsville-VA,Virginia,51137,Orange,38.1362,-78.1877,1583,1583,652,polygon,TRUE,America/New_York,22942
+Montvale-VA,1840026837,Montvale,Montvale,VA,Montvale-VA,Virginia,51019,Bedford,37.3866,-79.7253,,,212.7,polygon,FALSE,America/New_York,24064 24122 24178
+Mount Hermon-VA,1840026888,Mount Hermon,Mount Hermon,VA,Mount Hermon-VA,Virginia,51143,Pittsylvania,36.6716,-79.4196,,,274.9,polygon,FALSE,America/New_York,24540
+Occoquan-VA,1840006108,Occoquan,Occoquan,VA,Occoquan-VA,Virginia,51153,Prince William,38.6823,-77.2604,1061,1061,2367,polygon,TRUE,America/New_York,22125
+Craigsville-VA,1840006250,Craigsville,Craigsville,VA,Craigsville-VA,Virginia,51015,Augusta,38.0842,-79.3842,935,935,177,polygon,TRUE,America/New_York,24430
+Herndon-VA,1840006037,Herndon,Herndon,VA,Herndon-VA,Virginia,51059,Fairfax,38.9699,-77.3867,24393,24393,2202,polygon,TRUE,America/New_York,20170 20172 20192 22095
+Troutville-VA,1840006380,Troutville,Troutville,VA,Troutville-VA,Virginia,51023,Botetourt,37.4167,-79.8779,431,431,240,polygon,TRUE,America/New_York,24175
+Greenbackville-VA,1840024727,Greenbackville,Greenbackville,VA,Greenbackville-VA,Virginia,51001,Accomack,38.0105,-75.3869,,,118.5,polygon,FALSE,America/New_York,23356
+Zuni-VA,1840037449,Zuni,Zuni,VA,Zuni-VA,Virginia,51093,Isle of Wight,36.866,-76.8308,,,79.3,point,FALSE,America/New_York,23898
+Manakin-VA,1840037392,Manakin,Manakin,VA,Manakin-VA,Virginia,51075,Goochland,37.6015,-77.7022,,,75.7,point,FALSE,America/New_York,23238
+McDowell-VA,1840037315,McDowell,McDowell,VA,McDowell-VA,Virginia,51091,Highland,38.3357,-79.4906,,,33.2,point,FALSE,America/New_York,24458
+Glasgow-VA,1840006315,Glasgow,Glasgow,VA,Glasgow-VA,Virginia,51163,Rockbridge,37.6346,-79.4514,1116,1116,292,polygon,TRUE,America/New_York,24555
+Hayfield-VA,1840024573,Hayfield,Hayfield,VA,Hayfield-VA,Virginia,51059,Fairfax,38.7534,-77.132,,,1707.7,polygon,FALSE,America/New_York,22306 22315
+Timberville-VA,1840006139,Timberville,Timberville,VA,Timberville-VA,Virginia,51165,Rockingham,38.6341,-78.7729,2640,2640,804,polygon,TRUE,America/New_York,22815 22853
+Jetersville-VA,1840037384,Jetersville,Jetersville,VA,Jetersville-VA,Virginia,51007,Amelia,37.2943,-78.0942,,,97.6,point,FALSE,America/New_York,23083
+Countryside-VA,1840024500,Countryside,Countryside,VA,Countryside-VA,Virginia,51107,Loudoun,39.0517,-77.4125,,,2120.5,polygon,FALSE,America/New_York,20165
+Mount Crawford-VA,1840006138,Mount Crawford,Mount Crawford,VA,Mount Crawford-VA,Virginia,51165,Rockingham,38.3601,-78.9413,452,452,362,polygon,TRUE,America/New_York,22841
+Woolwine-VA,1840037460,Woolwine,Woolwine,VA,Woolwine-VA,Virginia,51141,Patrick,36.7899,-80.2773,,,29,point,FALSE,America/New_York,24185
+Eagle Rock-VA,1840037359,Eagle Rock,Eagle Rock,VA,Eagle Rock-VA,Virginia,51023,Botetourt,37.6407,-79.8012,,,35.4,point,FALSE,America/New_York,24085
+Crystal Hill-VA,1840037375,Crystal Hill,Crystal Hill,VA,Crystal Hill-VA,Virginia,51083,Halifax,36.8557,-78.9089,,,25.7,point,FALSE,America/New_York,24539
+Stonega-VA,1840037320,Stonega,Stonega,VA,Stonega-VA,Virginia,51195,Wise,36.9532,-82.7913,,,61.7,point,FALSE,America/New_York,24216
+Edgerton-VA,1840037290,Edgerton,Edgerton,VA,Edgerton-VA,Virginia,51025,Brunswick,36.779,-77.7775,,,9.9,point,FALSE,America/New_York,23868
+Arrington-VA,1840024712,Arrington,Arrington,VA,Arrington-VA,Virginia,51125,Nelson,37.6744,-78.8929,,,35.8,polygon,FALSE,America/New_York,22922
+Carrollton-VA,1840024808,Carrollton,Carrollton,VA,Carrollton-VA,Virginia,51093,Isle of Wight,36.9394,-76.5264,,,106.9,polygon,FALSE,America/New_York,23314
+Gore-VA,1840037266,Gore,Gore,VA,Gore-VA,Virginia,51069,Frederick,39.264,-78.3319,,,127.8,point,FALSE,America/New_York,22637
+Acorn-VA,1840037285,Acorn,Acorn,VA,Acorn-VA,Virginia,51193,Westmoreland,38.0193,-76.6491,,,21,point,FALSE,America/New_York,22529
+Bastian-VA,1840037328,Bastian,Bastian,VA,Bastian-VA,Virginia,51021,Bland,37.1521,-81.1501,,,59.2,point,FALSE,America/New_York,24314
+Stafford-VA,1840024663,Stafford,Stafford,VA,Stafford-VA,Virginia,51179,Stafford,38.4221,-77.4083,,,176.5,point,FALSE,America/New_York,22554
+Hanover-VA,1840026796,Hanover,Hanover,VA,Hanover-VA,Virginia,51085,Hanover,37.7668,-77.3706,,,151.6,polygon,FALSE,America/New_York,23069
+Woodlake-VA,1840026845,Woodlake,Woodlake,VA,Woodlake-VA,Virginia,51041,Chesterfield,37.4216,-77.6783,,,1557.2,polygon,FALSE,America/New_York,23112
+Fort Mitchell-VA,1840037363,Fort Mitchell,Fort Mitchell,VA,Fort Mitchell-VA,Virginia,51111,Lunenburg,36.9182,-78.4861,,,13.9,point,FALSE,America/New_York,23937
+Augusta Springs-VA,1840024682,Augusta Springs,Augusta Springs,VA,Augusta Springs-VA,Virginia,51015,Augusta,38.108,-79.3352,,,83.4,polygon,FALSE,America/New_York,24411 24430
+Chesapeake-VA,1840003874,Chesapeake,Chesapeake,VA,Chesapeake-VA,Virginia,51550,Chesapeake (city),36.6778,-76.3024,237940,237940,269,polygon,TRUE,America/New_York,23323 23325 23324 23322 23321 23320 23326 23327 23328
+Metompkin-VA,1840024735,Metompkin,Metompkin,VA,Metompkin-VA,Virginia,51001,Accomack,37.7671,-75.6054,,,99.4,polygon,FALSE,America/New_York,23421
+Maurertown-VA,1840026690,Maurertown,Maurertown,VA,Maurertown-VA,Virginia,51171,Shenandoah,38.9325,-78.4615,,,460.8,polygon,FALSE,America/New_York,22644
+Tappahannock-VA,1840006311,Tappahannock,Tappahannock,VA,Tappahannock-VA,Virginia,51057,Essex,37.9185,-76.8665,2545,2386,355,polygon,TRUE,America/New_York,22560
+Yale-VA,1840037301,Yale,Yale,VA,Yale-VA,Virginia,51183,Sussex,36.8457,-77.2875,,,9.6,point,FALSE,America/New_York,23897
+New Baltimore-VA,1840024594,New Baltimore,New Baltimore,VA,New Baltimore-VA,Virginia,51061,Fauquier,38.7495,-77.7151,,,92.4,polygon,FALSE,America/New_York,20187
+Syria-VA,1840037305,Syria,Syria,VA,Syria-VA,Virginia,51113,Madison,38.4879,-78.3261,,,4.6,point,FALSE,America/New_York,22727
+Idylwood-VA,1840006032,Idylwood,Idylwood,VA,Idylwood-VA,Virginia,51059,Fairfax,38.8896,-77.2056,,,2126.7,polygon,FALSE,America/New_York,22046 22043
+Urbanna-VA,1840003850,Urbanna,Urbanna,VA,Urbanna-VA,Virginia,51119,Middlesex,37.6395,-76.5747,470,470,428,polygon,TRUE,America/New_York,23175
+Haysi-VA,1840006457,Haysi,Haysi,VA,Haysi-VA,Virginia,51051,Dickenson,37.215,-82.2931,474,474,51,polygon,TRUE,America/New_York,24256
+Virgilina-VA,1840003868,Virgilina,Virgilina,VA,Virgilina-VA,Virginia,51083,Halifax,36.5463,-78.7755,142,142,88,polygon,TRUE,America/New_York,24598
+Mouth of Wilson-VA,1840037399,Mouth of Wilson,Mouth of Wilson,VA,Mouth of Wilson-VA,Virginia,51077,Grayson,36.5896,-81.3365,,,6.9,point,FALSE,America/New_York,24363
+Round Hill-VA,1840005876,Round Hill,Round Hill,VA,Round Hill-VA,Virginia,51107,Loudoun,39.1319,-77.7681,659,659,695,polygon,TRUE,America/New_York,20141 20142
+Williamsville-VA,1840037458,Williamsville,Williamsville,VA,Williamsville-VA,Virginia,51017,Bath,38.1948,-79.5709,,,11.3,point,FALSE,America/New_York,24487
+Whitesville-VA,1840024749,Whitesville,Whitesville,VA,Whitesville-VA,Virginia,51001,Accomack,37.7816,-75.6636,,,166.1,polygon,FALSE,America/New_York,23421
+Catlett-VA,1840023873,Catlett,Catlett,VA,Catlett-VA,Virginia,51061,Fauquier,38.654,-77.637,,,120.7,polygon,FALSE,America/New_York,20119
+Ebony-VA,1840024815,Ebony,Ebony,VA,Ebony-VA,Virginia,51025,Brunswick,36.576,-77.984,,,16.9,polygon,FALSE,America/New_York,23845
+Coeburn-VA,1840006482,Coeburn,Coeburn,VA,Coeburn-VA,Virginia,51195,Wise,36.9451,-82.469,2951,1986,370,polygon,TRUE,America/New_York,24230
+Bassett-VA,1840006551,Bassett,Bassett,VA,Bassett-VA,Virginia,51089,Henry,36.7615,-79.9865,,,28.9,polygon,FALSE,America/New_York,24055
+Purcellville-VA,1840005875,Purcellville,Purcellville,VA,Purcellville-VA,Virginia,51107,Loudoun,39.1378,-77.7109,14645,9469,1078,polygon,TRUE,America/New_York,20132 20134
+Arlington-VA,1840006112,Arlington,Arlington,VA,Arlington-VA,Virginia,51013,Arlington,38.8786,-77.1011,,,11892.6,polygon,FALSE,America/New_York,22209 22203 22202 22201 22207 22206 22205 22204 22214 22211 22213 22210 22212 22215 22216 22217 22219 22225 22226 22227 22230 22240 22241 22242 22243 22244 22245 22246 22350
+Blackstone-VA,1840006460,Blackstone,Blackstone,VA,Blackstone-VA,Virginia,51135,Nottoway,37.0821,-78.0029,3081,3453,296,polygon,TRUE,America/New_York,23824
+New River-VA,1840024803,New River,New River,VA,New River-VA,Virginia,51155,Pulaski,37.1408,-80.5929,,,227.6,polygon,FALSE,America/New_York,24141
+Twin Lakes-VA,1840026751,Twin Lakes,Twin Lakes,VA,Twin Lakes-VA,Virginia,51079,Greene,38.2504,-78.4417,,,554.3,polygon,FALSE,America/New_York,22968
+Stanleytown-VA,1840006558,Stanleytown,Stanleytown,VA,Stanleytown-VA,Virginia,51089,Henry,36.7512,-79.9521,,,118.8,polygon,FALSE,America/New_York,24168 24055
+Appalachia-VA,1840006480,Appalachia,Appalachia,VA,Appalachia-VA,Virginia,51195,Wise,36.9096,-82.7881,1654,1654,287,polygon,TRUE,America/New_York,24216
+Heathsville-VA,1840026795,Heathsville,Heathsville,VA,Heathsville-VA,Virginia,51133,Northumberland,37.92,-76.4785,,,19.5,polygon,FALSE,America/New_York,22473
+Covington-VA,1840001688,Covington,Covington,VA,Covington-VA,Virginia,51580,Covington (city),37.7786,-79.9868,7804,5518,389,polygon,TRUE,America/New_York,24426
+Amonate-VA,1840037326,Amonate,Amonate,VA,Amonate-VA,Virginia,51185,Tazewell,37.1909,-81.6387,,,33.5,point,FALSE,America/New_York,24601
+Charlottesville-VA,1840001678,Charlottesville,Charlottesville,VA,Charlottesville-VA,Virginia,51540,Charlottesville (city),38.0374,-78.4856,99664,46912,1769,polygon,TRUE,America/New_York,22901 22902 22903 22905 22906 22907 22908 22909 22910
+Rural Retreat-VA,1840006503,Rural Retreat,Rural Retreat,VA,Rural Retreat-VA,Virginia,51197,Wythe,36.901,-81.2764,1480,1480,251,polygon,TRUE,America/New_York,24368
+Vansant-VA,1840006430,Vansant,Vansant,VA,Vansant-VA,Virginia,51027,Buchanan,37.2359,-82.096,,,95.3,polygon,FALSE,America/New_York,24656 24614 24631
+Smithfield-VA,1840006487,Smithfield,Smithfield,VA,Smithfield-VA,Virginia,51093,Isle of Wight,36.9753,-76.6162,10652,8435,344,polygon,TRUE,America/New_York,23430 23431
+Lake Monticello-VA,1840006342,Lake Monticello,Lake Monticello,VA,Lake Monticello-VA,Virginia,51065,Fluvanna,37.921,-78.3295,,,669.1,polygon,FALSE,America/New_York,22963
+Villa Heights-VA,1840006559,Villa Heights,Villa Heights,VA,Villa Heights-VA,Virginia,51089,Henry,36.6981,-79.8994,,,84,polygon,FALSE,America/New_York,24112
+West Springfield-VA,1840006041,West Springfield,West Springfield,VA,West Springfield-VA,Virginia,51059,Fairfax,38.7771,-77.2268,,,1417.3,polygon,FALSE,America/New_York,22152
+Waverly-VA,1840006500,Waverly,Waverly,VA,Waverly-VA,Virginia,51183,Sussex,37.034,-77.0956,2050,2050,256,polygon,TRUE,America/New_York,23890
+Abbott-VA,1840037372,Abbott,Abbott,VA,Abbott-VA,Virginia,51045,Craig,37.4293,-80.1395,,,28.6,point,FALSE,America/New_York,24127
+Burkeville-VA,1840006461,Burkeville,Burkeville,VA,Burkeville-VA,Virginia,51135,Nottoway,37.1879,-78.2012,406,406,156,polygon,TRUE,America/New_York,23922
+Wallace-VA,1840037455,Wallace,Wallace,VA,Wallace-VA,Virginia,51191,Washington,36.6529,-82.1279,,,72.7,point,FALSE,America/New_York,24202
+Bull Run Mountain Estates-VA,1840026706,Bull Run Mountain Estates,Bull Run Mountain Estates,VA,Bull Run Mountain Estates-VA,Virginia,51153,Prince William,38.9106,-77.6638,,,458.5,polygon,FALSE,America/New_York,20169
+Falling Spring-VA,1840037314,Falling Spring,Falling Spring,VA,Falling Spring-VA,Virginia,51005,Alleghany,37.8865,-79.9795,,,56.2,point,FALSE,America/New_York,24445
+Chase Crossing-VA,1840024724,Chase Crossing,Chase Crossing,VA,Chase Crossing-VA,Virginia,51001,Accomack,37.7604,-75.6658,,,98,polygon,FALSE,America/New_York,23357
+Tazewell-VA,1840006455,Tazewell,Tazewell,VA,Tazewell-VA,Virginia,51185,Tazewell,37.127,-81.513,4670,4365,243,polygon,TRUE,America/New_York,24651 24630
+Benns Church-VA,1840024806,Benns Church,Benns Church,VA,Benns Church-VA,Virginia,51093,Isle of Wight,36.937,-76.5842,,,54.2,polygon,FALSE,America/New_York,23314 23430
+Cullen-VA,1840037262,Cullen,Cullen,VA,Cullen-VA,Virginia,51037,Charlotte,37.1176,-78.6492,,,33.2,point,FALSE,America/New_York,23923
+Esmont-VA,1840026774,Esmont,Esmont,VA,Esmont-VA,Virginia,51003,Albemarle,37.8284,-78.5959,,,90.1,polygon,FALSE,America/New_York,22937
+Lovettsville-VA,1840005873,Lovettsville,Lovettsville,VA,Lovettsville-VA,Virginia,51107,Loudoun,39.2739,-77.6392,1985,1985,870,polygon,TRUE,America/New_York,20180
+Seven Mile Ford-VA,1840026900,Seven Mile Ford,Seven Mile Ford,VA,Seven Mile Ford-VA,Virginia,51173,Smyth,36.8128,-81.6294,,,135.6,polygon,FALSE,America/New_York,24354
+Brooke-VA,1840023830,Brooke,Brooke,VA,Brooke-VA,Virginia,51179,Stafford,38.3876,-77.3797,,,71.9,point,FALSE,America/New_York,23920
+Achilles-VA,1840037256,Achilles,Achilles,VA,Achilles-VA,Virginia,51073,Gloucester,37.2801,-76.4402,,,107.5,point,FALSE,America/New_York,23072
+Lewisetta-VA,1840037390,Lewisetta,Lewisetta,VA,Lewisetta-VA,Virginia,51133,Northumberland,37.9979,-76.4627,,,164.7,point,FALSE,America/New_York,22511
+Boones Mill-VA,1840006478,Boones Mill,Boones Mill,VA,Boones Mill-VA,Virginia,51067,Franklin,37.1156,-79.9514,232,232,122,polygon,TRUE,America/New_York,24065
+Atkins-VA,1840006512,Atkins,Atkins,VA,Atkins-VA,Virginia,51173,Smyth,36.8674,-81.3992,,,145.2,polygon,FALSE,America/New_York,24311
+Norfolk-VA,1840003869,Norfolk,Norfolk,VA,Norfolk-VA,Virginia,51710,Norfolk (city),36.8945,-76.259,245115,245115,1749,polygon,TRUE,America/New_York,23509 23508 23504 23503 23502 23507 23505 23551 23518 23513 23517 23523 23510 23511 23501 23506 23514 23515 23519 23529 23541
+Belle Haven-VA,1840006321,Belle Haven,Belle Haven,VA,Belle Haven-VA,Virginia,51001,Accomack,37.5556,-75.8259,528,528,137,polygon,TRUE,America/New_York,23306 23350
+Ladysmith-VA,1840037268,Ladysmith,Ladysmith,VA,Ladysmith-VA,Virginia,51033,Caroline,38.0176,-77.5153,,,35.4,point,FALSE,America/New_York,22546
+Whaleyville-VA,1840037457,Whaleyville,Whaleyville,VA,Whaleyville-VA,Virginia,51800,Suffolk (city),36.5882,-76.6847,,,90.7,point,FALSE,America/New_York,23438
+Middletown-VA,1840005776,Middletown,Middletown,VA,Middletown-VA,Virginia,51069,Frederick,39.0288,-78.2781,1334,1334,663,polygon,TRUE,America/New_York,22645 22649
+Blue Ridge Shores-VA,1840026786,Blue Ridge Shores,Blue Ridge Shores,VA,Blue Ridge Shores-VA,Virginia,51109,Louisa,38.1091,-78.0236,,,380,polygon,FALSE,America/New_York,23093
+Montclair-VA,1840006095,Montclair,Montclair,VA,Montclair-VA,Virginia,51153,Prince William,38.6111,-77.34,,,1954.7,polygon,FALSE,America/New_York,22193 22025
+Dumfries-VA,1840006102,Dumfries,Dumfries,VA,Dumfries-VA,Virginia,51153,Prince William,38.567,-77.3234,5186,5186,1297,polygon,TRUE,America/New_York,22026
+Stuart-VA,1840006549,Stuart,Stuart,VA,Stuart-VA,Virginia,51141,Patrick,36.6411,-80.2689,1376,1376,163,polygon,TRUE,America/New_York,24171
+Berryville-VA,1840005892,Berryville,Berryville,VA,Berryville-VA,Virginia,51043,Clarke,39.1508,-77.9823,4399,4304,733,polygon,TRUE,America/New_York,22611
+Templeton-VA,1840026870,Templeton,Templeton,VA,Templeton-VA,Virginia,51149,Prince George,37.0811,-77.3563,,,79.5,polygon,FALSE,America/New_York,23805
+Winterpock-VA,1840037459,Winterpock,Winterpock,VA,Winterpock-VA,Virginia,51041,Chesterfield,37.346,-77.7194,,,27.4,point,FALSE,America/New_York,23838
+Stevens Creek-VA,1840037371,Stevens Creek,Stevens Creek,VA,Stevens Creek-VA,Virginia,51077,Grayson,36.7287,-80.999,,,118.6,point,FALSE,America/New_York,24330
+Millboro-VA,1840037397,Millboro,Millboro,VA,Millboro-VA,Virginia,51017,Bath,37.9751,-79.6028,,,96.7,point,FALSE,America/New_York,24460
+Bracey-VA,1840024859,Bracey,Bracey,VA,Bracey-VA,Virginia,51117,Mecklenburg,36.5762,-78.1107,,,32.8,polygon,FALSE,America/New_York,23919
+Stanley-VA,1840006143,Stanley,Stanley,VA,Stanley-VA,Virginia,51139,Page,38.5768,-78.5028,1648,1648,444,polygon,TRUE,America/New_York,22851
+Buchanan-VA,1840006379,Buchanan,Buchanan,VA,Buchanan-VA,Virginia,51023,Botetourt,37.5212,-79.6894,1173,1173,208,polygon,TRUE,America/New_York,24066
+Gretna-VA,1840006493,Gretna,Gretna,VA,Gretna-VA,Virginia,51143,Pittsylvania,36.9492,-79.3646,1237,1237,286,polygon,TRUE,America/New_York,24557
+Elkton-VA,1840006133,Elkton,Elkton,VA,Elkton-VA,Virginia,51165,Rockingham,38.4107,-78.6159,3822,2850,352,polygon,TRUE,America/New_York,22827
+Moneta-VA,1840037272,Moneta,Moneta,VA,Moneta-VA,Virginia,51019,Bedford,37.1813,-79.6173,,,183.8,point,FALSE,America/New_York,24121
+Glen Wilton-VA,1840037345,Glen Wilton,Glen Wilton,VA,Glen Wilton-VA,Virginia,51023,Botetourt,37.7529,-79.8189,,,123.7,point,FALSE,America/New_York,24085
+Eggleston-VA,1840037360,Eggleston,Eggleston,VA,Eggleston-VA,Virginia,51071,Giles,37.2873,-80.6187,,,128.4,point,FALSE,America/New_York,24086
+Yogaville-VA,1840024766,Yogaville,Yogaville,VA,Yogaville-VA,Virginia,51029,Buckingham,37.6654,-78.6946,,,8,polygon,FALSE,America/New_York,23921
+Damascus-VA,1840006530,Damascus,Damascus,VA,Damascus-VA,Virginia,51191,Washington,36.6326,-81.7889,797,797,387,polygon,TRUE,America/New_York,24236
+Rushmere-VA,1840006486,Rushmere,Rushmere,VA,Rushmere-VA,Virginia,51093,Isle of Wight,37.0836,-76.6747,,,135.4,polygon,FALSE,America/New_York,23430
+Petersburg-VA,1840003861,Petersburg,Petersburg,VA,Petersburg-VA,Virginia,51730,Petersburg (city),37.2042,-77.3914,31882,31882,536,polygon,TRUE,America/New_York,23803 23805 23804
+Dumbarton-VA,1840006387,Dumbarton,Dumbarton,VA,Dumbarton-VA,Virginia,51087,Henrico,37.613,-77.5065,,,1092.8,polygon,FALSE,America/New_York,23228 23230
+Fort Hunt-VA,1840006010,Fort Hunt,Fort Hunt,VA,Fort Hunt-VA,Virginia,51059,Fairfax,38.7361,-77.0589,,,1879.7,polygon,FALSE,America/New_York,22308 22306 22307
+Goldvein-VA,1840037292,Goldvein,Goldvein,VA,Goldvein-VA,Virginia,51061,Fauquier,38.449,-77.6553,,,29.2,point,FALSE,America/New_York,22720
+Prices Fork-VA,1840024791,Prices Fork,Prices Fork,VA,Prices Fork-VA,Virginia,51121,Montgomery,37.207,-80.4852,,,137.6,polygon,FALSE,America/New_York,24060
+Rio-VA,1840037470,Rio,Rio,VA,Rio-VA,Virginia,51003,Albemarle,38.0762,-78.4611,,,1200.9,point,FALSE,America/New_York,22901
+Claremont-VA,1840006471,Claremont,Claremont,VA,Claremont-VA,Virginia,51181,Surry,37.2273,-76.9665,346,346,52,polygon,TRUE,America/New_York,23899
+Sussex-VA,1840026890,Sussex,Sussex,VA,Sussex-VA,Virginia,51183,Sussex,36.9173,-77.2718,,,139,polygon,FALSE,America/New_York,23882 23884 23890
+Hurt-VA,1840006495,Hurt,Hurt,VA,Hurt-VA,Virginia,51143,Pittsylvania,37.0954,-79.3029,1265,1265,140,polygon,TRUE,America/New_York,24563
+Fort Chiswell-VA,1840037378,Fort Chiswell,Fort Chiswell,VA,Fort Chiswell-VA,Virginia,51197,Wythe,36.9444,-80.9577,,,11.2,polygon,FALSE,America/New_York,24382 24360
+Hallwood-VA,1840006319,Hallwood,Hallwood,VA,Hallwood-VA,Virginia,51001,Accomack,37.8774,-75.5895,204,204,323,polygon,TRUE,America/New_York,23359
+Pungoteague-VA,1840024741,Pungoteague,Pungoteague,VA,Pungoteague-VA,Virginia,51001,Accomack,37.6291,-75.8172,,,133.9,polygon,FALSE,America/New_York,23420 23422
+Hot Springs-VA,1840026779,Hot Springs,Hot Springs,VA,Hot Springs-VA,Virginia,51017,Bath,38.0013,-79.8239,,,49.1,polygon,FALSE,America/New_York,24445
+Manchester-VA,1840024785,Manchester,Manchester,VA,Manchester-VA,Virginia,51041,Chesterfield,37.4902,-77.5396,,,435,polygon,FALSE,America/New_York,23225 23235 23236
+Sandy Level-VA,1840006557,Sandy Level,Sandy Level,VA,Sandy Level-VA,Virginia,51089,Henry,36.5645,-79.7276,,,30.7,polygon,FALSE,America/New_York,24148 24054
+Chatham-VA,1840006494,Chatham,Chatham,VA,Chatham-VA,Virginia,51143,Pittsylvania,36.8185,-79.3967,1473,1473,280,polygon,TRUE,America/New_York,24531
+West Falls Church-VA,1840006117,West Falls Church,West Falls Church,VA,West Falls Church-VA,Virginia,51610,Falls Church (city),38.8648,-77.1878,,,2290,polygon,FALSE,America/New_York,22042
+Weyers Cave-VA,1840006249,Weyers Cave,Weyers Cave,VA,Weyers Cave-VA,Virginia,51015,Augusta,38.2845,-78.9125,,,392.9,polygon,FALSE,America/New_York,24486
+Walkerton-VA,1840037405,Walkerton,Walkerton,VA,Walkerton-VA,Virginia,51097,King and Queen,37.7263,-77.0227,,,73.6,point,FALSE,America/New_York,23177
+Pearisburg-VA,1840006433,Pearisburg,Pearisburg,VA,Pearisburg-VA,Virginia,51071,Giles,37.3289,-80.7274,2794,2699,330,polygon,TRUE,America/New_York,24134
+Enon-VA,1840026844,Enon,Enon,VA,Enon-VA,Virginia,51041,Chesterfield,37.3275,-77.3196,,,318.5,polygon,FALSE,America/New_York,23836
+Arvonia-VA,1840037258,Arvonia,Arvonia,VA,Arvonia-VA,Virginia,51029,Buckingham,37.6835,-78.3414,,,61.8,point,FALSE,America/New_York,23123
+Isle of Wight-VA,1840037432,Isle of Wight,Isle of Wight,VA,Isle of Wight-VA,Virginia,51093,Isle of Wight,36.9076,-76.7077,,,4.3,point,FALSE,America/New_York,23487
+Daleville-VA,1840006376,Daleville,Daleville,VA,Daleville-VA,Virginia,51023,Botetourt,37.415,-79.9132,,,196,polygon,FALSE,America/New_York,24083
+Matoaca-VA,1840006411,Matoaca,Matoaca,VA,Matoaca-VA,Virginia,51041,Chesterfield,37.2312,-77.4677,,,477.2,polygon,FALSE,America/New_York,23803
+Fair Oaks-VA,1840024568,Fair Oaks,Fair Oaks,VA,Fair Oaks-VA,Virginia,51059,Fairfax,38.8653,-77.3586,,,6045.5,polygon,FALSE,America/New_York,22030 22033 22035
+Temperanceville-VA,1840024747,Temperanceville,Temperanceville,VA,Temperanceville-VA,Virginia,51001,Accomack,37.8991,-75.5526,,,122.6,polygon,FALSE,America/New_York,23442
+Gratton-VA,1840026868,Gratton,Gratton,VA,Gratton-VA,Virginia,51185,Tazewell,37.1351,-81.4212,,,383.6,polygon,FALSE,America/New_York,24651
+Franconia-VA,1840006027,Franconia,Franconia,VA,Franconia-VA,Virginia,51059,Fairfax,38.7683,-77.1586,,,1494.8,polygon,FALSE,America/New_York,22310 22315
+Collinsville-VA,1840006553,Collinsville,Collinsville,VA,Collinsville-VA,Virginia,51089,Henry,36.7215,-79.9122,,,791.1,polygon,FALSE,America/New_York,24078 24112
+Windsor-VA,1840006488,Windsor,Windsor,VA,Windsor-VA,Virginia,51093,Isle of Wight,36.8095,-76.7405,2683,2683,258,polygon,TRUE,America/New_York,23487
+Cats Bridge-VA,1840024723,Cats Bridge,Cats Bridge,VA,Cats Bridge-VA,Virginia,51001,Accomack,37.5491,-75.7797,,,19.7,polygon,FALSE,America/New_York,23420
+Parksley-VA,1840006329,Parksley,Parksley,VA,Parksley-VA,Virginia,51001,Accomack,37.7864,-75.6539,841,841,521,polygon,TRUE,America/New_York,23421
+Bland-VA,1840026871,Bland,Bland,VA,Bland-VA,Virginia,51021,Bland,37.1,-81.1161,,,129.9,polygon,FALSE,America/New_York,24315
+Huntington-VA,1840006030,Huntington,Huntington,VA,Huntington-VA,Virginia,51059,Fairfax,38.7914,-77.0741,,,3183.3,polygon,FALSE,America/New_York,22303
+Brightwood-VA,1840026738,Brightwood,Brightwood,VA,Brightwood-VA,Virginia,51113,Madison,38.4132,-78.188,,,96.8,polygon,FALSE,America/New_York,22715
+Sanford-VA,1840024743,Sanford,Sanford,VA,Sanford-VA,Virginia,51001,Accomack,37.9299,-75.662,,,24.2,polygon,FALSE,America/New_York,23426 23442
+Chincoteague-VA,1840006323,Chincoteague,Chincoteague,VA,Chincoteague-VA,Virginia,51001,Accomack,37.9594,-75.3493,2919,2919,123,polygon,TRUE,America/New_York,23336
+Sperryville-VA,1840026717,Sperryville,Sperryville,VA,Sperryville-VA,Virginia,51157,Rappahannock,38.6562,-78.2322,,,130.9,polygon,FALSE,America/New_York,22740
+Waterford-VA,1840037282,Waterford,Waterford,VA,Waterford-VA,Virginia,51107,Loudoun,39.1868,-77.61,,,285.9,point,FALSE,America/New_York,20197
+Sugarland Run-VA,1840024510,Sugarland Run,Sugarland Run,VA,Sugarland Run-VA,Virginia,51107,Loudoun,39.0309,-77.3762,,,4456.7,polygon,FALSE,America/New_York,20164
+Tiptop-VA,1840037321,Tiptop,Tiptop,VA,Tiptop-VA,Virginia,51185,Tazewell,37.2109,-81.434,,,16.2,point,FALSE,America/New_York,24630
+Deerfield-VA,1840024684,Deerfield,Deerfield,VA,Deerfield-VA,Virginia,51015,Augusta,38.1955,-79.4105,,,55.8,polygon,FALSE,America/New_York,24432
+Meadowbrook-VA,1840024786,Meadowbrook,Meadowbrook,VA,Meadowbrook-VA,Virginia,51041,Chesterfield,37.4302,-77.474,,,383.3,polygon,FALSE,America/New_York,23234 23237
+Selma-VA,1840006364,Selma,Selma,VA,Selma-VA,Virginia,51005,Alleghany,37.8033,-79.8499,,,454.6,polygon,FALSE,America/New_York,24474
+Churchville-VA,1840024683,Churchville,Churchville,VA,Churchville-VA,Virginia,51015,Augusta,38.2247,-79.1619,,,114.9,polygon,FALSE,America/New_York,24421
+Springville-VA,1840026867,Springville,Springville,VA,Springville-VA,Virginia,51185,Tazewell,37.194,-81.3999,,,344.2,polygon,FALSE,America/New_York,24630
+Shenandoah-VA,1840006142,Shenandoah,Shenandoah,VA,Shenandoah-VA,Virginia,51139,Page,38.4873,-78.617,2334,2334,413,polygon,TRUE,America/New_York,22849
+Saxe-VA,1840037298,Saxe,Saxe,VA,Saxe-VA,Virginia,51037,Charlotte,36.9299,-78.6633,,,10.7,point,FALSE,America/New_York,23967
+Parrott-VA,1840024804,Parrott,Parrott,VA,Parrott-VA,Virginia,51155,Pulaski,37.2169,-80.6239,,,162.7,polygon,FALSE,America/New_York,24132 24111
+Altavista-VA,1840006438,Altavista,Altavista,VA,Altavista-VA,Virginia,51031,Campbell,37.1229,-79.2858,4686,3468,272,polygon,TRUE,America/New_York,24517
+Potomac Mills-VA,1840026711,Potomac Mills,Potomac Mills,VA,Potomac Mills-VA,Virginia,51153,Prince William,38.6547,-77.3012,,,0,polygon,FALSE,America/New_York,22192
+Great Falls-VA,1840006028,Great Falls,Great Falls,VA,Great Falls-VA,Virginia,51059,Fairfax,39.011,-77.3013,,,297.8,polygon,FALSE,America/New_York,22066
+Naruna-VA,1840037275,Naruna,Naruna,VA,Naruna-VA,Virginia,51031,Campbell,37.106,-79.0025,,,42.1,point,FALSE,America/New_York,24554
+Clifton Forge-VA,1840006365,Clifton Forge,Clifton Forge,VA,Clifton Forge-VA,Virginia,51005,Alleghany,37.8232,-79.825,5080,3715,474,polygon,TRUE,America/New_York,24422 24474
+Skyland Estates-VA,1840026697,Skyland Estates,Skyland Estates,VA,Skyland Estates-VA,Virginia,51187,Warren,38.9329,-78.085,,,138,polygon,FALSE,America/New_York,22642
+Lynch Station-VA,1840037270,Lynch Station,Lynch Station,VA,Lynch Station-VA,Virginia,51031,Campbell,37.1463,-79.3009,,,49.7,point,FALSE,America/New_York,24571
+Claypool Hill-VA,1840006449,Claypool Hill,Claypool Hill,VA,Claypool Hill-VA,Virginia,51185,Tazewell,37.0629,-81.7504,,,228.7,polygon,FALSE,America/New_York,24637 24609
+Fries-VA,1840006561,Fries,Fries,VA,Fries-VA,Virginia,51077,Grayson,36.7139,-80.975,467,467,282,polygon,TRUE,America/New_York,24330 24333
+La Crosse-VA,1840006540,La Crosse,La Crosse,VA,La Crosse-VA,Virginia,51117,Mecklenburg,36.7014,-78.0939,584,584,191,polygon,TRUE,America/New_York,23950
+Glade Spring-VA,1840006528,Glade Spring,Glade Spring,VA,Glade Spring-VA,Virginia,51191,Washington,36.7899,-81.7725,1448,1448,458,polygon,TRUE,America/New_York,24340
+Falls Church-VA,1840003835,Falls Church,Falls Church,VA,Falls Church-VA,Virginia,51610,Falls Church (city),38.8846,-77.1751,14014,14014,2638,polygon,TRUE,America/New_York,22046 22040
+Dunn Loring-VA,1840006017,Dunn Loring,Dunn Loring,VA,Dunn Loring-VA,Virginia,51059,Fairfax,38.8945,-77.2315,,,1542.7,polygon,FALSE,America/New_York,22027 22180 22182
+Pound-VA,1840006483,Pound,Pound,VA,Pound-VA,Virginia,51195,Wise,37.1261,-82.607,954,954,142,polygon,TRUE,America/New_York,24279
+Rocky Mount-VA,1840006479,Rocky Mount,Rocky Mount,VA,Rocky Mount-VA,Virginia,51067,Franklin,37.0045,-79.8855,6047,4798,270,polygon,TRUE,America/New_York,24151
+Concord-VA,1840026857,Concord,Concord,VA,Concord-VA,Virginia,51031,Campbell,37.3426,-78.9862,,,229.2,polygon,FALSE,America/New_York,24538
+Grottoes-VA,1840006134,Grottoes,Grottoes,VA,Grottoes-VA,Virginia,51165,Rockingham,38.2693,-78.8251,4274,2799,535,polygon,TRUE,America/New_York,24441
+Modest Town-VA,1840024736,Modest Town,Modest Town,VA,Modest Town-VA,Virginia,51001,Accomack,37.8169,-75.561,,,63.6,polygon,FALSE,America/New_York,23308
+Fairlawn-VA,1840001721,Fairlawn,Fairlawn,VA,Fairlawn-VA,Virginia,51155,Pulaski,37.1476,-80.5567,,,510.3,polygon,FALSE,America/New_York,24141
+Galax-VA,1840003877,Galax,Galax,VA,Galax-VA,Virginia,51640,Galax (city),36.666,-80.9176,6652,6775,317,polygon,TRUE,America/New_York,24333
+Farmville-VA,1840006443,Farmville,Farmville,VA,Farmville-VA,Virginia,51147,Prince Edward,37.2968,-78.3993,8916,8140,436,polygon,TRUE,America/New_York,23901 23909
+University Center-VA,1840024511,University Center,University Center,VA,University Center-VA,Virginia,51107,Loudoun,39.0601,-77.4445,,,607.5,polygon,FALSE,America/New_York,20147
+Lively-VA,1840037391,Lively,Lively,VA,Lively-VA,Virginia,51103,Lancaster,37.7776,-76.5136,,,28.3,point,FALSE,America/New_York,22503
+Nethers-VA,1840037400,Nethers,Nethers,VA,Nethers-VA,Virginia,51113,Madison,38.5704,-78.2778,,,29,point,FALSE,America/New_York,22740
+Hampden Sydney-VA,1840037380,Hampden Sydney,Hampden Sydney,VA,Hampden Sydney-VA,Virginia,51147,Prince Edward,37.2416,-78.4693,,,138.4,polygon,FALSE,America/New_York,23943 23901
+Saxis-VA,1840006330,Saxis,Saxis,VA,Saxis-VA,Virginia,51001,Accomack,37.9257,-75.7225,239,239,217,polygon,TRUE,America/New_York,23427
+Sutherland-VA,1840037452,Sutherland,Sutherland,VA,Sutherland-VA,Virginia,51053,Dinwiddie,37.196,-77.5597,,,76.4,point,FALSE,America/New_York,23885
+Brodnax-VA,1840006509,Brodnax,Brodnax,VA,Brodnax-VA,Virginia,51025,Brunswick,36.7033,-78.0318,279,279,152,polygon,TRUE,America/New_York,23920
+Stanardsville-VA,1840006239,Stanardsville,Stanardsville,VA,Stanardsville-VA,Virginia,51079,Greene,38.2991,-78.4367,384,384,414,polygon,TRUE,America/New_York,22973
+Purdy-VA,1840037297,Purdy,Purdy,VA,Purdy-VA,Virginia,51081,Greensville,36.8224,-77.588,,,31,point,FALSE,America/New_York,23867
+Highland Springs-VA,1840006391,Highland Springs,Highland Springs,VA,Highland Springs-VA,Virginia,51087,Henrico,37.5517,-77.3285,,,1874.3,polygon,FALSE,America/New_York,23075 23223
+Massanetta Springs-VA,1840026720,Massanetta Springs,Massanetta Springs,VA,Massanetta Springs-VA,Virginia,51165,Rockingham,38.3899,-78.834,,,80.6,polygon,FALSE,America/New_York,22801 22846
+Martinsville-VA,1840001727,Martinsville,Martinsville,VA,Martinsville-VA,Virginia,51690,Martinsville (city),36.6827,-79.8636,34132,13445,473,polygon,TRUE,America/New_York,24112 24113 24114 24115
+Chantilly-VA,1840006016,Chantilly,Chantilly,VA,Chantilly-VA,Virginia,51059,Fairfax,38.8868,-77.4453,,,572.9,polygon,FALSE,America/New_York,20151 20153
+New Hope-VA,1840024687,New Hope,New Hope,VA,New Hope-VA,Virginia,51015,Augusta,38.1954,-78.9044,,,62.5,polygon,FALSE,America/New_York,22980 24401 24467 24431 24437 24469
+Dry Fork-VA,1840037264,Dry Fork,Dry Fork,VA,Dry Fork-VA,Virginia,51143,Pittsylvania,36.7546,-79.3997,,,14.6,point,FALSE,America/New_York,24540
+Toano-VA,1840037453,Toano,Toano,VA,Toano-VA,Virginia,51095,James City,37.3799,-76.8041,,,432.8,point,FALSE,America/New_York,23168
+Saluda-VA,1840026816,Saluda,Saluda,VA,Saluda-VA,Virginia,51119,Middlesex,37.6053,-76.5938,,,94.6,polygon,FALSE,America/New_York,23149
+Danville-VA,1840003878,Danville,Danville,VA,Danville-VA,Virginia,51590,Danville (city),36.5831,-79.4088,48015,41898,376,polygon,TRUE,America/New_York,24540 24541 24543
+Jewell Ridge-VA,1840037385,Jewell Ridge,Jewell Ridge,VA,Jewell Ridge-VA,Virginia,51185,Tazewell,37.1848,-81.7884,,,169.7,point,FALSE,America/New_York,24622
+Shipman-VA,1840024716,Shipman,Shipman,VA,Shipman-VA,Virginia,51125,Nelson,37.7273,-78.8423,,,61.9,polygon,FALSE,America/New_York,22971
+Quantico-VA,1840006109,Quantico,Quantico,VA,Quantico-VA,Virginia,51153,Prince William,38.5225,-77.2901,540,540,2941,polygon,TRUE,America/New_York,22134
+Rice-VA,1840037310,Rice,Rice,VA,Rice-VA,Virginia,51147,Prince Edward,37.2752,-78.2914,,,35.7,point,FALSE,America/New_York,23966
+Triangle-VA,1840006105,Triangle,Triangle,VA,Triangle-VA,Virginia,51153,Prince William,38.5483,-77.3195,,,843.1,polygon,FALSE,America/New_York,22172
+Ingram-VA,1840037293,Ingram,Ingram,VA,Ingram-VA,Virginia,51083,Halifax,36.7443,-79.1584,,,18.5,point,FALSE,America/New_York,24597
+Ivy-VA,1840026776,Ivy,Ivy,VA,Ivy-VA,Virginia,51003,Albemarle,38.0611,-78.5987,,,124.8,polygon,FALSE,America/New_York,22901 22903 22945
+Ettrick-VA,1840001699,Ettrick,Ettrick,VA,Ettrick-VA,Virginia,51041,Chesterfield,37.2435,-77.4287,,,918.1,polygon,FALSE,America/New_York,23803 23806 23834
+Harborton-VA,1840024729,Harborton,Harborton,VA,Harborton-VA,Virginia,51001,Accomack,37.6595,-75.8332,,,224.5,polygon,FALSE,America/New_York,23389
+Dendron-VA,1840006470,Dendron,Dendron,VA,Dendron-VA,Virginia,51181,Surry,37.0364,-76.924,249,249,26,polygon,TRUE,America/New_York,23888 23846 23839
+Prince George-VA,1840026869,Prince George,Prince George,VA,Prince George-VA,Virginia,51149,Prince George,37.2209,-77.2683,,,76.5,polygon,FALSE,America/New_York,23875
+Flint Hill-VA,1840026716,Flint Hill,Flint Hill,VA,Flint Hill-VA,Virginia,51157,Rappahannock,38.7666,-78.1028,,,58.8,polygon,FALSE,America/New_York,22627 22640
+Quinby-VA,1840024742,Quinby,Quinby,VA,Quinby-VA,Virginia,51001,Accomack,37.5533,-75.7368,,,91.9,polygon,FALSE,America/New_York,23423
+Wise-VA,1840006485,Wise,Wise,VA,Wise-VA,Virginia,51195,Wise,36.9767,-82.5808,3083,3083,390,polygon,TRUE,America/New_York,24293
+Sedley-VA,1840026906,Sedley,Sedley,VA,Sedley-VA,Virginia,51175,Southampton,36.7753,-76.9862,,,37.8,polygon,FALSE,America/New_York,23878
+Dale City-VA,1840006094,Dale City,Dale City,VA,Dale City-VA,Virginia,51153,Prince William,38.6473,-77.3459,,,3420.2,polygon,FALSE,America/New_York,22193
+Mechanicsville-VA,1840006340,Mechanicsville,Mechanicsville,VA,Mechanicsville-VA,Virginia,51085,Hanover,37.6263,-77.3561,,,869.4,polygon,FALSE,America/New_York,23116 23111
+Lafayette-VA,1840024790,Lafayette,Lafayette,VA,Lafayette-VA,Virginia,51121,Montgomery,37.233,-80.2051,,,389.6,polygon,FALSE,America/New_York,24087
+Nathalie-VA,1840024813,Nathalie,Nathalie,VA,Nathalie-VA,Virginia,51083,Halifax,36.9381,-78.9422,,,34.3,polygon,FALSE,America/New_York,24577
+Manassas-VA,1840003839,Manassas,Manassas,VA,Manassas-VA,Virginia,51683,Manassas (city),38.748,-77.484,41483,41483,1620,polygon,TRUE,America/New_York,20110 20108 20113
+Mount Sidney-VA,1840024686,Mount Sidney,Mount Sidney,VA,Mount Sidney-VA,Virginia,51015,Augusta,38.2586,-78.9654,,,164.4,polygon,FALSE,America/New_York,24467
+Lakeside-VA,1840006392,Lakeside,Lakeside,VA,Lakeside-VA,Virginia,51087,Henrico,37.6132,-77.4767,,,1775.9,polygon,FALSE,America/New_York,23228
+Colonial Beach-VA,1840006282,Colonial Beach,Colonial Beach,VA,Colonial Beach-VA,Virginia,51193,Westmoreland,38.2565,-76.9784,3723,3571,541,polygon,TRUE,America/New_York,22443
+Central Point-VA,1840037261,Central Point,Central Point,VA,Central Point-VA,Virginia,51033,Caroline,37.989,-77.1322,,,5.7,point,FALSE,America/New_York,22514
+Lowes Island-VA,1840024504,Lowes Island,Lowes Island,VA,Lowes Island-VA,Virginia,51107,Loudoun,39.0471,-77.3524,,,625.7,polygon,FALSE,America/New_York,20165
+Suffolk-VA,1840003873,Suffolk,Suffolk,VA,Suffolk-VA,Virginia,51800,Suffolk (city),36.6953,-76.6398,89273,89273,86,polygon,TRUE,America/New_York,23433 23432 23437 23436 23435 23434 23438 23439
+Burkes Garden-VA,1840037423,Burkes Garden,Burkes Garden,VA,Burkes Garden-VA,Virginia,51185,Tazewell,37.0982,-81.3409,,,7.1,point,FALSE,America/New_York,24651
+Ivanhoe-VA,1840026891,Ivanhoe,Ivanhoe,VA,Ivanhoe-VA,Virginia,51197,Wythe,36.8428,-80.9683,,,58.2,polygon,FALSE,America/New_York,24350
+Chase City-VA,1840006538,Chase City,Chase City,VA,Chase City-VA,Virginia,51117,Mecklenburg,36.7998,-78.461,2584,2279,402,polygon,TRUE,America/New_York,23924
+Saint Charles-VA,1840006536,Saint Charles,Saint Charles,VA,Saint Charles-VA,Virginia,51105,Lee,36.8052,-83.0575,117,117,255,polygon,TRUE,America/New_York,24282
+Clinchport-VA,1840006545,Clinchport,Clinchport,VA,Clinchport-VA,Virginia,51169,Scott,36.678,-82.745,66,66,38,polygon,TRUE,America/New_York,24244
+Blairs-VA,1840026886,Blairs,Blairs,VA,Blairs-VA,Virginia,51143,Pittsylvania,36.6958,-79.3774,,,119.2,polygon,FALSE,America/New_York,24527 24540
+Merrifield-VA,1840006019,Merrifield,Merrifield,VA,Merrifield-VA,Virginia,51059,Fairfax,38.8731,-77.2426,,,875.1,polygon,FALSE,America/New_York,22042 22031 22180 22081 22082 22116 22118 22119
+Madison Heights-VA,1840006372,Madison Heights,Madison Heights,VA,Madison Heights-VA,Virginia,51009,Amherst,37.4487,-79.1058,,,652.4,polygon,FALSE,America/New_York,24572
+Deep Creek-VA,1840024725,Deep Creek,Deep Creek,VA,Deep Creek-VA,Virginia,51001,Accomack,37.763,-75.7549,,,54.7,polygon,FALSE,America/New_York,23417
+Clarksville-VA,1840006539,Clarksville,Clarksville,VA,Clarksville-VA,Virginia,51117,Mecklenburg,36.6175,-78.564,1186,1186,158,polygon,TRUE,America/New_York,23927
+Moseley-VA,1840037273,Moseley,Moseley,VA,Moseley-VA,Virginia,51145,Powhatan,37.4751,-77.7789,,,59,point,FALSE,America/New_York,23120
+Hoadly-VA,1840037412,Hoadly,Hoadly,VA,Hoadly-VA,Virginia,51153,Prince William,38.6804,-77.3592,,,1004.7,point,FALSE,America/New_York,22192
+Mitchelltown-VA,1840037437,Mitchelltown,Mitchelltown,VA,Mitchelltown-VA,Virginia,51017,Bath,38.0129,-79.8114,,,208.5,point,FALSE,America/New_York,24445
+Lovingston-VA,1840024713,Lovingston,Lovingston,VA,Lovingston-VA,Virginia,51125,Nelson,37.7605,-78.8689,,,213.7,polygon,FALSE,America/New_York,22949
+Kent-VA,1840037434,Kent,Kent,VA,Kent-VA,Virginia,51197,Wythe,36.9521,-81.0187,,,8.2,point,FALSE,America/New_York,24382
+Independence-VA,1840006562,Independence,Independence,VA,Independence-VA,Virginia,51077,Grayson,36.6254,-81.1511,923,923,152,polygon,TRUE,America/New_York,24348
+Harrisonburg-VA,1840003844,Harrisonburg,Harrisonburg,VA,Harrisonburg-VA,Virginia,51660,Harrisonburg (city),38.4362,-78.8735,72470,53078,1182,polygon,TRUE,America/New_York,22801 22807 22802
+Melfa-VA,1840006325,Melfa,Melfa,VA,Melfa-VA,Virginia,51001,Accomack,37.6491,-75.7409,398,398,540,polygon,TRUE,America/New_York,23410
+King George-VA,1840026758,King George,King George,VA,King George-VA,Virginia,51099,King George,38.2807,-77.1896,,,146.3,polygon,FALSE,America/New_York,22485
+Newtown-VA,1840037361,Newtown,Newtown,VA,Newtown-VA,Virginia,51165,Rockingham,38.4154,-78.5981,,,45.6,point,FALSE,America/New_York,22827
+Clintwood-VA,1840006459,Clintwood,Clintwood,VA,Clintwood-VA,Virginia,51051,Dickenson,37.1506,-82.4571,1302,1302,264,polygon,TRUE,America/New_York,24228
+White Stone-VA,1840006371,White Stone,White Stone,VA,White Stone-VA,Virginia,51103,Lancaster,37.644,-76.3897,342,342,134,polygon,TRUE,America/New_York,22578
+Pembroke-VA,1840006434,Pembroke,Pembroke,VA,Pembroke-VA,Virginia,51071,Giles,37.3222,-80.6361,1091,1091,381,polygon,TRUE,America/New_York,24136
+Spring Garden-VA,1840037451,Spring Garden,Spring Garden,VA,Spring Garden-VA,Virginia,51143,Pittsylvania,36.7804,-79.3047,,,22.4,point,FALSE,America/New_York,24531
+Rocky Gap-VA,1840037319,Rocky Gap,Rocky Gap,VA,Rocky Gap-VA,Virginia,51021,Bland,37.2423,-81.1073,,,40.4,point,FALSE,America/New_York,24366
+Dublin-VA,1840006468,Dublin,Dublin,VA,Dublin-VA,Virginia,51155,Pulaski,37.0989,-80.6831,2683,2683,759,polygon,TRUE,America/New_York,24084
+Wakefield-VA,1840003867,Wakefield,Wakefield,VA,Wakefield-VA,Virginia,51183,Sussex,36.9686,-76.9875,872,872,270,polygon,TRUE,America/New_York,23888
+Dryden-VA,1840006531,Dryden,Dryden,VA,Dryden-VA,Virginia,51105,Lee,36.7764,-82.9433,,,178.4,polygon,FALSE,America/New_York,24277 24243
+Elk Hill-VA,1840037343,Elk Hill,Elk Hill,VA,Elk Hill-VA,Virginia,51075,Goochland,37.7176,-78.0875,,,7.1,point,FALSE,America/New_York,23063
+Horntown-VA,1840024730,Horntown,Horntown,VA,Horntown-VA,Virginia,51001,Accomack,37.9655,-75.4559,,,68.2,polygon,FALSE,America/New_York,23395
+Low Moor-VA,1840006363,Low Moor,Low Moor,VA,Low Moor-VA,Virginia,51005,Alleghany,37.7944,-79.8706,,,102.5,polygon,FALSE,America/New_York,24457
+Gladstone-VA,1840037365,Gladstone,Gladstone,VA,Gladstone-VA,Virginia,51125,Nelson,37.5468,-78.8495,,,15.8,point,FALSE,America/New_York,24553
+Oak Grove-VA,1840024506,Oak Grove,Oak Grove,VA,Oak Grove-VA,Virginia,51107,Loudoun,38.9845,-77.4175,,,2209.4,polygon,FALSE,America/New_York,20166
+Gloucester-VA,1840037425,Gloucester,Gloucester,VA,Gloucester-VA,Virginia,51073,Gloucester,37.4138,-76.5255,,,450.4,point,FALSE,America/New_York,23061
+Dulles Town Center-VA,1840024501,Dulles Town Center,Dulles Town Center,VA,Dulles Town Center-VA,Virginia,51107,Loudoun,39.0266,-77.4198,,,2120.5,polygon,FALSE,America/New_York,20166
+Bobtown-VA,1840024720,Bobtown,Bobtown,VA,Bobtown-VA,Virginia,51001,Accomack,37.6493,-75.7998,,,21.6,polygon,FALSE,America/New_York,23410
+Belspring-VA,1840024800,Belspring,Belspring,VA,Belspring-VA,Virginia,51155,Pulaski,37.1939,-80.6097,,,134.4,polygon,FALSE,America/New_York,24058
+Fredericksburg-VA,1840003845,Fredericksburg,Fredericksburg,VA,Fredericksburg-VA,Virginia,51630,Fredericksburg (city),38.2992,-77.4871,164610,28297,1046,polygon,TRUE,America/New_York,22401 22402 22403 22404 22412
+Bealeton-VA,1840024589,Bealeton,Bealeton,VA,Bealeton-VA,Virginia,51061,Fauquier,38.5822,-77.7781,,,503.5,polygon,FALSE,America/New_York,22712
+Warrenton-VA,1840006058,Warrenton,Warrenton,VA,Warrenton-VA,Virginia,51061,Fauquier,38.7177,-77.7973,9861,9861,846,polygon,TRUE,America/New_York,20186 20188
+Savage Town-VA,1840024744,Savage Town,Savage Town,VA,Savage Town-VA,Virginia,51001,Accomack,37.55,-75.7983,,,71.5,polygon,FALSE,America/New_York,23420
+Marion-VA,1840006515,Marion,Marion,VA,Marion-VA,Virginia,51173,Smyth,36.8389,-81.5135,7808,5855,548,polygon,TRUE,America/New_York,24354
+Blue Ridge-VA,1840006374,Blue Ridge,Blue Ridge,VA,Blue Ridge-VA,Virginia,51023,Botetourt,37.3783,-79.8206,,,151.7,polygon,FALSE,America/New_York,24064
+Ravensworth-VA,1840024581,Ravensworth,Ravensworth,VA,Ravensworth-VA,Virginia,51059,Fairfax,38.8032,-77.2223,,,1473.8,polygon,FALSE,America/New_York,22151
+Broadway-VA,1840006136,Broadway,Broadway,VA,Broadway-VA,Virginia,51165,Rockingham,38.6083,-78.8016,6513,3860,632,polygon,TRUE,America/New_York,22815
+McCoy-VA,1840037436,McCoy,McCoy,VA,McCoy-VA,Virginia,51121,Montgomery,37.2171,-80.5978,,,88.3,point,FALSE,America/New_York,24060
+Bellwood-VA,1840006407,Bellwood,Bellwood,VA,Bellwood-VA,Virginia,51041,Chesterfield,37.406,-77.4363,,,1632.8,polygon,FALSE,America/New_York,23237
+Shawsville-VA,1840006445,Shawsville,Shawsville,VA,Shawsville-VA,Virginia,51121,Montgomery,37.1707,-80.2527,,,247,polygon,FALSE,America/New_York,24162 24087
+Drewryville-VA,1840037342,Drewryville,Drewryville,VA,Drewryville-VA,Virginia,51175,Southampton,36.7157,-77.3064,,,19.2,point,FALSE,America/New_York,23844
+Wyndham-VA,1840006396,Wyndham,Wyndham,VA,Wyndham-VA,Virginia,51087,Henrico,37.6925,-77.6124,,,1997.1,polygon,FALSE,America/New_York,23059
+Bridgewater-VA,1840006135,Bridgewater,Bridgewater,VA,Bridgewater-VA,Virginia,51165,Rockingham,38.3863,-78.9674,6048,6048,925,polygon,TRUE,America/New_York,22812
+Weber City-VA,1840006547,Weber City,Weber City,VA,Weber City-VA,Virginia,51169,Scott,36.6237,-82.5628,1246,1246,272,polygon,TRUE,America/New_York,24290
+Spring Creek-VA,1840037355,Spring Creek,Spring Creek,VA,Spring Creek-VA,Virginia,51165,Rockingham,38.401,-79.0342,,,55.9,point,FALSE,America/New_York,22812
+Pratts-VA,1840037440,Pratts,Pratts,VA,Pratts-VA,Virginia,51113,Madison,38.3476,-78.27,,,67.4,point,FALSE,America/New_York,22727
+Pastoria-VA,1840024740,Pastoria,Pastoria,VA,Pastoria-VA,Virginia,51001,Accomack,37.7446,-75.6352,,,78.9,polygon,FALSE,America/New_York,23421 23301
+Union Level-VA,1840024862,Union Level,Union Level,VA,Union Level-VA,Virginia,51117,Mecklenburg,36.7071,-78.2319,,,29.7,polygon,FALSE,America/New_York,23970
+East Lexington-VA,1840026792,East Lexington,East Lexington,VA,East Lexington-VA,Virginia,51163,Rockbridge,37.8009,-79.416,,,322.2,polygon,FALSE,America/New_York,24450
+Wattsville-VA,1840024748,Wattsville,Wattsville,VA,Wattsville-VA,Virginia,51001,Accomack,37.9304,-75.4953,,,280.4,polygon,FALSE,America/New_York,23337 23415 23303
+Mount Airy-VA,1840037274,Mount Airy,Mount Airy,VA,Mount Airy-VA,Virginia,51143,Pittsylvania,36.9429,-79.1922,,,20.7,point,FALSE,America/New_York,24557
+Ferrum-VA,1840006473,Ferrum,Ferrum,VA,Ferrum-VA,Virginia,51067,Franklin,36.9314,-80.0148,,,150.3,polygon,FALSE,America/New_York,24088
+Culpeper-VA,1840006169,Culpeper,Culpeper,VA,Culpeper-VA,Virginia,51047,Culpeper,38.4705,-78.0002,19544,18006,962,polygon,TRUE,America/New_York,22701
+Cloverdale-VA,1840006375,Cloverdale,Cloverdale,VA,Cloverdale-VA,Virginia,51023,Botetourt,37.3565,-79.9054,,,585.3,polygon,FALSE,America/New_York,24077 24019
+Fincastle-VA,1840006378,Fincastle,Fincastle,VA,Fincastle-VA,Virginia,51023,Botetourt,37.4993,-79.8756,339,339,555,polygon,TRUE,America/New_York,24090
+Triplet-VA,1840037307,Triplet,Triplet,VA,Triplet-VA,Virginia,51025,Brunswick,36.6104,-77.7658,,,3.6,point,FALSE,America/New_York,23868
+Vinton-VA,1840003856,Vinton,Vinton,VA,Vinton-VA,Virginia,51161,Roanoke,37.2747,-79.8886,8185,8185,1004,polygon,TRUE,America/New_York,24179
+Owenton-VA,1840037296,Owenton,Owenton,VA,Owenton-VA,Virginia,51097,King and Queen,37.8837,-77.1003,,,12.3,point,FALSE,America/New_York,23148
+Meherrin-VA,1840037271,Meherrin,Meherrin,VA,Meherrin-VA,Virginia,51111,Lunenburg,37.1032,-78.3667,,,60.6,point,FALSE,America/New_York,23954
+DeWitt-VA,1840037263,DeWitt,DeWitt,VA,DeWitt-VA,Virginia,51053,Dinwiddie,37.0388,-77.6433,,,55.8,point,FALSE,America/New_York,23840
+Pohick-VA,1840037369,Pohick,Pohick,VA,Pohick-VA,Virginia,51059,Fairfax,38.7101,-77.1966,,,2257.6,point,FALSE,America/New_York,22079
+Henry Fork-VA,1840026877,Henry Fork,Henry Fork,VA,Henry Fork-VA,Virginia,51067,Franklin,36.9679,-79.871,,,154.7,polygon,FALSE,America/New_York,24151
+Chester Gap-VA,1840026718,Chester Gap,Chester Gap,VA,Chester Gap-VA,Virginia,51157,Rappahannock,38.8533,-78.1325,,,287.8,polygon,FALSE,America/New_York,22640 22623
+Pamplin-VA,1840037417,Pamplin,Pamplin,VA,Pamplin-VA,Virginia,51011,Appomattox,37.2642,-78.682,219,219,267,polygon,TRUE,America/New_York,23958
+Mount Solon-VA,1840037413,Mount Solon,Mount Solon,VA,Mount Solon-VA,Virginia,51015,Augusta,38.3448,-79.085,,,57.8,point,FALSE,America/New_York,22843
+Gate City-VA,1840006544,Gate City,Gate City,VA,Gate City-VA,Virginia,51169,Scott,36.6402,-82.5783,1930,1930,190,polygon,TRUE,America/New_York,24251
+Bloxom-VA,1840006322,Bloxom,Bloxom,VA,Bloxom-VA,Virginia,51001,Accomack,37.8291,-75.6216,378,378,436,polygon,TRUE,America/New_York,23308
+McLean-VA,1840006018,McLean,McLean,VA,McLean-VA,Virginia,51059,Fairfax,38.9436,-77.1943,,,2117.9,polygon,FALSE,America/New_York,22046 22043 22101 22102 22067 22103 22106 22107 22108 22109
+Brambleton-VA,1840024497,Brambleton,Brambleton,VA,Brambleton-VA,Virginia,51107,Loudoun,38.9803,-77.5323,,,1358.4,polygon,FALSE,America/New_York,20148
+Sweet Briar Station-VA,1840037356,Sweet Briar Station,Sweet Briar Station,VA,Sweet Briar Station-VA,Virginia,51009,Amherst,37.5529,-79.0664,,,23.4,point,FALSE,America/New_York,24521
+Blacksburg-VA,1840006446,Blacksburg,Blacksburg,VA,Blacksburg-VA,Virginia,51121,Montgomery,37.23,-80.4277,93560,45038,874,polygon,TRUE,America/New_York,24060 24061 24062 24063
+Milford-VA,1840037350,Milford,Milford,VA,Milford-VA,Virginia,51033,Caroline,38.0232,-77.3733,,,180.8,point,FALSE,America/New_York,22514
+Pender-VA,1840037368,Pender,Pender,VA,Pender-VA,Virginia,51059,Fairfax,38.8707,-77.3689,,,1803.2,point,FALSE,America/New_York,22033
+Passapatanzy-VA,1840026759,Passapatanzy,Passapatanzy,VA,Passapatanzy-VA,Virginia,51099,King George,38.2941,-77.3267,,,136,polygon,FALSE,America/New_York,22485
+Castlewood-VA,1840006489,Castlewood,Castlewood,VA,Castlewood-VA,Virginia,51167,Russell,36.8782,-82.2878,,,97.4,polygon,FALSE,America/New_York,24224
+Portsmouth-VA,1840003872,Portsmouth,Portsmouth,VA,Portsmouth-VA,Virginia,51740,Portsmouth (city),36.8468,-76.354,95252,95252,1087,polygon,TRUE,America/New_York,23703 23709 23708 23704 23707 23701 23702 23705
+Newport News-VA,1840003862,Newport News,Newport News,VA,Newport News-VA,Virginia,51700,Newport News (city),37.1052,-76.5185,181825,181825,1019,polygon,TRUE,America/New_York,23601 23604 23605 23606 23607 23602 23603 23608 23609 23612 23628
+Westlake Corner-VA,1840006477,Westlake Corner,Westlake Corner,VA,Westlake Corner-VA,Virginia,51067,Franklin,37.1234,-79.6971,,,18,polygon,FALSE,America/New_York,24184 24121 24101
+Shenandoah Retreat-VA,1840026669,Shenandoah Retreat,Shenandoah Retreat,VA,Shenandoah Retreat-VA,Virginia,51043,Clarke,39.1373,-77.8637,,,209.7,polygon,FALSE,America/New_York,20135
+Sugar Grove-VA,1840006513,Sugar Grove,Sugar Grove,VA,Sugar Grove-VA,Virginia,51173,Smyth,36.7689,-81.4075,,,159.9,polygon,FALSE,America/New_York,24375
+Harriston-VA,1840026752,Harriston,Harriston,VA,Harriston-VA,Virginia,51015,Augusta,38.212,-78.8283,,,108.8,polygon,FALSE,America/New_York,24441
+Cluster Springs-VA,1840024811,Cluster Springs,Cluster Springs,VA,Cluster Springs-VA,Virginia,51083,Halifax,36.6128,-78.9221,,,100.7,polygon,FALSE,America/New_York,24520 24592 24535
+Alberene-VA,1840037323,Alberene,Alberene,VA,Alberene-VA,Virginia,51003,Albemarle,37.8865,-78.6164,,,84.6,point,FALSE,America/New_York,22937
+Mavisdale-VA,1840037435,Mavisdale,Mavisdale,VA,Mavisdale-VA,Virginia,51027,Buchanan,37.1984,-82.0079,,,92.6,point,FALSE,America/New_York,24631
+Pauls Crossroads-VA,1840037402,Pauls Crossroads,Pauls Crossroads,VA,Pauls Crossroads-VA,Virginia,51057,Essex,37.8651,-76.9102,,,60.2,point,FALSE,America/New_York,22560
+Irvington-VA,1840006369,Irvington,Irvington,VA,Irvington-VA,Virginia,51103,Lancaster,37.6621,-76.4205,415,415,106,polygon,TRUE,America/New_York,22480
+Madisonville-VA,1840037295,Madisonville,Madisonville,VA,Madisonville-VA,Virginia,51037,Charlotte,37.1882,-78.69,,,7.3,point,FALSE,America/New_York,23923
+Nottoway Court House-VA,1840026872,Nottoway Court House,Nottoway Court House,VA,Nottoway Court House-VA,Virginia,51135,Nottoway,37.1271,-78.0734,,,44.5,polygon,FALSE,America/New_York,23930 23955
+Guinea-VA,1840023876,Guinea,Guinea,VA,Guinea-VA,Virginia,51033,Caroline,38.1437,-77.4378,,,80.3,point,FALSE,America/New_York,22580
+Timberlake-VA,1840006437,Timberlake,Timberlake,VA,Timberlake-VA,Virginia,51031,Campbell,37.3165,-79.248,,,613.1,polygon,FALSE,America/New_York,24551 24550 24502
+Spotsylvania Courthouse-VA,1840006269,Spotsylvania Courthouse,Spotsylvania Courthouse,VA,Spotsylvania Courthouse-VA,Virginia,51177,Spotsylvania,38.1982,-77.5885,,,282.6,polygon,FALSE,America/New_York,22553 22551
+Forest-VA,1840006398,Forest,Forest,VA,Forest-VA,Virginia,51019,Bedford,37.3727,-79.2829,,,136.1,polygon,FALSE,America/New_York,24551
+Nelsonia-VA,1840024737,Nelsonia,Nelsonia,VA,Nelsonia-VA,Virginia,51001,Accomack,37.8224,-75.5895,,,100.1,polygon,FALSE,America/New_York,23407 23414 23308
+Weedonville-VA,1840037406,Weedonville,Weedonville,VA,Weedonville-VA,Virginia,51099,King George,38.2985,-77.1586,,,121.1,point,FALSE,America/New_York,22485
+Oak Hall-VA,1840024739,Oak Hall,Oak Hall,VA,Oak Hall-VA,Virginia,51001,Accomack,37.9307,-75.5469,,,74.5,polygon,FALSE,America/New_York,23416 23396
+Cape Charles-VA,1840006416,Cape Charles,Cape Charles,VA,Cape Charles-VA,Virginia,51131,Northampton,37.257,-76.0093,1039,1039,112,polygon,TRUE,America/New_York,23310
+Brosville-VA,1840037421,Brosville,Brosville,VA,Brosville-VA,Virginia,51143,Pittsylvania,36.6196,-79.602,,,109.5,point,FALSE,America/New_York,24541
+Basye-VA,1840006000,Basye,Basye,VA,Basye-VA,Virginia,51171,Shenandoah,38.8181,-78.7659,,,90.6,polygon,FALSE,America/New_York,22842 22810
+Paytes-VA,1840037276,Paytes,Paytes,VA,Paytes-VA,Virginia,51177,Spotsylvania,38.2274,-77.8328,,,84.3,point,FALSE,America/New_York,22551
+New Kent-VA,1840026835,New Kent,New Kent,VA,New Kent-VA,Virginia,51127,New Kent,37.5095,-76.9862,,,38.5,polygon,FALSE,America/New_York,23124
+South Hill-VA,1840006541,South Hill,South Hill,VA,South Hill-VA,Virginia,51117,Mecklenburg,36.7254,-78.1287,4647,4471,175,polygon,TRUE,America/New_York,23970 23950
+Gladys-VA,1840037265,Gladys,Gladys,VA,Gladys-VA,Virginia,51031,Campbell,37.1632,-79.0736,,,86.5,point,FALSE,America/New_York,24554
+Volens-VA,1840037308,Volens,Volens,VA,Volens-VA,Virginia,51083,Halifax,36.9351,-79.0122,,,18.5,point,FALSE,America/New_York,24577
+Hiwassee-VA,1840024802,Hiwassee,Hiwassee,VA,Hiwassee-VA,Virginia,51155,Pulaski,36.9682,-80.7044,,,71.7,polygon,FALSE,America/New_York,24347
+Hewlett-VA,1840037309,Hewlett,Hewlett,VA,Hewlett-VA,Virginia,51085,Hanover,37.9224,-77.5764,,,20.5,point,FALSE,America/New_York,22546
+Dillwyn-VA,1840006384,Dillwyn,Dillwyn,VA,Dillwyn-VA,Virginia,51029,Buckingham,37.5411,-78.4613,445,445,266,polygon,TRUE,America/New_York,23936
+Haymarket-VA,1840006103,Haymarket,Haymarket,VA,Haymarket-VA,Virginia,51153,Prince William,38.8123,-77.6365,1970,1970,1353,polygon,TRUE,America/New_York,20155 20169 20168
+Dranesville-VA,1840024565,Dranesville,Dranesville,VA,Dranesville-VA,Virginia,51059,Fairfax,38.9955,-77.3693,,,505.6,polygon,FALSE,America/New_York,20170
+Brentsville-VA,1840037373,Brentsville,Brentsville,VA,Brentsville-VA,Virginia,51153,Prince William,38.6882,-77.4961,,,143.6,point,FALSE,America/New_York,20136
+Brookneal-VA,1840006439,Brookneal,Brookneal,VA,Brookneal-VA,Virginia,51031,Campbell,37.0532,-78.9486,1116,1116,122,polygon,TRUE,America/New_York,24528
+Bluefield-VA,1840006451,Bluefield,Bluefield,VA,Bluefield-VA,Virginia,51185,Tazewell,37.2353,-81.2746,4968,4968,205,polygon,TRUE,America/New_York,24605
+Hollymead-VA,1840024700,Hollymead,Hollymead,VA,Hollymead-VA,Virginia,51003,Albemarle,38.1266,-78.4386,,,775.4,polygon,FALSE,America/New_York,22911
+Wellington-VA,1840037407,Wellington,Wellington,VA,Wellington-VA,Virginia,51059,Fairfax,38.7457,-77.0553,,,1010.4,point,FALSE,America/New_York,22308
+Boyce-VA,1840005893,Boyce,Boyce,VA,Boyce-VA,Virginia,51043,Clarke,39.0932,-78.0602,615,615,662,polygon,TRUE,America/New_York,22620
+Plum Creek-VA,1840037471,Plum Creek,Plum Creek,VA,Plum Creek-VA,Virginia,51121,Montgomery,37.1267,-80.5046,,,111.1,polygon,FALSE,America/New_York,24073
+South Chesconessex-VA,1840037280,South Chesconessex,South Chesconessex,VA,South Chesconessex-VA,Virginia,51001,Accomack,37.7432,-75.7785,,,59.3,point,FALSE,America/New_York,23417
+Mount Jackson-VA,1840006002,Mount Jackson,Mount Jackson,VA,Mount Jackson-VA,Virginia,51171,Shenandoah,38.7423,-78.6445,2041,2041,289,polygon,TRUE,America/New_York,22847 22842
+Honaker-VA,1840006490,Honaker,Honaker,VA,Honaker-VA,Virginia,51167,Russell,37.0156,-81.9686,1365,1365,313,polygon,TRUE,America/New_York,24260
+Newsoms-VA,1840006522,Newsoms,Newsoms,VA,Newsoms-VA,Virginia,51175,Southampton,36.6262,-77.1248,310,310,239,polygon,TRUE,America/New_York,23874
+Eastville-VA,1840006414,Eastville,Eastville,VA,Eastville-VA,Virginia,51131,Northampton,37.351,-75.9404,168,168,290,polygon,TRUE,America/New_York,23310 23347
+Fork Union-VA,1840037411,Fork Union,Fork Union,VA,Fork Union-VA,Virginia,51065,Fluvanna,37.7632,-78.2622,,,117.3,point,FALSE,America/New_York,23055
+Marshall-VA,1840024592,Marshall,Marshall,VA,Marshall-VA,Virginia,51061,Fauquier,38.8661,-77.8453,,,815,polygon,FALSE,America/New_York,20198 20115 20116
+Buckner-VA,1840037334,Buckner,Buckner,VA,Buckner-VA,Virginia,51109,Louisa,37.9621,-77.7728,,,76.6,point,FALSE,America/New_York,23024
+Annandale-VA,1840006011,Annandale,Annandale,VA,Annandale-VA,Virginia,51059,Fairfax,38.8324,-77.196,,,2847.4,polygon,FALSE,America/New_York,22042 22003
+Gasburg-VA,1840024816,Gasburg,Gasburg,VA,Gasburg-VA,Virginia,51025,Brunswick,36.5588,-77.8721,,,18.3,polygon,FALSE,America/New_York,23887 23857
+Nickelsville-VA,1840006546,Nickelsville,Nickelsville,VA,Nickelsville-VA,Virginia,51169,Scott,36.7517,-82.416,366,366,291,polygon,TRUE,America/New_York,24271
+Mechanicsburg-VA,1840037394,Mechanicsburg,Mechanicsburg,VA,Mechanicsburg-VA,Virginia,51021,Bland,37.1482,-80.9412,,,28.3,point,FALSE,America/New_York,24315
+Salem-VA,1840001719,Salem,Salem,VA,Salem-VA,Virginia,51775,Salem (city),37.2864,-80.0554,25549,25549,683,polygon,TRUE,America/New_York,24153 24155 24157
+Linville-VA,1840037347,Linville,Linville,VA,Linville-VA,Virginia,51165,Rockingham,38.5204,-78.8375,,,150.9,point,FALSE,America/New_York,22834
+Laurel-VA,1840006393,Laurel,Laurel,VA,Laurel-VA,Virginia,51087,Henrico,37.6375,-77.5062,,,1983,polygon,FALSE,America/New_York,23228
+Leesburg-VA,1840005872,Leesburg,Leesburg,VA,Leesburg-VA,Virginia,51107,Loudoun,39.1057,-77.5543,52607,52607,1639,polygon,TRUE,America/New_York,20175 20176 20177 20178
+East Highland Park-VA,1840006388,East Highland Park,East Highland Park,VA,East Highland Park-VA,Virginia,51087,Henrico,37.5771,-77.3864,,,1497.7,polygon,FALSE,America/New_York,23222 23223
+Palmyra-VA,1840026797,Palmyra,Palmyra,VA,Palmyra-VA,Virginia,51065,Fluvanna,37.8652,-78.2627,,,34.2,polygon,FALSE,America/New_York,22963
+Walters-VA,1840037456,Walters,Walters,VA,Walters-VA,Virginia,51093,Isle of Wight,36.7724,-76.8494,,,51.4,point,FALSE,America/New_York,23315
+Farnham-VA,1840037377,Farnham,Farnham,VA,Farnham-VA,Virginia,51159,Richmond,37.8854,-76.625,,,40.9,point,FALSE,America/New_York,22460
+Cheriton-VA,1840006417,Cheriton,Cheriton,VA,Cheriton-VA,Virginia,51131,Northampton,37.2919,-75.9687,472,472,181,polygon,TRUE,America/New_York,23310 23316
+Warfield-VA,1840024817,Warfield,Warfield,VA,Warfield-VA,Virginia,51025,Brunswick,36.8976,-77.8194,,,26.2,polygon,FALSE,America/New_York,23889
+Cumberland-VA,1840026820,Cumberland,Cumberland,VA,Cumberland-VA,Virginia,51049,Cumberland,37.4914,-78.2577,,,63.3,polygon,FALSE,America/New_York,23040
+Rockdell-VA,1840037318,Rockdell,Rockdell,VA,Rockdell-VA,Virginia,51167,Russell,36.8907,-81.9537,,,11,point,FALSE,America/New_York,24609
+Dooms-VA,1840006242,Dooms,Dooms,VA,Dooms-VA,Virginia,51015,Augusta,38.1028,-78.8494,,,172.2,polygon,FALSE,America/New_York,22980
+Hillsville-VA,1840006526,Hillsville,Hillsville,VA,Hillsville-VA,Virginia,51035,Carroll,36.7612,-80.7371,2655,2655,104,polygon,TRUE,America/New_York,24343
+Pulaski-VA,1840006469,Pulaski,Pulaski,VA,Pulaski-VA,Virginia,51155,Pulaski,37.0531,-80.7624,15625,8837,431,polygon,TRUE,America/New_York,24301
+Baskerville-VA,1840024858,Baskerville,Baskerville,VA,Baskerville-VA,Virginia,51117,Mecklenburg,36.6844,-78.2732,,,31.2,polygon,FALSE,America/New_York,23915 23970
+Stony Creek-VA,1840006499,Stony Creek,Stony Creek,VA,Stony Creek-VA,Virginia,51183,Sussex,36.948,-77.4001,188,188,126,polygon,TRUE,America/New_York,23882
+New Church-VA,1840024738,New Church,New Church,VA,New Church-VA,Virginia,51001,Accomack,37.9826,-75.5292,,,65.2,polygon,FALSE,America/New_York,23395 23415
+Rileyville-VA,1840037445,Rileyville,Rileyville,VA,Rileyville-VA,Virginia,51139,Page,38.7651,-78.3881,,,109,point,FALSE,America/New_York,22650
+Greenbriar-VA,1840024572,Greenbriar,Greenbriar,VA,Greenbriar-VA,Virginia,51059,Fairfax,38.8717,-77.397,,,1696.3,polygon,FALSE,America/New_York,22033
+Staunton-VA,1840001670,Staunton,Staunton,VA,Staunton-VA,Virginia,51790,Staunton (city),38.1593,-79.0608,58077,24363,471,polygon,TRUE,America/New_York,24401 24402
+Mendota-VA,1840037395,Mendota,Mendota,VA,Mendota-VA,Virginia,51191,Washington,36.7109,-82.3015,,,26,point,FALSE,America/New_York,24270
+New Market-VA,1840006003,New Market,New Market,VA,New Market-VA,Virginia,51171,Shenandoah,38.6461,-78.6708,2207,2207,422,polygon,TRUE,America/New_York,22844
+Edinburg-VA,1840006001,Edinburg,Edinburg,VA,Edinburg-VA,Virginia,51171,Shenandoah,38.8236,-78.5633,1068,1068,539,polygon,TRUE,America/New_York,22824
+Fairview-VA,1840024860,Fairview,Fairview,VA,Fairview-VA,Virginia,51117,Mecklenburg,36.8292,-78.4653,,,59.1,polygon,FALSE,America/New_York,23924
+Wylliesburg-VA,1840037300,Wylliesburg,Wylliesburg,VA,Wylliesburg-VA,Virginia,51037,Charlotte,36.8554,-78.5903,,,16,point,FALSE,America/New_York,23976
+Dahlgren-VA,1840006266,Dahlgren,Dahlgren,VA,Dahlgren-VA,Virginia,51099,King George,38.3444,-77.0624,,,559.1,polygon,FALSE,America/New_York,22485
+Stuarts Draft-VA,1840006247,Stuarts Draft,Stuarts Draft,VA,Stuarts Draft-VA,Virginia,51015,Augusta,38.0245,-79.0308,,,182.9,polygon,FALSE,America/New_York,24477
+Stephens City-VA,1840005777,Stephens City,Stephens City,VA,Stephens City-VA,Virginia,51069,Frederick,39.0904,-78.2229,1967,1967,318,polygon,TRUE,America/New_York,22655
+Wytheville-VA,1840006504,Wytheville,Wytheville,VA,Wytheville-VA,Virginia,51197,Wythe,36.953,-81.0881,7114,8101,215,polygon,TRUE,America/New_York,24382
+Middlebrook-VA,1840024685,Middlebrook,Middlebrook,VA,Middlebrook-VA,Virginia,51015,Augusta,38.0552,-79.2182,,,55.6,polygon,FALSE,America/New_York,24459 24401
+Oakton-VA,1840006023,Oakton,Oakton,VA,Oakton-VA,Virginia,51059,Fairfax,38.8887,-77.3017,,,1653.7,polygon,FALSE,America/New_York,22031 22124 22181 22185
+Covesville-VA,1840037339,Covesville,Covesville,VA,Covesville-VA,Virginia,51003,Albemarle,37.8901,-78.7047,,,19,point,FALSE,America/New_York,22931
+Lyndhurst-VA,1840006245,Lyndhurst,Lyndhurst,VA,Lyndhurst-VA,Virginia,51015,Augusta,38.0221,-78.9516,,,164,polygon,FALSE,America/New_York,22952 22980 24477
+Axton-VA,1840037420,Axton,Axton,VA,Axton-VA,Virginia,51089,Henry,36.6596,-79.712,,,49.1,point,FALSE,America/New_York,24054
+Charlotte Court House-VA,1840006465,Charlotte Court House,Charlotte Court House,VA,Charlotte Court House-VA,Virginia,51037,Charlotte,37.0564,-78.6378,527,527,50,polygon,TRUE,America/New_York,23923
+Bristow-VA,1840037410,Bristow,Bristow,VA,Bristow-VA,Virginia,51153,Prince William,38.7229,-77.5361,,,140.2,point,FALSE,America/New_York,20136
+Champlain-VA,1840037337,Champlain,Champlain,VA,Champlain-VA,Virginia,51057,Essex,38.0135,-76.9927,,,8.4,point,FALSE,America/New_York,22436
+Pantops-VA,1840037472,Pantops,Pantops,VA,Pantops-VA,Virginia,51003,Albemarle,38.0308,-78.4444,,,477.1,polygon,FALSE,America/New_York,22911
+Courtland-VA,1840006520,Courtland,Courtland,VA,Courtland-VA,Virginia,51175,Southampton,36.7123,-77.062,1247,1247,525,polygon,TRUE,America/New_York,23837
+Baileys Crossroads-VA,1840037327,Baileys Crossroads,Baileys Crossroads,VA,Baileys Crossroads-VA,Virginia,51059,Fairfax,38.8477,-77.1306,,,2007.4,polygon,FALSE,America/New_York,22041 22311
+Goode-VA,1840037366,Goode,Goode,VA,Goode-VA,Virginia,51019,Bedford,37.3588,-79.3917,,,45.1,point,FALSE,America/New_York,24556
+Bristol-VA,1840003879,Bristol,Bristol,VA,Bristol-VA,Virginia,51520,Bristol (city),36.618,-82.1607,16960,16960,502,polygon,TRUE,America/New_York,24201 24202 24203 24205 24209
+Ashland-VA,1840006341,Ashland,Ashland,VA,Ashland-VA,Virginia,51085,Hanover,37.7597,-77.4715,7649,7649,414,polygon,TRUE,America/New_York,23005
+Monroe-VA,1840037439,Monroe,Monroe,VA,Monroe-VA,Virginia,51009,Amherst,37.5021,-79.1278,,,146.8,point,FALSE,America/New_York,24574
+Lincolnia-VA,1840006034,Lincolnia,Lincolnia,VA,Lincolnia-VA,Virginia,51059,Fairfax,38.8158,-77.1543,,,6502,polygon,FALSE,America/New_York,22312
+Reston-VA,1840006025,Reston,Reston,VA,Reston-VA,Virginia,51059,Fairfax,38.9497,-77.346,,,3788.4,polygon,FALSE,America/New_York,20194 20191 20190 20101 20102 20103 20104 20195 20196 22096
+Five Mile Fork-VA,1840037430,Five Mile Fork,Five Mile Fork,VA,Five Mile Fork-VA,Virginia,51177,Spotsylvania,38.2901,-77.5533,,,927.2,point,FALSE,America/New_York,22407
+Hampton-VA,1840003866,Hampton,Hampton,VA,Hampton-VA,Virginia,51650,Hampton (city),37.0551,-76.3629,135410,135410,1015,polygon,TRUE,America/New_York,23666 23664 23665 23651 23605 23661 23663 23669 23630 23667 23668 23670 23681
+Healing Springs-VA,1840037382,Healing Springs,Healing Springs,VA,Healing Springs-VA,Virginia,51017,Bath,37.961,-79.8626,,,59.5,point,FALSE,America/New_York,24445
+Nassawadox-VA,1840006418,Nassawadox,Nassawadox,VA,Nassawadox-VA,Virginia,51131,Northampton,37.4763,-75.8591,494,494,288,polygon,TRUE,America/New_York,23413
+Halifax-VA,1840006505,Halifax,Halifax,VA,Halifax-VA,Virginia,51083,Halifax,36.7612,-78.9279,1246,1246,127,polygon,TRUE,America/New_York,24558
+Woodbridge-VA,1840006106,Woodbridge,Woodbridge,VA,Woodbridge-VA,Virginia,51153,Prince William,38.6569,-77.2403,,,953.9,polygon,FALSE,America/New_York,22191
+Alton-VA,1840037325,Alton,Alton,VA,Alton-VA,Virginia,51083,Halifax,36.5732,-79.0028,,,8.9,point,FALSE,America/New_York,24520
+Bergton-VA,1840037331,Bergton,Bergton,VA,Bergton-VA,Virginia,51165,Rockingham,38.7657,-78.9489,,,4.5,point,FALSE,America/New_York,22811
+Reedville-VA,1840037444,Reedville,Reedville,VA,Reedville-VA,Virginia,51133,Northumberland,37.8421,-76.2758,,,159.3,point,FALSE,America/New_York,22539
+Sandston-VA,1840026826,Sandston,Sandston,VA,Sandston-VA,Virginia,51087,Henrico,37.512,-77.3149,,,1152.1,polygon,FALSE,America/New_York,23150 23250 23231
+Starkey-VA,1840037370,Starkey,Starkey,VA,Starkey-VA,Virginia,51161,Roanoke,37.2007,-79.9986,,,487.2,point,FALSE,America/New_York,24018
+Central Garage-VA,1840024751,Central Garage,Central Garage,VA,Central Garage-VA,Virginia,51101,King William,37.7458,-77.1315,,,93.9,polygon,FALSE,America/New_York,23086 23009
+Spring Grove-VA,1840037303,Spring Grove,Spring Grove,VA,Spring Grove-VA,Virginia,51181,Surry,37.1657,-76.9733,,,17.6,point,FALSE,America/New_York,23881
+New Canton-VA,1840037352,New Canton,New Canton,VA,New Canton-VA,Virginia,51029,Buckingham,37.7051,-78.2994,,,39.2,point,FALSE,America/New_York,23123
+King William-VA,1840026809,King William,King William,VA,King William-VA,Virginia,51101,King William,37.6882,-77.0212,,,15.8,polygon,FALSE,America/New_York,23086
+Fort Blackmore-VA,1840037362,Fort Blackmore,Fort Blackmore,VA,Fort Blackmore-VA,Virginia,51169,Scott,36.7745,-82.5868,,,33.3,point,FALSE,America/New_York,24250
+Roanoke-VA,1840003858,Roanoke,Roanoke,VA,Roanoke-VA,Virginia,51770,Roanoke (city),37.2784,-79.9581,215793,99660,904,polygon,TRUE,America/New_York,24014 24015 24016 24017 24011 24012 24013 24001 24002 24003 24004 24005 24006 24007 24008 24009 24010 24022 24023 24024 24025 24026 24027 24028 24029 24030 24031 24032 24033 24034 24035 24036 24037 24038 24040 24042 24043 24050
+Crewe-VA,1840006462,Crewe,Crewe,VA,Crewe-VA,Virginia,51135,Nottoway,37.1812,-78.1307,4118,2216,424,polygon,TRUE,America/New_York,23930
+Williamsburg-VA,1840001720,Williamsburg,Williamsburg,VA,Williamsburg-VA,Virginia,51830,Williamsburg (city),37.2691,-76.7075,81840,15214,658,polygon,TRUE,America/New_York,23187 23185 23186
+Hybla Valley-VA,1840006031,Hybla Valley,Hybla Valley,VA,Hybla Valley-VA,Virginia,51059,Fairfax,38.7485,-77.0822,,,1857.8,polygon,FALSE,America/New_York,22306
+Yorkshire-VA,1840006107,Yorkshire,Yorkshire,VA,Yorkshire-VA,Virginia,51153,Prince William,38.7881,-77.4494,,,502.6,polygon,FALSE,America/New_York,20111
+The Plains-VA,1840006057,The Plains,The Plains,VA,The Plains-VA,Virginia,51061,Fauquier,38.8621,-77.7745,228,228,332,polygon,TRUE,America/New_York,20198
+Buckhall-VA,1840026707,Buckhall,Buckhall,VA,Buckhall-VA,Virginia,51153,Prince William,38.725,-77.4472,,,203.1,polygon,FALSE,America/New_York,20111 20110 20112
+Unionville-VA,1840037454,Unionville,Unionville,VA,Unionville-VA,Virginia,51137,Orange,38.2599,-77.9683,,,81.3,point,FALSE,America/New_York,22567
+Glen Allen-VA,1840006390,Glen Allen,Glen Allen,VA,Glen Allen-VA,Virginia,51087,Henrico,37.666,-77.4838,,,824.4,polygon,FALSE,America/New_York,23060 23059 23058
+Capron-VA,1840006519,Capron,Capron,VA,Capron-VA,Virginia,51175,Southampton,36.7093,-77.2013,156,156,364,polygon,TRUE,America/New_York,23829
+Fishersville-VA,1840006240,Fishersville,Fishersville,VA,Fishersville-VA,Virginia,51015,Augusta,38.1004,-78.9686,,,284.8,polygon,FALSE,America/New_York,22980 22939 24401
+Raven-VA,1840006450,Raven,Raven,VA,Raven-VA,Virginia,51185,Tazewell,37.0938,-81.8603,,,397,polygon,FALSE,America/New_York,24612 24649 24639
+Sterling-VA,1840024508,Sterling,Sterling,VA,Sterling-VA,Virginia,51107,Loudoun,39.0052,-77.4052,,,1887.4,polygon,FALSE,America/New_York,20164 20163 20167
+Simpsons-VA,1840037279,Simpsons,Simpsons,VA,Simpsons-VA,Virginia,51063,Floyd,37.0379,-80.2045,,,42.5,point,FALSE,America/New_York,24072
+Centenary-VA,1840037259,Centenary,Centenary,VA,Centenary-VA,Virginia,51029,Buckingham,37.7093,-78.5114,,,17.3,point,FALSE,America/New_York,24590
+Narrows-VA,1840006432,Narrows,Narrows,VA,Narrows-VA,Virginia,51071,Giles,37.3317,-80.8084,4108,1971,601,polygon,TRUE,America/New_York,24124
+Ewing-VA,1840001726,Ewing,Ewing,VA,Ewing-VA,Virginia,51105,Lee,36.6381,-83.4291,,,123.1,polygon,FALSE,America/New_York,24248
+Woodburn-VA,1840024584,Woodburn,Woodburn,VA,Woodburn-VA,Virginia,51059,Fairfax,38.8503,-77.2322,,,763.1,polygon,FALSE,America/New_York,22042 22031 22003
+Kinsale-VA,1840037387,Kinsale,Kinsale,VA,Kinsale-VA,Virginia,51193,Westmoreland,38.0296,-76.5808,,,153.3,point,FALSE,America/New_York,22488
+Victoria-VA,1840003865,Victoria,Victoria,VA,Victoria-VA,Virginia,51111,Lunenburg,36.9947,-78.2242,1671,1671,229,polygon,TRUE,America/New_York,23974
+Callaghan-VA,1840024750,Callaghan,Callaghan,VA,Callaghan-VA,Virginia,51005,Alleghany,37.8112,-80.0871,,,62,polygon,FALSE,America/New_York,24426
+Shenandoah Shores-VA,1840026698,Shenandoah Shores,Shenandoah Shores,VA,Shenandoah Shores-VA,Virginia,51187,Warren,38.9621,-78.1414,,,533.1,polygon,FALSE,America/New_York,22630
+Warm Springs-VA,1840026778,Warm Springs,Warm Springs,VA,Warm Springs-VA,Virginia,51017,Bath,38.0463,-79.7826,,,44.2,polygon,FALSE,America/New_York,24484
+Front Royal-VA,1840006045,Front Royal,Front Royal,VA,Front Royal-VA,Virginia,51187,Warren,38.926,-78.1837,19557,15153,567,polygon,TRUE,America/New_York,22630
+Opal-VA,1840024595,Opal,Opal,VA,Opal-VA,Virginia,51061,Fauquier,38.6201,-77.8049,,,73,polygon,FALSE,America/New_York,22712 20186
+Shawnee Land-VA,1840037404,Shawnee Land,Shawnee Land,VA,Shawnee Land-VA,Virginia,51069,Frederick,39.1975,-78.3464,,,370.1,polygon,FALSE,America/New_York,22602
+Big Island-VA,1840026836,Big Island,Big Island,VA,Big Island-VA,Virginia,51019,Bedford,37.5351,-79.3615,,,181,polygon,FALSE,America/New_York,24526
+Trammel-VA,1840037419,Trammel,Trammel,VA,Trammel-VA,Virginia,51051,Dickenson,37.0145,-82.2938,,,49.9,point,FALSE,America/New_York,24237
+Sebrell-VA,1840037447,Sebrell,Sebrell,VA,Sebrell-VA,Virginia,51175,Southampton,36.7838,-77.1275,,,11.3,point,FALSE,America/New_York,23837
+Brandermill-VA,1840024784,Brandermill,Brandermill,VA,Brandermill-VA,Virginia,51041,Chesterfield,37.434,-77.6522,,,900.2,polygon,FALSE,America/New_York,23112
+Chesterfield-VA,1840037424,Chesterfield,Chesterfield,VA,Chesterfield-VA,Virginia,51041,Chesterfield,37.3771,-77.5058,,,874.1,point,FALSE,America/New_York,23832
+Nelson-VA,1840037415,Nelson,Nelson,VA,Nelson-VA,Virginia,51117,Mecklenburg,36.5624,-78.7047,,,9.6,point,FALSE,America/New_York,24598
+Meadowview-VA,1840037462,Meadowview,Meadowview,VA,Meadowview-VA,Virginia,51191,Washington,36.7604,-81.8629,,,224.5,point,FALSE,America/New_York,24361
+Brucetown-VA,1840037374,Brucetown,Brucetown,VA,Brucetown-VA,Virginia,51069,Frederick,39.2545,-78.0667,,,128.3,point,FALSE,America/New_York,22624
+Brokenburg-VA,1840037287,Brokenburg,Brokenburg,VA,Brokenburg-VA,Virginia,51177,Spotsylvania,38.1457,-77.7189,,,73.1,point,FALSE,America/New_York,22551
+Sudley-VA,1840006104,Sudley,Sudley,VA,Sudley-VA,Virginia,51153,Prince William,38.7878,-77.4961,,,2104.5,polygon,FALSE,America/New_York,20109
+Jeffersonton-VA,1840037294,Jeffersonton,Jeffersonton,VA,Jeffersonton-VA,Virginia,51047,Culpeper,38.6371,-77.915,,,61.7,point,FALSE,America/New_York,22724
+Alexandria-VA,1840003837,Alexandria,Alexandria,VA,Alexandria-VA,Virginia,51510,Alexandria (city),38.8184,-77.0861,155810,155810,3997,polygon,TRUE,America/New_York,22302 22301 22304 22305 22311 22314 20598 22313 22320 22331 22332 22333 22334
+Elmo-VA,1840037291,Elmo,Elmo,VA,Elmo-VA,Virginia,51083,Halifax,36.6765,-79.1222,,,17.5,point,FALSE,America/New_York,24594
+Belmont-VA,1840024496,Belmont,Belmont,VA,Belmont-VA,Virginia,51107,Loudoun,39.0651,-77.4963,,,405.1,polygon,FALSE,America/New_York,20147
+Scottsville-VA,1840006281,Scottsville,Scottsville,VA,Scottsville-VA,Virginia,51003,Albemarle,37.8064,-78.492,607,607,153,polygon,TRUE,America/New_York,24590
+Red Ash-VA,1840037443,Red Ash,Red Ash,VA,Red Ash-VA,Virginia,51185,Tazewell,37.1134,-81.871,,,59.1,point,FALSE,America/New_York,24639
+Deltaville-VA,1840026817,Deltaville,Deltaville,VA,Deltaville-VA,Virginia,51119,Middlesex,37.5525,-76.3331,,,145.8,polygon,FALSE,America/New_York,23043
+Kings Park-VA,1840024574,Kings Park,Kings Park,VA,Kings Park-VA,Virginia,51059,Fairfax,38.8026,-77.2396,,,2084,polygon,FALSE,America/New_York,22151
+Natural Bridge Station-VA,1840037351,Natural Bridge Station,Natural Bridge Station,VA,Natural Bridge Station-VA,Virginia,51163,Rockbridge,37.621,-79.5059,,,112.7,point,FALSE,America/New_York,24579
+South Riding-VA,1840024507,South Riding,South Riding,VA,South Riding-VA,Virginia,51107,Loudoun,38.9121,-77.5132,,,901.4,polygon,FALSE,America/New_York,20152
+Bull Run-VA,1840006093,Bull Run,Bull Run,VA,Bull Run-VA,Virginia,51153,Prince William,38.7802,-77.5204,,,3922.4,polygon,FALSE,America/New_York,20109
+North Shore-VA,1840006474,North Shore,North Shore,VA,North Shore-VA,Virginia,51067,Franklin,37.0778,-79.6517,,,53.2,polygon,FALSE,America/New_York,24121
+Pimmit Hills-VA,1840006024,Pimmit Hills,Pimmit Hills,VA,Pimmit Hills-VA,Virginia,51059,Fairfax,38.9105,-77.1991,,,1996.7,polygon,FALSE,America/New_York,22043
+Phenix-VA,1840006467,Phenix,Phenix,VA,Phenix-VA,Virginia,51037,Charlotte,37.0811,-78.7485,219,219,73,polygon,TRUE,America/New_York,23959
+Gainesville-VA,1840006098,Gainesville,Gainesville,VA,Gainesville-VA,Virginia,51153,Prince William,38.7931,-77.6347,,,383.1,polygon,FALSE,America/New_York,20155 20169 20156
+Woodlawn-VA,1840006527,Woodlawn,Woodlawn,VA,Woodlawn-VA,Virginia,51035,Carroll,36.7385,-80.8166,,,95.5,polygon,FALSE,America/New_York,24381 24343
+Linton Hall-VA,1840006100,Linton Hall,Linton Hall,VA,Linton Hall-VA,Virginia,51153,Prince William,38.7551,-77.575,,,2016,polygon,FALSE,America/New_York,20155 20136
+Rivanna-VA,1840024703,Rivanna,Rivanna,VA,Rivanna-VA,Virginia,51003,Albemarle,38.1249,-78.4608,,,114.5,point,FALSE,America/New_York,22911
+Glenvar-VA,1840026859,Glenvar,Glenvar,VA,Glenvar-VA,Virginia,51161,Roanoke,37.276,-80.1257,,,83.7,polygon,FALSE,America/New_York,24153
+Norton-VA,1840003870,Norton,Norton,VA,Norton-VA,Virginia,51720,Norton (city),36.9317,-82.626,10259,3864,199,polygon,TRUE,America/New_York,24273
+Fieldale-VA,1840006550,Fieldale,Fieldale,VA,Fieldale-VA,Virginia,51089,Henry,36.7009,-79.9424,,,229.2,polygon,FALSE,America/New_York,24089
+Burke-VA,1840006014,Burke,Burke,VA,Burke-VA,Virginia,51059,Fairfax,38.7773,-77.2633,,,1569,polygon,FALSE,America/New_York,22015 22153 22152 22009
+Vienna-VA,1840003829,Vienna,Vienna,VA,Vienna-VA,Virginia,51059,Fairfax,38.8996,-77.2597,16468,16468,1442,polygon,TRUE,America/New_York,22180 22183
+Draper-VA,1840024801,Draper,Draper,VA,Draper-VA,Virginia,51155,Pulaski,37.0012,-80.7373,,,120.5,polygon,FALSE,America/New_York,24324
+Motley-VA,1840026887,Motley,Motley,VA,Motley-VA,Virginia,51143,Pittsylvania,37.0657,-79.3474,,,102.1,polygon,FALSE,America/New_York,24563 24557
+Spotsylvania-VA,1840037450,Spotsylvania,Spotsylvania,VA,Spotsylvania-VA,Virginia,51177,Spotsylvania,38.201,-77.5892,,,112.9,point,FALSE,America/New_York,22553
+Laurel Hill-VA,1840025639,Laurel Hill,Laurel Hill,VA,Laurel Hill-VA,Virginia,51059,Fairfax,38.7026,-77.2422,,,454.6,polygon,FALSE,America/New_York,22079 22199
+Paint Bank-VA,1840037317,Paint Bank,Paint Bank,VA,Paint Bank-VA,Virginia,51045,Craig,37.569,-80.262,,,8.8,point,FALSE,America/New_York,24131
+Pocahontas-VA,1840006453,Pocahontas,Pocahontas,VA,Pocahontas-VA,Virginia,51185,Tazewell,37.3069,-81.3433,376,376,246,polygon,TRUE,America/New_York,24635
+Lynchburg-VA,1840003855,Lynchburg,Lynchburg,VA,Lynchburg-VA,Virginia,51680,Lynchburg (city),37.4004,-79.1911,123795,80212,630,polygon,TRUE,America/New_York,24504 24502 24503 24501 24505 24506 24513 24514 24515
+Aquia Harbour-VA,1840006216,Aquia Harbour,Aquia Harbour,VA,Aquia Harbour-VA,Virginia,51179,Stafford,38.4597,-77.3806,,,955.2,polygon,FALSE,America/New_York,22554
+Trout Dale-VA,1840037463,Trout Dale,Trout Dale,VA,Trout Dale-VA,Virginia,51077,Grayson,36.7022,-81.4413,170,170,21,polygon,TRUE,America/New_York,24378
+Morrisville-VA,1840037398,Morrisville,Morrisville,VA,Morrisville-VA,Virginia,51061,Fauquier,38.5018,-77.7,,,111.2,point,FALSE,America/New_York,22712
+Washington-VA,1840006130,Washington,Washington,VA,Washington-VA,Virginia,51157,Rappahannock,38.7121,-78.1599,126,126,185,polygon,TRUE,America/New_York,22747
+Makemie Park-VA,1840024732,Makemie Park,Makemie Park,VA,Makemie Park-VA,Virginia,51001,Accomack,37.9106,-75.5845,,,8.2,polygon,FALSE,America/New_York,23442
+Chester-VA,1840006410,Chester,Chester,VA,Chester-VA,Virginia,51041,Chesterfield,37.3531,-77.4342,,,659.2,polygon,FALSE,America/New_York,23831
+Iron Gate-VA,1840006366,Iron Gate,Iron Gate,VA,Iron Gate-VA,Virginia,51005,Alleghany,37.7986,-79.7904,377,377,441,polygon,TRUE,America/New_York,24448
+Seven Corners-VA,1840006038,Seven Corners,Seven Corners,VA,Seven Corners-VA,Virginia,51059,Fairfax,38.8657,-77.1445,,,2382.5,polygon,FALSE,America/New_York,22044 22041
+Seaford-VA,1840037278,Seaford,Seaford,VA,Seaford-VA,Virginia,51199,York,37.1982,-76.433,,,604,point,FALSE,America/New_York,23696
+Pennington Gap-VA,1840006535,Pennington Gap,Pennington Gap,VA,Pennington Gap-VA,Virginia,51105,Lee,36.7595,-83.0294,1774,1774,422,polygon,TRUE,America/New_York,24277
+West Point-VA,1840006367,West Point,West Point,VA,West Point-VA,Virginia,51101,King William,37.5519,-76.8017,2681,3314,253,polygon,TRUE,America/New_York,23181
+Madison-VA,1840006186,Madison,Madison,VA,Madison-VA,Virginia,51113,Madison,38.379,-78.2586,218,218,402,polygon,TRUE,America/New_York,22727
+Groveton-VA,1840006029,Groveton,Groveton,VA,Groveton-VA,Virginia,51059,Fairfax,38.7606,-77.0979,,,2886.8,polygon,FALSE,America/New_York,22306 22307
+Disputanta-VA,1840037341,Disputanta,Disputanta,VA,Disputanta-VA,Virginia,51149,Prince George,37.1243,-77.2258,,,89.7,point,FALSE,America/New_York,23842
+Goochland-VA,1840026810,Goochland,Goochland,VA,Goochland-VA,Virginia,51075,Goochland,37.6973,-77.8944,,,146.1,polygon,FALSE,America/New_York,23063
+Oriskany-VA,1840037416,Oriskany,Oriskany,VA,Oriskany-VA,Virginia,51023,Botetourt,37.6165,-79.9837,,,15.6,point,FALSE,America/New_York,24130
+Chula-VA,1840037338,Chula,Chula,VA,Chula-VA,Virginia,51007,Amelia,37.3885,-77.9031,,,99.6,point,FALSE,America/New_York,23002
+Captains Cove-VA,1840024722,Captains Cove,Captains Cove,VA,Captains Cove-VA,Virginia,51001,Accomack,38.0003,-75.4173,,,274.5,polygon,FALSE,America/New_York,23356
+Lorton-VA,1840006035,Lorton,Lorton,VA,Lorton-VA,Virginia,51059,Fairfax,38.6984,-77.2163,,,2739.9,polygon,FALSE,America/New_York,22079
+Laymantown-VA,1840006377,Laymantown,Laymantown,VA,Laymantown-VA,Virginia,51023,Botetourt,37.3638,-79.8523,,,245.9,polygon,FALSE,America/New_York,24175
+Rich Creek-VA,1840006435,Rich Creek,Rich Creek,VA,Rich Creek-VA,Virginia,51071,Giles,37.3833,-80.8207,754,754,343,polygon,TRUE,America/New_York,24147
+Amherst-VA,1840006373,Amherst,Amherst,VA,Amherst-VA,Virginia,51009,Amherst,37.5815,-79.0508,2205,2205,173,polygon,TRUE,America/New_York,24521
+Port Royal-VA,1840006304,Port Royal,Port Royal,VA,Port Royal-VA,Virginia,51033,Caroline,38.1697,-77.1912,197,197,725,polygon,TRUE,America/New_York,22535
+Pleasant Valley-VA,1840037403,Pleasant Valley,Pleasant Valley,VA,Pleasant Valley-VA,Virginia,51107,Loudoun,38.9121,-77.4758,,,300.6,point,FALSE,America/New_York,20152
+Crozet-VA,1840006280,Crozet,Crozet,VA,Crozet-VA,Virginia,51003,Albemarle,38.0645,-78.6962,,,669.3,polygon,FALSE,America/New_York,22932
+Emporia-VA,1840003875,Emporia,Emporia,VA,Emporia-VA,Virginia,51595,Emporia (city),36.6953,-77.5356,6393,5305,296,polygon,TRUE,America/New_York,23847
+Midland-VA,1840024593,Midland,Midland,VA,Midland-VA,Virginia,51061,Fauquier,38.5984,-77.7213,,,50.8,polygon,FALSE,America/New_York,22728
+Scotland-VA,1840026876,Scotland,Scotland,VA,Scotland-VA,Virginia,51181,Surry,37.1812,-76.7966,,,202.5,polygon,FALSE,America/New_York,23883
+Greenville-VA,1840006243,Greenville,Greenville,VA,Greenville-VA,Virginia,51015,Augusta,38.0036,-79.1522,,,177.9,polygon,FALSE,America/New_York,24440
+Woodstock-VA,1840006006,Woodstock,Woodstock,VA,Woodstock-VA,Virginia,51171,Shenandoah,38.8753,-78.5158,7225,5248,518,polygon,TRUE,America/New_York,22664
+Fairfield-VA,1840037344,Fairfield,Fairfield,VA,Fairfield-VA,Virginia,51163,Rockbridge,37.8793,-79.2895,,,73.6,point,FALSE,America/New_York,24435
+Ruckersville-VA,1840026750,Ruckersville,Ruckersville,VA,Ruckersville-VA,Virginia,51079,Greene,38.2314,-78.3756,,,328.8,polygon,FALSE,America/New_York,22968
+Arcola-VA,1840024494,Arcola,Arcola,VA,Arcola-VA,Virginia,51107,Loudoun,38.9448,-77.5305,,,73.3,polygon,FALSE,America/New_York,20166
+Dundas-VA,1840037289,Dundas,Dundas,VA,Dundas-VA,Virginia,51111,Lunenburg,36.9149,-78.0217,,,21.9,point,FALSE,America/New_York,23938
+Appomattox-VA,1840006412,Appomattox,Appomattox,VA,Appomattox-VA,Virginia,51011,Appomattox,37.359,-78.8265,1769,1769,301,polygon,TRUE,America/New_York,24522
+Richlands-VA,1840006454,Richlands,Richlands,VA,Richlands-VA,Virginia,51185,Tazewell,37.0877,-81.8082,8938,5428,366,polygon,TRUE,America/New_York,24641 24612
+Floris-VA,1840024569,Floris,Floris,VA,Floris-VA,Virginia,51059,Fairfax,38.9347,-77.4082,,,874.3,polygon,FALSE,America/New_York,20171
+Massies Mill-VA,1840037393,Massies Mill,Massies Mill,VA,Massies Mill-VA,Virginia,51125,Nelson,37.7771,-79.0011,,,25,point,FALSE,America/New_York,22967
+Dayton-VA,1840006137,Dayton,Dayton,VA,Dayton-VA,Virginia,51165,Rockingham,38.4173,-78.9412,1609,1609,602,polygon,TRUE,America/New_York,22821
+Shenandoah Farms-VA,1840026699,Shenandoah Farms,Shenandoah Farms,VA,Shenandoah Farms-VA,Virginia,51187,Warren,38.9793,-78.0471,,,375.8,polygon,FALSE,America/New_York,22630
+Poquoson-VA,1840003863,Poquoson,Poquoson,VA,Poquoson-VA,Virginia,51735,Poquoson (city),37.1318,-76.3569,12017,12017,301,polygon,TRUE,America/New_York,23662
+Floyd-VA,1840006496,Floyd,Floyd,VA,Floyd-VA,Virginia,51063,Floyd,36.9118,-80.3184,442,442,374,polygon,TRUE,America/New_York,24091
+North Springfield-VA,1840006022,North Springfield,North Springfield,VA,North Springfield-VA,Virginia,51059,Fairfax,38.8024,-77.2028,,,1995.9,polygon,FALSE,America/New_York,22151
+Mantua-VA,1840006036,Mantua,Mantua,VA,Mantua-VA,Virginia,51059,Fairfax,38.8526,-77.2571,,,1472.8,polygon,FALSE,America/New_York,22031
+Painter-VA,1840006328,Painter,Painter,VA,Painter-VA,Virginia,51001,Accomack,37.5852,-75.7838,227,227,137,polygon,TRUE,America/New_York,23420
+Chatmoss-VA,1840006552,Chatmoss,Chatmoss,VA,Chatmoss-VA,Virginia,51089,Henry,36.6758,-79.7981,,,10.8,polygon,FALSE,America/New_York,24054 24112
+New Castle-VA,1840006397,New Castle,New Castle,VA,New Castle-VA,Virginia,51045,Craig,37.5013,-80.1119,150,150,351,polygon,TRUE,America/New_York,24127
+Bon Air-VA,1840006409,Bon Air,Bon Air,VA,Bon Air-VA,Virginia,51041,Chesterfield,37.5187,-77.5713,,,599.9,polygon,FALSE,America/New_York,23235
+Prospect-VA,1840037441,Prospect,Prospect,VA,Prospect-VA,Virginia,51147,Prince Edward,37.3029,-78.5592,,,60.3,point,FALSE,America/New_York,23960
+Bedford-VA,1840001713,Bedford,Bedford,VA,Bedford-VA,Virginia,51019,Bedford,37.3359,-79.5181,7259,6615,291,polygon,TRUE,America/New_York,24523
+Carrsville-VA,1840024809,Carrsville,Carrsville,VA,Carrsville-VA,Virginia,51093,Isle of Wight,36.7088,-76.8371,,,111,polygon,FALSE,America/New_York,23851 23315
+Union Hall-VA,1840006476,Union Hall,Union Hall,VA,Union Hall-VA,Virginia,51067,Franklin,37.0205,-79.6833,,,8.3,polygon,FALSE,America/New_York,24176
+Hurley-VA,1840037383,Hurley,Hurley,VA,Hurley-VA,Virginia,51027,Buchanan,37.4204,-82.0198,,,29.7,point,FALSE,America/New_York,24620
+Hartfield-VA,1840037431,Hartfield,Hartfield,VA,Hartfield-VA,Virginia,51119,Middlesex,37.5512,-76.4461,,,21.8,point,FALSE,America/New_York,23071
+Abingdon-VA,1840006529,Abingdon,Abingdon,VA,Abingdon-VA,Virginia,51191,Washington,36.7089,-81.9711,8083,8083,386,polygon,TRUE,America/New_York,24210 24211 24212
+Austinville-VA,1840037312,Austinville,Austinville,VA,Austinville-VA,Virginia,51197,Wythe,36.8512,-80.912,,,138,point,FALSE,America/New_York,24312
+Tasley-VA,1840024746,Tasley,Tasley,VA,Tasley-VA,Virginia,51001,Accomack,37.7124,-75.697,,,70.9,polygon,FALSE,America/New_York,23301 23441
+Max Meadows-VA,1840006502,Max Meadows,Max Meadows,VA,Max Meadows-VA,Virginia,51197,Wythe,36.9798,-80.9678,,,167.5,polygon,FALSE,America/New_York,24382 24360
+Franklin-VA,1840003876,Franklin,Franklin,VA,Franklin-VA,Virginia,51620,Franklin (city),36.6831,-76.9386,8913,8306,390,polygon,TRUE,America/New_York,23851
+Belmont Estates-VA,1840026719,Belmont Estates,Belmont Estates,VA,Belmont Estates-VA,Virginia,51165,Rockingham,38.4465,-78.9228,,,694.3,polygon,FALSE,America/New_York,22801
+Oakpark-VA,1840037401,Oakpark,Oakpark,VA,Oakpark-VA,Virginia,51113,Madison,38.3668,-78.16,,,13.7,point,FALSE,America/New_York,22730
+Bellamy-VA,1840037286,Bellamy,Bellamy,VA,Bellamy-VA,Virginia,51073,Gloucester,37.3979,-76.5725,,,77.5,point,FALSE,America/New_York,23061
+York Haven Anchorage-VA,1840037448,York Haven Anchorage,York Haven Anchorage,VA,York Haven Anchorage-VA,Virginia,51199,York,37.6654,-78.6946,,,428.8,polygon,FALSE,America/New_York,23921
+Lawrenceville-VA,1840006510,Lawrenceville,Lawrenceville,VA,Lawrenceville-VA,Virginia,51025,Brunswick,36.7564,-77.8539,2997,1069,358,polygon,TRUE,America/New_York,23868
+Hopewell-VA,1840003859,Hopewell,Hopewell,VA,Hopewell-VA,Virginia,51670,Hopewell (city),37.2914,-77.2985,22735,22735,852,polygon,TRUE,America/New_York,23860
+Tuckahoe-VA,1840006395,Tuckahoe,Tuckahoe,VA,Tuckahoe-VA,Virginia,51087,Henrico,37.5878,-77.5858,,,1003.7,polygon,FALSE,America/New_York,23229 23226 23238
+Keysville-VA,1840006466,Keysville,Keysville,VA,Keysville-VA,Virginia,51037,Charlotte,37.039,-78.4804,808,808,269,polygon,TRUE,America/New_York,23947
+Jefferson-VA,1840037469,Jefferson,Jefferson,VA,Jefferson-VA,Virginia,51059,Fairfax,38.8646,-77.1878,,,2510.6,point,FALSE,America/New_York,22042
+Grundy-VA,1840006429,Grundy,Grundy,VA,Grundy-VA,Virginia,51027,Buchanan,37.2754,-82.0988,958,958,74,polygon,TRUE,America/New_York,24614
+Broadford-VA,1840037332,Broadford,Broadford,VA,Broadford-VA,Virginia,51173,Smyth,36.9273,-81.6726,,,40.6,point,FALSE,America/New_York,24370
+Gloucester Courthouse-VA,1840037468,Gloucester Courthouse,Gloucester Courthouse,VA,Gloucester Courthouse-VA,Virginia,51073,Gloucester,37.4053,-76.526,,,450.4,polygon,FALSE,America/New_York,23061
+Wilsons-VA,1840037311,Wilsons,Wilsons,VA,Wilsons-VA,Virginia,51053,Dinwiddie,37.1393,-77.8658,,,23.6,point,FALSE,America/New_York,23894
+Bentonville-VA,1840037330,Bentonville,Bentonville,VA,Bentonville-VA,Virginia,51187,Warren,38.8318,-78.3164,,,129.6,point,FALSE,America/New_York,22610
+Saltville-VA,1840006516,Saltville,Saltville,VA,Saltville-VA,Virginia,51173,Smyth,36.8751,-81.7643,2009,2009,97,polygon,TRUE,America/New_York,24370
+Lancaster-VA,1840037426,Lancaster,Lancaster,VA,Lancaster-VA,Virginia,51103,Lancaster,37.7675,-76.4549,,,20.8,polygon,FALSE,America/New_York,22503
+Cave Spring-VA,1840006440,Cave Spring,Cave Spring,VA,Cave Spring-VA,Virginia,51161,Roanoke,37.2254,-80.0073,,,1353.7,polygon,FALSE,America/New_York,24018
+Louisa-VA,1840006312,Louisa,Louisa,VA,Louisa-VA,Virginia,51109,Louisa,38.0212,-77.9984,1650,1650,348,polygon,TRUE,America/New_York,23093
+Vesuvius-VA,1840037322,Vesuvius,Vesuvius,VA,Vesuvius-VA,Virginia,51163,Rockbridge,37.9062,-79.1973,,,44.9,point,FALSE,America/New_York,24483
+Surry-VA,1840006472,Surry,Surry,VA,Surry-VA,Virginia,51181,Surry,37.1371,-76.8333,225,225,105,polygon,TRUE,America/New_York,23883 23881
+Remington-VA,1840006056,Remington,Remington,VA,Remington-VA,Virginia,51061,Fauquier,38.5346,-77.8082,631,631,1102,polygon,TRUE,America/New_York,22734
+Center Cross-VA,1840037260,Center Cross,Center Cross,VA,Center Cross-VA,Virginia,51057,Essex,37.8046,-76.7788,,,30.2,point,FALSE,America/New_York,22437
+Riverview-VA,1840037353,Riverview,Riverview,VA,Riverview-VA,Virginia,51195,Wise,36.9326,-82.4846,,,637.1,polygon,FALSE,America/New_York,24230
+Gloucester Point-VA,1840006399,Gloucester Point,Gloucester Point,VA,Gloucester Point-VA,Virginia,51073,Gloucester,37.2766,-76.5043,,,662.3,polygon,FALSE,America/New_York,23062 23072 23018 23131 23184
+Ararat-VA,1840037257,Ararat,Ararat,VA,Ararat-VA,Virginia,51141,Patrick,36.599,-80.5106,,,24.5,point,FALSE,America/New_York,24053
+Alleghany-VA,1840037324,Alleghany,Alleghany,VA,Alleghany-VA,Virginia,51005,Alleghany,37.7473,-80.2403,,,8.7,point,FALSE,America/New_York,24426
+Hillsboro-VA,1840005871,Hillsboro,Hillsboro,VA,Hillsboro-VA,Virginia,51107,Loudoun,39.1997,-77.7244,98,98,445,polygon,TRUE,America/New_York,20132
+Springfield-VA,1840006039,Springfield,Springfield,VA,Springfield-VA,Virginia,51059,Fairfax,38.7809,-77.1839,,,3631.7,polygon,FALSE,America/New_York,22151 22150 22156 22158 22159 22160 22161
+Callands-VA,1840037288,Callands,Callands,VA,Callands-VA,Virginia,51143,Pittsylvania,36.8201,-79.5867,,,8.2,point,FALSE,America/New_York,24531
+Jolivue-VA,1840006244,Jolivue,Jolivue,VA,Jolivue-VA,Virginia,51015,Augusta,38.115,-79.0668,,,219.2,polygon,FALSE,America/New_York,24401
+Nokesville-VA,1840006096,Nokesville,Nokesville,VA,Nokesville-VA,Virginia,51153,Prince William,38.694,-77.5758,,,93.7,polygon,FALSE,America/New_York,20181 20182
+Cherry Hill-VA,1840026712,Cherry Hill,Cherry Hill,VA,Cherry Hill-VA,Virginia,51153,Prince William,38.5696,-77.2894,,,29.3,polygon,FALSE,America/New_York,22191 22026
+Horse Pasture-VA,1840006555,Horse Pasture,Horse Pasture,VA,Horse Pasture-VA,Virginia,51089,Henry,36.6313,-79.9514,,,99.9,polygon,FALSE,America/New_York,24148 24165 24112
+Buena Vista-VA,1840003851,Buena Vista,Buena Vista,VA,Buena Vista-VA,Virginia,51530,Buena Vista (city),37.7316,-79.3565,6341,6452,371,polygon,TRUE,America/New_York,24416
+Hollins-VA,1840006441,Hollins,Hollins,VA,Hollins-VA,Virginia,51161,Roanoke,37.3434,-79.9535,,,1270.4,polygon,FALSE,America/New_York,24020 24019
+Merrimac-VA,1840037349,Merrimac,Merrimac,VA,Merrimac-VA,Virginia,51121,Montgomery,37.1903,-80.4245,,,244.2,polygon,FALSE,America/New_York,24060
+Crimora-VA,1840006241,Crimora,Crimora,VA,Crimora-VA,Virginia,51015,Augusta,38.1618,-78.8413,,,62.4,polygon,FALSE,America/New_York,22980 24431
+Tangier-VA,1840006331,Tangier,Tangier,VA,Tangier-VA,Virginia,51001,Accomack,37.8251,-75.991,722,722,223,polygon,TRUE,America/New_York,23440
+Atlantic-VA,1840024718,Atlantic,Atlantic,VA,Atlantic-VA,Virginia,51001,Accomack,37.9023,-75.5058,,,104.8,polygon,FALSE,America/New_York,23442 23303 23483
+Saint Paul-VA,1840006484,Saint Paul,Saint Paul,VA,Saint Paul-VA,Virginia,51195,Wise,36.9067,-82.3158,907,907,263,polygon,TRUE,America/New_York,24224 24283
+Bacova-VA,1840037428,Bacova,Bacova,VA,Bacova-VA,Virginia,51017,Bath,38.054,-79.8437,,,104.9,point,FALSE,America/New_York,24412
+Chamberlayne-VA,1840037466,Chamberlayne,Chamberlayne,VA,Chamberlayne-VA,Virginia,51087,Henrico,37.628,-77.4288,,,661,polygon,FALSE,America/New_York,23227
+Mount Vernon-VA,1840006020,Mount Vernon,Mount Vernon,VA,Mount Vernon-VA,Virginia,51059,Fairfax,38.714,-77.1043,,,6241.8,polygon,FALSE,America/New_York,22309 22121
+Snowville-VA,1840024805,Snowville,Snowville,VA,Snowville-VA,Virginia,51155,Pulaski,37.026,-80.5739,,,33.9,polygon,FALSE,America/New_York,24347
+Piney River-VA,1840037418,Piney River,Piney River,VA,Piney River-VA,Virginia,51125,Nelson,37.7051,-79.0231,,,6.4,point,FALSE,America/New_York,22967
+Yorktown-VA,1840006444,Yorktown,Yorktown,VA,Yorktown-VA,Virginia,51199,York,37.2352,-76.5146,,,243.8,polygon,FALSE,America/New_York,23690
+Lake Ridge-VA,1840006099,Lake Ridge,Lake Ridge,VA,Lake Ridge-VA,Virginia,51153,Prince William,38.6843,-77.3059,,,3088.7,polygon,FALSE,America/New_York,22192
+Cedar Bluff-VA,1840006452,Cedar Bluff,Cedar Bluff,VA,Cedar Bluff-VA,Virginia,51185,Tazewell,37.0868,-81.7632,1061,1061,183,polygon,TRUE,America/New_York,24641 24609
+Accomac-VA,1840006320,Accomac,Accomac,VA,Accomac-VA,Virginia,51001,Accomack,37.7195,-75.6675,499,499,501,polygon,TRUE,America/New_York,23301
+Harman-VA,1840037381,Harman,Harman,VA,Harman-VA,Virginia,51027,Buchanan,37.2932,-82.2021,,,24.6,point,FALSE,America/New_York,24614
+Caylor-VA,1840037358,Caylor,Caylor,VA,Caylor-VA,Virginia,51105,Lee,36.6306,-83.4944,,,61.9,point,FALSE,America/New_York,24248
+Mathews-VA,1840026849,Mathews,Mathews,VA,Mathews-VA,Virginia,51115,Mathews,37.4365,-76.3245,,,136.8,polygon,FALSE,America/New_York,23109
+McMullin-VA,1840026899,McMullin,McMullin,VA,McMullin-VA,Virginia,51173,Smyth,36.8179,-81.5775,,,81.4,polygon,FALSE,America/New_York,24354
+Loch Lomond-VA,1840006101,Loch Lomond,Loch Lomond,VA,Loch Lomond-VA,Virginia,51153,Prince William,38.7811,-77.4817,,,2143.7,polygon,FALSE,America/New_York,20111 20110
+Riverdale-VA,1840024814,Riverdale,Riverdale,VA,Riverdale-VA,Virginia,51083,Halifax,36.6764,-78.8942,,,85.2,polygon,FALSE,America/New_York,24592
+Cripple Creek-VA,1840037340,Cripple Creek,Cripple Creek,VA,Cripple Creek-VA,Virginia,51197,Wythe,36.821,-81.0984,,,18.8,point,FALSE,America/New_York,24322
+Branchville-VA,1840006518,Branchville,Branchville,VA,Branchville-VA,Virginia,51175,Southampton,36.5698,-77.2501,116,116,104,polygon,TRUE,America/New_York,23828
+King and Queen Court House-VA,1840026804,King and Queen Court House,King and Queen Court House,VA,King and Queen Court House-VA,Virginia,51097,King and Queen,37.6683,-76.8783,,,42.3,polygon,FALSE,America/New_York,23085
+Riverton-VA,1840037277,Riverton,Riverton,VA,Riverton-VA,Virginia,51187,Warren,38.9465,-78.1994,,,122.9,point,FALSE,America/New_York,22630
+South Boston-VA,1840037461,South Boston,South Boston,VA,South Boston-VA,Virginia,51083,Halifax,36.7131,-78.9135,8109,7950,234,polygon,TRUE,America/New_York,24592
+Ruther Glen-VA,1840037446,Ruther Glen,Ruther Glen,VA,Ruther Glen-VA,Virginia,51033,Caroline,37.9287,-77.4558,,,22.3,point,FALSE,America/New_York,22546
+Wolf Trap-VA,1840006042,Wolf Trap,Wolf Trap,VA,Wolf Trap-VA,Virginia,51059,Fairfax,38.9395,-77.2842,,,419.1,polygon,FALSE,America/New_York,22181 22182
+Clifton-VA,1840006043,Clifton,Clifton,VA,Clifton-VA,Virginia,51059,Fairfax,38.7802,-77.3866,292,292,459,polygon,TRUE,America/New_York,20124
+Independent Hill-VA,1840026708,Independent Hill,Independent Hill,VA,Independent Hill-VA,Virginia,51153,Prince William,38.6404,-77.409,,,179.4,polygon,FALSE,America/New_York,22193 20112
+Christiansburg-VA,1840006447,Christiansburg,Christiansburg,VA,Christiansburg-VA,Virginia,51121,Montgomery,37.1411,-80.4028,22088,22088,603,polygon,TRUE,America/New_York,24073 24068
+Onancock-VA,1840006326,Onancock,Onancock,VA,Onancock-VA,Virginia,51001,Accomack,37.7101,-75.7434,1266,1266,464,polygon,TRUE,America/New_York,23417
+Keller-VA,1840006324,Keller,Keller,VA,Keller-VA,Virginia,51001,Accomack,37.6213,-75.7641,176,176,190,polygon,TRUE,America/New_York,23401 23420
+Colonial Heights-VA,1840003860,Colonial Heights,Colonial Heights,VA,Colonial Heights-VA,Virginia,51570,Colonial Heights (city),37.265,-77.3969,17772,17772,912,polygon,TRUE,America/New_York,23834
+Shadwell-VA,1840037299,Shadwell,Shadwell,VA,Shadwell-VA,Virginia,51003,Albemarle,38.0129,-78.3956,,,17.1,point,FALSE,America/New_York,22911
+Warsaw-VA,1840006314,Warsaw,Warsaw,VA,Warsaw-VA,Virginia,51159,Richmond,37.9603,-76.761,1485,1485,187,polygon,TRUE,America/New_York,22572

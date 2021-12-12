@@ -1,0 +1,494 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Navajo Dam-NM,1840024851,Navajo Dam,Navajo Dam,NM,Navajo Dam-NM,New Mexico,35045,San Juan,36.7981,-107.7045,,,0.2,polygon,FALSE,America/Denver,87419 87412
+Gascon-NM,1840033616,Gascon,Gascon,NM,Gascon-NM,New Mexico,35033,Mora,35.8867,-105.4461,,,9.9,point,FALSE,America/Denver,87742
+Taos Ski Valley-NM,1840033551,Taos Ski Valley,Taos Ski Valley,NM,Taos Ski Valley-NM,New Mexico,35055,Taos,36.5908,-105.4374,69,69,11,polygon,TRUE,America/Denver,87525
+Crownpoint-NM,1840017763,Crownpoint,Crownpoint,NM,Crownpoint-NM,New Mexico,35031,McKinley,35.688,-108.1494,,,208.7,polygon,FALSE,America/Denver,87313
+Playas-NM,1840025102,Playas,Playas,NM,Playas-NM,New Mexico,35023,Hidalgo,31.9126,-108.5364,,,4,polygon,FALSE,America/Denver,88009
+Tse Bonito-NM,1840019092,Tse Bonito,Tse Bonito,NM,Tse Bonito-NM,New Mexico,35031,McKinley,35.6525,-109.0361,,,86.2,polygon,FALSE,America/Denver,86515
+Pleasant Hill-NM,1840033525,Pleasant Hill,Pleasant Hill,NM,Pleasant Hill-NM,New Mexico,35009,Curry,34.5204,-103.0738,,,8.7,point,FALSE,America/Denver,88135
+Bayard-NM,1840019408,Bayard,Bayard,NM,Bayard-NM,New Mexico,35017,Grant,32.7584,-108.1337,4136,2235,902,polygon,TRUE,America/Denver,88023
+Pueblo of Sandia Village-NM,1840033713,Pueblo of Sandia Village,Pueblo of Sandia Village,NM,Pueblo of Sandia Village-NM,New Mexico,35043,Sandoval,35.2536,-106.5706,,,321.9,polygon,FALSE,America/Denver,87004
+Alameda-NM,1840033603,Alameda,Alameda,NM,Alameda-NM,New Mexico,35001,Bernalillo,35.1867,-106.6181,,,573.9,point,FALSE,America/Denver,87114
+Virden-NM,1840023041,Virden,Virden,NM,Virden-NM,New Mexico,35023,Hidalgo,32.6889,-109.0016,133,133,229,polygon,TRUE,America/Denver,88045
+Hondo-NM,1840033684,Hondo,Hondo,NM,Hondo-NM,New Mexico,35027,Lincoln,33.3876,-105.2708,,,24.2,point,FALSE,America/Denver,88336
+Timberon-NM,1840019402,Timberon,Timberon,NM,Timberon-NM,New Mexico,35035,Otero,32.6359,-105.6924,,,19.7,polygon,FALSE,America/Denver,88350
+Moquino-NM,1840024965,Moquino,Moquino,NM,Moquino-NM,New Mexico,35006,Cibola,35.1801,-107.3701,,,7.2,polygon,FALSE,America/Denver,87014
+Encinal-NM,1840017870,Encinal,Encinal,NM,Encinal-NM,New Mexico,35006,Cibola,35.1308,-107.4368,,,94.6,polygon,FALSE,America/Denver,87038 87040
+Seboyeta-NM,1840024969,Seboyeta,Seboyeta,NM,Seboyeta-NM,New Mexico,35006,Cibola,35.2241,-107.4049,,,58.8,polygon,FALSE,America/Denver,87014
+La Cueva-NM,1840016908,La Cueva,La Cueva,NM,La Cueva-NM,New Mexico,35043,Sandoval,35.8695,-106.6485,,,137.8,polygon,FALSE,America/Denver,87025
+Chimayo-NM,1840017667,Chimayo,Chimayo,NM,Chimayo-NM,New Mexico,35039,Rio Arriba,35.9976,-105.9363,,,382.1,polygon,FALSE,America/Denver,87522
+Jacona-NM,1840024914,Jacona,Jacona,NM,Jacona-NM,New Mexico,35049,Santa Fe,35.8887,-106.0386,,,238.4,polygon,FALSE,America/Denver,87506
+Tajique-NM,1840019190,Tajique,Tajique,NM,Tajique-NM,New Mexico,35057,Torrance,34.76,-106.301,,,115.8,polygon,FALSE,America/Denver,87061 87016
+Sabinal-NM,1840033689,Sabinal,Sabinal,NM,Sabinal-NM,New Mexico,35053,Socorro,34.4937,-106.8075,,,18.4,point,FALSE,America/Denver,87006
+Questa-NM,1840022639,Questa,Questa,NM,Questa-NM,New Mexico,35055,Taos,36.7114,-105.5936,1754,1754,132,polygon,TRUE,America/Denver,87556
+Organ-NM,1840025086,Organ,Organ,NM,Organ-NM,New Mexico,35013,Doña Ana,32.4251,-106.6024,,,141.9,polygon,FALSE,America/Denver,88052
+White Signal-NM,1840025079,White Signal,White Signal,NM,White Signal-NM,New Mexico,35017,Grant,32.5724,-108.3512,,,7.2,polygon,FALSE,America/Denver,88061
+El Vado-NM,1840033682,El Vado,El Vado,NM,El Vado-NM,New Mexico,35039,Rio Arriba,36.5939,-106.7286,,,15.7,point,FALSE,America/Denver,87575
+Los Trujillos-NM,1840033533,Los Trujillos,Los Trujillos,NM,Los Trujillos-NM,New Mexico,35061,Valencia,34.6467,-106.7609,,,310.3,point,FALSE,America/Denver,87002
+La Huerta-NM,1840018082,La Huerta,La Huerta,NM,La Huerta-NM,New Mexico,35015,Eddy,32.449,-104.2231,,,311.2,polygon,FALSE,America/Denver,88220
+Tome-NM,1840026966,Tome,Tome,NM,Tome-NM,New Mexico,35061,Valencia,34.7397,-106.723,,,134.4,polygon,FALSE,America/Denver,87031 87060
+Moriarty-NM,1840020469,Moriarty,Moriarty,NM,Moriarty-NM,New Mexico,35057,Torrance,35.0064,-106.0482,1786,1786,117,polygon,TRUE,America/Denver,87035
+Jemez Springs-NM,1840022683,Jemez Springs,Jemez Springs,NM,Jemez Springs-NM,New Mexico,35043,Sandoval,35.7735,-106.6907,255,255,20,polygon,TRUE,America/Denver,87025
+Ojo Amarillo-NM,1840033722,Ojo Amarillo,Ojo Amarillo,NM,Ojo Amarillo-NM,New Mexico,35045,San Juan,36.6942,-108.3704,,,221.1,polygon,FALSE,America/Denver,87416
+Canon-NM,1840024903,Cañon,Canon,NM,Canon-NM,New Mexico,35043,Sandoval,35.6718,-106.7527,,,49.3,polygon,FALSE,America/Denver,87024
+Correo-NM,1840033681,Correo,Correo,NM,Correo-NM,New Mexico,35061,Valencia,34.955,-107.1848,,,5.9,point,FALSE,America/Denver,87026
+Sombrillo-NM,1840019100,Sombrillo,Sombrillo,NM,Sombrillo-NM,New Mexico,35049,Santa Fe,35.9802,-106.0353,,,182.6,polygon,FALSE,America/Denver,87532
+Vadito-NM,1840019013,Vadito,Vadito,NM,Vadito-NM,New Mexico,35055,Taos,36.1929,-105.6754,,,129,polygon,FALSE,America/Denver,87579
+Santa Ana Pueblo-NM,1840019068,Santa Ana Pueblo,Santa Ana Pueblo,NM,Santa Ana Pueblo-NM,New Mexico,35043,Sandoval,35.3495,-106.5202,,,2.9,polygon,FALSE,America/Denver,87001 87004 87043
+San Fidel-NM,1840024966,San Fidel,San Fidel,NM,San Fidel-NM,New Mexico,35006,Cibola,35.1025,-107.5975,,,52.4,polygon,FALSE,America/Denver,87049
+Ojo Feliz-NM,1840033571,Ojo Feliz,Ojo Feliz,NM,Ojo Feliz-NM,New Mexico,35033,Mora,36.0578,-105.1183,,,3.7,point,FALSE,America/Denver,87735
+McIntosh-NM,1840026965,McIntosh,McIntosh,NM,McIntosh-NM,New Mexico,35057,Torrance,34.8804,-106.0577,,,19.6,polygon,FALSE,America/Denver,87032 87035 87016
+Alcalde-NM,1840017666,Alcalde,Alcalde,NM,Alcalde-NM,New Mexico,35039,Rio Arriba,36.0854,-106.0575,,,175.8,polygon,FALSE,America/Denver,87511
+Sunland Park-NM,1840033664,Sunland Park,Sunland Park,NM,Sunland Park-NM,New Mexico,35013,Doña Ana,31.8187,-106.5932,16544,16544,506,polygon,TRUE,America/Denver,88063 88008
+Newcomb-NM,1840018991,Newcomb,Newcomb,NM,Newcomb-NM,New Mexico,35045,San Juan,36.2834,-108.7081,,,15.1,polygon,FALSE,America/Denver,87455
+San Rafael-NM,1840024968,San Rafael,San Rafael,NM,San Rafael-NM,New Mexico,35006,Cibola,35.0878,-107.8895,,,303.2,polygon,FALSE,America/Denver,87051
+San Mateo-NM,1840024967,San Mateo,San Mateo,NM,San Mateo-NM,New Mexico,35006,Cibola,35.3321,-107.6469,,,38.3,polygon,FALSE,America/Denver,87020
+Raton-NM,1840020353,Raton,Raton,NM,Raton-NM,New Mexico,35007,Colfax,36.8849,-104.4396,5807,6103,296,polygon,TRUE,America/Denver,87740
+Chamisal-NM,1840017678,Chamisal,Chamisal,NM,Chamisal-NM,New Mexico,35055,Taos,36.1725,-105.7459,,,139.5,polygon,FALSE,America/Denver,87521
+Mayhill-NM,1840025060,Mayhill,Mayhill,NM,Mayhill-NM,New Mexico,35035,Otero,32.8962,-105.496,,,26.9,polygon,FALSE,America/Denver,88339
+Arroyo Seco-NM,1840026909,Arroyo Seco,Arroyo Seco,NM,Arroyo Seco-NM,New Mexico,35055,Taos,36.5215,-105.586,,,151.4,polygon,FALSE,America/Denver,87529 87571 87514
+Sherman-NM,1840033578,Sherman,Sherman,NM,Sherman-NM,New Mexico,35017,Grant,32.7467,-107.8864,,,4.7,point,FALSE,America/Denver,88041
+Nambe-NM,1840024915,Nambe,Nambe,NM,Nambe-NM,New Mexico,35049,Santa Fe,35.8984,-105.9667,,,392.7,polygon,FALSE,America/Denver,87506
+Sedan-NM,1840033635,Sedan,Sedan,NM,Sedan-NM,New Mexico,35059,Union,36.1445,-103.1305,,,2.2,point,FALSE,America/Denver,88436
+Dahlia-NM,1840033557,Dahlia,Dahlia,NM,Dahlia-NM,New Mexico,35019,Guadalupe,35.1214,-105.2769,,,2.9,point,FALSE,America/Denver,87711
+Fence Lake-NM,1840024964,Fence Lake,Fence Lake,NM,Fence Lake-NM,New Mexico,35006,Cibola,34.669,-108.6802,,,11.9,polygon,FALSE,America/Denver,87315
+Cedar Hill-NM,1840024848,Cedar Hill,Cedar Hill,NM,Cedar Hill-NM,New Mexico,35045,San Juan,36.9296,-107.8871,,,151.2,polygon,FALSE,America/Denver,87410
+La Cienega-NM,1840017774,La Cienega,La Cienega,NM,La Cienega-NM,New Mexico,35049,Santa Fe,35.58,-106.1127,,,202.2,polygon,FALSE,America/Denver,87507
+Isleta-NM,1840033658,Isleta,Isleta,NM,Isleta-NM,New Mexico,35001,Bernalillo,34.9073,-106.6892,,,380.7,point,FALSE,America/Denver,87022
+North San Ysidro-NM,1840024921,North San Ysidro,North San Ysidro,NM,North San Ysidro-NM,New Mexico,35047,San Miguel,35.4746,-105.5661,,,61.2,polygon,FALSE,America/Denver,87538
+Dalies-NM,1840033495,Dalies,Dalies,NM,Dalies-NM,New Mexico,35061,Valencia,34.772,-106.8606,,,1.4,point,FALSE,America/Denver,87031
+Canada de los Alamos-NM,1840017767,Cañada de los Alamos,Canada de los Alamos,NM,Canada de los Alamos-NM,New Mexico,35049,Santa Fe,35.5926,-105.8597,,,83.1,polygon,FALSE,America/Denver,87505
+Arenas Valley-NM,1840025065,Arenas Valley,Arenas Valley,NM,Arenas Valley-NM,New Mexico,35017,Grant,32.7765,-108.2029,,,109.1,polygon,FALSE,America/Denver,88022 88061
+Mountainair-NM,1840022806,Mountainair,Mountainair,NM,Mountainair-NM,New Mexico,35057,Torrance,34.5198,-106.2429,866,866,313,polygon,TRUE,America/Denver,87036
+Truchas-NM,1840024844,Truchas,Truchas,NM,Truchas-NM,New Mexico,35039,Rio Arriba,36.0338,-105.8095,,,121.8,polygon,FALSE,America/Denver,87578
+Las Vegas-NM,1840020397,Las Vegas,Las Vegas,NM,Las Vegas-NM,New Mexico,35047,San Miguel,35.6011,-105.2206,15077,13285,655,polygon,TRUE,America/Denver,87701
+Mesilla-NM,1840023024,Mesilla,Mesilla,NM,Mesilla-NM,New Mexico,35013,Doña Ana,32.2692,-106.8086,1855,1855,129,polygon,TRUE,America/Denver,88046 88005
+Lee Acres-NM,1840033565,Lee Acres,Lee Acres,NM,Lee Acres-NM,New Mexico,35001,Bernalillo,36.7103,-108.0721,,,1274.2,polygon,FALSE,America/Denver,87401 87413
+Carlsbad-NM,1840019444,Carlsbad,Carlsbad,NM,Carlsbad-NM,New Mexico,35015,Eddy,32.4064,-104.2385,33008,28914,386,polygon,TRUE,America/Denver,88220 88221
+Dexter-NM,1840021933,Dexter,Dexter,NM,Dexter-NM,New Mexico,35005,Chaves,33.1952,-104.3688,1264,1264,658,polygon,TRUE,America/Denver,88230
+Rio En Medio-NM,1840033714,Rio En Medio,Rio En Medio,NM,Rio En Medio-NM,New Mexico,35049,Santa Fe,35.8221,-105.901,,,60.2,polygon,FALSE,America/Denver,87574
+Sandia Heights-NM,1840033723,Sandia Heights,Sandia Heights,NM,Sandia Heights-NM,New Mexico,35001,Bernalillo,35.1744,-106.4885,,,592.9,polygon,FALSE,America/Denver,87122
+Animas-NM,1840025100,Animas,Animas,NM,Animas-NM,New Mexico,35023,Hidalgo,31.9449,-108.8065,,,11.7,polygon,FALSE,America/Denver,88020
+Los Alamos-NM,1840017779,Los Alamos,Los Alamos,NM,Los Alamos-NM,New Mexico,35028,Los Alamos,35.8926,-106.2861,,,616,polygon,FALSE,America/Denver,87544 87545
+Upper Fruitland-NM,1840033717,Upper Fruitland,Upper Fruitland,NM,Upper Fruitland-NM,New Mexico,35045,San Juan,36.7205,-108.323,,,20.9,polygon,FALSE,America/Denver,87401 87416
+Clovis-NM,1840019195,Clovis,Clovis,NM,Clovis-NM,New Mexico,35009,Curry,34.4375,-103.1924,43327,39373,643,polygon,TRUE,America/Denver,88101 88102
+Lemitar-NM,1840033685,Lemitar,Lemitar,NM,Lemitar-NM,New Mexico,35053,Socorro,34.1551,-106.9122,,,145.9,polygon,FALSE,America/Denver,87823
+Cundiyo-NM,1840019098,Cundiyo,Cundiyo,NM,Cundiyo-NM,New Mexico,35049,Santa Fe,35.9565,-105.8971,,,68.3,polygon,FALSE,America/Denver,87522
+La Luz-NM,1840018039,La Luz,La Luz,NM,La Luz-NM,New Mexico,35035,Otero,32.9698,-105.9388,,,401.6,polygon,FALSE,America/Denver,88310 88337
+Columbus-NM,1840023048,Columbus,Columbus,NM,Columbus-NM,New Mexico,35029,Luna,31.8245,-107.6398,1623,1623,224,polygon,TRUE,America/Denver,88029
+Placitas-NM,1840019064,Placitas,Placitas,NM,Placitas-NM,New Mexico,35043,Sandoval,35.3226,-106.4436,,,207.5,polygon,FALSE,America/Denver,87043
+Mountain View-NM,1840033665,Mountain View,Mountain View,NM,Mountain View-NM,New Mexico,35029,Luna,32.2289,-107.7462,,,67.5,polygon,FALSE,America/Denver,88030
+Cebolla-NM,1840033679,Cebolla,Cebolla,NM,Cebolla-NM,New Mexico,35039,Rio Arriba,36.5383,-106.4864,,,15.1,point,FALSE,America/Denver,87518
+Taos Pueblo-NM,1840019014,Taos Pueblo,Taos Pueblo,NM,Taos Pueblo-NM,New Mexico,35055,Taos,36.4656,-105.5635,,,324.1,polygon,FALSE,America/Denver,87529 87571
+Fort Sumner-NM,1840022827,Fort Sumner,Fort Sumner,NM,Fort Sumner-NM,New Mexico,35011,De Baca,34.479,-104.2331,915,915,106,polygon,TRUE,America/Denver,88119
+Glencoe-NM,1840033617,Glencoe,Glencoe,NM,Glencoe-NM,New Mexico,35027,Lincoln,33.4093,-105.4489,,,1.1,point,FALSE,America/Denver,88324
+Fairacres-NM,1840025082,Fairacres,Fairacres,NM,Fairacres-NM,New Mexico,35013,Doña Ana,32.3047,-106.8366,,,87,polygon,FALSE,America/Denver,88005 88007
+Paraje-NM,1840019172,Paraje,Paraje,NM,Paraje-NM,New Mexico,35006,Cibola,35.0444,-107.4681,,,123.7,polygon,FALSE,America/Denver,87007 87038
+Elida-NM,1840021897,Elida,Elida,NM,Elida-NM,New Mexico,35041,Roosevelt,33.9443,-103.6554,185,185,87,polygon,TRUE,America/Denver,88116
+Radium Springs-NM,1840019411,Radium Springs,Radium Springs,NM,Radium Springs-NM,New Mexico,35013,Doña Ana,32.4783,-106.9031,,,4.1,polygon,FALSE,America/Denver,88007 88054
+Monterey Park-NM,1840033727,Monterey Park,Monterey Park,NM,Monterey Park-NM,New Mexico,35061,Valencia,34.7511,-106.653,,,326.6,polygon,FALSE,America/Denver,87031
+Escabosa-NM,1840033656,Escabosa,Escabosa,NM,Escabosa-NM,New Mexico,35001,Bernalillo,34.9251,-106.29,,,21.4,point,FALSE,America/Denver,87059
+Lordsburg-NM,1840020740,Lordsburg,Lordsburg,NM,Lordsburg-NM,New Mexico,35023,Hidalgo,32.3438,-108.7024,2463,2463,113,polygon,TRUE,America/Denver,88045
+Loco Hills-NM,1840025095,Loco Hills,Loco Hills,NM,Loco Hills-NM,New Mexico,35015,Eddy,32.8197,-103.9783,,,43.3,polygon,FALSE,America/Denver,88255
+Luna-NM,1840025025,Luna,Luna,NM,Luna-NM,New Mexico,35003,Catron,33.8181,-108.9436,,,27.7,polygon,FALSE,America/Denver,87824
+San Felipe Pueblo-NM,1840033699,San Felipe Pueblo,San Felipe Pueblo,NM,San Felipe Pueblo-NM,New Mexico,35043,Sandoval,35.4338,-106.425,,,830.4,polygon,FALSE,America/Denver,87001
+Bluewater-NM,1840033678,Bluewater,Bluewater,NM,Bluewater-NM,New Mexico,35006,Cibola,35.255,-107.9856,,,111.8,point,FALSE,America/Denver,87005
+Red River-NM,1840021630,Red River,Red River,NM,Red River-NM,New Mexico,35055,Taos,36.7043,-105.4067,477,477,184,polygon,TRUE,America/Denver,87558
+Coolidge-NM,1840033680,Coolidge,Coolidge,NM,Coolidge-NM,New Mexico,35031,McKinley,35.447,-108.3634,,,6,point,FALSE,America/Denver,87312
+Broadview-NM,1840033493,Broadview,Broadview,NM,Broadview-NM,New Mexico,35009,Curry,34.8195,-103.2136,,,15.5,point,FALSE,America/Denver,88112
+Maljamar-NM,1840033507,Maljamar,Maljamar,NM,Maljamar-NM,New Mexico,35025,Lea,32.8562,-103.7627,,,24.9,point,FALSE,America/Denver,88264
+Abo-NM,1840033602,Abo,Abo,NM,Abo-NM,New Mexico,35057,Torrance,34.4559,-106.3331,,,5.9,point,FALSE,America/Denver,87036
+Ranchito-NM,1840033626,Ranchito,Ranchito,NM,Ranchito-NM,New Mexico,35055,Taos,36.4042,-105.5978,,,230.8,point,FALSE,America/Denver,87571
+Encino-NM,1840022807,Encino,Encino,NM,Encino-NM,New Mexico,35057,Torrance,34.6518,-105.4586,77,77,14,polygon,TRUE,America/Denver,88321
+Turley-NM,1840033596,Turley,Turley,NM,Turley-NM,New Mexico,35045,San Juan,36.7525,-107.7651,,,25.4,point,FALSE,America/Denver,87412
+San Juan Pueblo-NM,1840033700,San Juan Pueblo,San Juan Pueblo,NM,San Juan Pueblo-NM,New Mexico,35039,Rio Arriba,36.0528,-106.0706,,,364.3,point,FALSE,America/Denver,87566
+Clayton-NM,1840022631,Clayton,Clayton,NM,Clayton-NM,New Mexico,35059,Union,36.4434,-103.1577,2763,2763,128,polygon,TRUE,America/Denver,88415
+Youngsville-NM,1840024846,Youngsville,Youngsville,NM,Youngsville-NM,New Mexico,35039,Rio Arriba,36.1928,-106.566,,,21.6,polygon,FALSE,America/Denver,87064
+Thoreau-NM,1840019096,Thoreau,Thoreau,NM,Thoreau-NM,New Mexico,35031,McKinley,35.4209,-108.2235,,,170.7,polygon,FALSE,America/Denver,87323
+Cedar Grove-NM,1840017768,Cedar Grove,Cedar Grove,NM,Cedar Grove-NM,New Mexico,35049,Santa Fe,35.1679,-106.1616,,,62.1,polygon,FALSE,America/Denver,87015 87056
+Brimhall Nizhoni-NM,1840033710,Brimhall Nizhoni,Brimhall Nizhoni,NM,Brimhall Nizhoni-NM,New Mexico,35031,McKinley,35.7785,-108.6322,,,4.5,polygon,FALSE,America/Denver,87310 87325
+East Pecos-NM,1840026936,East Pecos,East Pecos,NM,East Pecos-NM,New Mexico,35047,San Miguel,35.5765,-105.6499,,,122.3,polygon,FALSE,America/Denver,87552
+Cliff-NM,1840025067,Cliff,Cliff,NM,Cliff-NM,New Mexico,35017,Grant,32.966,-108.6176,,,15.1,polygon,FALSE,America/Denver,88028
+Hanover-NM,1840025072,Hanover,Hanover,NM,Hanover-NM,New Mexico,35017,Grant,32.8149,-108.0897,,,28.2,polygon,FALSE,America/Denver,88041
+Los Chavez-NM,1840017903,Los Chavez,Los Chavez,NM,Los Chavez-NM,New Mexico,35061,Valencia,34.7333,-106.7634,,,285.5,polygon,FALSE,America/Denver,87002 87031
+Sabinoso-NM,1840033576,Sabinoso,Sabinoso,NM,Sabinoso-NM,New Mexico,35047,San Miguel,35.6989,-104.408,,,4.4,point,FALSE,America/Denver,87746
+Buckhorn-NM,1840025066,Buckhorn,Buckhorn,NM,Buckhorn-NM,New Mexico,35017,Grant,33.0315,-108.6944,,,8,polygon,FALSE,America/Denver,88025
+El Cerro-NM,1840024994,El Cerro,El Cerro,NM,El Cerro-NM,New Mexico,35061,Valencia,34.7807,-106.6956,,,128.5,polygon,FALSE,America/Denver,87031
+Chama-NM,1840022615,Chama,Chama,NM,Chama-NM,New Mexico,35039,Rio Arriba,36.8926,-106.5843,1018,1018,147,polygon,TRUE,America/Denver,87520
+Maxwell-NM,1840022644,Maxwell,Maxwell,NM,Maxwell-NM,New Mexico,35007,Colfax,36.5411,-104.5431,225,225,183,polygon,TRUE,America/Denver,87728
+Logan-NM,1840022729,Logan,Logan,NM,Logan-NM,New Mexico,35037,Quay,35.3578,-103.4455,954,954,38,polygon,TRUE,America/Denver,88426
+Orogrande-NM,1840025061,Orogrande,Orogrande,NM,Orogrande-NM,New Mexico,35035,Otero,32.3875,-106.1003,,,2.8,polygon,FALSE,America/Denver,88342
+San Miguel-NM,1840025089,San Miguel,San Miguel,NM,San Miguel-NM,New Mexico,35013,Doña Ana,32.1535,-106.7269,,,151.4,polygon,FALSE,America/Denver,88044 88058
+Chamita-NM,1840024825,Chamita,Chamita,NM,Chamita-NM,New Mexico,35039,Rio Arriba,36.0706,-106.0974,,,228.9,polygon,FALSE,America/Denver,87566
+Twin Lakes-NM,1840019093,Twin Lakes,Twin Lakes,NM,Twin Lakes-NM,New Mexico,35031,McKinley,35.6834,-108.7709,,,178.8,polygon,FALSE,America/Denver,87375
+Brazos-NM,1840024820,Brazos,Brazos,NM,Brazos-NM,New Mexico,35039,Rio Arriba,36.7529,-106.5598,,,48.2,polygon,FALSE,America/Denver,87551
+Wagon Mound-NM,1840022679,Wagon Mound,Wagon Mound,NM,Wagon Mound-NM,New Mexico,35033,Mora,36.0046,-104.7092,291,291,109,polygon,TRUE,America/Denver,87752
+Jal-NM,1840019342,Jal,Jal,NM,Jal-NM,New Mexico,35025,Lea,32.1155,-103.1892,2121,2121,178,polygon,TRUE,America/Denver,88252
+Dixon-NM,1840024829,Dixon,Dixon,NM,Dixon-NM,New Mexico,35039,Rio Arriba,36.1886,-105.8784,,,71.9,polygon,FALSE,America/Denver,87527
+Ruidoso Downs-NM,1840020534,Ruidoso Downs,Ruidoso Downs,NM,Ruidoso Downs-NM,New Mexico,35027,Lincoln,33.3312,-105.5968,2576,2576,262,polygon,TRUE,America/Denver,88346
+Lyden-NM,1840024840,Lyden,Lyden,NM,Lyden-NM,New Mexico,35039,Rio Arriba,36.1537,-106.0147,,,103.5,polygon,FALSE,America/Denver,87582
+Mosquero-NM,1840022685,Mosquero,Mosquero,NM,Mosquero-NM,New Mexico,35021,Harding,35.7743,-103.9544,89,89,34,polygon,TRUE,America/Denver,87733 87746
+La Plata-NM,1840024850,La Plata,La Plata,NM,La Plata-NM,New Mexico,35045,San Juan,36.9232,-108.1932,,,69.1,polygon,FALSE,America/Denver,87418
+Monticello-NM,1840033622,Monticello,Monticello,NM,Monticello-NM,New Mexico,35051,Sierra,33.397,-107.4509,,,4.8,point,FALSE,America/Denver,87939
+Oasis-NM,1840025051,Oasis,Oasis,NM,Oasis-NM,New Mexico,35051,Sierra,32.9277,-107.3164,,,31,polygon,FALSE,America/Denver,87931
+Shiprock-NM,1840018988,Shiprock,Shiprock,NM,Shiprock-NM,New Mexico,35045,San Juan,36.7925,-108.7006,,,211.9,polygon,FALSE,America/Denver,87420
+Dora-NM,1840022838,Dora,Dora,NM,Dora-NM,New Mexico,35041,Roosevelt,33.9324,-103.3369,125,125,17,polygon,TRUE,America/Denver,88130 88115
+Tierra Amarilla-NM,1840024843,Tierra Amarilla,Tierra Amarilla,NM,Tierra Amarilla-NM,New Mexico,35039,Rio Arriba,36.706,-106.5599,,,15.4,polygon,FALSE,America/Denver,87575
+San Lorenzo-NM,1840025077,San Lorenzo,San Lorenzo,NM,San Lorenzo-NM,New Mexico,35017,Grant,32.8086,-107.9221,,,16.7,polygon,FALSE,America/Denver,88041
+Rutheron-NM,1840033502,Rutheron,Rutheron,NM,Rutheron-NM,New Mexico,35039,Rio Arriba,36.7186,-106.6117,,,2.1,point,FALSE,America/Denver,87551
+Boles Acres-NM,1840018038,Boles Acres,Boles Acres,NM,Boles Acres-NM,New Mexico,35035,Otero,32.8193,-105.9783,,,287.6,polygon,FALSE,America/Denver,88311 88310
+Miami-NM,1840033499,Miami,Miami,NM,Miami-NM,New Mexico,35007,Colfax,36.35,-104.7931,,,17.8,point,FALSE,America/Denver,87729
+Sheep Springs-NM,1840018987,Sheep Springs,Sheep Springs,NM,Sheep Springs-NM,New Mexico,35045,San Juan,36.1564,-108.6906,,,68,polygon,FALSE,America/Denver,87364
+Peralta-NM,1840022815,Peralta,Peralta,NM,Peralta-NM,New Mexico,35061,Valencia,34.8282,-106.6863,3565,3565,308,polygon,TRUE,America/Denver,87042
+Aztec-NM,1840018993,Aztec,Aztec,NM,Aztec-NM,New Mexico,35045,San Juan,36.8189,-107.9823,7452,5960,183,polygon,TRUE,America/Denver,87410
+Zia Pueblo-NM,1840019071,Zia Pueblo,Zia Pueblo,NM,Zia Pueblo-NM,New Mexico,35043,Sandoval,35.52,-106.715,,,225,polygon,FALSE,America/Denver,87053
+Picacho-NM,1840033574,Picacho,Picacho,NM,Picacho-NM,New Mexico,35027,Lincoln,33.3518,-105.145,,,1.6,point,FALSE,America/Denver,88343
+Valdez-NM,1840033640,Valdez,Valdez,NM,Valdez-NM,New Mexico,35055,Taos,36.5345,-105.5839,,,83.3,point,FALSE,America/Denver,87580
+San Pablo-NM,1840025090,San Pablo,San Pablo,NM,San Pablo-NM,New Mexico,35013,Doña Ana,32.2507,-106.7625,,,174.2,polygon,FALSE,America/Denver,88005
+Medanales-NM,1840033620,Medanales,Medanales,NM,Medanales-NM,New Mexico,35039,Rio Arriba,36.1756,-106.1834,,,21.5,point,FALSE,America/Denver,87548
+Pinon-NM,1840033624,Piñon,Pinon,NM,Pinon-NM,New Mexico,35035,Otero,32.6182,-105.3867,,,1.3,polygon,FALSE,America/Denver,88344
+Milan-NM,1840022781,Milan,Milan,NM,Milan-NM,New Mexico,35006,Cibola,35.1949,-107.8946,3234,3234,287,polygon,TRUE,America/Denver,87020 87021
+Grants-NM,1840020452,Grants,Grants,NM,Grants-NM,New Mexico,35006,Cibola,35.1538,-107.8347,12305,9298,241,polygon,TRUE,America/Denver,87020
+Carnuel-NM,1840033707,Carnuel,Carnuel,NM,Carnuel-NM,New Mexico,35001,Bernalillo,35.0608,-106.4586,,,172.8,polygon,FALSE,America/Denver,87123
+Stanley-NM,1840033504,Stanley,Stanley,NM,Stanley-NM,New Mexico,35049,Santa Fe,35.1475,-105.977,,,28.9,point,FALSE,America/Denver,87056
+Fruitland-NM,1840033591,Fruitland,Fruitland,NM,Fruitland-NM,New Mexico,35045,San Juan,36.7392,-108.3956,,,154,point,FALSE,America/Denver,87416
+Las Maravillas-NM,1840033726,Las Maravillas,Las Maravillas,NM,Las Maravillas-NM,New Mexico,35061,Valencia,34.734,-106.669,,,454.1,polygon,FALSE,America/Denver,87031
+Pinehill-NM,1840019173,Pinehill,Pinehill,NM,Pinehill-NM,New Mexico,35006,Cibola,35.0031,-108.4082,,,39.4,polygon,FALSE,America/Denver,87321 87357
+Pecos-NM,1840022717,Pecos,Pecos,NM,Pecos-NM,New Mexico,35047,San Miguel,35.5754,-105.6786,1313,1313,292,polygon,TRUE,America/Denver,87552
+Willard-NM,1840022808,Willard,Willard,NM,Willard-NM,New Mexico,35057,Torrance,34.5949,-106.0317,238,238,94,polygon,TRUE,America/Denver,87036 87063
+Kirtland-NM,1840017671,Kirtland,Kirtland,NM,Kirtland-NM,New Mexico,35045,San Juan,36.7438,-108.3514,587,564,15,polygon,TRUE,America/Denver,87417 87416
+Sapello-NM,1840033633,Sapello,Sapello,NM,Sapello-NM,New Mexico,35047,San Miguel,35.7728,-105.2533,,,1.9,point,FALSE,America/Denver,87745
+Hatch-NM,1840023025,Hatch,Hatch,NM,Hatch-NM,New Mexico,35013,Doña Ana,32.6682,-107.1642,1590,1590,194,polygon,TRUE,America/Denver,87937
+Zuni Pueblo-NM,1840019095,Zuni Pueblo,Zuni Pueblo,NM,Zuni Pueblo-NM,New Mexico,35031,McKinley,35.0708,-108.8484,,,1186.5,polygon,FALSE,America/Denver,87327
+Veguita-NM,1840025019,Veguita,Veguita,NM,Veguita-NM,New Mexico,35053,Socorro,34.5146,-106.7679,,,76.5,polygon,FALSE,America/Denver,87062
+Mora-NM,1840026931,Mora,Mora,NM,Mora-NM,New Mexico,35033,Mora,35.9633,-105.3312,,,50.6,polygon,FALSE,America/Denver,87732
+Chloride-NM,1840033608,Chloride,Chloride,NM,Chloride-NM,New Mexico,35051,Sierra,33.3387,-107.6778,,,2.9,point,FALSE,America/Denver,87943
+Ocate-NM,1840033570,Ocate,Ocate,NM,Ocate-NM,New Mexico,35033,Mora,36.1756,-105.0481,,,1.7,point,FALSE,America/Denver,87734
+Conchas-NM,1840016917,Conchas,Conchas,NM,Conchas-NM,New Mexico,35047,San Miguel,35.3715,-104.2085,,,33.5,point,FALSE,America/Denver,88311 88310
+Cimarron-NM,1840022642,Cimarron,Cimarron,NM,Cimarron-NM,New Mexico,35007,Colfax,36.5087,-104.9115,899,899,173,polygon,TRUE,America/Denver,87714
+Canones-NM,1840024822,Cañones,Canones,NM,Canones-NM,New Mexico,35039,Rio Arriba,36.1769,-106.4244,,,93.3,polygon,FALSE,America/Denver,87516
+Guadalupita-NM,1840033646,Guadalupita,Guadalupita,NM,Guadalupita-NM,New Mexico,35033,Mora,36.1375,-105.2386,,,18.2,point,FALSE,America/Denver,87722
+Prewitt-NM,1840033625,Prewitt,Prewitt,NM,Prewitt-NM,New Mexico,35031,McKinley,35.3628,-108.044,,,8.8,point,FALSE,America/Denver,87045
+Rio Communities-NM,1840033728,Rio Communities,Rio Communities,NM,Rio Communities-NM,New Mexico,35061,Valencia,34.6414,-106.7165,4653,4653,286,polygon,TRUE,America/Denver,87002
+Serafina-NM,1840033636,Serafina,Serafina,NM,Serafina-NM,New Mexico,35047,San Miguel,35.3975,-105.3236,,,54.1,point,FALSE,America/Denver,87569
+Glorieta-NM,1840017772,Glorieta,Glorieta,NM,Glorieta-NM,New Mexico,35049,Santa Fe,35.584,-105.7629,,,39.7,polygon,FALSE,America/Denver,87535
+Chamizal-NM,1840025009,Chamizal,Chamizal,NM,Chamizal-NM,New Mexico,35053,Socorro,34.2183,-106.9152,,,64.7,polygon,FALSE,America/Denver,87828
+San Cristobal-NM,1840026911,San Cristobal,San Cristobal,NM,San Cristobal-NM,New Mexico,35055,Taos,36.6101,-105.6319,,,21.3,polygon,FALSE,America/Denver,87564
+Aragon-NM,1840025021,Aragon,Aragon,NM,Aragon-NM,New Mexico,35003,Catron,33.8899,-108.5201,,,9.5,polygon,FALSE,America/Denver,87820
+Pojoaque-NM,1840019101,Pojoaque,Pojoaque,NM,Pojoaque-NM,New Mexico,35049,Santa Fe,35.8962,-106.0105,,,217.2,polygon,FALSE,America/Denver,87506
+Ponderosa-NM,1840019065,Ponderosa,Ponderosa,NM,Ponderosa-NM,New Mexico,35043,Sandoval,35.6555,-106.6544,,,42.7,polygon,FALSE,America/Denver,87044
+Beclabito-NM,1840017669,Beclabito,Beclabito,NM,Beclabito-NM,New Mexico,35045,San Juan,36.8335,-109.0039,,,20,polygon,FALSE,America/Denver,87420
+Chical-NM,1840024993,Chical,Chical,NM,Chical-NM,New Mexico,35061,Valencia,34.8658,-106.6671,,,65.8,polygon,FALSE,America/Denver,87068
+Madrid-NM,1840017770,Madrid,Madrid,NM,Madrid-NM,New Mexico,35049,Santa Fe,35.4033,-106.1537,,,112.9,polygon,FALSE,America/Denver,87010
+Grady-NM,1840022816,Grady,Grady,NM,Grady-NM,New Mexico,35009,Curry,34.8218,-103.3157,106,106,154,polygon,TRUE,America/Denver,88120
+Blanco-NM,1840024847,Blanco,Blanco,NM,Blanco-NM,New Mexico,35045,San Juan,36.7214,-107.8327,,,85,polygon,FALSE,America/Denver,87413 87412
+Yah-ta-hey-NM,1840019094,Yah-ta-hey,Yah-ta-hey,NM,Yah-ta-hey-NM,New Mexico,35031,McKinley,35.6216,-108.7919,,,57.1,polygon,FALSE,America/Denver,87375 87317
+Hollywood-NM,1840033618,Hollywood,Hollywood,NM,Hollywood-NM,New Mexico,35027,Lincoln,33.3234,-105.635,,,263.7,point,FALSE,America/Denver,88345
+Lamy-NM,1840017776,Lamy,Lamy,NM,Lamy-NM,New Mexico,35049,Santa Fe,35.4855,-105.8863,,,7.1,polygon,FALSE,America/Denver,87540
+La Mesilla-NM,1840024835,La Mesilla,La Mesilla,NM,La Mesilla-NM,New Mexico,35039,Rio Arriba,35.9461,-106.0718,,,128.3,polygon,FALSE,America/Denver,87532
+Los Ranchos de Albuquerque-NM,1840022795,Los Ranchos de Albuquerque,Los Ranchos de Albuquerque,NM,Los Ranchos de Albuquerque-NM,New Mexico,35001,Bernalillo,35.1629,-106.6483,6062,6062,537,polygon,TRUE,America/Denver,87114 87107
+Anthony-NM,1840018049,Anthony,Anthony,NM,Anthony-NM,New Mexico,35013,Doña Ana,32.0131,-106.5985,9330,9330,1342,polygon,TRUE,America/Denver,88021
+San Antonito-NM,1840025018,San Antonito,San Antonito,NM,San Antonito-NM,New Mexico,35053,Socorro,33.8918,-106.88,,,22.3,polygon,FALSE,America/Denver,87832
+La Villita-NM,1840024836,La Villita,La Villita,NM,La Villita-NM,New Mexico,35039,Rio Arriba,36.1001,-106.0514,,,447.4,polygon,FALSE,America/Denver,87511
+Paradise Hills-NM,1840024971,Paradise Hills,Paradise Hills,NM,Paradise Hills-NM,New Mexico,35001,Bernalillo,35.198,-106.7021,,,1386.6,polygon,FALSE,America/Denver,87114
+Sanostee-NM,1840018992,Sanostee,Sanostee,NM,Sanostee-NM,New Mexico,35045,San Juan,36.4329,-108.873,,,143.6,polygon,FALSE,America/Denver,87461
+Grenville-NM,1840022634,Grenville,Grenville,NM,Grenville-NM,New Mexico,35059,Union,36.5931,-103.6134,34,34,21,polygon,TRUE,America/Denver,88424
+Penasco-NM,1840019009,Peñasco,Penasco,NM,Penasco-NM,New Mexico,35055,Taos,36.1703,-105.6907,,,227.6,polygon,FALSE,America/Denver,87553
+La Puebla-NM,1840017775,La Puebla,La Puebla,NM,La Puebla-NM,New Mexico,35049,Santa Fe,35.989,-105.9988,,,139.7,polygon,FALSE,America/Denver,87567 87532
+Texico-NM,1840021840,Texico,Texico,NM,Texico-NM,New Mexico,35009,Curry,34.3897,-103.0513,1110,1110,516,polygon,TRUE,America/Denver,88135
+Abiquiu-NM,1840024819,Abiquiu,Abiquiu,NM,Abiquiu-NM,New Mexico,35039,Rio Arriba,36.2017,-106.3239,,,142.9,polygon,FALSE,America/Denver,87510
+Angel Fire-NM,1840022641,Angel Fire,Angel Fire,NM,Angel Fire-NM,New Mexico,35007,Colfax,36.3821,-105.2715,1113,1113,14,polygon,TRUE,America/Denver,87710
+Jemez Pueblo-NM,1840033696,Jemez Pueblo,Jemez Pueblo,NM,Jemez Pueblo-NM,New Mexico,35043,Sandoval,35.6068,-106.7332,,,1315.2,polygon,FALSE,America/Denver,87024
+Escondida-NM,1840025010,Escondida,Escondida,NM,Escondida-NM,New Mexico,35053,Socorro,34.1013,-106.8974,,,52.7,polygon,FALSE,America/Denver,87801
+Romeroville-NM,1840033594,Romeroville,Romeroville,NM,Romeroville-NM,New Mexico,35047,San Miguel,35.5228,-105.2447,,,67.8,point,FALSE,America/Denver,87701
+Lake Sumner-NM,1840033712,Lake Sumner,Lake Sumner,NM,Lake Sumner-NM,New Mexico,35011,De Baca,34.6186,-104.38,,,0.1,polygon,FALSE,America/Denver,88119
+Lincoln-NM,1840033686,Lincoln,Lincoln,NM,Lincoln-NM,New Mexico,35027,Lincoln,33.492,-105.3839,,,8.2,point,FALSE,America/Denver,88338
+Algodones-NM,1840017742,Algodones,Algodones,NM,Algodones-NM,New Mexico,35043,Sandoval,35.3801,-106.473,,,251.9,polygon,FALSE,America/Denver,87001
+Ute Park-NM,1840026913,Ute Park,Ute Park,NM,Ute Park-NM,New Mexico,35007,Colfax,36.5467,-105.1038,,,10.3,polygon,FALSE,America/Denver,87749
+Sunset-NM,1840033579,Sunset,Sunset,NM,Sunset-NM,New Mexico,35027,Lincoln,33.3395,-105.0753,,,4,point,FALSE,America/Denver,88343
+La Madera-NM,1840024834,La Madera,La Madera,NM,La Madera-NM,New Mexico,35039,Rio Arriba,36.3808,-106.042,,,71.4,polygon,FALSE,America/Denver,87539
+Cerrillos-NM,1840033642,Cerrillos,Cerrillos,NM,Cerrillos-NM,New Mexico,35049,Santa Fe,35.4378,-106.1225,,,112.3,point,FALSE,America/Denver,87010
+Eagle Nest-NM,1840022643,Eagle Nest,Eagle Nest,NM,Eagle Nest-NM,New Mexico,35007,Colfax,36.5495,-105.2594,257,257,23,polygon,TRUE,America/Denver,87718
+Jaconita-NM,1840017773,Jaconita,Jaconita,NM,Jaconita-NM,New Mexico,35049,Santa Fe,35.8857,-106.0611,,,243,polygon,FALSE,America/Denver,87506
+San Jon-NM,1840022730,San Jon,San Jon,NM,San Jon-NM,New Mexico,35037,Quay,35.1142,-103.3354,201,201,30,polygon,TRUE,America/Denver,88434
+Cubero-NM,1840024963,Cubero,Cubero,NM,Cubero-NM,New Mexico,35006,Cibola,35.0903,-107.5264,,,112,polygon,FALSE,America/Denver,87014
+San Patricio-NM,1840033691,San Patricio,San Patricio,NM,San Patricio-NM,New Mexico,35027,Lincoln,33.409,-105.3269,,,15,point,FALSE,America/Denver,88336
+Estancia-NM,1840021834,Estancia,Estancia,NM,Estancia-NM,New Mexico,35057,Torrance,34.7669,-106.0313,1584,1584,106,polygon,TRUE,America/Denver,87016
+Farmington-NM,1840020349,Farmington,Farmington,NM,Farmington-NM,New Mexico,35045,San Juan,36.7559,-108.1827,48137,41629,472,polygon,TRUE,America/Denver,87401 87402 87415
+Newkirk-NM,1840024978,Newkirk,Newkirk,NM,Newkirk-NM,New Mexico,35019,Guadalupe,35.0635,-104.2716,,,6.1,polygon,FALSE,America/Denver,88417 88431
+Rowe-NM,1840026937,Rowe,Rowe,NM,Rowe-NM,New Mexico,35047,San Miguel,35.4922,-105.6715,,,49.7,polygon,FALSE,America/Denver,87562
+Rio Rancho-NM,1840020387,Rio Rancho,Rio Rancho,NM,Rio Rancho-NM,New Mexico,35043,Sandoval,35.2873,-106.6979,96028,96028,358,polygon,TRUE,America/Denver,87121 87124 87144 87174
+Edgewood-NM,1840021708,Edgewood,Edgewood,NM,Edgewood-NM,New Mexico,35049,Santa Fe,35.0614,-106.1914,,,115.6,point,TRUE,America/Denver,87015
+El Valle de Arroyo Seco-NM,1840033711,El Valle de Arroyo Seco,El Valle de Arroyo Seco,NM,El Valle de Arroyo Seco-NM,New Mexico,35049,Santa Fe,35.9527,-106.0262,,,208.5,polygon,FALSE,America/Denver,87532
+Sandia Park-NM,1840024974,Sandia Park,Sandia Park,NM,Sandia Park-NM,New Mexico,35001,Bernalillo,35.1648,-106.3657,,,92.7,polygon,FALSE,America/Denver,87047
+Bernardo-NM,1840033677,Bernardo,Bernardo,NM,Bernardo-NM,New Mexico,35053,Socorro,34.4187,-106.8336,,,8.1,point,FALSE,America/Denver,87006
+Humble City-NM,1840033497,Humble City,Humble City,NM,Humble City-NM,New Mexico,35025,Lea,32.7951,-103.2191,,,19.9,point,FALSE,America/Denver,88240
+Pinedale-NM,1840033600,Pinedale,Pinedale,NM,Pinedale-NM,New Mexico,35031,McKinley,35.6039,-108.447,,,29.5,point,FALSE,America/Denver,87311
+Villanueva-NM,1840024928,Villanueva,Villanueva,NM,Villanueva-NM,New Mexico,35047,San Miguel,35.266,-105.3602,,,47.6,polygon,FALSE,America/Denver,87583 87560
+Whites City-NM,1840025097,Whites City,Whites City,NM,Whites City-NM,New Mexico,35015,Eddy,32.1767,-104.3739,,,9.6,polygon,FALSE,America/Denver,88220 88268
+Nageezi-NM,1840018989,Nageezi,Nageezi,NM,Nageezi-NM,New Mexico,35045,San Juan,36.2488,-107.7471,,,5.3,polygon,FALSE,America/Denver,87037 87413
+Dulce-NM,1840018985,Dulce,Dulce,NM,Dulce-NM,New Mexico,35039,Rio Arriba,36.9399,-107.0049,,,586.9,polygon,FALSE,America/Denver,87528
+Des Moines-NM,1840022632,Des Moines,Des Moines,NM,Des Moines-NM,New Mexico,35059,Union,36.7626,-103.8358,128,128,44,polygon,TRUE,America/Denver,88418
+Allison-NM,1840033492,Allison,Allison,NM,Allison-NM,New Mexico,35031,McKinley,35.5242,-108.7851,,,9,point,FALSE,America/Denver,87301
+Arroyo Hondo-NM,1840026908,Arroyo Hondo,Arroyo Hondo,NM,Arroyo Hondo-NM,New Mexico,35055,Taos,36.5346,-105.6666,,,242.5,polygon,FALSE,America/Denver,87571 87513
+Elephant Butte-NM,1840020627,Elephant Butte,Elephant Butte,NM,Elephant Butte-NM,New Mexico,35051,Sierra,33.1811,-107.2269,1341,1341,120,polygon,TRUE,America/Denver,87935
+Anton Chico-NM,1840024976,Anton Chico,Anton Chico,NM,Anton Chico-NM,New Mexico,35019,Guadalupe,35.1947,-105.1439,,,31.2,polygon,FALSE,America/Denver,87711
+Santa Teresa-NM,1840019414,Santa Teresa,Santa Teresa,NM,Santa Teresa-NM,New Mexico,35013,Doña Ana,31.8698,-106.671,,,795,polygon,FALSE,America/Denver,88008
+Cedro-NM,1840024970,Cedro,Cedro,NM,Cedro-NM,New Mexico,35001,Bernalillo,35.0181,-106.3507,,,34.9,polygon,FALSE,America/Denver,87059
+Rock Springs-NM,1840033715,Rock Springs,Rock Springs,NM,Rock Springs-NM,New Mexico,35031,McKinley,35.6088,-108.8293,,,48.9,polygon,FALSE,America/Denver,87375 87305
+Reserve-NM,1840022841,Reserve,Reserve,NM,Reserve-NM,New Mexico,35003,Catron,33.7092,-108.7616,276,276,193,polygon,TRUE,America/Denver,87830
+La Joya-NM,1840025011,La Joya,La Joya,NM,La Joya-NM,New Mexico,35053,Socorro,34.3449,-106.8466,,,53.2,polygon,FALSE,America/Denver,87028
+Bent-NM,1840025058,Bent,Bent,NM,Bent-NM,New Mexico,35035,Otero,33.1473,-105.859,,,7,polygon,FALSE,America/Denver,88314
+Cobre-NM,1840025068,Cobre,Cobre,NM,Cobre-NM,New Mexico,35017,Grant,32.7805,-108.1105,,,50,polygon,FALSE,America/Denver,88023
+Kingston-NM,1840025049,Kingston,Kingston,NM,Kingston-NM,New Mexico,35051,Sierra,32.9173,-107.7097,,,15.4,polygon,FALSE,America/Denver,88042
+Los Pinos-NM,1840033619,Los Pinos,Los Pinos,NM,Los Pinos-NM,New Mexico,35039,Rio Arriba,36.9883,-106.0645,,,1.9,point,FALSE,America/Denver,87575
+Garfield-NM,1840025083,Garfield,Garfield,NM,Garfield-NM,New Mexico,35013,Doña Ana,32.7568,-107.2665,,,85.3,polygon,FALSE,America/Denver,87936
+Taiban-NM,1840033580,Taiban,Taiban,NM,Taiban-NM,New Mexico,35011,De Baca,34.4401,-104.0091,,,4.2,point,FALSE,America/Denver,88134
+Rio Lucio-NM,1840019012,Rio Lucio,Rio Lucio,NM,Rio Lucio-NM,New Mexico,35055,Taos,36.1922,-105.72,,,117.7,polygon,FALSE,America/Denver,87553
+Bernalillo-NM,1840020388,Bernalillo,Bernalillo,NM,Bernalillo-NM,New Mexico,35043,Sandoval,35.3126,-106.5537,9202,9202,743,polygon,TRUE,America/Denver,87004
+Naschitti-NM,1840018990,Naschitti,Naschitti,NM,Naschitti-NM,New Mexico,35045,San Juan,36.0625,-108.68,,,29.2,polygon,FALSE,America/Denver,87364 87325
+Regina-NM,1840019066,Regina,Regina,NM,Regina-NM,New Mexico,35043,Sandoval,36.1947,-106.9453,,,7.9,polygon,FALSE,America/Denver,87046
+El Rito-NM,1840024831,El Rito,El Rito,NM,El Rito-NM,New Mexico,35039,Rio Arriba,36.338,-106.1844,,,62.9,polygon,FALSE,America/Denver,87530
+Capulin-NM,1840024854,Capulin,Capulin,NM,Capulin-NM,New Mexico,35059,Union,36.7446,-103.9958,,,49.9,polygon,FALSE,America/Denver,88414 88418
+Galisteo-NM,1840017771,Galisteo,Galisteo,NM,Galisteo-NM,New Mexico,35049,Santa Fe,35.395,-105.957,,,100.6,polygon,FALSE,America/Denver,87540
+Chaparral-NM,1840018050,Chaparral,Chaparral,NM,Chaparral-NM,New Mexico,35013,Doña Ana,32.0442,-106.4059,,,240.4,polygon,FALSE,America/Denver,88081
+Windmill-NM,1840025104,Windmill,Windmill,NM,Windmill-NM,New Mexico,35023,Hidalgo,31.9769,-108.6315,,,13.7,polygon,FALSE,America/Denver,88020
+Lake Valley-NM,1840024849,Lake Valley,Lake Valley,NM,Lake Valley-NM,New Mexico,35045,San Juan,36.0901,-108.1642,,,1.4,polygon,FALSE,America/Denver,87499 87313
+Ramah-NM,1840019090,Ramah,Ramah,NM,Ramah-NM,New Mexico,35031,McKinley,35.1376,-108.4859,,,98.9,polygon,FALSE,America/Denver,87321
+Sacramento-NM,1840025063,Sacramento,Sacramento,NM,Sacramento-NM,New Mexico,35035,Otero,32.7917,-105.5723,,,9.4,polygon,FALSE,America/Denver,88347 88339
+Santa Clara Pueblo-NM,1840018986,Santa Clara Pueblo,Santa Clara Pueblo,NM,Santa Clara Pueblo-NM,New Mexico,35039,Rio Arriba,35.9726,-106.0928,,,40.5,polygon,FALSE,America/Denver,87532
+Bosque Farms-NM,1840022813,Bosque Farms,Bosque Farms,NM,Bosque Farms-NM,New Mexico,35061,Valencia,34.8538,-106.7016,3820,3820,372,polygon,TRUE,America/Denver,87068
+Santo Domingo Pueblo-NM,1840019069,Santo Domingo Pueblo,Santo Domingo Pueblo,NM,Santo Domingo Pueblo-NM,New Mexico,35043,Sandoval,35.5175,-106.367,,,2842.6,polygon,FALSE,America/Denver,87052
+Nenahnezad-NM,1840033725,Nenahnezad,Nenahnezad,NM,Nenahnezad-NM,New Mexico,35045,San Juan,36.7354,-108.4253,,,129,polygon,FALSE,America/Denver,87416
+Dona Ana-NM,1840019409,Doña Ana,Dona Ana,NM,Dona Ana-NM,New Mexico,35013,Doña Ana,32.394,-106.8177,,,852.5,polygon,FALSE,America/Denver,88032 88007
+Atoka-NM,1840025093,Atoka,Atoka,NM,Atoka-NM,New Mexico,35015,Eddy,32.7783,-104.3931,,,25.1,polygon,FALSE,America/Denver,88210
+Crystal-NM,1840017668,Crystal,Crystal,NM,Crystal-NM,New Mexico,35045,San Juan,36.028,-108.9911,,,47.4,polygon,FALSE,America/Denver,87328
+Duran-NM,1840024989,Duran,Duran,NM,Duran-NM,New Mexico,35057,Torrance,34.4636,-105.3807,,,31.6,polygon,FALSE,America/Denver,88301
+Agua Fria-NM,1840017766,Agua Fria,Agua Fria,NM,Agua Fria-NM,New Mexico,35049,Santa Fe,35.6615,-106.0148,,,1256.2,polygon,FALSE,America/Denver,87507
+Rehoboth-NM,1840033601,Rehoboth,Rehoboth,NM,Rehoboth-NM,New Mexico,35031,McKinley,35.5289,-108.6548,,,53.5,point,FALSE,America/Denver,87322
+Midway-NM,1840026984,Midway,Midway,NM,Midway-NM,New Mexico,35005,Chaves,33.2958,-104.4518,,,157.4,polygon,FALSE,America/Denver,88203 88230
+Magdalena-NM,1840022840,Magdalena,Magdalena,NM,Magdalena-NM,New Mexico,35053,Socorro,34.1095,-107.2317,898,898,55,polygon,TRUE,America/Denver,87825
+Rodarte-NM,1840033628,Rodarte,Rodarte,NM,Rodarte-NM,New Mexico,35055,Taos,36.152,-105.6728,,,124.9,point,FALSE,America/Denver,87579
+Holman-NM,1840033647,Holman,Holman,NM,Holman-NM,New Mexico,35033,Mora,36.0384,-105.3836,,,78.7,point,FALSE,America/Denver,87723
+Portales-NM,1840020529,Portales,Portales,NM,Portales-NM,New Mexico,35041,Roosevelt,34.1765,-103.3543,12310,11989,657,polygon,TRUE,America/Denver,88130
+Folsom-NM,1840022633,Folsom,Folsom,NM,Folsom-NM,New Mexico,35059,Union,36.8483,-103.9186,54,54,39,polygon,TRUE,America/Denver,88419
+Manzano Springs-NM,1840033694,Manzano Springs,Manzano Springs,NM,Manzano Springs-NM,New Mexico,35001,Bernalillo,34.9614,-106.2328,,,4.2,polygon,FALSE,America/Denver,87015
+Lake Arthur-NM,1840021935,Lake Arthur,Lake Arthur,NM,Lake Arthur-NM,New Mexico,35005,Chaves,32.9995,-104.364,433,433,304,polygon,TRUE,America/Denver,88253
+Madrone-NM,1840024995,Madrone,Madrone,NM,Madrone-NM,New Mexico,35061,Valencia,34.5792,-106.7287,,,1.8,polygon,FALSE,America/Denver,87002
+Pastura-NM,1840024979,Pastura,Pastura,NM,Pastura-NM,New Mexico,35019,Guadalupe,34.785,-104.9422,,,20.7,polygon,FALSE,America/Denver,88435
+San Juan-NM,1840033631,San Juan,San Juan,NM,San Juan-NM,New Mexico,35017,Grant,32.7609,-107.9053,,,14.8,point,FALSE,America/Denver,88041
+Corrales-NM,1840022681,Corrales,Corrales,NM,Corrales-NM,New Mexico,35043,Sandoval,35.2367,-106.6197,8586,8586,314,polygon,TRUE,America/Denver,87048
+Redrock-NM,1840033627,Redrock,Redrock,NM,Redrock-NM,New Mexico,35017,Grant,32.6862,-108.7381,,,1.9,point,FALSE,America/Denver,88055
+La Jara-NM,1840017744,La Jara,La Jara,NM,La Jara-NM,New Mexico,35043,Sandoval,36.1055,-106.942,,,7.9,polygon,FALSE,America/Denver,87027
+Sena-NM,1840024924,Sena,Sena,NM,Sena-NM,New Mexico,35047,San Miguel,35.3037,-105.3914,,,26.5,polygon,FALSE,America/Denver,87560
+Armijo-NM,1840033653,Armijo,Armijo,NM,Armijo-NM,New Mexico,35001,Bernalillo,35.0537,-106.6772,,,1069.2,point,FALSE,America/Denver,87105
+Cloudcroft-NM,1840023001,Cloudcroft,Cloudcroft,NM,Cloudcroft-NM,New Mexico,35035,Otero,32.9532,-105.733,693,693,164,polygon,TRUE,America/Denver,88317
+New Laguna-NM,1840033568,New Laguna,New Laguna,NM,New Laguna-NM,New Mexico,35006,Cibola,35.0409,-107.422,,,79.3,point,FALSE,America/Denver,87038
+Casa Blanca-NM,1840033556,Casa Blanca,Casa Blanca,NM,Casa Blanca-NM,New Mexico,35006,Cibola,35.0456,-107.4714,,,25.9,point,FALSE,America/Denver,87007
+Rincon-NM,1840019412,Rincon,Rincon,NM,Rincon-NM,New Mexico,35013,Doña Ana,32.6729,-107.0764,,,106.7,polygon,FALSE,America/Denver,87940
+Paguate-NM,1840019171,Paguate,Paguate,NM,Paguate-NM,New Mexico,35006,Cibola,35.1356,-107.364,,,121,polygon,FALSE,America/Denver,87040
+Gallup-NM,1840020395,Gallup,Gallup,NM,Gallup-NM,New Mexico,35031,McKinley,35.5178,-108.7473,24172,22670,462,polygon,TRUE,America/Denver,87301 87302
+Navajo-NM,1840019088,Navajo,Navajo,NM,Navajo-NM,New Mexico,35031,McKinley,35.9024,-109.0321,,,162.4,polygon,FALSE,America/Denver,87328
+San Antonio-NM,1840025017,San Antonio,San Antonio,NM,San Antonio-NM,New Mexico,35053,Socorro,33.9161,-106.87,,,53.4,polygon,FALSE,America/Denver,87801 87832
+Polvadera-NM,1840025015,Polvadera,Polvadera,NM,Polvadera-NM,New Mexico,35053,Socorro,34.2021,-106.9172,,,120.2,polygon,FALSE,America/Denver,87828
+Domingo-NM,1840033655,Domingo,Domingo,NM,Domingo-NM,New Mexico,35043,Sandoval,35.5109,-106.32,,,37.8,point,FALSE,America/Denver,87052
+White Rock-NM,1840019105,White Rock,White Rock,NM,White Rock-NM,New Mexico,35028,Los Alamos,35.8075,-106.2066,,,523.8,polygon,FALSE,America/Denver,87544
+Spencerville-NM,1840024852,Spencerville,Spencerville,NM,Spencerville-NM,New Mexico,35045,San Juan,36.8191,-108.0561,,,153.8,polygon,FALSE,America/Denver,87410
+Pilar-NM,1840033698,Pilar,Pilar,NM,Pilar-NM,New Mexico,35055,Taos,36.2697,-105.7881,,,60.5,point,FALSE,America/Denver,87531
+Florida-NM,1840033668,Florida,Florida,NM,Florida-NM,New Mexico,35029,Luna,32.4159,-107.5767,,,1.6,point,FALSE,America/Denver,88030
+Los Lunas-NM,1840022814,Los Lunas,Los Lunas,NM,Los Lunas-NM,New Mexico,35061,Valencia,34.8092,-106.7663,66411,15454,374,polygon,TRUE,America/Denver,87031
+San Pedro-NM,1840024916,San Pedro,San Pedro,NM,San Pedro-NM,New Mexico,35049,Santa Fe,35.228,-106.1848,,,3.6,polygon,FALSE,America/Denver,87015 87047
+El Rancho-NM,1840017769,El Rancho,El Rancho,NM,El Rancho-NM,New Mexico,35049,Santa Fe,35.8927,-106.0856,,,166.1,polygon,FALSE,America/Denver,87506
+Velarde-NM,1840024845,Velarde,Velarde,NM,Velarde-NM,New Mexico,35039,Rio Arriba,36.1608,-105.9659,,,110,polygon,FALSE,America/Denver,87582
+Suwanee-NM,1840033693,Suwanee,Suwanee,NM,Suwanee-NM,New Mexico,35061,Valencia,34.935,-107.1373,,,14.5,point,FALSE,America/Denver,87026
+Chamberino-NM,1840025081,Chamberino,Chamberino,NM,Chamberino-NM,New Mexico,35013,Doña Ana,32.0364,-106.6776,,,494.1,polygon,FALSE,America/Denver,88021 88027 88044
+Tocito-NM,1840033595,Tocito,Tocito,NM,Tocito-NM,New Mexico,35045,San Juan,36.3994,-108.7812,,,29,point,FALSE,America/Denver,87420
+Deming-NM,1840019458,Deming,Deming,NM,Deming-NM,New Mexico,35029,Luna,32.2632,-107.7514,14534,14488,344,polygon,TRUE,America/Denver,88030 88031
+Arrey-NM,1840025045,Arrey,Arrey,NM,Arrey-NM,New Mexico,35051,Sierra,32.8472,-107.3204,,,110.6,polygon,FALSE,America/Denver,87930
+Tecolote-NM,1840016914,Tecolote,Tecolote,NM,Tecolote-NM,New Mexico,35047,San Miguel,35.4605,-105.2842,,,151.2,polygon,FALSE,America/Denver,87701
+Truth or Consequences-NM,1840021995,Truth or Consequences,Truth or Consequences,NM,Truth or Consequences-NM,New Mexico,35051,Sierra,33.1851,-107.2587,7365,6023,84,polygon,TRUE,America/Denver,87901 87935
+San Ignacio-NM,1840033630,San Ignacio,San Ignacio,NM,San Ignacio-NM,New Mexico,35047,San Miguel,35.7711,-105.3545,,,7.3,point,FALSE,America/Denver,87745
+Tucumcari-NM,1840021739,Tucumcari,Tucumcari,NM,Tucumcari-NM,New Mexico,35037,Quay,35.1701,-103.7043,4900,4975,202,polygon,TRUE,America/Denver,88401
+Scholle-NM,1840033634,Scholle,Scholle,NM,Scholle-NM,New Mexico,35057,Torrance,34.4276,-106.4167,,,2.4,point,FALSE,America/Denver,87036
+Santa Clara-NM,1840023010,Santa Clara,Santa Clara,NM,Santa Clara-NM,New Mexico,35017,Grant,32.7778,-108.1555,1751,1751,529,polygon,TRUE,America/Denver,88022 88026
+Ranchos de Taos-NM,1840019011,Ranchos de Taos,Ranchos de Taos,NM,Ranchos de Taos-NM,New Mexico,35055,Taos,36.3622,-105.6011,,,306.1,polygon,FALSE,America/Denver,87557 87571
+Vado-NM,1840019416,Vado,Vado,NM,Vado-NM,New Mexico,35013,Doña Ana,32.1279,-106.6571,,,170.3,polygon,FALSE,America/Denver,88072 88048
+Alamogordo-NM,1840019403,Alamogordo,Alamogordo,NM,Alamogordo-NM,New Mexico,35035,Otero,32.8834,-105.9627,32782,31283,563,polygon,TRUE,America/Denver,88310
+Hernandez-NM,1840024833,Hernandez,Hernandez,NM,Hernandez-NM,New Mexico,35039,Rio Arriba,36.0567,-106.1186,,,294,polygon,FALSE,America/Denver,87537
+Las Nutrias-NM,1840025012,Las Nutrias,Las Nutrias,NM,Las Nutrias-NM,New Mexico,35053,Socorro,34.4696,-106.7708,,,60.9,polygon,FALSE,America/Denver,87062
+Apache Creek-NM,1840025020,Apache Creek,Apache Creek,NM,Apache Creek-NM,New Mexico,35003,Catron,33.8487,-108.6141,,,5.3,polygon,FALSE,America/Denver,87820 87830
+Valmont-NM,1840033673,Valmont,Valmont,NM,Valmont-NM,New Mexico,35035,Otero,32.7468,-105.9875,,,17.1,point,FALSE,America/Denver,88310
+Floyd-NM,1840022839,Floyd,Floyd,NM,Floyd-NM,New Mexico,35041,Roosevelt,34.2283,-103.5544,114,114,14,polygon,TRUE,America/Denver,88130 88118
+Ribera-NM,1840024923,Ribera,Ribera,NM,Ribera-NM,New Mexico,35047,San Miguel,35.37,-105.4441,,,159.3,polygon,FALSE,America/Denver,87560
+Sandia Knolls-NM,1840033703,Sandia Knolls,Sandia Knolls,NM,Sandia Knolls-NM,New Mexico,35001,Bernalillo,35.1603,-106.2987,,,369.8,polygon,FALSE,America/Denver,87047
+Pena Blanca-NM,1840019063,Peña Blanca,Pena Blanca,NM,Pena Blanca-NM,New Mexico,35043,Sandoval,35.5709,-106.3319,,,285.8,polygon,FALSE,America/Denver,87041
+Waterflow-NM,1840024853,Waterflow,Waterflow,NM,Waterflow-NM,New Mexico,35045,San Juan,36.7574,-108.4709,,,169.5,polygon,FALSE,America/Denver,87421 87416
+Ojo Sarco-NM,1840033697,Ojo Sarco,Ojo Sarco,NM,Ojo Sarco-NM,New Mexico,35039,Rio Arriba,36.1225,-105.7834,,,35.4,point,FALSE,America/Denver,87521
+Mimbres-NM,1840025073,Mimbres,Mimbres,NM,Mimbres-NM,New Mexico,35017,Grant,32.8332,-107.9559,,,25.5,polygon,FALSE,America/Denver,88049 88041
+Ponderosa Pine-NM,1840024972,Ponderosa Pine,Ponderosa Pine,NM,Ponderosa Pine-NM,New Mexico,35001,Bernalillo,34.972,-106.3369,,,72.6,polygon,FALSE,America/Denver,87059
+Nara Visa-NM,1840024944,Nara Visa,Nara Visa,NM,Nara Visa-NM,New Mexico,35037,Quay,35.6068,-103.1043,,,40.8,polygon,FALSE,America/Denver,88430
+Talpa-NM,1840026912,Talpa,Talpa,NM,Talpa-NM,New Mexico,35055,Taos,36.3421,-105.5923,,,213.1,polygon,FALSE,America/Denver,87557 87571
+Llano Del Medio-NM,1840033659,Llano Del Medio,Llano Del Medio,NM,Llano Del Medio-NM,New Mexico,35019,Guadalupe,35.1881,-105.1162,,,20.3,polygon,FALSE,America/Denver,87711 87724
+Winston-NM,1840025052,Winston,Winston,NM,Winston-NM,New Mexico,35051,Sierra,33.3462,-107.6485,,,37,polygon,FALSE,America/Denver,87943
+Canjilon-NM,1840024821,Canjilon,Canjilon,NM,Canjilon-NM,New Mexico,35039,Rio Arriba,36.484,-106.4335,,,27.3,polygon,FALSE,America/Denver,87515
+McDonald-NM,1840033498,McDonald,McDonald,NM,McDonald-NM,New Mexico,35025,Lea,33.1407,-103.3174,,,2,point,FALSE,America/Denver,88262
+Salem-NM,1840019413,Salem,Salem,NM,Salem-NM,New Mexico,35013,Doña Ana,32.7122,-107.2044,,,207.9,polygon,FALSE,America/Denver,87941
+Causey-NM,1840022837,Causey,Causey,NM,Causey-NM,New Mexico,35041,Roosevelt,33.8576,-103.1066,98,98,9,polygon,TRUE,America/Denver,88132 88113
+Cleveland-NM,1840033643,Cleveland,Cleveland,NM,Cleveland-NM,New Mexico,35033,Mora,35.9934,-105.3706,,,43.4,point,FALSE,America/Denver,87715
+Wingate-NM,1840033535,Wingate,Wingate,NM,Wingate-NM,New Mexico,35031,McKinley,35.5145,-108.5448,,,3.6,point,FALSE,America/Denver,87311
+Santa Fe-NM,1840021707,Santa Fe,Santa Fe,NM,Santa Fe-NM,New Mexico,35049,Santa Fe,35.6619,-105.9818,110208,83875,617,polygon,TRUE,America/Denver,87505 87507 87501 87502 87503 87504 87509 87592 87594
+Cedar Crest-NM,1840017876,Cedar Crest,Cedar Crest,NM,Cedar Crest-NM,New Mexico,35001,Bernalillo,35.1113,-106.3802,,,144.6,polygon,FALSE,America/Denver,87008
+Sedillo-NM,1840024975,Sedillo,Sedillo,NM,Sedillo-NM,New Mexico,35001,Bernalillo,35.0906,-106.2869,,,99,polygon,FALSE,America/Denver,87059
+San Ysidro-NM,1840022684,San Ysidro,San Ysidro,NM,San Ysidro-NM,New Mexico,35043,Sandoval,35.5605,-106.7733,197,197,33,polygon,TRUE,America/Denver,87053
+Tyrone-NM,1840025078,Tyrone,Tyrone,NM,Tyrone-NM,New Mexico,35017,Grant,32.7099,-108.3028,,,468.5,polygon,FALSE,America/Denver,88065 88061
+Cruzville-NM,1840025022,Cruzville,Cruzville,NM,Cruzville-NM,New Mexico,35003,Catron,33.8099,-108.6684,,,6,polygon,FALSE,America/Denver,87830
+Capitan-NM,1840022871,Capitan,Capitan,NM,Capitan-NM,New Mexico,35027,Lincoln,33.5393,-105.5983,1388,1388,164,polygon,TRUE,America/Denver,88316
+Watrous-NM,1840026932,Watrous,Watrous,NM,Watrous-NM,New Mexico,35033,Mora,35.79,-104.9819,,,80.9,polygon,FALSE,America/Denver,87753
+Valencia-NM,1840019193,Valencia,Valencia,NM,Valencia-NM,New Mexico,35061,Valencia,34.8054,-106.6869,,,282.5,polygon,FALSE,America/Denver,87031
+Cordova-NM,1840024827,Cordova,Cordova,NM,Cordova-NM,New Mexico,35039,Rio Arriba,36.0127,-105.8566,,,137.2,polygon,FALSE,America/Denver,87523 87578
+Hope-NM,1840023032,Hope,Hope,NM,Hope-NM,New Mexico,35015,Eddy,32.8157,-104.7355,107,107,33,polygon,TRUE,America/Denver,88250
+Loving-NM,1840023033,Loving,Loving,NM,Loving-NM,New Mexico,35015,Eddy,32.2867,-104.097,1395,1395,459,polygon,TRUE,America/Denver,88256
+Belen-NM,1840019194,Belen,Belen,NM,Belen-NM,New Mexico,35061,Valencia,34.6804,-106.7875,7122,7122,331,polygon,TRUE,America/Denver,87002 87031
+Chupadero-NM,1840017765,Chupadero,Chupadero,NM,Chupadero-NM,New Mexico,35049,Santa Fe,35.8144,-105.9198,,,176.2,polygon,FALSE,America/Denver,87506
+North Acomita Village-NM,1840033720,North Acomita Village,North Acomita Village,NM,North Acomita Village-NM,New Mexico,35006,Cibola,35.0659,-107.5676,,,81.2,polygon,FALSE,America/Denver,87034 87049
+Hot Springs Landing-NM,1840025048,Hot Springs Landing,Hot Springs Landing,NM,Hot Springs Landing-NM,New Mexico,35051,Sierra,33.2047,-107.21,,,103.6,polygon,FALSE,America/Denver,87935
+Newman-NM,1840033569,Newman,Newman,NM,Newman-NM,New Mexico,35035,Otero,32.0034,-106.323,,,8,point,FALSE,America/Denver,88081
+Coyote-NM,1840016996,Coyote,Coyote,NM,Coyote-NM,New Mexico,35039,Rio Arriba,36.1616,-106.6067,,,16.5,polygon,FALSE,America/Denver,87064 87012
+Tatum-NM,1840022962,Tatum,Tatum,NM,Tatum-NM,New Mexico,35025,Lea,33.2553,-103.3111,827,827,201,polygon,TRUE,America/Denver,88267
+Mesquite-NM,1840019410,Mesquite,Mesquite,NM,Mesquite-NM,New Mexico,35013,Doña Ana,32.1669,-106.6885,,,712.9,polygon,FALSE,America/Denver,88048
+Springer-NM,1840022640,Springer,Springer,NM,Springer-NM,New Mexico,35007,Colfax,36.3661,-104.5932,929,929,244,polygon,TRUE,America/Denver,87747
+Dilia-NM,1840033654,Dilia,Dilia,NM,Dilia-NM,New Mexico,35019,Guadalupe,35.1931,-105.0636,,,28.1,point,FALSE,America/Denver,87711
+Quemado-NM,1840025028,Quemado,Quemado,NM,Quemado-NM,New Mexico,35003,Catron,34.3415,-108.506,,,182.9,polygon,FALSE,America/Denver,87829
+Gallina-NM,1840024824,Gallina,Gallina,NM,Gallina-NM,New Mexico,35039,Rio Arriba,36.2283,-106.8189,,,38.7,point,FALSE,America/Denver,87017
+Lucero-NM,1840033520,Lucero,Lucero,NM,Lucero-NM,New Mexico,35033,Mora,36.0164,-105.2283,,,2.6,point,FALSE,America/Denver,87736
+Crossroads-NM,1840033494,Crossroads,Crossroads,NM,Crossroads-NM,New Mexico,35025,Lea,33.5123,-103.3397,,,8.7,point,FALSE,America/Denver,88114
+Adelino-NM,1840024992,Adelino,Adelino,NM,Adelino-NM,New Mexico,35061,Valencia,34.7066,-106.7304,,,254.2,polygon,FALSE,America/Denver,87031
+Black Rock-NM,1840017764,Black Rock,Black Rock,NM,Black Rock-NM,New Mexico,35031,McKinley,35.0833,-108.7979,,,762.1,polygon,FALSE,America/Denver,87327
+La Union-NM,1840025085,La Union,La Union,NM,La Union-NM,New Mexico,35013,Doña Ana,31.9507,-106.6621,,,600.4,polygon,FALSE,America/Denver,88021
+Oscura-NM,1840033688,Oscura,Oscura,NM,Oscura-NM,New Mexico,35027,Lincoln,33.4837,-106.0544,,,3.3,point,FALSE,America/Denver,88301
+Mentmore-NM,1840033599,Mentmore,Mentmore,NM,Mentmore-NM,New Mexico,35031,McKinley,35.5142,-108.8456,,,46.5,point,FALSE,America/Denver,87301
+El Porvenir-NM,1840033612,El Porvenir,El Porvenir,NM,El Porvenir-NM,New Mexico,35047,San Miguel,35.6967,-105.3828,,,202.9,point,FALSE,America/Denver,87731
+La Puente-NM,1840033564,La Puente,La Puente,NM,La Puente-NM,New Mexico,35039,Rio Arriba,36.7,-106.6009,,,5,point,FALSE,America/Denver,87575
+Acomita Lake-NM,1840033718,Acomita Lake,Acomita Lake,NM,Acomita Lake-NM,New Mexico,35006,Cibola,35.066,-107.6171,,,57.5,polygon,FALSE,America/Denver,87034 87049
+Tesuque-NM,1840019104,Tesuque,Tesuque,NM,Tesuque-NM,New Mexico,35049,Santa Fe,35.7486,-105.921,,,166.3,polygon,FALSE,America/Denver,87506 87501
+Datil-NM,1840025023,Datil,Datil,NM,Datil-NM,New Mexico,35003,Catron,34.1423,-107.8424,,,11.5,polygon,FALSE,America/Denver,87821
+Contreras-NM,1840033532,Contreras,Contreras,NM,Contreras-NM,New Mexico,35053,Socorro,34.3828,-106.8136,,,8.6,point,FALSE,America/Denver,87028
+San Acacia-NM,1840025016,San Acacia,San Acacia,NM,San Acacia-NM,New Mexico,35053,Socorro,34.255,-106.9022,,,11.9,polygon,FALSE,America/Denver,87831
+Caballo-NM,1840025046,Caballo,Caballo,NM,Caballo-NM,New Mexico,35051,Sierra,32.9806,-107.3075,,,20.6,polygon,FALSE,America/Denver,87931
+South Valley-NM,1840033724,South Valley,South Valley,NM,South Valley-NM,New Mexico,35001,Bernalillo,35.009,-106.682,,,300.8,polygon,FALSE,America/Denver,87105
+Williamsburg-NM,1840022975,Williamsburg,Williamsburg,NM,Williamsburg-NM,New Mexico,35051,Sierra,33.1158,-107.2959,421,421,337,polygon,TRUE,America/Denver,87901 87942
+Lumberton-NM,1840024839,Lumberton,Lumberton,NM,Lumberton-NM,New Mexico,35039,Rio Arriba,36.9328,-106.9353,,,30.8,polygon,FALSE,America/Denver,87528
+Abeytas-NM,1840025007,Abeytas,Abeytas,NM,Abeytas-NM,New Mexico,35053,Socorro,34.4652,-106.8137,,,34.1,polygon,FALSE,America/Denver,87006
+Hayden-NM,1840033592,Hayden,Hayden,NM,Hayden-NM,New Mexico,35059,Union,35.9684,-103.2716,,,4.6,point,FALSE,America/Denver,88410
+Hobbs-NM,1840020616,Hobbs,Hobbs,NM,Hobbs-NM,New Mexico,35025,Lea,32.7281,-103.1597,41021,38143,561,polygon,TRUE,America/Denver,88240 88241 88244
+Flora Vista-NM,1840017670,Flora Vista,Flora Vista,NM,Flora Vista-NM,New Mexico,35045,San Juan,36.8056,-108.0856,,,279.3,polygon,FALSE,America/Denver,87410 87415
+Santa Rosa-NM,1840021821,Santa Rosa,Santa Rosa,NM,Santa Rosa-NM,New Mexico,35019,Guadalupe,34.936,-104.6769,2466,2680,207,polygon,TRUE,America/Denver,88435
+Elkins-NM,1840033542,Elkins,Elkins,NM,Elkins-NM,New Mexico,35005,Chaves,33.6945,-104.055,,,3,point,FALSE,America/Denver,88201
+Los Luceros-NM,1840024837,Los Luceros,Los Luceros,NM,Los Luceros-NM,New Mexico,35039,Rio Arriba,36.1151,-106.0371,,,139,polygon,FALSE,America/Denver,87511
+Manzano-NM,1840017890,Manzano,Manzano,NM,Manzano-NM,New Mexico,35057,Torrance,34.6437,-106.367,,,26.8,polygon,FALSE,America/Denver,87061
+Solano-NM,1840033503,Solano,Solano,NM,Solano-NM,New Mexico,35021,Harding,35.8484,-104.0675,,,3.5,point,FALSE,America/Denver,87746
+Bibo-NM,1840024962,Bibo,Bibo,NM,Bibo-NM,New Mexico,35006,Cibola,35.1807,-107.4178,,,14.1,polygon,FALSE,America/Denver,87014
+Eunice-NM,1840020615,Eunice,Eunice,NM,Eunice-NM,New Mexico,35025,Lea,32.4425,-103.1916,2922,3022,391,polygon,TRUE,America/Denver,88231
+Gila-NM,1840025070,Gila,Gila,NM,Gila-NM,New Mexico,35017,Grant,32.9485,-108.5762,,,29.6,polygon,FALSE,America/Denver,88028 88061 88038
+North Valley-NM,1840033721,North Valley,North Valley,NM,North Valley-NM,New Mexico,35001,Bernalillo,35.1735,-106.6232,,,672.2,polygon,FALSE,America/Denver,87113 87114 87107
+Seama-NM,1840019174,Seama,Seama,NM,Seama-NM,New Mexico,35006,Cibola,35.0441,-107.5271,,,81.1,polygon,FALSE,America/Denver,87007
+Costilla-NM,1840026910,Costilla,Costilla,NM,Costilla-NM,New Mexico,35055,Taos,36.9786,-105.5353,,,49.9,polygon,FALSE,America/Denver,87524
+Socorro-NM,1840021898,Socorro,Socorro,NM,Socorro-NM,New Mexico,35053,Socorro,34.0544,-106.9064,8554,8612,231,polygon,TRUE,America/Denver,87801
+Berino-NM,1840025080,Berino,Berino,NM,Berino-NM,New Mexico,35013,Doña Ana,32.0689,-106.6219,,,996.1,polygon,FALSE,America/Denver,88021 88048
+Alto-NM,1840033605,Alto,Alto,NM,Alto-NM,New Mexico,35027,Lincoln,33.3987,-105.6808,,,44.2,point,FALSE,America/Denver,88312
+Pinos Altos-NM,1840025075,Pinos Altos,Pinos Altos,NM,Pinos Altos-NM,New Mexico,35017,Grant,32.8665,-108.2221,,,146.1,polygon,FALSE,America/Denver,88061 88053
+University Park-NM,1840019415,University Park,University Park,NM,University Park-NM,New Mexico,35013,Doña Ana,32.2767,-106.7463,,,2785.9,polygon,FALSE,America/Denver,88001 88003
+Corona-NM,1840022872,Corona,Corona,NM,Corona-NM,New Mexico,35027,Lincoln,34.25,-105.5971,162,162,60,polygon,TRUE,America/Denver,88318
+Alamo-NM,1840017932,Alamo,Alamo,NM,Alamo-NM,New Mexico,35053,Socorro,34.4184,-107.5125,,,19.3,polygon,FALSE,America/Denver,87825
+Ensenada-NM,1840024832,Ensenada,Ensenada,NM,Ensenada-NM,New Mexico,35039,Rio Arriba,36.7309,-106.5368,,,34.3,polygon,FALSE,America/Denver,87575
+Los Ojos-NM,1840024838,Los Ojos,Los Ojos,NM,Los Ojos-NM,New Mexico,35039,Rio Arriba,36.7361,-106.5669,,,54.5,polygon,FALSE,America/Denver,87551
+Continental Divide-NM,1840017040,Continental Divide,Continental Divide,NM,Continental Divide-NM,New Mexico,35031,McKinley,35.425,-108.3153,,,2.7,point,FALSE,America/Denver,87416
+Bloomfield-NM,1840018994,Bloomfield,Bloomfield,NM,Bloomfield-NM,New Mexico,35045,San Juan,36.7265,-107.9792,8645,7090,346,polygon,TRUE,America/Denver,87413
+San Ildefonso Pueblo-NM,1840033706,San Ildefonso Pueblo,San Ildefonso Pueblo,NM,San Ildefonso Pueblo-NM,New Mexico,35049,Santa Fe,35.8955,-106.1225,,,39.1,polygon,FALSE,America/Denver,87506
+Hagerman-NM,1840021934,Hagerman,Hagerman,NM,Hagerman-NM,New Mexico,35005,Chaves,33.1146,-104.3283,1244,1244,348,polygon,TRUE,America/Denver,88232
+Cuyamungue-NM,1840019099,Cuyamungue,Cuyamungue,NM,Cuyamungue-NM,New Mexico,35049,Santa Fe,35.8648,-106.0096,,,96.8,polygon,FALSE,America/Denver,87506
+Pueblo Pintado-NM,1840019089,Pueblo Pintado,Pueblo Pintado,NM,Pueblo Pintado-NM,New Mexico,35031,McKinley,35.9453,-107.6161,,,4.9,polygon,FALSE,America/Denver,87013 87313
+Jarales-NM,1840017904,Jarales,Jarales,NM,Jarales-NM,New Mexico,35061,Valencia,34.6146,-106.7631,,,179.2,polygon,FALSE,America/Denver,87002 87023
+Los Padillas-NM,1840033549,Los Padillas,Los Padillas,NM,Los Padillas-NM,New Mexico,35001,Bernalillo,34.9692,-106.6959,,,332.5,point,FALSE,America/Denver,87105
+Melrose-NM,1840022817,Melrose,Melrose,NM,Melrose-NM,New Mexico,35009,Curry,34.4289,-103.6296,642,642,146,polygon,TRUE,America/Denver,88124
+Pajarito-NM,1840033501,Pajarito,Pajarito,NM,Pajarito-NM,New Mexico,35001,Bernalillo,34.9864,-106.6967,,,536.1,point,FALSE,America/Denver,87105
+Nakaibito-NM,1840019087,Nakaibito,Nakaibito,NM,Nakaibito-NM,New Mexico,35031,McKinley,35.7826,-108.8039,,,46.8,polygon,FALSE,America/Denver,87325 87320
+Ruidoso-NM,1840022873,Ruidoso,Ruidoso,NM,Ruidoso-NM,New Mexico,35027,Lincoln,33.364,-105.6443,9285,7770,186,polygon,TRUE,America/Denver,88345 88338 88355
+Cuba-NM,1840022682,Cuba,Cuba,NM,Cuba-NM,New Mexico,35043,Sandoval,36.0122,-106.9696,740,740,84,polygon,TRUE,America/Denver,87013
+Albuquerque-NM,1840019176,Albuquerque,Albuquerque,NM,Albuquerque-NM,New Mexico,35001,Bernalillo,35.1055,-106.6476,759517,559277,1147,polygon,TRUE,America/Denver,87121 87123 87112 87113 87110 87111 87116 87114 87109 87108 87102 87105 87104 87107 87106 87120 87101 87103 87115 87119 87125 87131 87151 87153 87154 87158 87176 87181 87184 87185 87187 87190 87191 87192 87193 87194 87195 87196 87197 87198 87199
+Soham-NM,1840024925,Soham,Soham,NM,Soham-NM,New Mexico,35047,San Miguel,35.4168,-105.4985,,,119.9,polygon,FALSE,America/Denver,87565
+Vaughn-NM,1840022797,Vaughn,Vaughn,NM,Vaughn-NM,New Mexico,35019,Guadalupe,34.6072,-105.2126,412,412,28,polygon,TRUE,America/Denver,88353
+Clines Corners-NM,1840033531,Clines Corners,Clines Corners,NM,Clines Corners-NM,New Mexico,35057,Torrance,35.0095,-105.6692,,,5.2,point,FALSE,America/Denver,87070
+Acomita-NM,1840033537,Acomita,Acomita,NM,Acomita-NM,New Mexico,35006,Cibola,35.0553,-107.5717,,,58.1,point,FALSE,America/Denver,87034
+Rodey-NM,1840025088,Rodey,Rodey,NM,Rodey-NM,New Mexico,35013,Doña Ana,32.6538,-107.1358,,,404.5,polygon,FALSE,America/Denver,87937
+San Jose-NM,1840026938,San Jose,San Jose,NM,San Jose-NM,New Mexico,35047,San Miguel,35.3955,-105.4759,,,122.4,polygon,FALSE,America/Denver,87565
+Las Palomas-NM,1840025050,Las Palomas,Las Palomas,NM,Las Palomas-NM,New Mexico,35051,Sierra,33.0589,-107.2983,,,37.3,polygon,FALSE,America/Denver,87901 87942
+Rodeo-NM,1840025103,Rodeo,Rodeo,NM,Rodeo-NM,New Mexico,35023,Hidalgo,31.8396,-109.0265,,,56.4,polygon,FALSE,America/Denver,88056
+Mescalero-NM,1840019401,Mescalero,Mescalero,NM,Mescalero-NM,New Mexico,35035,Otero,33.1448,-105.7897,,,29.5,polygon,FALSE,America/Denver,88340
+Las Cruces-NM,1840020683,Las Cruces,Las Cruces,NM,Las Cruces-NM,New Mexico,35013,Doña Ana,32.3265,-106.7893,134050,101759,510,polygon,TRUE,America/Denver,88012 88011 88005 88007 88001 88006 88013
+Cotton City-NM,1840025101,Cotton City,Cotton City,NM,Cotton City-NM,New Mexico,35023,Hidalgo,32.1101,-108.8805,,,14.6,polygon,FALSE,America/Denver,88020
+Nogal-NM,1840025029,Nogal,Nogal,NM,Nogal-NM,New Mexico,35027,Lincoln,33.5395,-105.7105,,,4,polygon,FALSE,America/Denver,88341
+Black River Village-NM,1840033553,Black River Village,Black River Village,NM,Black River Village-NM,New Mexico,35015,Eddy,32.2018,-104.253,,,1.9,point,FALSE,America/Denver,88220
+McCartys-NM,1840033687,McCartys,McCartys,NM,McCartys-NM,New Mexico,35006,Cibola,35.0628,-107.6695,,,25.7,point,FALSE,America/Denver,87034
+Bosque-NM,1840033554,Bosque,Bosque,NM,Bosque-NM,New Mexico,35061,Valencia,34.5601,-106.7892,,,84,point,FALSE,America/Denver,87002
+Roy-NM,1840022686,Roy,Roy,NM,Roy-NM,New Mexico,35021,Harding,35.9451,-104.1963,224,224,42,polygon,TRUE,America/Denver,87743
+Tohatchi-NM,1840019091,Tohatchi,Tohatchi,NM,Tohatchi-NM,New Mexico,35031,McKinley,35.841,-108.7506,,,59.6,polygon,FALSE,America/Denver,87325
+Hachita-NM,1840025071,Hachita,Hachita,NM,Hachita-NM,New Mexico,35017,Grant,31.9153,-108.3252,,,21.7,polygon,FALSE,America/Denver,88040
+Alamillo-NM,1840025008,Alamillo,Alamillo,NM,Alamillo-NM,New Mexico,35053,Socorro,34.2519,-106.9158,,,24.5,polygon,FALSE,America/Denver,87831
+Gage-NM,1840033560,Gage,Gage,NM,Gage-NM,New Mexico,35029,Luna,32.2295,-108.0861,,,12.4,point,FALSE,America/Denver,88030
+Lovington-NM,1840020617,Lovington,Lovington,NM,Lovington-NM,New Mexico,35025,Lea,32.9457,-103.3504,12003,11399,918,polygon,TRUE,America/Denver,88260
+Torreon-NM,1840019189,Torreon,Torreon,NM,Torreon-NM,New Mexico,35057,Torrance,34.7241,-106.3008,,,40.4,polygon,FALSE,America/Denver,87061 87016
+Chilili-NM,1840017877,Chilili,Chilili,NM,Chilili-NM,New Mexico,35001,Bernalillo,34.8974,-106.2332,,,27,polygon,FALSE,America/Denver,87059
+Taos-NM,1840022638,Taos,Taos,NM,Taos-NM,New Mexico,35055,Taos,36.3868,-105.5802,13799,5763,390,polygon,TRUE,America/Denver,87571
+North Hurley-NM,1840025074,North Hurley,North Hurley,NM,North Hurley-NM,New Mexico,35017,Grant,32.7197,-108.1285,,,121.8,polygon,FALSE,America/Denver,88043
+Dayton-NM,1840033558,Dayton,Dayton,NM,Dayton-NM,New Mexico,35015,Eddy,32.7315,-104.3852,,,2.7,point,FALSE,America/Denver,88210
+Pie Town-NM,1840025026,Pie Town,Pie Town,NM,Pie Town-NM,New Mexico,35003,Catron,34.34,-108.1708,,,21.3,polygon,FALSE,America/Denver,87827
+Weed-NM,1840025064,Weed,Weed,NM,Weed-NM,New Mexico,35035,Otero,32.8025,-105.5248,,,2.2,polygon,FALSE,America/Denver,88339 88354
+Carrizozo-NM,1840022870,Carrizozo,Carrizozo,NM,Carrizozo-NM,New Mexico,35027,Lincoln,33.6433,-105.8411,938,938,43,polygon,TRUE,America/Denver,88301
+Santa Cruz-NM,1840019103,Santa Cruz,Santa Cruz,NM,Santa Cruz-NM,New Mexico,35049,Santa Fe,35.9939,-106.036,,,1028.1,polygon,FALSE,America/Denver,87567 87532
+Nadine-NM,1840025041,Nadine,Nadine,NM,Nadine-NM,New Mexico,35025,Lea,32.6239,-103.1069,,,29.9,polygon,FALSE,America/Denver,88240
+Chili-NM,1840024826,Chili,Chili,NM,Chili-NM,New Mexico,35039,Rio Arriba,36.1027,-106.1529,,,117.5,polygon,FALSE,America/Denver,87537
+Meadow Lake-NM,1840019192,Meadow Lake,Meadow Lake,NM,Meadow Lake-NM,New Mexico,35061,Valencia,34.8024,-106.5701,,,539.6,polygon,FALSE,America/Denver,87031
+Yeso-NM,1840033587,Yeso,Yeso,NM,Yeso-NM,New Mexico,35011,De Baca,34.4392,-104.61,,,3.2,point,FALSE,America/Denver,88136
+El Duende-NM,1840024830,El Duende,El Duende,NM,El Duende-NM,New Mexico,35039,Rio Arriba,36.0738,-106.1269,,,321.8,polygon,FALSE,America/Denver,87566 87537
+Young Place-NM,1840033536,Young Place,Young Place,NM,Young Place-NM,New Mexico,35045,San Juan,36.9934,-107.4931,,,4.7,polygon,FALSE,America/Denver,81137 87419
+Artesia-NM,1840019443,Artesia,Artesia,NM,Artesia-NM,New Mexico,35015,Eddy,32.8479,-104.4277,13816,12232,475,polygon,TRUE,America/Denver,88210
+Hurley-NM,1840022035,Hurley,Hurley,NM,Hurley-NM,New Mexico,35017,Grant,32.6982,-108.1321,1240,1240,469,polygon,TRUE,America/Denver,88043
+Tularosa-NM,1840023002,Tularosa,Tularosa,NM,Tularosa-NM,New Mexico,35035,Otero,33.0753,-106.0175,2802,2912,400,polygon,TRUE,America/Denver,88352
+Separ-NM,1840033577,Separ,Separ,NM,Separ-NM,New Mexico,35017,Grant,32.2009,-108.4223,,,2.3,point,FALSE,America/Denver,88045
+Luis Lopez-NM,1840025014,Luis Lopez,Luis Lopez,NM,Luis Lopez-NM,New Mexico,35053,Socorro,33.9904,-106.8878,,,81.4,polygon,FALSE,America/Denver,87801
+Tesuque Pueblo-NM,1840033708,Tesuque Pueblo,Tesuque Pueblo,NM,Tesuque Pueblo-NM,New Mexico,35049,Santa Fe,35.8091,-105.9752,,,137,polygon,FALSE,America/Denver,87506
+Mesita-NM,1840019170,Mesita,Mesita,NM,Mesita-NM,New Mexico,35006,Cibola,35.0134,-107.3296,,,145.6,polygon,FALSE,America/Denver,87026
+Golden-NM,1840024913,Golden,Golden,NM,Golden-NM,New Mexico,35049,Santa Fe,35.2637,-106.2233,,,6.3,polygon,FALSE,America/Denver,87047
+House-NM,1840022728,House,House,NM,House-NM,New Mexico,35037,Quay,34.6484,-103.9034,63,63,26,polygon,TRUE,America/Denver,88121
+Puerto De Luna-NM,1840033662,Puerto De Luna,Puerto De Luna,NM,Puerto De Luna-NM,New Mexico,35019,Guadalupe,34.8297,-104.6222,,,13.6,polygon,FALSE,America/Denver,88435
+Silver City-NM,1840023009,Silver City,Silver City,NM,Silver City-NM,New Mexico,35017,Grant,32.7783,-108.2699,12202,9907,377,polygon,TRUE,America/Denver,88061 88062
+Pleasanton-NM,1840025027,Pleasanton,Pleasanton,NM,Pleasanton-NM,New Mexico,35003,Catron,33.2759,-108.8792,,,16.2,polygon,FALSE,America/Denver,88039
+Mule Creek-NM,1840033623,Mule Creek,Mule Creek,NM,Mule Creek-NM,New Mexico,35017,Grant,33.122,-108.9562,,,3.5,point,FALSE,America/Denver,88051
+Embudo-NM,1840033645,Embudo,Embudo,NM,Embudo-NM,New Mexico,35039,Rio Arriba,36.2075,-105.9611,,,1.8,point,FALSE,America/Denver,87549
+White Sands-NM,1840019417,White Sands,White Sands,NM,White Sands-NM,New Mexico,35013,Doña Ana,32.3836,-106.4928,,,325.3,polygon,FALSE,America/Denver,88002
+Eldorado at Santa Fe-NM,1840033719,Eldorado at Santa Fe,Eldorado at Santa Fe,NM,Eldorado at Santa Fe-NM,New Mexico,35049,Santa Fe,35.5273,-105.934,,,228.2,polygon,FALSE,America/Denver,87508 87540
+Casa Colorada-NM,1840017902,Casa Colorada,Casa Colorada,NM,Casa Colorada-NM,New Mexico,35061,Valencia,34.5536,-106.7422,,,39.1,polygon,FALSE,America/Denver,87002
+Tecolotito-NM,1840024927,Tecolotito,Tecolotito,NM,Tecolotito-NM,New Mexico,35047,San Miguel,35.2308,-105.1631,,,145.8,polygon,FALSE,America/Denver,87711
+Gamerco-NM,1840033546,Gamerco,Gamerco,NM,Gamerco-NM,New Mexico,35031,McKinley,35.5722,-108.7654,,,865.6,point,FALSE,America/Denver,87317
+Picuris Pueblo-NM,1840019010,Picuris Pueblo,Picuris Pueblo,NM,Picuris Pueblo-NM,New Mexico,35055,Taos,36.1995,-105.7133,,,57.8,polygon,FALSE,America/Denver,87553
+San Luis-NM,1840024905,San Luis,San Luis,NM,San Luis-NM,New Mexico,35043,Sandoval,35.7009,-107.0431,,,6.4,polygon,FALSE,America/Denver,87053
+Espanola-NM,1840020348,Española,Espanola,NM,Espanola-NM,New Mexico,35039,Rio Arriba,36.004,-106.0677,26195,10138,499,polygon,TRUE,America/Denver,87567 87532 87533
+Hillsboro-NM,1840025047,Hillsboro,Hillsboro,NM,Hillsboro-NM,New Mexico,35051,Sierra,32.9218,-107.5777,,,91,polygon,FALSE,America/Denver,88042
+Malaga-NM,1840025096,Malaga,Malaga,NM,Malaga-NM,New Mexico,35015,Eddy,32.2227,-104.0692,,,45.6,polygon,FALSE,America/Denver,88263
+Pueblitos-NM,1840024996,Pueblitos,Pueblitos,NM,Pueblitos-NM,New Mexico,35061,Valencia,34.611,-106.7817,,,211.3,polygon,FALSE,America/Denver,87002
+Cochiti Lake-NM,1840024904,Cochiti Lake,Cochiti Lake,NM,Cochiti Lake-NM,New Mexico,35043,Sandoval,35.6478,-106.3425,,,535.2,polygon,FALSE,America/Denver,87083
+Sunshine-NM,1840025107,Sunshine,Sunshine,NM,Sunshine-NM,New Mexico,35029,Luna,32.1344,-107.7838,,,12.4,polygon,FALSE,America/Denver,88030
+High Rolls-NM,1840025059,High Rolls,High Rolls,NM,High Rolls-NM,New Mexico,35035,Otero,32.9388,-105.8214,,,79.9,polygon,FALSE,America/Denver,88325
+Pueblito-NM,1840024841,Pueblito,Pueblito,NM,Pueblito-NM,New Mexico,35039,Rio Arriba,36.0727,-106.0811,,,51.1,polygon,FALSE,America/Denver,87566
+Glenwood-NM,1840025024,Glenwood,Glenwood,NM,Glenwood-NM,New Mexico,35003,Catron,33.3188,-108.881,,,27.5,polygon,FALSE,America/Denver,88039
+Laguna-NM,1840017871,Laguna,Laguna,NM,Laguna-NM,New Mexico,35006,Cibola,35.0504,-107.4071,,,35.3,polygon,FALSE,America/Denver,87038 87026
+Tijeras-NM,1840022796,Tijeras,Tijeras,NM,Tijeras-NM,New Mexico,35001,Bernalillo,35.0884,-106.376,543,543,181,polygon,TRUE,America/Denver,87059
+Monument-NM,1840026991,Monument,Monument,NM,Monument-NM,New Mexico,35025,Lea,32.6243,-103.2776,,,76.6,polygon,FALSE,America/Denver,88265
+Manuelito-NM,1840033598,Manuelito,Manuelito,NM,Manuelito-NM,New Mexico,35031,McKinley,35.422,-108.994,,,9.3,point,FALSE,America/Denver,87319
+Roswell-NM,1840020549,Roswell,Roswell,NM,Roswell-NM,New Mexico,35005,Chaves,33.3729,-104.5294,49540,48184,623,polygon,TRUE,America/Denver,88203 88201 88202
+Tres Piedras-NM,1840033701,Tres Piedras,Tres Piedras,NM,Tres Piedras-NM,New Mexico,35055,Taos,36.647,-105.9672,,,55.7,point,FALSE,America/Denver,87577
+La Mesa-NM,1840025084,La Mesa,La Mesa,NM,La Mesa-NM,New Mexico,35013,Doña Ana,32.1244,-106.709,,,458.2,polygon,FALSE,America/Denver,88044
+Canova-NM,1840024823,Canova,Canova,NM,Canova-NM,New Mexico,35039,Rio Arriba,36.1648,-105.9857,,,18.1,polygon,FALSE,America/Denver,87582
+Cochiti-NM,1840017741,Cochiti,Cochiti,NM,Cochiti-NM,New Mexico,35043,Sandoval,35.6094,-106.3486,,,267.7,polygon,FALSE,America/Denver,87072
+Church Rock-NM,1840017762,Church Rock,Church Rock,NM,Church Rock-NM,New Mexico,35031,McKinley,35.5308,-108.6234,,,245.8,polygon,FALSE,America/Denver,87311

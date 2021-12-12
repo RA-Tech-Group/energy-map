@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<head>
+  <title>Energy visualization</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:100,400,300,500,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script src="js/three.js"></script>
+  <script src="js/OBJLoader.js"></script>
+  <script src="js/stats.min.js"></script>
+  <script src="js/Detector.js"></script>
+  <script src="js/STLLoader.js"></script>
+  <script src="js/OrbitControls.js"></script>
+  <script src="js/tween.js"></script>
+
+  <script src="js/mapdata.js"></script>
+  <script src="js/usmap.js"></script>
+
+  <!--     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script> -->
+
+  <link rel="stylesheet" href="css/material.css">
+  <script src="js/material.min.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+  <!--New TreeMapScripts-->
+  <script src="lib/bower_components/subunit/demos/bower_components/stats.js/build/stats.min.js"></script>
+  <script src="lib/bower_components/subunit/demos/bower_components/d3/d3.js"></script>
+  <script src="lib/bower_components/subunit/demos/bower_components/tweenjs/build/tween.min.js"></script>
+  <script src="lib/threejs/examples/js/controls/TrackballControls.js"></script>
+  <script src="lib/bower_components/subunit/dist/subunit.js"></script>
+  <script src="lib/bower_components/traceur/traceur.js"></script>
+  <script src="lib/bower_components/traceur/bootstrap.js"></script>
+
+  <!--Bootstrap 3.3.7-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!--Ammp Map Scripts-->
+  <script src="js/amcharts/ammap.js"></script>
+  <script src="js/amcharts/usaLow.js"></script>
+  <script src="js/amcharts/usa2low.js"></script>
+  <script src="js/amcharts/worldLow.js"></script>
+  <script src="js/amcharts/light.js"></script>
+  
+  <link rel="stylesheet" href="css/nouislider.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/nouislider.js"></script>
+</head>
+<body>
+  <div class="waiting-loader"><img src="img/site-loader.gif" title="Loading" /></div>
+  <div id="selectedMapHiddenData">
+    <input type="text" id="txtHiddenState" hidden=""/>
+    <input type="text" id="txtHiddenCounty" hidden=""/>
+    <input type="text" id="txtHiddenCity" hidden=""/>
+  </div>
+  <div class="img_logo"><img src="img/logo.png"></div>
+  <div class="logo">Energy Data</div>
+  <div id="canvas"></div>
+  <div class="controls cont" style="width:33%;">
+    <div style="text-align: center; top: 0;">
+      <img id="countryImage" src="img/US_State_Maps/ny.png" style="width: 45px;margin-bottom: 10px;">
+    </div>
+    <div class="hdr" id="front">Select region
+      <div class="btn-group btn-toggle map-toogle-menu">
+        <button class="map-toggle btn btn-xs btn-default" id="ww">Worldwide</button>
+        <button class="map-toggle btn btn-xs btn-success active" id="usa" disabled="disabled">U.S</button>  
+        <button class="map-toggle btn btn-xs btn-default usa-sub-menu showSub" disabled="disabled" id="usa-counties">County</button>
+        <button class="map-toggle btn btn-xs btn-default usa-sub-menu showSub" disabled="disabled" id="usa-cities">City</button>
+      </div>
+    </div>
+    <!--<div id="map"></div>-->
+    <div class="drawMap" id="drawStatesMap"></div>
+    <div class="drawMap" id="drawWorldwideMap" style="display: none"></div>
+    <div class="drawMap" id="drawUsaCountyMap" style="display: none"></div>
+    <div class="drawMap" id="drawUsaCountyCitiesMap"></div>
+
+    <div class="state-description">
+      <h4>State of California</h4>
+      <div>45MBtu of <span id="B-layer-text">fossil fuel energy</span> is being used to power the city. We need to replace it with 25% more renewables by next year.</div>
+      <div>Do your part, by <span id="C-layer-text">reducing waste</span> and <span id="others-layer-text">increasing</span> clean energy.</div>
+    </div>
+    
+  </div>
+  <div class="popup" id="popup">
+    SOME INFO
+  </div>
+  <div class="filter_container cont">
+    <div class="hdr" id="front">Select year</div>
+    <span class="value" id="slider1-value"></span>
+    <input class="slider mdl-slider mdl-js-slider" id="1" type="range" min="1960" max="2010" value="2010" tabindex="0">      
+  </div>
+  <div class="data_type cont">
+    <div class="hdr" id="front">Filter by energy type</div>
+    <div class="switch-filter-item-wrapper">
+      <label class="switch">
+        <input type="checkbox" id="switch-filter-item" onclick="switchFilterItem()" checked>
+        <span class="slider-switch round"></span>
+      </label>
+      <span class="switch-filter-item-label">Show/Hide All</span>
+    </div>
+    <div class="filter-item on" id="Nuclear"><img src="img/icon_nuclear.png"></div>
+    <div class="filter-item on" id="Geothermal"><img src="img/icon_geo.png"></div>
+    <div class="filter-item on" id="Solar"><img src="img/icon_solar.png"></div>
+    <div class="filter-item on" id="Biofuel"><img src="img/icon_bio.png"></div>
+    <div class="filter-item on" id="Wind"><img src="img/icon_wind.png"></div>
+    <div class="filter-item on" id="Hydro"><img src="img/icon_hydro.png"></div>
+    <div class="filter-item on" id="Coal"><img src="img/icon_coal.png"></div>
+    <div class="filter-item on" id="Petroleum"><img src="img/icon_petroleum.png"></div>
+    <div class="filter-item on" id="Natural Gas"><img src="img/icon_naturalgas.png"></div>
+    <div class="filter-item on" id="waste"><img src="img/icon_inefficiences.png"></div>
+    <div class="hdr" id="front">Filter by sector</div>
+    <div class="filter-item2 on" id="filter-item2-1"><img src="img/icon_home.png"></div>
+    <div class="filter-item2 on" id="filter-item2-2"><img src="img/icon_business.png"></div>
+    <div class="filter-item2 on" id="filter-item2-3"><img src="img/icon_transportation.png"></div>
+    <div class="filter-item3 on"><img src="img/icon_electricity.png"></div>
+  </div>
+  <div class="data_mode">
+    <ul class="demo-list-control mdl-list mode-view-listing">
+      <li class="selected-mode">
+        <div class="cc-selector-2">
+          <input  checked="checked" id="full3d-mode" name="options" value="1"  class="mdl-radio__button" type="radio" />
+          <label class="drinkcard-cc full3d-mode" for="full3d-mode"></label>
+        </div>
+        <span>Full 3D mode</span>
+      </li>
+
+      <li>
+        <div class="cc-selector-2">
+          <input id="d3Simplified-mode" type="radio" class="mdl-radio__button" name="options" value="2" />
+          <label class="drinkcard-cc d3Simplified-mode" for="d3Simplified-mode"></label>
+        </div>
+        <span>3D simplified</span>
+      </li>
+
+      <li>
+        <div class="cc-selector-2">
+          <input id="full2d-mode" class="mdl-radio__button" type="radio" name="options" value="3" />
+          <label class="drinkcard-cc full2d-mode" for="full2d-mode"></label>
+        </div>
+        <span>Full 2D mode</span>
+      </li>
+    </ul>
+  </div>
+  <p class="total_energy_sum">0</p>
+  <div class="range-slider-wrapper">
+    <div id="range-slider"></div>
+  </div>
+  <!-- TreeMap Modal -->
+  <div id="treeMapPopUp" class="modal">
+    <!-- Modal content -->
+    <div class="modal-content">
+      <span onclick="closePopUp()" class="closePopUp">&times;</span>
+      <div class="modelContentBody" id="grayMapBody"></div>
+    </div>
+  </div>
+	<script src="js/app.js"></script>
+</body>

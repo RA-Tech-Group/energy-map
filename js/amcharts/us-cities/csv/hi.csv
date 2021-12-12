@@ -1,0 +1,150 @@
+City-State,id,city,city_ascii,state_id,City-State,state_name,county_fips,county_name,lat,lng,population,population_proper,density,source,incorporated,timezone,zips
+Waipio Acres-HI,1840029562,Waipiʻo Acres,Waipio Acres,HI,Waipio Acres-HI,Hawaii,15003,Honolulu,21.4689,-158.0173,,,3923.8,polygon,FALSE,Pacific/Honolulu,96789
+Ewa Gentry-HI,1840029577,ʻEwa Gentry,Ewa Gentry,HI,Ewa Gentry-HI,Hawaii,15003,Honolulu,21.3343,-158.0259,,,6189.2,polygon,FALSE,Pacific/Honolulu,96706
+Ulupalakua-HI,1840029549,ʻUlupalakua,Ulupalakua,HI,Ulupalakua-HI,Hawaii,15009,Maui,20.6487,-156.3982,,,9.3,point,FALSE,Pacific/Honolulu,96790
+Niulii-HI,1840029532,Niuliʻi,Niulii,HI,Niulii-HI,Hawaii,15001,Hawaii,20.2223,-155.7442,,,107.8,point,FALSE,Pacific/Honolulu,96755
+Haliimaile-HI,1840029475,Hāliʻimaile,Haliimaile,HI,Haliimaile-HI,Hawaii,15009,Maui,20.8671,-156.3381,,,1066,polygon,FALSE,Pacific/Honolulu,96768
+Puuwai-HI,1840029547,Puʻuwai,Puuwai,HI,Puuwai-HI,Hawaii,15007,Kauai,21.901,-160.2017,,,1,point,FALSE,Pacific/Honolulu,96769
+Laie-HI,1840029514,Lāʻie,Laie,HI,Laie-HI,Hawaii,15003,Honolulu,21.6443,-157.928,,,2911.8,polygon,FALSE,Pacific/Honolulu,96762
+Lahaina-HI,1840023234,Lahaina,Lahaina,HI,Lahaina-HI,Hawaii,15009,Maui,20.8847,-156.6618,,,1421.7,polygon,FALSE,Pacific/Honolulu,96761 96767
+Hilo-HI,1840023193,Hilo,Hilo,HI,Hilo-HI,Hawaii,15001,Hawaii,19.6886,-155.0864,,,1690.4,polygon,FALSE,Pacific/Honolulu,96720 96721
+Waikapu-HI,1840029556,Waikapū,Waikapu,HI,Waikapu-HI,Hawaii,15009,Maui,20.8392,-156.5221,,,1360.2,polygon,FALSE,Pacific/Honolulu,96793
+Hanapepe-HI,1840029478,Hanapēpē,Hanapepe,HI,Hanapepe-HI,Hawaii,15007,Kauai,21.914,-159.5874,,,255.9,polygon,FALSE,Pacific/Honolulu,96716
+Lihue-HI,1840029519,Līhuʻe,Lihue,HI,Lihue-HI,Hawaii,15007,Kauai,21.9728,-159.3541,,,1959.8,polygon,FALSE,Pacific/Honolulu,96766
+Kaunakakai-HI,1840023226,Kaunakakai,Kaunakakai,HI,Kaunakakai-HI,Hawaii,15009,Maui,21.0905,-156.9981,,,194.8,polygon,FALSE,Pacific/Honolulu,96748
+Waimea-HI,1840023225,Waimea,Waimea,HI,Waimea-HI,Hawaii,15007,Kauai,21.9651,-159.6679,,,927.8,polygon,FALSE,Pacific/Honolulu,96796
+Hawaiian Paradise Park-HI,1840029582,Hawaiian Paradise Park,Hawaiian Paradise Park,HI,Hawaiian Paradise Park-HI,Hawaii,15001,Hawaii,19.5828,-154.9693,,,246.4,polygon,FALSE,Pacific/Honolulu,96749
+Kamalo-HI,1840029497,Kamalō,Kamalo,HI,Kamalo-HI,Hawaii,15009,Maui,21.0502,-156.8746,,,39,point,FALSE,Pacific/Honolulu,96748
+Wailua Homesteads-HI,1840029591,Wailua Homesteads,Wailua Homesteads,HI,Wailua Homesteads-HI,Hawaii,15007,Kauai,22.065,-159.3771,,,686.6,polygon,FALSE,Pacific/Honolulu,96746
+Launiupoko-HI,1840029516,Launiupoko,Launiupoko,HI,Launiupoko-HI,Hawaii,15009,Maui,20.8541,-156.6424,,,190.2,polygon,FALSE,Pacific/Honolulu,96761
+Kapalua-HI,1840029583,Kapalua,Kapalua,HI,Kapalua-HI,Hawaii,15009,Maui,20.9959,-156.6417,,,56.9,polygon,FALSE,Pacific/Honolulu,96761
+Waiakoa-HI,1840029551,Waiakoa,Waiakoa,HI,Waiakoa-HI,Hawaii,15009,Maui,20.76,-156.3277,,,258.9,point,FALSE,Pacific/Honolulu,96790
+Hauula-HI,1840029479,Hauʻula,Hauula,HI,Hauula-HI,Hawaii,15003,Honolulu,21.6111,-157.9118,,,753.2,polygon,FALSE,Pacific/Honolulu,96717
+Waianae-HI,1840029552,Waiʻanae,Waianae,HI,Waianae-HI,Hawaii,15003,Honolulu,21.4569,-158.1759,,,2746.3,polygon,FALSE,Pacific/Honolulu,96792
+Omao-HI,1840029533,ʻŌmaʻo,Omao,HI,Omao-HI,Hawaii,15007,Kauai,21.9236,-159.4814,,,471.5,polygon,FALSE,Pacific/Honolulu,96756
+Laupahoehoe-HI,1840029517,Laupāhoehoe,Laupahoehoe,HI,Laupahoehoe-HI,Hawaii,15001,Hawaii,19.9749,-155.238,,,175.1,polygon,FALSE,Pacific/Honolulu,96764
+Wailuku-HI,1840023239,Wailuku,Wailuku,HI,Wailuku-HI,Hawaii,15009,Maui,20.8836,-156.506,,,2292.1,polygon,FALSE,Pacific/Honolulu,96793
+Pahala-HI,1840029537,Pāhala,Pahala,HI,Pahala-HI,Hawaii,15001,Hawaii,19.1995,-155.4793,,,1139.9,polygon,FALSE,Pacific/Honolulu,96777
+Weloka-HI,1840029563,Welokā,Weloka,HI,Weloka-HI,Hawaii,15001,Hawaii,19.9589,-155.1985,,,6,point,FALSE,Pacific/Honolulu,96780
+Volcano-HI,1840023209,Volcano,Volcano,HI,Volcano-HI,Hawaii,15001,Hawaii,19.478,-155.252,,,122.9,polygon,FALSE,Pacific/Honolulu,96785
+Whitmore Village-HI,1840029564,Whitmore Village,Whitmore Village,HI,Whitmore Village-HI,Hawaii,15003,Honolulu,21.5119,-158.0273,,,3553.3,polygon,FALSE,Pacific/Honolulu,96786
+Kualapuu-HI,1840029511,Kualapuʻu,Kualapuu,HI,Kualapuu-HI,Hawaii,15009,Maui,21.1564,-157.0592,,,497.8,polygon,FALSE,Pacific/Honolulu,96757 96729
+Halawa-HI,1840029579,Hālawa,Halawa,HI,Halawa-HI,Hawaii,15003,Honolulu,21.3753,-157.9185,,,2964.5,polygon,FALSE,Pacific/Honolulu,96818 96701 96861
+Honomu-HI,1840023197,Honomu,Honomu,HI,Honomu-HI,Hawaii,15001,Hawaii,19.8695,-155.1124,,,545.8,polygon,FALSE,Pacific/Honolulu,96728
+Kalaoa-HI,1840029493,Kalaoa,Kalaoa,HI,Kalaoa-HI,Hawaii,15001,Hawaii,19.7369,-156.0122,,,1011.1,polygon,FALSE,Pacific/Honolulu,96740
+Kahakuloa-HI,1840029489,Kahakuloa,Kahakuloa,HI,Kahakuloa-HI,Hawaii,15009,Maui,20.9959,-156.5492,,,33.1,point,FALSE,Pacific/Honolulu,96793
+Kealakekua-HI,1840029504,Kealakekua,Kealakekua,HI,Kealakekua-HI,Hawaii,15001,Hawaii,19.5286,-155.9033,,,408.3,polygon,FALSE,Pacific/Honolulu,96750
+Eleele-HI,1840029471,ʻEleʻele,Eleele,HI,Eleele-HI,Hawaii,15007,Kauai,21.9088,-159.5801,,,454.6,polygon,FALSE,Pacific/Honolulu,96705
+Waimanalo-HI,1840029558,Waimānalo,Waimanalo,HI,Waimanalo-HI,Hawaii,15003,Honolulu,21.3421,-157.7303,,,2410.2,polygon,FALSE,Pacific/Honolulu,96795
+Waialua-HI,1840023255,Waialua,Waialua,HI,Waialua-HI,Hawaii,15003,Honolulu,21.566,-158.1198,,,835.3,polygon,FALSE,Pacific/Honolulu,96791
+Lawai-HI,1840029518,Lāwaʻi,Lawai,HI,Lawai-HI,Hawaii,15007,Kauai,21.9204,-159.5006,,,671.2,polygon,FALSE,Pacific/Honolulu,96765 96756 96741
+Paia-HI,1840029539,Pāʻia,Paia,HI,Paia-HI,Hawaii,15009,Maui,20.9062,-156.3678,,,822,polygon,FALSE,Pacific/Honolulu,96779
+Maili-HI,1840029522,Māʻili,Maili,HI,Maili-HI,Hawaii,15003,Honolulu,21.4134,-158.1702,,,3247.5,polygon,FALSE,Pacific/Honolulu,96792
+Hawaiian Acres-HI,1840029572,Hawaiian Acres,Hawaiian Acres,HI,Hawaiian Acres-HI,Hawaii,15001,Hawaii,19.5325,-155.0497,,,56,polygon,FALSE,Pacific/Honolulu,96760 96771
+Keaau-HI,1840029503,Keaʻau,Keaau,HI,Keaau-HI,Hawaii,15001,Hawaii,19.6156,-155.0372,,,451.2,polygon,FALSE,Pacific/Honolulu,96749
+Wailea-HI,1840025210,Wailea,Wailea,HI,Wailea-HI,Hawaii,15009,Maui,20.6873,-156.4291,,,130.3,polygon,FALSE,Pacific/Honolulu,96790 96753
+Iroquois Point-HI,1840029590,Iroquois Point,Iroquois Point,HI,Iroquois Point-HI,Hawaii,15003,Honolulu,21.3232,-157.9777,,,2432.9,polygon,FALSE,Pacific/Honolulu,96706
+Kurtistown-HI,1840029513,Kurtistown,Kurtistown,HI,Kurtistown-HI,Hawaii,15001,Hawaii,19.5833,-155.0721,,,623.7,polygon,FALSE,Pacific/Honolulu,96760 96771 96749
+Anahola-HI,1840023211,Anahola,Anahola,HI,Anahola-HI,Hawaii,15007,Kauai,22.1455,-159.3151,,,387.6,polygon,FALSE,Pacific/Honolulu,96746 96703
+Keauhou-HI,1840029505,Keauhou,Keauhou,HI,Keauhou-HI,Hawaii,15001,Hawaii,19.5606,-155.9623,,,430.1,point,FALSE,Pacific/Honolulu,96740
+Fern Acres-HI,1840029570,Fern Acres,Fern Acres,HI,Fern Acres-HI,Hawaii,15001,Hawaii,19.5082,-155.0785,,,93.4,polygon,FALSE,Pacific/Honolulu,96771
+Pupukea-HI,1840029586,Pūpūkea,Pupukea,HI,Pupukea-HI,Hawaii,15003,Honolulu,21.6511,-158.0436,,,621.3,polygon,FALSE,Pacific/Honolulu,96712
+Waihee-HI,1840029554,Waiheʻe,Waihee,HI,Waihee-HI,Hawaii,15009,Maui,20.9309,-156.51,,,478.3,point,FALSE,Pacific/Honolulu,96793
+Eden Roc-HI,1840029569,Eden Roc,Eden Roc,HI,Eden Roc-HI,Hawaii,15001,Hawaii,19.4917,-155.0958,,,119.5,polygon,FALSE,Pacific/Honolulu,96771
+Pukalani-HI,1840029545,Pukalani,Pukalani,HI,Pukalani-HI,Hawaii,15009,Maui,20.8341,-156.3426,,,2008.6,polygon,FALSE,Pacific/Honolulu,96768 96788
+Captain Cook-HI,1840023191,Captain Cook,Captain Cook,HI,Captain Cook-HI,Hawaii,15001,Hawaii,19.4995,-155.8937,,,174.1,polygon,FALSE,Pacific/Honolulu,96704 96750
+Ewa Villages-HI,1840029578,ʻEwa Villages,Ewa Villages,HI,Ewa Villages-HI,Hawaii,15003,Honolulu,21.3418,-158.0389,,,2442.7,polygon,FALSE,Pacific/Honolulu,96706
+Wahiawa-HI,1840029550,Wahiawā,Wahiawa,HI,Wahiawa-HI,Hawaii,15003,Honolulu,21.5004,-158.02,,,2817.3,polygon,FALSE,Pacific/Honolulu,96786
+Kaaawa-HI,1840029487,Kaʻaʻawa,Kaaawa,HI,Kaaawa-HI,Hawaii,15003,Honolulu,21.5485,-157.8534,,,1023.5,polygon,FALSE,Pacific/Honolulu,96730
+Ewa Beach-HI,1840029470,ʻEwa Beach,Ewa Beach,HI,Ewa Beach-HI,Hawaii,15003,Honolulu,21.3182,-158.0073,,,4968.4,polygon,FALSE,Pacific/Honolulu,96706
+Honolulu-HI,1840013305,Honolulu,Honolulu,HI,Honolulu-HI,Hawaii,15003,Honolulu,21.3293,-157.846,836995,351792,2244,polygon,TRUE,Pacific/Honolulu,96859 96850 96815 96819 96818 96822 96826 96813 96814 96817 96816 96801 96802 96803 96804 96805 96806 96807 96808 96809 96810 96811 96812 96820 96823 96824 96828 96830 96836 96837 96838 96839 96840 96841 96843 96844 96846 96847 96848 96849 96858 96898
+Poipu-HI,1840029543,Poʻipū,Poipu,HI,Poipu-HI,Hawaii,15007,Kauai,21.8834,-159.46,,,508.6,polygon,FALSE,Pacific/Honolulu,96756
+Maalaea-HI,1840029520,Māʻalaea,Maalaea,HI,Maalaea-HI,Hawaii,15009,Maui,20.8047,-156.4898,,,181.2,polygon,FALSE,Pacific/Honolulu,96793
+Ookala-HI,1840029534,ʻŌʻōkala,Ookala,HI,Ookala-HI,Hawaii,15001,Hawaii,20.0142,-155.2842,,,85.6,point,FALSE,Pacific/Honolulu,96774
+Makakilo City-HI,1840029524,Makakilo City,Makakilo City,HI,Makakilo City-HI,Hawaii,15003,Honolulu,21.3469,-158.0858,,,3775.1,point,FALSE,Pacific/Honolulu,96707
+Waipahu-HI,1840023258,Waipahu,Waipahu,HI,Waipahu-HI,Hawaii,15003,Honolulu,21.3858,-158.0103,,,4036.9,polygon,FALSE,Pacific/Honolulu,96797
+Maunawili-HI,1840029526,Maunawili,Maunawili,HI,Maunawili-HI,Hawaii,15003,Honolulu,21.3667,-157.7713,,,606.8,polygon,FALSE,Pacific/Honolulu,96734
+Kalaupapa-HI,1840029494,Kalaupapa,Kalaupapa,HI,Kalaupapa-HI,Hawaii,15005,Kalawao,21.1895,-156.9818,,,63,point,FALSE,Pacific/Honolulu,96742
+Nanakuli-HI,1840029531,Nānākuli,Nanakuli,HI,Nanakuli-HI,Hawaii,15003,Honolulu,21.3892,-158.1445,,,4017.6,polygon,FALSE,Pacific/Honolulu,96792
+Keokea-HI,1840029506,Kēōkea,Keokea,HI,Keokea-HI,Hawaii,15009,Maui,20.7211,-156.3625,,,76.5,polygon,FALSE,Pacific/Honolulu,96790
+Kilauea-HI,1840029508,Kīlauea,Kilauea,HI,Kilauea-HI,Hawaii,15007,Kauai,22.2108,-159.3964,,,1030.8,polygon,FALSE,Pacific/Honolulu,96754
+Pakala Village-HI,1840029540,Pākalā Village,Pakala Village,HI,Pakala Village-HI,Hawaii,15007,Kauai,21.9445,-159.6436,,,283.5,polygon,FALSE,Pacific/Honolulu,96716 96769
+Mokuleia-HI,1840029528,Mokulēia,Mokuleia,HI,Mokuleia-HI,Hawaii,15003,Honolulu,21.5775,-158.1487,,,382.2,polygon,FALSE,Pacific/Honolulu,96791
+Kahuku-HI,1840029491,Kahuku,Kahuku,HI,Kahuku-HI,Hawaii,15003,Honolulu,21.6793,-157.9473,,,329.3,polygon,FALSE,Pacific/Honolulu,96731
+Makaha Valley-HI,1840029585,Mākaha Valley,Makaha Valley,HI,Makaha Valley-HI,Hawaii,15003,Honolulu,21.4842,-158.1854,,,21.7,polygon,FALSE,Pacific/Honolulu,96792
+Haena-HI,1840029566,Hāʻena,Haena,HI,Haena-HI,Hawaii,15007,Kauai,22.2186,-159.561,,,98.2,polygon,FALSE,Pacific/Honolulu,96714
+Naalehu-HI,1840029530,Nāʻālehu,Naalehu,HI,Naalehu-HI,Hawaii,15001,Hawaii,19.0698,-155.5751,,,562.9,polygon,FALSE,Pacific/Honolulu,96772
+Kaanapali-HI,1840029488,Kāʻanapali,Kaanapali,HI,Kaanapali-HI,Hawaii,15009,Maui,20.9276,-156.6795,,,55.6,polygon,FALSE,Pacific/Honolulu,96761
+Kapaa-HI,1840029499,Kapaʻa,Kapaa,HI,Kapaa-HI,Hawaii,15007,Kauai,22.091,-159.352,,,602.8,polygon,FALSE,Pacific/Honolulu,96746
+Maunaloa-HI,1840023227,Maunaloa,Maunaloa,HI,Maunaloa-HI,Hawaii,15009,Maui,21.1337,-157.2123,,,406.2,polygon,FALSE,Pacific/Honolulu,96770
+Hanalei-HI,1840023213,Hanalei,Hanalei,HI,Hanalei-HI,Hawaii,15007,Kauai,22.2041,-159.4976,,,588.5,polygon,FALSE,Pacific/Honolulu,96714
+Makaha-HI,1840029523,Mākaha,Makaha,HI,Makaha-HI,Hawaii,15003,Honolulu,21.4735,-158.2103,,,3515.5,polygon,FALSE,Pacific/Honolulu,96792
+Kaneohe-HI,1840029498,Kāneʻohe,Kaneohe,HI,Kaneohe-HI,Hawaii,15003,Honolulu,21.4062,-157.7904,,,3890.7,polygon,FALSE,Pacific/Honolulu,96744
+Paauilo-HI,1840029536,Paʻauilo,Paauilo,HI,Paauilo-HI,Hawaii,15001,Hawaii,20.0397,-155.3696,,,150.1,polygon,FALSE,Pacific/Honolulu,96776
+Kaumakani-HI,1840029501,Kaumakani,Kaumakani,HI,Kaumakani-HI,Hawaii,15007,Kauai,21.9187,-159.6241,,,630.6,polygon,FALSE,Pacific/Honolulu,96747
+Kaluaaha-HI,1840029496,Kaluaʻaha,Kaluaaha,HI,Kaluaaha-HI,Hawaii,15009,Maui,21.0666,-156.8206,,,116.2,point,FALSE,Pacific/Honolulu,96748
+Punaluu-HI,1840029546,Punaluʻu,Punaluu,HI,Punaluu-HI,Hawaii,15001,Hawaii,19.137,-155.5046,,,4.7,point,FALSE,Pacific/Honolulu,96777
+Waimanalo Beach-HI,1840029559,Waimānalo Beach,Waimanalo Beach,HI,Waimanalo Beach-HI,Hawaii,15003,Honolulu,21.3288,-157.6975,,,1122.1,polygon,FALSE,Pacific/Honolulu,96795
+Pahoa-HI,1840029538,Pāhoa,Pahoa,HI,Pahoa-HI,Hawaii,15001,Hawaii,19.4961,-154.9454,,,241.5,polygon,FALSE,Pacific/Honolulu,96778
+Lanai City-HI,1840029515,Lānaʻi City,Lanai City,HI,Lanai City-HI,Hawaii,15009,Maui,20.8279,-156.9152,,,1185,polygon,FALSE,Pacific/Honolulu,96763
+Kapaau-HI,1840029500,Kapaau,Kapaau,HI,Kapaau-HI,Hawaii,15001,Hawaii,20.2266,-155.805,,,614.1,polygon,FALSE,Pacific/Honolulu,96755
+Makawao-HI,1840023236,Makawao,Makawao,HI,Makawao-HI,Hawaii,15009,Maui,20.8484,-156.3188,,,1687.7,polygon,FALSE,Pacific/Honolulu,96768
+Mountain View-HI,1840029529,Mountain View,Mountain View,HI,Mountain View-HI,Hawaii,15001,Hawaii,19.5358,-155.1595,,,287.3,polygon,FALSE,Pacific/Honolulu,96771
+Hana-HI,1840029476,Hāna,Hana,HI,Hana-HI,Hawaii,15009,Maui,20.772,-156.0107,,,430.5,polygon,FALSE,Pacific/Honolulu,96713
+Makena-HI,1840029525,Mākena,Makena,HI,Makena-HI,Hawaii,15009,Maui,20.631,-156.4252,,,23.3,polygon,FALSE,Pacific/Honolulu,96790 96753
+Honalo-HI,1840023195,Honalo,Honalo,HI,Honalo-HI,Hawaii,15001,Hawaii,19.5787,-155.902,,,747.9,polygon,FALSE,Pacific/Honolulu,96725
+Opihikao-HI,1840029535,Opihikao,Opihikao,HI,Opihikao-HI,Hawaii,15001,Hawaii,19.4281,-154.882,,,14.1,point,FALSE,Pacific/Honolulu,96778
+Ainaloa-HI,1840029568,Ainaloa,Ainaloa,HI,Ainaloa-HI,Hawaii,15001,Hawaii,19.5214,-154.9944,,,650.7,polygon,FALSE,Pacific/Honolulu,96778
+Waiehu-HI,1840029553,Waiehu,Waiehu,HI,Waiehu-HI,Hawaii,15009,Maui,20.919,-156.4947,,,1369.2,point,FALSE,Pacific/Honolulu,96793
+Wainaku-HI,1840029560,Wainaku,Wainaku,HI,Wainaku-HI,Hawaii,15001,Hawaii,19.7449,-155.0985,,,245.2,polygon,FALSE,Pacific/Honolulu,96720
+Ualapue-HI,1840029548,ʻUalapuʻe,Ualapue,HI,Ualapue-HI,Hawaii,15009,Maui,21.0704,-156.8355,,,135.8,polygon,FALSE,Pacific/Honolulu,96748
+Hawi-HI,1840029480,Hāwī,Hawi,HI,Hawi-HI,Hawaii,15001,Hawaii,20.2392,-155.8305,,,480.2,polygon,FALSE,Pacific/Honolulu,96719 96755
+Mililani Town-HI,1840023249,Mililani Town,Mililani Town,HI,Mililani Town-HI,Hawaii,15003,Honolulu,21.4465,-158.0147,,,4239.6,polygon,FALSE,Pacific/Honolulu,96789
+Waikoloa Village-HI,1840029587,Waikoloa Village,Waikoloa Village,HI,Waikoloa Village-HI,Hawaii,15001,Hawaii,19.9285,-155.8185,,,6.7,polygon,FALSE,Pacific/Honolulu,96738
+Olowalu-HI,1840025209,Olowalu,Olowalu,HI,Olowalu-HI,Hawaii,15009,Maui,20.8222,-156.6169,,,18.6,polygon,FALSE,Pacific/Honolulu,96761
+Honokaa-HI,1840029483,Honokaʻa,Honokaa,HI,Honokaa-HI,Hawaii,15001,Hawaii,20.0746,-155.4656,,,686.2,polygon,FALSE,Pacific/Honolulu,96727
+Kalihi Wai-HI,1840029495,Kalihi Wai,Kalihi Wai,HI,Kalihi Wai-HI,Hawaii,15007,Kauai,22.2165,-159.4405,,,151,polygon,FALSE,Pacific/Honolulu,96754
+Princeville-HI,1840023223,Princeville,Princeville,HI,Princeville-HI,Hawaii,15007,Kauai,22.2177,-159.4809,,,839,polygon,FALSE,Pacific/Honolulu,96722
+Papaikou-HI,1840029542,Pāpaʻikou,Papaikou,HI,Papaikou-HI,Hawaii,15001,Hawaii,19.7917,-155.0962,,,839.3,polygon,FALSE,Pacific/Honolulu,96781
+Waiohinu-HI,1840029561,Waiʻōhinu,Waiohinu,HI,Waiohinu-HI,Hawaii,15001,Hawaii,19.0716,-155.6143,,,79.7,polygon,FALSE,Pacific/Honolulu,96772
+Holualoa-HI,1840029482,Hōlualoa,Holualoa,HI,Holualoa-HI,Hawaii,15001,Hawaii,19.6238,-155.9269,,,48.1,polygon,FALSE,Pacific/Honolulu,96725 96740
+Kahului-HI,1840023232,Kahului,Kahului,HI,Kahului-HI,Hawaii,15009,Maui,20.8717,-156.4603,,,3301.9,polygon,FALSE,Pacific/Honolulu,96732 96733 96784
+Leilani Estates-HI,1840029573,Leilani Estates,Leilani Estates,HI,Leilani Estates-HI,Hawaii,15001,Hawaii,19.4659,-154.9157,,,158.8,polygon,FALSE,Pacific/Honolulu,96778
+Kipahulu-HI,1840029509,Kīpahulu,Kipahulu,HI,Kipahulu-HI,Hawaii,15009,Maui,20.6547,-156.0553,,,23.1,point,FALSE,Pacific/Honolulu,96713
+Heeia-HI,1840029481,Heʻeia,Heeia,HI,Heeia-HI,Hawaii,15003,Honolulu,21.4211,-157.8203,,,1261.9,polygon,FALSE,Pacific/Honolulu,96744
+Kekaha-HI,1840023218,Kekaha,Kekaha,HI,Kekaha-HI,Hawaii,15007,Kauai,21.9684,-159.7141,,,760.6,polygon,FALSE,Pacific/Honolulu,96752
+Kukuihaele-HI,1840029512,Kukuihaele,Kukuihaele,HI,Kukuihaele-HI,Hawaii,15001,Hawaii,20.1195,-155.5654,,,107,polygon,FALSE,Pacific/Honolulu,96727
+Halaula-HI,1840029473,Halaʻula,Halaula,HI,Halaula-HI,Hawaii,15001,Hawaii,20.226,-155.7816,,,140,polygon,FALSE,Pacific/Honolulu,96755
+Orchidlands Estates-HI,1840029575,Orchidlands Estates,Orchidlands Estates,HI,Orchidlands Estates-HI,Hawaii,15001,Hawaii,19.557,-155.0142,,,99.2,polygon,FALSE,Pacific/Honolulu,96749
+Nanawale Estates-HI,1840029574,Nanawale Estates,Nanawale Estates,HI,Nanawale Estates-HI,Hawaii,15001,Hawaii,19.5042,-154.9117,,,261.2,polygon,FALSE,Pacific/Honolulu,96778
+Wailua-HI,1840029557,Wailua,Wailua,HI,Wailua-HI,Hawaii,15009,Maui,20.8452,-156.1326,,,48.5,point,FALSE,Pacific/Honolulu,96708
+Pepeekeo-HI,1840023207,Pepeekeo,Pepeekeo,HI,Pepeekeo-HI,Hawaii,15001,Hawaii,19.8316,-155.1061,,,894,polygon,FALSE,Pacific/Honolulu,96783
+Honokahua-HI,1840029484,Honokahua,Honokahua,HI,Honokahua-HI,Hawaii,15009,Maui,20.9984,-156.6587,,,264.2,point,FALSE,Pacific/Honolulu,96761
+Kailua-HI,1840023244,Kailua,Kailua,HI,Kailua-HI,Hawaii,15003,Honolulu,21.3921,-157.7397,,,1919.3,polygon,FALSE,Pacific/Honolulu,96734
+Kalaheo-HI,1840029492,Kalāheo,Kalaheo,HI,Kalaheo-HI,Hawaii,15007,Kauai,21.9159,-159.5236,,,987.2,polygon,FALSE,Pacific/Honolulu,96741
+Hawaiian Ocean View-HI,1840029581,Hawaiian Ocean View,Hawaiian Ocean View,HI,Hawaiian Ocean View-HI,Hawaii,15001,Hawaii,19.0968,-155.7746,,,42.1,polygon,FALSE,Pacific/Honolulu,96737
+Fern Forest-HI,1840029571,Fern Forest,Fern Forest,HI,Fern Forest-HI,Hawaii,15001,Hawaii,19.4648,-155.1324,,,40.6,polygon,FALSE,Pacific/Honolulu,96771
+Puako-HI,1840023208,Puako,Puako,HI,Puako-HI,Hawaii,15001,Hawaii,19.9389,-155.8604,,,62.9,polygon,FALSE,Pacific/Honolulu,96738 96743
+Waimalu-HI,1840029588,Waimalu,Waimalu,HI,Waimalu-HI,Hawaii,15003,Honolulu,21.3913,-157.9345,,,2662.2,polygon,FALSE,Pacific/Honolulu,96701
+WaiKane-HI,1840029555,WaiKāne,WaiKane,HI,WaiKane-HI,Hawaii,15003,Honolulu,21.4921,-157.8721,,,86.1,polygon,FALSE,Pacific/Honolulu,96744
+Hoolehua-HI,1840029486,Hoʻolehua,Hoolehua,HI,Hoolehua-HI,Hawaii,15009,Maui,21.1675,-157.0688,,,63.4,point,FALSE,Pacific/Honolulu,96729
+Papaaloa-HI,1840029541,Pāpaʻaloa,Papaaloa,HI,Papaaloa-HI,Hawaii,15001,Hawaii,19.9751,-155.2203,,,325.8,point,FALSE,Pacific/Honolulu,96780
+Haleiwa-HI,1840029474,Haleʻiwa,Haleiwa,HI,Haleiwa-HI,Hawaii,15003,Honolulu,21.5871,-158.1074,,,819.1,polygon,FALSE,Pacific/Honolulu,96712 96791
+Discovery Harbour-HI,1840029592,Discovery Harbour,Discovery Harbour,HI,Discovery Harbour-HI,Hawaii,15001,Hawaii,19.0415,-155.6254,,,198.1,polygon,FALSE,Pacific/Honolulu,96772
+Kihei-HI,1840029507,Kīhei,Kihei,HI,Kihei-HI,Hawaii,15009,Maui,20.7646,-156.4453,,,2643.4,polygon,FALSE,Pacific/Honolulu,96753
+Aiea-HI,1840029469,ʻAiea,Aiea,HI,Aiea-HI,Hawaii,15003,Honolulu,21.3865,-157.9232,,,2685.5,polygon,FALSE,Pacific/Honolulu,96701
+Paukaa-HI,1840023206,Paukaa,Paukaa,HI,Paukaa-HI,Hawaii,15001,Hawaii,19.7625,-155.0948,,,681.1,polygon,FALSE,Pacific/Honolulu,96720
+Hawaiian Beaches-HI,1840029580,Hawaiian Beaches,Hawaiian Beaches,HI,Hawaiian Beaches-HI,Hawaii,15001,Hawaii,19.5422,-154.9223,,,112.8,polygon,FALSE,Pacific/Honolulu,96778
+Wainiha-HI,1840029567,Wainiha,Wainiha,HI,Wainiha-HI,Hawaii,15007,Kauai,22.1982,-159.5456,,,168.4,polygon,FALSE,Pacific/Honolulu,96714
+Milolii-HI,1840029527,Miloliʻi,Milolii,HI,Milolii-HI,Hawaii,15001,Hawaii,19.186,-155.9062,,,165.8,point,FALSE,Pacific/Honolulu,96704
+Puhi-HI,1840029544,Puhi,Puhi,HI,Puhi-HI,Hawaii,15007,Kauai,21.962,-159.3918,,,1605.8,polygon,FALSE,Pacific/Honolulu,96766
+Hanamaulu-HI,1840029477,Hanamāʻulu,Hanamaulu,HI,Hanamaulu-HI,Hawaii,15007,Kauai,21.9953,-159.3494,,,1658.8,polygon,FALSE,Pacific/Honolulu,96766 96715
+Ahuimanu-HI,1840029468,ʻĀhuimanu,Ahuimanu,HI,Ahuimanu-HI,Hawaii,15003,Honolulu,21.4379,-157.8404,,,2191.8,polygon,FALSE,Pacific/Honolulu,96744
+Glenwood-HI,1840029472,Glenwood,Glenwood,HI,Glenwood-HI,Hawaii,15001,Hawaii,19.4878,-155.1514,,,8.6,point,FALSE,Pacific/Honolulu,96771
+Pearl City-HI,1840023251,Pearl City,Pearl City,HI,Pearl City-HI,Hawaii,15003,Honolulu,21.4031,-157.9566,,,3140.4,polygon,FALSE,Pacific/Honolulu,96701 96782
+Kawela Bay-HI,1840029584,Kawela Bay,Kawela Bay,HI,Kawela Bay-HI,Hawaii,15003,Honolulu,21.6991,-158.0026,,,262.5,polygon,FALSE,Pacific/Honolulu,96731
+Kapolei-HI,1840025211,Kapolei,Kapolei,HI,Kapolei-HI,Hawaii,15003,Honolulu,21.3403,-158.0665,,,4494.9,polygon,FALSE,Pacific/Honolulu,96707
+Kawaihae-HI,1840029502,Kawaihae,Kawaihae,HI,Kawaihae-HI,Hawaii,15001,Hawaii,20.0354,-155.8265,,,16.4,point,FALSE,Pacific/Honolulu,96743
+Kahaluu-HI,1840029490,Kahaluʻu,Kahaluu,HI,Kahaluu-HI,Hawaii,15003,Honolulu,21.4575,-157.8453,,,390.6,polygon,FALSE,Pacific/Honolulu,96744
+Koloa-HI,1840029510,Kōloa,Koloa,HI,Koloa-HI,Hawaii,15007,Kauai,21.903,-159.461,,,1312.6,polygon,FALSE,Pacific/Honolulu,96756
+Waipio-HI,1840029589,Waipiʻo,Waipio,HI,Waipio-HI,Hawaii,15003,Honolulu,21.4143,-157.9965,,,2737.1,polygon,FALSE,Pacific/Honolulu,96797
