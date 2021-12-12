@@ -1,3 +1,3 @@
 # Energy-Map
 
-![alt text](https://github.com/FreshLeaf8865/Energy-Map/blob/master/energymap.png)
+![alt text](https://github.com/AlphanetRa/Energy_Map/blob/master/energymap.png)
