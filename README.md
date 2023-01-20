@@ -1,3 +1,3 @@
-# Energy-Map
+# Energy Map
 
-![alt text](https://github.com/AlphanetRa/Energy_Map/blob/master/energymap.png)
+![Energy map screenshot](https://github.com/RA-Tech-Group/energy-map/blob/master/energymap.png)
